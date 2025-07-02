@@ -36,7 +36,7 @@ $ wget -c -O data/embeddings/concept_skipgram.json https://ftp.ncbi.nlm.nih.gov/
 
 ### Our skip-gram embeddings
 
-Skip-gram embeddings trained on PubMed abstracts in 5-year windows from 1970 are available on ([Google Drive](https://drive.google.com/drive/folders/1G5v_G9sP0z8XDPb7MbSkWwvJVTKb-hbD?usp=sharing)).
+Skip-gram embeddings trained on PubMed abstracts in 5-year windows from 1970 are available on [Google Drive](https://drive.google.com/drive/folders/1G5v_G9sP0z8XDPb7MbSkWwvJVTKb-hbD?usp=sharing).
 
 ### Generating the experimental dataset
 
