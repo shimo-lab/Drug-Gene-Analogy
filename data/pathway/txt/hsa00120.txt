@@ -1,0 +1,120 @@
+ENTRY       hsa00120                    Pathway
+NAME        Primary bile acid biosynthesis - Homo sapiens (human)
+DESCRIPTION Bile acids are steroid carboxylic acids derived from cholesterol in vertebrates. The primary bile acids, cholic acid and chenodeoxycholic acid, are synthesized in the liver and conjugated with taurine or glycine before secretion via bile into the intestine. The conversion from cholesterol to cholic and chenodeoxycholic acids involves four steps: 1) the initiation of synthesis by 7alpha-hydroxylation of sterol precursors, 2) further modifications to the ring structures, 3) side-chain oxidation and shortening (cleavage) by three carbons, and 4) conjugation of the bile acid with taurine or glycine.
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP hsa00120  Primary bile acid biosynthesis
+MODULE      hsa_M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate [PATH:hsa00120]
+            hsa_M00106  Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate [PATH:hsa00120]
+            hsa_M00862  beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA [PATH:hsa00120]
+NETWORK     nt06021  beta-Oxidation in peroxisome
+            nt06022  Bile acid biosynthesis
+  ELEMENT   N00779  beta-Oxidation, peroxisome, bile acid
+            N00805  Bile acid biosynthesis
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10858  CYP46A1; cytochrome P450 family 46 subfamily A member 1 [KO:K07440] [EC:1.14.14.25]
+            51302  CYP39A1; cytochrome P450 family 39 subfamily A member 1 [KO:K07439] [EC:1.14.14.26]
+            80270  HSD3B7; hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7 [KO:K12408] [EC:1.1.1.181]
+            9023  CH25H; cholesterol 25-hydroxylase [KO:K10223] [EC:1.14.99.38]
+            9420  CYP7B1; cytochrome P450 family 7 subfamily B member 1 [KO:K07430] [EC:1.14.14.29]
+            1581  CYP7A1; cytochrome P450 family 7 subfamily A member 1 [KO:K00489] [EC:1.14.14.23]
+            1593  CYP27A1; cytochrome P450 family 27 subfamily A member 1 [KO:K00488] [EC:1.14.15.15]
+            1582  CYP8B1; cytochrome P450 family 8 subfamily B member 1 [KO:K07431] [EC:1.14.14.139]
+            6718  AKR1D1; aldo-keto reductase family 1 member D1 [KO:K00251] [EC:1.3.1.3]
+            1109  AKR1C4; aldo-keto reductase family 1 member C4 [KO:K00037] [EC:1.1.1.50 1.1.1.357 1.1.1.225]
+            10998  SLC27A5; solute carrier family 27 member 5 [KO:K08748] [EC:6.2.1.7]
+            23600  AMACR; alpha-methylacyl-CoA racemase [KO:K01796] [EC:5.1.99.4]
+            8309  ACOX2; acyl-CoA oxidase 2 [KO:K10214] [EC:1.17.99.3]
+            3295  HSD17B4; hydroxysteroid 17-beta dehydrogenase 4 [KO:K12405] [EC:1.1.1.- 4.2.1.107 4.2.1.119]
+            6342  SCP2; sterol carrier protein 2 [KO:K08764] [EC:2.3.1.176]
+            10005  ACOT8; acyl-CoA thioesterase 8 [KO:K11992] [EC:3.1.2.27]
+            570  BAAT; bile acid-CoA:amino acid N-acyltransferase [KO:K00659] [EC:2.3.1.65 3.1.2.2]
+COMPOUND    C00037  Glycine
+            C00187  Cholesterol
+            C00245  Taurine
+            C00695  Cholic acid
+            C01301  3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al
+            C01794  Choloyl-CoA
+            C01921  Glycocholate
+            C02528  Chenodeoxycholate
+            C03594  7alpha-Hydroxycholesterol
+            C04554  3alpha,7alpha-Dihydroxy-5beta-cholestanate
+            C04722  3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate
+            C05122  Taurocholate
+            C05337  Chenodeoxycholoyl-CoA
+            C05444  3alpha,7alpha,26-Trihydroxy-5beta-cholestane
+            C05445  3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al
+            C05446  3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane
+            C05447  (24E)-3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA
+            C05448  (24R,25R)-3alpha,7alpha,24-Trihydroxy-5beta-cholestanoyl-CoA
+            C05449  3alpha,7alpha-Dihydroxy-5beta-24-oxocholestanoyl-CoA
+            C05451  7alpha-Hydroxy-5beta-cholestan-3-one
+            C05452  3alpha,7alpha-Dihydroxy-5beta-cholestane
+            C05453  7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one
+            C05454  3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestane
+            C05455  7alpha-Hydroxycholest-4-en-3-one
+            C05460  (24E)-3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA
+            C05465  Taurochenodeoxycholate
+            C05466  Glycochenodeoxycholate
+            C05467  3alpha,7alpha,12alpha-Trihydroxy-5beta-24-oxocholestanoyl-CoA
+            C05468  5beta-Cyprinolsulfate
+            C06341  7alpha,27-Dihydroxycholesterol
+            C13550  Cerebrosterol
+            C15518  (24S)-Cholest-5-ene-3beta,7alpha,24-triol
+            C15519  25-Hydroxycholesterol
+            C15520  Cholest-5-ene-3beta,7alpha,25-triol
+            C15610  Cholest-5-ene-3beta,26-diol
+            C15613  (25R)-3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-oyl-CoA
+            C15614  (24R,25R)-3alpha,7alpha,12alpha,24-Tetrahydroxy-5beta-cholestanoyl-CoA
+            C17331  7alpha,24-Dihydroxy-4-cholesten-3-one
+            C17332  7alpha,25-Dihydroxy-4-cholesten-3-one
+            C17333  3beta-Hydroxy-5-cholestenoate
+            C17335  3beta,7alpha-Dihydroxy-5-cholestenoate
+            C17336  7alpha,26-Dihydroxy-4-cholesten-3-one
+            C17337  7alpha-Hydroxy-3-oxo-4-cholestenoate
+            C17339  4-Cholesten-7alpha,12alpha-diol-3-one
+            C17343  (25S)-3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-oyl-CoA
+            C17345  (25R)-3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA
+            C17346  (25S)-3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA
+REFERENCE   PMID:12543708
+  AUTHORS   Russell DW
+  TITLE     The enzymes, regulation, and genetics of bile acid synthesis.
+  JOURNAL   Annu Rev Biochem 72:137-74 (2003)
+            DOI:10.1146/annurev.biochem.72.121801.161712
+REFERENCE   PMID:17346171
+  AUTHORS   Norlin M, Wikvall K
+  TITLE     Enzymes in the conversion of cholesterol into bile acids.
+  JOURNAL   Curr Mol Med 7:199-218 (2007)
+            DOI:10.2174/156652407780059168
+REFERENCE   PMID:10198776
+  AUTHORS   Vlahcevic ZR, Pandak WM, Stravitz RT
+  TITLE     Regulation of bile acid biosynthesis.
+  JOURNAL   Gastroenterol Clin North Am 28:1-25, v (1999)
+            DOI:10.1016/S0889-8553(05)70041-8
+REFERENCE   PMID:18081658
+  AUTHORS   Pellicoro A, Faber KN
+  TITLE     Review article: The function and regulation of proteins involved in bile salt biosynthesis and transport.
+  JOURNAL   Aliment Pharmacol Ther 26 Suppl 2:149-60 (2007)
+            DOI:10.1111/j.1365-2036.2007.03522.x
+REFERENCE   PMID:18488143
+  AUTHORS   Hofmann AF, Hagey LR
+  TITLE     Bile acids: chemistry, pathochemistry, biology, pathobiology, and therapeutics.
+  JOURNAL   Cell Mol Life Sci 65:2461-83 (2008)
+            DOI:10.1007/s00018-008-7568-6
+REFERENCE   PMID:11067870
+  AUTHORS   Schwarz M, Wright AC, Davis DL, Nazer H, Bjorkhem I, Russell DW
+  TITLE     The bile acid synthetic gene 3beta-hydroxy-Delta(5)-C(27)-steroid oxidoreductase is mutated in progressive intrahepatic cholestasis.
+  JOURNAL   J Clin Invest 106:1175-84 (2000)
+            DOI:10.1172/JCI10902
+REFERENCE   PMID:16299351
+  AUTHORS   Ridlon JM, Kang DJ, Hylemon PB
+  TITLE     Bile salt biotransformations by human intestinal bacteria.
+  JOURNAL   J Lipid Res 47:241-59 (2006)
+            DOI:10.1194/jlr.R500013-JLR200
+REFERENCE   PMID:9292932
+  AUTHORS   Bortolini O, Medici A, Poli S
+  TITLE     Biotransformations on steroid nucleus of bile acids.
+  JOURNAL   Steroids 62:564-77 (1997)
+            DOI:10.1016/S0039-128X(97)00043-3
+REL_PATHWAY hsa00100  Steroid biosynthesis
+KO_PATHWAY  ko00120
+///

@@ -1,0 +1,113 @@
+ENTRY       hsa04744                    Pathway
+NAME        Phototransduction - Homo sapiens (human)
+DESCRIPTION Phototransduction is a biochemical process by which the photoreceptor cells generate electrical signals in response to captured photons. The vertebrate cascade starts with the absorption of photons by the photoreceptive pigments, the rhodopsins, which consist of a membrane embedded chromophore, 11-cis-retinal, and a G-protein-coupled receptor, opsin. The photon isomerizes 11-cis-retinal to all-trans-retinal which induces a structural change that activates the opsin. This triggers hydrolysis of cGMP by activating a transducinphosphodiesterase 6 (PDE6) cascade, which results in closure of the cGMP-gated cation channels (CNG) in the plasma membrane and membrane hyperpolarization. The hyperpolarization of the membrane potential of the photoreceptor cell modulates the release of neurotransmitters to downstream cells. Recovery from light involves the deactivation of the light- activated intermediates: photolyzed rhodopsin is phosphorylated by rhodopsin kinase (RK) and subsequently capped off by arrestin; GTP-binding transducin alpha subunit deactivates through a process that is stimulated by RGS9.
+CLASS       Organismal Systems; Sensory system
+PATHWAY_MAP hsa04744  Phototransduction
+DBLINKS     GO: 0009586
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6010  RHO; rhodopsin [KO:K04250]
+            131890  GRK7; G protein-coupled receptor kinase 7 [KO:K00909] [EC:2.7.11.14]
+            6011  GRK1; G protein-coupled receptor kinase 1 [KO:K00909] [EC:2.7.11.14]
+            5957  RCVRN; recoverin [KO:K13764]
+            6295  SAG; S-antigen visual arrestin [KO:K19627]
+            2780  GNAT2; G protein subunit alpha transducin 2 [KO:K04631]
+            2779  GNAT1; G protein subunit alpha transducin 1 [KO:K04631]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            8787  RGS9; regulator of G protein signaling 9 [KO:K13765]
+            5145  PDE6A; phosphodiesterase 6A [KO:K08718] [EC:3.1.4.35]
+            5158  PDE6B; phosphodiesterase 6B [KO:K13756] [EC:3.1.4.35]
+            5148  PDE6G; phosphodiesterase 6G [KO:K13759]
+            3000  GUCY2D; guanylate cyclase 2D, retinal [KO:K12321] [EC:4.6.1.2]
+            2986  GUCY2F; guanylate cyclase 2F, retinal [KO:K12322] [EC:4.6.1.2]
+            2978  GUCA1A; guanylate cyclase activator 1A [KO:K08328]
+            2979  GUCA1B; guanylate cyclase activator 1B [KO:K08328]
+            9626  GUCA1C; guanylate cyclase activator 1C [KO:K08328]
+            118142757  GUCA1A; GUCA1ANB-GUCA1A readthrough [KO:K08328]
+            9187  SLC24A1; solute carrier family 24 member 1 [KO:K13749]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            1259  CNGA1; cyclic nucleotide gated channel subunit alpha 1 [KO:K04948]
+            1258  CNGB1; cyclic nucleotide gated channel subunit beta 1 [KO:K04952]
+COMPOUND    C00076  Calcium cation
+            C00144  GMP
+            C00238  Potassium cation
+            C00305  Magnesium cation
+            C00376  Retinal
+            C00942  3',5'-Cyclic GMP
+            C01330  Sodium cation
+            C02110  11-cis-Retinal
+REFERENCE   PMID:19837030
+  AUTHORS   Yau KW, Hardie RC
+  TITLE     Phototransduction motifs and variations.
+  JOURNAL   Cell 139:246-64 (2009)
+            DOI:10.1016/j.cell.2009.09.029
+REFERENCE   PMID:11952100
+  AUTHORS   Koch KW, Duda T, Sharma RK
+  TITLE     Photoreceptor specific guanylate cyclases in vertebrate phototransduction.
+  JOURNAL   Mol Cell Biochem 230:97-106 (2002)
+REFERENCE   PMID:9803480
+  AUTHORS   Jindrova H
+  TITLE     Vertebrate phototransduction: activation, recovery, and adaptation.
+  JOURNAL   Physiol Res 47:155-68 (1998)
+REFERENCE   PMID:11070368
+  AUTHORS   Ebrey T, Koutalos Y
+  TITLE     Vertebrate photoreceptors.
+  JOURNAL   Prog Retin Eye Res 20:49-94 (2001)
+            DOI:10.1016/S1350-9462(00)00014-8
+REFERENCE   PMID:11587916
+  AUTHORS   Pepe IM
+  TITLE     Recent advances in our understanding of rhodopsin and phototransduction.
+  JOURNAL   Prog Retin Eye Res 20:733-59 (2001)
+            DOI:10.1016/S1350-9462(01)00013-1
+REFERENCE   PMID:11551982
+  AUTHORS   Kramer RH, Molokanova E
+  TITLE     Modulation of cyclic-nucleotide-gated channels and regulation of vertebrate phototransduction.
+  JOURNAL   J Exp Biol 204:2921-31 (2001)
+REFERENCE   PMID:19720650
+  AUTHORS   Larhammar D, Nordstrom K, Larsson TA
+  TITLE     Evolution of vertebrate rod and cone phototransduction genes.
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 364:2867-80 (2009)
+            DOI:10.1098/rstb.2009.0077
+REFERENCE   PMID:19953307
+  AUTHORS   Dizhoor AM, Olshevskaya EV, Peshenko IV
+  TITLE     Mg2+/Ca2+ cation binding cycle of guanylyl cyclase activating proteins (GCAPs): role in regulation of photoreceptor guanylyl cyclase.
+  JOURNAL   Mol Cell Biochem 334:117-24 (2010)
+            DOI:10.1007/s11010-009-0328-6
+REFERENCE   PMID:12161344
+  AUTHORS   Krizaj D, Copenhagen DR
+  TITLE     Calcium regulation in photoreceptors.
+  JOURNAL   Front Biosci 7:d2023-44 (2002)
+REFERENCE   PMID:9893707
+  AUTHORS   Shichida Y, Imai H
+  TITLE     Visual pigment: G-protein-coupled receptor for light signals.
+  JOURNAL   Cell Mol Life Sci 54:1299-315 (1998)
+            DOI:10.1007/s000180050256
+REFERENCE   PMID:9419388
+  AUTHORS   Pugh EN Jr, Duda T, Sitaramayya A, Sharma RK
+  TITLE     Photoreceptor guanylate cyclases: a review.
+  JOURNAL   Biosci Rep 17:429-73 (1997)
+            DOI:10.1023/A:1027365520442
+REFERENCE   PMID:18632568
+  AUTHORS   Luo DG, Xue T, Yau KW
+  TITLE     How vision begins: an odyssey.
+  JOURNAL   Proc Natl Acad Sci U S A 105:9855-62 (2008)
+            DOI:10.1073/pnas.0708405105
+REFERENCE   PMID:17545152
+  AUTHORS   Peshenko IV, Dizhoor AM
+  TITLE     Activation and inhibition of photoreceptor guanylyl cyclase by guanylyl cyclase activating protein 1 (GCAP-1): the functional role of Mg2+/Ca2+ exchange in EF-hand domains.
+  JOURNAL   J Biol Chem 282:21645-52 (2007)
+            DOI:10.1074/jbc.M702368200
+REFERENCE   PMID:13678959
+  AUTHORS   Ridge KD, Abdulaev NG, Sousa M, Palczewski K
+  TITLE     Phototransduction: crystal clear.
+  JOURNAL   Trends Biochem Sci 28:479-87 (2003)
+            DOI:10.1016/S0968-0004(03)00172-5
+REL_PATHWAY hsa00830  Retinol metabolism
+KO_PATHWAY  ko04744
+///

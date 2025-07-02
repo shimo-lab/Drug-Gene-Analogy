@@ -1,0 +1,134 @@
+ENTRY       hsa05030                    Pathway
+NAME        Cocaine addiction - Homo sapiens (human)
+DESCRIPTION Drug addiction is a chronic, relapsing disorder in which compulsive drug-seeking and drug-taking behavior persists despite serious negative consequences.There is strong evidence that the dopaminergic system that projects from the ventral tegmental area (VTA) of the midbrain to the nucleus accumbens (NAc), and to other forebrain sites, is the major substrate of reward and reinforcement for both natural rewards and addictive drugs. Cocaine binds strongly to the dopamine-reuptake transporter, preventing the reuptake of dopamine into the nerve terminal. Because of this blocking effect, dopamine remains at high concentrations in the synapse and continues to affect adjacent neurons, producing the characteristic cocaine "high." Activated D1 receptor activates the PKA signaling pathway, and this pathway plays a critical role in mediating the behavioral responses to cocaine administration. Cocaine-induced neuroadaptations, including dopamine depletion, may underlie craving and hedonic dysregulation.
+CLASS       Human Diseases; Substance dependence
+PATHWAY_MAP hsa05030  Cocaine addiction
+DRUG        D00110  Cocaine (USP)
+            D02182  Cocaine hydrochloride (JP18/USP)
+            D05663  Pyrovalerone hydrochloride (USAN)
+DBLINKS     GO: 0042220
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7054  TH; tyrosine hydroxylase [KO:K00501] [EC:1.14.16.2]
+            1644  DDC; dopa decarboxylase [KO:K01593] [EC:4.1.1.28 4.1.1.105]
+            6570  SLC18A1; solute carrier family 18 member A1 [KO:K08155]
+            6571  SLC18A2; solute carrier family 18 member A2 [KO:K08155]
+            4129  MAOB; monoamine oxidase B [KO:K00274] [EC:1.4.3.4]
+            4128  MAOA; monoamine oxidase A [KO:K00274] [EC:1.4.3.4]
+            6531  SLC6A3; solute carrier family 6 member 3 [KO:K05036]
+            1812  DRD1; dopamine receptor D1 [KO:K04144]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            2912  GRM2; glutamate metabotropic receptor 2 [KO:K04605]
+            2913  GRM3; glutamate metabotropic receptor 3 [KO:K04606]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            1813  DRD2; dopamine receptor D2 [KO:K04145]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            26086  GPSM1; G protein signaling modulator 1 [KO:K15839]
+            8787  RGS9; regulator of G protein signaling 9 [KO:K13765]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            5173  PDYN; prodynorphin [KO:K15840]
+            627  BDNF; brain derived neurotrophic factor [KO:K04355]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            2354  FOSB; FosB proto-oncogene, AP-1 transcription factor subunit [KO:K09029]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            1020  CDK5; cyclin dependent kinase 5 [KO:K02090] [EC:2.7.11.22]
+            8851  CDK5R1; cyclin dependent kinase 5 regulatory subunit 1 [KO:K11716]
+            2902  GRIN1; glutamate ionotropic receptor NMDA type subunit 1 [KO:K05208]
+            2903  GRIN2A; glutamate ionotropic receptor NMDA type subunit 2A [KO:K05209]
+            2904  GRIN2B; glutamate ionotropic receptor NMDA type subunit 2B [KO:K05210]
+            2905  GRIN2C; glutamate ionotropic receptor NMDA type subunit 2C [KO:K05211]
+            2906  GRIN2D; glutamate ionotropic receptor NMDA type subunit 2D [KO:K05212]
+            116443  GRIN3A; glutamate ionotropic receptor NMDA type subunit 3A [KO:K05213]
+            116444  GRIN3B; glutamate ionotropic receptor NMDA type subunit 3B [KO:K05214]
+            1742  DLG4; discs large MAGUK scaffold protein 4 [KO:K11828]
+            84152  PPP1R1B; protein phosphatase 1 regulatory inhibitor subunit 1B [KO:K15494]
+            2891  GRIA2; glutamate ionotropic receptor AMPA type subunit 2 [KO:K05198]
+COMPOUND    C00025  L-Glutamate
+            C00027  Hydrogen peroxide
+            C00082  L-Tyrosine
+            C00355  3,4-Dihydroxy-L-phenylalanine
+            C00575  3',5'-Cyclic AMP
+            C01161  3,4-Dihydroxyphenylacetate
+            C03758  Dopamine
+            D00110  Cocaine (USP)
+REFERENCE   PMID:16278489
+  AUTHORS   Ron D, Jurd R
+  TITLE     The "ups and downs" of signaling cascades in addiction.
+  JOURNAL   Sci STKE 2005:re14 (2005)
+            DOI:10.1126/stke.3092005re14
+REFERENCE   PMID:18440072
+  AUTHORS   Cunha-Oliveira T, Rego AC, Oliveira CR
+  TITLE     Cellular and molecular mechanisms involved in the neurotoxicity of opioid and psychostimulant drugs.
+  JOURNAL   Brain Res Rev 58:192-208 (2008)
+            DOI:10.1016/j.brainresrev.2008.03.002
+REFERENCE   PMID:19403004
+  AUTHORS   Chen JC, Chen PC, Chiang YC
+  TITLE     Molecular mechanisms of psychostimulant addiction.
+  JOURNAL   Chang Gung Med J 32:148-54 (2009)
+REFERENCE   PMID:16251986
+  AUTHORS   Nestler EJ
+  TITLE     Is there a common molecular pathway for addiction?
+  JOURNAL   Nat Neurosci 8:1445-9 (2005)
+            DOI:10.1038/nn1578
+REFERENCE   PMID:15091342
+  AUTHORS   Bowers MS, McFarland K, Lake RW, Peterson YK, Lapish CC, Gregory ML, Lanier SM, Kalivas PW
+  TITLE     Activator of G protein signaling 3: a gatekeeper of cocaine sensitization and drug seeking.
+  JOURNAL   Neuron 42:269-81 (2004)
+            DOI:10.1016/S0896-6273(04)00159-X
+REFERENCE   PMID:12818179
+  AUTHORS   Rahman Z, Schwarz J, Gold SJ, Zachariou V, Wein MN, Choi KH, Kovoor A, Chen CK, DiLeone RJ, Schwarz SC, Selley DE, Sim-Selley LJ, Barrot M, Luedtke RR, Self D, Neve RL, Lester HA, Simon MI, Nestler EJ
+  TITLE     RGS9 modulates dopamine signaling in the basal ganglia.
+  JOURNAL   Neuron 38:941-52 (2003)
+            DOI:10.1016/S0896-6273(03)00321-0
+REFERENCE   PMID:10234039
+  AUTHORS   Horger BA, Iyasere CA, Berhow MT, Messer CJ, Nestler EJ, Taylor JR
+  TITLE     Enhancement of locomotor activity and conditioned reward to cocaine by brain-derived neurotrophic factor.
+  JOURNAL   J Neurosci 19:4110-22 (1999)
+            DOI:10.1523/JNEUROSCI.19-10-04110.1999
+REFERENCE   PMID:12064476
+  AUTHORS   Mash DC, Pablo J, Ouyang Q, Hearn WL, Izenwasser S
+  TITLE     Dopamine transport function is elevated in cocaine users.
+  JOURNAL   J Neurochem 81:292-300 (2002)
+            DOI:10.1046/j.1471-4159.2002.00820.x
+REFERENCE   PMID:14566342
+  AUTHORS   McClung CA, Nestler EJ
+  TITLE     Regulation of gene expression and cocaine reward by CREB and DeltaFosB.
+  JOURNAL   Nat Neurosci 6:1208-15 (2003)
+            DOI:10.1038/nn1143
+REFERENCE   PMID:15582154
+  AUTHORS   McClung CA, Ulery PG, Perrotti LI, Zachariou V, Berton O, Nestler EJ
+  TITLE     DeltaFosB: a molecular switch for long-term adaptation in the brain.
+  JOURNAL   Brain Res Mol Brain Res 132:146-54 (2004)
+            DOI:10.1016/j.molbrainres.2004.05.014
+REFERENCE   PMID:11595774
+  AUTHORS   Ang E, Chen J, Zagouras P, Magna H, Holland J, Schaeffer E, Nestler EJ
+  TITLE     Induction of nuclear factor-kappaB in nucleus accumbens by chronic cocaine administration.
+  JOURNAL   J Neurochem 79:221-4 (2001)
+            DOI:10.1046/j.1471-4159.2001.00563.x
+REFERENCE   PMID:11268215
+  AUTHORS   Bibb JA, Chen J, Taylor JR, Svenningsson P, Nishi A, Snyder GL, Yan Z, Sagawa ZK, Ouimet CC, Nairn AC, Nestler EJ, Greengard P
+  TITLE     Effects of chronic exposure to cocaine are regulated by the neuronal protein Cdk5.
+  JOURNAL   Nature 410:376-80 (2001)
+            DOI:10.1038/35066591
+REFERENCE   PMID:14746512
+  AUTHORS   Chao J, Nestler EJ
+  TITLE     Molecular neurobiology of drug addiction.
+  JOURNAL   Annu Rev Med 55:113-32 (2004)
+            DOI:10.1146/annurev.med.55.091902.103730
+REL_PATHWAY hsa04728  Dopaminergic synapse
+KO_PATHWAY  ko05030
+///

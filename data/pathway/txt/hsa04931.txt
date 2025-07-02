@@ -1,0 +1,243 @@
+ENTRY       hsa04931                    Pathway
+NAME        Insulin resistance - Homo sapiens (human)
+DESCRIPTION Insulin resistance is a condition where cells become resistant to the effects of insulin. It is often found in people with health disorders, including obesity, type 2 diabetes mellitus, non-alcoholic fatty liver disease, and cardiovascular diseases. In this diagram multiple mechanisms underlying insulin resistance are shown: (a) increased phosphorylation of IRS (insulin receptor substrate) protein through serine/threonine kinases, such as JNK1 and IKKB, and protein kinase C, (b) increased IRS-1 proteasome degradation via mTOR signaling pathway, (c) decreased activation of signaling molecules including PI3K and AKT, (d) increase in activity of phosphatases including PTPs, PTEN, and PP2A. Regulatory actions such as oxidative stress, mitochondrial dysfunction, accumulation of intracellular lipid derivatives (diacylglycrol and ceramides), and inflammation (via IL-6 and TNFA) contribute to these mechanisms. Consequently, insulin resistance causes reduced GLUT4 translocation, resulting in glucose takeup and glycogen synthesis in skeletal muscle as well as increased hepatic gluconeogenesis and decreased glycogen synthesis in liver. At the bottom of the diagram, interplay between O-GlcNAcylation and serine/threonine phosphorylation is shown. Studies suggested that elevated O-GlcNAc level was correlated to high glucose-induced insulin resistance. Donor UDP-GlcNAc is induced through hexosamine biosynthesis pathway and added to proteins by O-GlcNAc transferase. Elevation of O-GlcNAc modification alters phosphorylation and function of key insulin signaling proteins including IRS-1, PI3K, PDK1, Akt and other transcription factor and cofactors, resulting in the attenuation of insulin signaling cascade.
+CLASS       Human Diseases; Endocrine and metabolic disease
+PATHWAY_MAP hsa04931  Insulin resistance
+DRUG        D04050  Ertiprotafib (USAN/INN)
+            D06647  Sodelglitazar (USAN)
+            D11034  Insulin glargine and lixisenatide
+            D11567  Insulin degludec and liraglutide
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3630  INS; insulin [KO:K04526]
+            6197  RPS6KA3; ribosomal protein S6 kinase A3 [KO:K04373] [EC:2.7.11.1]
+            6195  RPS6KA1; ribosomal protein S6 kinase A1 [KO:K04373] [EC:2.7.11.1]
+            6196  RPS6KA2; ribosomal protein S6 kinase A2 [KO:K04373] [EC:2.7.11.1]
+            27330  RPS6KA6; ribosomal protein S6 kinase A6 [KO:K04373] [EC:2.7.11.1]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            5506  PPP1R3A; protein phosphatase 1 regulatory subunit 3A [KO:K07189]
+            5507  PPP1R3C; protein phosphatase 1 regulatory subunit 3C [KO:K07189]
+            5509  PPP1R3D; protein phosphatase 1 regulatory subunit 3D [KO:K07189]
+            79660  PPP1R3B; protein phosphatase 1 regulatory subunit 3B [KO:K07189]
+            90673  PPP1R3E; protein phosphatase 1 regulatory subunit 3E [KO:K07189]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            5770  PTPN1; protein tyrosine phosphatase non-receptor type 1 [KO:K05696] [EC:3.1.3.48]
+            5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            5792  PTPRF; protein tyrosine phosphatase receptor type F [KO:K05695] [EC:3.1.3.48]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            3569  IL6; interleukin 6 [KO:K05405]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            9021  SOCS3; suppressor of cytokine signaling 3 [KO:K04696]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            2998  GYS2; glycogen synthase 2 [KO:K00693] [EC:2.4.1.11]
+            2997  GYS1; glycogen synthase 1 [KO:K00693] [EC:2.4.1.11]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            9882  TBC1D4; TBC1 domain family member 4 [KO:K17902]
+            6517  SLC2A4; solute carrier family 2 member 4 [KO:K07191]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            32  ACACB; acetyl-CoA carboxylase beta [KO:K01946] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            1375  CPT1B; carnitine palmitoyltransferase 1B [KO:K19523] [EC:2.3.1.21]
+            183  AGT; angiotensinogen [KO:K09821]
+            376497  SLC27A1; solute carrier family 27 member 1 [KO:K08745] [EC:6.2.1.-]
+            10999  SLC27A4; solute carrier family 27 member 4 [KO:K08745] [EC:6.2.1.-]
+            11001  SLC27A2; solute carrier family 27 member 2 [KO:K08746] [EC:6.2.1.- 6.2.1.3]
+            11000  SLC27A3; solute carrier family 27 member 3 [KO:K08772] [EC:6.2.1.-]
+            10998  SLC27A5; solute carrier family 27 member 5 [KO:K08748] [EC:6.2.1.7]
+            28965  SLC27A6; solute carrier family 27 member 6 [KO:K08749]
+            948  CD36; CD36 molecule [KO:K06259]
+            5588  PRKCQ; protein kinase C theta [KO:K18052] [EC:2.7.11.13]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            5524  PTPA; protein phosphatase 2 phosphatase activator [KO:K17605]
+            6720  SREBF1; sterol regulatory element binding transcription factor 1 [KO:K07197]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            57761  TRIB3; tribbles pseudokinase 3 [KO:K19518]
+            5836  PYGL; glycogen phosphorylase L [KO:K00688] [EC:2.4.1.1]
+            5837  PYGM; glycogen phosphorylase, muscle associated [KO:K00688] [EC:2.4.1.1]
+            5834  PYGB; glycogen phosphorylase B [KO:K00688] [EC:2.4.1.1]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            5105  PCK1; phosphoenolpyruvate carboxykinase 1 [KO:K01596] [EC:4.1.1.32]
+            5106  PCK2; phosphoenolpyruvate carboxykinase 2, mitochondrial [KO:K01596] [EC:4.1.1.32]
+            2538  G6PC1; glucose-6-phosphatase catalytic subunit 1 [KO:K01084] [EC:3.1.3.9]
+            57818  G6PC2; glucose-6-phosphatase catalytic subunit 2 [KO:K01084] [EC:3.1.3.9]
+            92579  G6PC3; glucose-6-phosphatase catalytic subunit 3 [KO:K01084] [EC:3.1.3.9]
+            6514  SLC2A2; solute carrier family 2 member 2 [KO:K07593]
+            10062  NR1H3; nuclear receptor subfamily 1 group H member 3 [KO:K08536]
+            7376  NR1H2; nuclear receptor subfamily 1 group H member 2 [KO:K08535]
+            133522  PPARGC1B; PPARG coactivator 1 beta [KO:K17962]
+            6945  MLX; MAX dimerization protein MLX [KO:K09113]
+            22877  MLXIP; MLX interacting protein [KO:K09113]
+            51085  MLXIPL; MLX interacting protein like [KO:K09113]
+            1374  CPT1A; carnitine palmitoyltransferase 1A [KO:K08765] [EC:2.3.1.21]
+            5581  PRKCE; protein kinase C epsilon [KO:K18050] [EC:2.7.11.13]
+            10891  PPARGC1A; PPARG coactivator 1 alpha [KO:K07202]
+            5465  PPARA; peroxisome proliferator activated receptor alpha [KO:K07294]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            10724  OGA; O-GlcNAcase [KO:K15719] [EC:3.2.1.169 2.3.1.48]
+            8473  OGT; O-linked N-acetylglucosamine (GlcNAc) transferase [KO:K09667] [EC:2.4.1.255]
+            6513  SLC2A1; solute carrier family 2 member 1 [KO:K07299]
+            9945  GFPT2; glutamine-fructose-6-phosphate transaminase 2 [KO:K00820] [EC:2.6.1.16]
+            2673  GFPT1; glutamine--fructose-6-phosphate transaminase 1 [KO:K00820] [EC:2.6.1.16]
+            200186  CRTC2; CREB regulated transcription coactivator 2 [KO:K16333]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+COMPOUND    C00022  Pyruvate
+            C00024  Acetyl-CoA
+            C00031  D-Glucose
+            C00043  UDP-N-acetyl-alpha-D-glucosamine
+            C00083  Malonyl-CoA
+            C00085  D-Fructose 6-phosphate
+            C00092  D-Glucose 6-phosphate
+            C00095  D-Fructose
+            C00162  Fatty acid
+            C00165  Diacylglycerol
+            C00195  N-Acylsphingosine
+            C00352  D-Glucosamine 6-phosphate
+            C00369  Starch
+            C00422  Triacylglycerol
+            C00533  Nitric oxide
+            C02571  O-Acetylcarnitine
+            C02843  Long-chain acyl-CoA
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C06156  alpha-D-Glucosamine 1-phosphate
+            G00369
+REFERENCE   PMID:22360800
+  AUTHORS   Martins AR, Nachbar RT, Gorjao R, Vinolo MA, Festuccia WT, Lambertucci RH, Cury-Boaventura MF, Silveira LR, Curi R, Hirabara SM
+  TITLE     Mechanisms underlying skeletal muscle insulin resistance induced by fatty acids: importance of the mitochondrial function.
+  JOURNAL   Lipids Health Dis 11:30 (2012)
+            DOI:10.1186/1476-511X-11-30
+REFERENCE   PMID:12765939
+  AUTHORS   Bouzakri K, Roques M, Gual P, Espinosa S, Guebre-Egziabher F, Riou JP, Laville M, Le Marchand-Brustel Y, Tanti JF, Vidal H
+  TITLE     Reduced activation of phosphatidylinositol-3 kinase and increased serine 636 phosphorylation of insulin receptor substrate-1 in primary culture of skeletal muscle cells from patients with type 2 diabetes.
+  JOURNAL   Diabetes 52:1319-25 (2003)
+            DOI:10.2337/diabetes.52.6.1319
+REFERENCE   PMID:20526383
+  AUTHORS   Choi K, Kim YB
+  TITLE     Molecular mechanism of insulin resistance in obesity and type 2 diabetes.
+  JOURNAL   Korean J Intern Med 25:119-29 (2010)
+            DOI:10.3904/kjim.2010.25.2.119
+REFERENCE   PMID:7666792
+  AUTHORS   Ahmad F, Goldstein BJ
+  TITLE     Increased abundance of specific skeletal muscle protein-tyrosine phosphatases in a genetic model of insulin-resistant obesity and diabetes mellitus.
+  JOURNAL   Metabolism 44:1175-84 (1995)
+            DOI:10.1016/0026-0495(95)90012-8
+REFERENCE   PMID:15166380
+  AUTHORS   George S, Rochford JJ, Wolfrum C, Gray SL, Schinner S, Wilson JC, Soos MA, Murgatroyd PR, Williams RM, Acerini CL, Dunger DB, Barford D, Umpleby AM, Wareham NJ, Davies HA, Schafer AJ, Stoffel M, O'Rahilly S, Barroso I
+  TITLE     A family with severe insulin resistance and diabetes due to a mutation in AKT2.
+  JOURNAL   Science 304:1325-8 (2004)
+            DOI:10.1126/science.1096706
+REFERENCE   PMID:22675355
+  AUTHORS   Snel M, Jonker JT, Schoones J, Lamb H, de Roos A, Pijl H, Smit JW, Meinders AE, Jazet IM
+  TITLE     Ectopic fat and insulin resistance: pathophysiology and effect of diet and lifestyle interventions.
+  JOURNAL   Int J Endocrinol 2012:983814 (2012)
+            DOI:10.1155/2012/983814
+REFERENCE   PMID:17130651
+  AUTHORS   Morino K, Petersen KF, Shulman GI
+  TITLE     Molecular mechanisms of insulin resistance in humans and their potential links with mitochondrial dysfunction.
+  JOURNAL   Diabetes 55 Suppl 2:S9-S15 (2006)
+            DOI:10.2337/db06-S002
+REFERENCE   PMID:16186396
+  AUTHORS   Plomgaard P, Bouzakri K, Krogh-Madsen R, Mittendorfer B, Zierath JR, Pedersen BK
+  TITLE     Tumor necrosis factor-alpha induces skeletal muscle insulin resistance in healthy human subjects via inhibition of Akt substrate 160 phosphorylation.
+  JOURNAL   Diabetes 54:2939-45 (2005)
+            DOI:10.2337/diabetes.54.10.2939
+REFERENCE   PMID:18309108
+  AUTHORS   Kim JA, Wei Y, Sowers JR
+  TITLE     Role of mitochondrial dysfunction in insulin resistance.
+  JOURNAL   Circ Res 102:401-14 (2008)
+            DOI:10.1161/CIRCRESAHA.107.165472
+REFERENCE   PMID:17141630
+  AUTHORS   Steinberg GR, Michell BJ, van Denderen BJ, Watt MJ, Carey AL, Fam BC, Andrikopoulos S, Proietto J, Gorgun CZ, Carling D, Hotamisligil GS, Febbraio MA, Kay TW, Kemp BE
+  TITLE     Tumor necrosis factor alpha-induced skeletal muscle insulin resistance involves suppression of AMP-kinase signaling.
+  JOURNAL   Cell Metab 4:465-74 (2006)
+            DOI:10.1016/j.cmet.2006.11.005
+REFERENCE   PMID:9886945
+  AUTHORS   Ruderman NB, Saha AK, Vavvas D, Witters LA
+  TITLE     Malonyl-CoA, fuel sensing, and insulin resistance.
+  JOURNAL   Am J Physiol 276:E1-E18 (1999)
+            DOI:10.1152/ajpendo.1999.276.1.E1
+REFERENCE   PMID:8048519
+  AUTHORS   Saha AK, Kurowski TG, Colca JR, Ruderman NB
+  TITLE     Lipid abnormalities in tissues of the KKAy mouse: effects of pioglitazone on malonyl-CoA and diacylglycerol.
+  JOURNAL   Am J Physiol 267:E95-101 (1994)
+            DOI:10.1152/ajpendo.1994.267.1.E95
+REFERENCE   PMID:22677645
+  AUTHORS   Blachnio-Zabielska AU, Koutsari C, Tchkonia T, Jensen MD
+  TITLE     Sphingolipid content of human adipose tissue: relationship to adiponectin and insulin resistance.
+  JOURNAL   Obesity (Silver Spring) 20:2341-7 (2012)
+            DOI:10.1038/oby.2012.126
+REFERENCE   PMID:16364488
+  AUTHORS   Larter CZ, Farrell GC
+  TITLE     Insulin resistance, adiponectin, cytokines in NASH: Which is the best target to treat?
+  JOURNAL   J Hepatol 44:253-61 (2006)
+            DOI:10.1016/j.jhep.2005.11.030
+REFERENCE   PMID:15107844
+  AUTHORS   Koo SH, Satoh H, Herzig S, Lee CH, Hedrick S, Kulkarni R, Evans RM, Olefsky J, Montminy M
+  TITLE     PGC-1 promotes insulin resistance in liver through PPAR-alpha-dependent induction of TRB-3.
+  JOURNAL   Nat Med 10:530-4 (2004)
+            DOI:10.1038/nm1044
+REFERENCE   PMID:20466550
+  AUTHORS   Slawson C, Copeland RJ, Hart GW
+  TITLE     O-GlcNAc signaling: a metabolic link between diabetes and cancer?
+  JOURNAL   Trends Biochem Sci 35:547-55 (2010)
+            DOI:10.1016/j.tibs.2010.04.005
+REFERENCE   PMID:23647930
+  AUTHORS   Ruan HB, Singh JP, Li MD, Wu J, Yang X
+  TITLE     Cracking the O-GlcNAc code in metabolism.
+  JOURNAL   Trends Endocrinol Metab 24:301-9 (2013)
+            DOI:10.1016/j.tem.2013.02.002
+REFERENCE   PMID:16756496
+  AUTHORS   Muoio DM, Newgard CB
+  TITLE     Obesity-related derangements in metabolic regulation.
+  JOURNAL   Annu Rev Biochem 75:367-401 (2006)
+            DOI:10.1146/annurev.biochem.75.103004.142512
+REFERENCE   PMID:10923637
+  AUTHORS   Itani SI, Zhou Q, Pories WJ, MacDonald KG, Dohm GL
+  TITLE     Involvement of protein kinase C in human skeletal muscle insulin resistance and obesity.
+  JOURNAL   Diabetes 49:1353-8 (2000)
+            DOI:10.2337/diabetes.49.8.1353
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00061  Fatty acid biosynthesis
+            hsa00514  Other types of O-glycan biosynthesis
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04910  Insulin signaling pathway
+KO_PATHWAY  ko04931
+///

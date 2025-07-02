@@ -1,0 +1,187 @@
+ENTRY       hsa05031                    Pathway
+NAME        Amphetamine addiction - Homo sapiens (human)
+DESCRIPTION Amphetamine is a psychostimulant drug that exerts persistent addictive effects. Most addictive drugs increase extracellular concentrations of dopamine (DA) in nucleus accumbens (NAc) and medial prefrontal cortex (mPFC), projection areas of mesocorticolimbic DA neurons and key components of the "brain reward circuit". Amphetamine achieves this elevation in extracellular levels of DA by promoting efflux from synaptic terminals. Acute administration of amphetamine induces phosphorylation of cAMP response element-binding protein (CREB) and expression of a number of immediate early genes (IEGs), such as c-fos. The IEGs is likely to initiate downstream molecular events, which may have important roles in the induction and maintenance of addictive states. Chronic exposure to amphetamine induces a unique transcription factor delta FosB, which plays an essential role in long-term adaptive changes in the brain.
+CLASS       Human Diseases; Substance dependence
+PATHWAY_MAP hsa05031  Amphetamine addiction
+DRUG        D02074  Amphetamine sulfate (USP)
+            D02078  Dextroamphetamine sulfate (USP)
+            D02242  Methamphetamine hydrochloride (JP18/USP)
+            D03740  Dextroamphetamine (USAN)
+            D07445  Amfetamine (INN)
+            D08187  Metamfetamine (INN)
+            D11622  Amphetamine aspartate monohydrate
+            D11623  Dextroamphetamine saccharate
+DBLINKS     GO: 0001975
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7054  TH; tyrosine hydroxylase [KO:K00501] [EC:1.14.16.2]
+            1644  DDC; dopa decarboxylase [KO:K01593] [EC:4.1.1.28 4.1.1.105]
+            6570  SLC18A1; solute carrier family 18 member A1 [KO:K08155]
+            6571  SLC18A2; solute carrier family 18 member A2 [KO:K08155]
+            4129  MAOB; monoamine oxidase B [KO:K00274] [EC:1.4.3.4]
+            4128  MAOA; monoamine oxidase A [KO:K00274] [EC:1.4.3.4]
+            6531  SLC6A3; solute carrier family 6 member 3 [KO:K05036]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            2902  GRIN1; glutamate ionotropic receptor NMDA type subunit 1 [KO:K05208]
+            2903  GRIN2A; glutamate ionotropic receptor NMDA type subunit 2A [KO:K05209]
+            2904  GRIN2B; glutamate ionotropic receptor NMDA type subunit 2B [KO:K05210]
+            2905  GRIN2C; glutamate ionotropic receptor NMDA type subunit 2C [KO:K05211]
+            2906  GRIN2D; glutamate ionotropic receptor NMDA type subunit 2D [KO:K05212]
+            116443  GRIN3A; glutamate ionotropic receptor NMDA type subunit 3A [KO:K05213]
+            116444  GRIN3B; glutamate ionotropic receptor NMDA type subunit 3B [KO:K05214]
+            2890  GRIA1; glutamate ionotropic receptor AMPA type subunit 1 [KO:K05197]
+            2891  GRIA2; glutamate ionotropic receptor AMPA type subunit 2 [KO:K05198]
+            2892  GRIA3; glutamate ionotropic receptor AMPA type subunit 3 [KO:K05199]
+            2893  GRIA4; glutamate ionotropic receptor AMPA type subunit 4 [KO:K05200]
+            1812  DRD1; dopamine receptor D1 [KO:K04144]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            6804  STX1A; syntaxin 1A [KO:K04560]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            814  CAMK4; calcium/calmodulin dependent protein kinase IV [KO:K05869] [EC:2.7.11.17]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            84152  PPP1R1B; protein phosphatase 1 regulatory inhibitor subunit 1B [KO:K15494]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            5173  PDYN; prodynorphin [KO:K15840]
+            23237  ARC; activity regulated cytoskeleton associated protein [KO:K15867]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            2354  FOSB; FosB proto-oncogene, AP-1 transcription factor subunit [KO:K09029]
+            23411  SIRT1; sirtuin 1 [KO:K11411] [EC:2.3.1.286]
+            3065  HDAC1; histone deacetylase 1 [KO:K06067] [EC:3.5.1.98]
+            3066  HDAC2; histone deacetylase 2 [KO:K06067] [EC:3.5.1.98]
+COMPOUND    C00025  L-Glutamate
+            C00027  Hydrogen peroxide
+            C00076  Calcium cation
+            C00082  L-Tyrosine
+            C00355  3,4-Dihydroxy-L-phenylalanine
+            C00575  3',5'-Cyclic AMP
+            C01161  3,4-Dihydroxyphenylacetate
+            C01330  Sodium cation
+            C03758  Dopamine
+            D07445  Amfetamine (INN)
+REFERENCE   PMID:16724157
+  AUTHORS   Rajadhyaksha AM, Kosofsky BE
+  TITLE     Psychostimulants, Protein phosphorylation and Gene expression: a growing role of L-type calcium channels.
+  JOURNAL   Cellscience 2:127-144 (2005)
+            DOI:10.1901/jaba.2005.2-127
+REFERENCE   PMID:18440072
+  AUTHORS   Cunha-Oliveira T, Rego AC, Oliveira CR
+  TITLE     Cellular and molecular mechanisms involved in the neurotoxicity of opioid and psychostimulant drugs.
+  JOURNAL   Brain Res Rev 58:192-208 (2008)
+            DOI:10.1016/j.brainresrev.2008.03.002
+REFERENCE   PMID:16776597
+  AUTHORS   Hyman SE, Malenka RC, Nestler EJ
+  TITLE     Neural mechanisms of addiction: the role of reward-related learning and memory.
+  JOURNAL   Annu Rev Neurosci 29:565-98 (2006)
+            DOI:10.1146/annurev.neuro.29.051605.113009
+REFERENCE   PMID:16151049
+  AUTHORS   Rajadhyaksha AM, Kosofsky BE
+  TITLE     Psychostimulants, L-type calcium channels, kinases, and phosphatases.
+  JOURNAL   Neuroscientist 11:494-502 (2005)
+            DOI:10.1177/1073858405278236
+REFERENCE   PMID:14622123
+  AUTHORS   Dudman JT, Eaton ME, Rajadhyaksha A, Macias W, Taher M, Barczak A, Kameyama K, Huganir R, Konradi C
+  TITLE     Dopamine D1 receptors mediate CREB phosphorylation via phosphorylation of the NMDA receptor at Ser897-NR1.
+  JOURNAL   J Neurochem 87:922-34 (2003)
+            DOI:10.1046/j.1471-4159.2003.02067.x
+REFERENCE   PMID:10414964
+  AUTHORS   Rajadhyaksha A, Barczak A, Macias W, Leveque JC, Lewis SE, Konradi C
+  TITLE     L-Type Ca(2+) channels are essential for glutamate-mediated CREB phosphorylation and c-fos gene expression in striatal neurons.
+  JOURNAL   J Neurosci 19:6348-59 (1999)
+            DOI:10.1523/JNEUROSCI.19-15-06348.1999
+REFERENCE   PMID:8753884
+  AUTHORS   Konradi C, Leveque JC, Hyman SE
+  TITLE     Amphetamine and dopamine-induced immediate early gene expression in striatal neurons depends on postsynaptic NMDA receptors and calcium.
+  JOURNAL   J Neurosci 16:4231-9 (1996)
+            DOI:10.1523/JNEUROSCI.16-13-04231.1996
+REFERENCE   PMID:10774721
+  AUTHORS   Berke JD, Hyman SE
+  TITLE     Addiction, dopamine, and the molecular mechanisms of memory.
+  JOURNAL   Neuron 25:515-32 (2000)
+            DOI:10.1016/S0896-6273(00)81056-9
+REFERENCE   PMID:17728700
+  AUTHORS   McClung CA, Nestler EJ
+  TITLE     Neuroplasticity mediated by altered gene expression.
+  JOURNAL   Neuropsychopharmacology 33:3-17 (2008)
+            DOI:10.1038/sj.npp.1301544
+REFERENCE   PMID:14746512
+  AUTHORS   Chao J, Nestler EJ
+  TITLE     Molecular neurobiology of drug addiction.
+  JOURNAL   Annu Rev Med 55:113-32 (2004)
+            DOI:10.1146/annurev.med.55.091902.103730
+REFERENCE   PMID:19199083
+  AUTHORS   Robertson SD, Matthies HJ, Galli A
+  TITLE     A closer look at amphetamine-induced reverse transport and trafficking of the dopamine and norepinephrine transporters.
+  JOURNAL   Mol Neurobiol 39:73-80 (2009)
+            DOI:10.1007/s12035-009-8053-4
+REFERENCE   PMID:18617632
+  AUTHORS   Binda F, Dipace C, Bowton E, Robertson SD, Lute BJ, Fog JU, Zhang M, Sen N, Colbran RJ, Gnegy ME, Gether U, Javitch JA, Erreger K, Galli A
+  TITLE     Syntaxin 1A interaction with the dopamine transporter promotes amphetamine-induced dopamine efflux.
+  JOURNAL   Mol Pharmacol 74:1101-8 (2008)
+            DOI:10.1124/mol.108.048447
+REFERENCE   PMID:21338876
+  AUTHORS   Sulzer D
+  TITLE     How addictive drugs disrupt presynaptic dopamine neurotransmission.
+  JOURNAL   Neuron 69:628-49 (2011)
+            DOI:10.1016/j.neuron.2011.02.010
+REFERENCE   PMID:8630246
+  AUTHORS   Hyman SE
+  TITLE     Addiction to cocaine and amphetamine.
+  JOURNAL   Neuron 16:901-4 (1996)
+            DOI:10.1016/S0896-6273(00)80111-7
+REFERENCE   PMID:18632938
+  AUTHORS   Renthal W, Carle TL, Maze I, Covington HE 3rd, Truong HT, Alibhai I, Kumar A, Montgomery RL, Olson EN, Nestler EJ
+  TITLE     Delta FosB mediates epigenetic desensitization of the c-fos gene after chronic amphetamine exposure.
+  JOURNAL   J Neurosci 28:7344-9 (2008)
+            DOI:10.1523/JNEUROSCI.1043-08.2008
+REFERENCE   PMID:21989194
+  AUTHORS   Robison AJ, Nestler EJ
+  TITLE     Transcriptional and epigenetic mechanisms of addiction.
+  JOURNAL   Nat Rev Neurosci 12:623-37 (2011)
+            DOI:10.1038/nrn3111
+REFERENCE   PMID:14529709
+  AUTHORS   Snyder GL, Galdi S, Fienberg AA, Allen P, Nairn AC, Greengard P
+  TITLE     Regulation of AMPA receptor dephosphorylation by glutamate receptor agonists.
+  JOURNAL   Neuropharmacology 45:703-13 (2003)
+            DOI:10.1016/S0028-3908(03)00319-8
+REFERENCE   PMID:19222557
+  AUTHORS   Banerjee PS, Aston J, Khundakar AA, Zetterstrom TS
+  TITLE     Differential regulation of psychostimulant-induced gene expression of brain derived neurotrophic factor and the immediate-early gene Arc in the juvenile and adult brain.
+  JOURNAL   Eur J Neurosci 29:465-76 (2009)
+            DOI:10.1111/j.1460-9568.2008.06601.x
+REL_PATHWAY hsa04728  Dopaminergic synapse
+KO_PATHWAY  ko05031
+///

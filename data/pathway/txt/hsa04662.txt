@@ -1,0 +1,236 @@
+ENTRY       hsa04662                    Pathway
+NAME        B cell receptor signaling pathway - Homo sapiens (human)
+DESCRIPTION B cells are an important component of adaptive immunity. They produce and secrete millions of different antibody molecules, each of which recognizes a different (foreign) antigen. The B cell receptor (BCR) is an integral membrane protein complex that is composed of two immunoglobulin (Ig) heavy chains, two Ig light chains and two heterodimers of Ig-alpha and Ig-beta. After BCR ligation by antigen, three main protein tyrosine kinases (PTKs) -the SRC-family kinase LYN, SYK and the TEC-family kinase BTK- are activated. Phosphatidylinositol 3-kinase (PI3K) and phospholipase C-gamma 2 (PLC-gamma 2) are important downstream effectors of BCR signalling. This signalling ultimately results in the expression of immediate early genes that further activate the expression of other genes involved in B cell proliferation, differentiation and Ig production as well as other processes.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04662  B cell receptor signaling pathway
+NETWORK     nt06120  Calcium signaling (viruses and bacteria)
+            nt06160  Human T-cell leukemia virus 1 (HTLV-1)
+            nt06165  Epstein-Barr virus (EBV)
+            nt06220  Calcium signaling
+  ELEMENT   N00487  BCR-PLCG-Calcineurin signaling pathway
+DRUG        D03066  Bectumomab (USAN/INN)
+            D04036  Epratuzumab (USAN/INN)
+            D06348  Yttrium Y 90 epratuzumab (USAN)
+            D06349  Yttrium Y 90 epratuzumab tetraxetan (USAN)
+            D08933  Inotuzumab ozogamicin (USAN/INN)
+            D09325  Blinatumomab (USAN/INN)
+            D09347  Fostamatinib (USAN)
+            D09348  Fostamatinib disodium (USAN)
+            D09932  Moxetumomab pasudotox (USAN/INN)
+            D10223  Ibrutinib (JAN/USAN)
+            D10560  Idelalisib (JAN/USAN/INN)
+            D10730  Spebrutinib (USAN/INN)
+            D10731  Spebrutinib besylate (USAN)
+            D10761  Polatuzumab vedotin (USAN)
+            D10893  Acalabrutinib (JAN/USAN/INN)
+            D11070  Tirabrutinib hydrochloride (JAN)
+            D11144  Axicabtagene ciloleucel (USAN)
+            D11231  Denintuzumab (USAN/INN)
+            D11232  Denintuzumab mafodotin (USAN/INN)
+            D11322  Umbralisib (USAN/INN)
+            D11323  Umbralisib tosylate (USAN)
+            D11339  Valziflocept (USAN)
+            D11372  Duvortuxizumab (USAN)
+            D11386  Tisagenlecleucel-T (USAN)
+            D11422  Zanubrutinib (JAN/USAN/INN)
+            D11428  Vecabrutinib (USAN/INN)
+            D11437  Parsaclisib (USAN/INN)
+            D11457  Fenebrutinib (USAN/INN)
+            D11478  Branebrutinib (USAN)
+            D11496  Obexelimab (USAN)
+            D11502  Vecabrutinib succinate (USAN)
+            D11506  Parsaclisib hydrochloride (JAN/USAN)
+            D11601  Tafasitamab (USAN/INN)
+            D11720  Acalabrutinib maleate (USAN)
+            D11757  Inebilizumab (USAN/INN)
+            D11778  Daxdilimab (USAN)
+            D11789  Mivavotinib (USAN/INN)
+            D11790  Mivavotinib citrate (USAN)
+            D11873  Rilzabrutinib (USAN/INN)
+            D11880  Brexucabtagene autoleucel (USAN)
+            D11942  Inavolisib (USAN/INN)
+            D11990  Lisocabtagene maraleucel (USAN/INN)
+            D12050  Pirtobrutinib (JAN/USAN)
+            D12052  Luxeptinib (USAN)
+            D12158  Elsubrutinib (USAN/INN)
+            D12160  Orelabrutinib (USAN/INN)
+            D12213  Tolebrutinib (USAN/INN)
+            D12285  Remibrutinib (USAN/INN)
+            D12383  Edralbrutinib (USAN/INN)
+            D12467  Evobrutinib (USAN/INN)
+            D12489  Atuzabrutinib (USAN/INN)
+            D12504  Nemtabrutinib (USAN/INN)
+DBLINKS     GO: 0050853
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            973  CD79A; CD79a molecule [KO:K06506]
+            974  CD79B; CD79b molecule [KO:K06507]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            695  BTK; Bruton tyrosine kinase [KO:K07370] [EC:2.7.10.2]
+            27071  DAPP1; dual adaptor of phosphotyrosine and 3-phosphoinositides 1 [KO:K12229]
+            29760  BLNK; B cell linker [KO:K07371]
+            10451  VAV3; vav guanine nucleotide exchange factor 3 [KO:K05730]
+            7409  VAV1; vav guanine nucleotide exchange factor 1 [KO:K05730]
+            7410  VAV2; vav guanine nucleotide exchange factor 2 [KO:K05730]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            5881  RAC3; Rac family small GTPase 3 [KO:K07861]
+            55024  BANK1; B cell scaffold protein with ankyrin repeats 1 [KO:K26239]
+            640  BLK; BLK proto-oncogene, Src family tyrosine kinase [KO:K08890] [EC:2.7.10.2]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            25780  RASGRP3; RAS guanyl releasing protein 3 [KO:K12362]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            84433  CARD11; caspase recruitment domain family member 11 [KO:K07367]
+            8915  BCL10; BCL10 immune signaling adaptor [KO:K07368]
+            10892  MALT1; MALT1 paracaspase [KO:K07369] [EC:3.4.22.-]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4794  NFKBIE; NFKB inhibitor epsilon [KO:K05872]
+            8519  IFITM1; interferon induced transmembrane protein 1 [KO:K19831]
+            975  CD81; CD81 molecule [KO:K06508]
+            930  CD19; CD19 molecule [KO:K06465]
+            1380  CR2; complement C3d receptor 2 [KO:K04012]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            2213  FCGR2B; Fc gamma receptor IIb [KO:K12560]
+            3635  INPP5D; inositol polyphosphate-5-phosphatase D [KO:K03084] [EC:3.1.3.86]
+            3636  INPPL1; inositol polyphosphate phosphatase like 1 [KO:K15909] [EC:3.1.3.86]
+            10288  LILRB2; leukocyte immunoglobulin like receptor B2 [KO:K06512]
+            10859  LILRB1; leukocyte immunoglobulin like receptor B1 [KO:K06512]
+            10990  LILRB5; leukocyte immunoglobulin like receptor B5 [KO:K06512]
+            11006  LILRB4; leukocyte immunoglobulin like receptor B4 [KO:K06512]
+            11024  LILRA1; leukocyte immunoglobulin like receptor A1 [KO:K06512]
+            11025  LILRB3; leukocyte immunoglobulin like receptor B3 [KO:K06512]
+            11026  LILRA3; leukocyte immunoglobulin like receptor A3 [KO:K06512]
+            11027  LILRA2; leukocyte immunoglobulin like receptor A2 [KO:K06512]
+            23547  LILRA4; leukocyte immunoglobulin like receptor A4 [KO:K06512]
+            79168  LILRA6; leukocyte immunoglobulin like receptor A6 [KO:K06512]
+            353514  LILRA5; leukocyte immunoglobulin like receptor A5 [KO:K06512]
+            102725035  leukocyte immunoglobulin-like receptor subfamily B member 3 [KO:K06512]
+            933  CD22; CD22 molecule [KO:K06467]
+            971  CD72; CD72 molecule [KO:K06504]
+            5777  PTPN6; protein tyrosine phosphatase non-receptor type 6 [KO:K05697] [EC:3.1.3.48]
+            118788  PIK3AP1; phosphoinositide-3-kinase adaptor protein 1 [KO:K12230]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:12461567
+  AUTHORS   Niiro H, Clark EA.
+  TITLE     Regulation of B-cell fate by antigen-receptor signals.
+  JOURNAL   Nat Rev Immunol 2:945-56 (2002)
+            DOI:10.1038/nri955
+REFERENCE   PMID:10358768
+  AUTHORS   Kurosaki T.
+  TITLE     Genetic analysis of B cell antigen receptor signaling.
+  JOURNAL   Annu Rev Immunol 17:555-92 (1999)
+            DOI:10.1146/annurev.immunol.17.1.555
+REFERENCE   PMID:15886119
+  AUTHORS   Nitschke L.
+  TITLE     The role of CD22 and other inhibitory co-receptors in B-cell activation.
+  JOURNAL   Curr Opin Immunol 17:290-7 (2005)
+            DOI:10.1016/j.coi.2005.03.005
+REFERENCE   PMID:15752555
+  AUTHORS   Morgan BP, Marchbank KJ, Longhi MP, Harris CL, Gallimore AM.
+  TITLE     Complement: central to innate immunity and bridging to adaptive responses.
+  JOURNAL   Immunol Lett 97:171-9 (2005)
+            DOI:10.1016/j.imlet.2004.11.010
+REFERENCE   PMID:12033741
+  AUTHORS   Kurosaki T.
+  TITLE     Regulation of B-cell signal transduction by adaptor proteins.
+  JOURNAL   Nat Rev Immunol 2:354-63 (2002)
+            DOI:10.1038/nri801
+REFERENCE   PMID:15364057
+  AUTHORS   Nitschke L, Tsubata T.
+  TITLE     Molecular interactions regulate BCR signal inhibition by CD22 and CD72.
+  JOURNAL   Trends Immunol 25:543-50 (2004)
+            DOI:10.1016/j.it.2004.08.002
+REFERENCE   PMID:15771577
+  AUTHORS   Jumaa H, Hendriks RW, Reth M.
+  TITLE     B cell signaling and tumorigenesis.
+  JOURNAL   Annu Rev Immunol 23:415-45 (2005)
+            DOI:10.1146/annurev.immunol.23.021704.115606
+REFERENCE   PMID:15886112
+  AUTHORS   Rickert RC.
+  TITLE     Regulation of B lymphocyte activation by complement C3 and the B cell coreceptor complex.
+  JOURNAL   Curr Opin Immunol 17:237-43 (2005)
+            DOI:10.1016/j.coi.2005.03.001
+REFERENCE   PMID:15457440
+  AUTHORS   Zouali M, Sarmay G
+  TITLE     B lymphocyte signaling pathways in systemic autoimmunity: implications for pathogenesis and treatment.
+  JOURNAL   Arthritis Rheum 50:2730-41 (2004)
+            DOI:10.1002/art.20487
+REFERENCE   PMID:15322145
+  AUTHORS   Chiles TC.
+  TITLE     Regulation and function of cyclin D2 in B lymphocyte subsets.
+  JOURNAL   J Immunol 173:2901-7 (2004)
+            DOI:10.4049/jimmunol.173.5.2901
+REFERENCE   PMID:15626471
+  AUTHORS   Allam A, Marshall AJ
+  TITLE     Role of the adaptor proteins Bam32, TAPP1 and TAPP2 in lymphocyte activation.
+  JOURNAL   Immunol Lett 97:7-17 (2005)
+            DOI:10.1016/j.imlet.2004.09.019
+REFERENCE   PMID:12119152
+  AUTHORS   Gold MR
+  TITLE     To make antibodies or not: signaling by the B-cell antigen receptor.
+  JOURNAL   Trends Pharmacol Sci 23:316-24 (2002)
+            DOI:10.1016/S0165-6147(02)02045-X
+REFERENCE   PMID:9697839
+  AUTHORS   Fu C, Turck CW, Kurosaki T, Chan AC
+  TITLE     BLNK: a central linker protein in B cell activation.
+  JOURNAL   Immunity 9:93-103 (1998)
+            DOI:10.1016/S1074-7613(00)80591-9
+REFERENCE   PMID:11163197
+  AUTHORS   Okada T, Maeda A, Iwamatsu A, Gotoh K, Kurosaki T
+  TITLE     BCAP: the tyrosine kinase substrate that connects B cell receptor to phosphoinositide 3-kinase activation.
+  JOURNAL   Immunity 13:817-27 (2000)
+            DOI:10.1016/S1074-7613(00)00079-0
+REFERENCE   PMID:18086859
+  AUTHORS   Shinohara H, Maeda S, Watarai H, Kurosaki T
+  TITLE     IkappaB kinase beta-induced phosphorylation of CARMA1 contributes to CARMA1 Bcl10 MALT1 complex formation in B cells.
+  JOURNAL   J Exp Med 204:3285-93 (2007)
+            DOI:10.1084/jem.20070379
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04610  Complement and coagulation cascades
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko04662
+///

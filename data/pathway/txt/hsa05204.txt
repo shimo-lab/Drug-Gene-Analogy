@@ -1,0 +1,359 @@
+ENTRY       hsa05204                    Pathway
+NAME        Chemical carcinogenesis - DNA adducts - Homo sapiens (human)
+DESCRIPTION It has been estimated that exposure to environmental chemical carcinogens may contribute significantly to the causation of a sizable fraction, perhaps a majority, of human cancers. Human carcinogens act through a variety of genotoxic and non-genotoxic mechanisms. Genotoxic carcinogens can attack biological macromolecules such as DNA and RNA either directly or indirectly through metabolism, resulting in the formation of adducts with these macromolecules. If DNA adducts escape cellular repair mechanisms and persist, they may lead to miscoding, resulting in permanent mutations. Mutations cause an undefined number of cell changes, translated into aberrant protein expression and in changes in cell cycle control.
+CLASS       Human Diseases; Cancer: overview
+PATHWAY_MAP hsa05204  Chemical carcinogenesis - DNA adducts
+NETWORK     nt06250  DNA adduct formation
+  ELEMENT   N01369  4-ABP to DNA adducts
+            N01370  PhIP to DNA adducts
+            N01371  PhIP to DNA adducts
+            N01372  IQ to DNA adducts
+            N01373  MeIQx to DNA adducts
+            N01374  BaP to DNA adducts
+            N01375  DMBA to DNA adducts
+            N01376  Melphalan to DNA adducts/cross-links
+            N01377  Thiotepa to DNA adducts/cross-links
+            N01378  AFB1 to DNA adducts
+            N01379  NNK to DNA adducts
+            N01380  NNK to DNA adducts
+            N01381  NNK to DNA adducts
+            N01382  NNK to DNA adducts
+            N01383  NDMA to DNA adducts
+            N01384  EO to DNA adducts
+            N01385  VC to DNA adducts
+            N01386  DCE to DNA adducts
+            N01387  SM to DNA adducts/cross-links
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10  NAT2; N-acetyltransferase 2 [KO:K00622] [EC:2.3.1.5]
+            9  NAT1; N-acetyltransferase 1 [KO:K00622] [EC:2.3.1.5]
+            1544  CYP1A2; cytochrome P450 family 1 subfamily A member 2 [KO:K07409] [EC:1.14.14.1]
+            6799  SULT1A2; sulfotransferase family 1A member 2 [KO:K01014] [EC:2.8.2.1]
+            6817  SULT1A1; sulfotransferase family 1A member 1 [KO:K01014] [EC:2.8.2.1]
+            6818  SULT1A3; sulfotransferase family 1A member 3 [KO:K01014] [EC:2.8.2.1]
+            445329  SULT1A4; sulfotransferase family 1A member 4 [KO:K01014] [EC:2.8.2.1]
+            1543  CYP1A1; cytochrome P450 family 1 subfamily A member 1 [KO:K07408] [EC:1.14.14.1]
+            1545  CYP1B1; cytochrome P450 family 1 subfamily B member 1 [KO:K07410] [EC:1.14.14.1]
+            1558  CYP2C8; cytochrome P450 family 2 subfamily C member 8 [KO:K17718] [EC:1.14.14.1]
+            1559  CYP2C9; cytochrome P450 family 2 subfamily C member 9 [KO:K17719] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.-]
+            1562  CYP2C18; cytochrome P450 family 2 subfamily C member 18 [KO:K17720] [EC:1.14.14.1]
+            1557  CYP2C19; cytochrome P450 family 2 subfamily C member 19 [KO:K17721] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.75 1.14.14.-]
+            1576  CYP3A4; cytochrome P450 family 3 subfamily A member 4 [KO:K17689] [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.14.-]
+            2052  EPHX1; epoxide hydrolase 1 [KO:K01253] [EC:3.3.2.9]
+            221357  GSTA5; glutathione S-transferase alpha 5 [KO:K00799] [EC:2.5.1.18]
+            2939  GSTA2; glutathione S-transferase alpha 2 [KO:K00799] [EC:2.5.1.18]
+            2941  GSTA4; glutathione S-transferase alpha 4 [KO:K00799] [EC:2.5.1.18]
+            119391  GSTO2; glutathione S-transferase omega 2 [KO:K00799] [EC:2.5.1.18]
+            2948  GSTM4; glutathione S-transferase mu 4 [KO:K00799] [EC:2.5.1.18]
+            2953  GSTT2; glutathione S-transferase theta 2 (gene/pseudogene) [KO:K00799] [EC:2.5.1.18]
+            2952  GSTT1; glutathione S-transferase theta 1 [KO:K00799] [EC:2.5.1.18]
+            2947  GSTM3; glutathione S-transferase mu 3 [KO:K00799] [EC:2.5.1.18]
+            4257  MGST1; microsomal glutathione S-transferase 1 [KO:K00799] [EC:2.5.1.18]
+            4259  MGST3; microsomal glutathione S-transferase 3 [KO:K00799] [EC:2.5.1.18]
+            2944  GSTM1; glutathione S-transferase mu 1 [KO:K00799] [EC:2.5.1.18]
+            2949  GSTM5; glutathione S-transferase mu 5 [KO:K00799] [EC:2.5.1.18]
+            4258  MGST2; microsomal glutathione S-transferase 2 [KO:K00799] [EC:2.5.1.18]
+            2938  GSTA1; glutathione S-transferase alpha 1 [KO:K00799] [EC:2.5.1.18]
+            2946  GSTM2; glutathione S-transferase mu 2 [KO:K00799] [EC:2.5.1.18]
+            2940  GSTA3; glutathione S-transferase alpha 3 [KO:K00799] [EC:2.5.1.18]
+            9446  GSTO1; glutathione S-transferase omega 1 [KO:K00799] [EC:2.5.1.18]
+            653689  GSTT2B; glutathione S-transferase theta 2B [KO:K00799] [EC:2.5.1.18]
+            2950  GSTP1; glutathione S-transferase pi 1 [KO:K23790] [EC:2.5.1.18]
+            373156  GSTK1; glutathione S-transferase kappa 1 [KO:K13299] [EC:2.5.1.18]
+            27306  HPGDS; hematopoietic prostaglandin D synthase [KO:K04097] [EC:5.3.99.2 2.5.1.18]
+            6822  SULT2A1; sulfotransferase family 2A member 1 [KO:K11822] [EC:2.8.2.14]
+            1577  CYP3A5; cytochrome P450 family 3 subfamily A member 5 [KO:K17690] [EC:1.14.14.1]
+            1551  CYP3A7; cytochrome P450 family 3 subfamily A member 7 [KO:K17691] [EC:1.14.14.1]
+            100861540  CYP3A7-CYP3A51P; CYP3A7-CYP3A51P readthrough [KO:K17691] [EC:1.14.14.1]
+            64816  CYP3A43; cytochrome P450 family 3 subfamily A member 43 [KO:K17692] [EC:1.14.14.1]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            1548  CYP2A6; cytochrome P450 family 2 subfamily A member 6 [KO:K17683] [EC:1.14.14.-]
+            1549  CYP2A7; cytochrome P450 family 2 subfamily A member 7 [KO:K17683] [EC:1.14.14.-]
+            1553  CYP2A13; cytochrome P450 family 2 subfamily A member 13 [KO:K17685] [EC:1.14.14.1]
+            1646  AKR1C2; aldo-keto reductase family 1 member C2 [KO:K00089] [EC:1.1.1.213 1.1.1.357]
+            3290  HSD11B1; hydroxysteroid 11-beta dehydrogenase 1 [KO:K15680] [EC:1.1.1.146]
+            374875  HSD11B1L; hydroxysteroid 11-beta dehydrogenase 1 like [KO:K15680] [EC:1.1.1.146]
+            873  CBR1; carbonyl reductase 1 [KO:K00079] [EC:1.1.1.184 1.1.1.189 1.1.1.197]
+            10941  UGT2A1; UDP glucuronosyltransferase family 2 member A1 complex locus [KO:K00699] [EC:2.4.1.17]
+            79799  UGT2A3; UDP glucuronosyltransferase family 2 member A3 [KO:K00699] [EC:2.4.1.17]
+            7367  UGT2B17; UDP glucuronosyltransferase family 2 member B17 [KO:K00699] [EC:2.4.1.17]
+            10720  UGT2B11; UDP glucuronosyltransferase family 2 member B11 [KO:K00699] [EC:2.4.1.17]
+            54490  UGT2B28; UDP glucuronosyltransferase family 2 member B28 [KO:K00699] [EC:2.4.1.17]
+            54578  UGT1A6; UDP glucuronosyltransferase family 1 member A6 [KO:K00699] [EC:2.4.1.17]
+            54657  UGT1A4; UDP glucuronosyltransferase family 1 member A4 [KO:K00699] [EC:2.4.1.17]
+            54658  UGT1A1; UDP glucuronosyltransferase family 1 member A1 [KO:K00699] [EC:2.4.1.17]
+            54659  UGT1A3; UDP glucuronosyltransferase family 1 member A3 [KO:K00699] [EC:2.4.1.17]
+            7365  UGT2B10; UDP glucuronosyltransferase family 2 member B10 [KO:K00699] [EC:2.4.1.17]
+            54600  UGT1A9; UDP glucuronosyltransferase family 1 member A9 [KO:K00699] [EC:2.4.1.17]
+            7364  UGT2B7; UDP glucuronosyltransferase family 2 member B7 [KO:K00699] [EC:2.4.1.17]
+            54575  UGT1A10; UDP glucuronosyltransferase family 1 member A10 [KO:K00699] [EC:2.4.1.17]
+            54576  UGT1A8; UDP glucuronosyltransferase family 1 member A8 [KO:K00699] [EC:2.4.1.17]
+            54579  UGT1A5; UDP glucuronosyltransferase family 1 member A5 [KO:K00699] [EC:2.4.1.17]
+            7366  UGT2B15; UDP glucuronosyltransferase family 2 member B15 [KO:K00699] [EC:2.4.1.17]
+            54577  UGT1A7; UDP glucuronosyltransferase family 1 member A7 [KO:K00699] [EC:2.4.1.17]
+            7363  UGT2B4; UDP glucuronosyltransferase family 2 member B4 [KO:K00699] [EC:2.4.1.17]
+            574537  UGT2A2; UDP glucuronosyltransferase family 2 member A2 [KO:K00699] [EC:2.4.1.17]
+            1571  CYP2E1; cytochrome P450 family 2 subfamily E member 1 [KO:K07415] [EC:1.14.14.-]
+COMPOUND    C00027  Hydrogen peroxide
+            C03012  Naphthalene-1,2-diol
+            C03621  N-Acetoxy-4-aminobiphenyl
+            C03622  N-Hydroxy-4-aminobiphenyl
+            C06268  Chromium
+            C06547  Ethylene
+            C06548  Ethylene oxide
+            C06752  1,2-Dichloroethane
+            C06754  Chloroacetaldehyde
+            C06793  Vinyl chloride
+            C06800  Aflatoxin B1
+            C07122  Melphalan
+            C07535  Benzo[a]pyrene
+            C07641  Thiotepa
+            C10998  4-Aminobiphenyl
+            C14556  9-Hydroxybenzo[a]pyrene
+            C14704  N-Nitrosodimethylamine
+            C14783  1,2-Naphthoquinone
+            C14849  Benzo[a]pyrene-9,10-oxide
+            C14850  Benzo[a]pyrene-7,8-oxide
+            C14851  Benzo[a]pyrene-4,5-oxide
+            C14852  Benzo[a]pyrene-7,8-dihydrodiol
+            C14853  Benzo[a]pyrene-7,8-dihydrodiol-9,10-oxide
+            C14854  9-Hydroxybenzo[a]pyrene-4,5-oxide
+            C14855  4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene
+            C14856  7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene
+            C14874  Glutathione episulfonium ion
+            C16038  2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine
+            C16453  4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone
+            C16844  Hydroxyl radical
+            C19164  Sulfur mustard
+            C19180  2-Amino-3-methylimidazo[4,5-f]quinoline
+            C19255  MeIQx
+            C19488  7,12-Dimethylbenz[a]anthracene
+            C19489  1a,11b-Dihydro-4,9-dimethylbenz[a]anthra[3,4-b]oxirene
+            C19490  trans-3,4-Dihydro-3,4-dihydroxy-7,12-dimethylbenz[a]anthracene
+            C19525  Sudan I
+            C19559  (1aalpha,2beta,3alpha,11calpha)-1a,2,3,11c-Tetrahydro-6,11-dimethylbenzo[6,7]phenanthro[3,4-b]oxirene-2,3-diol
+            C19561  7-Hydroxymethyl-12-methylbenz[a]anthracene
+            C19562  7-Hydroxymethyl-12-methylbenz[a]anthracene sulfate
+            C19563  4-[(Hydroxymethyl)nitrosoamino]-1-(3-pyridinyl)-1-butanone
+            C19564  4-(Nitrosoamino)-1-(3-pyridinyl)-1-butanone
+            C19565  4-Hydroxy-1-(3-pyridinyl)-1-butanone
+            C19566  4-Hydroxy-4-(methylnitrosoamino)-1-(3-pyridinyl)-1-butanone
+            C19567  4-Oxo-1-(3-pyridyl)-1-butanone
+            C19568  N-Nitrosomethanamine
+            C19569  3-Succinoylpyridine
+            C19574  4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol
+            C19577  1-(Methylnitrosoamino)-4-(3-pyridinyl)-1,4-butanediol
+            C19578  5-(3-Pyridyl)-2-hydroxytetrahydrofuran
+            C19579  gamma-Hydroxy-3-pyridinebutanoate
+            C19580  alpha-[3-[(Hydroxymethyl)nitrosoamino]propyl]-3-pyridinemethanol
+            C19581  alpha-[3-(Nitrosoamino)propyl]-3-pyridinemethanol
+            C19582  1-(3-Pyridinyl)-1,4-butanediol
+            C19586  Aflatoxin B1-exo-8,9-epoxide
+            C19602  4-(Methylnitrosamino)-1-(1-oxido-3-pyridinyl)-1-butanone
+            C19603  4-(Methylnitrosamino)-1-(3-pyridyl-N-oxide)-1-butanol
+            C19605  4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol glucuronide
+            C19606  NNAL-N-glucuronide
+            C20280  1-Phenylazo-2,6-dihydroxynaphthalene
+            C20281  1-(4-Hydroxyphenylazo)-2-naphthol
+            C20282  1-(4-Hydroxyphenylazo)-naphthalene-2,6-diol
+            C20283  1-(3,4-Dihydroxyphenylazo)-2-naphthol
+            C20284  Benzenediazonium
+            C20285  4-Acetylaminobiphenyl
+            C20286  2-Hydroxyamino-1-methyl-6-phenylimidazo[4,5-b]pyridine
+            C20287  2-Acetoxyamino-1-methyl-6-phenylimidazo[4,5-b]pyridine
+            C20288  N-Sulfonyloxy-PhIP
+            C20289  N-Hydroxy-IQ
+            C20290  N-Acetoxy-IQ
+            C20291  N-Hydroxy-MeIQx
+            C20293  N-Acetoxy-MeIQx
+            C20301  alpha-Hydroxy-NDMA
+            C20302  Methyldiazonium ion
+            C20303  Chloroethylene oxide
+            C20304  S-(2-Chloroethyl)glutathione
+            C20305  1,2-Dichloroethanol
+            C20306  Methyldiazohydroxide
+REFERENCE   PMID:15660110
+  AUTHORS   Luch A.
+  TITLE     Nature and nurture - lessons from chemical carcinogenesis.
+  JOURNAL   Nat Rev Cancer 5:113-25 (2005)
+            DOI:10.1038/nrc1546
+REFERENCE   PMID:14570033
+  AUTHORS   Hecht SS
+  TITLE     Tobacco carcinogens, their biomarkers and tobacco-induced cancer.
+  JOURNAL   Nat Rev Cancer 3:733-44 (2003)
+            DOI:10.1038/nrc1190
+REFERENCE   PMID:18066431
+  AUTHORS   Oliveira PA, Colaco A, Chaves R, Guedes-Pinto H, De-La-Cruz P LF, Lopes C
+  TITLE     Chemical carcinogenesis.
+  JOURNAL   An Acad Bras Cienc 79:593-616 (2007)
+            DOI:10.1590/S0001-37652007000400004
+REFERENCE   PMID:15489140
+  AUTHORS   Wogan GN, Hecht SS, Felton JS, Conney AH, Loeb LA.
+  TITLE     Environmental and chemical carcinogenesis.
+  JOURNAL   Semin Cancer Biol 14:473-86 (2004)
+            DOI:10.1016/j.semcancer.2004.06.010
+REFERENCE   PMID:21234336
+  AUTHORS   Hang B
+  TITLE     Formation and repair of tobacco carcinogen-derived bulky DNA adducts.
+  JOURNAL   J Nucleic Acids 2010:709521 (2010)
+            DOI:10.4061/2010/709521
+REFERENCE   PMID:12928348
+  AUTHORS   Tsuneoka Y, Dalton TP, Miller ML, Clay CD, Shertzer HG, Talaska G, Medvedovic M, Nebert DW
+  TITLE     4-aminobiphenyl-induced liver and urinary bladder DNA adduct formation in Cyp1a2(-/-) and Cyp1a2(+/+) mice.
+  JOURNAL   J Natl Cancer Inst 95:1227-37 (2003)
+            DOI:10.1093/jnci/djg025
+REFERENCE   PMID:11978484
+  AUTHORS   Kawanishi S, Hiraku Y, Murata M, Oikawa S
+  TITLE     The role of metals in site-specific DNA damage with reference to carcinogenesis.
+  JOURNAL   Free Radic Biol Med 32:822-32 (2002)
+            DOI:10.1016/S0891-5849(02)00779-7
+REFERENCE   PMID:20232918
+  AUTHORS   Patterson AD, Gonzalez FJ, Idle JR
+  TITLE     Xenobiotic metabolism: a view through the metabolometer.
+  JOURNAL   Chem Res Toxicol 23:851-60 (2010)
+            DOI:10.1021/tx100020p
+REFERENCE   PMID:9202760
+  AUTHORS   Turesky RJ, Box RM, Markovic J, Gremaud E, Snyderwine EG
+  TITLE     Formation and persistence of DNA adducts of 2-amino-3-methylimidazo[4,5-f]quinoline in the rat and nonhuman primates.
+  JOURNAL   Mutat Res 376:235-41 (1997)
+            DOI:10.1016/S0027-5107(97)00048-1
+REFERENCE   PMID:20570348
+  AUTHORS   Immonen E, Kummu M, Petsalo A, Pihlaja T, Mathiesen L, Nielsen JK, Knudsen LE, Vahakangas K, Myllynen P
+  TITLE     Toxicokinetics of the food-toxin IQ in human placental perfusion is not affected by ABCG2 or xenobiotic metabolism.
+  JOURNAL   Placenta 31:641-8 (2010)
+            DOI:10.1016/j.placenta.2010.05.002
+REFERENCE   PMID:8702479
+  AUTHORS   Solomon MS, Morgenthaler PM, Turesky RJ, Essigmann JM
+  TITLE     Mutational and DNA binding specificity of the carcinogen 2-amino-3, 8-dimethylimidazo[4,5-f]quinoxaline.
+  JOURNAL   J Biol Chem 271:18368-74 (1996)
+            DOI:10.1074/jbc.271.31.18368
+REFERENCE   PMID:21456541
+  AUTHORS   Nauwelaers G, Bessette EE, Gu D, Tang Y, Rageul J, Fessard V, Yuan JM, Yu MC, Langouet S, Turesky RJ
+  TITLE     DNA adduct formation of 4-aminobiphenyl and heterocyclic aromatic amines in human hepatocytes.
+  JOURNAL   Chem Res Toxicol 24:913-25 (2011)
+            DOI:10.1021/tx200091y
+REFERENCE   PMID:20669524
+  AUTHORS   
+  TITLE     The Health Consequences of Involuntary Exposure to Tobacco Smoke: A Report of the Surgeon General.
+  JOURNAL   The Health Consequences of Involuntary Exposure to Tobacco Smoke: A Report of the  (2006)
+REFERENCE   PMID:17445838
+  AUTHORS   Singh R, Sram RJ, Binkova B, Kalina I, Popov TA, Georgieva T, Garte S, Taioli E, Farmer PB
+  TITLE     The relationship between biomarkers of oxidative DNA damage, polycyclic aromatic hydrocarbon DNA adducts, antioxidant status and genetic susceptibility following exposure to environmental air pollution in humans.
+  JOURNAL   Mutat Res 620:83-92 (2007)
+            DOI:10.1016/j.mrfmmm.2007.02.025
+REFERENCE   PMID:15298956
+  AUTHORS   Lodovici M, Luceri C, Guglielmi F, Bacci C, Akpan V, Fonnesu ML, Boddi V, Dolara P.
+  TITLE     Benzo(a)pyrene diolepoxide (BPDE)-DNA adduct levels in leukocytes of smokers in relation to polymorphism of CYP1A1, GSTM1, GSTP1, GSTT1, and mEH.
+  JOURNAL   Cancer Epidemiol Biomarkers Prev 13:1342-8 (2004)
+REFERENCE   PMID:19531241
+  AUTHORS   Androutsopoulos VP, Tsatsakis AM, Spandidos DA
+  TITLE     Cytochrome P450 CYP1A1: wider roles in cancer progression and prevention.
+  JOURNAL   BMC Cancer 9:187 (2009)
+            DOI:10.1186/1471-2407-9-187
+REFERENCE   PMID:11376689
+  AUTHORS   Gonzalez FJ, Kimura S
+  TITLE     Understanding the role of xenobiotic-metabolism in chemical carcinogenesis using gene knockout mice.
+  JOURNAL   Mutat Res 477:79-87 (2001)
+            DOI:10.1016/S0027-5107(01)00109-9
+REFERENCE   PMID:11467078
+  AUTHORS   Banoglu E
+  TITLE     Current status of the cytosolic sulfotransferases in the metabolic activation of promutagens and procarcinogens.
+  JOURNAL   Curr Drug Metab 1:1-30 (2000)
+            DOI:10.2174/1389200003339234
+REFERENCE   PMID:15532073
+  AUTHORS   Lehner AF, Horn J, Flesher JW
+  TITLE     Mass spectrometric analysis of 7-sulfoxymethyl-12-methylbenz[a]anthracene and related electrophilic polycyclic aromatic hydrocarbon metabolites.
+  JOURNAL   J Mass Spectrom 39:1366-78 (2004)
+            DOI:10.1002/jms.730
+REFERENCE   PMID:21217854
+  AUTHORS   Stiborova M, Martinek V, Semanska M, Hodek P, Dracinsky M, Cvacka J, Schmeiser HH, Frei E
+  TITLE     Oxidation of the carcinogenic non-aminoazo dye 1-phenylazo-2-hydroxy-naphthalene (Sudan I) by cytochromes P450 and peroxidases: a comparative study.
+  JOURNAL   Interdiscip Toxicol 2:195-200 (2009)
+            DOI:10.2478/v10102-009-0017-z
+REFERENCE   PMID:10913381
+  AUTHORS   Maanen MJ, Smeets CJ, Beijnen JH
+  TITLE     Chemistry, pharmacology and pharmacokinetics of N,N',N" -triethylenethiophosphoramide (ThioTEPA).
+  JOURNAL   Cancer Treat Rev 26:257-68 (2000)
+            DOI:10.1053/ctrv.2000.0170
+REFERENCE   PMID:11092599
+  AUTHORS   Hoes I, Van Dongen W, Lemiere F, Esmans EL, Van Bockstaele D, Berneman ZN
+  TITLE     Comparison between capillary and nano liquid chromatography-electrospray mass spectrometry for the analysis of minor DNA-melphalan adducts.
+  JOURNAL   J Chromatogr B Biomed Sci Appl 748:197-212 (2000)
+            DOI:10.1016/S0378-4347(00)00400-X
+REFERENCE   PMID:22705365
+  AUTHORS   Lee JC, Son YO, Pratheeshkumar P, Shi X
+  TITLE     Oxidative stress and metal carcinogenesis.
+  JOURNAL   Free Radic Biol Med 53:742-57 (2012)
+            DOI:10.1016/j.freeradbiomed.2012.06.002
+REFERENCE   PMID:12435844
+  AUTHORS   Wild CP, Turner PC
+  TITLE     The toxicology of aflatoxins as a basis for public health decisions.
+  JOURNAL   Mutagenesis 17:471-81 (2002)
+            DOI:10.1093/mutage/17.6.471
+REFERENCE   PMID:9275165
+  AUTHORS   Kobertz WR, Wang D, Wogan GN, Essigmann JM
+  TITLE     An intercalation inhibitor altering the target selectivity of DNA damaging agents: synthesis of site-specific aflatoxin B1 adducts in a p53 mutational hotspot.
+  JOURNAL   Proc Natl Acad Sci U S A 94:9579-84 (1997)
+            DOI:10.1073/pnas.94.18.9579
+REFERENCE   PMID:8759017
+  AUTHORS   Bailey EA, Iyer RS, Harris TM, Essigmann JM
+  TITLE     A viral genome containing an unstable aflatoxin B1-N7-guanine DNA adduct situated at a unique site.
+  JOURNAL   Nucleic Acids Res 24:2821-8 (1996)
+            DOI:10.1093/nar/24.14.2821
+REFERENCE   PMID:21473878
+  AUTHORS   Chiang HC, Wang CY, Lee HL, Tsou TC
+  TITLE     Metabolic effects of CYP2A6 and CYP2A13 on 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK)-induced gene mutation--a mammalian cell-based mutagenesis approach.
+  JOURNAL   Toxicol Appl Pharmacol 253:145-52 (2011)
+            DOI:10.1016/j.taap.2011.03.022
+REFERENCE   PMID:21154658
+  AUTHORS   Bhat SH, Gelhaus SL, Mesaros C, Vachani A, Blair IA
+  TITLE     A new liquid chromatography/mass spectrometry method for 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol (NNAL) in urine.
+  JOURNAL   Rapid Commun Mass Spectrom 25:115-21 (2011)
+            DOI:10.1002/rcm.4824
+REFERENCE   PMID:20159989
+  AUTHORS   Maertens LA, Upadhyaya P, Hecht SS, Zimmerman CL
+  TITLE     Formation and distribution of NNK metabolites in an isolated perfused rat lung.
+  JOURNAL   Drug Metab Dispos 38:752-60 (2010)
+            DOI:10.1124/dmd.109.031492
+REFERENCE   PMID:8951235
+  AUTHORS   Lee VM, Keefer LK, Archer MC
+  TITLE     An evaluation of the roles of metabolic denitrosation and alpha-hydroxylation in the hepatotoxicity of N-Nitrosodimethylamine.
+  JOURNAL   Chem Res Toxicol 9:1319-24 (1996)
+            DOI:10.1021/tx960077u
+REFERENCE   PMID:21163908
+  AUTHORS   Swenberg JA, Lu K, Moeller BC, Gao L, Upton PB, Nakamura J, Starr TB
+  TITLE     Endogenous versus exogenous DNA adducts: their role in carcinogenesis, epidemiology, and risk assessment.
+  JOURNAL   Toxicol Sci 120 Suppl 1:S130-45 (2011)
+            DOI:10.1093/toxsci/kfq371
+REFERENCE   PMID:10753215
+  AUTHORS   Yang Y, Nair J, Barbin A, Bartsch H
+  TITLE     Immunohistochemical detection of 1,N(6)-ethenodeoxyadenosine, a promutagenic DNA adduct, in liver of rats exposed to vinyl chloride or an iron overload.
+  JOURNAL   Carcinogenesis 21:777-81 (2000)
+            DOI:10.1093/carcin/21.4.777
+REFERENCE   PMID:15582261
+  AUTHORS   Bartsch H, Nair J
+  TITLE     Oxidative stress and lipid peroxidation-derived DNA-lesions in inflammation driven carcinogenesis.
+  JOURNAL   Cancer Detect Prev 28:385-91 (2004)
+            DOI:10.1016/j.cdp.2004.07.004
+REFERENCE   PMID:16084004
+  AUTHORS   Kehe K, Szinicz L
+  TITLE     Medical aspects of sulphur mustard poisoning.
+  JOURNAL   Toxicology 214:198-209 (2005)
+            DOI:10.1016/j.tox.2005.06.014
+REFERENCE   PMID:17292678
+  AUTHORS   Matijasevic Z, Volkert MR
+  TITLE     Base excision repair sensitizes cells to sulfur mustard and chloroethyl ethyl sulfide.
+  JOURNAL   DNA Repair (Amst) 6:733-41 (2007)
+            DOI:10.1016/j.dnarep.2006.12.014
+REL_PATHWAY hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa05210  Colorectal cancer
+            hsa05211  Renal cell carcinoma
+            hsa05215  Prostate cancer
+            hsa05219  Bladder cancer
+            hsa05221  Acute myeloid leukemia
+            hsa05222  Small cell lung cancer
+            hsa05223  Non-small cell lung cancer
+            hsa05224  Breast cancer
+            hsa05225  Hepatocellular carcinoma
+            hsa05226  Gastric cancer
+KO_PATHWAY  ko05204
+///

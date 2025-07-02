@@ -1,0 +1,114 @@
+ENTRY       hsa04730                    Pathway
+NAME        Long-term depression - Homo sapiens (human)
+DESCRIPTION Cerebellar long-term depression (LTD), thought to be a molecular and cellular basis for cerebellar learning, is a process involving a decrease in the synaptic strength between parallel fiber (PF) and Purkinje cells (PCs) induced by the conjunctive activation of PFs and climbing fiber (CF). Multiple signal transduction pathways have been shown to be involved in this process. Activation of PFs terminating on spines in dendritic branchlets leads to glutamate release and activation of both AMPA and mGluRs. Activation of CFs, which make multiple synaptic contacts on proximal dendrites, also via AMPA receptors, opens voltage-gated calcium channels (VGCCs) and causes a generalized influx of calcium. These cellular signals, generated from two different synaptic origins, trigger a cascade of events culminating in a phosphorylation-dependent, long-term reduction in AMPA receptor sensitivity at the PF-PC synapse. This may take place either through receptor internalization and/or through receptor desensitization.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP hsa04730  Long-term depression
+NETWORK     nt06410  Calcium signaling
+            nt06462  Spinocerebellar ataxia
+            nt06463  Parkinson disease
+  ELEMENT   N00953  mGluR1-TRPC3 signaling pathway
+DRUG        D12516  Zagociguat (USAN/INN)
+DBLINKS     GO: 0048169
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        4842  NOS1; nitric oxide synthase 1 [KO:K13240] [EC:1.14.13.39]
+            2977  GUCY1A2; guanylate cyclase 1 soluble subunit alpha 2 [KO:K12318] [EC:4.6.1.2]
+            2982  GUCY1A1; guanylate cyclase 1 soluble subunit alpha 1 [KO:K12318] [EC:4.6.1.2]
+            2983  GUCY1B1; guanylate cyclase 1 soluble subunit beta 1 [KO:K12319] [EC:4.6.1.2]
+            5592  PRKG1; protein kinase cGMP-dependent 1 [KO:K07376] [EC:2.7.11.12]
+            5593  PRKG2; protein kinase cGMP-dependent 2 [KO:K19477] [EC:2.7.11.12]
+            10842  PPP1R17; protein phosphatase 1 regulatory subunit 17 [KO:K08067]
+            5519  PPP2R1B; protein phosphatase 2 scaffold subunit Abeta [KO:K03456]
+            5518  PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha [KO:K03456]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2895  GRID2; glutamate ionotropic receptor delta type subunit 2 [KO:K05207]
+            2911  GRM1; glutamate metabotropic receptor 1 [KO:K04603]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            2781  GNAZ; G protein subunit alpha z [KO:K04535]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            2768  GNA12; G protein subunit alpha 12 [KO:K04346]
+            10672  GNA13; G protein subunit alpha 13 [KO:K04639]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            2890  GRIA1; glutamate ionotropic receptor AMPA type subunit 1 [KO:K05197]
+            2891  GRIA2; glutamate ionotropic receptor AMPA type subunit 2 [KO:K05198]
+            2892  GRIA3; glutamate ionotropic receptor AMPA type subunit 3 [KO:K05199]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            6261  RYR1; ryanodine receptor 1 [KO:K04961]
+            1392  CRH; corticotropin releasing hormone [KO:K05256]
+            1394  CRHR1; corticotropin releasing hormone receptor 1 [KO:K04578]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+COMPOUND    C00025  L-Glutamate
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00219  Arachidonate
+            C00533  Nitric oxide
+            C00641  1,2-Diacyl-sn-glycerol
+            C00942  3',5'-Cyclic GMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+REFERENCE   PMID:12415297
+  AUTHORS   Ito M.
+  TITLE     The molecular organization of cerebellar long-term depression.
+  JOURNAL   Nat Rev Neurosci 3:896-902 (2002)
+            DOI:10.1038/nrn962
+REFERENCE   PMID:11427694
+  AUTHORS   Ito M.
+  TITLE     Cerebellar long-term depression: characterization, signal transduction, and functional roles.
+  JOURNAL   Physiol Rev 81:1143-95 (2001)
+            DOI:10.1152/physrev.2001.81.3.1143
+REFERENCE   
+  AUTHORS   Purves D, Augustine GJ (ed).
+  TITLE     Neuroscience
+  JOURNAL   Sunderland, Mass.:Sinauer Associates (2004)
+REFERENCE   PMID:9735948
+  AUTHORS   Daniel H, Levenes C, Crepel F.
+  TITLE     Cellular mechanisms of cerebellar LTD.
+  JOURNAL   Trends Neurosci 21:401-7 (1998)
+            DOI:10.1016/S0166-2236(98)01304-6
+REFERENCE   PMID:9602501
+  AUTHORS   Levenes C, Daniel H, Crepel F.
+  TITLE     Long-term depression of synaptic transmission in the cerebellum: cellular and molecular mechanisms revisited.
+  JOURNAL   Prog Neurobiol 55:79-91 (1998)
+            DOI:10.1016/S0301-0082(97)00096-8
+REFERENCE   PMID:14509570
+  AUTHORS   Metzger F, Kapfhammer JP.
+  TITLE     Protein kinase C: its role in activity-dependent Purkinje cell dendritic development and plasticity.
+  JOURNAL   Cerebellum 2:206-14 (2003)
+            DOI:10.1080/14734220310016150
+REL_PATHWAY hsa04020  Calcium signaling pathway
+            hsa04724  Glutamatergic synapse
+KO_PATHWAY  ko04730
+///

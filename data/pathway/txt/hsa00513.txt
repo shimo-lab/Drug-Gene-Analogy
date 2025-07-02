@@ -1,0 +1,119 @@
+ENTRY       hsa00513                    Pathway
+NAME        Various types of N-glycan biosynthesis - Homo sapiens (human)
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00513  Various types of N-glycan biosynthesis
+MODULE      hsa_M00072  N-glycosylation by oligosaccharyltransferase [PATH:hsa00513]
+DBLINKS     GO: 0006487
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        79868  ALG13; ALG13 UDP-N-acetylglucosaminyltransferase subunit [KO:K07432] [EC:2.4.1.141]
+            199857  ALG14; ALG14 UDP-N-acetylglucosaminyltransferase subunit [KO:K07441] [EC:2.4.1.141]
+            56052  ALG1; ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase [KO:K03842] [EC:2.4.1.142]
+            85365  ALG2; ALG2 alpha-1,3/1,6-mannosyltransferase [KO:K03843] [EC:2.4.1.132 2.4.1.257]
+            440138  ALG11; ALG11 alpha-1,2-mannosyltransferase [KO:K03844] [EC:2.4.1.131]
+            10195  ALG3; ALG3 alpha-1,3- mannosyltransferase [KO:K03845] [EC:2.4.1.258]
+            79796  ALG9; ALG9 alpha-1,2-mannosyltransferase [KO:K03846] [EC:2.4.1.259 2.4.1.261]
+            79087  ALG12; ALG12 alpha-1,6-mannosyltransferase [KO:K03847] [EC:2.4.1.260]
+            3703  STT3A; STT3 oligosaccharyltransferase complex catalytic subunit A [KO:K07151] [EC:2.4.99.18]
+            201595  STT3B; STT3 oligosaccharyltransferase complex catalytic subunit B [KO:K07151] [EC:2.4.99.18]
+            6184  RPN1; ribophorin I [KO:K12666]
+            6185  RPN2; ribophorin II [KO:K12667]
+            1603  DAD1; defender against cell death 1 [KO:K12668]
+            7991  TUSC3; tumor suppressor candidate 3 [KO:K12669]
+            1650  DDOST; dolichyl-diphosphooligosaccharide--protein glycosyltransferase non-catalytic subunit [KO:K12670]
+            11253  MAN1B1; mannosidase alpha class 1B member 1 [KO:K23741] [EC:3.2.1.209]
+            10905  MAN1A2; mannosidase alpha class 1A member 2 [KO:K01230] [EC:3.2.1.113]
+            57134  MAN1C1; mannosidase alpha class 1C member 1 [KO:K01230] [EC:3.2.1.113]
+            4121  MAN1A1; mannosidase alpha class 1A member 1 [KO:K01230] [EC:3.2.1.113]
+            4245  MGAT1; alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase [KO:K00726] [EC:2.4.1.101]
+            4124  MAN2A1; mannosidase alpha class 2A member 1 [KO:K01231] [EC:3.2.1.114]
+            4122  MAN2A2; mannosidase alpha class 2A member 2 [KO:K01231] [EC:3.2.1.114]
+            4247  MGAT2; alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase [KO:K00736] [EC:2.4.1.143]
+            3073  HEXA; hexosaminidase subunit alpha [KO:K12373] [EC:3.2.1.52]
+            3074  HEXB; hexosaminidase subunit beta [KO:K12373] [EC:3.2.1.52]
+            2530  FUT8; fucosyltransferase 8 [KO:K00717] [EC:2.4.1.68]
+            284004  HEXD; hexosaminidase D [KO:K14459] [EC:3.2.1.52]
+            25834  MGAT4C; MGAT4 family member C [KO:K13748] [EC:2.4.1.201 2.4.1.145]
+            11320  MGAT4A; alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A [KO:K00738] [EC:2.4.1.145]
+            11282  MGAT4B; alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase B [KO:K00738] [EC:2.4.1.145]
+            152586  MGAT4D; MGAT4 family member D [KO:K00738] [EC:2.4.1.145]
+            2683  B4GALT1; beta-1,4-galactosyltransferase 1 [KO:K07966] [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+            8704  B4GALT2; beta-1,4-galactosyltransferase 2 [KO:K07967] [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+            8703  B4GALT3; beta-1,4-galactosyltransferase 3 [KO:K07968] [EC:2.4.1.90 2.4.1.38 2.4.1.-]
+            6487  ST3GAL3; ST3 beta-galactoside alpha-2,3-sialyltransferase 3 [KO:K00781] [EC:2.4.3.6]
+            283358  B4GALNT3; beta-1,4-N-acetyl-galactosaminyltransferase 3 [KO:K09656] [EC:2.4.1.244]
+            338707  B4GALNT4; beta-1,4-N-acetyl-galactosaminyltransferase 4 [KO:K09657] [EC:2.4.1.244]
+            64377  CHST8; carbohydrate sulfotransferase 8 [KO:K09672] [EC:2.8.2.-]
+            83539  CHST9; carbohydrate sulfotransferase 9 [KO:K09673] [EC:2.8.2.-]
+COMPOUND    G00011
+            G00012
+            G00013
+            G00014
+            G00015
+            G00016
+            G00017
+            G00179
+            G01813
+            G05477
+            G10665
+            G10694
+            G10716
+            G10770
+            G10841
+            G10920
+            G11000
+            G11040
+            G11933
+            G12617
+            G12625
+            G12626
+            G13047
+            G13048
+            G13049
+            G13050
+            G13055
+            G13056
+            G13057
+            G13058
+            G13059
+REFERENCE   PMID:11412862
+  AUTHORS   Munro S.
+  TITLE     What can yeast tell us about N-linked glycosylation in the Golgi apparatus?
+  JOURNAL   FEBS Lett 498:223-7 (2001)
+            DOI:10.1016/S0014-5793(01)02488-7
+REFERENCE   PMID:9878803
+  AUTHORS   Dean N.
+  TITLE     Asparagine-linked glycosylation in the yeast Golgi.
+  JOURNAL   Biochim Biophys Acta 1426:309-22 (1999)
+            DOI:10.1016/S0304-4165(98)00132-9
+REFERENCE   PMID:9878780
+  AUTHORS   Herscovics A.
+  TITLE     Processing glycosidases of Saccharomyces cerevisiae.
+  JOURNAL   Biochim Biophys Acta 1426:275-85 (1999)
+            DOI:10.1016/S0304-4165(98)00129-9
+REFERENCE   PMID:9218445
+  AUTHORS   Wang XH, Nakayama K, Shimma Y, Tanaka A, Jigami Y.
+  TITLE     MNN6, a member of the KRE2/MNT1 family, is the gene for mannosylphosphate transfer in Saccharomyces cerevisiae.
+  JOURNAL   J Biol Chem 272:18117-24 (1997)
+            DOI:10.1074/jbc.272.29.18117
+REFERENCE   PMID:9756928
+  AUTHORS   Rayner JC, Munro S.
+  TITLE     Identification of the MNN2 and MNN5 mannosyltransferases required for forming and extending the mannose branches of the outer chain mannans of Saccharomyces cerevisiae.
+  JOURNAL   J Biol Chem 273:26836-43 (1998)
+            DOI:10.1074/jbc.273.41.26836
+REFERENCE   PMID:10037752
+  AUTHORS   Jungmann J, Rayner JC, Munro S.
+  TITLE     The Saccharomyces cerevisiae protein Mnn10p/Bed1p is a subunit of a Golgi mannosyltransferase complex.
+  JOURNAL   J Biol Chem 274:6579-85 (1999)
+            DOI:10.1074/jbc.274.10.6579
+REFERENCE   PMID:8253757
+  AUTHORS   Nakanishi-Shindo Y, Nakayama K, Tanaka A, Toda Y, Jigami Y.
+  TITLE     Structure of the N-linked oligosaccharides that show the complete loss of alpha-1,6-polymannose outer chain from och1, och1 mnn1, and och1 mnn1 alg3 mutants of Saccharomyces cerevisiae.
+  JOURNAL   J Biol Chem 268:26338-45 (1993)
+REFERENCE   PMID:20233335
+  AUTHORS   Gomord V, Fitchette AC, Menu-Bouaouiche L, Saint-Jore-Dupas C, Plasson C, Michaud D, Faye L
+  TITLE     Plant-specific glycosylation patterns in the context of therapeutic protein production.
+  JOURNAL   Plant Biotechnol J 8:564-87 (2010)
+            DOI:10.1111/j.1467-7652.2009.00497.x
+REL_PATHWAY hsa00510  N-Glycan biosynthesis
+KO_PATHWAY  ko00513
+///

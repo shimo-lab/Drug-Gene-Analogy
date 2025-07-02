@@ -1,0 +1,271 @@
+ENTRY       hsa05230                    Pathway
+NAME        Central carbon metabolism in cancer - Homo sapiens (human)
+DESCRIPTION Malignant transformation of cells requires specific adaptations of cellular metabolism to support growth and survival. In the early twentieth century, Otto Warburg established that there are fundamental differences in the central metabolic pathways operating in malignant tissue. He showed that cancer cells consume a large amount of glucose, maintain high rate of glycolysis and convert a majority of glucose into lactic acid even under normal oxygen concentrations (Warburg's Effects). More recently, it has been recognized that the 'Warburg effect' encompasses a similarly increased utilization of glutamine. From the intermediate molecules provided by enhanced glycolysis and glutaminolysis, cancer cells synthesize most of the macromolecules required for the duplication of their biomass and genome. These cancer-specific alterations represent a major consequence of genetic mutations and the ensuing changes of signalling pathways in cancer cells. Three transcription factors, c-MYC, HIF-1 and p53, are key regulators and coordinate regulation of cancer metabolism in different ways, and many other oncogenes and tumor suppressor genes cluster along the signaling pathways that regulate c-MYC, HIF-1 and p53.
+CLASS       Human Diseases; Cancer: overview
+PATHWAY_MAP hsa05230  Central carbon metabolism in cancer
+DRUG        D07257  Lonidamine (INN)
+            D11090  Ivosidenib (JAN/USAN/INN)
+            D11712  Pralsetinib (USAN/INN)
+            D11713  Selpercatinib (JAN/USAN/INN)
+            D11738  Telaglenastat (USAN/INN)
+            D11739  Telaglenastat hydrochloride (USAN)
+            D12354  Pralsetinib hydrate (JAN)
+            D12443  Nanvuranlat hydrochloride hydrate (JAN)
+            D12483  Olutasidenib (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6513  SLC2A1; solute carrier family 2 member 1 [KO:K07299]
+            6514  SLC2A2; solute carrier family 2 member 2 [KO:K07593]
+            2645  GCK; glucokinase [KO:K12407] [EC:2.7.1.2]
+            5315  PKM; pyruvate kinase M1/2 [KO:K00873] [EC:2.7.1.40]
+            5161  PDHA2; pyruvate dehydrogenase E1 subunit alpha 2 [KO:K00161] [EC:1.2.4.1]
+            5160  PDHA1; pyruvate dehydrogenase E1 subunit alpha 1 [KO:K00161] [EC:1.2.4.1]
+            5162  PDHB; pyruvate dehydrogenase E1 subunit beta [KO:K00162] [EC:1.2.4.1]
+            5163  PDK1; pyruvate dehydrogenase kinase 1 [KO:K12077] [EC:2.7.11.2]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            9997  SCO2; synthesis of cytochrome C oxidase 2 [KO:K23755]
+            6510  SLC1A5; solute carrier family 1 member 5 [KO:K05616]
+            23410  SIRT3; sirtuin 3 [KO:K11413] [EC:2.3.1.286]
+            9123  SLC16A3; solute carrier family 16 member 3 [KO:K08180]
+            51548  SIRT6; sirtuin 6 [KO:K11416] [EC:2.3.1.286]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            3091  HIF1A; hypoxia inducible factor 1 subunit alpha [KO:K08268]
+            3815  KIT; KIT proto-oncogene, receptor tyrosine kinase [KO:K05091] [EC:2.7.10.1]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            5979  RET; ret proto-oncogene [KO:K05126] [EC:2.7.10.1]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            2064  ERBB2; erb-b2 receptor tyrosine kinase 2 [KO:K05083] [EC:2.7.10.1]
+            4914  NTRK1; neurotrophic receptor tyrosine kinase 1 [KO:K03176] [EC:2.7.10.1]
+            4916  NTRK3; neurotrophic receptor tyrosine kinase 3 [KO:K05101] [EC:2.7.10.1]
+            5156  PDGFRA; platelet derived growth factor receptor alpha [KO:K04363] [EC:2.7.10.1]
+            5159  PDGFRB; platelet derived growth factor receptor beta [KO:K05089] [EC:2.7.10.1]
+            2260  FGFR1; fibroblast growth factor receptor 1 [KO:K04362] [EC:2.7.10.1]
+            2263  FGFR2; fibroblast growth factor receptor 2 [KO:K05093] [EC:2.7.10.1]
+            2261  FGFR3; fibroblast growth factor receptor 3 [KO:K05094] [EC:2.7.10.1]
+            2322  FLT3; fms related receptor tyrosine kinase 3 [KO:K05092] [EC:2.7.10.1]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            27165  GLS2; glutaminase 2 [KO:K01425] [EC:3.5.1.2]
+            2744  GLS; glutaminase [KO:K01425] [EC:3.5.1.2]
+            2539  G6PD; glucose-6-phosphate dehydrogenase [KO:K00036] [EC:1.1.1.49 1.1.1.363]
+            3101  HK3; hexokinase 3 [KO:K00844] [EC:2.7.1.1]
+            3098  HK1; hexokinase 1 [KO:K00844] [EC:2.7.1.1]
+            3099  HK2; hexokinase 2 [KO:K00844] [EC:2.7.1.1]
+            80201  HKDC1; hexokinase domain containing 1 [KO:K00844] [EC:2.7.1.1]
+            5213  PFKM; phosphofructokinase, muscle [KO:K00850] [EC:2.7.1.11]
+            5214  PFKP; phosphofructokinase, platelet [KO:K00850] [EC:2.7.1.11]
+            5211  PFKL; phosphofructokinase, liver type [KO:K00850] [EC:2.7.1.11]
+            5223  PGAM1; phosphoglycerate mutase 1 [KO:K01834] [EC:5.4.2.11]
+            5224  PGAM2; phosphoglycerate mutase 2 [KO:K01834] [EC:5.4.2.11]
+            441531  PGAM4; phosphoglycerate mutase family member 4 [KO:K01834] [EC:5.4.2.11]
+            160287  LDHAL6A; lactate dehydrogenase A like 6A [KO:K00016] [EC:1.1.1.27]
+            92483  LDHAL6B; lactate dehydrogenase A like 6B [KO:K00016] [EC:1.1.1.27]
+            3939  LDHA; lactate dehydrogenase A [KO:K00016] [EC:1.1.1.27]
+            3945  LDHB; lactate dehydrogenase B [KO:K00016] [EC:1.1.1.27]
+            3948  LDHC; lactate dehydrogenase C [KO:K00016] [EC:1.1.1.27]
+            3417  IDH1; isocitrate dehydrogenase (NADP(+)) 1 [KO:K00031] [EC:1.1.1.42]
+            3418  IDH2; isocitrate dehydrogenase (NADP(+)) 2 [KO:K00031] [EC:1.1.1.42]
+            57103  TIGAR; TP53 induced glycolysis regulatory phosphatase [KO:K14634] [EC:3.1.3.46]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            8140  SLC7A5; solute carrier family 7 member 5 [KO:K13780]
+COMPOUND    C00022  Pyruvate
+            C00024  Acetyl-CoA
+            C00025  L-Glutamate
+            C00026  2-Oxoglutarate
+            C00031  D-Glucose
+            C00036  Oxaloacetate
+            C00037  Glycine
+            C00041  L-Alanine
+            C00042  Succinate
+            C00049  L-Aspartate
+            C00062  L-Arginine
+            C00064  L-Glutamine
+            C00065  L-Serine
+            C00073  L-Methionine
+            C00074  Phosphoenolpyruvate
+            C00078  L-Tryptophan
+            C00079  L-Phenylalanine
+            C00082  L-Tyrosine
+            C00085  D-Fructose 6-phosphate
+            C00092  D-Glucose 6-phosphate
+            C00097  L-Cysteine
+            C00122  Fumarate
+            C00123  L-Leucine
+            C00135  L-Histidine
+            C00148  L-Proline
+            C00149  (S)-Malate
+            C00152  L-Asparagine
+            C00158  Citrate
+            C00183  L-Valine
+            C00186  (S)-Lactate
+            C00197  3-Phospho-D-glycerate
+            C00311  Isocitrate
+            C00354  D-Fructose 1,6-bisphosphate
+            C00407  L-Isoleucine
+            C00631  2-Phospho-D-glycerate
+            C00665  beta-D-Fructose 2,6-bisphosphate
+            C00704  Superoxide
+REFERENCE   PMID:23279446
+  AUTHORS   Soga T
+  TITLE     Cancer metabolism: key players in metabolic reprogramming.
+  JOURNAL   Cancer Sci 104:275-81 (2013)
+            DOI:10.1111/cas.12085
+REFERENCE   PMID:19460998
+  AUTHORS   Vander Heiden MG, Cantley LC, Thompson CB
+  TITLE     Understanding the Warburg effect: the metabolic requirements of cell proliferation.
+  JOURNAL   Science 324:1029-33 (2009)
+            DOI:10.1126/science.1160809
+REFERENCE   PMID:23071355
+  AUTHORS   Teicher BA, Linehan WM, Helman LJ
+  TITLE     Targeting cancer metabolism.
+  JOURNAL   Clin Cancer Res 18:5537-45 (2012)
+            DOI:10.1158/1078-0432.CCR-12-2587
+REFERENCE   PMID:21127244
+  AUTHORS   Levine AJ, Puzio-Kuter AM
+  TITLE     The control of the metabolic switch in cancers by oncogenes and tumor suppressor genes.
+  JOURNAL   Science 330:1340-4 (2010)
+            DOI:10.1126/science.1193494
+REFERENCE   PMID:24079832
+  AUTHORS   Amoedo ND, Valencia JP, Rodrigues MF, Galina A, Rumjanek FD
+  TITLE     How does the metabolism of tumour cells differ from that of normal cells.
+  JOURNAL   Biosci Rep 33:e00080 (2013)
+            DOI:10.1042/BSR20130066
+REFERENCE   PMID:21258394
+  AUTHORS   Cairns RA, Harris IS, Mak TW
+  TITLE     Regulation of cancer cell metabolism.
+  JOURNAL   Nat Rev Cancer 11:85-95 (2011)
+            DOI:10.1038/nrc2981
+REFERENCE   PMID:22237205
+  AUTHORS   Munoz-Pinedo C, El Mjiyad N, Ricci JE
+  TITLE     Cancer metabolism: current perspectives and future directions.
+  JOURNAL   Cell Death Dis 3:e248 (2012)
+            DOI:10.1038/cddis.2011.123
+REFERENCE   PMID:22156302
+  AUTHORS   Cairns RA, Harris I, McCracken S, Mak TW
+  TITLE     Cancer cell metabolism.
+  JOURNAL   Cold Spring Harb Symp Quant Biol 76:299-311 (2011)
+            DOI:10.1101/sqb.2011.76.012856
+REFERENCE   PMID:18538731
+  AUTHORS   Kroemer G, Pouyssegur J
+  TITLE     Tumor cell metabolism: cancer's Achilles' heel.
+  JOURNAL   Cancer Cell 13:472-82 (2008)
+            DOI:10.1016/j.ccr.2008.05.005
+REFERENCE   PMID:18177721
+  AUTHORS   DeBerardinis RJ, Lum JJ, Hatzivassiliou G, Thompson CB
+  TITLE     The biology of cancer: metabolic reprogramming fuels cell growth and proliferation.
+  JOURNAL   Cell Metab 7:11-20 (2008)
+            DOI:10.1016/j.cmet.2007.10.002
+REFERENCE   PMID:21508971
+  AUTHORS   Koppenol WH, Bounds PL, Dang CV
+  TITLE     Otto Warburg's contributions to current concepts of cancer metabolism.
+  JOURNAL   Nat Rev Cancer 11:325-37 (2011)
+            DOI:10.1038/nrc3038
+REFERENCE   PMID:21801601
+  AUTHORS   Fogg VC, Lanning NJ, Mackeigan JP
+  TITLE     Mitochondria in cancer: at the crossroads of life and death.
+  JOURNAL   Chin J Cancer 30:526-39 (2011)
+            DOI:10.5732/cjc.011.10018
+REFERENCE   PMID:16982728
+  AUTHORS   Kim JW, Dang CV
+  TITLE     Cancer's molecular sweet tooth and the Warburg effect.
+  JOURNAL   Cancer Res 66:8927-30 (2006)
+            DOI:10.1158/0008-5472.CAN-06-1501
+REFERENCE   PMID:18766298
+  AUTHORS   Yeung SJ, Pan J, Lee MH
+  TITLE     Roles of p53, MYC and HIF-1 in regulating glycolysis - the seventh hallmark of cancer.
+  JOURNAL   Cell Mol Life Sci 65:3981-99 (2008)
+            DOI:10.1007/s00018-008-8224-x
+REFERENCE   PMID:23897900
+  AUTHORS   Li B, Simon MC
+  TITLE     Molecular Pathways: Targeting MYC-induced metabolic reprogramming and oncogenic stress in cancer.
+  JOURNAL   Clin Cancer Res 19:5835-41 (2013)
+            DOI:10.1158/1078-0432.CCR-12-3629
+REFERENCE   PMID:22307140
+  AUTHORS   Shen L, Sun X, Fu Z, Yang G, Li J, Yao L
+  TITLE     The fundamental role of the p53 pathway in tumor metabolism and its implication in tumor therapy.
+  JOURNAL   Clin Cancer Res 18:1561-7 (2012)
+            DOI:10.1158/1078-0432.CCR-11-3040
+REFERENCE   PMID:19270154
+  AUTHORS   Jones RG, Thompson CB
+  TITLE     Tumor suppressors and cell metabolism: a recipe for cancer growth.
+  JOURNAL   Genes Dev 23:537-48 (2009)
+            DOI:10.1101/gad.1756509
+REFERENCE   PMID:21340684
+  AUTHORS   Maddocks OD, Vousden KH
+  TITLE     Metabolic regulation by p53.
+  JOURNAL   J Mol Med (Berl) 89:237-45 (2011)
+            DOI:10.1007/s00109-011-0735-5
+REFERENCE   PMID:22750268
+  AUTHORS   Chen JQ, Russo J
+  TITLE     Dysregulation of glucose transport, glycolysis, TCA cycle and glutaminolysis by oncogenes and tumor suppressors in cancer cells.
+  JOURNAL   Biochim Biophys Acta 1826:370-84 (2012)
+            DOI:10.1016/j.bbcan.2012.06.004
+REFERENCE   PMID:20520704
+  AUTHORS   Kaelin WG Jr, Thompson CB
+  TITLE     Q&amp;A: Cancer: clues from cell metabolism.
+  JOURNAL   Nature 465:562-4 (2010)
+            DOI:10.1038/465562a
+REFERENCE   PMID:24113830
+  AUTHORS   Galluzzi L, Kepp O, Vander Heiden MG, Kroemer G
+  TITLE     Metabolic targets for cancer therapy.
+  JOURNAL   Nat Rev Drug Discov 12:829-46 (2013)
+            DOI:10.1038/nrd4145
+REFERENCE   PMID:24738035
+  AUTHORS   Phan LM, Yeung SC, Lee MH
+  TITLE     Cancer metabolic reprogramming: importance, main features, and potentials for precise targeted anti-cancer therapies.
+  JOURNAL   Cancer Biol Med 11:1-19 (2014)
+            DOI:10.7497/j.issn.2095-3941.2014.01.001
+REFERENCE   PMID:22101401
+  AUTHORS   Icard P, Poulain L, Lincet H
+  TITLE     Understanding the central role of citrate in the metabolism of cancer cells.
+  JOURNAL   Biochim Biophys Acta 1825:111-6 (2012)
+            DOI:10.1016/j.bbcan.2011.10.007
+REFERENCE   PMID:22349059
+  AUTHORS   Daye D, Wellen KE
+  TITLE     Metabolic reprogramming in cancer: unraveling the role of glutamine in tumorigenesis.
+  JOURNAL   Semin Cell Dev Biol 23:362-9 (2012)
+            DOI:10.1016/j.semcdb.2012.02.002
+REFERENCE   PMID:23018234
+  AUTHORS   Chiarugi A, Dolle C, Felici R, Ziegler M
+  TITLE     The NAD metabolome--a key determinant of cancer cell biology.
+  JOURNAL   Nat Rev Cancer 12:741-52 (2012)
+            DOI:10.1038/nrc3340
+REFERENCE   PMID:24398961
+  AUTHORS   Guarente L
+  TITLE     The many faces of sirtuins: Sirtuins and the Warburg effect.
+  JOURNAL   Nat Med 20:24-5 (2014)
+            DOI:10.1038/nm.3438
+REFERENCE   PMID:15916903
+  AUTHORS   Fuchs BC, Bode BP
+  TITLE     Amino acid transporters ASCT2 and LAT1 in cancer: partners in crime?
+  JOURNAL   Semin Cancer Biol 15:254-66 (2005)
+            DOI:10.1016/j.semcancer.2005.04.005
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00030  Pentose phosphate pathway
+            hsa00190  Oxidative phosphorylation
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa01212  Fatty acid metabolism
+            hsa04010  MAPK signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+KO_PATHWAY  ko05230
+///

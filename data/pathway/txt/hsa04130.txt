@@ -1,0 +1,353 @@
+ENTRY       hsa04130                    Pathway
+NAME        SNARE interactions in vesicular transport - Homo sapiens (human)
+CLASS       Genetic Information Processing; Folding, sorting and degradation
+PATHWAY_MAP hsa04130  SNARE interactions in vesicular transport
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6804  STX1A; syntaxin 1A [KO:K04560]
+            2054  STX2; syntaxin 2 [KO:K08486]
+            6809  STX3; syntaxin 3 [KO:K08486]
+            112755  STX1B; syntaxin 1B [KO:K08486]
+            6810  STX4; syntaxin 4 [KO:K13502]
+            415117  STX19; syntaxin 19 [KO:K08487]
+            8676  STX11; syntaxin 11 [KO:K08487]
+            8417  STX7; syntaxin 7 [KO:K08488]
+            8675  STX16; syntaxin 16 [KO:K08489]
+            6811  STX5; syntaxin 5 [KO:K08490]
+            55014  STX17; syntaxin 17 [KO:K08491]
+            53407  STX18; syntaxin 18 [KO:K08492]
+            10490  VTI1B; vesicle transport through interaction with t-SNAREs 1B [KO:K08493]
+            143187  VTI1A; vesicle transport through interaction with t-SNAREs 1A [KO:K08493]
+            9527  GOSR1; golgi SNAP receptor complex member 1 [KO:K08495]
+            9570  GOSR2; golgi SNAP receptor complex member 2 [KO:K08496]
+            662  BNIP1; BCL2 interacting protein 1 [KO:K08497]
+            10228  STX6; syntaxin 6 [KO:K08498]
+            9482  STX8; syntaxin 8 [KO:K08501]
+            51272  BET1L; Bet1 golgi vesicular membrane trafficking protein like [KO:K08504]
+            10282  BET1; Bet1 golgi vesicular membrane trafficking protein [KO:K08504]
+            55850  USE1; unconventional SNARE in the ER 1 [KO:K08507]
+            8773  SNAP23; synaptosome associated protein 23 [KO:K08508]
+            9342  SNAP29; synaptosome associated protein 29 [KO:K08509]
+            6843  VAMP1; vesicle associated membrane protein 1 [KO:K08510]
+            6844  VAMP2; vesicle associated membrane protein 2 [KO:K13504]
+            9341  VAMP3; vesicle associated membrane protein 3 [KO:K13505]
+            8673  VAMP8; vesicle associated membrane protein 8 [KO:K08512]
+            8674  VAMP4; vesicle associated membrane protein 4 [KO:K08513]
+            10791  VAMP5; vesicle associated membrane protein 5 [KO:K08514]
+            6845  VAMP7; vesicle associated membrane protein 7 [KO:K08515]
+            10652  YKT6; YKT6 v-SNARE homolog [KO:K08516]
+            9554  SEC22B; SEC22 homolog B, vesicle trafficking protein [KO:K08517]
+REFERENCE   PMID:16882042
+  AUTHORS   Yoshizawa AC, Kawashima S, Okuda S, Fujita M, Itoh M, Moriya Y, Hattori M, Kanehisa M
+  TITLE     Extracting sequence motifs and the phylogenetic features of SNARE-dependent membrane traffic.
+  JOURNAL   Traffic 7:1104-18 (2006)
+            DOI:10.1111/j.1600-0854.2006.00451.x
+REFERENCE   PMID:10839363
+  AUTHORS   Scales SJ, Chen YA, Yoo BY, Patel SM, Doung YC, Scheller RH.
+  TITLE     SNAREs contribute to the specificity of membrane fusion.
+  JOURNAL   Neuron 26:457-64 (2000)
+            DOI:10.1016/S0896-6273(00)81177-0
+REFERENCE   PMID:11737951
+  AUTHORS   Teng FY, Wang Y, Tang BL.
+  TITLE     The syntaxins.
+  JOURNAL   Genome Biol 2:REVIEWS3012 (2001)
+            DOI:10.1186/gb-2001-2-11-reviews3012
+REFERENCE   PMID:11115874
+  AUTHORS   Sanderfoot AA, Assaad FF, Raikhel NV.
+  TITLE     The Arabidopsis genome. An abundance of soluble N-ethylmaleimide-sensitive factor adaptor protein receptors.
+  JOURNAL   Plant Physiol 124:1558-69 (2000)
+            DOI:10.1104/pp.124.4.1558
+REFERENCE   PMID:15342965
+  AUTHORS   Uemura T, Ueda T, Ohniwa RL, Nakano A, Takeyasu K, Sato MH.
+  TITLE     Systematic analysis of SNARE molecules in Arabidopsis: dissection of the post-Golgi network in plant cells.
+  JOURNAL   Cell Struct Funct 29:49-65 (2004)
+            DOI:10.1247/csf.29.49
+REFERENCE   PMID:10872468
+  AUTHORS   Jahn R, Sudhof TC.
+  TITLE     Membrane fusion and exocytosis.
+  JOURNAL   Annu Rev Biochem 68:863-911 (1999)
+            DOI:10.1146/annurev.biochem.68.1.863
+REFERENCE   PMID:11306253
+  AUTHORS   Pelham HR.
+  TITLE     SNAREs and the specificity of membrane fusion.
+  JOURNAL   Trends Cell Biol 11:99-101 (2001)
+            DOI:10.1016/S0962-8924(01)01929-8
+REFERENCE   PMID:11104523
+  AUTHORS   Armstrong J
+  TITLE     Membrane traffic between genomes.
+  JOURNAL   Genome Biol 1:REVIEWS104 (2000)
+            DOI:10.1186/gb-2000-1-1-reviews104
+REFERENCE   PMID:11237004
+  AUTHORS   Bock JB, Matern HT, Peden AA, Scheller RH.
+  TITLE     A genomic perspective on membrane compartment organization.
+  JOURNAL   Nature 409:839-41 (2001)
+            DOI:10.1038/35057024
+REFERENCE   PMID:11252968
+  AUTHORS   Chen YA, Scheller RH.
+  TITLE     SNARE-mediated membrane fusion.
+  JOURNAL   Nat Rev Mol Cell Biol 2:98-106 (2001)
+            DOI:10.1038/35052017
+REFERENCE   PMID:9763449
+  AUTHORS   Seron K, Tieaho V, Prescianotto-Baschong C, Aust T, Blondel MO, Guillaud P, Devilliers G, Rossanese OW, Glick BS, Riezman H, Keranen S, Haguenauer-Tsapis R.
+  TITLE     A yeast t-SNARE involved in endocytosis.
+  JOURNAL   Mol Biol Cell 9:2873-89 (1998)
+            DOI:10.1091/mbc.9.10.2873
+REFERENCE   PMID:10213783
+  AUTHORS   Sanderfoot AA, Raikhel NV.
+  TITLE     The specificity of vesicle trafficking: coat proteins and SNAREs.
+  JOURNAL   Plant Cell 11:629-42 (1999)
+            DOI:10.1105/tpc.11.4.629
+REFERENCE   PMID:9565594
+  AUTHORS   Abeliovich H, Grote E, Novick P, Ferro-Novick S.
+  TITLE     Tlg2p, a yeast syntaxin homolog that resides on the Golgi and endocytic structures.
+  JOURNAL   J Biol Chem 273:11719-27 (1998)
+            DOI:10.1074/jbc.273.19.11719
+REFERENCE   PMID:9553086
+  AUTHORS   Advani RJ, Bae HR, Bock JB, Chao DS, Doung YC, Prekeris R, Yoo JS, Scheller RH.
+  TITLE     Seven novel mammalian SNARE proteins localize to distinct membrane compartments.
+  JOURNAL   J Biol Chem 273:10317-24 (1998)
+            DOI:10.1074/jbc.273.17.10317
+REFERENCE   PMID:10459012
+  AUTHORS   Advani RJ, Yang B, Prekeris R, Lee KC, Klumperman J, Scheller RH.
+  TITLE     VAMP-7 mediates vesicular transport from endosomes to lysosomes.
+  JOURNAL   J Cell Biol 146:765-76 (1999)
+            DOI:10.1083/jcb.146.4.765
+REFERENCE   PMID:12893879
+  AUTHORS   Burri L, Varlamov O, Doege CA, Hofmann K, Beilharz T, Rothman JE, Sollner TH, Lithgow T.
+  TITLE     A SNARE required for retrograde transport to the endoplasmic reticulum.
+  JOURNAL   Proc Natl Acad Sci U S A 100:9873-7 (2003)
+            DOI:10.1073/pnas.1734000100
+REFERENCE   PMID:10085287
+  AUTHORS   Chao DS, Hay JC, Winnick S, Prekeris R, Klumperman J, Scheller RH.
+  TITLE     SNARE membrane trafficking dynamics in vivo.
+  JOURNAL   J Cell Biol 144:869-81 (1999)
+            DOI:10.1083/jcb.144.5.869
+REFERENCE   PMID:10397773
+  AUTHORS   Coe JG, Lim AC, Xu J, Hong W.
+  TITLE     A role for Tlg1p in the transport of proteins within the Golgi apparatus of Saccharomyces cerevisiae.
+  JOURNAL   Mol Biol Cell 10:2407-23 (1999)
+            DOI:10.1091/mbc.10.7.2407
+REFERENCE   PMID:11445562
+  AUTHORS   Dilcher M, Kohler B, von Mollard GF.
+  TITLE     Genetic interactions with the yeast Q-SNARE VTI1 reveal novel functions for the R-SNARE YKT6.
+  JOURNAL   J Biol Chem 276:34537-44 (2001)
+            DOI:10.1074/jbc.M101551200
+REFERENCE   PMID:12853481
+  AUTHORS   Dilcher M, Veith B, Chidambaram S, Hartmann E, Schmitt HD, Fischer von Mollard G.
+  TITLE     Use1p is a yeast SNARE protein required for retrograde traffic to the ER.
+  JOURNAL   EMBO J 22:3664-74 (2003)
+            DOI:10.1093/emboj/cdg339
+REFERENCE   PMID:9446565
+  AUTHORS   Fischer von Mollard G, Stevens TH.
+  TITLE     A human homolog can functionally replace the yeast vesicle-associated SNARE Vti1p in two vesicle transport pathways.
+  JOURNAL   J Biol Chem 273:2624-30 (1998)
+            DOI:10.1074/jbc.273.5.2624
+REFERENCE   PMID:10359592
+  AUTHORS   Fischer von Mollard G, Stevens TH.
+  TITLE     The Saccharomyces cerevisiae v-SNARE Vti1p is required for multiple membrane transport pathways to the vacuole.
+  JOURNAL   Mol Biol Cell 10:1719-32 (1999)
+            DOI:10.1091/mbc.10.6.1719
+REFERENCE   PMID:9614185
+  AUTHORS   Galli T, Zahraoui A, Vaidyanathan VV, Raposo G, Tian JM, Karin M, Niemann H, Louvard D.
+  TITLE     A novel tetanus neurotoxin-insensitive vesicle-associated membrane protein in SNARE complexes of the apical plasma membrane of epithelial cells.
+  JOURNAL   Mol Biol Cell 9:1437-48 (1998)
+            DOI:10.1091/mbc.9.6.1437
+REFERENCE   PMID:11208059
+  AUTHORS   Gerrard SR, Mecklem AB, Stevens TH.
+  TITLE     The yeast endosomal t-SNARE, Pep12p, functions in the absence of its transmembrane domain.
+  JOURNAL   Traffic 1:45-55 (2000)
+            DOI:10.1034/j.1600-0854.2000.010108.x
+REFERENCE   PMID:10379359
+  AUTHORS   Gerst JE.
+  TITLE     SNAREs and SNARE regulators in membrane fusion and exocytosis.
+  JOURNAL   Cell Mol Life Sci 55:707-34 (1999)
+            DOI:10.1007/s000180050328
+REFERENCE   PMID:11029060
+  AUTHORS   Gurunathan S, Chapman-Shimshoni D, Trajkovic S, Gerst JE.
+  TITLE     Yeast exocytic v-SNAREs confer endocytosis.
+  JOURNAL   Mol Biol Cell 11:3629-43 (2000)
+            DOI:10.1091/mbc.11.10.3629
+REFERENCE   PMID:10788491
+  AUTHORS   Hatsuzawa K, Hirose H, Tani K, Yamamoto A, Scheller RH, Tagaya M.
+  TITLE     Syntaxin 18, a SNAP receptor that functions in the endoplasmic reticulum, intermediate compartment, and cis-Golgi vesicle trafficking.
+  JOURNAL   J Biol Chem 275:13713-20 (2000)
+            DOI:10.1074/jbc.275.18.13713
+REFERENCE   PMID:8621431
+  AUTHORS   Hay JC, Hirling H, Scheller RH.
+  TITLE     Mammalian vesicle trafficking proteins of the endoplasmic reticulum and Golgi apparatus.
+  JOURNAL   J Biol Chem 271:5671-9 (1996)
+            DOI:10.1074/jbc.271.10.5671
+REFERENCE   PMID:9647643
+  AUTHORS   Hay JC, Klumperman J, Oorschot V, Steegmaier M, Kuo CS, Scheller RH.
+  TITLE     Localization, dynamics, and protein interactions reveal distinct roles for ER and Golgi SNAREs.
+  JOURNAL   J Cell Biol 141:1489-502 (1998)
+            DOI:10.1083/jcb.141.7.1489
+REFERENCE   PMID:9427746
+  AUTHORS   Holthuis JC, Nichols BJ, Dhruvakumar S, Pelham HR.
+  TITLE     Two syntaxin homologues in the TGN/endosomal system of yeast.
+  JOURNAL   EMBO J 17:113-26 (1998)
+            DOI:10.1093/emboj/17.1.113
+REFERENCE   PMID:9843576
+  AUTHORS   Holthuis JC, Nichols BJ, Pelham HR.
+  TITLE     The syntaxin Tlg1p mediates trafficking of chitin synthase III to polarized growth sites in yeast.
+  JOURNAL   Mol Biol Cell 9:3383-97 (1998)
+            DOI:10.1091/mbc.9.12.3383
+REFERENCE   PMID:12600315
+  AUTHORS   Jahn R, Lang T, Sudhof TC.
+  TITLE     Membrane fusion.
+  JOURNAL   Cell 112:519-33 (2003)
+            DOI:10.1016/S0092-8674(03)00112-0
+REFERENCE   PMID:10097106
+  AUTHORS   Lafont F, Verkade P, Galli T, Wimmer C, Louvard D, Simons K.
+  TITLE     Raft association of SNAP receptors acting in apical trafficking in Madin-Darby canine kidney cells.
+  JOURNAL   Proc Natl Acad Sci U S A 96:3734-8 (1999)
+            DOI:10.1073/pnas.96.7.3734
+REFERENCE   PMID:9214619
+  AUTHORS   Lewis MJ, Rayner JC, Pelham HR.
+  TITLE     A novel SNARE complex implicated in vesicle fusion with the endoplasmic reticulum.
+  JOURNAL   EMBO J 16:3017-24 (1997)
+            DOI:10.1093/emboj/16.11.3017
+REFERENCE   PMID:9647644
+  AUTHORS   Low SH, Chapin SJ, Wimmer C, Whiteheart SW, Komuves LG, Mostov KE, Weimbs T.
+  TITLE     The SNARE machinery is involved in apical plasma membrane trafficking in MDCK cells.
+  JOURNAL   J Cell Biol 141:1503-13 (1998)
+            DOI:10.1083/jcb.141.7.1503
+REFERENCE   PMID:9452464
+  AUTHORS   Low SH, Roche PA, Anderson HA, van Ijzendoorn SC, Zhang M, Mostov KE, Weimbs T.
+  TITLE     Targeting of SNAP-23 and SNAP-25 in polarized epithelial cells.
+  JOURNAL   J Biol Chem 273:3422-30 (1998)
+            DOI:10.1074/jbc.273.6.3422
+REFERENCE   PMID:12669082
+  AUTHORS   Mostov K, Su T, ter Beest M.
+  TITLE     Polarized epithelial membrane traffic: conservation and plasticity.
+  JOURNAL   Nat Cell Biol 5:287-93 (2003)
+            DOI:10.1038/ncb0403-287
+REFERENCE   PMID:10873817
+  AUTHORS   Mostov KE, Verges M, Altschuler Y.
+  TITLE     Membrane traffic in polarized epithelial cells.
+  JOURNAL   Curr Opin Cell Biol 12:483-90 (2000)
+            DOI:10.1016/S0955-0674(00)00120-4
+REFERENCE   PMID:10982406
+  AUTHORS   Mullock BM, Smith CW, Ihrke G, Bright NA, Lindsay M, Parkinson EJ, Brooks DA, Parton RG, James DE, Luzio JP, Piper RC.
+  TITLE     Syntaxin 7 is localized to late endosome compartments, associates with Vamp 8, and Is required for late endosome-lysosome fusion.
+  JOURNAL   Mol Biol Cell 11:3137-53 (2000)
+            DOI:10.1091/mbc.11.9.3137
+REFERENCE   PMID:9817754
+  AUTHORS   Prekeris R, Klumperman J, Chen YA, Scheller RH.
+  TITLE     Syntaxin 13 mediates cycling of plasma membrane proteins via tubulovesicular recycling endosomes.
+  JOURNAL   J Cell Biol 143:957-71 (1998)
+            DOI:10.1083/jcb.143.4.957
+REFERENCE   PMID:10564279
+  AUTHORS   Prekeris R, Yang B, Oorschot V, Klumperman J, Scheller RH.
+  TITLE     Differential roles of syntaxin 7 and syntaxin 8 in endosomal trafficking.
+  JOURNAL   Mol Biol Cell 10:3891-908 (1999)
+            DOI:10.1091/mbc.10.11.3891
+REFERENCE   PMID:9707576
+  AUTHORS   Sanderfoot AA, Ahmed SU, Marty-Mazars D, Rapoport I, Kirchhausen T, Marty F, Raikhel NV.
+  TITLE     A putative vacuolar cargo receptor partially colocalizes with AtPEP12p on a prevacuolar compartment in Arabidopsis roots.
+  JOURNAL   Proc Natl Acad Sci U S A 95:9920-5 (1998)
+            DOI:10.1073/pnas.95.17.9920
+REFERENCE   PMID:11739776
+  AUTHORS   Sanderfoot AA, Kovaleva V, Bassham DC, Raikhel NV.
+  TITLE     Interactions between syntaxins identify at least five SNARE complexes within the Golgi/prevacuolar system of the Arabidopsis cell.
+  JOURNAL   Mol Biol Cell 12:3733-43 (2001)
+            DOI:10.1091/mbc.12.12.3733
+REFERENCE   PMID:10557242
+  AUTHORS   Sanderfoot AA, Kovaleva V, Zheng H, Raikhel NV.
+  TITLE     The t-SNARE AtVAM3p resides on the prevacuolar compartment in Arabidopsis root cells.
+  JOURNAL   Plant Physiol 121:929-38 (1999)
+            DOI:10.1104/pp.121.3.929
+REFERENCE   PMID:11251103
+  AUTHORS   Sanderfoot AA, Pilgrim M, Adam L, Raikhel NV.
+  TITLE     Disruption of individual members of Arabidopsis syntaxin gene families indicates each has essential functions.
+  JOURNAL   Plant Cell 13:659-66 (2001)
+            DOI:10.1105/tpc.13.3.659
+REFERENCE   PMID:9305917
+  AUTHORS   Sato MH, Nakamura N, Ohsumi Y, Kouchi H, Kondo M, Hara-Nishimura I, Nishimura M, Wada Y.
+  TITLE     The AtVAM3 encodes a syntaxin-related molecule implicated in the vacuolar assembly in Arabidopsis thaliana.
+  JOURNAL   J Biol Chem 272:24530-5 (1997)
+            DOI:10.1074/jbc.272.39.24530
+REFERENCE   PMID:9710615
+  AUTHORS   Sato TK, Darsow T, Emr SD.
+  TITLE     Vam7p, a SNAP-25-like molecule, and Vam3p, a syntaxin homolog, function together in yeast vacuolar protein trafficking.
+  JOURNAL   Mol Cell Biol 18:5308-19 (1998)
+            DOI:10.1128/MCB.18.9.5308
+REFERENCE   PMID:9813082
+  AUTHORS   Spang A, Schekman R.
+  TITLE     Reconstitution of retrograde transport from the Golgi to the ER in vitro.
+  JOURNAL   J Cell Biol 143:589-99 (1998)
+            DOI:10.1083/jcb.143.3.589
+REFERENCE   PMID:10359608
+  AUTHORS   Steegmaier M, Klumperman J, Foletti DL, Yoo JS, Scheller RH.
+  TITLE     Vesicle-associated membrane protein 4 is implicated in trans-Golgi network vesicle trafficking.
+  JOURNAL   Mol Biol Cell 10:1957-72 (1999)
+            DOI:10.1091/mbc.10.6.1957
+REFERENCE   PMID:11208143
+  AUTHORS   Steegmaier M, Lee KC, Prekeris R, Scheller RH.
+  TITLE     SNARE protein trafficking in polarized MDCK cells.
+  JOURNAL   Traffic 1:553-60 (2000)
+            DOI:10.1034/j.1600-0854.2000.010705.x
+REFERENCE   PMID:9852078
+  AUTHORS   Steegmaier M, Yang B, Yoo JS, Huang B, Shen M, Yu S, Luo Y, Scheller RH.
+  TITLE     Three novel proteins of the syntaxin/SNAP-25 family.
+  JOURNAL   J Biol Chem 273:34171-9 (1998)
+            DOI:10.1074/jbc.273.51.34171
+REFERENCE   PMID:10683148
+  AUTHORS   Subramaniam VN, Loh E, Horstmann H, Habermann A, Xu Y, Coe J, Griffiths G, Hong W.
+  TITLE     Preferential association of syntaxin 8 with the early endosome.
+  JOURNAL   J Cell Sci 113 ( Pt 6):997-1008 (2000)
+REFERENCE   PMID:9507000
+  AUTHORS   Tang BL, Tan AE, Lim LK, Lee SS, Low DY, Hong W.
+  TITLE     Syntaxin 12, a member of the syntaxin family localized to the endosome.
+  JOURNAL   J Biol Chem 273:6944-50 (1998)
+            DOI:10.1074/jbc.273.12.6944
+REFERENCE   PMID:9628864
+  AUTHORS   Ungermann C, Wickner W.
+  TITLE     Vam7p, a vacuolar SNAP-25 homolog, is required for SNARE complex integrity and vacuole docking and fusion.
+  JOURNAL   EMBO J 17:3269-76 (1998)
+            DOI:10.1093/emboj/17.12.3269
+REFERENCE   PMID:10036234
+  AUTHORS   Valdez AC, Cabaniols JP, Brown MJ, Roche PA.
+  TITLE     Syntaxin 11 is associated with SNAP-23 on late endosomes and the trans-Golgi network.
+  JOURNAL   J Cell Sci 112 ( Pt 6):845-54 (1999)
+REFERENCE   PMID:9199167
+  AUTHORS   von Mollard GF, Nothwehr SF, Stevens TH.
+  TITLE     The yeast v-SNARE Vti1p mediates two vesicle transport pathways through interactions with the t-SNAREs Sed5p and Pep12p.
+  JOURNAL   J Cell Biol 137:1511-24 (1997)
+            DOI:10.1083/jcb.137.7.1511
+REFERENCE   PMID:11278762
+  AUTHORS   Wade N, Bryant NJ, Connolly LM, Simpson RJ, Luzio JP, Piper RC, James DE.
+  TITLE     Syntaxin 7 complexes with mouse Vps10p tail interactor 1b, syntaxin 6, vesicle-associated membrane protein (VAMP)8, and VAMP7 in b16 melanoma cells.
+  JOURNAL   J Biol Chem 276:19820-7 (2001)
+            DOI:10.1074/jbc.M010838200
+REFERENCE   PMID:11555414
+  AUTHORS   Wendler F, Tooze S.
+  TITLE     Syntaxin 6: the promiscuous behaviour of a SNARE protein.
+  JOURNAL   Traffic 2:606-11 (2001)
+            DOI:10.1034/j.1600-0854.2001.20903.x
+REFERENCE   PMID:9614193
+  AUTHORS   Wong SH, Zhang T, Xu Y, Subramaniam VN, Griffiths G, Hong W.
+  TITLE     Endobrevin, a novel synaptobrevin/VAMP-like protein preferentially associated with the early endosome.
+  JOURNAL   Mol Biol Cell 9:1549-63 (1998)
+            DOI:10.1091/mbc.9.6.1549
+REFERENCE   PMID:11035026
+  AUTHORS   Xu D, Joglekar AP, Williams AL, Hay JC.
+  TITLE     Subunit structure of a mammalian ER/Golgi SNARE complex.
+  JOURNAL   J Biol Chem 275:39631-9 (2000)
+            DOI:10.1074/jbc.M007684200
+REFERENCE   PMID:11323436
+  AUTHORS   Zhang T, Hong W.
+  TITLE     Ykt6 forms a SNARE complex with syntaxin 5, GS28, and Bet1 and participates in a late stage in endoplasmic reticulum-Golgi transport.
+  JOURNAL   J Biol Chem 276:27480-7 (2001)
+            DOI:10.1074/jbc.M102786200
+REFERENCE   PMID:12068098
+  AUTHORS   Zheng H, Bednarek SY, Sanderfoot AA, Alonso J, Ecker JR, Raikhel NV.
+  TITLE     NPSN11 is a cell plate-associated SNARE protein that interacts with the syntaxin KNOLLE.
+  JOURNAL   Plant Physiol 129:530-9 (2002)
+            DOI:10.1104/pp.003970
+REFERENCE   PMID:10397763
+  AUTHORS   Zheng H, von Mollard GF, Kovaleva V, Stevens TH, Raikhel NV.
+  TITLE     The plant vesicle-associated SNARE AtVTI1a likely mediates vesicle transport from the trans-Golgi network to the prevacuolar compartment.
+  JOURNAL   Mol Biol Cell 10:2251-64 (1999)
+            DOI:10.1091/mbc.10.7.2251
+KO_PATHWAY  ko04130
+///

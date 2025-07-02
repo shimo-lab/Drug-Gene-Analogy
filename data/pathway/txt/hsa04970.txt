@@ -1,0 +1,238 @@
+ENTRY       hsa04970                    Pathway
+NAME        Salivary secretion - Homo sapiens (human)
+DESCRIPTION Saliva has manifold functions in maintaining the integrity of the oral tissues, in protecting teeth from caries, in the tasting and ingestion of food, in speech and in the tolerance of tenures, for example. Salivary secretion occurs in response to stimulation by neurotransmitters released from autonomic nerve endings. There are two secretory pathways: protein exocytosis and fluid secretion. Sympathetic stimulation leads to the activation of adenylate cyclase and accumulation of intracellular cAMP. The elevation of cAMP causes the secretion of proteins such as amylase and mucin. In contrast, parasympathetic stimulation activates phospholipase C and causes the elevation of intracellular Ca2+, which leads to fluid secretion; that is, water and ion transport. Ca2+ also induces amylase secretion, but the amount is smaller than that induced by cAMP.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP hsa04970  Salivary secretion
+DRUG        D00095  Epinephrine (USP/INN)
+            D00124  Ephedrine (USP)
+            D00147  Hyoscyamine (USP)
+            D00397  Tropicamide (JP18/USP/INN)
+            D00525  Pilocarpine (JAN/USP)
+            D00607  Guanadrel sulfate (USAN)
+            D00661  Cevimeline hydrochloride (USAN)
+            D00717  Dicyclomine hydrochloride (JAN/USP)
+            D00719  Hyoscyamine sulfate (USP)
+            D00743  Naphazoline hydrochloride (JP18/USP)
+            D00996  Epinephrine hydrochloride (JAN)
+            D00999  Acetylcholine chloride (JP18/USP/INN)
+            D01165  Piperidolate hydrochloride (JAN)
+            D01307  Midodrine hydrochloride (JAN/USP)
+            D01323  Azosemide (JP18/USAN/INN)
+            D01386  Ephedrine hydrochloride (JP18/USP)
+            D01444  Bunitrolol hydrochloride (JAN)
+            D01491  Butropium bromide (JP18/INN)
+            D01504  Bufetolol hydrochloride (JP18)
+            D01538  Valethamate bromide (JAN)
+            D01648  Hyoscyamine methylbromide (JAN)
+            D01674  Naftopidil (JP18/INN)
+            D01887  Bunazosin hydrochloride (JP18)
+            D01952  L-Methylephedrine hydrochloride (JAN)
+            D01955  Aclatonium napadisilate (JAN)
+            D02109  dl-Methylephedrine hydrochloride (JP18)
+            D02200  Pilocarpine hydrochloride (JP18/USP)
+            D02389  Primidolol (USAN/INN)
+            D02535  Timepidium bromide hydrate (JP18)
+            D02614  Denopamine (JAN/INN)
+            D02834  Alprenoxime hydrochloride (USAN)
+            D03195  Butopamine (USAN/INN)
+            D03880  Dobutamine lactobionate (USAN)
+            D03881  Dobutamine tartrate (USAN)
+            D04018  Ephedrine sulfate (USP)
+            D04057  Esoxybutynin chloride (USAN)
+            D04479  Hyoscyamine hydrobromide (USP)
+            D04970  Methacholine chloride (JAN/USP/INN)
+            D05345  Pamatolol sulfate (USAN)
+            D05478  Pilocarpine nitrate (USP)
+            D06878  Diphemanil metilsulfate (INN)
+            D07477  Atropine oxide (INN)
+            D07550  Bunazosin (INN)
+            D07667  Cevimeline (INN)
+            D07820  Dicycloverine (INN)
+            D08206  Methylephedrine (BAN)
+            D08220  Midodrine (INN)
+            D08376  Pilocarpine borate
+            D08382  Piperidolate (INN)
+            D08595  Tiemonium methylsulfate
+            D09842  dl-Methylephedrine saccharinate (JAN)
+DBLINKS     GO: 0046541
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        153  ADRB1; adrenoceptor beta 1 [KO:K04141]
+            154  ADRB2; adrenoceptor beta 2 [KO:K04142]
+            155  ADRB3; adrenoceptor beta 3 [KO:K04143]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            6844  VAMP2; vesicle associated membrane protein 2 [KO:K13504]
+            148  ADRA1A; adrenoceptor alpha 1A [KO:K04135]
+            147  ADRA1B; adrenoceptor alpha 1B [KO:K04136]
+            146  ADRA1D; adrenoceptor alpha 1D [KO:K04137]
+            1131  CHRM3; cholinergic receptor muscarinic 3 [KO:K04131]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            6263  RYR3; ryanodine receptor 3 [KO:K04963]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            4842  NOS1; nitric oxide synthase 1 [KO:K13240] [EC:1.14.13.39]
+            2977  GUCY1A2; guanylate cyclase 1 soluble subunit alpha 2 [KO:K12318] [EC:4.6.1.2]
+            2982  GUCY1A1; guanylate cyclase 1 soluble subunit alpha 1 [KO:K12318] [EC:4.6.1.2]
+            2983  GUCY1B1; guanylate cyclase 1 soluble subunit beta 1 [KO:K12319] [EC:4.6.1.2]
+            5592  PRKG1; protein kinase cGMP-dependent 1 [KO:K07376] [EC:2.7.11.12]
+            5593  PRKG2; protein kinase cGMP-dependent 2 [KO:K19477] [EC:2.7.11.12]
+            952  CD38; CD38 molecule [KO:K01242] [EC:3.2.2.6 2.4.99.20]
+            683  BST1; bone marrow stromal cell antigen 1 [KO:K18152] [EC:3.2.2.6 2.4.99.20]
+            54831  BEST2; bestrophin 2 [KO:K13879]
+            362  AQP5; aquaporin 5 [KO:K09867]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            490  ATP2B1; ATPase plasma membrane Ca2+ transporting 1 [KO:K05850] [EC:7.2.2.10]
+            492  ATP2B3; ATPase plasma membrane Ca2+ transporting 3 [KO:K05850] [EC:7.2.2.10]
+            493  ATP2B4; ATPase plasma membrane Ca2+ transporting 4 [KO:K05850] [EC:7.2.2.10]
+            491  ATP2B2; ATPase plasma membrane Ca2+ transporting 2 [KO:K05850] [EC:7.2.2.10]
+            6558  SLC12A2; solute carrier family 12 member 2 [KO:K10951]
+            3783  KCNN4; potassium calcium-activated channel subfamily N member 4 [KO:K04945]
+            3778  KCNMA1; potassium calcium-activated channel subfamily M alpha 1 [KO:K04936]
+            6522  SLC4A2; solute carrier family 4 member 2 [KO:K13855]
+            6548  SLC9A1; solute carrier family 9 member A1 [KO:K05742]
+            55503  TRPV6; transient receptor potential cation channel subfamily V member 6 [KO:K04975]
+            727897  MUC5B; mucin 5B, oligomeric mucus/gel-forming [KO:K13908]
+            4586  MUC5AC; mucin 5AC, oligomeric mucus/gel-forming [KO:K13908]
+            4589  MUC7; mucin 7, secreted [KO:K13909]
+            278  AMY1C; amylase alpha 1C [KO:K01176] [EC:3.2.1.1]
+            279  AMY2A; amylase alpha 2A [KO:K01176] [EC:3.2.1.1]
+            276  AMY1A; amylase alpha 1A [KO:K01176] [EC:3.2.1.1]
+            280  AMY2B; amylase alpha 2B [KO:K01176] [EC:3.2.1.1]
+            277  AMY1B; amylase alpha 1B [KO:K01176] [EC:3.2.1.1]
+            5555  PRH2; proline rich protein HaeIII subfamily 2 [KO:K13910]
+            5554  PRH1; proline rich protein HaeIII subfamily 1 [KO:K13910]
+            5542  PRB1; proline rich protein BstNI subfamily 1 [KO:K13911]
+            653247  PRB2; proline rich protein BstNI subfamily 2 [KO:K13911]
+            1755  DMBT1; deleted in malignant brain tumors 1 [KO:K13912]
+            1469  CST1; cystatin SN [KO:K13897]
+            1470  CST2; cystatin SA [KO:K13898]
+            1471  CST3; cystatin C [KO:K13899]
+            1472  CST4; cystatin S [KO:K13900]
+            1473  CST5; cystatin D [KO:K13901]
+            3346  HTN1; histatin 1 [KO:K13913]
+            3347  HTN3; histatin 3 [KO:K13913]
+            6779  STATH; statherin [KO:K13914]
+            4069  LYZ; lysozyme [KO:K13915] [EC:3.2.1.17]
+            4025  LPO; lactoperoxidase [KO:K12550] [EC:1.11.1.7]
+            820  CAMP; cathelicidin antimicrobial peptide [KO:K13916]
+COMPOUND    C00001  H2O
+            C00011  CO2
+            C00076  Calcium cation
+            C00080  H+
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00288  HCO3-
+            C00533  Nitric oxide
+            C00547  L-Noradrenaline
+            C00575  3',5'-Cyclic AMP
+            C00698  Cl-
+            C00942  3',5'-Cyclic GMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C01353  Carbonic acid
+            C01996  Acetylcholine
+            C13050  Cyclic ADP-ribose
+REFERENCE   PMID:16799262
+  AUTHORS   Ishikawa Y, Cho G, Yuan Z, Skowronski MT, Pan Y, Ishida H
+  TITLE     Water channels and zymogen granules in salivary glands.
+  JOURNAL   J Pharmacol Sci 100:495-512 (2006)
+            DOI:10.1254/jphs.CRJ06007X
+REFERENCE   PMID:16712780
+  AUTHORS   Ishikawa Y, Cho G, Yuan Z, Inoue N, Nakae Y
+  TITLE     Aquaporin-5 water channel in lipid rafts of rat parotid glands.
+  JOURNAL   Biochim Biophys Acta 1758:1053-60 (2006)
+            DOI:10.1016/j.bbamem.2006.03.026
+REFERENCE   PMID:10682899
+  AUTHORS   Ambudkar IS
+  TITLE     Regulation of calcium in salivary gland secretion.
+  JOURNAL   Crit Rev Oral Biol Med 11:4-25 (2000)
+            DOI:10.1177/10454411000110010301
+REFERENCE   PMID:10928320
+  AUTHORS   Ishikawa Y, Ishida H
+  TITLE     Aquaporin water channel in salivary glands.
+  JOURNAL   Jpn J Pharmacol 83:95-101 (2000)
+            DOI:10.1254/jjp.83.95
+REFERENCE   PMID:8105741
+  AUTHORS   Baum BJ
+  TITLE     Principles of saliva secretion.
+  JOURNAL   Ann N Y Acad Sci 694:17-23 (1993)
+            DOI:10.1111/j.1749-6632.1993.tb18338.x
+REFERENCE   PMID:9720759
+  AUTHORS   Fujita-Yoshigaki J
+  TITLE     Divergence and convergence in regulated exocytosis: the characteristics of cAMP-dependent enzyme secretion of parotid salivary acinar cells.
+  JOURNAL   Cell Signal 10:371-5 (1998)
+            DOI:10.1016/S0898-6568(97)00178-2
+REFERENCE   PMID:18626068
+  AUTHORS   Heitzmann D, Warth R
+  TITLE     Physiology and pathophysiology of potassium channels in gastrointestinal epithelia.
+  JOURNAL   Physiol Rev 88:1119-82 (2008)
+            DOI:10.1152/physrev.00020.2007
+REFERENCE   PMID:17157080
+  AUTHORS   Proctor GB, Carpenter GH
+  TITLE     Regulation of salivary gland function by autonomic nerves.
+  JOURNAL   Auton Neurosci 133:3-18 (2007)
+            DOI:10.1016/j.autneu.2006.10.006
+REFERENCE   PMID:11936453
+  AUTHORS   Turner RJ, Sugiya H
+  TITLE     Understanding salivary fluid and protein secretion.
+  JOURNAL   Oral Dis 8:3-11 (2002)
+            DOI:10.1034/j.1601-0825.2002.10815.x
+REFERENCE   PMID:15153696
+  AUTHORS   Van Nieuw Amerongen A, Bolscher JG, Veerman EC
+  TITLE     Salivary proteins: protective and diagnostic value in cariology?
+  JOURNAL   Caries Res 38:247-53 (2004)
+            DOI:10.1159/000077762
+REFERENCE   PMID:17347411
+  AUTHORS   Nakamoto T, Srivastava A, Romanenko VG, Ovitt CE, Perez-Cornejo P, Arreola J, Begenisich T, Melvin JE
+  TITLE     Functional and molecular characterization of the fluid secretion mechanism in human parotid acinar cells.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 292:R2380-90 (2007)
+            DOI:10.1152/ajpregu.00591.2006
+REFERENCE   PMID:15709965
+  AUTHORS   Melvin JE, Yule D, Shuttleworth T, Begenisich T
+  TITLE     Regulation of fluid and electrolyte secretion in salivary gland acinar cells.
+  JOURNAL   Annu Rev Physiol 67:445-69 (2005)
+            DOI:10.1146/annurev.physiol.67.041703.084745
+REFERENCE   PMID:20224180
+  AUTHORS   Catalan MA, Nakamoto T, Melvin JE
+  TITLE     The salivary gland fluid secretion mechanism.
+  JOURNAL   J Med Invest 56 Suppl:192-6 (2009)
+            DOI:10.2152/jmi.56.192
+REL_PATHWAY hsa04020  Calcium signaling pathway
+            hsa04530  Tight junction
+            hsa04973  Carbohydrate digestion and absorption
+KO_PATHWAY  ko04970
+///

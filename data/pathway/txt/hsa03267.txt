@@ -1,0 +1,41 @@
+ENTRY       hsa03267                    Pathway
+NAME        Virion - Adenovirus - Homo sapiens (human)
+CLASS       Genetic Information Processing; Information processing in viruses
+PATHWAY_MAP hsa03267  Virion - Adenovirus
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1525  CXADR; CXADR Ig-like cell adhesion molecule [KO:K06788]
+            4179  CD46; CD46 molecule [KO:K04007]
+            941  CD80; CD80 molecule [KO:K05412]
+            942  CD86; CD86 molecule [KO:K05413]
+REFERENCE   PMID:30121295
+  AUTHORS   Kundhavai Natchiar S, Venkataraman S, Mullen TM, Nemerow GR, Reddy VS
+  TITLE     Revised Crystal Structure of Human Adenovirus Reveals the Limits on Protein IX Quasi-Equivalence and on Analyzing Large Macromolecular Complexes.
+  JOURNAL   J Mol Biol 430:4132-4141 (2018)
+            DOI:10.1016/j.jmb.2018.08.011
+REFERENCE   PMID:28978703
+  AUTHORS   Dai X, Wu L, Sun R, Zhou ZH
+  TITLE     Atomic Structures of Minor Proteins VI and VII in Human Adenovirus.
+  JOURNAL   J Virol 91:e00850-17 (2017)
+            DOI:10.1128/JVI.00850-17
+REFERENCE   PMID:33523995
+  AUTHORS   Rafie K, Lenman A, Fuchs J, Rajan A, Arnberg N, Carlson LA
+  TITLE     The structure of enteric human adenovirus 41-A leading cause of diarrhea in children.
+  JOURNAL   Sci Adv 7:eabe0974 (2021)
+            DOI:10.1126/sciadv.abe0974
+REFERENCE   PMID:35216007
+  AUTHORS   Reddy VS, Yu X, Barry MA
+  TITLE     Refined Capsid Structure of Human Adenovirus D26 at 3.4 A Resolution.
+  JOURNAL   Viruses 14:414 (2022)
+            DOI:10.3390/v14020414
+REFERENCE   PMID:15629723
+  AUTHORS   Zubieta C, Schoehn G, Chroboczek J, Cusack S
+  TITLE     The structure of the human adenovirus 2 penton.
+  JOURNAL   Mol Cell 17:121-35 (2005)
+            DOI:10.1016/j.molcel.2004.11.041
+REFERENCE   PMID:10553913
+  AUTHORS   van Raaij MJ, Mitraki A, Lavigne G, Cusack S
+  TITLE     A triple beta-spiral in the adenovirus fibre shaft reveals a new structural motif for a fibrous protein.
+  JOURNAL   Nature 401:935-8 (1999)
+            DOI:10.1038/44880
+KO_PATHWAY  ko03267
+///

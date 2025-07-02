@@ -1,0 +1,129 @@
+ENTRY       hsa00532                    Pathway
+NAME        Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
+DESCRIPTION Glycosaminoglycans (GAGs) are linear polysaccharide chains consisting of repeating disaccharide units and form proteglycans by covalently attaching to their core proteins. Chondroitin sulfate (CS) is a glycosaminoglycan with the disaccharide unit of beta-D-galactosamine (GalNAc) and beta-D-glucuronic acid (GlcA), and often modified with ester-linked sulfate at certain positions. Dermatan sulfate (DS) is a modified form of CS, in which a portion of D-glucuronate residues is epimerized to L-iduronates (IdoA). CS and DS are linked to serine residues in core proteins via a linkage tetrasaccharide formed by the transfer of xylose and three more residues [MD:M00057]. The assembly process of CS is initiated by transferring GalNAc residue to the linkage tetrasaccharide. The polymerization is catalyzed by bifunctional enzymes (chondroitin synthases) possessing both beta 1,3 glucuronosyltransferase and beta 1,4 N-acetylgalactosaminyltransferase activities [MD:M00058]. Chondroitin polymerization also requires the action of the chondroitin polymerizing factor. There are various O-sulfation patterns in CS and DS, where 4-O sulfation and 6-O sulfation of GalNAc and 2-O-sulfation of the uronic acids (GlcA / IdoA) are mainly found.
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+MODULE      hsa_M00057  Glycosaminoglycan biosynthesis, linkage tetrasaccharide [PATH:hsa00532]
+            hsa_M00058  Glycosaminoglycan biosynthesis, chondroitin sulfate backbone [PATH:hsa00532]
+NETWORK     nt06029  Glycosaminoglycan biosynthesis
+  ELEMENT   N01574  Glycosaminoglycan biosynthesis, linkage tetrasaccharide
+            N01580  Chondroitin sulfate biosynthesis
+            N01581  Dermatan sulfate biosynthesis
+DBLINKS     GO: 0030206 0030208
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        64131  XYLT1; xylosyltransferase 1 [KO:K00771] [EC:2.4.2.26]
+            64132  XYLT2; xylosyltransferase 2 [KO:K00771] [EC:2.4.2.26]
+            11285  B4GALT7; beta-1,4-galactosyltransferase 7 [KO:K00733] [EC:2.4.1.133]
+            126792  B3GALT6; beta-1,3-galactosyltransferase 6 [KO:K00734] [EC:2.4.1.134]
+            26229  B3GAT3; beta-1,3-glucuronyltransferase 3 [KO:K10158] [EC:2.4.1.135]
+            55790  CSGALNACT1; chondroitin sulfate N-acetylgalactosaminyltransferase 1 [KO:K00746] [EC:2.4.1.174 2.4.1.175]
+            55454  CSGALNACT2; chondroitin sulfate N-acetylgalactosaminyltransferase 2 [KO:K00746] [EC:2.4.1.174 2.4.1.175]
+            337876  CHSY3; chondroitin sulfate synthase 3 [KO:K13499] [EC:2.4.1.175 2.4.1.226]
+            22856  CHSY1; chondroitin sulfate synthase 1 [KO:K13499] [EC:2.4.1.175 2.4.1.226]
+            79586  CHPF; chondroitin polymerizing factor [KO:K00747] [EC:2.4.1.175 2.4.1.226]
+            54480  CHPF2; chondroitin polymerizing factor 2 [KO:K03419] [EC:2.4.1.226]
+            29940  DSE; dermatan sulfate epimerase [KO:K01794] [EC:5.1.3.19]
+            92126  DSEL; dermatan sulfate epimerase like [KO:K01794] [EC:5.1.3.19]
+            50515  CHST11; carbohydrate sulfotransferase 11 [KO:K01017] [EC:2.8.2.5]
+            55501  CHST12; carbohydrate sulfotransferase 12 [KO:K04742] [EC:2.8.2.5]
+            166012  CHST13; carbohydrate sulfotransferase 13 [KO:K07779] [EC:2.8.2.5]
+            9469  CHST3; carbohydrate sulfotransferase 3 [KO:K01020] [EC:2.8.2.17]
+            56548  CHST7; carbohydrate sulfotransferase 7 [KO:K04743] [EC:2.8.2.17]
+            51363  CHST15; carbohydrate sulfotransferase 15 [KO:K08106] [EC:2.8.2.33]
+            10090  UST; uronyl 2-sulfotransferase [KO:K03193] [EC:2.8.2.-]
+            113189  CHST14; carbohydrate sulfotransferase 14 [KO:K08105] [EC:2.8.2.35]
+COMPOUND    C00053  3'-Phosphoadenylyl sulfate
+            C00054  Adenosine 3',5'-bisphosphate
+            C00401  Chondroitin
+            C01490  Dermatan
+            C02189  [Protein]-L-serine
+            G00154
+            G00155
+            G00156
+            G00157
+            G00158
+            G00159
+            G00160
+REFERENCE   PMID:11042448
+  AUTHORS   Sugahara K, Kitagawa H.
+  TITLE     Recent advances in the study of the biosynthesis and functions of sulfated glycosaminoglycans.
+  JOURNAL   Curr Opin Struct Biol 10:518-27 (2000)
+            DOI:10.1016/S0959-440X(00)00125-1
+REFERENCE   PMID:11274177
+  AUTHORS   Li JP, Gong F, El Darwish K, Jalkanen M, Lindahl U.
+  TITLE     Characterization of the D-glucuronyl C5-epimerase involved in the biosynthesis of heparin and heparan sulfate.
+  JOURNAL   J Biol Chem 276:20069-77 (2001)
+            DOI:10.1074/jbc.M011783200
+REFERENCE   PMID:11099377
+  AUTHORS   Gotting C, Kuhn J, Zahn R, Brinkmann T, Kleesiek K
+  TITLE     Molecular cloning and expression of human UDP-d-Xylose:proteoglycan core protein beta-d-xylosyltransferase and its first isoform XT-II.
+  JOURNAL   J Mol Biol 304:517-28 (2000)
+            DOI:10.1006/jmbi.2000.4261
+REFERENCE   PMID:10473568
+  AUTHORS   Almeida R, Levery SB, Mandel U, Kresse H, Schwientek T, Bennett EP, Clausen H
+  TITLE     Cloning and expression of a proteoglycan UDP-galactose:beta-xylose beta1,4-galactosyltransferase I. A seventh member of the human beta4-galactosyltransferase gene family.
+  JOURNAL   J Biol Chem 274:26165-71 (1999)
+            DOI:10.1074/jbc.274.37.26165
+REFERENCE   PMID:11551958
+  AUTHORS   Bai X, Zhou D, Brown JR, Crawford BE, Hennet T, Esko JD
+  TITLE     Biosynthesis of the linkage region of glycosaminoglycans: cloning and activity of galactosyltransferase II, the sixth member of the beta 1,3-galactosyltransferase family (beta 3GalT6).
+  JOURNAL   J Biol Chem 276:48189-95 (2001)
+            DOI:10.1074/jbc.M107339200
+REFERENCE   PMID:9506957
+  AUTHORS   Kitagawa H, Tone Y, Tamura J, Neumann KW, Ogawa T, Oka S, Kawasaki T, Sugahara K
+  TITLE     Molecular cloning and expression of glucuronyltransferase I involved in the biosynthesis of the glycosaminoglycan-protein linkage region of proteoglycans.
+  JOURNAL   J Biol Chem 273:6615-8 (1998)
+            DOI:10.1074/jbc.273.12.6615
+REFERENCE   PMID:12512856
+  AUTHORS   Silbert JE, Sugumaran G
+  TITLE     Biosynthesis of chondroitin/dermatan sulfate.
+  JOURNAL   IUBMB Life 54:177-86 (2002)
+            DOI:10.1080/15216540214923
+REFERENCE   PMID:17253960
+  AUTHORS   Izumikawa T, Uyama T, Okuura Y, Sugahara K, Kitagawa H
+  TITLE     Involvement of chondroitin sulfate synthase-3 (chondroitin synthase-2) in chondroitin polymerization through its interaction with chondroitin synthase-1 or chondroitin-polymerizing factor.
+  JOURNAL   Biochem J 403:545-52 (2007)
+            DOI:10.1042/BJ20061876
+REFERENCE   PMID:12716890
+  AUTHORS   Kitagawa H, Izumikawa T, Uyama T, Sugahara K
+  TITLE     Molecular cloning of a chondroitin polymerizing factor that cooperates with chondroitin synthase for chondroitin polymerization.
+  JOURNAL   J Biol Chem 278:23666-71 (2003)
+            DOI:10.1074/jbc.M302493200
+REFERENCE   PMID:21138417
+  AUTHORS   Izumikawa T, Okuura Y, Koike T, Sakoda N, Kitagawa H
+  TITLE     Chondroitin 4-O-sulfotransferase-1 regulates the chain length of chondroitin sulfate in co-operation with chondroitin N-acetylgalactosaminyltransferase-2.
+  JOURNAL   Biochem J 434:321-31 (2011)
+            DOI:10.1042/BJ20101456
+REFERENCE   PMID:22899863
+  AUTHORS   Malmstrom A, Bartolini B, Thelin MA, Pacheco B, Maccarana M
+  TITLE     Iduronic Acid in chondroitin/dermatan sulfate: biosynthesis and biological function.
+  JOURNAL   J Histochem Cytochem 60:916-25 (2012)
+            DOI:10.1369/0022155412459857
+REFERENCE   PMID:17928217
+  AUTHORS   Sugahara K, Mikami T
+  TITLE     Chondroitin/dermatan sulfate in the central nervous system.
+  JOURNAL   Curr Opin Struct Biol 17:536-45 (2007)
+            DOI:10.1016/j.sbi.2007.08.015
+REFERENCE   PMID:14568616
+  AUTHORS   Kusche-Gullberg M, Kjellen L
+  TITLE     Sulfotransferases in glycosaminoglycan biosynthesis.
+  JOURNAL   Curr Opin Struct Biol 13:605-11 (2003)
+            DOI:10.1016/j.sbi.2003.08.002
+REFERENCE   PMID:19661164
+  AUTHORS   Pacheco B, Maccarana M, Malmstrom A
+  TITLE     Dermatan 4-O-sulfotransferase 1 is pivotal in the formation of iduronic acid blocks in dermatan sulfate.
+  JOURNAL   Glycobiology 19:1197-203 (2009)
+            DOI:10.1093/glycob/cwp110
+REFERENCE   PMID:17239763
+  AUTHORS   Prabhakar V, Sasisekharan R
+  TITLE     The biosynthesis and catabolism of galactosaminoglycans.
+  JOURNAL   Adv Pharmacol 53:69-115 (2006)
+            DOI:10.1016/S1054-3589(05)53005-9
+REFERENCE   PMID:12847091
+  AUTHORS   Mikami T, Mizumoto S, Kago N, Kitagawa H, Sugahara K
+  TITLE     Specificities of three distinct human chondroitin/dermatan N-acetylgalactosamine 4-O-sulfotransferases demonstrated using partially desulfated dermatan sulfate as an acceptor: implication of differential roles in dermatan sulfate biosynthesis.
+  JOURNAL   J Biol Chem 278:36115-27 (2003)
+            DOI:10.1074/jbc.M306044200
+REL_PATHWAY hsa00531  Glycosaminoglycan degradation
+KO_PATHWAY  ko00532
+///

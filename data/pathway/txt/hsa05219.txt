@@ -1,0 +1,124 @@
+ENTRY       hsa05219                    Pathway
+NAME        Bladder cancer - Homo sapiens (human)
+DESCRIPTION The urothelium covers the luminal surface of almost the entire urinary tract, extending from the renal pelvis, through the ureter and bladder, to the proximal urethra. The majority of urothelial carcinoma are bladder carcinomas, and urothelial carcinomas of the renal pelvis and ureter account for only approximately 7% of the total. Urothelial tumours arise and evolve through divergent phenotypic pathways. Some tumours progress from urothelial hyperplasia to low-grade non-invasive superficial papillary tumours. More aggressive variants arise either from flat, high-grade carcinoma in situ (CIS) and progress to invasive tumours, or they arise de novo as invasive tumours. Low-grade papillary tumors frequently show a constitutive activation of the receptor tyrosine kinase-Ras pathway, exhibiting activating mutations in the HRAS and fibroblast growth factor receptor 3 (FGFR3) genes. In contrast, CIS and invasive tumors frequently show alterations in the TP53 and RB genes and pathways. Invasion and metastases are promoted by several factors that alter the tumour microenvironment, including the aberrant expression of E-cadherins (E-cad), matrix metalloproteinases (MMPs), angiogenic factors such as vascular endothelial growth factor (VEGF).
+CLASS       Human Diseases; Cancer: specific types
+PATHWAY_MAP hsa05219  Bladder cancer
+NETWORK     nt06210  ERK signaling
+            nt06230  Cell cycle
+            nt06240  Transcription
+            nt06260  Colorectal cancer
+            nt06261  Gastric cancer
+            nt06262  Pancreatic cancer
+            nt06263  Hepatocellular carcinoma
+            nt06265  Bladder cancer
+            nt06266  Non-small cell lung cancer
+            nt06267  Small cell lung cancer
+            nt06268  Melanoma
+            nt06269  Basal cell carcinoma
+            nt06270  Breast cancer
+            nt06271  Endometrial cancer
+            nt06273  Glioma
+            nt06274  Thyroid cancer
+            nt06276  Chronic myeloid leukemia
+  ELEMENT   N00006  Amplified EGFR to RAS-ERK signaling pathway
+            N00011  Mutation-activated FGFR3 to RAS-ERK signaling pathway
+            N00022  ERBB2-overexpression to RAS-ERK signaling pathway
+            N00041  EGFR-overexpression to RAS-ERK signaling pathway
+            N00067  Deleted p14(ARF) to p21-cell cycle G1/S
+            N00071  Deleted p16(INK4a) to p16-cell cycle G1/S
+            N00074  Loss of RB1 to cell cycle G1/S
+            N00075  Mutation-inactivated RB1 to cell cycle G1/S
+            N00077  HRAS-overexpression to ERK signaling pathway
+            N00078  Mutation-activated HRAS to ERK signaling pathway
+            N00115  Mutation-inactivated TP53 to transcription
+DISEASE     H00022  Bladder cancer
+DRUG        D10927  Erdafitinib (JAN/USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2261  FGFR3; fibroblast growth factor receptor 3 [KO:K05094] [EC:2.7.10.1]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            9252  RPS6KA5; ribosomal protein S6 kinase A5 [KO:K04445] [EC:2.7.11.1]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            11186  RASSF1; Ras association domain family member 1 [KO:K09850]
+            1612  DAPK1; death associated protein kinase 1 [KO:K08803] [EC:2.7.11.1]
+            1613  DAPK3; death associated protein kinase 3 [KO:K08803] [EC:2.7.11.1]
+            23604  DAPK2; death associated protein kinase 2 [KO:K08803] [EC:2.7.11.1]
+            1029  CDKN2A; cyclin dependent kinase inhibitor 2A [KO:K06621]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            595  CCND1; cyclin D1 [KO:K04503]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            7057  THBS1; thrombospondin 1 [KO:K16857]
+            1839  HBEGF; heparin binding EGF like growth factor [KO:K08523]
+            4313  MMP2; matrix metallopeptidase 2 [KO:K01398] [EC:3.4.24.24]
+            4318  MMP9; matrix metallopeptidase 9 [KO:K01403] [EC:3.4.24.35]
+            7380  UPK3A; uroplakin 3A [KO:K19520]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            1950  EGF; epidermal growth factor [KO:K04357]
+            2064  ERBB2; erb-b2 receptor tyrosine kinase 2 [KO:K05083] [EC:2.7.10.1]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            1890  TYMP; thymidine phosphorylase [KO:K00758] [EC:2.4.2.4]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            4312  MMP1; matrix metallopeptidase 1 [KO:K01388] [EC:3.4.24.7]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            999  CDH1; cadherin 1 [KO:K05689]
+REFERENCE   PMID:17158541
+  AUTHORS   Mitra AP, Datar RH, Cote RJ.
+  TITLE     Molecular pathways in invasive bladder cancer: new insights into mechanisms, progression, and target identification.
+  JOURNAL   J Clin Oncol 24:5552-64 (2006)
+            DOI:10.1200/JCO.2006.08.2073
+REFERENCE   PMID:16474624
+  AUTHORS   Wolff EM, Liang G, Jones PA.
+  TITLE     Mechanisms of Disease: genetic and epigenetic alterations that drive bladder cancer.
+  JOURNAL   Nat Clin Pract Urol 2:502-10 (2005)
+            DOI:10.1038/ncpuro0318
+REFERENCE   PMID:16110317
+  AUTHORS   Wu XR.
+  TITLE     Urothelial tumorigenesis: a tale of divergent pathways.
+  JOURNAL   Nat Rev Cancer 5:713-25 (2005)
+            DOI:10.1038/nrc1697
+REFERENCE   PMID:11103787
+  AUTHORS   Brown NS, Jones A, Fujiyama C, Harris AL, Bicknell R.
+  TITLE     Thymidine phosphorylase induces carcinoma cell oxidative stress and promotes secretion of angiogenic factors.
+  JOURNAL   Cancer Res 60:6298-302 (2000)
+REFERENCE   PMID:12850530
+  AUTHORS   Bellmunt J, Hussain M, Dinney CP.
+  TITLE     Novel approaches with targeted therapies in bladder cancer. Therapy of bladder cancer by blockade of the epidermal growth factor receptor family.
+  JOURNAL   Crit Rev Oncol Hematol 46 Suppl:S85-104 (2003)
+            DOI:10.1016/S1040-8428(03)00067-2
+REFERENCE   PMID:17149381
+  AUTHORS   Sugano K, Kakizoe T.
+  TITLE     Genetic alterations in bladder cancer and their clinical applications in molecular tumor staging.
+  JOURNAL   Nat Clin Pract Urol 3:642-52 (2006)
+            DOI:10.1038/ncpuro0649
+REFERENCE   PMID:15746962
+  AUTHORS   Dunn KL, Espino PS, Drobic B, He S, Davie JR.
+  TITLE     The Ras-MAPK signal transduction pathway, cancer and chromatin remodeling.
+  JOURNAL   Biochem Cell Biol 83:1-14 (2005)
+            DOI:10.1139/o04-121
+REFERENCE   PMID:15551095
+  AUTHORS   Williams SG, Stein JP.
+  TITLE     Molecular pathways in bladder cancer.
+  JOURNAL   Urol Res 32:373-85 (2004)
+            DOI:10.1007/s00240-003-0345-y
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04370  VEGF signaling pathway
+            hsa04520  Adherens junction
+KO_PATHWAY  ko05219
+///

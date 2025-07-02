@@ -1,0 +1,589 @@
+ENTRY       hsa05165                    Pathway
+NAME        Human papillomavirus infection - Homo sapiens (human)
+DESCRIPTION Human papillomavirus (HPV) is a non-enveloped, double-stranded DNA virus. HPV infect mucoal and cutaneous epithelium resulting in several types of pathologies, most notably, cervical cancer. All types of HPV share a common genomic structure and encode eight proteins: E1, E2, E4, E5, E6, and E7 (early) and L1 and L2 (late). It has been demonstrated that E1 and E2 are involved in viral transcription and replication. The functions of the E4 protein is not yet fully understood. E5, E6, and E7 act as oncoproteins. E5 inhibits the V-ATPase, prolonging EGFR signaling and thereby promoting cell proliferation. The expression of E6 and E7 not only inhibits the tumor suppressors p53 and Rb, but also alters additional signalling pathways. Among these pathways, PI3K/Akt signalling cascade plays a very important role in HPV-induced carcinogenesis. The L1 and L2 proteins form icosahedral capsids for progeny virion generation.
+CLASS       Human Diseases; Infectious disease: viral
+PATHWAY_MAP hsa05165  Human papillomavirus infection
+NETWORK     nt06110  MAPK signaling (viruses and bacteria)
+            nt06114  PI3K signaling (viruses)
+            nt06122  IFN signaling (viruses)
+            nt06129  MHC presentation (viruses)
+            nt06130  Cell cycle (viruses)
+            nt06131  Apoptosis (viruses and bacteria)
+            nt06135  Cytoskeletal regulation (viruses and bacteria)
+            nt06140  Transcription (viruses)
+            nt06150  Cytokine-cytokine receptor interaction (viruses)
+            nt06166  Human papillomavirus (HPV)
+            nt06511  NOTCH signaling
+            nt06516  TNF signaling
+            nt06517  TLR signaling
+  ELEMENT   N00341  HPV E6 to the Scribble/Dlg/Lgl polarity module
+            N00343  HPV E6 to MAGI-PTEN signaling pathway
+            N00345  HPV E6 to CRB3-Pals1-PATJ complex
+            N00346  HPV E6 to TLR-IRF3 signaling pathway
+            N00348  HPV E6 to p300-p21-Cell cycle G1/S
+            N00349  HPV E6 to p300-p21-Cell cycle G1/S
+            N00350  HPV E6 to extrinsic apoptotic pathway
+            N00351  HPV E6 to extrinsic apoptotic pathway
+            N00352  HPV E6 to extrinsic apoptotic pathway
+            N00353  HPV E6 to PTEN-PIP3-AKT signaling pathway
+            N00354  HPV E6 to PTEN-PIP3-AKT signaling pathway
+            N00356  HPV E7 to PP2A-AKT signaling patyway
+            N00357  HPV E6 to MTOR signaling pathway
+            N00358  HPV E6 to p21-cell cycle G1/S
+            N00359  HPV E7 to p27-cell cycle G1/S
+            N00360  HPV E7 to p27-cell cycle G1/S
+            N00361  HPV E7 to cell cycle G1/S
+            N00362  HPV E5 to p21-cell cycle G1/S
+            N00364  HPV E5 to antigen processing and presentation by MHC class I molecules
+            N00365  HPV E7 to cell cycle G1/S
+            N00366  HPV E5 to EGFR-PI3K signaling pathway
+            N00367  HPV E5 to EGFR-RAS-ERK signaling pathway
+            N00368  HPV E5 to PDGFR-PI3K signaling pathway
+            N00369  HPV E5 to PDGFR-RAS-ERK signaling pathway
+            N00371  HPV E7 to pyruvate generation
+            N00372  HPV E7 to p300-p21-Cell cycle G1/S
+            N00373  HPV E6 to NFX1-mediated transcription
+            N00375  HPV E7 to TNF-IRF1 signaling pathway
+            N00376  HPV E7 to TBP1-mediated transcription
+            N00377  HPV E6 to IFN signaling pathway
+            N00378  HPV E6 to IFN signaling pathway
+            N00379  HPV E7 to IFN signaling pathway
+            N00380  HPV E6 to Notch signaling pathway
+            N00381  HPV E6 to Notch signaling pathway
+            N00382  HPV E6 to Notch signaling pathway
+            N00383  HPV E6 to intrinsic apoptotic pathway
+            N00384  HPV E6 to intrinsic apoptotic pathway
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7471  WNT1; Wnt family member 1 [KO:K03209]
+            7472  WNT2; Wnt family member 2 [KO:K00182]
+            7482  WNT2B; Wnt family member 2B [KO:K00182]
+            7473  WNT3; Wnt family member 3 [KO:K00312]
+            89780  WNT3A; Wnt family member 3A [KO:K00312]
+            54361  WNT4; Wnt family member 4 [KO:K00408]
+            7474  WNT5A; Wnt family member 5A [KO:K00444]
+            81029  WNT5B; Wnt family member 5B [KO:K00444]
+            7475  WNT6; Wnt family member 6 [KO:K00445]
+            7476  WNT7A; Wnt family member 7A [KO:K00572]
+            7477  WNT7B; Wnt family member 7B [KO:K00572]
+            7478  WNT8A; Wnt family member 8A [KO:K00714]
+            7479  WNT8B; Wnt family member 8B [KO:K00714]
+            7483  WNT9A; Wnt family member 9A [KO:K01064]
+            7484  WNT9B; Wnt family member 9B [KO:K01064]
+            7480  WNT10B; Wnt family member 10B [KO:K01357]
+            80326  WNT10A; Wnt family member 10A [KO:K01357]
+            7481  WNT11; Wnt family member 11 [KO:K01384]
+            51384  WNT16; Wnt family member 16 [KO:K01558]
+            8321  FZD1; frizzled class receptor 1 [KO:K02432]
+            8324  FZD7; frizzled class receptor 7 [KO:K02432]
+            2535  FZD2; frizzled class receptor 2 [KO:K02235]
+            7976  FZD3; frizzled class receptor 3 [KO:K02329]
+            8322  FZD4; frizzled class receptor 4 [KO:K02354]
+            7855  FZD5; frizzled class receptor 5 [KO:K02375]
+            8325  FZD8; frizzled class receptor 8 [KO:K02375]
+            8323  FZD6; frizzled class receptor 6 [KO:K02376]
+            11211  FZD10; frizzled class receptor 10 [KO:K02842]
+            8326  FZD9; frizzled class receptor 9 [KO:K02842]
+            1857  DVL3; dishevelled segment polarity protein 3 [KO:K02353]
+            1856  DVL2; dishevelled segment polarity protein 2 [KO:K02353]
+            1855  DVL1; dishevelled segment polarity protein 1 [KO:K02353]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            8312  AXIN1; axin 1 [KO:K02157]
+            8313  AXIN2; axin 2 [KO:K04385]
+            324  APC; APC regulator of WNT signaling pathway [KO:K02085]
+            10297  APC2; APC regulator of WNT signaling pathway 2 [KO:K02085]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            122011  CSNK1A1L; casein kinase 1 alpha 1 like [KO:K08957] [EC:2.7.11.1]
+            1452  CSNK1A1; casein kinase 1 alpha 1 [KO:K08957] [EC:2.7.11.1]
+            7015  TERT; telomerase reverse transcriptase [KO:K11126] [EC:2.7.7.49]
+            6932  TCF7; transcription factor 7 [KO:K02620]
+            83439  TCF7L1; transcription factor 7 like 1 [KO:K04490]
+            6934  TCF7L2; transcription factor 7 like 2 [KO:K04491]
+            7337  UBE3A; ubiquitin protein ligase E3A [KO:K10587] [EC:2.3.2.26]
+            7098  TLR3; toll like receptor 3 [KO:K05401]
+            148022  TICAM1; TIR domain containing adaptor molecule 1 [KO:K05842]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            10474  TADA3; transcriptional adaptor 3 [KO:K11315]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            9223  MAGI1; membrane associated guanylate kinase, WW and PDZ domain containing 1 [KO:K05631]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            56288  PARD3; par-3 family cell polarity regulator [KO:K04237]
+            50855  PARD6A; par-6 family cell polarity regulator alpha [KO:K06093]
+            84552  PARD6G; par-6 family cell polarity regulator gamma [KO:K06093]
+            84612  PARD6B; par-6 family cell polarity regulator beta [KO:K06093]
+            5584  PRKCI; protein kinase C iota [KO:K06069] [EC:2.7.11.13]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            23513  SCRIB; scribble planar cell polarity protein [KO:K16175]
+            1739  DLG1; discs large MAGUK scaffold protein 1 [KO:K12076]
+            1740  DLG2; discs large MAGUK scaffold protein 2 [KO:K12075]
+            1741  DLG3; discs large MAGUK scaffold protein 3 [KO:K21098]
+            3993  LLGL2; LLGL scribble cell polarity complex component 2 [KO:K06094]
+            3996  LLGL1; LLGL scribble cell polarity complex component 1 [KO:K06094]
+            92359  CRB3; crumbs cell polarity complex component 3 [KO:K06090]
+            10207  PATJ; PATJ crumbs cell polarity complex component [KO:K06092]
+            64398  PALS1; protein associated with LIN7 1, MAGUK p55 family member [KO:K06091]
+            7450  VWF; von Willebrand factor [KO:K03900]
+            7057  THBS1; thrombospondin 1 [KO:K16857]
+            1311  COMP; cartilage oligomeric matrix protein [KO:K04659]
+            7058  THBS2; thrombospondin 2 [KO:K04659]
+            7059  THBS3; thrombospondin 3 [KO:K04659]
+            7060  THBS4; thrombospondin 4 [KO:K04659]
+            2335  FN1; fibronectin 1 [KO:K05717]
+            1277  COL1A1; collagen type I alpha 1 chain [KO:K06236]
+            1278  COL1A2; collagen type I alpha 2 chain [KO:K06236]
+            1280  COL2A1; collagen type II alpha 1 chain [KO:K19719]
+            1284  COL4A2; collagen type IV alpha 2 chain [KO:K06237]
+            1286  COL4A4; collagen type IV alpha 4 chain [KO:K06237]
+            1288  COL4A6; collagen type IV alpha 6 chain [KO:K06237]
+            1282  COL4A1; collagen type IV alpha 1 chain [KO:K06237]
+            1287  COL4A5; collagen type IV alpha 5 chain [KO:K06237]
+            1285  COL4A3; collagen type IV alpha 3 chain [KO:K06237]
+            1291  COL6A1; collagen type VI alpha 1 chain [KO:K06238]
+            1292  COL6A2; collagen type VI alpha 2 chain [KO:K06238]
+            1293  COL6A3; collagen type VI alpha 3 chain [KO:K06238]
+            131873  COL6A6; collagen type VI alpha 6 chain [KO:K06238]
+            256076  COL6A5; collagen type VI alpha 5 chain [KO:K06238]
+            1297  COL9A1; collagen type IX alpha 1 chain [KO:K08131]
+            1298  COL9A2; collagen type IX alpha 2 chain [KO:K08131]
+            1299  COL9A3; collagen type IX alpha 3 chain [KO:K08131]
+            284217  LAMA1; laminin subunit alpha 1 [KO:K05637]
+            3908  LAMA2; laminin subunit alpha 2 [KO:K05637]
+            3909  LAMA3; laminin subunit alpha 3 [KO:K06240]
+            3911  LAMA5; laminin subunit alpha 5 [KO:K06240]
+            3910  LAMA4; laminin subunit alpha 4 [KO:K06241]
+            3912  LAMB1; laminin subunit beta 1 [KO:K05636]
+            3913  LAMB2; laminin subunit beta 2 [KO:K06243]
+            3914  LAMB3; laminin subunit beta 3 [KO:K06244]
+            22798  LAMB4; laminin subunit beta 4 [KO:K06245]
+            3915  LAMC1; laminin subunit gamma 1 [KO:K05635]
+            3918  LAMC2; laminin subunit gamma 2 [KO:K06246]
+            10319  LAMC3; laminin subunit gamma 3 [KO:K06247]
+            1101  CHAD; chondroadherin [KO:K06248]
+            5649  RELN; reelin [KO:K06249] [EC:3.4.21.-]
+            6696  SPP1; secreted phosphoprotein 1 [KO:K06250]
+            7448  VTN; vitronectin [KO:K06251]
+            3371  TNC; tenascin C [KO:K06252]
+            63923  TNN; tenascin N [KO:K06252]
+            7143  TNR; tenascin R [KO:K06252]
+            7148  TNXB; tenascin XB [KO:K06252]
+            3381  IBSP; integrin binding sialoprotein [KO:K06253]
+            3672  ITGA1; integrin subunit alpha 1 [KO:K06480]
+            3673  ITGA2; integrin subunit alpha 2 [KO:K06481]
+            3674  ITGA2B; integrin subunit alpha 2b [KO:K06476]
+            3675  ITGA3; integrin subunit alpha 3 [KO:K06482]
+            3676  ITGA4; integrin subunit alpha 4 [KO:K06483]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            3655  ITGA6; integrin subunit alpha 6 [KO:K06485]
+            3679  ITGA7; integrin subunit alpha 7 [KO:K06583]
+            8516  ITGA8; integrin subunit alpha 8 [KO:K06584]
+            3680  ITGA9; integrin subunit alpha 9 [KO:K06585]
+            8515  ITGA10; integrin subunit alpha 10 [KO:K06586]
+            22801  ITGA11; integrin subunit alpha 11 [KO:K06587]
+            3685  ITGAV; integrin subunit alpha V [KO:K06487]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            3691  ITGB4; integrin subunit beta 4 [KO:K06525]
+            3693  ITGB5; integrin subunit beta 5 [KO:K06588]
+            3694  ITGB6; integrin subunit beta 6 [KO:K06589]
+            3695  ITGB7; integrin subunit beta 7 [KO:K06590]
+            3696  ITGB8; integrin subunit beta 8 [KO:K06591]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            5829  PXN; paxillin [KO:K05760]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            9368  NHERF1; NHERF family PDZ scaffold protein 1 [KO:K13365]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            5519  PPP2R1B; protein phosphatase 2 scaffold subunit Abeta [KO:K03456]
+            5518  PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha [KO:K03456]
+            5520  PPP2R2A; protein phosphatase 2 regulatory subunit Balpha [KO:K04354]
+            5521  PPP2R2B; protein phosphatase 2 regulatory subunit Bbeta [KO:K04354]
+            5522  PPP2R2C; protein phosphatase 2 regulatory subunit Bgamma [KO:K04354]
+            55844  PPP2R2D; protein phosphatase 2 regulatory subunit Bdelta [KO:K04354]
+            28227  PPP2R3B; protein phosphatase 2 regulatory subunit B''beta [KO:K11583]
+            55012  PPP2R3C; protein phosphatase 2 regulatory subunit B''gamma [KO:K11583]
+            5523  PPP2R3A; protein phosphatase 2 regulatory subunit B''alpha [KO:K11583]
+            5526  PPP2R5B; protein phosphatase 2 regulatory subunit B'beta [KO:K11584]
+            5527  PPP2R5C; protein phosphatase 2 regulatory subunit B'gamma [KO:K11584]
+            5528  PPP2R5D; protein phosphatase 2 regulatory subunit B'delta [KO:K11584]
+            5529  PPP2R5E; protein phosphatase 2 regulatory subunit B'epsilon [KO:K11584]
+            5525  PPP2R5A; protein phosphatase 2 regulatory subunit B'alpha [KO:K11584]
+            7248  TSC1; TSC complex subunit 1 [KO:K07206]
+            7249  TSC2; TSC complex subunit 2 [KO:K07207]
+            6009  RHEB; Ras homolog, mTORC1 binding [KO:K07208]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            1978  EIF4EBP1; eukaryotic translation initiation factor 4E binding protein 1 [KO:K07205]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            5159  PDGFRB; platelet derived growth factor receptor beta [KO:K05089] [EC:2.7.10.1]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            1027  CDKN1B; cyclin dependent kinase inhibitor 1B [KO:K06624]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            595  CCND1; cyclin D1 [KO:K04503]
+            894  CCND2; cyclin D2 [KO:K10151]
+            896  CCND3; cyclin D3 [KO:K10152]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            898  CCNE1; cyclin E1 [KO:K06626]
+            9134  CCNE2; cyclin E2 [KO:K06626]
+            1017  CDK2; cyclin dependent kinase 2 [KO:K02206] [EC:2.7.11.22]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            5933  RBL1; RB transcriptional corepressor like 1 [KO:K04681]
+            5934  RBL2; RB transcriptional corepressor like 2 [KO:K16332]
+            5700  PSMC1; proteasome 26S subunit, ATPase 1 [KO:K03062]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            890  CCNA2; cyclin A2 [KO:K06627]
+            8900  CCNA1; cyclin A1 [KO:K06627]
+            472  ATM; ATM serine/threonine kinase [KO:K04728] [EC:2.7.11.1]
+            545  ATR; ATR serine/threonine kinase [KO:K06640] [EC:2.7.11.1]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            4799  NFX1; nuclear transcription factor, X-box binding 1 [KO:K12236]
+            3065  HDAC1; histone deacetylase 1 [KO:K06067] [EC:3.5.1.98]
+            3066  HDAC2; histone deacetylase 2 [KO:K06067] [EC:3.5.1.98]
+            1108  CHD4; chromodomain helicase DNA binding protein 4 [KO:K11643] [EC:5.6.2.-]
+            3659  IRF1; interferon regulatory factor 1 [KO:K09444]
+            387332  TBPL2; TATA-box binding protein like 2 [KO:K03120]
+            9519  TBPL1; TATA-box binding protein like 1 [KO:K03120]
+            6908  TBP; TATA-box binding protein [KO:K03120]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            10134  BCAP31; B cell receptor associated protein 31 [KO:K14009]
+            523  ATP6V1A; ATPase H+ transporting V1 subunit A [KO:K02145] [EC:7.1.2.2]
+            525  ATP6V1B1; ATPase H+ transporting V1 subunit B1 [KO:K02147]
+            526  ATP6V1B2; ATPase H+ transporting V1 subunit B2 [KO:K02147]
+            245973  ATP6V1C2; ATPase H+ transporting V1 subunit C2 [KO:K02148]
+            528  ATP6V1C1; ATPase H+ transporting V1 subunit C1 [KO:K02148]
+            51382  ATP6V1D; ATPase H+ transporting V1 subunit D [KO:K02149]
+            90423  ATP6V1E2; ATPase H+ transporting V1 subunit E2 [KO:K02150]
+            529  ATP6V1E1; ATPase H+ transporting V1 subunit E1 [KO:K02150]
+            9296  ATP6V1F; ATPase H+ transporting V1 subunit F [KO:K02151]
+            9550  ATP6V1G1; ATPase H+ transporting V1 subunit G1 [KO:K02152]
+            127124  ATP6V1G3; ATPase H+ transporting V1 subunit G3 [KO:K02152]
+            534  ATP6V1G2; ATPase H+ transporting V1 subunit G2 [KO:K02152]
+            51606  ATP6V1H; ATPase H+ transporting V1 subunit H [KO:K02144]
+            10312  TCIRG1; T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [KO:K02154]
+            23545  ATP6V0A2; ATPase H+ transporting V0 subunit a2 [KO:K02154]
+            50617  ATP6V0A4; ATPase H+ transporting V0 subunit a4 [KO:K02154]
+            535  ATP6V0A1; ATPase H+ transporting V0 subunit a1 [KO:K02154]
+            9114  ATP6V0D1; ATPase H+ transporting V0 subunit d1 [KO:K02146]
+            245972  ATP6V0D2; ATPase H+ transporting V0 subunit d2 [KO:K02146]
+            8992  ATP6V0E1; ATPase H+ transporting V0 subunit e1 [KO:K02153]
+            155066  ATP6V0E2; ATPase H+ transporting V0 subunit e2 [KO:K02153]
+            527  ATP6V0C; ATPase H+ transporting V0 subunit c [KO:K02155]
+            533  ATP6V0B; ATPase H+ transporting V0 subunit b [KO:K03661]
+            537  ATP6AP1; ATPase H+ transporting accessory protein 1 [KO:K03662]
+            1950  EGF; epidermal growth factor [KO:K04357]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            5734  PTGER4; prostaglandin E receptor 4 [KO:K04261]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            23352  UBR4; ubiquitin protein ligase E3 component n-recognin 4 [KO:K10691] [EC:2.3.2.27]
+            27175  TUBG2; tubulin gamma 2 [KO:K10389]
+            7283  TUBG1; tubulin gamma 1 [KO:K10389]
+            5315  PKM; pyruvate kinase M1/2 [KO:K00873] [EC:2.7.1.40]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3454  IFNAR1; interferon alpha and beta receptor subunit 1 [KO:K05130]
+            3455  IFNAR2; interferon alpha and beta receptor subunit 2 [KO:K05131]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            7297  TYK2; tyrosine kinase 2 [KO:K11219] [EC:2.7.10.2]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6773  STAT2; signal transducer and activator of transcription 2 [KO:K11221]
+            10379  IRF9; interferon regulatory factor 9 [KO:K04693]
+            5610  EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2 [KO:K16195] [EC:2.7.11.1]
+            8638  OASL; 2'-5'-oligoadenylate synthetase like [KO:K14608]
+            4599  MX1; MX dynamin like GTPase 1 [KO:K14754]
+            4600  MX2; MX dynamin like GTPase 2 [KO:K14754]
+            9636  ISG15; ISG15 ubiquitin like modifier [KO:K12159]
+            182  JAG1; jagged canonical Notch ligand 1 [KO:K06052]
+            4851  NOTCH1; notch receptor 1 [KO:K02599]
+            4853  NOTCH2; notch receptor 2 [KO:K20994]
+            4854  NOTCH3; notch receptor 3 [KO:K20995]
+            4855  NOTCH4; notch receptor 4 [KO:K20996]
+            5663  PSEN1; presenilin 1 [KO:K04505] [EC:3.4.23.-]
+            4242  MFNG; MFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase [KO:K05948] [EC:2.4.1.222]
+            3955  LFNG; LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase [KO:K05948] [EC:2.4.1.222]
+            5986  RFNG; RFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase [KO:K05948] [EC:2.4.1.222]
+            55534  MAML3; mastermind like transcriptional coactivator 3 [KO:K06061]
+            84441  MAML2; mastermind like transcriptional coactivator 2 [KO:K06061]
+            9794  MAML1; mastermind like transcriptional coactivator 1 [KO:K06061]
+            11317  RBPJL; recombination signal binding protein for immunoglobulin kappa J region like [KO:K06053]
+            3516  RBPJ; recombination signal binding protein for immunoglobulin kappa J region [KO:K06053]
+            3280  HES1; hes family bHLH transcription factor 1 [KO:K06054]
+            54626  HES2; hes family bHLH transcription factor 2 [KO:K09087]
+            55502  HES6; hes family bHLH transcription factor 6 [KO:K09087]
+            84667  HES7; hes family bHLH transcription factor 7 [KO:K09087]
+            390992  HES3; hes family bHLH transcription factor 3 [KO:K09088]
+            57801  HES4; hes family bHLH transcription factor 4 [KO:K09089]
+            388585  HES5; hes family bHLH transcription factor 5 [KO:K06055]
+            26508  HEYL; hes related family bHLH transcription factor with YRPW motif like [KO:K09091]
+            23462  HEY1; hes related family bHLH transcription factor with YRPW motif 1 [KO:K09091]
+            23493  HEY2; hes related family bHLH transcription factor with YRPW motif 2 [KO:K09091]
+COMPOUND    C00575  3',5'-Cyclic AMP
+            C00584  Prostaglandin E2
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:20592731
+  AUTHORS   Moody CA, Laimins LA
+  TITLE     Human papillomavirus oncoproteins: pathways to transformation.
+  JOURNAL   Nat Rev Cancer 10:550-60 (2010)
+            DOI:10.1038/nrc2886
+REFERENCE   PMID:25752815
+  AUTHORS   Chen J
+  TITLE     Signaling pathways in HPV-associated cancers and therapeutic implications.
+  JOURNAL   Rev Med Virol 25 Suppl 1:24-53 (2015)
+            DOI:10.1002/rmv.1823
+REFERENCE   PMID:26008697
+  AUTHORS   Tummers B, Burg SH
+  TITLE     High-risk human papillomavirus targets crossroads in immune signaling.
+  JOURNAL   Viruses 7:2485-506 (2015)
+            DOI:10.3390/v7052485
+REFERENCE   PMID:19684440
+  AUTHORS   Lehoux M, D'Abramo CM, Archambault J
+  TITLE     Molecular mechanisms of human papillomavirus-induced carcinogenesis.
+  JOURNAL   Public Health Genomics 12:268-80 (2009)
+            DOI:10.1159/000214918
+REFERENCE   PMID:23164805
+  AUTHORS   Pang CL, Thierry F
+  TITLE     Human papillomavirus proteins as prospective therapeutic targets.
+  JOURNAL   Microb Pathog 58:55-65 (2013)
+            DOI:10.1016/j.micpath.2012.11.002
+REFERENCE   PMID:19156753
+  AUTHORS   Yugawa T, Kiyono T
+  TITLE     Molecular mechanisms of cervical carcinogenesis by high-risk human papillomaviruses: novel functions of E6 and E7 oncoproteins.
+  JOURNAL   Rev Med Virol 19:97-113 (2009)
+            DOI:10.1002/rmv.605
+REFERENCE   PMID:17645777
+  AUTHORS   Narisawa-Saito M, Kiyono T
+  TITLE     Basic mechanisms of high-risk human papillomavirus-induced carcinogenesis: roles of E6 and E7 proteins.
+  JOURNAL   Cancer Sci 98:1505-11 (2007)
+            DOI:10.1111/j.1349-7006.2007.00546.x
+REFERENCE   PMID:11486705
+  AUTHORS   Wolf JK, Ramirez PT.
+  TITLE     The molecular biology of cervical cancer.
+  JOURNAL   Cancer Invest 19:621-9 (2001)
+            DOI:10.1081/CNV-100104290
+REFERENCE   PMID:10793105
+  AUTHORS   zur Hausen H
+  TITLE     Papillomaviruses causing cancer: evasion from host-cell control in early events in carcinogenesis.
+  JOURNAL   J Natl Cancer Inst 92:690-8 (2000)
+            DOI:10.1093/jnci/92.9.690
+REFERENCE   PMID:16259056
+  AUTHORS   Kim YT, Zhao M
+  TITLE     Aberrant cell cycle regulation in cervical carcinoma.
+  JOURNAL   Yonsei Med J 46:597-613 (2005)
+            DOI:10.3349/ymj.2005.46.5.597
+REFERENCE   PMID:15956361
+  AUTHORS   McCance DJ
+  TITLE     Human papillomaviruses and cell signaling.
+  JOURNAL   Sci STKE 2005:pe29 (2005)
+            DOI:10.1126/stke.2882005pe29
+REFERENCE   PMID:15342967
+  AUTHORS   Motoyama S, Ladines-Llave CA, Luis Villanueva S, Maruo T
+  TITLE     The role of human papilloma virus in the molecular biology of cervical carcinogenesis.
+  JOURNAL   Kobe J Med Sci 50:9-19 (2004)
+REFERENCE   PMID:24316445
+  AUTHORS   Tommasino M
+  TITLE     The human papillomavirus family and its role in carcinogenesis.
+  JOURNAL   Semin Cancer Biol 26:13-21 (2014)
+            DOI:10.1016/j.semcancer.2013.11.002
+REFERENCE   PMID:26295406
+  AUTHORS   Bello JO, Nieva LO, Paredes AC, Gonzalez AM, Zavaleta LR, Lizano M
+  TITLE     Regulation of the Wnt/beta-Catenin Signaling Pathway by Human Papillomavirus E6 and E7 Oncoproteins.
+  JOURNAL   Viruses 7:4734-55 (2015)
+            DOI:10.3390/v7082842
+REFERENCE   PMID:26289783
+  AUTHORS   Shah M, Anwar MA, Park S, Jafri SS, Choi S
+  TITLE     In silico mechanistic analysis of IRF3 inactivation and high-risk HPV E6 species-dependent drug response.
+  JOURNAL   Sci Rep 5:13446 (2015)
+            DOI:10.1038/srep13446
+REFERENCE   PMID:26797638
+  AUTHORS   James CD, Roberts S
+  TITLE     Viral Interactions with PDZ Domain-Containing Proteins-An Oncogenic Trait?
+  JOURNAL   Pathogens 5:E8 (2016)
+            DOI:10.3390/pathogens5010008
+REFERENCE   PMID:26147797
+  AUTHORS   Ganti K, Broniarczyk J, Manoubi W, Massimi P, Mittal S, Pim D, Szalmas A, Thatte J, Thomas M, Tomaic V, Banks L
+  TITLE     The Human Papillomavirus E6 PDZ Binding Motif: From Life Cycle to Malignancy.
+  JOURNAL   Viruses 7:3530-51 (2015)
+            DOI:10.3390/v7072785
+REFERENCE   PMID:21954943
+  AUTHORS   Subbaiah VK, Kranjec C, Thomas M, Banks L
+  TITLE     PDZ domains: the building blocks regulating tumorigenesis.
+  JOURNAL   Biochem J 439:195-205 (2011)
+            DOI:10.1042/BJ20110903
+REFERENCE   PMID:23175122
+  AUTHORS   Banks L, Pim D, Thomas M
+  TITLE     Human tumour viruses and the deregulation of cell polarity in cancer.
+  JOURNAL   Nat Rev Cancer 12:877-86 (2012)
+            DOI:10.1038/nrc3400
+REFERENCE   PMID:19029942
+  AUTHORS   Thomas M, Narayan N, Pim D, Tomaic V, Massimi P, Nagasaka K, Kranjec C, Gammoh N, Banks L
+  TITLE     Human papillomaviruses, cervical cancer and cell polarity.
+  JOURNAL   Oncogene 27:7018-30 (2008)
+            DOI:10.1038/onc.2008.351
+REFERENCE   PMID:19901438
+  AUTHORS   Jayshree RS, Sreenivas A, Tessy M, Krishna S
+  TITLE     Cell intrinsic &amp; extrinsic factors in cervical carcinogenesis.
+  JOURNAL   Indian J Med Res 130:286-95 (2009)
+REFERENCE   PMID:16862386
+  AUTHORS   Garnett TO, Duerksen-Hughes PJ
+  TITLE     Modulation of apoptosis by human papillomavirus (HPV) oncoproteins.
+  JOURNAL   Arch Virol 151:2321-35 (2006)
+            DOI:10.1007/s00705-006-0821-0
+REFERENCE   PMID:26022660
+  AUTHORS   Zhang L, Wu J, Ling MT, Zhao L, Zhao KN
+  TITLE     The role of the PI3K/Akt/mTOR signalling pathway in human cancers induced by infection with human papillomaviruses.
+  JOURNAL   Mol Cancer 14:87 (2015)
+            DOI:10.1186/s12943-015-0361-x
+REFERENCE   PMID:22078316
+  AUTHORS   Venuti A, Paolini F, Nasir L, Corteggio A, Roperto S, Campo MS, Borzacchiello G
+  TITLE     Papillomavirus E5: the smallest oncoprotein with many functions.
+  JOURNAL   Mol Cancer 10:140 (2011)
+            DOI:10.1186/1476-4598-10-140
+REFERENCE   PMID:11753669
+  AUTHORS   DiMaio D, Mattoon D
+  TITLE     Mechanisms of cell transformation by papillomavirus E5 proteins.
+  JOURNAL   Oncogene 20:7866-73 (2001)
+            DOI:10.1038/sj.onc.1204915
+REFERENCE   PMID:22262402
+  AUTHORS   Ganguly N
+  TITLE     Human papillomavirus-16 E5 protein: oncogenic role and therapeutic value.
+  JOURNAL   Cell Oncol (Dordr) 35:67-76 (2012)
+            DOI:10.1007/s13402-011-0069-x
+REFERENCE   PMID:23731971
+  AUTHORS   DiMaio D, Petti LM
+  TITLE     The E5 proteins.
+  JOURNAL   Virology 445:99-114 (2013)
+            DOI:10.1016/j.virol.2013.05.006
+REFERENCE   PMID:23403708
+  AUTHORS   De Marco F
+  TITLE     Oxidative stress and HPV carcinogenesis.
+  JOURNAL   Viruses 5:708-31 (2013)
+            DOI:10.3390/v5020708
+REFERENCE   PMID:26643553
+  AUTHORS   Wieringa HW, van der Zee AG, de Vries EG, van Vugt MA
+  TITLE     Breaking the DNA damage response to improve cervical cancer treatment.
+  JOURNAL   Cancer Treat Rev 42:30-40 (2016)
+            DOI:10.1016/j.ctrv.2015.11.008
+REFERENCE   PMID:19861444
+  AUTHORS   Chung CH, Gillison ML
+  TITLE     Human papillomavirus in head and neck cancer: its role in pathogenesis and clinical implications.
+  JOURNAL   Clin Cancer Res 15:6758-62 (2009)
+            DOI:10.1158/1078-0432.CCR-09-0784
+REFERENCE   PMID:11325599
+  AUTHORS   Koromilas AE, Li S, Matlashewski G
+  TITLE     Control of interferon signaling in human papillomavirus infection.
+  JOURNAL   Cytokine Growth Factor Rev 12:157-70 (2001)
+            DOI:10.1016/S1359-6101(00)00023-X
+REFERENCE   PMID:10702232
+  AUTHORS   Park JS, Kim EJ, Kwon HJ, Hwang ES, Namkoong SE, Um SJ
+  TITLE     Inactivation of interferon regulatory factor-1 tumor suppressor protein by HPV E7 oncoprotein. Implication for the E7-mediated immune evasion mechanism in cervical carcinogenesis.
+  JOURNAL   J Biol Chem 275:6764-9 (2000)
+            DOI:10.1074/jbc.275.10.6764
+REFERENCE   PMID:22499770
+  AUTHORS   Sandberg A, Lindell G, Kallstrom BN, Branca RM, Danielsson KG, Dahlberg M, Larson B, Forshed J, Lehtio J
+  TITLE     Tumor proteomics by multivariate analysis on individual pathway data for characterization of vulvar cancer phenotypes.
+  JOURNAL   Mol Cell Proteomics 11:M112.016998 (2012)
+            DOI:10.1074/mcp.M112.016998
+REFERENCE   PMID:9990017
+  AUTHORS   Zwerschke W, Mazurek S, Massimi P, Banks L, Eigenbrodt E, Jansen-Durr P
+  TITLE     Modulation of type M2 pyruvate kinase activity by the human papillomavirus type 16 E7 oncoprotein.
+  JOURNAL   Proc Natl Acad Sci U S A 96:1291-6 (1999)
+            DOI:10.1073/pnas.96.4.1291
+REFERENCE   PMID:15175323
+  AUTHORS   Lu Z, Hu X, Li Y, Zheng L, Zhou Y, Jiang H, Ning T, Basang Z, Zhang C, Ke Y
+  TITLE     Human papillomavirus 16 E6 oncoprotein interferences with insulin signaling pathway by binding to tuberin.
+  JOURNAL   J Biol Chem 279:35664-70 (2004)
+            DOI:10.1074/jbc.M403385200
+REFERENCE   PMID:18505829
+  AUTHORS   Xu M, Luo W, Elzi DJ, Grandori C, Galloway DA
+  TITLE     NFX1 interacts with mSin3A/histone deacetylase to repress hTERT transcription in keratinocytes.
+  JOURNAL   Mol Cell Biol 28:4819-28 (2008)
+            DOI:10.1128/MCB.01969-07
+REFERENCE   PMID:23536685
+  AUTHORS   Raff AB, Woodham AW, Raff LM, Skeate JG, Yan L, Da Silva DM, Schelhaas M, Kast WM
+  TITLE     The evolving field of human papillomavirus receptor research: a review of binding and entry.
+  JOURNAL   J Virol 87:6062-72 (2013)
+            DOI:10.1128/JVI.00330-13
+REL_PATHWAY hsa04064  NF-kappa B signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04310  Wnt signaling pathway
+            hsa04330  Notch signaling pathway
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04530  Tight junction
+            hsa04612  Antigen processing and presentation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04630  JAK-STAT signaling pathway
+KO_PATHWAY  ko05165
+///

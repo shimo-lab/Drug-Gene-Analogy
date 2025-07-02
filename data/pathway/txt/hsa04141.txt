@@ -1,0 +1,231 @@
+ENTRY       hsa04141                    Pathway
+NAME        Protein processing in endoplasmic reticulum - Homo sapiens (human)
+DESCRIPTION The endoplasmic reticulum (ER) is a subcellular organelle where proteins are folded with the help of lumenal chaperones. Newly synthesized peptides enter the ER via the sec61 pore and are glycosylated. Correctly folded proteins are packaged into transport vesicles that shuttle them to the Golgi complex. Misfolded proteins are retained within the ER lumen in complex with molecular chaperones. Proteins that are terminally misfolded bind to BiP and are directed toward degradation through the proteasome in a process called ER-associated degradation (ERAD). Accumulation of misfolded proteins in the ER causes ER stress and activates a signaling pathway called the unfolded protein response (UPR). In certain severe situations, however, the protective mechanisms activated by the UPR are not sufficient to restore normal ER function and cells die by apoptosis.
+CLASS       Genetic Information Processing; Folding, sorting and degradation
+PATHWAY_MAP hsa04141  Protein processing in endoplasmic reticulum
+NETWORK     nt06125  Membrane trafficking (bacteria)
+            nt06412  Unfolded protein response (UPR) signaling
+            nt06460  Alzheimer disease
+            nt06463  Parkinson disease
+            nt06464  Amyotrophic lateral sclerosis
+            nt06465  Prion disease
+  ELEMENT   N01009  PERK-ATF4 signaling pathway
+            N01011  IRE1a-XBP1 signaling pathway
+            N01013  IRE1a-JNK signaling pathway
+            N01015  ATF6-mediated transcription
+            N01289  COPII vesicle formation
+DRUG        D10964  Omaveloxolone (USAN/INN)
+DBLINKS     GO: 0030433 0034976
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        29927  SEC61A1; SEC61 translocon subunit alpha 1 [KO:K10956]
+            55176  SEC61A2; SEC61 translocon subunit alpha 2 [KO:K10956]
+            10952  SEC61B; SEC61 translocon subunit beta [KO:K09481]
+            23480  SEC61G; SEC61 translocon subunit gamma [KO:K07342]
+            7095  SEC62; SEC62 homolog, preprotein translocation factor [KO:K12275]
+            11231  SEC63; SEC63 homolog, protein translocation regulator [KO:K09540]
+            6184  RPN1; ribophorin I [KO:K12666]
+            6185  RPN2; ribophorin II [KO:K12667]
+            1603  DAD1; defender against cell death 1 [KO:K12668]
+            7991  TUSC3; tumor suppressor candidate 3 [KO:K12669]
+            1650  DDOST; dolichyl-diphosphooligosaccharide--protein glycosyltransferase non-catalytic subunit [KO:K12670]
+            3703  STT3A; STT3 oligosaccharyltransferase complex catalytic subunit A [KO:K07151] [EC:2.4.99.18]
+            201595  STT3B; STT3 oligosaccharyltransferase complex catalytic subunit B [KO:K07151] [EC:2.4.99.18]
+            7841  MOGS; mannosyl-oligosaccharide glucosidase [KO:K01228] [EC:3.2.1.106]
+            10970  CKAP4; cytoskeleton associated protein 4 [KO:K13999]
+            6238  RRBP1; ribosome binding protein 1 [KO:K14000]
+            64374  SIL1; SIL1 nucleotide exchange factor [KO:K14001]
+            10525  HYOU1; hypoxia up-regulated 1 [KO:K09486]
+            3309  HSPA5; heat shock protein family A (Hsp70) member 5 [KO:K09490] [EC:3.6.4.10]
+            51726  DNAJB11; DnaJ heat shock protein family (Hsp40) member B11 [KO:K09517]
+            64215  DNAJC1; DnaJ heat shock protein family (Hsp40) member C1 [KO:K09521]
+            5611  DNAJC3; DnaJ heat shock protein family (Hsp40) member C3 [KO:K09523]
+            54431  DNAJC10; DnaJ heat shock protein family (Hsp40) member C10 [KO:K09530] [EC:1.8.4.-]
+            7184  HSP90B1; heat shock protein 90 beta family member 1 [KO:K09487]
+            23193  GANAB; glucosidase II alpha subunit [KO:K05546] [EC:3.2.1.207]
+            5589  PRKCSH; protein kinase C substrate 80K-H [KO:K08288]
+            821  CANX; calnexin [KO:K08054]
+            2923  PDIA3; protein disulfide isomerase family A member 3 [KO:K08056] [EC:5.3.4.1]
+            811  CALR; calreticulin [KO:K08057]
+            10905  MAN1A2; mannosidase alpha class 1A member 2 [KO:K01230] [EC:3.2.1.113]
+            57134  MAN1C1; mannosidase alpha class 1C member 1 [KO:K01230] [EC:3.2.1.113]
+            4121  MAN1A1; mannosidase alpha class 1A member 1 [KO:K01230] [EC:3.2.1.113]
+            11253  MAN1B1; mannosidase alpha class 1B member 1 [KO:K23741] [EC:3.2.1.209]
+            10960  LMAN2; lectin, mannose binding 2 [KO:K10082]
+            3998  LMAN1; lectin, mannose binding 1 [KO:K10080]
+            79748  LMAN1L; lectin, mannose binding 1 like [KO:K10081]
+            10113  PREB; prolactin regulatory element binding [KO:K14003]
+            56681  SAR1A; secretion associated Ras related GTPase 1A [KO:K07953] [EC:3.6.5.-]
+            51128  SAR1B; secretion associated Ras related GTPase 1B [KO:K07953] [EC:3.6.5.-]
+            6396  SEC13; SEC13 homolog, nuclear pore and COPII coat complex component [KO:K14004]
+            22872  SEC31A; SEC31 homolog A, COPII coat complex component [KO:K14005]
+            25956  SEC31B; SEC31 homolog B, COPII coat complex component [KO:K14005]
+            10483  SEC23B; SEC23 homolog B, COPII coat complex component [KO:K14006]
+            10484  SEC23A; SEC23 homolog A, COPII coat complex component [KO:K14006]
+            10427  SEC24B; SEC24 homolog B, COPII coat complex component [KO:K14007]
+            10802  SEC24A; SEC24 homolog A, COPII coat complex component [KO:K14007]
+            9632  SEC24C; SEC24 homolog C, COPII coat complex component [KO:K14007]
+            9871  SEC24D; SEC24 homolog D, COPII coat complex component [KO:K14007]
+            55757  UGGT2; UDP-glucose glycoprotein glucosyltransferase 2 [KO:K11718] [EC:2.4.1.-]
+            56886  UGGT1; UDP-glucose glycoprotein glucosyltransferase 1 [KO:K11718] [EC:2.4.1.-]
+            9695  EDEM1; ER degradation enhancing alpha-mannosidase like protein 1 [KO:K10084]
+            55741  EDEM2; ER degradation enhancing alpha-mannosidase like protein 2 [KO:K10085]
+            111089941  MMP24-AS1-EDEM2; MMP24-AS1-EDEM2 readthrough [KO:K10085]
+            80267  EDEM3; ER degradation enhancing alpha-mannosidase like protein 3 [KO:K10086]
+            5034  P4HB; prolyl 4-hydroxylase subunit beta [KO:K09580] [EC:5.3.4.1]
+            9601  PDIA4; protein disulfide isomerase family A member 4 [KO:K09582] [EC:5.3.4.1]
+            10130  PDIA6; protein disulfide isomerase family A member 6 [KO:K09584] [EC:5.3.4.1]
+            10961  ERP29; endoplasmic reticulum protein 29 [KO:K09586]
+            81567  TXNDC5; thioredoxin domain containing 5 [KO:K13984]
+            30001  ERO1A; endoplasmic reticulum oxidoreductase 1 alpha [KO:K10950] [EC:1.8.4.-]
+            56605  ERO1B; endoplasmic reticulum oxidoreductase 1 beta [KO:K10976] [EC:1.8.4.-]
+            10956  OS9; OS9 endoplasmic reticulum lectin [KO:K10088]
+            27248  ERLEC1; endoplasmic reticulum lectin 1 [KO:K14008]
+            6745  SSR1; signal sequence receptor subunit 1 [KO:K13249]
+            6746  SSR2; signal sequence receptor subunit 2 [KO:K13250]
+            6747  SSR3; signal sequence receptor subunit 3 [KO:K13251]
+            6748  SSR4; signal sequence receptor subunit 4 [KO:K04571]
+            10134  BCAP31; B cell receptor associated protein 31 [KO:K14009]
+            23471  TRAM1; translocation associated membrane protein 1 [KO:K14010]
+            133022  TRAM1L1; translocation associated membrane protein 1 like 1 [KO:K14010]
+            79139  DERL1; derlin 1 [KO:K11519]
+            51009  DERL2; derlin 2 [KO:K13989]
+            91319  DERL3; derlin 3 [KO:K13989]
+            23190  UBXN4; UBX domain protein 4 [KO:K24348]
+            51035  UBXN1; UBX domain protein 1 [KO:K24348]
+            165324  UBXN2A; UBX domain protein 2A [KO:K24349]
+            80700  UBXN6; UBX domain protein 6 [KO:K14011]
+            7993  UBXN8; UBX domain protein 8 [KO:K24351]
+            55968  NSFL1C; NSFL1 cofactor [KO:K14012]
+            258010  SVIP; small VCP interacting protein [KO:K14014]
+            7415  VCP; valosin containing protein [KO:K13525]
+            55666  NPLOC4; NPL4 homolog, ubiquitin recognition factor [KO:K14015]
+            7353  UFD1; ubiquitin recognition factor in ER associated degradation 1 [KO:K14016]
+            3312  HSPA8; heat shock protein family A (Hsp70) member 8 [KO:K03283]
+            3303  HSPA1A; heat shock protein family A (Hsp70) member 1A [KO:K03283]
+            3306  HSPA2; heat shock protein family A (Hsp70) member 2 [KO:K03283]
+            3305  HSPA1L; heat shock protein family A (Hsp70) member 1 like [KO:K03283]
+            3304  HSPA1B; heat shock protein family A (Hsp70) member 1B [KO:K03283]
+            3310  HSPA6; heat shock protein family A (Hsp70) member 6 [KO:K03283]
+            3301  DNAJA1; DnaJ heat shock protein family (Hsp40) member A1 [KO:K09502]
+            10294  DNAJA2; DnaJ heat shock protein family (Hsp40) member A2 [KO:K09503]
+            3337  DNAJB1; DnaJ heat shock protein family (Hsp40) member B1 [KO:K09507]
+            3300  DNAJB2; DnaJ heat shock protein family (Hsp40) member B2 [KO:K09508]
+            54788  DNAJB12; DnaJ heat shock protein family (Hsp40) member B12 [KO:K09518]
+            80331  DNAJC5; DnaJ heat shock protein family (Hsp40) member C5 [KO:K09525]
+            85479  DNAJC5B; DnaJ heat shock protein family (Hsp40) member C5 beta [KO:K09525]
+            285126  DNAJC5G; DnaJ heat shock protein family (Hsp40) member C5 gamma [KO:K09525]
+            3320  HSP90AA1; heat shock protein 90 alpha family class A member 1 [KO:K04079]
+            3326  HSP90AB1; heat shock protein 90 alpha family class B member 1 [KO:K04079]
+            10808  HSPH1; heat shock protein family H (Hsp110) member 1 [KO:K09485]
+            22824  HSPA4L; heat shock protein family A (Hsp70) member 4 like [KO:K09485]
+            573  BAG1; BAG cochaperone 1 [KO:K09555]
+            9532  BAG2; BAG cochaperone 2 [KO:K09556]
+            23640  HSPBP1; HSPA (Hsp70) binding protein 1 [KO:K09562]
+            1409  CRYAA; crystallin alpha A [KO:K09541]
+            102724652  CRYAA; crystallin alpha A2 [KO:K09541]
+            1410  CRYAB; crystallin alpha B [KO:K09542]
+            55432  YOD1; YOD1 deubiquitinase [KO:K13719] [EC:3.1.2.-]
+            9373  PLAA; phospholipase A2 activating protein [KO:K14018]
+            5887  RAD23B; RAD23 homolog B, nucleotide excision repair protein [KO:K10839]
+            5886  RAD23A; RAD23 homolog A, nucleotide excision repair protein [KO:K10839]
+            29979  UBQLN1; ubiquilin 1 [KO:K04523]
+            29978  UBQLN2; ubiquilin 2 [KO:K04523]
+            50613  UBQLN3; ubiquilin 3 [KO:K04523]
+            56893  UBQLN4; ubiquilin 4 [KO:K04523]
+            55768  NGLY1; N-glycanase 1 [KO:K01456] [EC:3.5.1.52]
+            4287  ATXN3; ataxin 3 [KO:K11863] [EC:3.4.22.-]
+            92552  ATXN3L; ataxin 3 like [KO:K11863] [EC:3.4.22.-]
+            10277  UBE4B; ubiquitination factor E4B [KO:K10597] [EC:2.3.2.27]
+            27102  EIF2AK1; eukaryotic translation initiation factor 2 alpha kinase 1 [KO:K16194] [EC:2.7.11.1]
+            5610  EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2 [KO:K16195] [EC:2.7.11.1]
+            9451  EIF2AK3; eukaryotic translation initiation factor 2 alpha kinase 3 [KO:K08860] [EC:2.7.11.1]
+            440275  EIF2AK4; eukaryotic translation initiation factor 2 alpha kinase 4 [KO:K16196] [EC:2.7.11.1]
+            1965  EIF2S1; eukaryotic translation initiation factor 2 subunit alpha [KO:K03237]
+            4780  NFE2L2; NFE2 like bZIP transcription factor 2 [KO:K05638]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            23645  PPP1R15A; protein phosphatase 1 regulatory subunit 15A [KO:K14019]
+            1649  DDIT3; DNA damage inducible transcript 3 [KO:K04452]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            22926  ATF6; activating transcription factor 6 [KO:K09054]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            7466  WFS1; wolframin ER transmembrane glycoprotein [KO:K14020]
+            8720  MBTPS1; membrane bound transcription factor peptidase, site 1 [KO:K08653] [EC:3.4.21.112]
+            51360  MBTPS2; membrane bound transcription factor peptidase, site 2 [KO:K07765] [EC:3.4.24.85]
+            7494  XBP1; X-box binding protein 1 [KO:K09027]
+            2081  ERN1; endoplasmic reticulum to nucleus signaling 1 [KO:K08852] [EC:2.7.11.1 3.1.26.-]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            823  CAPN1; calpain 1 [KO:K01367] [EC:3.4.22.52]
+            824  CAPN2; calpain 2 [KO:K03853] [EC:3.4.22.53]
+            100506742  CASP12; caspase 12 (gene/pseudogene) [KO:K04741] [EC:3.4.22.-]
+            10299  MARCHF6; membrane associated ring-CH-type finger 6 [KO:K10661] [EC:2.3.2.27]
+            51465  UBE2J1; ubiquitin conjugating enzyme E2 J1 [KO:K10578] [EC:2.3.2.23]
+            118424  UBE2J2; ubiquitin conjugating enzyme E2 J2 [KO:K04554] [EC:2.3.2.23]
+            7326  UBE2G1; ubiquitin conjugating enzyme E2 G1 [KO:K10575] [EC:2.3.2.23]
+            7327  UBE2G2; ubiquitin conjugating enzyme E2 G2 [KO:K04555] [EC:2.3.2.23]
+            84447  SYVN1; synoviolin 1 [KO:K10601] [EC:2.3.2.27]
+            6048  RNF5; ring finger protein 5 [KO:K10666] [EC:2.3.2.27]
+            91445  RNF185; ring finger protein 185 [KO:K10666] [EC:2.3.2.27]
+            55829  SELENOS; selenoprotein S [KO:K14025]
+            6400  SEL1L; SEL1L adaptor subunit of ERAD E3 ubiquitin ligase [KO:K14026]
+            80343  SEL1L2; SEL1L2 adaptor subunit of ERAD E3 ligase [KO:K14026]
+            9709  HERPUD1; homocysteine inducible ER protein with ubiquitin like domain 1 [KO:K14027]
+            267  AMFR; autocrine motility factor receptor [KO:K10636] [EC:2.3.2.36]
+            10273  STUB1; STIP1 homology and U-box containing protein 1 [KO:K09561] [EC:2.3.2.27]
+            51619  UBE2D4; ubiquitin conjugating enzyme E2 D4 (putative) [KO:K06689] [EC:2.3.2.23]
+            7321  UBE2D1; ubiquitin conjugating enzyme E2 D1 [KO:K06689] [EC:2.3.2.23]
+            7322  UBE2D2; ubiquitin conjugating enzyme E2 D2 [KO:K06689] [EC:2.3.2.23]
+            7323  UBE2D3; ubiquitin conjugating enzyme E2 D3 [KO:K06689] [EC:2.3.2.23]
+            5071  PRKN; parkin RBR E3 ubiquitin protein ligase [KO:K04556] [EC:2.3.2.31]
+            9978  RBX1; ring-box 1 [KO:K03868] [EC:2.3.2.32]
+            8454  CUL1; cullin 1 [KO:K03347]
+            6500  SKP1; S-phase kinase associated protein 1 [KO:K03094]
+            26232  FBXO2; F-box protein 2 [KO:K10099]
+            26270  FBXO6; F-box protein 6 [KO:K10100]
+COMPOUND    C00076  Calcium cation
+            G00009
+            G00010
+            G00011
+            G00012
+            G10694
+REFERENCE   PMID:19491040
+  AUTHORS   Naidoo N
+  TITLE     ER and aging-Protein folding and the ER stress response.
+  JOURNAL   Ageing Res Rev 8:150-9 (2009)
+            DOI:10.1016/j.arr.2009.03.001
+REFERENCE   PMID:18023214
+  AUTHORS   Malhotra JD, Kaufman RJ
+  TITLE     The endoplasmic reticulum and the unfolded protein response.
+  JOURNAL   Semin Cell Dev Biol 18:716-31 (2007)
+            DOI:10.1016/j.semcdb.2007.09.003
+REFERENCE   PMID:20347046
+  AUTHORS   Maattanen P, Gehring K, Bergeron JJ, Thomas DY
+  TITLE     Protein quality control in the ER: the recognition of misfolded proteins.
+  JOURNAL   Semin Cell Dev Biol 21:500-11 (2010)
+            DOI:10.1016/j.semcdb.2010.03.006
+REFERENCE   PMID:20219571
+  AUTHORS   Stolz A, Wolf DH
+  TITLE     Endoplasmic reticulum associated protein degradation: a chaperone assisted journey to hell.
+  JOURNAL   Biochim Biophys Acta 1803:694-705 (2010)
+            DOI:10.1016/j.bbamcr.2010.02.005
+REFERENCE   PMID:20112977
+  AUTHORS   Dejgaard K, Theberge JF, Heath-Engel H, Chevet E, Tremblay ML, Thomas DY
+  TITLE     Organization of the Sec61 translocon, studied by high resolution native electrophoresis.
+  JOURNAL   J Proteome Res 9:1763-71 (2010)
+            DOI:10.1021/pr900900x
+REL_PATHWAY hsa00510  N-Glycan biosynthesis
+            hsa03050  Proteasome
+            hsa03060  Protein export
+            hsa04210  Apoptosis
+            hsa04930  Type II diabetes mellitus
+            hsa05010  Alzheimer disease
+            hsa05012  Parkinson disease
+            hsa05020  Prion disease
+KO_PATHWAY  ko04141
+///

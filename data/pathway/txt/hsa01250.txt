@@ -1,0 +1,9 @@
+ENTRY       hsa01250                    Pathway
+NAME        Biosynthesis of nucleotide sugars - Homo sapiens (human)
+PATHWAY_MAP hsa01250  Biosynthesis of nucleotide sugars
+MODULE      hsa_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose [PATH:hsa01250]
+            hsa_M00554  Nucleotide sugar biosynthesis, galactose => UDP-galactose [PATH:hsa01250]
+            hsa_M00892  UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc [PATH:hsa01250]
+ORGANISM    Homo sapiens (human) [GN:hsa]
+KO_PATHWAY  ko01250
+///

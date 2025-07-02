@@ -1,0 +1,369 @@
+ENTRY       hsa04064                    Pathway
+NAME        NF-kappa B signaling pathway - Homo sapiens (human)
+DESCRIPTION Nuclear factor-kappa B (NF-kappa B) is the generic name of a family of transcription factors that function as dimers and regulate genes involved in immunity, inflammation and cell survival. There are several pathways leading to NF-kappa B-activation. The canonical pathway is induced by tumour necrosis factor-alpha (TNF-alpha), interleukin-1 (IL-1) or byproducts of bacterial and viral infections. This pathway relies on IKK- mediated IkappaB-alpha phosphorylation on Ser32 and 36, leading to its degradation, which allows the p50/p65 NF-kappa B dimer to enter the nucleus and activate gene transcription. Atypical pathways are IKK-independent and rely on phosphorylation of IkappaB-alpha on Tyr42 or on Ser residues in IkappaB-alpha PEST domain. The non-canonical pathway is triggered by particular members of the TNFR superfamily, such as lymphotoxin-beta (LT-beta) or BAFF. It involves NIK and IKK-alpha-mediated p100 phosphorylation and processing to p52, resulting in nuclear translocation of p52/RelB heterodimers.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP hsa04064  NF-kappa B signaling pathway
+NETWORK     nt06160  Human T-cell leukemia virus 1 (HTLV-1)
+            nt06161  Human immunodeficiency virus type 1 (HIV-1)
+            nt06163  Hepatitis C virus (HCV)
+            nt06164  Kaposi sarcoma-associated herpesvirus (KSHV)
+            nt06165  Epstein-Barr virus (EBV)
+            nt06167  Human cytomegalovirus (HCMV)
+            nt06168  Herpes simplex virus 1 (HSV-1)
+            nt06223  TNF signaling
+            nt06263  Hepatocellular carcinoma
+            nt06516  TNF signaling
+  ELEMENT   N00151  TNF-NFKB signaling pathway
+            N00505  CD40-NFKB signaling pathway
+            N00559  LIGHT-HVEM-NFKB signaling pathway
+DRUG        D00742  Etanercept (USAN/INN)
+            D00754  Thalidomide (JAN/USP/INN)
+            D01146  Iguratimod (JAN/INN)
+            D02979  Ardenermin (USAN)
+            D03068  Belimumab (USAN)
+            D04687  Lenalidomide (JAN/USAN/INN)
+            D04690  Lenercept (USAN/INN)
+            D05263  Onercept (USAN/INN)
+            D05393  Pegsunercept (USAN)
+            D06193  Toralizumab (USAN/INN)
+            D06619  Mifamurtide (USAN)
+            D06635  Rilonacept (USAN/INN)
+            D08562  Tasonermin (INN)
+            D08866  Baminercept (USAN/INN)
+            D08877  Briobacept (USAN)
+            D09347  Fostamatinib (USAN)
+            D09348  Fostamatinib disodium (USAN)
+            D09730  Olaparib (JAN/USAN/INN)
+            D09813  Lenalidomide hydrate (JAN)
+            D11122  Letolizumab (USAN/INN)
+            D11127  Tibulizumab (USAN/INN)
+            D11209  Entospletinib (USAN/INN)
+            D11457  Fenebrutinib (USAN/INN)
+            D11478  Branebrutinib (USAN)
+            D11703  Opinercept (INN)
+            D11789  Mivavotinib (USAN/INN)
+            D11790  Mivavotinib citrate (USAN)
+            D11873  Rilzabrutinib (USAN/INN)
+            D11907  Rozibafusp alfa (USAN/INN)
+            D12151  Ianalumab (USAN/INN)
+            D12158  Elsubrutinib (USAN/INN)
+            D12160  Orelabrutinib (USAN/INN)
+            D12167  Zimlovisertib (USAN)
+            D12181  Edasalonexent (USAN/INN)
+            D12213  Tolebrutinib (USAN/INN)
+            D12285  Remibrutinib (USAN/INN)
+            D12352  Eclitasertib (USAN/INN)
+            D12383  Edralbrutinib (USAN/INN)
+            D12411  Emavusertib (USAN/INN)
+            D12412  Emavusertib hydrochloride (USAN)
+            D12467  Evobrutinib (USAN/INN)
+            D12504  Nemtabrutinib (USAN/INN)
+            D12532  Emavusertib mesylate (USAN)
+            D12533  Emavusertib maleate (USAN)
+            D12538  Emavusertib phosphate (USAN)
+            D12539  emavusertib tosylate (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3932  LCK; LCK proto-oncogene, Src family tyrosine kinase [KO:K05856] [EC:2.7.10.2]
+            7535  ZAP70; zeta chain of T cell receptor associated protein kinase 70 [KO:K07360] [EC:2.7.10.2]
+            27040  LAT; linker for activation of T cells [KO:K07362]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5588  PRKCQ; protein kinase C theta [KO:K18052] [EC:2.7.11.13]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            29760  BLNK; B cell linker [KO:K07371]
+            695  BTK; Bruton tyrosine kinase [KO:K07370] [EC:2.7.10.2]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            29775  CARD10; caspase recruitment domain family member 10 [KO:K20912]
+            84433  CARD11; caspase recruitment domain family member 11 [KO:K07367]
+            79092  CARD14; caspase recruitment domain family member 14 [KO:K20913]
+            8915  BCL10; BCL10 immune signaling adaptor [KO:K07368]
+            10892  MALT1; MALT1 paracaspase [KO:K07369] [EC:3.4.22.-]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3554  IL1R1; interleukin 1 receptor type 1 [KO:K04386]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8737  RIPK1; receptor interacting serine/threonine kinase 1 [KO:K02861] [EC:2.7.11.1]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            7188  TRAF5; TNF receptor associated factor 5 [KO:K09849]
+            329  BIRC2; baculoviral IAP repeat containing 2 [KO:K16060]
+            330  BIRC3; baculoviral IAP repeat containing 3 [KO:K16060]
+            1896  EDA; ectodysplasin A [KO:K05480]
+            10913  EDAR; ectodysplasin A receptor [KO:K05162]
+            128178  EDARADD; EDAR associated death domain [KO:K23324]
+            1540  CYLD; CYLD lysine 63 deubiquitinase [KO:K08601] [EC:3.4.19.12]
+            60401  EDA2R; ectodysplasin A2 receptor [KO:K05163]
+            23586  RIGI; RNA sensor RIG-I [KO:K12646] [EC:3.6.4.13]
+            7706  TRIM25; tripartite motif containing 25 [KO:K10652] [EC:2.3.2.27]
+            3929  LBP; lipopolysaccharide binding protein [KO:K05399]
+            929  CD14; CD14 molecule [KO:K04391]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            23643  LY96; lymphocyte antigen 96 [KO:K05400]
+            114609  TIRAP; TIR domain containing adaptor protein [KO:K05403]
+            353376  TICAM2; TIR domain containing adaptor molecule 2 [KO:K05409]
+            148022  TICAM1; TIR domain containing adaptor molecule 1 [KO:K05842]
+            959  CD40LG; CD40 ligand [KO:K03161]
+            958  CD40; CD40 molecule [KO:K03160]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            8600  TNFSF11; TNF superfamily member 11 [KO:K05473]
+            8792  TNFRSF11A; TNF receptor superfamily member 11a [KO:K05147]
+            4049  LTA; lymphotoxin alpha [KO:K05468]
+            4050  LTB; lymphotoxin beta [KO:K03157]
+            8740  TNFSF14; TNF superfamily member 14 [KO:K05477]
+            4055  LTBR; lymphotoxin beta receptor [KO:K03159]
+            9020  MAP3K14; mitogen-activated protein kinase kinase kinase 14 [KO:K04466] [EC:2.7.11.25]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            10454  TAB1; TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [KO:K04403]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            257397  TAB3; TGF-beta activated kinase 1 (MAP3K7) binding protein 3 [KO:K12793]
+            10673  TNFSF13B; TNF superfamily member 13b [KO:K05476]
+            115650  TNFRSF13C; TNF receptor superfamily member 13C [KO:K05151]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            142  PARP1; poly(ADP-ribose) polymerase 1 [KO:K24070] [EC:2.4.2.30]
+            51588  PIAS4; protein inhibitor of activated STAT 4 [KO:K16065] [EC:2.3.2.27]
+            7329  UBE2I; ubiquitin conjugating enzyme E2 I [KO:K10577]
+            472  ATM; ATM serine/threonine kinase [KO:K04728] [EC:2.7.11.1]
+            55367  PIDD1; p53-induced death domain protein 1 [KO:K10130]
+            23085  ERC1; ELKS/RAB6-interacting/CAST family member 1 [KO:K16072]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            8837  CFLAR; CASP8 and FADD like apoptosis regulator [KO:K04724]
+            331  XIAP; X-linked inhibitor of apoptosis [KO:K04725] [EC:2.3.2.27]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            7185  TRAF1; TNF receptor associated factor 1 [KO:K03172]
+            597  BCL2A1; BCL2 related protein A1 [KO:K02162]
+            4791  NFKB2; nuclear factor kappa B subunit 2 [KO:K04469]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            7128  TNFAIP3; TNF alpha induced protein 3 [KO:K11859] [EC:3.4.19.12]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            6351  CCL4; C-C motif chemokine ligand 4 [KO:K12964]
+            9560  CCL4L2; C-C motif chemokine ligand 4 like 2 [KO:K12964]
+            388372  CCL4L1; C-C motif chemokine ligand 4 like 1 [KO:K12964]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            7412  VCAM1; vascular cell adhesion molecule 1 [KO:K06527]
+            5328  PLAU; plasminogen activator, urokinase [KO:K01348] [EC:3.4.21.73]
+            1457  CSNK2A1; casein kinase 2 alpha 1 [KO:K03097] [EC:2.7.11.1]
+            1459  CSNK2A2; casein kinase 2 alpha 2 [KO:K03097] [EC:2.7.11.1]
+            283106  CSNK2A3; casein kinase 2 alpha 3 [KO:K03097] [EC:2.7.11.1]
+            1460  CSNK2B; casein kinase 2 beta [KO:K03115]
+            5971  RELB; RELB proto-oncogene, NF-kB subunit [KO:K09253]
+            6357  CCL13; C-C motif chemokine ligand 13 [KO:K16595]
+            6363  CCL19; C-C motif chemokine ligand 19 [KO:K05512]
+            6366  CCL21; C-C motif chemokine ligand 21 [KO:K16062]
+            6387  CXCL12; C-X-C motif chemokine ligand 12 [KO:K10031]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+REFERENCE   PMID:21772278
+  AUTHORS   Oeckinghaus A, Hayden MS, Ghosh S
+  TITLE     Crosstalk in NF-kappaB signaling pathways.
+  JOURNAL   Nat Immunol 12:695-708 (2011)
+            DOI:10.1038/ni.2065
+REFERENCE   PMID:19203223
+  AUTHORS   Gloire G, Piette J
+  TITLE     Redox regulation of nuclear post-translational modifications during NF-kappaB activation.
+  JOURNAL   Antioxid Redox Signal 11:2209-22 (2009)
+            DOI:10.1089/ARS.2009.2463
+REFERENCE   PMID:17183360
+  AUTHORS   Perkins ND
+  TITLE     Integrating cell-signalling pathways with NF-kappaB and IKK function.
+  JOURNAL   Nat Rev Mol Cell Biol 8:49-62 (2007)
+            DOI:10.1038/nrm2083
+REFERENCE   PMID:16264088
+  AUTHORS   Lindstrom TM, Bennett PR
+  TITLE     The role of nuclear factor kappa B in human labour.
+  JOURNAL   Reproduction 130:569-81 (2005)
+            DOI:10.1530/rep.1.00197
+REFERENCE   PMID:22017430
+  AUTHORS   Razani B, Reichardt AD, Cheng G
+  TITLE     Non-canonical NF-kappaB signaling activation and regulation: principles and perspectives.
+  JOURNAL   Immunol Rev 244:44-54 (2011)
+            DOI:10.1111/j.1600-065X.2011.01059.x
+REFERENCE   PMID:21173796
+  AUTHORS   Sun SC
+  TITLE     Non-canonical NF-kappaB signaling pathway.
+  JOURNAL   Cell Res 21:71-85 (2011)
+            DOI:10.1038/cr.2010.177
+REFERENCE   PMID:17431096
+  AUTHORS   Neumann M, Naumann M
+  TITLE     Beyond IkappaBs: alternative regulation of NF-kappaB activity.
+  JOURNAL   FASEB J 21:2642-54 (2007)
+            DOI:10.1096/fj.06-7615rev
+REFERENCE   PMID:22119011
+  AUTHORS   Verhelst K, Carpentier I, Beyaert R
+  TITLE     Regulation of TNF-induced NF-kappaB activation by different cytoplasmic ubiquitination events.
+  JOURNAL   Cytokine Growth Factor Rev 22:277-86 (2011)
+            DOI:10.1016/j.cytogfr.2011.11.002
+REFERENCE   PMID:22017435
+  AUTHORS   Rickert RC, Jellusova J, Miletic AV
+  TITLE     Signaling by the tumor necrosis factor receptor superfamily in B-cell biology and disease.
+  JOURNAL   Immunol Rev 244:115-33 (2011)
+            DOI:10.1111/j.1600-065X.2011.01067.x
+REFERENCE   PMID:21232019
+  AUTHORS   Naude PJ, den Boer JA, Luiten PG, Eisel UL
+  TITLE     Tumor necrosis factor receptor cross-talk.
+  JOURNAL   FEBS J 278:888-98 (2011)
+            DOI:10.1111/j.1742-4658.2011.08017.x
+REFERENCE   PMID:16984817
+  AUTHORS   Grivennikov SI, Kuprash DV, Liu ZG, Nedospasov SA
+  TITLE     Intracellular signals and events activated by cytokines of the tumor necrosis factor superfamily: From simple paradigms to complex mechanisms.
+  JOURNAL   Int Rev Cytol 252:129-61 (2006)
+            DOI:10.1016/S0074-7696(06)52002-9
+REFERENCE   PMID:16356770
+  AUTHORS   Wada T, Nakashima T, Hiroshi N, Penninger JM
+  TITLE     RANKL-RANK signaling in osteoclastogenesis and bone disease.
+  JOURNAL   Trends Mol Med 12:17-25 (2006)
+            DOI:10.1016/j.molmed.2005.11.007
+REFERENCE   PMID:17098202
+  AUTHORS   Schulze-Luehrmann J, Ghosh S
+  TITLE     Antigen-receptor signaling to nuclear factor kappa B.
+  JOURNAL   Immunity 25:701-15 (2006)
+            DOI:10.1016/j.immuni.2006.10.010
+REFERENCE   PMID:15134788
+  AUTHORS   Weil R, Israel A
+  TITLE     T-cell-receptor- and B-cell-receptor-mediated activation of NF-kappaB in lymphocytes.
+  JOURNAL   Curr Opin Immunol 16:374-81 (2004)
+            DOI:10.1016/j.coi.2004.03.003
+REFERENCE   PMID:15905862
+  AUTHORS   Siebenlist U, Brown K, Claudio E
+  TITLE     Control of lymphocyte development by nuclear factor-kappaB.
+  JOURNAL   Nat Rev Immunol 5:435-45 (2005)
+            DOI:10.1038/nri1629
+REFERENCE   PMID:14657271
+  AUTHORS   Lucas PC, McAllister-Lucas LM, Nunez G
+  TITLE     NF-kappaB signaling in lymphocytes: a new cast of characters.
+  JOURNAL   J Cell Sci 117:31-9 (2004)
+            DOI:10.1242/jcs.00904
+REFERENCE   PMID:19726767
+  AUTHORS   Khan WN
+  TITLE     B cell receptor and BAFF receptor signaling regulation of B cell homeostasis.
+  JOURNAL   J Immunol 183:3561-7 (2009)
+            DOI:10.4049/jimmunol.0800933
+REFERENCE   PMID:19302050
+  AUTHORS   Vallabhapurapu S, Karin M
+  TITLE     Regulation and function of NF-kappaB transcription factors in the immune system.
+  JOURNAL   Annu Rev Immunol 27:693-733 (2009)
+            DOI:10.1146/annurev.immunol.021908.132641
+REFERENCE   PMID:17047224
+  AUTHORS   Hacker H, Karin M
+  TITLE     Regulation and function of IKK and IKK-related kinases.
+  JOURNAL   Sci STKE 2006:re13 (2006)
+            DOI:10.1126/stke.3572006re13
+REFERENCE   PMID:21872579
+  AUTHORS   Sabatel H, Pirlot C, Piette J, Habraken Y
+  TITLE     Importance of PIKKs in NF-kappaB activation by genotoxic stress.
+  JOURNAL   Biochem Pharmacol 82:1371-83 (2011)
+            DOI:10.1016/j.bcp.2011.07.105
+REFERENCE   PMID:21187855
+  AUTHORS   Miyamoto S
+  TITLE     Nuclear initiated NF-kappaB signaling: NEMO and ATM take center stage.
+  JOURNAL   Cell Res 21:116-30 (2011)
+            DOI:10.1038/cr.2010.179
+REFERENCE   PMID:18832076
+  AUTHORS   Brzoska K, Szumiel I
+  TITLE     Signalling loops and linear pathways: NF-kappaB activation in response to genotoxic stress.
+  JOURNAL   Mutagenesis 24:1-8 (2009)
+            DOI:10.1093/mutage/gen056
+REFERENCE   PMID:17607554
+  AUTHORS   Wu ZH, Miyamoto S
+  TITLE     Many faces of NF-kappaB signaling induced by genotoxic stress.
+  JOURNAL   J Mol Med (Berl) 85:1187-202 (2007)
+            DOI:10.1007/s00109-007-0227-9
+REFERENCE   PMID:22390971
+  AUTHORS   Maelfait J, Beyaert R
+  TITLE     Emerging role of ubiquitination in antiviral RIG-I signaling.
+  JOURNAL   Microbiol Mol Biol Rev 76:33-45 (2012)
+            DOI:10.1128/MMBR.05012-11
+REFERENCE   PMID:18613837
+  AUTHORS   Ware CF
+  TITLE     Targeting lymphocyte activation through the lymphotoxin and LIGHT pathways.
+  JOURNAL   Immunol Rev 223:186-201 (2008)
+            DOI:10.1111/j.1600-065X.2008.00629.x
+REFERENCE   PMID:15546385
+  AUTHORS   Schneider K, Potter KG, Ware CF
+  TITLE     Lymphotoxin and LIGHT signaling pathways and target genes.
+  JOURNAL   Immunol Rev 202:49-66 (2004)
+            DOI:10.1111/j.0105-2896.2004.00206.x
+REFERENCE   PMID:22152226
+  AUTHORS   Remouchamps C, Boutaffala L, Ganeff C, Dejardin E
+  TITLE     Biology and signal transduction pathways of the Lymphotoxin-alphabeta/LTbetaR system.
+  JOURNAL   Cytokine Growth Factor Rev 22:301-10 (2011)
+            DOI:10.1016/j.cytogfr.2011.11.007
+REFERENCE   PMID:21135871
+  AUTHORS   Liu S, Chen ZJ
+  TITLE     Expanding role of ubiquitination in NF-kappaB signaling.
+  JOURNAL   Cell Res 21:6-21 (2011)
+            DOI:10.1038/cr.2010.170
+REFERENCE   PMID:19489733
+  AUTHORS   Skaug B, Jiang X, Chen ZJ
+  TITLE     The role of ubiquitin in NF-kappaB regulatory pathways.
+  JOURNAL   Annu Rev Biochem 78:769-96 (2009)
+            DOI:10.1146/annurev.biochem.78.070907.102750
+REFERENCE   PMID:20300215
+  AUTHORS   Wertz IE, Dixit VM
+  TITLE     Signaling to NF-kappaB: regulation by ubiquitination.
+  JOURNAL   Cold Spring Harb Perspect Biol 2:a003350 (2010)
+            DOI:10.1101/cshperspect.a003350
+REFERENCE   PMID:11875461
+  AUTHORS   Karin M, Lin A
+  TITLE     NF-kappaB at the crossroads of life and death.
+  JOURNAL   Nat Immunol 3:221-7 (2002)
+            DOI:10.1038/ni0302-221
+REFERENCE   PMID:12654254
+  AUTHORS   Lin A, Karin M
+  TITLE     NF-kappaB in cancer: a marked target.
+  JOURNAL   Semin Cancer Biol 13:107-14 (2003)
+            DOI:10.1016/S1044-579X(02)00128-1
+REFERENCE   PMID:16251197
+  AUTHORS   Morlon A, Munnich A, Smahi A
+  TITLE     TAB2, TRAF6 and TAK1 are involved in NF-kappaB activation induced by the TNF-receptor, Edar and its adaptator Edaradd.
+  JOURNAL   Hum Mol Genet 14:3751-7 (2005)
+            DOI:10.1093/hmg/ddi405
+REFERENCE   PMID:24070496
+  AUTHORS   Sadier A, Viriot L, Pantalacci S, Laudet V
+  TITLE     The ectodysplasin pathway: from diseases to adaptations.
+  JOURNAL   Trends Genet 30:24-31 (2014)
+            DOI:10.1016/j.tig.2013.08.006
+REFERENCE   PMID:26260321
+  AUTHORS   Verhelst K, Gardam S, Borghi A, Kreike M, Carpentier I, Beyaert R
+  TITLE     XEDAR activates the non-canonical NF-kappaB pathway.
+  JOURNAL   Biochem Biophys Res Commun 465:275-80 (2015)
+            DOI:10.1016/j.bbrc.2015.08.019
+REFERENCE   PMID:27508514
+  AUTHORS   McDaniel DK, Eden K, Ringel VM, Allen IC
+  TITLE     Emerging Roles for Noncanonical NF-kappaB Signaling in the Modulation of Inflammatory Bowel Disease Pathobiology.
+  JOURNAL   Inflamm Bowel Dis 22:2265-79 (2016)
+            DOI:10.1097/MIB.0000000000000858
+REFERENCE   PMID:12787560
+  AUTHORS   Mikkola ML, Thesleff I
+  TITLE     Ectodysplasin signaling in development.
+  JOURNAL   Cytokine Growth Factor Rev 14:211-24 (2003)
+            DOI:10.1016/S1359-6101(03)00020-0
+REL_PATHWAY hsa03050  Proteasome
+            hsa04020  Calcium signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04210  Apoptosis
+            hsa04380  Osteoclast differentiation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+KO_PATHWAY  ko04064
+///

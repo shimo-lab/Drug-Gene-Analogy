@@ -1,0 +1,225 @@
+ENTRY       hsa04918                    Pathway
+NAME        Thyroid hormone synthesis - Homo sapiens (human)
+DESCRIPTION Thyroid hormones triiodothyronine (T3) and thyroxine (T4) are essential for normal development, growth and metabolic homeostasis in all vertebrates, and synthesized in the thyroid gland. The functional unit of the thyroid gland is the follicle, delimited by a monolayer of thyrocytes. Polarized thyrocytes surround the follicular lumen; with their basal and apical surfaces facing the bloodstream and the lumen, respectively. To synthesize thyroid hormones, thyrocytes take up iodide at their basal side and concentrate it into the lumen. They also secrete in this lumen the specialized protein thyroglobulin (TG) which serves as a store for the hormones. In the follicular lumen oxidation of iodine, iodination of tyrosines (MIT, 3-monoiodotyrosine; DIT, 3,5-diiodotyrosine) and coupling of iodotyrosines takes place on tyrosine residues in TG, resulting in T3 and T4 synthesis. Iodinated TG is resorbed through the apical membrane and degraded to form T3/T4 in lysosomes; the T3/T4 is then secreted through the basal membrane.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04918  Thyroid hormone synthesis
+NETWORK     nt06322  TRH-TSH-TH signaling
+  ELEMENT   N00782  TSH-TG signaling pathway
+            N00786  Transport of iodide
+            N00791  Deiodination of MIT and DIT
+            N00793  TSH-DUOX2-TG signaling pathway
+            N00795  DUOX2-generated H2O2 production
+            N00803  Iodide organification/coupling reactions
+DRUG        D00401  Methimazole (USP)
+            D00562  Propylthiouracil (JP18/USP/INN)
+            D07231  Methylthiouracil (INN)
+            D07519  Benzylthiouracil
+            D07616  Carbimazole (INN)
+            D09673  Tafamidis (JAN/USAN/INN)
+            D09674  Tafamidis meglumine (JAN/USAN)
+            D10794  Patisiran sodium (JAN)
+            D11116  Patisiran (USAN/INN)
+            D11916  Vutrisiran sodium (JAN)
+            D11917  Vutrisiran (USAN/INN)
+            D11972  Acoramidis (USAN)
+            D11973  Acoramidis hydrochloride (JAN/USAN)
+DBLINKS     GO: 0006590
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7252  TSHB; thyroid stimulating hormone subunit beta [KO:K05251]
+            1081  CGA; glycoprotein hormones, alpha polypeptide [KO:K08522]
+            7253  TSHR; thyroid stimulating hormone receptor [KO:K04249]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            7270  TTF1; transcription termination factor 1 [KO:K15225]
+            8458  TTF2; transcription termination factor 2 [KO:K15173] [EC:5.6.2.-]
+            7849  PAX8; paired box 8 [KO:K09293]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            7038  TG; thyroglobulin [KO:K10809]
+            3309  HSPA5; heat shock protein family A (Hsp70) member 5 [KO:K09490] [EC:3.6.4.10]
+            7184  HSP90B1; heat shock protein 90 beta family member 1 [KO:K09487]
+            821  CANX; calnexin [KO:K08054]
+            9601  PDIA4; protein disulfide isomerase family A member 4 [KO:K09582] [EC:5.3.4.1]
+            432  ASGR1; asialoglycoprotein receptor 1 [KO:K10063]
+            433  ASGR2; asialoglycoprotein receptor 2 [KO:K10064]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            6528  SLC5A5; solute carrier family 5 member 5 [KO:K14385]
+            5172  SLC26A4; solute carrier family 26 member 4 [KO:K14702]
+            7173  TPO; thyroid peroxidase [KO:K00431] [EC:1.11.1.8]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            389434  IYD; iodotyrosine deiodinase [KO:K17231] [EC:1.21.1.1]
+            405753  DUOXA2; dual oxidase maturation factor 2 [KO:K17232]
+            53905  DUOX1; dual oxidase 1 [KO:K13411] [EC:1.6.3.1 1.11.1.-]
+            50506  DUOX2; dual oxidase 2 [KO:K13411] [EC:1.6.3.1 1.11.1.-]
+            257202  GPX6; glutathione peroxidase 6 [KO:K00432] [EC:1.11.1.9]
+            2882  GPX7; glutathione peroxidase 7 [KO:K00432] [EC:1.11.1.9]
+            2877  GPX2; glutathione peroxidase 2 [KO:K00432] [EC:1.11.1.9]
+            2878  GPX3; glutathione peroxidase 3 [KO:K00432] [EC:1.11.1.9]
+            2876  GPX1; glutathione peroxidase 1 [KO:K00432] [EC:1.11.1.9]
+            2880  GPX5; glutathione peroxidase 5 [KO:K00432] [EC:1.11.1.9]
+            493869  GPX8; glutathione peroxidase 8 (putative) [KO:K00432] [EC:1.11.1.9]
+            2936  GSR; glutathione-disulfide reductase [KO:K00383] [EC:1.8.1.7]
+            213  ALB; albumin [KO:K16141]
+            7276  TTR; transthyretin [KO:K20731]
+            6906  SERPINA7; serpin family A member 7 [KO:K20734]
+            4036  LRP2; LDL receptor related protein 2 [KO:K06233]
+COMPOUND    C00001  H2O
+            C00005  NADPH
+            C00006  NADP+
+            C00007  Oxygen
+            C00027  Hydrogen peroxide
+            C00051  Glutathione
+            C00076  Calcium cation
+            C00092  D-Glucose 6-phosphate
+            C00117  D-Ribose 5-phosphate
+            C00127  Glutathione disulfide
+            C00165  Diacylglycerol
+            C00231  D-Xylulose 5-phosphate
+            C00238  Potassium cation
+            C00575  3',5'-Cyclic AMP
+            C00708  Iodide
+            C01060  3,5-Diiodo-L-tyrosine
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C01829  Thyroxine
+            C02465  Triiodothyronine
+            C02515  3-Iodo-L-tyrosine
+REFERENCE   PMID:21448409
+  AUTHORS   Ahad F, Ganie SA
+  TITLE     Iodine, Iodine metabolism and Iodine deficiency disorders revisited.
+  JOURNAL   Indian J Endocrinol Metab 14:13-7 (2010)
+REFERENCE   PMID:11717564
+  AUTHORS   Gillam MP, Kopp P
+  TITLE     Genetic defects in thyroid hormone synthesis.
+  JOURNAL   Curr Opin Pediatr 13:364-72 (2001)
+            DOI:10.1097/00008480-200108000-00014
+REFERENCE   PMID:20167242
+  AUTHORS   Rokita SE, Adler JM, McTamney PM, Watson JA Jr
+  TITLE     Efficient use and recycling of the micronutrient iodide in mammals.
+  JOURNAL   Biochimie 92:1227-35 (2010)
+            DOI:10.1016/j.biochi.2010.02.013
+REFERENCE   PMID:21683758
+  AUTHORS   Massart C, Hoste C, Virion A, Ruf J, Dumont JE, Van Sande J
+  TITLE     Cell biology of H2O2 generation in the thyroid: investigation of the control of dual oxidases (DUOX) activity in intact ex vivo thyroid tissue and cell lines.
+  JOURNAL   Mol Cell Endocrinol 343:32-44 (2011)
+            DOI:10.1016/j.mce.2011.05.047
+REFERENCE   PMID:19196800
+  AUTHORS   Bizhanova A, Kopp P
+  TITLE     Minireview: The sodium-iodide symporter NIS and pendrin in iodide homeostasis of the thyroid.
+  JOURNAL   Endocrinology 150:1084-90 (2009)
+            DOI:10.1210/en.2008-1437
+REFERENCE   PMID:21986207
+  AUTHORS   Fong P
+  TITLE     Thyroid iodide efflux: a team effort?
+  JOURNAL   J Physiol 589:5929-39 (2011)
+            DOI:10.1113/jphysiol.2011.218594
+REFERENCE   PMID:17666482
+  AUTHORS   Song Y, Driessens N, Costa M, De Deken X, Detours V, Corvilain B, Maenhaut C, Miot F, Van Sande J, Many MC, Dumont JE
+  TITLE     Roles of hydrogen peroxide in thyroid physiology and disease.
+  JOURNAL   J Clin Endocrinol Metab 92:3764-73 (2007)
+            DOI:10.1210/jc.2007-0660
+REFERENCE   PMID:11137035
+  AUTHORS   Kohn LD, Suzuki K, Nakazato M, Royaux I, Green ED
+  TITLE     Effects of thyroglobulin and pendrin on iodide flux through the thyrocyte.
+  JOURNAL   Trends Endocrinol Metab 12:10-6 (2001)
+            DOI:10.1016/S1043-2760(00)00337-4
+REFERENCE   PMID:11029276
+  AUTHORS   Marino M, McCluskey RT
+  TITLE     Role of thyroglobulin endocytic pathways in the control of thyroid hormone release.
+  JOURNAL   Am J Physiol Cell Physiol 279:C1295-306 (2000)
+            DOI:10.1152/ajpcell.2000.279.5.C1295
+REFERENCE   PMID:16870170
+  AUTHORS   Rivolta CM, Targovnik HM
+  TITLE     Molecular advances in thyroglobulin disorders.
+  JOURNAL   Clin Chim Acta 374:8-24 (2006)
+            DOI:10.1016/j.cca.2006.05.043
+REFERENCE   PMID:10893432
+  AUTHORS   De La Vieja A, Dohan O, Levy O, Carrasco N
+  TITLE     Molecular analysis of the sodium/iodide symporter: impact on thyroid and extrathyroid pathophysiology.
+  JOURNAL   Physiol Rev 80:1083-105 (2000)
+            DOI:10.1152/physrev.2000.80.3.1083
+REFERENCE   PMID:20407074
+  AUTHORS   Ohye H, Sugawara M
+  TITLE     Dual oxidase, hydrogen peroxide and thyroid diseases.
+  JOURNAL   Exp Biol Med (Maywood) 235:424-33 (2010)
+            DOI:10.1258/ebm.2009.009241
+REFERENCE   PMID:20093166
+  AUTHORS   Targovnik HM, Esperante SA, Rivolta CM
+  TITLE     Genetics and phenomics of hypothyroidism and goiter due to thyroglobulin mutations.
+  JOURNAL   Mol Cell Endocrinol 322:44-55 (2010)
+            DOI:10.1016/j.mce.2010.01.009
+REFERENCE   PMID:20122987
+  AUTHORS   Grasberger H
+  TITLE     Defects of thyroidal hydrogen peroxide generation in congenital hypothyroidism.
+  JOURNAL   Mol Cell Endocrinol 322:99-106 (2010)
+            DOI:10.1016/j.mce.2010.01.029
+REFERENCE   PMID:9086577
+  AUTHORS   Arvan P, Kim PS, Kuliawat R, Prabakaran D, Muresan Z, Yoo SE, Abu Hossain S
+  TITLE     Intracellular protein transport to the thyrocyte plasma membrane: potential implications for thyroid physiology.
+  JOURNAL   Thyroid 7:89-105 (1997)
+            DOI:10.1089/thy.1997.7.89
+REFERENCE   PMID:15611820
+  AUTHORS   Vono-Toniolo J, Kopp P
+  TITLE     Thyroglobulin gene mutations and other genetic defects associated with congenital hypothyroidism.
+  JOURNAL   Arq Bras Endocrinol Metabol 48:70-82 (2004)
+            DOI:10.1590/S0004-27302004000100009
+REFERENCE   PMID:23438835
+  AUTHORS   Vitale G, Salvioli S, Franceschi C
+  TITLE     Oxidative stress and the ageing endocrine system.
+  JOURNAL   Nat Rev Endocrinol 9:228-40 (2013)
+            DOI:10.1038/nrendo.2013.29
+REFERENCE   PMID:20378719
+  AUTHORS   Calebiro D, Nikolaev VO, Lohse MJ
+  TITLE     Imaging of persistent cAMP signaling by internalized G protein-coupled receptors.
+  JOURNAL   J Mol Endocrinol 45:1-8 (2010)
+            DOI:10.1677/JME-10-0014
+REFERENCE   PMID:9538302
+  AUTHORS   Newman CM, Price A, Davies DW, Gray TA, Weetman AP
+  TITLE     Amiodarone and the thyroid: a practical guide to the management of thyroid dysfunction induced by amiodarone therapy.
+  JOURNAL   Heart 79:121-7 (1998)
+            DOI:10.1136/hrt.79.2.121
+REL_PATHWAY hsa00350  Tyrosine metabolism
+            hsa00480  Glutathione metabolism
+            hsa04020  Calcium signaling pathway
+            hsa04142  Lysosome
+            hsa04146  Peroxisome
+            hsa04530  Tight junction
+KO_PATHWAY  ko04918
+///

@@ -1,0 +1,178 @@
+ENTRY       hsa00240                    Pathway
+NAME        Pyrimidine metabolism - Homo sapiens (human)
+CLASS       Metabolism; Nucleotide metabolism
+PATHWAY_MAP hsa00240  Pyrimidine metabolism
+MODULE      hsa_M00046  Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate [PATH:hsa00240]
+            hsa_M00051  De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP [PATH:hsa00240]
+            hsa_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP [PATH:hsa00240]
+            hsa_M00053  Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP [PATH:hsa00240]
+            hsa_M00938  Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP [PATH:hsa00240]
+DRUG        D00341  Hydroxyurea (USP)
+            D00584  Fluorouracil (JP18/USP/INN)
+            D00749  Leflunomide (JAN/USP/INN)
+            D01064  Raltitrexed (JAN/USAN/INN)
+            D01155  Gemcitabine hydrochloride (JAN/USP)
+            D01223  Capecitabine (JAN/USP/INN)
+            D01244  Tegafur (JP18/USAN/INN)
+            D01309  Doxifluridine (JP18/INN)
+            D01370  Cladribine (JAN/USP/INN)
+            D01784  Carmofur (JP18/INN)
+            D01846  Gimeracil (JAN/INN)
+            D01907  Fludarabine phosphate (JAN/USP)
+            D02368  Gemcitabine (USAN/INN)
+            D03154  Brequinar sodium (USAN)
+            D03378  Caracemide (USAN)
+            D03546  Clofarabine (JAN/USAN/INN)
+            D04197  Floxuridine (USP/INN)
+            D04245  Forodesine hydrochloride (JAN/USAN)
+            D04964  Metesind glucuronate (USAN)
+            D05396  Peldesine (USAN)
+            D06100  Tezacitabine (USAN)
+            D06596  Forodesine (USAN/INN)
+            D07966  Fludarabine (INN)
+            D07974  Fluorouracil sodium salt
+            D10172  Teriflunomide (USAN)
+            D10222  Gemcitabine elaidate (USAN/INN)
+            D10431  Ulodesine (USAN)
+            D10432  Ulodesine succinate (USAN)
+            D10803  Plevitrexed (INN)
+            D10963  Oleclumab (USAN)
+            D11447  Arfolitixorin (USAN/INN)
+            D11890  Emvododstat (USAN)
+            D12373  Quemliclustat (USAN/INN)
+            D12387  Fosgemcitabine palabenamide (USAN/INN)
+            D12388  Fosifloxuridine nafalbenamide
+            D12401  Uliledlimab (USAN/INN)
+            D12465  Doxecitine (USAN/INN)
+            D12466  Doxribtimine (USAN/INN)
+DBLINKS     GO: 0006220 0006213
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        790  CAD; carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase [KO:K11540] [EC:6.3.5.5 2.1.3.2 3.5.2.3]
+            1723  DHODH; dihydroorotate dehydrogenase (quinone) [KO:K00254] [EC:1.3.5.2]
+            7372  UMPS; uridine monophosphate synthetase [KO:K13421] [EC:2.4.2.10 4.1.1.23]
+            51727  CMPK1; cytidine/uridine monophosphate kinase 1 [KO:K13800] [EC:2.7.4.14]
+            129607  CMPK2; cytidine/uridine monophosphate kinase 2 [KO:K13809] [EC:2.7.4.14]
+            10201  NME6; NME/NM23 nucleoside diphosphate kinase 6 [KO:K00940] [EC:2.7.4.6]
+            29922  NME7; NME/NM23 family member 7 [KO:K00940] [EC:2.7.4.6]
+            4831  NME2; NME/NM23 nucleoside diphosphate kinase 2 [KO:K00940] [EC:2.7.4.6]
+            4833  NME4; NME/NM23 nucleoside diphosphate kinase 4 [KO:K00940] [EC:2.7.4.6]
+            4830  NME1; NME/NM23 nucleoside diphosphate kinase 1 [KO:K00940] [EC:2.7.4.6]
+            4832  NME3; NME/NM23 nucleoside diphosphate kinase 3 [KO:K00940] [EC:2.7.4.6]
+            654364  NME1-NME2; NME1-NME2 readthrough [KO:K00940] [EC:2.7.4.6]
+            221264  AK9; adenylate kinase 9 [KO:K18533] [EC:2.7.4.3 2.7.4.6]
+            956  ENTPD3; ectonucleoside triphosphate diphosphohydrolase 3 [KO:K01510] [EC:3.6.1.5]
+            377841  ENTPD8; ectonucleoside triphosphate diphosphohydrolase 8 [KO:K01510] [EC:3.6.1.5]
+            953  ENTPD1; ectonucleoside triphosphate diphosphohydrolase 1 [KO:K01510] [EC:3.6.1.5]
+            124583  CANT1; calcium activated nucleotidase 1 [KO:K12304] [EC:3.6.1.6]
+            9583  ENTPD4; ectonucleoside triphosphate diphosphohydrolase 4 [KO:K12305] [EC:3.6.1.6]
+            957  ENTPD5; ectonucleoside triphosphate diphosphohydrolase 5 (inactive) [KO:K01511] [EC:3.6.1.6]
+            955  ENTPD6; ectonucleoside triphosphate diphosphohydrolase 6 [KO:K01511] [EC:3.6.1.6]
+            5167  ENPP1; ectonucleotide pyrophosphatase/phosphodiesterase 1 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            5169  ENPP3; ectonucleotide pyrophosphatase/phosphodiesterase 3 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            8623  ASMTL; acetylserotonin O-methyltransferase like [KO:K25435] [EC:3.6.1.- 2.1.1.-]
+            318  NUDT2; nudix hydrolase 2 [KO:K01518] [EC:3.6.1.17]
+            1503  CTPS1; CTP synthase 1 [KO:K01937] [EC:6.3.4.2]
+            56474  CTPS2; CTP synthase 2 [KO:K01937] [EC:6.3.4.2]
+            83549  UCK1; uridine-cytidine kinase 1 [KO:K00876] [EC:2.7.1.48]
+            7371  UCK2; uridine-cytidine kinase 2 [KO:K00876] [EC:2.7.1.48]
+            54963  UCKL1; uridine-cytidine kinase 1 like 1 [KO:K00876] [EC:2.7.1.48]
+            22978  NT5C2; 5'-nucleotidase, cytosolic II [KO:K01081] [EC:3.1.3.5]
+            84618  NT5C1A; 5'-nucleotidase, cytosolic IA [KO:K01081] [EC:3.1.3.5]
+            93034  NT5C1B; 5'-nucleotidase, cytosolic IB [KO:K01081] [EC:3.1.3.5]
+            30833  NT5C; 5', 3'-nucleotidase, cytosolic [KO:K01081] [EC:3.1.3.5]
+            56953  NT5M; 5',3'-nucleotidase, mitochondrial [KO:K01081] [EC:3.1.3.5]
+            100526794  NT5C1B-RDH14; NT5C1B-RDH14 readthrough [KO:K01081] [EC:3.1.3.5]
+            284958  NT5DC4; 5'-nucleotidase domain containing 4 [KO:K01081] [EC:3.1.3.5]
+            4907  NT5E; 5'-nucleotidase ecto [KO:K19970] [EC:3.1.3.5]
+            151531  UPP2; uridine phosphorylase 2 [KO:K00757] [EC:2.4.2.3]
+            7378  UPP1; uridine phosphorylase 1 [KO:K00757] [EC:2.4.2.3]
+            51251  NT5C3A; 5'-nucleotidase, cytosolic IIIA [KO:K24242] [EC:3.1.3.91]
+            115024  NT5C3B; 5'-nucleotidase, cytosolic IIIB [KO:K24242] [EC:3.1.3.91]
+            978  CDA; cytidine deaminase [KO:K01489] [EC:3.5.4.5]
+            6240  RRM1; ribonucleotide reductase catalytic subunit M1 [KO:K10807] [EC:1.17.4.1]
+            50484  RRM2B; ribonucleotide reductase regulatory TP53 inducible subunit M2B [KO:K10808] [EC:1.17.4.1]
+            6241  RRM2; ribonucleotide reductase regulatory subunit M2 [KO:K10808] [EC:1.17.4.1]
+            79077  DCTPP1; dCTP pyrophosphatase 1 [KO:K16904] [EC:3.6.1.12]
+            51020  HDDC2; HD domain containing 2 [KO:K07023] [EC:3.1.3.89]
+            1633  DCK; deoxycytidine kinase [KO:K00893] [EC:2.7.1.74 2.7.1.76 2.7.1.113]
+            1635  DCTD; dCMP deaminase [KO:K01493] [EC:3.5.4.12]
+            1841  DTYMK; deoxythymidylate kinase [KO:K00943] [EC:2.7.4.9]
+            1854  DUT; deoxyuridine triphosphatase [KO:K01520] [EC:3.6.1.23]
+            1890  TYMP; thymidine phosphorylase [KO:K00758] [EC:2.4.2.4]
+            7084  TK2; thymidine kinase 2 [KO:K00857] [EC:2.7.1.21]
+            7083  TK1; thymidine kinase 1 [KO:K00857] [EC:2.7.1.21]
+            7298  TYMS; thymidylate synthetase [KO:K00560] [EC:2.1.1.45]
+            1806  DPYD; dihydropyrimidine dehydrogenase [KO:K00207] [EC:1.3.1.2]
+            1807  DPYS; dihydropyrimidinase [KO:K01464] [EC:3.5.2.2]
+            51733  UPB1; beta-ureidopropionase 1 [KO:K01431] [EC:3.5.1.6]
+COMPOUND    C00015  UDP
+            C00039  DNA
+            C00046  RNA
+            C00055  CMP
+            C00063  CTP
+            C00064  L-Glutamine
+            C00075  UTP
+            C00086  Urea
+            C00099  beta-Alanine
+            C00105  UMP
+            C00106  Uracil
+            C00112  CDP
+            C00119  5-Phospho-alpha-D-ribose 1-diphosphate
+            C00169  Carbamoyl phosphate
+            C00178  Thymine
+            C00214  Thymidine
+            C00222  3-Oxopropanoate
+            C00239  dCMP
+            C00295  Orotate
+            C00299  Uridine
+            C00337  (S)-Dihydroorotate
+            C00363  dTDP
+            C00364  dTMP
+            C00365  dUMP
+            C00380  Cytosine
+            C00383  Malonate
+            C00429  5,6-Dihydrouracil
+            C00438  N-Carbamoyl-L-aspartate
+            C00458  dCTP
+            C00459  dTTP
+            C00460  dUTP
+            C00475  Cytidine
+            C00526  Deoxyuridine
+            C00672  2-Deoxy-D-ribose 1-phosphate
+            C00705  dCDP
+            C00813  Barbiturate
+            C00881  Deoxycytidine
+            C01013  3-Hydroxypropanoate
+            C01103  Orotidine 5'-phosphate
+            C01168  Pseudouridine 5'-phosphate
+            C01205  (R)-3-Amino-2-methylpropanoate
+            C01346  dUDP
+            C01368  3'-UMP
+            C01563  Carbamate
+            C02067  Pseudouridine
+            C02170  Methylmalonate
+            C02354  2',3'-Cyclic CMP
+            C02355  2',3'-Cyclic UMP
+            C02376  5-Methylcytosine
+            C02642  3-Ureidopropionate
+            C03997  5-Hydroxymethyldeoxycytidylate
+            C05281  5-Methylbarbiturate
+            C05822  3'-CMP
+            C06198  P1,P4-Bis(5'-uridyl) tetraphosphate
+            C11038  2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate
+            C11039  2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate
+            C15607  3-Oxo-3-ureidopropanoate
+            C20231  (Z)-3-Ureidoacrylate peracid
+            C20249  (Z)-3-Peroxyaminoacrylate
+            C20253  Aminoacrylate
+            C20254  Ureidoacrylate
+            C20846  3-Oxo-3-ureidoisobutyrate
+            C21028  (R)-5,6-Dihydrothymine
+            C21029  (R)-3-Ureidoisobutyrate
+REL_PATHWAY hsa00030  Pentose phosphate pathway
+            hsa00220  Arginine biosynthesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00410  beta-Alanine metabolism
+KO_PATHWAY  ko00240
+///

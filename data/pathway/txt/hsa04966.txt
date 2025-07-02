@@ -1,0 +1,107 @@
+ENTRY       hsa04966                    Pathway
+NAME        Collecting duct acid secretion - Homo sapiens (human)
+DESCRIPTION One of the important roles of the collecting duct segment of the kidney nephron is acid secretion. As daily food intake loads acid into the body, urinary acid excretion is essential, and urine pH can drop as low as 4.5. The alpha-intercalated cell of collecting duct is the main responsible for hydrogen secretion into the urine. The carbon dioxide, which is generated in the cells and enters from the blood, is changed to carbonic acid. This carbonic acid is divided into hydrogen ion and bicarbonate ion. Intracellular CA II catalyses the formation of these ions. The hydrogen ion is secreted into the lumen by the luminal H(+)-ATPase. The bicarbonate ion is transported to the blood side by the anion exchanger type 1. Hydrogen ion in the lumen is trapped by urinary buffers. These include ammonium and phosphate.
+CLASS       Organismal Systems; Excretory system
+PATHWAY_MAP hsa04966  Collecting duct acid secretion
+DRUG        D00355  Lansoprazole (JP18/USP/INN)
+            D00455  Omeprazole (JP18/USP/INN)
+            D00724  Rabeprazole sodium (JP18/USP)
+            D01207  Omeprazole sodium (USAN)
+            D01920  Tenatoprazole (JAN/INN)
+            D01984  Esomeprazole magnesium (USP)
+            D02593  Pantoprazole sodium (USP)
+            D03845  Sezolamide hydrochloride (USAN)
+            D04056  Esomeprazole sodium (USAN)
+            D05259  Omeprazole magnesium (USP)
+            D05261  Omeprazole sodium injection (JAN)
+            D05353  Pantoprazole (USAN/INN)
+            D05900  Timoprazole (INN)
+            D05901  Picoprazole (INN)
+            D05906  Leminoprazole (INN)
+            D07917  Esomeprazole (INN)
+            D08463  Rabeprazole (INN)
+            D08903  Dexlansoprazole (INN/USAN)
+            D09339  Esomeprazole potassium (USAN)
+            D09837  Penaprazole sodium hydrate (JAN)
+            D10120  Esomeprazole strontium (USAN)
+            D11114  Esomeprazole magnesium dihydrate
+            D12246  Tegoprazan (INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        760  CA2; carbonic anhydrase 2 [KO:K18245] [EC:4.2.1.1]
+            523  ATP6V1A; ATPase H+ transporting V1 subunit A [KO:K02145] [EC:7.1.2.2]
+            525  ATP6V1B1; ATPase H+ transporting V1 subunit B1 [KO:K02147]
+            526  ATP6V1B2; ATPase H+ transporting V1 subunit B2 [KO:K02147]
+            9550  ATP6V1G1; ATPase H+ transporting V1 subunit G1 [KO:K02152]
+            127124  ATP6V1G3; ATPase H+ transporting V1 subunit G3 [KO:K02152]
+            534  ATP6V1G2; ATPase H+ transporting V1 subunit G2 [KO:K02152]
+            245973  ATP6V1C2; ATPase H+ transporting V1 subunit C2 [KO:K02148]
+            528  ATP6V1C1; ATPase H+ transporting V1 subunit C1 [KO:K02148]
+            51382  ATP6V1D; ATPase H+ transporting V1 subunit D [KO:K02149]
+            90423  ATP6V1E2; ATPase H+ transporting V1 subunit E2 [KO:K02150]
+            529  ATP6V1E1; ATPase H+ transporting V1 subunit E1 [KO:K02150]
+            9296  ATP6V1F; ATPase H+ transporting V1 subunit F [KO:K02151]
+            8992  ATP6V0E1; ATPase H+ transporting V0 subunit e1 [KO:K02153]
+            155066  ATP6V0E2; ATPase H+ transporting V0 subunit e2 [KO:K02153]
+            10312  TCIRG1; T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [KO:K02154]
+            23545  ATP6V0A2; ATPase H+ transporting V0 subunit a2 [KO:K02154]
+            50617  ATP6V0A4; ATPase H+ transporting V0 subunit a4 [KO:K02154]
+            535  ATP6V0A1; ATPase H+ transporting V0 subunit a1 [KO:K02154]
+            527  ATP6V0C; ATPase H+ transporting V0 subunit c [KO:K02155]
+            9114  ATP6V0D1; ATPase H+ transporting V0 subunit d1 [KO:K02146]
+            245972  ATP6V0D2; ATPase H+ transporting V0 subunit d2 [KO:K02146]
+            495  ATP4A; ATPase H+/K+ transporting subunit alpha [KO:K01542] [EC:7.2.2.19]
+            496  ATP4B; ATPase H+/K+ transporting subunit beta [KO:K01543] [EC:7.2.2.19]
+            6521  SLC4A1; solute carrier family 4 member 1 (Diego blood group) [KO:K06573]
+            10723  SLC12A7; solute carrier family 12 member 7 [KO:K13627]
+            1188  CLCNKB; chloride voltage-gated channel Kb [KO:K05018]
+COMPOUND    C00001  H2O
+            C00011  CO2
+            C00014  Ammonia
+            C00080  H+
+            C00238  Potassium cation
+            C00288  HCO3-
+            C00698  Cl-
+            C01353  Carbonic acid
+REFERENCE   PMID:16352913
+  AUTHORS   Wagner CA, Kovacikova J, Stehberger PA, Winter C, Benabbas C, Mohebbi N
+  TITLE     Renal acid-base transport: old and new players.
+  JOURNAL   Nephron Physiol 103:p1-6 (2006)
+            DOI:10.1159/000090217
+REFERENCE   PMID:19277700
+  AUTHORS   Wagner CA, Devuyst O, Bourgeois S, Mohebbi N
+  TITLE     Regulated acid-base transport in the collecting duct.
+  JOURNAL   Pflugers Arch 458:137-56 (2009)
+            DOI:10.1007/s00424-009-0657-z
+REFERENCE   PMID:19948674
+  AUTHORS   Koeppen BM
+  TITLE     The kidney and acid-base regulation.
+  JOURNAL   Adv Physiol Educ 33:275-81 (2009)
+            DOI:10.1152/advan.00054.2009
+REFERENCE   PMID:9550618
+  AUTHORS   Hayashi M
+  TITLE     Physiology and pathophysiology of acid-base homeostasis in the kidney.
+  JOURNAL   Intern Med 37:221-5 (1998)
+            DOI:10.2169/internalmedicine.37.221
+REFERENCE   PMID:17557941
+  AUTHORS   Fry AC, Karet FE
+  TITLE     Inherited renal acidoses.
+  JOURNAL   Physiology (Bethesda) 22:202-11 (2007)
+            DOI:10.1152/physiol.00044.2006
+REFERENCE   PMID:19721811
+  AUTHORS   Pereira PC, Miranda DM, Oliveira EA, Silva AC
+  TITLE     Molecular pathophysiology of renal tubular acidosis.
+  JOURNAL   Curr Genomics 10:51-9 (2009)
+            DOI:10.2174/138920209787581262
+REFERENCE   PMID:11045400
+  AUTHORS   Rodriguez-Soriano J
+  TITLE     New insights into the pathogenesis of renal tubular acidosis--from functional to molecular studies.
+  JOURNAL   Pediatr Nephrol 14:1121-36 (2000)
+            DOI:10.1007/s004670000407
+REFERENCE   PMID:11826292
+  AUTHORS   Alper SL
+  TITLE     Genetic diseases of acid-base transporters.
+  JOURNAL   Annu Rev Physiol 64:899-923 (2002)
+            DOI:10.1146/annurev.physiol.64.092801.141759
+REL_PATHWAY hsa04530  Tight junction
+KO_PATHWAY  ko04966
+///

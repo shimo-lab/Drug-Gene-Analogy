@@ -1,0 +1,120 @@
+ENTRY       hsa00071                    Pathway
+NAME        Fatty acid degradation - Homo sapiens (human)
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP hsa00071  Fatty acid degradation
+MODULE      hsa_M00086  beta-Oxidation, acyl-CoA synthesis [PATH:hsa00071]
+            hsa_M00087  beta-Oxidation [PATH:hsa00071]
+NETWORK     nt06020  beta-Oxidation in mitochondria
+  ELEMENT   N00765  beta-Oxidation, acyl-CoA synthesis
+            N00804  beta-Oxidation
+DRUG        D00123  Cyanamide (JP18)
+            D00131  Disulfiram (JP18/USP/INN)
+            D05292  Oxfenicine (USAN/INN)
+DBLINKS     GO: 0009062
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        39  ACAT2; acetyl-CoA acetyltransferase 2 [KO:K00626] [EC:2.3.1.9]
+            38  ACAT1; acetyl-CoA acetyltransferase 1 [KO:K00626] [EC:2.3.1.9]
+            30  ACAA1; acetyl-CoA acyltransferase 1 [KO:K07513] [EC:2.3.1.16]
+            10449  ACAA2; acetyl-CoA acyltransferase 2 [KO:K07508] [EC:2.3.1.16]
+            3032  HADHB; hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit beta [KO:K07509] [EC:2.3.1.16]
+            3033  HADH; hydroxyacyl-CoA dehydrogenase [KO:K00022] [EC:1.1.1.35]
+            3030  HADHA; hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [KO:K07515] [EC:4.2.1.17 1.1.1.211]
+            1962  EHHADH; enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [KO:K07514] [EC:4.2.1.17 1.1.1.35 5.3.3.8]
+            1892  ECHS1; enoyl-CoA hydratase, short chain 1 [KO:K07511] [EC:4.2.1.17]
+            8310  ACOX3; acyl-CoA oxidase 3, pristanoyl [KO:K00232] [EC:1.3.3.6]
+            51  ACOX1; acyl-CoA oxidase 1 [KO:K00232] [EC:1.3.3.6]
+            35  ACADS; acyl-CoA dehydrogenase short chain [KO:K00248] [EC:1.3.8.1]
+            34  ACADM; acyl-CoA dehydrogenase medium chain [KO:K00249] [EC:1.3.8.7]
+            33  ACADL; acyl-CoA dehydrogenase long chain [KO:K00255] [EC:1.3.8.8]
+            36  ACADSB; acyl-CoA dehydrogenase short/branched chain [KO:K09478] [EC:1.3.8.5]
+            37  ACADVL; acyl-CoA dehydrogenase very long chain [KO:K09479] [EC:1.3.8.9]
+            2639  GCDH; glutaryl-CoA dehydrogenase [KO:K00252] [EC:1.3.8.6]
+            23305  ACSL6; acyl-CoA synthetase long chain family member 6 [KO:K01897] [EC:6.2.1.3]
+            2182  ACSL4; acyl-CoA synthetase long chain family member 4 [KO:K01897] [EC:6.2.1.3]
+            2180  ACSL1; acyl-CoA synthetase long chain family member 1 [KO:K01897] [EC:6.2.1.3]
+            51703  ACSL5; acyl-CoA synthetase long chain family member 5 [KO:K01897] [EC:6.2.1.3]
+            2181  ACSL3; acyl-CoA synthetase long chain family member 3 [KO:K01897] [EC:6.2.1.3]
+            23205  ACSBG1; acyl-CoA synthetase bubblegum family member 1 [KO:K15013] [EC:6.2.1.3]
+            81616  ACSBG2; acyl-CoA synthetase bubblegum family member 2 [KO:K15013] [EC:6.2.1.3]
+            1374  CPT1A; carnitine palmitoyltransferase 1A [KO:K08765] [EC:2.3.1.21]
+            1375  CPT1B; carnitine palmitoyltransferase 1B [KO:K19523] [EC:2.3.1.21]
+            126129  CPT1C; carnitine palmitoyltransferase 1C [KO:K19524] [EC:2.3.1.21]
+            1376  CPT2; carnitine palmitoyltransferase 2 [KO:K08766] [EC:2.3.1.21]
+            1632  ECI1; enoyl-CoA delta isomerase 1 [KO:K13238] [EC:5.3.3.8]
+            10455  ECI2; enoyl-CoA delta isomerase 2 [KO:K13239] [EC:5.3.3.8]
+            113612  CYP2U1; cytochrome P450 family 2 subfamily U member 1 [KO:K07422] [EC:1.14.14.80]
+            124  ADH1A; alcohol dehydrogenase 1A (class I), alpha polypeptide [KO:K13951] [EC:1.1.1.1]
+            125  ADH1B; alcohol dehydrogenase 1B (class I), beta polypeptide [KO:K13951] [EC:1.1.1.1]
+            126  ADH1C; alcohol dehydrogenase 1C (class I), gamma polypeptide [KO:K13951] [EC:1.1.1.1]
+            131  ADH7; alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [KO:K13951] [EC:1.1.1.1]
+            127  ADH4; alcohol dehydrogenase 4 (class II), pi polypeptide [KO:K13980] [EC:1.1.1.1]
+            128  ADH5; alcohol dehydrogenase 5 (class III), chi polypeptide [KO:K00121] [EC:1.1.1.284 1.1.1.1]
+            130  ADH6; alcohol dehydrogenase 6 (class V) [KO:K13952] [EC:1.1.1.1]
+            217  ALDH2; aldehyde dehydrogenase 2 family member [KO:K00128] [EC:1.2.1.3]
+            224  ALDH3A2; aldehyde dehydrogenase 3 family member A2 [KO:K00128] [EC:1.2.1.3]
+            219  ALDH1B1; aldehyde dehydrogenase 1 family member B1 [KO:K00128] [EC:1.2.1.3]
+            501  ALDH7A1; aldehyde dehydrogenase 7 family member A1 [KO:K14085] [EC:1.2.1.31 1.2.1.8 1.2.1.3]
+            223  ALDH9A1; aldehyde dehydrogenase 9 family member A1 [KO:K00149] [EC:1.2.1.47 1.2.1.3]
+COMPOUND    C00010  CoA
+            C00024  Acetyl-CoA
+            C00071  Aldehyde
+            C00136  Butanoyl-CoA
+            C00154  Palmitoyl-CoA
+            C00162  Fatty acid
+            C00226  Primary alcohol
+            C00229  Acyl-carrier protein
+            C00249  Hexadecanoic acid
+            C00332  Acetoacetyl-CoA
+            C00340  Reduced rubredoxin
+            C00435  Oxidized rubredoxin
+            C00489  Glutarate
+            C00517  Hexadecanal
+            C00527  Glutaryl-CoA
+            C00638  Long-chain fatty acid
+            C00823  1-Hexadecanol
+            C00877  Crotonoyl-CoA
+            C01144  (S)-3-Hydroxybutanoyl-CoA
+            C01371  Alkane
+            C01832  Lauroyl-CoA
+            C01944  Octanoyl-CoA
+            C02593  Tetradecanoyl-CoA
+            C02990  L-Palmitoylcarnitine
+            C03221  2-trans-Dodecenoyl-CoA
+            C03547  omega-Hydroxy fatty acid
+            C03561  (R)-3-Hydroxybutanoyl-CoA
+            C05102  alpha-Hydroxy fatty acid
+            C05258  (S)-3-Hydroxyhexadecanoyl-CoA
+            C05259  3-Oxopalmitoyl-CoA
+            C05260  (S)-3-Hydroxytetradecanoyl-CoA
+            C05261  3-Oxotetradecanoyl-CoA
+            C05262  (S)-3-Hydroxydodecanoyl-CoA
+            C05263  3-Oxododecanoyl-CoA
+            C05264  (S)-Hydroxydecanoyl-CoA
+            C05265  3-Oxodecanoyl-CoA
+            C05266  (S)-3-Hydroxyoctanoyl-CoA
+            C05267  3-Oxooctanoyl-CoA
+            C05268  (S)-Hydroxyhexanoyl-CoA
+            C05269  3-Oxohexanoyl-CoA
+            C05270  Hexanoyl-CoA
+            C05271  trans-Hex-2-enoyl-CoA
+            C05272  trans-Hexadec-2-enoyl-CoA
+            C05273  trans-Tetradec-2-enoyl-CoA
+            C05274  Decanoyl-CoA
+            C05275  trans-Dec-2-enoyl-CoA
+            C05276  trans-Oct-2-enoyl-CoA
+            C05279  trans,cis-Lauro-2,6-dienoyl-CoA
+            C05280  cis,cis-3,6-Dodecadienoyl-CoA
+            C20683  Long-chain acyl-[acyl-carrier protein]
+REFERENCE   PMID:869535
+  AUTHORS   Parekh VR, Traxler RW, Sobek JM
+  TITLE     N-Alkane oxidation enzymes of a pseudomonad.
+  JOURNAL   Appl Environ Microbiol 33:881-4 (1977)
+            DOI:10.1128/AEM.33.4.881-884.1977
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa00061  Fatty acid biosynthesis
+            hsa00062  Fatty acid elongation
+            hsa00561  Glycerolipid metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00650  Butanoate metabolism
+KO_PATHWAY  ko00071
+///

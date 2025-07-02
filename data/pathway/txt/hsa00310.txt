@@ -1,0 +1,139 @@
+ENTRY       hsa00310                    Pathway
+NAME        Lysine degradation - Homo sapiens (human)
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP hsa00310  Lysine degradation
+MODULE      hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA [PATH:hsa00310]
+DRUG        D11444  Tazemetostat (USAN/INN)
+            D11485  Tazemetostat hydrobromide (JAN/USAN)
+            D11551  Valemetostat
+            D11662  Valemetostat tosilate (JAN)
+DBLINKS     GO: 0006554
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10157  AASS; aminoadipate-semialdehyde synthase [KO:K14157] [EC:1.5.1.8 1.5.1.9]
+            501  ALDH7A1; aldehyde dehydrogenase 7 family member A1 [KO:K14085] [EC:1.2.1.31 1.2.1.8 1.2.1.3]
+            51166  AADAT; aminoadipate aminotransferase [KO:K00825] [EC:2.6.1.7 2.6.1.39]
+            55526  DHTKD1; dehydrogenase E1 and transketolase domain containing 1 [KO:K15791] [EC:1.2.4.2]
+            1743  DLST; dihydrolipoamide S-succinyltransferase [KO:K00658] [EC:2.3.1.61]
+            1738  DLD; dihydrolipoamide dehydrogenase [KO:K00382] [EC:1.8.1.4]
+            2639  GCDH; glutaryl-CoA dehydrogenase [KO:K00252] [EC:1.3.8.6]
+            3030  HADHA; hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [KO:K07515] [EC:4.2.1.17 1.1.1.211]
+            1962  EHHADH; enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [KO:K07514] [EC:4.2.1.17 1.1.1.35 5.3.3.8]
+            1892  ECHS1; enoyl-CoA hydratase, short chain 1 [KO:K07511] [EC:4.2.1.17]
+            3033  HADH; hydroxyacyl-CoA dehydrogenase [KO:K00022] [EC:1.1.1.35]
+            39  ACAT2; acetyl-CoA acetyltransferase 2 [KO:K00626] [EC:2.3.1.9]
+            38  ACAT1; acetyl-CoA acetyltransferase 1 [KO:K00626] [EC:2.3.1.9]
+            123688  HYKK; hydroxylysine kinase [KO:K18201] [EC:2.7.1.81]
+            85007  PHYKPL; 5-phosphohydroxy-L-lysine phospho-lyase [KO:K18202] [EC:4.2.3.134]
+            51268  PIPOX; pipecolic acid and sarcosine oxidase [KO:K00306] [EC:1.5.3.1 1.5.3.7]
+            79823  CAMKMT; calmodulin-lysine N-methyltransferase [KO:K18826] [EC:2.1.1.60]
+            4297  KMT2A; lysine methyltransferase 2A [KO:K09186] [EC:2.1.1.354]
+            8085  KMT2D; lysine methyltransferase 2D [KO:K09187] [EC:2.1.1.354]
+            58508  KMT2C; lysine methyltransferase 2C [KO:K09188] [EC:2.1.1.354]
+            9757  KMT2B; lysine methyltransferase 2B [KO:K14959] [EC:2.1.1.354]
+            55904  KMT2E; lysine methyltransferase 2E (inactive) [KO:K09189] [EC:2.1.1.354]
+            23067  SETD1B; SET domain containing 1B, histone lysine methyltransferase [KO:K11422] [EC:2.1.1.354]
+            9739  SETD1A; SET domain containing 1A, histone lysine methyltransferase [KO:K11422] [EC:2.1.1.354]
+            80854  SETD7; SET domain containing 7, histone lysine methyltransferase [KO:K11431] [EC:2.1.1.364]
+            56979  PRDM9; PR/SET domain 9 [KO:K20796] [EC:2.1.1.354]
+            11105  PRDM7; PR/SET domain 7 [KO:K20796] [EC:2.1.1.354]
+            55870  ASH1L; ASH1 like histone lysine methyltransferase [KO:K06101] [EC:2.1.1.354]
+            56950  SMYD2; SET and MYND domain containing 2 [KO:K11426] [EC:2.1.1.354 2.1.1.357]
+            64754  SMYD3; SET and MYND domain containing 3 [KO:K11426] [EC:2.1.1.354 2.1.1.357]
+            150572  SMYD1; SET and MYND domain containing 1 [KO:K11426] [EC:2.1.1.354 2.1.1.357]
+            6839  SUV39H1; SUV39H1 histone lysine methyltransferase [KO:K11419] [EC:2.1.1.355]
+            79723  SUV39H2; SUV39H2 histone lysine methyltransferase [KO:K11419] [EC:2.1.1.355]
+            10919  EHMT2; euchromatic histone lysine methyltransferase 2 [KO:K11420] [EC:2.1.1.355]
+            79813  EHMT1; euchromatic histone lysine methyltransferase 1 [KO:K11420] [EC:2.1.1.355]
+            9869  SETDB1; SET domain bifurcated histone lysine methyltransferase 1 [KO:K11421] [EC:2.1.1.366]
+            83852  SETDB2; SET domain bifurcated histone lysine methyltransferase 2 [KO:K18494] [EC:2.1.1.355]
+            7799  PRDM2; PR/SET domain 2 [KO:K11432] [EC:2.1.1.355]
+            2145  EZH1; enhancer of zeste 1 polycomb repressive complex 2 subunit [KO:K17451] [EC:2.1.1.356]
+            2146  EZH2; enhancer of zeste 2 polycomb repressive complex 2 subunit [KO:K11430] [EC:2.1.1.356]
+            6419  SETMAR; SET domain and mariner transposase fusion gene [KO:K11433] [EC:2.1.1.357]
+            64324  NSD1; nuclear receptor binding SET domain protein 1 [KO:K15588] [EC:2.1.1.357]
+            7468  NSD2; nuclear receptor binding SET domain protein 2 [KO:K11424] [EC:2.1.1.357]
+            54904  NSD3; nuclear receptor binding SET domain protein 3 [KO:K11425] [EC:2.1.1.370 2.1.1.371]
+            29072  SETD2; SET domain containing 2, histone lysine methyltransferase [KO:K11423] [EC:2.1.1.359]
+            84444  DOT1L; DOT1 like histone lysine methyltransferase [KO:K11427] [EC:2.1.1.360]
+            387893  KMT5A; lysine methyltransferase 5A [KO:K11428] [EC:2.1.1.361]
+            93166  PRDM6; PR/SET domain 6 [KO:K20795] [EC:2.1.1.361]
+            84787  KMT5C; lysine methyltransferase 5C [KO:K11429] [EC:2.1.1.362]
+            51111  KMT5B; lysine methyltransferase 5B [KO:K11429] [EC:2.1.1.362]
+            2122  MECOM; MDS1 and EVI1 complex locus [KO:K04462] [EC:2.1.1.367]
+            63976  PRDM16; PR/SET domain 16 [KO:K22410] [EC:2.1.1.367]
+            55217  TMLHE; trimethyllysine hydroxylase, epsilon [KO:K00474] [EC:1.14.11.8]
+            217  ALDH2; aldehyde dehydrogenase 2 family member [KO:K00128] [EC:1.2.1.3]
+            224  ALDH3A2; aldehyde dehydrogenase 3 family member A2 [KO:K00128] [EC:1.2.1.3]
+            219  ALDH1B1; aldehyde dehydrogenase 1 family member B1 [KO:K00128] [EC:1.2.1.3]
+            223  ALDH9A1; aldehyde dehydrogenase 9 family member A1 [KO:K00149] [EC:1.2.1.47 1.2.1.3]
+            8424  BBOX1; gamma-butyrobetaine hydroxylase 1 [KO:K00471] [EC:1.14.11.1]
+            5351  PLOD1; procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [KO:K00473] [EC:1.14.11.4]
+            5352  PLOD2; procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 [KO:K13645] [EC:1.14.11.4]
+            8985  PLOD3; procollagen-lysine,2-oxoglutarate 5-dioxygenase 3 [KO:K13646] [EC:1.14.11.4 2.4.1.50 2.4.1.66]
+            79709  COLGALT1; collagen beta(1-O)galactosyltransferase 1 [KO:K11703] [EC:2.4.1.50]
+            23127  COLGALT2; collagen beta(1-O)galactosyltransferase 2 [KO:K11703] [EC:2.4.1.50]
+COMPOUND    C00024  Acetyl-CoA
+            C00026  2-Oxoglutarate
+            C00037  Glycine
+            C00042  Succinate
+            C00047  L-Lysine
+            C00136  Butanoyl-CoA
+            C00164  Acetoacetate
+            C00322  2-Oxoadipate
+            C00332  Acetoacetyl-CoA
+            C00408  L-Pipecolate
+            C00431  5-Aminopentanoate
+            C00449  N6-(L-1,3-Dicarboxypropyl)-L-lysine
+            C00450  (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate
+            C00487  Carnitine
+            C00489  Glutarate
+            C00527  Glutaryl-CoA
+            C00739  D-Lysine
+            C00877  Crotonoyl-CoA
+            C00956  L-2-Aminoadipate
+            C00990  5-Aminopentanamide
+            C01087  (R)-2-Hydroxyglutarate
+            C01142  (3S)-3,6-Diaminohexanoate
+            C01144  (S)-3-Hydroxybutanoyl-CoA
+            C01149  4-Trimethylammoniobutanal
+            C01181  4-Trimethylammoniobutanoate
+            C01186  (3S,5S)-3,5-Diaminohexanoate
+            C01211  Procollagen 5-hydroxy-L-lysine
+            C01259  (3S)-3-Hydroxy-N6,N6,N6-trimethyl-L-lysine
+            C01672  Cadaverine
+            C02188  Protein lysine
+            C02727  N6-Acetyl-L-lysine
+            C03087  5-Acetamidopentanoate
+            C03196  (S)-2-Hydroxyglutarate
+            C03239  6-Amino-2-oxohexanoate
+            C03273  5-Oxopentanoate
+            C03366  5-Phosphooxy-L-lysine
+            C03656  (S)-5-Amino-3-oxohexanoic acid
+            C03793  N6,N6,N6-Trimethyl-L-lysine
+            C04020  D-Lysopine
+            C04076  L-2-Aminoadipate 6-semialdehyde
+            C04092  Delta1-Piperideine-2-carboxylate
+            C04487  5-(D-Galactosyloxy)-L-lysine-procollagen
+            C05161  (2R,5S)-2,5-Diaminohexanoate
+            C05231  L-3-Aminobutyryl-CoA
+            C05544  Protein N6-methyl-L-lysine
+            C05545  Protein N6,N6-dimethyl-L-lysine
+            C05546  Protein N6,N6,N6-trimethyl-L-lysine
+            C05548  6-Acetamido-2-oxohexanoate
+            C05825  2-Amino-5-oxohexanoate
+            C12455  5-Aminopentanal
+            C16741  L-Hydroxylysine
+REFERENCE   PMID:11802770
+  AUTHORS   Vaz FM, Wanders RJ.
+  TITLE     Carnitine biosynthesis in mammals.
+  JOURNAL   Biochem J 361:417-29 (2002)
+            DOI:10.1042/bj3610417
+REFERENCE   PMID:1682209
+  AUTHORS   Large PJ, Robertson A.
+  TITLE     The route of lysine breakdown in Candida tropicalis.
+  JOURNAL   FEMS Microbiol Lett 66:209-13 (1991)
+            DOI:10.1111/j.1574-6968.1990.tb03998.x
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa00780  Biotin metabolism
+KO_PATHWAY  ko00310
+///

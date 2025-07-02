@@ -1,0 +1,99 @@
+ENTRY       hsa00910                    Pathway
+NAME        Nitrogen metabolism - Homo sapiens (human)
+DESCRIPTION The biological process of the nitrogen cycle is a complex interplay among many microorganisms catalyzing different reactions, where nitrogen is found in various oxidation states ranging from +5 in nitrate to -3 in ammonia. The core nitrogen cycle involves four reduction pathways and two oxidation pathways. Nitrogen fixation [MD:M00175] is the process of reducing atmospheric molecular nitrogen to ammonia, a biologically useful reduced form incorporated into amino acids and other vital compounds. The ability of fixing atmospheric nitrogen by the nitrogenase enzyme complex is present in restricted prokaryotes (diazotrophs). The other reduction pathways are assimilatory nitrate reduction [MD:M00531] and dissimilatory nitrate reduction [MD:M00530] both for conversion to ammonia, and denitrification [MD:M00529]. Denitrification is a respiration in which nitrate or nitrite is reduced as a terminal electron acceptor under low oxygen or anoxic conditions, producing gaseous nitrogen compounds (N2, NO and N2O) to the atmosphere. The two oxidation pathways are nitrification [MD:M00528] and anaerobic ammonium oxidation (anammox). Nitrification is the oxidation of ammonia (NH3) with oxygen into nitrite followed by the oxidation of nitrite into nitrate. The first step is performed by ammonia-oxidizing microorganisms (e.g., Nitrosomonas and Nitrosococcus) and the second step by nitrite-oxidizing microorganisms (e.g., Nitrobacter). Anammox is a biochemical process of oxidizing ammonium (NH4+) into dinitrogen gas (N2) using nitrite as an electron acceptor. It occurs in the anammoxosome, a membrane bound compartment inside the cytoplasm, of anammox bacteria (e.g., Planctomycetes).
+CLASS       Metabolism; Energy metabolism
+PATHWAY_MAP hsa00910  Nitrogen metabolism
+DRUG        D07130  Carglumic acid (JAN/USAN/INN)
+DBLINKS     GO: 0006807
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2747  GLUD2; glutamate dehydrogenase 2 [KO:K00261] [EC:1.4.1.3]
+            2746  GLUD1; glutamate dehydrogenase 1 [KO:K00261] [EC:1.4.1.3]
+            2752  GLUL; glutamate-ammonia ligase [KO:K01915] [EC:6.3.1.2]
+            1373  CPS1; carbamoyl-phosphate synthase 1 [KO:K01948] [EC:6.3.4.16]
+            377677  CA13; carbonic anhydrase 13 [KO:K01672] [EC:4.2.1.1]
+            759  CA1; carbonic anhydrase 1 [KO:K01672] [EC:4.2.1.1]
+            765  CA6; carbonic anhydrase 6 [KO:K01672] [EC:4.2.1.1]
+            766  CA7; carbonic anhydrase 7 [KO:K01672] [EC:4.2.1.1]
+            771  CA12; carbonic anhydrase 12 [KO:K01672] [EC:4.2.1.1]
+            11238  CA5B; carbonic anhydrase 5B [KO:K01672] [EC:4.2.1.1]
+            23632  CA14; carbonic anhydrase 14 [KO:K01672] [EC:4.2.1.1]
+            768  CA9; carbonic anhydrase 9 [KO:K01672] [EC:4.2.1.1]
+            761  CA3; carbonic anhydrase 3 [KO:K01672] [EC:4.2.1.1]
+            763  CA5A; carbonic anhydrase 5A [KO:K01672] [EC:4.2.1.1]
+            767  CA8; carbonic anhydrase 8 [KO:K01672] [EC:4.2.1.1]
+            760  CA2; carbonic anhydrase 2 [KO:K18245] [EC:4.2.1.1]
+            762  CA4; carbonic anhydrase 4 [KO:K18246] [EC:4.2.1.1]
+COMPOUND    C00011  CO2
+            C00014  Ammonia
+            C00025  L-Glutamate
+            C00058  Formate
+            C00064  L-Glutamine
+            C00088  Nitrite
+            C00169  Carbamoyl phosphate
+            C00192  Hydroxylamine
+            C00244  Nitrate
+            C00288  HCO3-
+            C00488  Formamide
+            C00533  Nitric oxide
+            C00697  Nitrogen
+            C00726  Nitrile
+            C00887  Nitrous oxide
+            C01417  Cyanate
+            C01563  Carbamate
+            C05361  Hydrazine
+            C06058  Nitroalkane
+REFERENCE   PMID:14702404
+  AUTHORS   Scott JD, Ludwig RA
+  TITLE     Azorhizobium caulinodans electron-transferring flavoprotein N electrochemically couples pyruvate dehydrogenase complex activity to N2 fixation.
+  JOURNAL   Microbiology 150:117-26 (2004)
+            DOI:10.1099/mic.0.26603-0
+REFERENCE   PMID:17408485
+  AUTHORS   Kneip C, Lockhart P, Voss C, Maier UG
+  TITLE     Nitrogen fixation in eukaryotes--new models for symbiosis.
+  JOURNAL   BMC Evol Biol 7:55 (2007)
+            DOI:10.1186/1471-2148-7-55
+REFERENCE   PMID:11004450
+  AUTHORS   Whittaker M, Bergmann D, Arciero D, Hooper AB
+  TITLE     Electron transfer during the oxidation of ammonia by the chemolithotrophic bacterium Nitrosomonas europaea.
+  JOURNAL   Biochim Biophys Acta 1459:346-55 (2000)
+            DOI:10.1016/S0005-2728(00)00171-7
+REFERENCE   PMID:15528644
+  AUTHORS   Cabello P, Roldan MD, Moreno-Vivian C
+  TITLE     Nitrate reduction and the nitrogen cycle in archaea.
+  JOURNAL   Microbiology 150:3527-46 (2004)
+            DOI:10.1099/mic.0.27303-0
+REFERENCE   PMID:11921398
+  AUTHORS   Stolz JF, Basu P
+  TITLE     Evolution of nitrate reductase: molecular and structural variations on a common function.
+  JOURNAL   Chembiochem 3:198-206 (2002)
+            DOI:10.1002/1439-7633(20020301)3:2/3<198::AID-CBIC198>3.0.CO;2-C
+REFERENCE   PMID:18021072
+  AUTHORS   Morozkina EV, Zvyagilskaya RA
+  TITLE     Nitrate reductases: structure, functions, and effect of stress factors.
+  JOURNAL   Biochemistry (Mosc) 72:1151-60 (2007)
+            DOI:10.1134/S0006297907100124
+REFERENCE   PMID:19247843
+  AUTHORS   Jetten MS, Niftrik L, Strous M, Kartal B, Keltjens JT, Op den Camp HJ
+  TITLE     Biochemistry and molecular biology of anammox bacteria.
+  JOURNAL   Crit Rev Biochem Mol Biol 44:65-84 (2009)
+            DOI:10.1080/10409230902722783
+REFERENCE   PMID:22221911
+  AUTHORS   Luesken FA, Wu ML, Op den Camp HJ, Keltjens JT, Stunnenberg H, Francoijs KJ, Strous M, Jetten MS
+  TITLE     Effect of oxygen on the anaerobic methanotroph 'Candidatus Methylomirabilis oxyfera': kinetic and transcriptional analysis.
+  JOURNAL   Environ Microbiol 14:1024-34 (2012)
+            DOI:10.1111/j.1462-2920.2011.02682.x
+REFERENCE   PMID:26610024
+  AUTHORS   Daims H, Lebedeva EV, Pjevac P, Han P, Herbold C, Albertsen M, Jehmlich N, Palatinszky M, Vierheilig J, Bulaev A, Kirkegaard RH, von Bergen M, Rattei T, Bendinger B, Nielsen PH, Wagner M
+  TITLE     Complete nitrification by Nitrospira bacteria.
+  JOURNAL   Nature 528:504-9 (2015)
+            DOI:10.1038/nature16461
+REFERENCE   PMID:26610025
+  AUTHORS   van Kessel MA, Speth DR, Albertsen M, Nielsen PH, Op den Camp HJ, Kartal B, Jetten MS, Lucker S
+  TITLE     Complete nitrification by a single microorganism.
+  JOURNAL   Nature 528:555-9 (2015)
+            DOI:10.1038/nature16459
+REL_PATHWAY hsa00220  Arginine biosynthesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+KO_PATHWAY  ko00910
+///

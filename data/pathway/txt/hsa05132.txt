@@ -1,0 +1,372 @@
+ENTRY       hsa05132                    Pathway
+NAME        Salmonella infection - Homo sapiens (human)
+DESCRIPTION Salmonella infection usually presents as a self-limiting gastroenteritis or the more severe typhoid fever and bacteremia. The common disease-causing Salmonella species in human is a single species, Salmonella enterica, which has numerous serovars.
+            Following intestinal colonization Salmonella inject effector proteins into the host cells using a type III secretion system (T3SS), T3SS1. Then a small group of effector proteins induce rearrangement of the actin cytoskeleton resulting in membrane ruffles and rapid internalization of the bacteria.The T3SS2 is responsible for translocating effector proteins that direct Salmonella-containing vacuole (SCV) maturation. The majority of the bacteria are known to survive and replicate in SCV.
+CLASS       Human Diseases; Infectious disease: bacterial
+PATHWAY_MAP hsa05132  Salmonella infection
+NETWORK     nt06110  MAPK signaling (viruses and bacteria)
+            nt06125  Membrane trafficking (bacteria)
+            nt06135  Cytoskeletal regulation (viruses and bacteria)
+            nt06505  WNT signaling
+            nt06516  TNF signaling
+            nt06521  NLR signaling
+  ELEMENT   N01112  Salmonella SopE/E2 to NOD-NFKB signaling pathway
+            N01113  Salmonella SseK1 to TNF-NFKB signaling pathway
+            N01114  Salmonella SseK3 to TNF-NFKB signaling pathway
+            N01116  Salmonella SseL to TNF-NFKB signaling pathway
+            N01117  Salmonella GogB to TNF-NFKB signaling pathway
+            N01118  Salmonella SpvD to TNF-NFKB signaling pathway
+            N01120  Salmonella SptP to RAC/CDC42-PAK-ERK signaling pathway
+            N01121  Salmonella SpvC to ERK signaling pathway
+            N01122  Salmonella PipA/GogA/GtgA to TNF-NFKB signaling pathway
+            N01123  Salmonella AvrA to TNF-NFKB signaling pathway
+            N01124  Salmonella AvrA to beta-catenin signaling pathway
+            N01125  Salmonella AvrA to TNF-JNK signaling pathway
+            N01126  Salmonella SipB to Inflammasome signaling pathway
+            N01127  Salmonella SopE to Inflammasome signaling pathway
+            N01128  Salmonella SopE to RAC signaling pathway
+            N01129  Salmonella SopB to ARNO-ARF-ACTB/G signaling pathway
+            N01130  Salmonella SopB to RhoA signaling pathway
+            N01131  Salmonella SopE/E2 to RhoA signaling pathway
+            N01132  Salmonella SopE/E2 to RhoG signaling pathway
+            N01133  Salmonella SopB to RhoG signaling pathway
+            N01134  Salmonella SopB to CDC42 signaling pathway
+            N01296  Salmonella SopD2 to Rab7-regulated microtubule minus-end directed transport
+            N01298  Salmonella SifA to microtubule plus-end directed transport
+            N01299  Salmonella PipB2 to microtubule plus-end directed transport
+            N01301  Salmonella SifA to Tethering of late endosomes and lysosomes
+            N01303  Salmonella SopB to Early endosomal fusion
+            N01305  Salmonella SopB to ANXA2-S100A10-regulated actin cytoskeleton
+DISEASE     H00111  Typhoid fever
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5420  PODXL; podocalyxin like [KO:K06817]
+            5788  PTPRC; protein tyrosine phosphatase receptor type C [KO:K06478] [EC:3.1.3.48]
+            5868  RAB5A; RAB5A, member RAS oncogene family [KO:K07887]
+            5869  RAB5B; RAB5B, member RAS oncogene family [KO:K07888]
+            5878  RAB5C; RAB5C, member RAS oncogene family [KO:K07889]
+            5289  PIK3C3; phosphatidylinositol 3-kinase catalytic subunit type 3 [KO:K00914] [EC:2.7.1.137]
+            7879  RAB7A; RAB7A, member RAS oncogene family [KO:K07897]
+            338382  RAB7B; RAB7B, member RAS oncogene family [KO:K07898]
+            9842  PLEKHM1; pleckstrin homology and RUN domain containing M1 [KO:K23282]
+            55823  VPS11; VPS11 core subunit of CORVET and HOPS complexes [KO:K20179]
+            64601  VPS16; VPS16 core subunit of CORVET and HOPS complexes [KO:K20180]
+            57617  VPS18; VPS18 core subunit of CORVET and HOPS complexes [KO:K20181]
+            65082  VPS33A; VPS33A core subunit of CORVET and HOPS complexes [KO:K20182]
+            23339  VPS39; VPS39 subunit of HOPS complex [KO:K20183]
+            27072  VPS41; VPS41 subunit of HOPS complex [KO:K20184]
+            83547  RILP; Rab interacting lysosomal protein [KO:K13883]
+            1778  DYNC1H1; dynein cytoplasmic 1 heavy chain 1 [KO:K10413]
+            79659  DYNC2H1; dynein cytoplasmic 2 heavy chain 1 [KO:K10414]
+            1780  DYNC1I1; dynein cytoplasmic 1 intermediate chain 1 [KO:K10415]
+            1781  DYNC1I2; dynein cytoplasmic 1 intermediate chain 2 [KO:K10415]
+            1783  DYNC1LI2; dynein cytoplasmic 1 light intermediate chain 2 [KO:K10416]
+            51143  DYNC1LI1; dynein cytoplasmic 1 light intermediate chain 1 [KO:K10416]
+            51626  DYNC2LI1; dynein cytoplasmic 2 light intermediate chain 1 [KO:K10417]
+            8655  DYNLL1; dynein light chain LC8-type 1 [KO:K10418]
+            140735  DYNLL2; dynein light chain LC8-type 2 [KO:K10418]
+            83658  DYNLRB1; dynein light chain roadblock-type 1 [KO:K10419]
+            83657  DYNLRB2; dynein light chain roadblock-type 2 [KO:K10419]
+            6993  DYNLT1; dynein light chain Tctex-type 1 [KO:K10420]
+            6990  DYNLT3; dynein light chain Tctex-type 3 [KO:K10420]
+            1639  DCTN1; dynactin subunit 1 [KO:K04648]
+            10540  DCTN2; dynactin subunit 2 [KO:K10424]
+            11258  DCTN3; dynactin subunit 3 [KO:K10425]
+            51164  DCTN4; dynactin subunit 4 [KO:K10426]
+            84516  DCTN5; dynactin subunit 5 [KO:K10427]
+            10671  DCTN6; dynactin subunit 6 [KO:K10428]
+            10121  ACTR1A; actin related protein 1A [KO:K16575]
+            10120  ACTR1B; actin related protein 1B [KO:K16575]
+            55860  ACTR10; actin related protein 10 [KO:K16576]
+            10376  TUBA1B; tubulin alpha 1b [KO:K07374]
+            7277  TUBA4A; tubulin alpha 4a [KO:K07374]
+            7278  TUBA3C; tubulin alpha 3c [KO:K07374]
+            7846  TUBA1A; tubulin alpha 1a [KO:K07374]
+            84790  TUBA1C; tubulin alpha 1c [KO:K07374]
+            51807  TUBA8; tubulin alpha 8 [KO:K07374]
+            112714  TUBA3E; tubulin alpha 3e [KO:K07374]
+            113457  TUBA3D; tubulin alpha 3d [KO:K07374]
+            79861  TUBAL3; tubulin alpha like 3 [KO:K07374]
+            84617  TUBB6; tubulin beta 6 class V [KO:K07375]
+            203068  TUBB; tubulin beta class I [KO:K07375]
+            81027  TUBB1; tubulin beta 1 class VI [KO:K07375]
+            7280  TUBB2A; tubulin beta 2A class IIa [KO:K07375]
+            10381  TUBB3; tubulin beta 3 class III [KO:K07375]
+            10382  TUBB4A; tubulin beta 4A class IVa [KO:K07375]
+            347688  TUBB8; tubulin beta 8 class VIII [KO:K07375]
+            347733  TUBB2B; tubulin beta 2B class IIb [KO:K07375]
+            10383  TUBB4B; tubulin beta 4B class IVb [KO:K07375]
+            79443  FYCO1; FYVE and coiled-coil domain autophagy adaptor 1 [KO:K21954]
+            127829  ARL8A; ADP ribosylation factor like GTPase 8A [KO:K07955]
+            55207  ARL8B; ADP ribosylation factor like GTPase 8B [KO:K07955]
+            23207  PLEKHM2; pleckstrin homology and RUN domain containing M2 [KO:K15348]
+            3798  KIF5A; kinesin family member 5A [KO:K10396]
+            3799  KIF5B; kinesin family member 5B [KO:K10396]
+            3800  KIF5C; kinesin family member 5C [KO:K10396]
+            147700  KLC3; kinesin light chain 3 [KO:K10407]
+            3831  KLC1; kinesin light chain 1 [KO:K10407]
+            64837  KLC2; kinesin light chain 2 [KO:K10407]
+            89953  KLC4; kinesin light chain 4 [KO:K10407]
+            64746  ACBD3; acyl-CoA binding domain containing 3 [KO:K23935]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            4074  M6PR; mannose-6-phosphate receptor, cation dependent [KO:K10089]
+            9367  RAB9A; RAB9A, member RAS oncogene family [KO:K07899]
+            51209  RAB9B; RAB9B, member RAS oncogene family [KO:K07900]
+            9648  GCC2; GRIP and coiled-coil domain containing 2 [KO:K20282]
+            8677  STX10; syntaxin 10 [KO:K23937]
+            345456  PFN3; profilin 3 [KO:K05759]
+            5216  PFN1; profilin 1 [KO:K05759]
+            5217  PFN2; profilin 2 [KO:K05759]
+            375189  PFN4; profilin family member 4 [KO:K05759]
+            2316  FLNA; filamin A [KO:K04437]
+            2318  FLNC; filamin C [KO:K04437]
+            2317  FLNB; filamin B [KO:K04437]
+            23265  EXOC7; exocyst complex component 7 [KO:K07195]
+            10640  EXOC5; exocyst complex component 5 [KO:K19984]
+            60412  EXOC4; exocyst complex component 4 [KO:K06111]
+            55770  EXOC2; exocyst complex component 2 [KO:K17637]
+            5898  RALA; RAS like proto-oncogene A [KO:K07834]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            6281  S100A10; S100 calcium binding protein A10 [KO:K17274]
+            302  ANXA2; annexin A2 [KO:K17092]
+            79026  AHNAK; AHNAK nucleoprotein [KO:K23934]
+            113146  AHNAK2; AHNAK nucleoprotein 2 [KO:K23934]
+            57381  RHOJ; ras homolog family member J [KO:K07864]
+            26084  ARHGEF26; Rho guanine nucleotide exchange factor 26 [KO:K13744]
+            391  RHOG; ras homolog family member G [KO:K07863]
+            9844  ELMO1; engulfment and cell motility 1 [KO:K12366]
+            63916  ELMO2; engulfment and cell motility 2 [KO:K18985]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            4633  MYL2; myosin light chain 2 [KO:K10351]
+            4636  MYL5; myosin light chain 5 [KO:K12753]
+            58498  MYL7; myosin light chain 7 [KO:K12754]
+            10398  MYL9; myosin light chain 9 [KO:K12755]
+            93408  MYL10; myosin light chain 10 [KO:K12756]
+            103910  MYL12B; myosin light chain 12B [KO:K12757]
+            10627  MYL12A; myosin light chain 12A [KO:K12757]
+            29895  MYL11; myosin light chain 11 [KO:K12758]
+            29109  FHOD1; formin homology 2 domain containing 1 [KO:K23938]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            10787  NCKAP1; NCK associated protein 1 [KO:K05750]
+            3071  NCKAP1L; NCK associated protein 1 like [KO:K05750]
+            23191  CYFIP1; cytoplasmic FMR1 interacting protein 1 [KO:K05749]
+            26999  CYFIP2; cytoplasmic FMR1 interacting protein 2 [KO:K05749]
+            10006  ABI1; abl interactor 1 [KO:K23649]
+            55845  BRK1; BRICK1 subunit of SCAR/WAVE actin nucleating complex [KO:K05752]
+            10810  WASF3; WASP family member 3 [KO:K06083]
+            10097  ACTR2; actin related protein 2 [KO:K17260]
+            57180  ACTR3B; actin related protein 3B [KO:K18584]
+            653857  ACTR3C; actin related protein 3C [KO:K18584]
+            10096  ACTR3; actin related protein 3 [KO:K18584]
+            10095  ARPC1B; actin related protein 2/3 complex subunit 1B [KO:K05757]
+            10552  ARPC1A; actin related protein 2/3 complex subunit 1A [KO:K05757]
+            10109  ARPC2; actin related protein 2/3 complex subunit 2 [KO:K05758]
+            10094  ARPC3; actin related protein 2/3 complex subunit 3 [KO:K05756]
+            10093  ARPC4; actin related protein 2/3 complex subunit 4 [KO:K05755]
+            10092  ARPC5; actin related protein 2/3 complex subunit 5 [KO:K05754]
+            81873  ARPC5L; actin related protein 2/3 complex subunit 5 like [KO:K05754]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            5063  PAK3; p21 (RAC1) activated kinase 3 [KO:K05733] [EC:2.7.11.1]
+            4646  MYO6; myosin VI [KO:K10358]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5294  PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [KO:K21289] [EC:2.7.1.153]
+            5288  PIK3C2G; phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 gamma [KO:K00923] [EC:2.7.1.154]
+            5286  PIK3C2A; phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha [KO:K00923] [EC:2.7.1.154]
+            5287  PIK3C2B; phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 beta [KO:K00923] [EC:2.7.1.154]
+            9265  CYTH3; cytohesin 3 [KO:K18441]
+            27128  CYTH4; cytohesin 4 [KO:K18441]
+            9266  CYTH2; cytohesin 2 [KO:K18441]
+            9267  CYTH1; cytohesin 1 [KO:K18441]
+            382  ARF6; ADP ribosylation factor 6 [KO:K07941]
+            375  ARF1; ADP ribosylation factor 1 [KO:K07937]
+            112574  SNX18; sorting nexin 18 [KO:K17923]
+            257364  SNX33; sorting nexin 33 [KO:K17923]
+            51429  SNX9; sorting nexin 9 [KO:K17923]
+            8976  WASL; WASP like actin nucleation promoting factor [KO:K23612]
+            1785  DNM2; dynamin 2 [KO:K23484] [EC:3.6.5.5]
+            10333  TLR6; toll like receptor 6 [KO:K10169]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            114609  TIRAP; TIR domain containing adaptor protein [KO:K05403]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            929  CD14; CD14 molecule [KO:K04391]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            23643  LY96; lymphocyte antigen 96 [KO:K05400]
+            7100  TLR5; toll like receptor 5 [KO:K10168]
+            54106  TLR9; toll like receptor 9 [KO:K10161]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            10454  TAB1; TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [KO:K04403]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            257397  TAB3; TGF-beta activated kinase 1 (MAP3K7) binding protein 3 [KO:K12793]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            10392  NOD1; nucleotide binding oligomerization domain containing 1 [KO:K08727]
+            3320  HSP90AA1; heat shock protein 90 alpha family class A member 1 [KO:K04079]
+            3326  HSP90AB1; heat shock protein 90 alpha family class B member 1 [KO:K04079]
+            7184  HSP90B1; heat shock protein 90 beta family member 1 [KO:K09487]
+            8767  RIPK2; receptor interacting serine/threonine kinase 2 [KO:K08846] [EC:2.7.11.1]
+            1434  CSE1L; chromosome segregation 1 like [KO:K18423]
+            3836  KPNA1; karyopherin subunit alpha 1 [KO:K23940]
+            3839  KPNA3; karyopherin subunit alpha 3 [KO:K23583]
+            3840  KPNA4; karyopherin subunit alpha 4 [KO:K23583]
+            6188  RPS3; ribosomal protein S3 [KO:K02985]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5606  MAP2K3; mitogen-activated protein kinase kinase 3 [KO:K04432] [EC:2.7.12.2]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            6932  TCF7; transcription factor 7 [KO:K02620]
+            83439  TCF7L1; transcription factor 7 like 1 [KO:K04490]
+            6934  TCF7L2; transcription factor 7 like 2 [KO:K04491]
+            51176  LEF1; lymphoid enhancer binding factor 1 [KO:K04492]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            5585  PKN1; protein kinase N1 [KO:K06071] [EC:2.7.11.13]
+            26263  FBXO22; F-box protein 22 [KO:K10302]
+            6500  SKP1; S-phase kinase associated protein 1 [KO:K03094]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            329  BIRC2; baculoviral IAP repeat containing 2 [KO:K16060]
+            330  BIRC3; baculoviral IAP repeat containing 3 [KO:K16060]
+            8737  RIPK1; receptor interacting serine/threonine kinase 1 [KO:K02861] [EC:2.7.11.1]
+            2597  GAPDH; glyceraldehyde-3-phosphate dehydrogenase [KO:K00134] [EC:1.2.1.12]
+            8743  TNFSF10; TNF superfamily member 10 [KO:K04721]
+            8797  TNFRSF10A; TNF receptor superfamily member 10a [KO:K04722]
+            8795  TNFRSF10B; TNF receptor superfamily member 10b [KO:K04722]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            11035  RIPK3; receptor interacting serine/threonine kinase 3 [KO:K08847] [EC:2.7.11.1]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            840  CASP7; caspase 7 [KO:K04397] [EC:3.4.22.60]
+            388  RHOB; ras homolog family member B [KO:K07856]
+            399  RHOH; ras homolog family member H [KO:K07873]
+            6237  RRAS; RAS related [KO:K07829]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            197259  MLKL; mixed lineage kinase domain like pseudokinase [KO:K08849] [EC:2.7.11.1]
+            7295  TXN; thioredoxin [KO:K03671]
+            25828  TXN2; thioredoxin 2 [KO:K03671]
+            114548  NLRP3; NLR family pyrin domain containing 3 [KO:K12800]
+            4671  NAIP; NLR family apoptosis inhibitory protein [KO:K12807]
+            58484  NLRC4; NLR family CARD domain containing 4 [KO:K12805]
+            29108  PYCARD; PYD and CARD domain containing [KO:K12799]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+            3606  IL18; interleukin 18 [KO:K05482]
+            837  CASP4; caspase 4 [KO:K04394] [EC:3.4.22.57 3.4.22.64]
+            838  CASP5; caspase 5 [KO:K04395] [EC:3.4.22.58]
+            79792  GSDMD; gasdermin D [KO:K20917]
+COMPOUND    C00338  Lipopolysaccharide
+            C01194  1-Phosphatidyl-D-myo-inositol
+            C04549  1-Phosphatidyl-1D-myo-inositol 3-phosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C11554  1-Phosphatidyl-1D-myo-inositol 3,4-bisphosphate
+REFERENCE   PMID:28875943
+  AUTHORS   Bernal-Bayard J, Ramos-Morales F
+  TITLE     Molecular Mechanisms Used by Salmonella to Evade the Immune System.
+  JOURNAL   Curr Issues Mol Biol 25:133-168 (2018)
+            DOI:10.21775/cimb.025.133
+REFERENCE   PMID:28848711
+  AUTHORS   Hume PJ, Singh V, Davidson AC, Koronakis V
+  TITLE     Swiss Army Pathogen: The Salmonella Entry Toolkit.
+  JOURNAL   Front Cell Infect Microbiol 7:348 (2017)
+            DOI:10.3389/fcimb.2017.00348
+REFERENCE   PMID:31402916
+  AUTHORS   Wemyss MA, Pearson JS
+  TITLE     Host Cell Death Responses to Non-typhoidal Salmonella Infection.
+  JOURNAL   Front Immunol 10:1758 (2019)
+            DOI:10.3389/fimmu.2019.01758
+REFERENCE   PMID:27974148
+  AUTHORS   Bierschenk D, Boucher D, Schroder K
+  TITLE     Salmonella-induced inflammasome activation in humans.
+  JOURNAL   Mol Immunol 86:38-43 (2017)
+            DOI:10.1016/j.molimm.2016.11.009
+REFERENCE   PMID:29477730
+  AUTHORS   Pinaud L, Sansonetti PJ, Phalipon A
+  TITLE     Host Cell Targeting by Enteropathogenic Bacteria T3SS Effectors.
+  JOURNAL   Trends Microbiol 26:266-283 (2018)
+            DOI:10.1016/j.tim.2018.01.010
+REFERENCE   PMID:25749450
+  AUTHORS   LaRock DL, Chaudhary A, Miller SI
+  TITLE     Salmonellae interactions with host processes.
+  JOURNAL   Nat Rev Microbiol 13:191-205 (2015)
+            DOI:10.1038/nrmicro3420
+REFERENCE   PMID:17983751
+  AUTHORS   Ramsden AE, Holden DW, Mota LJ
+  TITLE     Membrane dynamics and spatial distribution of Salmonella-containing vacuoles.
+  JOURNAL   Trends Microbiol 15:516-24 (2007)
+            DOI:10.1016/j.tim.2007.10.002
+REFERENCE   PMID:22702524
+  AUTHORS   van der Heijden J, Finlay BB
+  TITLE     Type III effector-mediated processes in Salmonella infection.
+  JOURNAL   Future Microbiol 7:685-703 (2012)
+            DOI:10.2217/fmb.12.49
+REFERENCE   PMID:27222578
+  AUTHORS   Galan JE
+  TITLE     Typhoid toxin provides a window into typhoid fever and the biology of Salmonella Typhi.
+  JOURNAL   Proc Natl Acad Sci U S A 113:6338-44 (2016)
+            DOI:10.1073/pnas.1606335113
+REFERENCE   PMID:19157959
+  AUTHORS   McGhie EJ, Brawn LC, Hume PJ, Humphreys D, Koronakis V
+  TITLE     Salmonella takes control: effector-driven manipulation of the host.
+  JOURNAL   Curr Opin Microbiol 12:117-24 (2009)
+            DOI:10.1016/j.mib.2008.12.001
+REFERENCE   PMID:12675800
+  AUTHORS   Miao EA, Brittnacher M, Haraga A, Jeng RL, Welch MD, Miller SI
+  TITLE     Salmonella effectors translocated across the vacuolar membrane interact with the actin cytoskeleton.
+  JOURNAL   Mol Microbiol 48:401-15 (2003)
+            DOI:10.1046/j.1365-2958.2003.t01-1-03456.x
+REFERENCE   PMID:17074883
+  AUTHORS   Patel JC, Galan JE
+  TITLE     Differential activation and function of Rho GTPases during Salmonella-host cell interactions.
+  JOURNAL   J Cell Biol 175:453-63 (2006)
+            DOI:10.1083/jcb.200605144
+REFERENCE   PMID:18411289
+  AUTHORS   Wasylnka JA, Bakowski MA, Szeto J, Ohlson MB, Trimble WS, Miller SI, Brumell JH
+  TITLE     Role for myosin II in regulating positioning of Salmonella-containing vacuoles and intracellular replication.
+  JOURNAL   Infect Immun 76:2722-35 (2008)
+            DOI:10.1128/IAI.00152-08
+REFERENCE   PMID:10499590
+  AUTHORS   Fu Y, Galan JE
+  TITLE     A salmonella protein antagonizes Rac-1 and Cdc42 to mediate host-cell recovery after bacterial invasion.
+  JOURNAL   Nature 401:293-7 (1999)
+            DOI:10.1038/45829
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04210  Apoptosis
+            hsa04217  Necroptosis
+            hsa04621  NOD-like receptor signaling pathway
+KO_PATHWAY  ko05132
+///

@@ -1,0 +1,223 @@
+ENTRY       hsa05222                    Pathway
+NAME        Small cell lung cancer - Homo sapiens (human)
+DESCRIPTION Lung cancer is a leading cause of cancer death among men and women in industrialized countries. Small cell lung carcinoma (SCLC) is a highly aggressive neoplasm, which accounts for approximately 25% of all lung cancer cases. Molecular mechanisms altered in SCLC include induced expression of oncogene, MYC, and loss of tumorsuppressor genes, such as p53, PTEN, RB, and FHIT. The overexpression of MYC proteins in SCLC is largely a result of gene amplification. Such overexpression leads to more rapid proliferation and loss of terminal differentiation. Mutation or deletion of p53 or PTEN can lead to more rapid proliferation and reduced apoptosis. The retinoblastoma gene RB1 encodes a nuclear phosphoprotein that helps to regulate cell-cycle progression. The fragile histidine triad gene FHIT encodes the enzyme diadenosine triphosphate hydrolase, which is thought to have an indirect role in proapoptosis and cell-cycle control.
+CLASS       Human Diseases; Cancer: specific types
+PATHWAY_MAP hsa05222  Small cell lung cancer
+NETWORK     nt06214  PI3K signaling
+            nt06230  Cell cycle
+            nt06231  Apoptosis
+            nt06240  Transcription
+            nt06260  Colorectal cancer
+            nt06261  Gastric cancer
+            nt06262  Pancreatic cancer
+            nt06263  Hepatocellular carcinoma
+            nt06265  Bladder cancer
+            nt06266  Non-small cell lung cancer
+            nt06267  Small cell lung cancer
+            nt06268  Melanoma
+            nt06269  Basal cell carcinoma
+            nt06270  Breast cancer
+            nt06271  Endometrial cancer
+            nt06272  Prostate cancer
+            nt06273  Glioma
+            nt06274  Thyroid cancer
+            nt06276  Chronic myeloid leukemia
+  ELEMENT   N00051  Deleted PTEN to PI3K signaling pathway
+            N00052  Mutation-inactivated PTEN to PI3K signaling pathway
+            N00074  Loss of RB1 to cell cycle G1/S
+            N00075  Mutation-inactivated RB1 to cell cycle G1/S
+            N00088  Amplified MYC to p15-cell cycle G1/S
+            N00089  Amplified MYC to cell cycle G1/S
+            N00092  Amplified MYC to p27-cell cycle G1/S
+            N00100  BCL2-overexpression to intrinsic apoptotic pathway
+            N00115  Mutation-inactivated TP53 to transcription
+DISEASE     H00013  Small cell lung cancer
+DRUG        D11130  Trilaciclib (USAN/INN)
+            D11987  Trilaciclib dihydrochloride
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2272  FHIT; fragile histidine triad diadenosine triphosphatase [KO:K01522] [EC:3.6.1.29]
+            5915  RARB; retinoic acid receptor beta [KO:K08528]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6257  RXRB; retinoid X receptor beta [KO:K08525]
+            6258  RXRG; retinoid X receptor gamma [KO:K08526]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            317  APAF1; apoptotic peptidase activating factor 1 [KO:K02084]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            4149  MAX; MYC associated factor X [KO:K04453]
+            7709  ZBTB17; zinc finger and BTB domain containing 17 [KO:K10500]
+            1030  CDKN2B; cyclin dependent kinase inhibitor 2B [KO:K04685]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            595  CCND1; cyclin D1 [KO:K04503]
+            1163  CKS1B; CDC28 protein kinase regulatory subunit 1B [KO:K02219]
+            1164  CKS2; CDC28 protein kinase regulatory subunit 2 [KO:K02219]
+            6502  SKP2; S-phase kinase associated protein 2 [KO:K03875]
+            1027  CDKN1B; cyclin dependent kinase inhibitor 1B [KO:K06624]
+            1017  CDK2; cyclin dependent kinase 2 [KO:K02206] [EC:2.7.11.22]
+            898  CCNE1; cyclin E1 [KO:K06626]
+            9134  CCNE2; cyclin E2 [KO:K06626]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            1284  COL4A2; collagen type IV alpha 2 chain [KO:K06237]
+            1286  COL4A4; collagen type IV alpha 4 chain [KO:K06237]
+            1288  COL4A6; collagen type IV alpha 6 chain [KO:K06237]
+            1282  COL4A1; collagen type IV alpha 1 chain [KO:K06237]
+            1287  COL4A5; collagen type IV alpha 5 chain [KO:K06237]
+            1285  COL4A3; collagen type IV alpha 3 chain [KO:K06237]
+            284217  LAMA1; laminin subunit alpha 1 [KO:K05637]
+            3908  LAMA2; laminin subunit alpha 2 [KO:K05637]
+            3909  LAMA3; laminin subunit alpha 3 [KO:K06240]
+            3911  LAMA5; laminin subunit alpha 5 [KO:K06240]
+            3910  LAMA4; laminin subunit alpha 4 [KO:K06241]
+            3912  LAMB1; laminin subunit beta 1 [KO:K05636]
+            3913  LAMB2; laminin subunit beta 2 [KO:K06243]
+            3914  LAMB3; laminin subunit beta 3 [KO:K06244]
+            22798  LAMB4; laminin subunit beta 4 [KO:K06245]
+            3915  LAMC1; laminin subunit gamma 1 [KO:K05635]
+            3918  LAMC2; laminin subunit gamma 2 [KO:K06246]
+            10319  LAMC3; laminin subunit gamma 3 [KO:K06247]
+            2335  FN1; fibronectin 1 [KO:K05717]
+            3673  ITGA2; integrin subunit alpha 2 [KO:K06481]
+            3674  ITGA2B; integrin subunit alpha 2b [KO:K06476]
+            3675  ITGA3; integrin subunit alpha 3 [KO:K06482]
+            3655  ITGA6; integrin subunit alpha 6 [KO:K06485]
+            3685  ITGAV; integrin subunit alpha V [KO:K06487]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            329  BIRC2; baculoviral IAP repeat containing 2 [KO:K16060]
+            330  BIRC3; baculoviral IAP repeat containing 3 [KO:K16060]
+            331  XIAP; X-linked inhibitor of apoptosis [KO:K04725] [EC:2.3.2.27]
+            79444  BIRC7; baculoviral IAP repeat containing 7 [KO:K16061]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            7185  TRAF1; TNF receptor associated factor 1 [KO:K03172]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            9618  TRAF4; TNF receptor associated factor 4 [KO:K09848]
+            7188  TRAF5; TNF receptor associated factor 5 [KO:K09849]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            4843  NOS2; nitric oxide synthase 2 [KO:K13241] [EC:1.14.13.39]
+COMPOUND    C00777  Retinoate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C15493  9-cis-Retinoic acid
+REFERENCE   PMID:12379883
+  AUTHORS   Osada H, Takahashi T.
+  TITLE     Genetic alterations of multiple tumor suppressors and oncogenes in the carcinogenesis and progression of lung cancer.
+  JOURNAL   Oncogene 21:7421-34 (2002)
+            DOI:10.1038/sj.onc.1205802
+REFERENCE   PMID:12741677
+  AUTHORS   Yokota J, Nishioka M, Tani M, Kohno T.
+  TITLE     Genetic alterations responsible for metastatic phenotypes of lung cancer cells.
+  JOURNAL   Clin Exp Metastasis 20:189-93 (2003)
+            DOI:10.1023/a:1022978932215
+REFERENCE   PMID:12711111
+  AUTHORS   Sanchez-Cespedes M.
+  TITLE     Dissecting the genetic alterations involved in lung carcinogenesis.
+  JOURNAL   Lung Cancer 40:111-21 (2003)
+            DOI:10.1016/S0169-5002(03)00033-3
+REFERENCE   PMID:12407699
+  AUTHORS   Mitsuuchi Y, Testa JR.
+  TITLE     Cytogenetics and molecular genetics of lung cancer.
+  JOURNAL   Am J Med Genet 115:183-8 (2002)
+            DOI:10.1002/ajmg.10692
+REFERENCE   PMID:11720739
+  AUTHORS   Kaye FJ.
+  TITLE     Molecular biology of lung cancer.
+  JOURNAL   Lung Cancer 34 Suppl 2:S35-41 (2001)
+            DOI:10.1016/S0169-5002(01)00342-7
+REFERENCE   PMID:16112428
+  AUTHORS   Panani AD, Roussos C.
+  TITLE     Cytogenetic and molecular aspects of lung cancer.
+  JOURNAL   Cancer Lett 239:1-9 (2006)
+            DOI:10.1016/j.canlet.2005.06.030
+REFERENCE   PMID:11902573
+  AUTHORS   Altucci L, Gronemeyer H.
+  TITLE     The promise of retinoids to fight against cancer.
+  JOURNAL   Nat Rev Cancer 1:181-93 (2001)
+            DOI:10.1038/35106036
+REFERENCE   PMID:10944551
+  AUTHORS   Virmani AK, Rathi A, Zochbauer-Muller S, Sacchi N, Fukuyama Y, Bryant D, Maitra A, Heda S, Fong KM, Thunnissen F, Minna JD, Gazdar AF.
+  TITLE     Promoter methylation and silencing of the retinoic acid receptor-beta gene in lung carcinomas.
+  JOURNAL   J Natl Cancer Inst 92:1303-7 (2000)
+            DOI:10.1093/jnci/92.16.1303
+REFERENCE   PMID:11807782
+  AUTHORS   Sartorius UA, Krammer PH.
+  TITLE     Upregulation of Bcl-2 is involved in the mediation of chemotherapy resistance in human small cell lung cancer cell lines.
+  JOURNAL   Int J Cancer 97:584-92 (2002)
+            DOI:10.1002/ijc.10096
+REFERENCE   PMID:16064138
+  AUTHORS   Adhikary S, Eilers M.
+  TITLE     Transcriptional regulation and transformation by Myc proteins.
+  JOURNAL   Nat Rev Mol Cell Biol 6:635-45 (2005)
+            DOI:10.1038/nrm1703
+REFERENCE   PMID:11463388
+  AUTHORS   Spruck C, Strohmaier H, Watson M, Smith AP, Ryan A, Krek TW, Reed SI.
+  TITLE     A CDK-independent function of mammalian Cks1: targeting of SCF(Skp2) to the CDK inhibitor p27Kip1.
+  JOURNAL   Mol Cell 7:639-50 (2001)
+            DOI:10.1016/S1097-2765(01)00210-6
+REFERENCE   PMID:15109562
+  AUTHORS   Buttery RC, Rintoul RC, Sethi T.
+  TITLE     Small cell lung cancer: the importance of the extracellular matrix.
+  JOURNAL   Int J Biochem Cell Biol 36:1154-60 (2004)
+            DOI:10.1016/S1357-2725(03)00261-9
+REFERENCE   PMID:11559746
+  AUTHORS   Yamada KM, Araki M.
+  TITLE     Tumor suppressor PTEN: modulator of cell signaling, growth, migration and apoptosis.
+  JOURNAL   J Cell Sci 114:2375-82 (2001)
+REFERENCE   PMID:11905738
+  AUTHORS   Rintoul RC, Sethi T.
+  TITLE     The role of extracellular matrix in small-cell lung cancer.
+  JOURNAL   Lancet Oncol 2:437-42 (2001)
+            DOI:10.1016/S1470-2045(00)00421-6
+REFERENCE   PMID:12243753
+  AUTHORS   Ekedahl J, Joseph B, Grigoriev MY, Muller M, Magnusson C, Lewensohn R, Zhivotovsky B.
+  TITLE     Expression of inhibitor of apoptosis proteins in small- and non-small-cell lung carcinoma cells.
+  JOURNAL   Exp Cell Res 279:277-90 (2002)
+            DOI:10.1006/excr.2002.5608
+REFERENCE   PMID:12616528
+  AUTHORS   Shivapurkar N, Reddy J, Chaudhary PM, Gazdar AF.
+  TITLE     Apoptosis and lung cancer: a review.
+  JOURNAL   J Cell Biochem 88:885-98 (2003)
+            DOI:10.1002/jcb.10440
+REFERENCE   PMID:23070004
+  AUTHORS   Weyhenmeyer B, Murphy AC, Prehn JH, Murphy BM
+  TITLE     Targeting the anti-apoptotic Bcl-2 family members for the treatment of cancer.
+  JOURNAL   Exp Oncol 34:192-9 (2012)
+REL_PATHWAY hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+KO_PATHWAY  ko05222
+///

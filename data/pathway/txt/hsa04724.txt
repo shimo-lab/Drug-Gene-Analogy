@@ -1,0 +1,279 @@
+ENTRY       hsa04724                    Pathway
+NAME        Glutamatergic synapse - Homo sapiens (human)
+DESCRIPTION Glutamate is the major excitatory neurotransmitter in the mammalian central nervous system(CNS). Glutamate is packaged into synaptic vesicles in the presynaptic terminal. Once released into the synaptic cleft, glutamate acts on postsynaptic ionotropic glutamate receptors (iGluRs) to mediate fast excitatory synaptic transmission. Glutamate can also act on metabotropic glutamate receptors (mGluRs) and exert a variety of modulatory effects through their coupling to G proteins and the subsequent recruitment of second messenger systems. Presynaptically localized Group II and Group III mGluRs are thought to represent the classical inhibitory autoreceptor mechanism that suppresses excess glutamate release. After its action on these receptors, glutamate can be removed from the synaptic cleft by EAATs located either on the presynaptic terminal, neighboring glial cells, or the postsynaptic neuron. In glia, glutamate is converted to glutamine, which is then transported back to the presynaptic terminal and converted back to glutamate.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP hsa04724  Glutamatergic synapse
+NETWORK     nt06410  Calcium signaling
+            nt06460  Alzheimer disease
+            nt06461  Huntington disease
+            nt06462  Spinocerebellar ataxia
+            nt06463  Parkinson disease
+            nt06464  Amyotrophic lateral sclerosis
+            nt06465  Prion disease
+  ELEMENT   N00953  mGluR1-TRPC3 signaling pathway
+            N00967  VGCC-Ca2+ -apoptotic pathway
+            N00970  Transport of calcium
+            N00984  mGluR5-Ca2+ -apoptotic pathway
+DRUG        D00536  Felbamate (USPINN)
+            D00537  Topiramate (JAN/USP/INN)
+            D00711  Ketamine hydrochloride (JP18/USP)
+            D00774  Orphenadrine citrate (USP)
+            D00775  Riluzole (JAN/USP/INN)
+            D00777  Amantadine hydrochloride (JP18/USP)
+            D00848  Dextromethorphan hydrobromide (USP)
+            D02102  Methadone hydrochloride (JAN/USP)
+            D02410  Selfotel (USAN/INN)
+            D02599  Orphenadrine hydrochloride
+            D02696  Talampanel (INN)
+            D02780  Acamprosate calcium (JAN/USAN)
+            D02973  Aptiganel hydrochloride (USAN)
+            D03100  Besonprodil (USAN)
+            D03679  Delucemine hydrochloride (USAN)
+            D03742  Dextromethorphan (USP)
+            D03744  Dextromethorphan polistirex (USAN)
+            D03746  Dextrorphan hydrochloride (USAN)
+            D03878  Dizocilpine maleate (USAN)
+            D03966  Eglumetad (USAN)
+            D04131  Farampator (USAN/INN)
+            D04155  Fenobam (USAN)
+            D04308  Gavestinel (USAN/INN)
+            D04728  Licostinel (USAN/INN)
+            D04905  Memantine hydrochloride (JAN/USP)
+            D05145  Neramexane mesylate (USAN)
+            D05447  Perzinfotel (USAN/INN)
+            D05453  Phencyclidine hydrochloride (USAN)
+            D05714  Remacemide hydrochloride (USAN)
+            D06146  Tiletamine hydrochloride (USP)
+            D06204  Traxoprodil mesylate (USAN)
+            D06656  Tezampanel (USAN)
+            D07058  Acamprosate (INN)
+            D07283  Esketamine (USAN/INN)
+            D07306  Budipine (INN)
+            D07441  Amantadine (INN)
+            D07589  Budipine hydrochloride
+            D08098  Ketamine (INN)
+            D08121  Levomethadone (INN)
+            D08122  Levomethadone hydrochloride
+            D08174  Memantine (INN)
+            D08195  Methadone (BAN)
+            D08305  Orphenadrine (INN)
+            D08596  Tiletamine (INN)
+            D08908  Eglumegad (INN)
+            D08964  Perampanel (USAN)
+            D09008  Talaglumetad hydrochloride (USAN)
+            D09035  Zonampanel (INN/USAN)
+            D09917  Latrepirdine (USAN/INN)
+            D09918  Latrepirdine dihydrochloride (USAN)
+            D09931  Mibampator (USAN/INN)
+            D09949  Pomaglumetad methionil (USAN)
+            D10107  Dasolampanel (USAN)
+            D10108  Dasolampanel etibutil (USAN)
+            D10109  Dasolampanel etibutil tosylate (USAN)
+            D10627  Esketamine hydrochloride (JAN/USAN)
+            D10780  Perampanel hydrate (JAN)
+            D10896  Pomaglumetad methionil (INN)
+            D11414  Troriluzole (USAN)
+            D11415  Troriluzole hydrochloride (USAN)
+            D12214  Esmethadone (USAN)
+            D12215  Esmethadone hydrochloride (USAN)
+            D12239  Pesampator (USAN)
+DBLINKS     GO: 0051966
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        81539  SLC38A1; solute carrier family 38 member 1 [KO:K14990]
+            54407  SLC38A2; solute carrier family 38 member 2 [KO:K14207]
+            27165  GLS2; glutaminase 2 [KO:K01425] [EC:3.5.1.2]
+            2744  GLS; glutaminase [KO:K01425] [EC:3.5.1.2]
+            57084  SLC17A6; solute carrier family 17 member 6 [KO:K12302]
+            246213  SLC17A8; solute carrier family 17 member 8 [KO:K12302]
+            57030  SLC17A7; solute carrier family 17 member 7 [KO:K12302]
+            2897  GRIK1; glutamate ionotropic receptor kainate type subunit 1 [KO:K05201]
+            2898  GRIK2; glutamate ionotropic receptor kainate type subunit 2 [KO:K05202]
+            2899  GRIK3; glutamate ionotropic receptor kainate type subunit 3 [KO:K05203]
+            2900  GRIK4; glutamate ionotropic receptor kainate type subunit 4 [KO:K05204]
+            2901  GRIK5; glutamate ionotropic receptor kainate type subunit 5 [KO:K05205]
+            2890  GRIA1; glutamate ionotropic receptor AMPA type subunit 1 [KO:K05197]
+            2891  GRIA2; glutamate ionotropic receptor AMPA type subunit 2 [KO:K05198]
+            2892  GRIA3; glutamate ionotropic receptor AMPA type subunit 3 [KO:K05199]
+            2893  GRIA4; glutamate ionotropic receptor AMPA type subunit 4 [KO:K05200]
+            2902  GRIN1; glutamate ionotropic receptor NMDA type subunit 1 [KO:K05208]
+            2903  GRIN2A; glutamate ionotropic receptor NMDA type subunit 2A [KO:K05209]
+            2904  GRIN2B; glutamate ionotropic receptor NMDA type subunit 2B [KO:K05210]
+            2905  GRIN2C; glutamate ionotropic receptor NMDA type subunit 2C [KO:K05211]
+            2906  GRIN2D; glutamate ionotropic receptor NMDA type subunit 2D [KO:K05212]
+            116443  GRIN3A; glutamate ionotropic receptor NMDA type subunit 3A [KO:K05213]
+            116444  GRIN3B; glutamate ionotropic receptor NMDA type subunit 3B [KO:K05214]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            1742  DLG4; discs large MAGUK scaffold protein 4 [KO:K11828]
+            9229  DLGAP1; DLG associated protein 1 [KO:K15008]
+            85358  SHANK3; SH3 and multiple ankyrin repeat domains 3 [KO:K15009]
+            50944  SHANK1; SH3 and multiple ankyrin repeat domains 1 [KO:K15009]
+            22941  SHANK2; SH3 and multiple ankyrin repeat domains 2 [KO:K15009]
+            7220  TRPC1; transient receptor potential cation channel subfamily C member 1 [KO:K04964]
+            2911  GRM1; glutamate metabotropic receptor 1 [KO:K04603]
+            2915  GRM5; glutamate metabotropic receptor 5 [KO:K04604]
+            9456  HOMER1; homer scaffold protein 1 [KO:K15010]
+            9455  HOMER2; homer scaffold protein 2 [KO:K15010]
+            9454  HOMER3; homer scaffold protein 3 [KO:K15010]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            5337  PLD1; phospholipase D1 [KO:K01115] [EC:3.1.4.4]
+            5338  PLD2; phospholipase D2 [KO:K01115] [EC:3.1.4.4]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            2912  GRM2; glutamate metabotropic receptor 2 [KO:K04605]
+            2913  GRM3; glutamate metabotropic receptor 3 [KO:K04606]
+            2914  GRM4; glutamate metabotropic receptor 4 [KO:K04607]
+            2916  GRM6; glutamate metabotropic receptor 6 [KO:K04608]
+            2917  GRM7; glutamate metabotropic receptor 7 [KO:K04609]
+            2918  GRM8; glutamate metabotropic receptor 8 [KO:K04610]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            156  GRK2; G protein-coupled receptor kinase 2 [KO:K00910] [EC:2.7.11.15]
+            157  GRK3; G protein-coupled receptor kinase 3 [KO:K00910] [EC:2.7.11.15]
+            3760  KCNJ3; potassium inwardly rectifying channel subfamily J member 3 [KO:K04997]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            6506  SLC1A2; solute carrier family 1 member 2 [KO:K05613]
+            6512  SLC1A7; solute carrier family 1 member 7 [KO:K05618]
+            6505  SLC1A1; solute carrier family 1 member 1 [KO:K05612]
+            6511  SLC1A6; solute carrier family 1 member 6 [KO:K05617]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            6507  SLC1A3; solute carrier family 1 member 3 [KO:K05614]
+            2752  GLUL; glutamate-ammonia ligase [KO:K01915] [EC:6.3.1.2]
+            10991  SLC38A3; solute carrier family 38 member 3 [KO:K13576]
+COMPOUND    C00025  L-Glutamate
+            C00064  L-Glutamine
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00575  3',5'-Cyclic AMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+REFERENCE   PMID:20055706
+  AUTHORS   Niswender CM, Conn PJ
+  TITLE     Metabotropic glutamate receptors: physiology, pharmacology, and disease.
+  JOURNAL   Annu Rev Pharmacol Toxicol 50:295-322 (2010)
+            DOI:10.1146/annurev.pharmtox.011008.145533
+REFERENCE   PMID:19112153
+  AUTHORS   Ferraguti F, Crepaldi L, Nicoletti F
+  TITLE     Metabotropic glutamate 1 receptor: current concepts and perspectives.
+  JOURNAL   Pharmacol Rev 60:536-81 (2008)
+            DOI:10.1124/pr.108.000166
+REFERENCE   PMID:11672421
+  AUTHORS   Hermans E, Challiss RA
+  TITLE     Structural, signalling and regulatory properties of the group I metabotropic glutamate receptors: prototypic family C G-protein-coupled receptors.
+  JOURNAL   Biochem J 359:465-84 (2001)
+            DOI:10.1042/bj3590465
+REFERENCE   PMID:17663464
+  AUTHORS   Kim CH, Lee J, Lee JY, Roche KW
+  TITLE     Metabotropic glutamate receptors: phosphorylation and receptor signaling.
+  JOURNAL   J Neurosci Res 86:1-10 (2008)
+            DOI:10.1002/jnr.21437
+REFERENCE   PMID:14684436
+  AUTHORS   Meador-Woodruff JH, Clinton SM, Beneyto M, McCullumsmith RE
+  TITLE     Molecular abnormalities of the glutamate synapse in the thalamus in schizophrenia.
+  JOURNAL   Ann N Y Acad Sci 1003:75-93 (2003)
+            DOI:10.1196/annals.1300.005
+REFERENCE   PMID:18425072
+  AUTHORS   Sanacora G, Zarate CA, Krystal JH, Manji HK
+  TITLE     Targeting the glutamatergic system to develop novel, improved therapeutics for mood disorders.
+  JOURNAL   Nat Rev Drug Discov 7:426-37 (2008)
+            DOI:10.1038/nrd2462
+REFERENCE   PMID:17706608
+  AUTHORS   Gass JT, Olive MF
+  TITLE     Glutamatergic substrates of drug addiction and alcoholism.
+  JOURNAL   Biochem Pharmacol 75:218-65 (2008)
+            DOI:10.1016/j.bcp.2007.06.039
+REFERENCE   PMID:9665875
+  AUTHORS   Palmada M, Centelles JJ
+  TITLE     Excitatory amino acid neurotransmission. Pathways for metabolism, storage and reuptake of glutamate in brain.
+  JOURNAL   Front Biosci 3:d701-18 (1998)
+            DOI:10.2741/a314
+REFERENCE   PMID:11561058
+  AUTHORS   Schoepp DD
+  TITLE     Unveiling the functions of presynaptic metabotropic glutamate receptors in the central nervous system.
+  JOURNAL   J Pharmacol Exp Ther 299:12-20 (2001)
+REFERENCE   PMID:19559598
+  AUTHORS   de Jong AP, Verhage M
+  TITLE     Presynaptic signal transduction pathways that modulate synaptic transmission.
+  JOURNAL   Curr Opin Neurobiol 19:245-53 (2009)
+            DOI:10.1016/j.conb.2009.06.005
+REFERENCE   PMID:18464791
+  AUTHORS   Pinheiro PS, Mulle C
+  TITLE     Presynaptic glutamate receptors: physiological functions and mechanisms of action.
+  JOURNAL   Nat Rev Neurosci 9:423-36 (2008)
+            DOI:10.1038/nrn2379
+REFERENCE   PMID:19110202
+  AUTHORS   Byrnes KR, Loane DJ, Faden AI
+  TITLE     Metabotropic glutamate receptors as targets for multipotential treatment of neurological disorders.
+  JOURNAL   Neurotherapeutics 6:94-107 (2009)
+            DOI:10.1016/j.nurt.2008.10.038
+REFERENCE   PMID:10481192
+  AUTHORS   Conti F, Weinberg RJ
+  TITLE     Shaping excitation at glutamatergic synapses.
+  JOURNAL   Trends Neurosci 22:451-8 (1999)
+            DOI:10.1016/S0166-2236(99)01445-9
+REFERENCE   PMID:12399578
+  AUTHORS   Sheng M, Kim MJ
+  TITLE     Postsynaptic signaling and plasticity mechanisms.
+  JOURNAL   Science 298:776-80 (2002)
+            DOI:10.1126/science.1075333
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa04020  Calcium signaling pathway
+            hsa04720  Long-term potentiation
+            hsa04721  Synaptic vesicle cycle
+            hsa04730  Long-term depression
+KO_PATHWAY  ko04724
+///

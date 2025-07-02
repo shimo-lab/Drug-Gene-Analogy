@@ -1,0 +1,431 @@
+ENTRY       hsa05170                    Pathway
+NAME        Human immunodeficiency virus 1 infection - Homo sapiens (human)
+DESCRIPTION Human immunodeficiency virus type 1 (HIV-1) , the causative agent of AIDS (acquired immunodeficiency syndrome), is a lentivirus belonging to the Retroviridae family. The primary cell surface receptor for HIV-1, the CD4 protein, and the co-receptor for HIV-1, either CCR5 or CXCR4, are found on macrophages and T lymphocytes. At the earliest step, sequential binding of virus envelope (Env) glycoprotein gp120 to CD4 and the co-receptor CCR5 or CXCR4 facilitates HIV-1 entry and has the potential to trigger critical signaling that may favor viral replication. At advanced stages of the disease, HIV-1 infection results in dramatic induction of T-cell (CD4+ T and CD8+ T cell) apoptosis both in infected and uninfected bystander T cells, a hallmark of HIV-1 pathogenesis. On the contrary, macrophages are resistant to the cytopathic effect of HIV-1 and produce virus for longer periods of time.
+CLASS       Human Diseases; Infectious disease: viral
+PATHWAY_MAP hsa05170  Human immunodeficiency virus 1 infection
+NETWORK     nt06124  Chemokine signaling (viruses)
+            nt06129  MHC presentation (viruses)
+            nt06130  Cell cycle (viruses)
+            nt06131  Apoptosis (viruses and bacteria)
+            nt06150  Cytokine-cytokine receptor interaction (viruses)
+            nt06161  Human immunodeficiency virus type 1 (HIV-1)
+            nt06516  TNF signaling
+            nt06517  TLR signaling
+            nt06520  CGAS-STING signaling
+  ELEMENT   N00431  HIV gp120 to CXCR4-GNAI-PI3K-BAD signaling pathway
+            N00432  HIV gp120 to CXCR4-GNAQ-PLCB/G-calcineurin
+            N00434  HIV gp120 to CXCR4-GNB/G-RAC signaling pathway
+            N00436  HIV Tat to TLR2/4-NFKB signaling pathway
+            N00437  HIV Vpu to TLR2/4-NFKB signaling pathway
+            N00439  HIV Nef to TLR2/4-MAPK signaling pathway
+            N00440  HIV Vpu/Vif/Vpr to cGAS-STING signaling pathway
+            N00441  HIV gp120 to TNF-NFKB signaling pathway
+            N00442  HIV Nef to TNF-NFKB signaling pathway
+            N00443  HIV Vpr/Nef/Tat to TNF-NFKB signaling pathway
+            N00445  HIV Tat/Nef to TNF-p38 signaling pathway
+            N00447  HIV Vpr/Tat to TNF-JNK signaling pathway
+            N00448  HIV Tat/Nef to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00449  HIV Tat/Nef to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00450  HIV Tat to intrinsic apoptotic pathway
+            N00451  HIV Tat to intrinsic apoptotic pathway
+            N00452  HIV Nef to intrinsic apoptotic pathway
+            N00453  HIV Vpr to intrinsic apoptotic pathway
+            N00454  HIV Vpr to intrinsic apoptotic pathway
+            N00456  HIV Vpr to CDC25-cell cycle G2M
+            N00457  HIV Vpr to cell cycle G2M
+            N00458  HIV Vpr to CDC25-cell cycle G2M
+            N00460  HIV Vpr to WEE1-cell cycle G2M
+            N00461  HIV Nef to antigen processing and presentation by MHC class I molecules
+DISEASE     H00406  Acquired immunodeficiency syndrome (AIDS)
+            H01563  HIV infection
+DRUG        D06670  Maraviroc (JAN/INN)
+            D09575  Ibalizumab (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        920  CD4; CD4 molecule [KO:K06454]
+            8945  BTRC; beta-transducin repeat containing E3 ubiquitin protein ligase [KO:K03362]
+            23291  FBXW11; F-box and WD repeat domain containing 11 [KO:K03362]
+            6500  SKP1; S-phase kinase associated protein 1 [KO:K03094]
+            8454  CUL1; cullin 1 [KO:K03347]
+            9978  RBX1; ring-box 1 [KO:K03868] [EC:2.3.2.32]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            1234  CCR5; C-C motif chemokine receptor 5 [KO:K04180]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            2185  PTK2B; protein tyrosine kinase 2 beta [KO:K05871] [EC:2.7.10.2]
+            5829  PXN; paxillin [KO:K05760]
+            1398  CRK; CRK proto-oncogene, adaptor protein [KO:K04438]
+            1399  CRKL; CRK like proto-oncogene, adaptor protein [KO:K04438]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            4776  NFATC4; nuclear factor of activated T cells 4 [KO:K17334]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            5881  RAC3; Rac family small GTPase 3 [KO:K07861]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            5062  PAK2; p21 (RAC1) activated kinase 2 [KO:K04410] [EC:2.7.11.1]
+            5063  PAK3; p21 (RAC1) activated kinase 3 [KO:K05733] [EC:2.7.11.1]
+            10298  PAK4; p21 (RAC1) activated kinase 4 [KO:K05734] [EC:2.7.11.1]
+            57144  PAK5; p21 (RAC1) activated kinase 5 [KO:K05736] [EC:2.7.11.1]
+            56924  PAK6; p21 (RAC1) activated kinase 6 [KO:K05735] [EC:2.7.11.1]
+            106821730  BUB1B-PAK6; BUB1B-PAK6 readthrough [KO:K05735] [EC:2.7.11.1]
+            3984  LIMK1; LIM domain kinase 1 [KO:K05743] [EC:2.7.11.1]
+            3985  LIMK2; LIM domain kinase 2 [KO:K05744] [EC:2.7.11.1]
+            1072  CFL1; cofilin 1 [KO:K05765]
+            1073  CFL2; cofilin 2 [KO:K05765]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            7133  TNFRSF1B; TNF receptor superfamily member 1B [KO:K05141]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            10454  TAB1; TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [KO:K04403]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            115004  CGAS; cyclic GMP-AMP synthase [KO:K17834] [EC:2.7.7.86]
+            340061  STING1; stimulator of interferon response cGAMP interactor 1 [KO:K12654]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            164668  APOBEC3H; apolipoprotein B mRNA editing enzyme catalytic subunit 3H [KO:K18750] [EC:3.5.4.-]
+            200316  APOBEC3F; apolipoprotein B mRNA editing enzyme catalytic subunit 3F [KO:K18750] [EC:3.5.4.-]
+            100913187  APOBEC3A_B; APOBEC3A and APOBEC3B deletion hybrid [KO:K18750] [EC:3.5.4.-]
+            140564  APOBEC3D; apolipoprotein B mRNA editing enzyme catalytic subunit 3D [KO:K18750] [EC:3.5.4.-]
+            200315  APOBEC3A; apolipoprotein B mRNA editing enzyme catalytic subunit 3A [KO:K18750] [EC:3.5.4.-]
+            27350  APOBEC3C; apolipoprotein B mRNA editing enzyme catalytic subunit 3C [KO:K18750] [EC:3.5.4.-]
+            60489  APOBEC3G; apolipoprotein B mRNA editing enzyme catalytic subunit 3G [KO:K18750] [EC:3.5.4.-]
+            9582  APOBEC3B; apolipoprotein B mRNA editing enzyme catalytic subunit 3B [KO:K18750] [EC:3.5.4.-]
+            25939  SAMHD1; SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 [KO:K22544] [EC:3.1.5.-]
+            85363  TRIM5; tripartite motif containing 5 [KO:K10648] [EC:2.3.2.27]
+            684  BST2; bone marrow stromal cell antigen 2 [KO:K06731]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8737  RIPK1; receptor interacting serine/threonine kinase 1 [KO:K02861] [EC:2.7.11.1]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            7188  TRAF5; TNF receptor associated factor 5 [KO:K09849]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            5606  MAP2K3; mitogen-activated protein kinase kinase 3 [KO:K04432] [EC:2.7.12.2]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            637  BID; BH3 interacting domain death agonist [KO:K04726]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            916  CD3E; CD3 epsilon subunit of T-cell receptor complex [KO:K06451]
+            917  CD3G; CD3 gamma subunit of T-cell receptor complex [KO:K06452]
+            915  CD3D; CD3 delta subunit of T-cell receptor complex [KO:K06450]
+            919  CD247; CD247 molecule [KO:K06453]
+            6890  TAP1; transporter 1, ATP binding cassette subfamily B member [KO:K05653] [EC:7.4.2.14]
+            6891  TAP2; transporter 2, ATP binding cassette subfamily B member [KO:K05654] [EC:7.4.2.14]
+            6892  TAPBP; TAP binding protein [KO:K08058]
+            2923  PDIA3; protein disulfide isomerase family A member 3 [KO:K08056] [EC:5.3.4.1]
+            811  CALR; calreticulin [KO:K08057]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            162  AP1B1; adaptor related protein complex 1 subunit beta 1 [KO:K12392]
+            164  AP1G1; adaptor related protein complex 1 subunit gamma 1 [KO:K12391]
+            8906  AP1G2; adaptor related protein complex 1 subunit gamma 2 [KO:K12391]
+            8907  AP1M1; adaptor related protein complex 1 subunit mu 1 [KO:K12393]
+            10053  AP1M2; adaptor related protein complex 1 subunit mu 2 [KO:K12393]
+            1174  AP1S1; adaptor related protein complex 1 subunit sigma 1 [KO:K12394]
+            8905  AP1S2; adaptor related protein complex 1 subunit sigma 2 [KO:K12394]
+            130340  AP1S3; adaptor related protein complex 1 subunit sigma 3 [KO:K12395]
+            567  B2M; beta-2-microglobulin [KO:K08055]
+            6923  ELOB; elongin B [KO:K03873]
+            6921  ELOC; elongin C [KO:K03872]
+            8065  CUL5; cullin 5 [KO:K10612]
+            9616  RNF7; ring finger protein 7 [KO:K10611]
+            9730  DCAF1; DDB1 and CUL4 associated factor 1 [KO:K11789] [EC:2.7.11.1]
+            1642  DDB1; damage specific DNA binding protein 1 [KO:K10610]
+            8450  CUL4B; cullin 4B [KO:K10609]
+            8451  CUL4A; cullin 4A [KO:K10609]
+            472  ATM; ATM serine/threonine kinase [KO:K04728] [EC:2.7.11.1]
+            545  ATR; ATR serine/threonine kinase [KO:K06640] [EC:2.7.11.1]
+            1111  CHEK1; checkpoint kinase 1 [KO:K02216] [EC:2.7.11.1]
+            995  CDC25C; cell division cycle 25C [KO:K05867] [EC:3.1.3.48]
+            7465  WEE1; WEE1 G2 checkpoint kinase [KO:K06632] [EC:2.7.11.1]
+            494551  WEE2; WEE2 oocyte meiosis inhibiting kinase [KO:K06632] [EC:2.7.11.1]
+            891  CCNB1; cyclin B1 [KO:K05868]
+            9133  CCNB2; cyclin B2 [KO:K21770]
+            85417  CCNB3; cyclin B3 [KO:K21771]
+            983  CDK1; cyclin dependent kinase 1 [KO:K02087] [EC:2.7.11.22 2.7.11.23]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C20640  Cyclic GMP-AMP
+REFERENCE   PMID:22749173
+  AUTHORS   Evans VA, Khoury G, Saleh S, Cameron PU, Lewin SR
+  TITLE     HIV persistence: chemokines and their signalling pathways.
+  JOURNAL   Cytokine Growth Factor Rev 23:151-7 (2012)
+            DOI:10.1016/j.cytogfr.2012.05.002
+REFERENCE   PMID:23806647
+  AUTHORS   Abbas W, Herbein G
+  TITLE     Plasma membrane signaling in HIV-1 infection.
+  JOURNAL   Biochim Biophys Acta 1838:1132-42 (2014)
+            DOI:10.1016/j.bbamem.2013.06.020
+REFERENCE   PMID:20041213
+  AUTHORS   Wu Y, Yoder A
+  TITLE     Chemokine coreceptor signaling in HIV-1 infection and pathogenesis.
+  JOURNAL   PLoS Pathog 5:e1000520 (2009)
+            DOI:10.1371/journal.ppat.1000520
+REFERENCE   PMID:22085380
+  AUTHORS   Choi WT, Duggineni S, Xu Y, Huang Z, An J
+  TITLE     Drug discovery research targeting the CXC chemokine receptor 4 (CXCR4).
+  JOURNAL   J Med Chem 55:977-94 (2012)
+            DOI:10.1021/jm200568c
+REFERENCE   PMID:21321123
+  AUTHORS   Vorster PJ, Guo J, Yoder A, Wang W, Zheng Y, Xu X, Yu D, Spear M, Wu Y
+  TITLE     LIM kinase 1 modulates cortical actin and CXCR4 cycling and is activated by HIV-1 to initiate viral infection.
+  JOURNAL   J Biol Chem 286:12554-64 (2011)
+            DOI:10.1074/jbc.M110.182238
+REFERENCE   PMID:15817946
+  AUTHORS   Das SR, Jameel S
+  TITLE     Biology of the HIV Nef protein.
+  JOURNAL   Indian J Med Res 121:315-32 (2005)
+REFERENCE   PMID:24822052
+  AUTHORS   Roy N, Pacini G, Berlioz-Torrent C, Janvier K
+  TITLE     Mechanisms underlying HIV-1 Vpu-mediated viral egress.
+  JOURNAL   Front Microbiol 5:177 (2014)
+            DOI:10.3389/fmicb.2014.00177
+REFERENCE   PMID:22090097
+  AUTHORS   Magadan JG, Bonifacino JS
+  TITLE     Transmembrane domain determinants of CD4 Downregulation by HIV-1 Vpu.
+  JOURNAL   J Virol 86:757-72 (2012)
+            DOI:10.1128/JVI.05933-11
+REFERENCE   PMID:26056579
+  AUTHORS   Kumar A, Herbein G
+  TITLE     The macrophage: a therapeutic target in HIV-1 infection.
+  JOURNAL   Mol Cell Ther 2:10 (2014)
+            DOI:10.1186/2052-8426-2-10
+REFERENCE   PMID:20672047
+  AUTHORS   Yokota S, Okabayashi T, Fujii N
+  TITLE     The battle between virus and host: modulation of Toll-like receptor signaling pathways by virus infection.
+  JOURNAL   Mediators Inflamm 2010:184328 (2010)
+            DOI:10.1155/2010/184328
+REFERENCE   PMID:26628325
+  AUTHORS   Sauter D, Kirchhoff F
+  TITLE     HIV replication: a game of hide and sense.
+  JOURNAL   Curr Opin HIV AIDS 11:173-81 (2016)
+            DOI:10.1097/COH.0000000000000233
+REFERENCE   PMID:25988887
+  AUTHORS   Altfeld M, Gale M Jr
+  TITLE     Innate immunity against HIV-1 infection.
+  JOURNAL   Nat Immunol 16:554-62 (2015)
+            DOI:10.1038/ni.3157
+REFERENCE   PMID:28358311
+  AUTHORS   Pasquereau S, Kumar A, Herbein G
+  TITLE     Targeting TNF and TNF Receptor Pathway in HIV-1 Infection: from Immune Activation to Viral Reservoirs.
+  JOURNAL   Viruses 9:E64 (2017)
+            DOI:10.3390/v9040064
+REFERENCE   PMID:18178131
+  AUTHORS   Herbein G, Khan KA
+  TITLE     Is HIV infection a TNF receptor signalling-driven disease?
+  JOURNAL   Trends Immunol 29:61-7 (2008)
+            DOI:10.1016/j.it.2007.10.008
+REFERENCE   PMID:24453421
+  AUTHORS   Kumar A, Abbas W, Herbein G
+  TITLE     TNF and TNF receptor superfamily members in HIV infection: new cellular targets for therapy?
+  JOURNAL   Mediators Inflamm 2013:484378 (2013)
+            DOI:10.1155/2013/484378
+REFERENCE   PMID:23986795
+  AUTHORS   Abbas W, Herbein G
+  TITLE     T-Cell Signaling in HIV-1 Infection.
+  JOURNAL   Open Virol J 7:57-71 (2013)
+            DOI:10.2174/1874357920130621001
+REFERENCE   PMID:21368875
+  AUTHORS   Cummins NW, Badley AD
+  TITLE     Mechanisms of HIV-associated lymphocyte apoptosis: 2010.
+  JOURNAL   Cell Death Dis 1:e99 (2010)
+            DOI:10.1038/cddis.2010.77
+REFERENCE   PMID:12766761
+  AUTHORS   Gougeon ML
+  TITLE     Apoptosis as an HIV strategy to escape immune attack.
+  JOURNAL   Nat Rev Immunol 3:392-404 (2003)
+            DOI:10.1038/nri1087
+REFERENCE   PMID:21994747
+  AUTHORS   Fevrier M, Dorgham K, Rebollo A
+  TITLE     CD4+ T cell depletion in human immunodeficiency virus (HIV) infection: role of apoptosis.
+  JOURNAL   Viruses 3:586-612 (2011)
+            DOI:10.3390/v3050586
+REFERENCE   PMID:11237054
+  AUTHORS   Ross TM
+  TITLE     Using death to one's advantage: HIV modulation of apoptosis.
+  JOURNAL   Leukemia 15:332-41 (2001)
+            DOI:10.1038/sj.leu.2402028
+REFERENCE   PMID:22767237
+  AUTHORS   Hurley JH, Bonifacino JS
+  TITLE     Nef-arious goings-on at the Golgi.
+  JOURNAL   Nat Struct Mol Biol 19:661-2 (2012)
+            DOI:10.1038/nsmb.2304
+REFERENCE   PMID:21762823
+  AUTHORS   Wonderlich ER, Leonard JA, Collins KL
+  TITLE     HIV immune evasion disruption of antigen presentation by the HIV Nef protein.
+  JOURNAL   Adv Virus Res 80:103-27 (2011)
+            DOI:10.1016/B978-0-12-385987-7.00005-1
+REFERENCE   PMID:20594957
+  AUTHORS   Laguette N, Bregnard C, Benichou S, Basmaciogullari S
+  TITLE     Human immunodeficiency virus (HIV) type-1, HIV-2 and simian immunodeficiency virus Nef proteins.
+  JOURNAL   Mol Aspects Med 31:418-33 (2010)
+            DOI:10.1016/j.mam.2010.05.003
+REFERENCE   PMID:27161574
+  AUTHORS   Pereira EA, daSilva LL
+  TITLE     HIV-1 Nef: Taking Control of Protein Trafficking.
+  JOURNAL   Traffic 17:976-96 (2016)
+            DOI:10.1111/tra.12412
+REFERENCE   PMID:26950141
+  AUTHORS   Sugden SM, Bego MG, Pham TN, Cohen EA
+  TITLE     Remodeling of the Host Cell Plasma Membrane by HIV-1 Nef and Vpu: A Strategy to Ensure Viral Fitness and Persistence.
+  JOURNAL   Viruses 8:67 (2016)
+            DOI:10.3390/v8030067
+REFERENCE   PMID:24906315
+  AUTHORS   Bagga S, Bouchard MJ
+  TITLE     Cell cycle regulation during viral infection.
+  JOURNAL   Methods Mol Biol 1170:165-227 (2014)
+            DOI:10.1007/978-1-4939-0888-2_10
+REFERENCE   PMID:15638722
+  AUTHORS   Andersen JL, Planelles V
+  TITLE     The role of Vpr in HIV-1 pathogenesis.
+  JOURNAL   Curr HIV Res 3:43-51 (2005)
+            DOI:10.2174/1570162052772988
+REFERENCE   PMID:17140287
+  AUTHORS   Andersen JL, DeHart JL, Zimmerman ES, Ardon O, Kim B, Jacquot G, Benichou S, Planelles V
+  TITLE     HIV-1 Vpr-induced apoptosis is cell cycle dependent and requires Bax but not ANT.
+  JOURNAL   PLoS Pathog 2:e127 (2006)
+            DOI:10.1371/journal.ppat.0020127
+REFERENCE   PMID:23430691
+  AUTHORS   Takaori-Kondo A, Shindo K
+  TITLE     HIV-1 Vif: a guardian of the virus that opens up a new era in the research field of restriction factors.
+  JOURNAL   Front Microbiol 4:34 (2013)
+            DOI:10.3389/fmicb.2013.00034
+REFERENCE   PMID:19038776
+  AUTHORS   Malim MH
+  TITLE     APOBEC proteins and intrinsic resistance to HIV-1 infection.
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 364:675-87 (2009)
+            DOI:10.1098/rstb.2008.0185
+REFERENCE   PMID:21835787
+  AUTHORS   Hultquist JF, Lengyel JA, Refsland EW, LaRue RS, Lackey L, Brown WL, Harris RS
+  TITLE     Human and rhesus APOBEC3D, APOBEC3F, APOBEC3G, and APOBEC3H demonstrate a conserved capacity to restrict Vif-deficient HIV-1.
+  JOURNAL   J Virol 85:11220-34 (2011)
+            DOI:10.1128/JVI.05238-11
+REL_PATHWAY hsa03050  Proteasome
+            hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04110  Cell cycle
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04142  Lysosome
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04612  Antigen processing and presentation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04668  TNF signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko05170
+///

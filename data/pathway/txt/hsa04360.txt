@@ -1,0 +1,268 @@
+ENTRY       hsa04360                    Pathway
+NAME        Axon guidance - Homo sapiens (human)
+DESCRIPTION Axon guidance represents a key stage in the formation of neuronal network. Axons are guided by a variety of guidance factors, such as netrins, ephrins, Slits, and semaphorins. These guidance cues are read by growth cone receptors, and signal transduction pathways downstream of these receptors converge onto the Rho GTPases to elicit changes in cytoskeletal organization that determine which way the growth cone will turn.
+CLASS       Organismal Systems; Development and regeneration
+PATHWAY_MAP hsa04360  Axon guidance
+DRUG        D01705  Clemizole hydrochloride (JAN)
+            D02013  Clemizole undecylate (JAN)
+            D10028  Valategrast hydrochloride (USAN)
+            D10494  Vesencumab (USAN/INN)
+            D11355  Elezanumab (USAN/INN)
+            D11469  Pepinemab (USAN)
+            D12287  Terevalefim (USAN/INN)
+DBLINKS     GO: 0007411
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        22854  NTNG1; netrin G1 [KO:K07522]
+            84628  NTNG2; netrin G2 [KO:K16359]
+            57689  LRRC4C; leucine rich repeat containing 4C [KO:K07523]
+            64101  LRRC4; leucine rich repeat containing 4 [KO:K16351]
+            9423  NTN1; netrin 1 [KO:K06843]
+            4917  NTN3; netrin 3 [KO:K06844]
+            59277  NTN4; netrin 4 [KO:K06845]
+            1630  DCC; DCC netrin 1 receptor [KO:K06765]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            7220  TRPC1; transient receptor potential cation channel subfamily C member 1 [KO:K04964]
+            7222  TRPC3; transient receptor potential cation channel subfamily C member 3 [KO:K04966]
+            7223  TRPC4; transient receptor potential cation channel subfamily C member 4 [KO:K04967]
+            7224  TRPC5; transient receptor potential cation channel subfamily C member 5 [KO:K04968]
+            7225  TRPC6; transient receptor potential cation channel subfamily C member 6 [KO:K04969]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            4776  NFATC4; nuclear factor of activated T cells 4 [KO:K17334]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            2534  FYN; FYN proto-oncogene, Src family tyrosine kinase [KO:K05703] [EC:2.7.10.2]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            5881  RAC3; Rac family small GTPase 3 [KO:K07861]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            3983  ABLIM1; actin binding LIM protein 1 [KO:K07520]
+            22885  ABLIM3; actin binding LIM protein family member 3 [KO:K07520]
+            84448  ABLIM2; actin binding LIM protein family member 2 [KO:K07520]
+            4690  NCK1; NCK adaptor protein 1 [KO:K07365]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            5062  PAK2; p21 (RAC1) activated kinase 2 [KO:K04410] [EC:2.7.11.1]
+            5063  PAK3; p21 (RAC1) activated kinase 3 [KO:K05733] [EC:2.7.11.1]
+            10298  PAK4; p21 (RAC1) activated kinase 4 [KO:K05734] [EC:2.7.11.1]
+            57144  PAK5; p21 (RAC1) activated kinase 5 [KO:K05736] [EC:2.7.11.1]
+            56924  PAK6; p21 (RAC1) activated kinase 6 [KO:K05735] [EC:2.7.11.1]
+            106821730  BUB1B-PAK6; BUB1B-PAK6 readthrough [KO:K05735] [EC:2.7.11.1]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            90249  UNC5A; unc-5 netrin receptor A [KO:K07521]
+            219699  UNC5B; unc-5 netrin receptor B [KO:K07521]
+            8633  UNC5C; unc-5 netrin receptor C [KO:K07521]
+            137970  UNC5D; unc-5 netrin receptor D [KO:K07521]
+            5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            56963  RGMA; repulsive guidance molecule BMP co-receptor a [KO:K23096]
+            4756  NEO1; neogenin 1 [KO:K06766]
+            4636  MYL5; myosin light chain 5 [KO:K12753]
+            10398  MYL9; myosin light chain 9 [KO:K12755]
+            103910  MYL12B; myosin light chain 12B [KO:K12757]
+            10627  MYL12A; myosin light chain 12A [KO:K12757]
+            23365  ARHGEF12; Rho guanine nucleotide exchange factor 12 [KO:K07532]
+            9860  LRIG2; leucine rich repeats and immunoglobulin like domains 2 [KO:K24609]
+            1942  EFNA1; ephrin A1 [KO:K05462]
+            1943  EFNA2; ephrin A2 [KO:K05462]
+            1944  EFNA3; ephrin A3 [KO:K05462]
+            1945  EFNA4; ephrin A4 [KO:K05462]
+            1946  EFNA5; ephrin A5 [KO:K05462]
+            1947  EFNB1; ephrin B1 [KO:K05463]
+            1948  EFNB2; ephrin B2 [KO:K05463]
+            1949  EFNB3; ephrin B3 [KO:K05463]
+            2041  EPHA1; EPH receptor A1 [KO:K05102] [EC:2.7.10.1]
+            1969  EPHA2; EPH receptor A2 [KO:K05103] [EC:2.7.10.1]
+            2042  EPHA3; EPH receptor A3 [KO:K05104] [EC:2.7.10.1]
+            2043  EPHA4; EPH receptor A4 [KO:K05105] [EC:2.7.10.1]
+            2044  EPHA5; EPH receptor A5 [KO:K05106] [EC:2.7.10.1]
+            285220  EPHA6; EPH receptor A6 [KO:K05107] [EC:2.7.10.1]
+            2045  EPHA7; EPH receptor A7 [KO:K05108] [EC:2.7.10.1]
+            2046  EPHA8; EPH receptor A8 [KO:K05109] [EC:2.7.10.1]
+            2047  EPHB1; EPH receptor B1 [KO:K05110] [EC:2.7.10.1]
+            2048  EPHB2; EPH receptor B2 [KO:K05111] [EC:2.7.10.1]
+            2049  EPHB3; EPH receptor B3 [KO:K05112] [EC:2.7.10.1]
+            2050  EPHB4; EPH receptor B4 [KO:K05113] [EC:2.7.10.1]
+            2051  EPHB6; EPH receptor B6 [KO:K05114] [EC:2.7.10.1]
+            25  ABL1; ABL proto-oncogene 1, non-receptor tyrosine kinase [KO:K06619] [EC:2.7.10.2]
+            55740  ENAH; ENAH actin regulator [KO:K05746]
+            5921  RASA1; RAS p21 protein activator 1 [KO:K04352]
+            25791  NGEF; neuronal guanine nucleotide exchange factor [KO:K07525]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            8440  NCK2; NCK adaptor protein 2 [KO:K19862]
+            5998  RGS3; regulator of G protein signaling 3 [KO:K07524]
+            6387  CXCL12; C-X-C motif chemokine ligand 12 [KO:K10031]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            6585  SLIT1; slit guidance ligand 1 [KO:K06838]
+            9353  SLIT2; slit guidance ligand 2 [KO:K06839]
+            6586  SLIT3; slit guidance ligand 3 [KO:K06850]
+            6091  ROBO1; roundabout guidance receptor 1 [KO:K06753]
+            6092  ROBO2; roundabout guidance receptor 2 [KO:K06754]
+            64221  ROBO3; roundabout guidance receptor 3 [KO:K06755]
+            23380  SRGAP2; SLIT-ROBO Rho GTPase activating protein 2 [KO:K07526]
+            57522  SRGAP1; SLIT-ROBO Rho GTPase activating protein 1 [KO:K07526]
+            9901  SRGAP3; SLIT-ROBO Rho GTPase activating protein 3 [KO:K07526]
+            10371  SEMA3A; semaphorin 3A [KO:K06840]
+            7869  SEMA3B; semaphorin 3B [KO:K06840]
+            10512  SEMA3C; semaphorin 3C [KO:K06840]
+            223117  SEMA3D; semaphorin 3D [KO:K06840]
+            9723  SEMA3E; semaphorin 3E [KO:K06840]
+            6405  SEMA3F; semaphorin 3F [KO:K06840]
+            56920  SEMA3G; semaphorin 3G [KO:K06840]
+            5362  PLXNA2; plexin A2 [KO:K06820]
+            55558  PLXNA3; plexin A3 [KO:K06820]
+            5361  PLXNA1; plexin A1 [KO:K06820]
+            91584  PLXNA4; plexin A4 [KO:K06820]
+            8829  NRP1; neuropilin 1 [KO:K06724]
+            3897  L1CAM; L1 cell adhesion molecule [KO:K06550]
+            3984  LIMK1; LIM domain kinase 1 [KO:K05743] [EC:2.7.11.1]
+            3985  LIMK2; LIM domain kinase 2 [KO:K05744] [EC:2.7.11.1]
+            1072  CFL1; cofilin 1 [KO:K05765]
+            1073  CFL2; cofilin 2 [KO:K05765]
+            29984  RHOD; ras homolog family member D [KO:K07530]
+            27289  RND1; Rho family GTPase 1 [KO:K07531]
+            2242  FES; FES proto-oncogene, tyrosine kinase [KO:K07527] [EC:2.7.10.2]
+            56896  DPYSL5; dihydropyrimidinase like 5 [KO:K07529]
+            1808  DPYSL2; dihydropyrimidinase like 2 [KO:K07528]
+            1020  CDK5; cyclin dependent kinase 5 [KO:K02090] [EC:2.7.11.22]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            10505  SEMA4F; ssemaphorin 4F [KO:K06521]
+            10507  SEMA4D; semaphorin 4D [KO:K06521]
+            10509  SEMA4B; semaphorin 4B [KO:K06521]
+            54910  SEMA4C; semaphorin 4C [KO:K06521]
+            57715  SEMA4G; semaphorin 4G [KO:K06521]
+            64218  SEMA4A; semaphorin 4A [KO:K06521]
+            9037  SEMA5A; semaphorin 5A [KO:K06841]
+            54437  SEMA5B; semaphorin 5B [KO:K06841]
+            57556  SEMA6A; semaphorin 6A [KO:K06842]
+            10501  SEMA6B; semaphorin 6B [KO:K06842]
+            10500  SEMA6C; semaphorin 6C [KO:K06842]
+            80031  SEMA6D; semaphorin 6D [KO:K06842]
+            5364  PLXNB1; plexin B1 [KO:K06821]
+            23654  PLXNB2; plexin B2 [KO:K06821]
+            5365  PLXNB3; plexin B3 [KO:K06821]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            6237  RRAS; RAS related [KO:K07829]
+            8482  SEMA7A; semaphorin 7A (John Milton Hagen blood group) [KO:K06529]
+            10154  PLXNC1; plexin C1 [KO:K06572]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            6469  SHH; sonic hedgehog signaling molecule [KO:K11988]
+            5727  PTCH1; patched 1 [KO:K06225]
+            6608  SMO; smoothened, frizzled class receptor [KO:K06226]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            3611  ILK; integrin linked kinase [KO:K06272] [EC:2.7.11.1]
+            91653  BOC; BOC cell adhesion associated, oncogene regulated [KO:K20020]
+            7474  WNT5A; Wnt family member 5A [KO:K00444]
+            81029  WNT5B; Wnt family member 5B [KO:K00444]
+            7976  FZD3; frizzled class receptor 3 [KO:K02329]
+            6259  RYK; receptor like tyrosine kinase [KO:K05128] [EC:2.7.10.1]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            54361  WNT4; Wnt family member 4 [KO:K00408]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            56288  PARD3; par-3 family cell polarity regulator [KO:K04237]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            50855  PARD6A; par-6 family cell polarity regulator alpha [KO:K06093]
+            84552  PARD6G; par-6 family cell polarity regulator gamma [KO:K06093]
+            84612  PARD6B; par-6 family cell polarity regulator beta [KO:K06093]
+            54434  SSH1; slingshot protein phosphatase 1 [KO:K05766] [EC:3.1.3.16 3.1.3.48]
+            54961  SSH3; slingshot protein phosphatase 3 [KO:K05766] [EC:3.1.3.16 3.1.3.48]
+            85464  SSH2; slingshot protein phosphatase 2 [KO:K05766] [EC:3.1.3.16 3.1.3.48]
+            655  BMP7; bone morphogenetic protein 7 [KO:K16621]
+            151449  GDF7; growth differentiation factor 7 [KO:K20013]
+            659  BMPR2; bone morphogenetic protein receptor type 2 [KO:K04671] [EC:2.7.11.30]
+            658  BMPR1B; bone morphogenetic protein receptor type 1B [KO:K13578] [EC:2.7.11.30]
+COMPOUND    C00076  Calcium cation
+REFERENCE   PMID:14682358
+  AUTHORS   Guan KL, Rao Y.
+  TITLE     Signalling mechanisms mediating neuronal responses to guidance cues.
+  JOURNAL   Nat Rev Neurosci 4:941-56 (2003)
+            DOI:10.1038/nrn1254
+REFERENCE   PMID:15630019
+  AUTHORS   Govek EE, Newey SE, Van Aelst L.
+  TITLE     The role of the Rho GTPases in neuronal development.
+  JOURNAL   Genes Dev 19:1-49 (2005)
+            DOI:10.1101/gad.1256405
+REFERENCE   PMID:12677003
+  AUTHORS   Huber AB, Kolodkin AL, Ginty DD, Cloutier JF.
+  TITLE     Signaling at the growth cone: ligand-receptor complexes and the control of axon growth and guidance.
+  JOURNAL   Annu Rev Neurosci 26:509-63 (2003)
+            DOI:10.1146/annurev.neuro.26.010302.081139
+REFERENCE   PMID:15818466
+  AUTHORS   Negishi M, Oinuma I, Katoh H.
+  TITLE     Plexins: axon guidance and signal transduction.
+  JOURNAL   Cell Mol Life Sci 62:1363-71 (2005)
+            DOI:10.1007/s00018-005-5018-2
+REFERENCE   PMID:15363605
+  AUTHORS   Huot J.
+  TITLE     Ephrin signaling in axon guidance.
+  JOURNAL   Prog Neuropsychopharmacol Biol Psychiatry 28:813-8 (2004)
+            DOI:10.1016/j.pnpbp.2004.05.025
+REFERENCE   PMID:11891122
+  AUTHORS   Patel BN, Van Vactor DL.
+  TITLE     Axon guidance: the cytoplasmic tail.
+  JOURNAL   Curr Opin Cell Biol 14:221-9 (2002)
+            DOI:10.1016/S0955-0674(02)00308-3
+REFERENCE   PMID:11687826
+  AUTHORS   Yu TW, Bargmann CI.
+  TITLE     Dynamic regulation of axon guidance.
+  JOURNAL   Nat Neurosci 4 Suppl:1169-76 (2001)
+            DOI:10.1038/nn748
+REFERENCE   PMID:12471249
+  AUTHORS   Dickson BJ.
+  TITLE     Molecular mechanisms of axon guidance.
+  JOURNAL   Science 298:1959-64 (2002)
+            DOI:10.1126/science.1072165
+REFERENCE   PMID:15960985
+  AUTHORS   Barallobre MJ, Pascual M, Del Rio JA, Soriano E.
+  TITLE     The Netrin family of guidance factors: emphasis on Netrin-1 signalling.
+  JOURNAL   Brain Res Brain Res Rev 49:22-47 (2005)
+            DOI:10.1016/j.brainresrev.2004.11.003
+REFERENCE   PMID:15084255
+  AUTHORS   Sabatier C, Plump AS, Le Ma, Brose K, Tamada A, Murakami F, Lee EY, Tessier-Lavigne M.
+  TITLE     The divergent Robo family protein rig-1/Robo3 is a negative regulator of slit responsiveness required for midline crossing by commissural axons.
+  JOURNAL   Cell 117:157-69 (2004)
+            DOI:10.1016/S0092-8674(04)00303-4
+REFERENCE   PMID:25374504
+  AUTHORS   Fujita Y, Yamashita T
+  TITLE     Axon growth inhibition by RhoA/ROCK in the central nervous system.
+  JOURNAL   Front Neurosci 8:338 (2014)
+            DOI:10.3389/fnins.2014.00338
+REFERENCE   PMID:17169551
+  AUTHORS   Yamashita T, Mueller BK, Hata K
+  TITLE     Neogenin and repulsive guidance molecule signaling in the central nervous system.
+  JOURNAL   Curr Opin Neurobiol 17:29-34 (2007)
+            DOI:10.1016/j.conb.2006.12.001
+REFERENCE   PMID:26651291
+  AUTHORS   van Erp S, van den Heuvel DMA, Fujita Y, Robinson RA, Hellemons AJCGM, Adolfs Y, Van Battum EY, Blokhuis AM, Kuijpers M, Demmers JAA, Hedman H, Hoogenraad CC, Siebold C, Yamashita T, Pasterkamp RJ
+  TITLE     Lrig2 Negatively Regulates Ectodomain Shedding of Axon Guidance Receptors by ADAM Proteases.
+  JOURNAL   Dev Cell 35:537-552 (2015)
+            DOI:10.1016/j.devcel.2015.11.008
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04310  Wnt signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko04360
+///

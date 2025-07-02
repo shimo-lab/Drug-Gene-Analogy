@@ -1,0 +1,111 @@
+ENTRY       hsa00280                    Pathway
+NAME        Valine, leucine and isoleucine degradation - Homo sapiens (human)
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP hsa00280  Valine, leucine and isoleucine degradation
+MODULE      hsa_M00036  Leucine degradation, leucine => acetoacetate + acetyl-CoA [PATH:hsa00280]
+            hsa_M00741  Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA [PATH:hsa00280]
+NETWORK     nt06024  Valine, leucine and isoleucine degradation
+  ELEMENT   N00832  Branched-chain amino acids degradation
+            N00842  Propanoyl-CoA metabolism
+            N00851  Leucine degradation
+            N00852  Valine degradation
+            N00856  Isoleucine degradation
+DBLINKS     GO: 0006550 0006552 0006574
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        587  BCAT2; branched chain amino acid transaminase 2 [KO:K00826] [EC:2.6.1.42]
+            586  BCAT1; branched chain amino acid transaminase 1 [KO:K00826] [EC:2.6.1.42]
+            259307  IL4I1; interleukin 4 induced 1 [KO:K03334] [EC:1.4.3.2]
+            593  BCKDHA; branched chain keto acid dehydrogenase E1 subunit alpha [KO:K00166] [EC:1.2.4.4]
+            594  BCKDHB; branched chain keto acid dehydrogenase E1 subunit beta [KO:K00167] [EC:1.2.4.4]
+            1629  DBT; dihydrolipoamide branched chain transacylase E2 [KO:K09699] [EC:2.3.1.168]
+            1738  DLD; dihydrolipoamide dehydrogenase [KO:K00382] [EC:1.8.1.4]
+            35  ACADS; acyl-CoA dehydrogenase short chain [KO:K00248] [EC:1.3.8.1]
+            34  ACADM; acyl-CoA dehydrogenase medium chain [KO:K00249] [EC:1.3.8.7]
+            3712  IVD; isovaleryl-CoA dehydrogenase [KO:K00253] [EC:1.3.8.4]
+            36  ACADSB; acyl-CoA dehydrogenase short/branched chain [KO:K09478] [EC:1.3.8.5]
+            27034  ACAD8; acyl-CoA dehydrogenase family member 8 [KO:K11538] [EC:1.3.99.-]
+            3030  HADHA; hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [KO:K07515] [EC:4.2.1.17 1.1.1.211]
+            1962  EHHADH; enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [KO:K07514] [EC:4.2.1.17 1.1.1.35 5.3.3.8]
+            1892  ECHS1; enoyl-CoA hydratase, short chain 1 [KO:K07511] [EC:4.2.1.17]
+            3033  HADH; hydroxyacyl-CoA dehydrogenase [KO:K00022] [EC:1.1.1.35]
+            3028  HSD17B10; hydroxysteroid 17-beta dehydrogenase 10 [KO:K08683] [EC:1.1.1.35 1.1.1.178]
+            30  ACAA1; acetyl-CoA acyltransferase 1 [KO:K07513] [EC:2.3.1.16]
+            10449  ACAA2; acetyl-CoA acyltransferase 2 [KO:K07508] [EC:2.3.1.16]
+            3032  HADHB; hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit beta [KO:K07509] [EC:2.3.1.16]
+            5095  PCCA; propionyl-CoA carboxylase subunit alpha [KO:K01965] [EC:6.4.1.3]
+            5096  PCCB; propionyl-CoA carboxylase subunit beta [KO:K01966] [EC:6.4.1.3 2.1.3.15]
+            84693  MCEE; methylmalonyl-CoA epimerase [KO:K05606] [EC:5.1.99.1]
+            4594  MMUT; methylmalonyl-CoA mutase [KO:K01847] [EC:5.4.99.2]
+            26275  HIBCH; 3-hydroxyisobutyryl-CoA hydrolase [KO:K05605] [EC:3.1.2.4]
+            11112  HIBADH; 3-hydroxyisobutyrate dehydrogenase [KO:K00020] [EC:1.1.1.31]
+            4329  ALDH6A1; aldehyde dehydrogenase 6 family member A1 [KO:K00140] [EC:1.2.1.18 1.2.1.27]
+            217  ALDH2; aldehyde dehydrogenase 2 family member [KO:K00128] [EC:1.2.1.3]
+            224  ALDH3A2; aldehyde dehydrogenase 3 family member A2 [KO:K00128] [EC:1.2.1.3]
+            219  ALDH1B1; aldehyde dehydrogenase 1 family member B1 [KO:K00128] [EC:1.2.1.3]
+            501  ALDH7A1; aldehyde dehydrogenase 7 family member A1 [KO:K14085] [EC:1.2.1.31 1.2.1.8 1.2.1.3]
+            223  ALDH9A1; aldehyde dehydrogenase 9 family member A1 [KO:K00149] [EC:1.2.1.47 1.2.1.3]
+            316  AOX1; aldehyde oxidase 1 [KO:K00157] [EC:1.2.3.1]
+            197322  ACSF3; acyl-CoA synthetase family member 3 [KO:K18660] [EC:6.2.1.76 6.2.1.-]
+            18  ABAT; 4-aminobutyrate aminotransferase [KO:K13524] [EC:2.6.1.19 2.6.1.22]
+            64902  AGXT2; alanine--glyoxylate aminotransferase 2 [KO:K00827] [EC:2.6.1.44 2.6.1.40]
+            56922  MCCC1; methylcrotonyl-CoA carboxylase subunit 1 [KO:K01968] [EC:6.4.1.4]
+            64087  MCCC2; methylcrotonyl-CoA carboxylase subunit 2 [KO:K01969] [EC:6.4.1.4]
+            549  AUH; AU RNA binding methylglutaconyl-CoA hydratase [KO:K05607] [EC:4.2.1.18]
+            3155  HMGCL; 3-hydroxy-3-methylglutaryl-CoA lyase [KO:K01640] [EC:4.1.3.4]
+            54511  HMGCLL1; 3-hydroxymethyl-3-methylglutaryl-CoA lyase like 1 [KO:K01640] [EC:4.1.3.4]
+            5019  OXCT1; 3-oxoacid CoA-transferase 1 [KO:K01027] [EC:2.8.3.5]
+            64064  OXCT2; 3-oxoacid CoA-transferase 2 [KO:K01027] [EC:2.8.3.5]
+            65985  AACS; acetoacetyl-CoA synthetase [KO:K01907] [EC:6.2.1.16]
+            39  ACAT2; acetyl-CoA acetyltransferase 2 [KO:K00626] [EC:2.3.1.9]
+            38  ACAT1; acetyl-CoA acetyltransferase 1 [KO:K00626] [EC:2.3.1.9]
+            3157  HMGCS1; 3-hydroxy-3-methylglutaryl-CoA synthase 1 [KO:K01641] [EC:2.3.3.10]
+            3158  HMGCS2; 3-hydroxy-3-methylglutaryl-CoA synthase 2 [KO:K01641] [EC:2.3.3.10]
+COMPOUND    C00024  Acetyl-CoA
+            C00068  Thiamin diphosphate
+            C00091  Succinyl-CoA
+            C00100  Propanoyl-CoA
+            C00123  L-Leucine
+            C00141  3-Methyl-2-oxobutanoic acid
+            C00164  Acetoacetate
+            C00183  L-Valine
+            C00233  4-Methyl-2-oxopentanoate
+            C00332  Acetoacetyl-CoA
+            C00349  2-Methyl-3-oxopropanoate
+            C00356  (S)-3-Hydroxy-3-methylglutaryl-CoA
+            C00407  L-Isoleucine
+            C00630  2-Methylpropanoyl-CoA
+            C00671  (S)-3-Methyl-2-oxopentanoic acid
+            C00683  (S)-Methylmalonyl-CoA
+            C01205  (R)-3-Amino-2-methylpropanoate
+            C01213  (R)-Methylmalonyl-CoA
+            C02170  Methylmalonate
+            C02939  3-Methylbutanoyl-CoA
+            C03069  3-Methylcrotonyl-CoA
+            C03231  3-Methylglutaconyl-CoA
+            C03284  L-3-Aminoisobutanoate
+            C03344  2-Methylacetoacetyl-CoA
+            C03345  2-Methylbut-2-enoyl-CoA
+            C03460  2-Methylprop-2-enoyl-CoA
+            C04405  (2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA
+            C05996  Branched chain fatty acid
+            C05998  3-Hydroxyisovaleryl-CoA
+            C06000  (S)-3-Hydroxyisobutyryl-CoA
+            C06001  (S)-3-Hydroxyisobutyrate
+            C06002  (S)-Methylmalonate semialdehyde
+            C15972  Enzyme N6-(lipoyl)lysine
+            C15973  Enzyme N6-(dihydrolipoyl)lysine
+            C15974  3-Methyl-1-hydroxybutyl-ThPP
+            C15975  [Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine
+            C15976  2-Methyl-1-hydroxypropyl-ThPP
+            C15977  [Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine
+            C15978  2-Methyl-1-hydroxybutyl-ThPP
+            C15979  [Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine
+            C15980  (S)-2-Methylbutanoyl-CoA
+            C20827  3-Hydroxyisovalerate
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa00240  Pyrimidine metabolism
+            hsa00290  Valine, leucine and isoleucine biosynthesis
+            hsa00640  Propanoate metabolism
+            hsa00900  Terpenoid backbone biosynthesis
+KO_PATHWAY  ko00280
+///

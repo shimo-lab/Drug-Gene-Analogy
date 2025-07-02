@@ -1,0 +1,21 @@
+ENTRY       hsa01212                    Pathway
+NAME        Fatty acid metabolism - Homo sapiens (human)
+PATHWAY_MAP hsa01212  Fatty acid metabolism
+MODULE      hsa_M00082  Fatty acid biosynthesis, initiation [PATH:hsa01212]
+            hsa_M00083  Fatty acid biosynthesis, elongation [PATH:hsa01212]
+            hsa_M00085  Fatty acid elongation in mitochondria [PATH:hsa01212]
+            hsa_M00086  beta-Oxidation, acyl-CoA synthesis [PATH:hsa01212]
+            hsa_M00087  beta-Oxidation [PATH:hsa01212]
+            hsa_M00415  Fatty acid elongation in endoplasmic reticulum [PATH:hsa01212]
+            hsa_M00861  beta-Oxidation, peroxisome, VLCFA [PATH:hsa01212]
+            hsa_M00873  Fatty acid biosynthesis in mitochondria, animals [PATH:hsa01212]
+DRUG        D05292  Oxfenicine (USAN/INN)
+            D11186  Olumacostat glasaretil (USAN/INN)
+            D11640  Firsocostat (USAN/INN)
+            D11902  Clesacostat (USAN)
+            D11903  Clesacostat tromethamine (USAN)
+            D12391  Denifanstat (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+KO_PATHWAY  ko01212
+///

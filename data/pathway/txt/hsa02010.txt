@@ -1,0 +1,303 @@
+ENTRY       hsa02010                    Pathway
+NAME        ABC transporters - Homo sapiens (human)
+DESCRIPTION The ATP-binding cassette (ABC) transporters form one of the largest known protein families, and are widespread in bacteria, archaea, and eukaryotes. They couple ATP hydrolysis to active transport of a wide variety of substrates such as ions, sugars, lipids, sterols, peptides, proteins, and drugs. The structure of a prokaryotic ABC transporter usually consists of three components; typically two integral membrane proteins each having six transmembrane segments, two peripheral proteins that bind and hydrolyze ATP, and a periplasmic (or lipoprotein) substrate-binding protein. Many of the genes for the three components form operons as in fact observed in many bacterial and archaeal genomes. On the other hand, in a typical eukaryotic ABC transporter, the membrane spanning protein and the ATP-binding protein are fused, forming a multi-domain protein with the membrane-spanning domain (MSD) and the nucleotide-binding domain (NBD).
+CLASS       Environmental Information Processing; Membrane transport
+PATHWAY_MAP hsa02010  ABC transporters
+DRUG        D00219  Acetohexamide (JP18/USP/INN)
+            D00271  Chlorpropamide (JP18/USP/INN)
+            D00335  Glipizide (USP/INN)
+            D00336  Glyburide (USP)
+            D00379  Tolazamide (JAN/USP/INN)
+            D00380  Tolbutamide (JP18/USP/INN)
+            D00418  Minoxidil (JAN/USP/INN)
+            D00593  Glimepiride (JP18/USP/INN)
+            D00594  Repaglinide (JAN/USP/INN)
+            D01111  Nateglinide (JP18/USP/INN)
+            D01356  Glymidine sodium (JAN/USAN/INN)
+            D01599  Gliclazide (JP18/INN)
+            D01799  Glyclopyramide (JAN/INN)
+            D01810  Nicorandil (JP18/USAN/INN)
+            D01854  Mitiglinide calcium hydrate (JP18)
+            D02385  Levcromakalim (USAN/INN)
+            D02425  Carbutamide (INN)
+            D02427  Glibornuride (USAN/INN)
+            D02430  Gliquidone (INN)
+            D03128  Biricodar dicitrate (USAN)
+            D03968  Elacridar hydrochloride (USAN)
+            D04739  Linogliride (USAN/INN)
+            D04740  Linogliride fumarate (USAN)
+            D05114  Naminidil (USAN/INN)
+            D05482  Pinacidil (USAN)
+            D06008  Tariquidar (USAN/INN)
+            D06084  Tesmilifene hydrochloride (USAN)
+            D06177  Tolbutamide sodium, sterile
+            D06277  Valspodar (USAN/INN)
+            D06387  Zosuquidar trihydrochloride (USAN)
+            D07117  Metahexamide (INN)
+            D07118  Glisoxepide (INN)
+            D10134  Lumacaftor (USAN)
+            D10685  Lumacaftor and ivacaftor
+            D11041  Tezacaftor (USAN/INN)
+            D11042  Tezacaftor and ivacaftor
+            D11402  Olacaftor (USAN)
+            D11423  Deutivacaftor (USAN/INN)
+            D11507  Elexacaftor (USAN)
+            D11535  Bamocaftor (USAN)
+            D11536  Bamocaftor potassium (USAN)
+            D11683  Posenacaftor (USAN)
+            D11700  Elexacaftor, ivacaftor and tezacaftor
+            D11724  Galicaftor (USAN/INN)
+            D11782  Encequidar (USAN/INN)
+            D11783  Encequidar mesylate (USAN)
+            D12140  Navocaftor (USAN/INN)
+            D12150  Elivaldogene autotemcel (USAN/INN)
+            D12454  Icenticaftor (USAN/INN)
+DBLINKS     GO: 0043190 0043191 0043192
+            TC: 3.A.1
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1672  DEFB1; defensin beta 1 [KO:K23125]
+            19  ABCA1; ATP binding cassette subfamily A member 1 [KO:K05641]
+            20  ABCA2; ATP binding cassette subfamily A member 2 [KO:K05642]
+            21  ABCA3; ATP binding cassette subfamily A member 3 [KO:K05643]
+            24  ABCA4; ATP binding cassette subfamily A member 4 [KO:K05644]
+            10347  ABCA7; ATP binding cassette subfamily A member 7 [KO:K05645]
+            26154  ABCA12; ATP binding cassette subfamily A member 12 [KO:K05646]
+            154664  ABCA13; ATP binding cassette subfamily A member 13 [KO:K05647]
+            23461  ABCA5; ATP binding cassette subfamily A member 5 [KO:K05648]
+            23460  ABCA6; ATP binding cassette subfamily A member 6 [KO:K05649]
+            10351  ABCA8; ATP binding cassette subfamily A member 8 [KO:K05650]
+            10350  ABCA9; ATP binding cassette subfamily A member 9 [KO:K05651]
+            10349  ABCA10; ATP binding cassette subfamily A member 10 [KO:K05652]
+            6890  TAP1; transporter 1, ATP binding cassette subfamily B member [KO:K05653] [EC:7.4.2.14]
+            6891  TAP2; transporter 2, ATP binding cassette subfamily B member [KO:K05654] [EC:7.4.2.14]
+            11194  ABCB8; ATP binding cassette subfamily B member 8 [KO:K05655]
+            23457  ABCB9; ATP binding cassette subfamily B member 9 [KO:K05656]
+            23456  ABCB10; ATP binding cassette subfamily B member 10 [KO:K05657]
+            5243  ABCB1; ATP binding cassette subfamily B member 1 [KO:K05658] [EC:7.6.2.2]
+            5244  ABCB4; ATP binding cassette subfamily B member 4 [KO:K05659] [EC:7.6.2.2]
+            340273  ABCB5; ATP binding cassette subfamily B member 5 [KO:K05660]
+            10058  ABCB6; ATP binding cassette subfamily B member 6 (Langereis blood group) [KO:K05661]
+            22  ABCB7; ATP binding cassette subfamily B member 7 [KO:K05662]
+            8647  ABCB11; ATP binding cassette subfamily B member 11 [KO:K05664]
+            4363  ABCC1; ATP binding cassette subfamily C member 1 [KO:K05665] [EC:7.6.2.3]
+            1244  ABCC2; ATP binding cassette subfamily C member 2 [KO:K05666]
+            8714  ABCC3; ATP binding cassette subfamily C member 3 [KO:K05667]
+            10257  ABCC4; ATP binding cassette subfamily C member 4 [KO:K05673]
+            10057  ABCC5; ATP binding cassette subfamily C member 5 [KO:K05668]
+            368  ABCC6; ATP binding cassette subfamily C member 6 [KO:K05669]
+            89845  ABCC10; ATP binding cassette subfamily C member 10 [KO:K05674]
+            85320  ABCC11; ATP binding cassette subfamily C member 11 [KO:K05671]
+            94160  ABCC12; ATP binding cassette subfamily C member 12 [KO:K05672]
+            1080  CFTR; CF transmembrane conductance regulator [KO:K05031] [EC:5.6.1.6]
+            6833  ABCC8; ATP binding cassette subfamily C member 8 [KO:K05032]
+            10060  ABCC9; ATP binding cassette subfamily C member 9 [KO:K05033]
+            215  ABCD1; ATP binding cassette subfamily D member 1 [KO:K05675] [EC:7.6.2.4]
+            225  ABCD2; ATP binding cassette subfamily D member 2 [KO:K05676] [EC:7.6.2.4]
+            5825  ABCD3; ATP binding cassette subfamily D member 3 [KO:K05677] [EC:7.6.2.4]
+            5826  ABCD4; ATP binding cassette subfamily D member 4 [KO:K05678] [EC:7.6.2.8]
+            9619  ABCG1; ATP binding cassette subfamily G member 1 [KO:K05679]
+            64137  ABCG4; ATP binding cassette subfamily G member 4 [KO:K05680]
+            9429  ABCG2; ATP binding cassette subfamily G member 2 (Junior blood group) [KO:K05681]
+            64240  ABCG5; ATP binding cassette subfamily G member 5 [KO:K05683]
+            64241  ABCG8; ATP binding cassette subfamily G member 8 [KO:K05684]
+COMPOUND    C00009  Orthophosphate
+            C00025  L-Glutamate
+            C00031  D-Glucose
+            C00032  Heme
+            C00034  Manganese
+            C00037  Glycine
+            C00038  Zinc cation
+            C00041  L-Alanine
+            C00047  L-Lysine
+            C00049  L-Aspartate
+            C00051  Glutathione
+            C00059  Sulfate
+            C00062  L-Arginine
+            C00064  L-Glutamine
+            C00065  L-Serine
+            C00070  Copper
+            C00077  L-Ornithine
+            C00079  L-Phenylalanine
+            C00086  Urea
+            C00088  Nitrite
+            C00089  Sucrose
+            C00093  sn-Glycerol 3-phosphate
+            C00095  D-Fructose
+            C00098  Oligopeptide
+            C00107  Dipeptide
+            C00114  Choline
+            C00116  Glycerol
+            C00120  Biotin
+            C00121  D-Ribose
+            C00123  L-Leucine
+            C00134  Putrescine
+            C00135  L-Histidine
+            C00137  myo-Inositol
+            C00140  N-Acetyl-D-glucosamine
+            C00148  L-Proline
+            C00151  L-Amino acid
+            C00159  D-Mannose
+            C00175  Cobalt ion
+            C00181  D-Xylose
+            C00183  L-Valine
+            C00185  Cellobiose
+            C00188  L-Threonine
+            C00208  Maltose
+            C00212  Adenosine
+            C00243  Lactose
+            C00244  Nitrate
+            C00245  Taurine
+            C00255  Riboflavin
+            C00259  L-Arabinose
+            C00288  HCO3-
+            C00291  Nickel
+            C00294  Inosine
+            C00299  Uridine
+            C00315  Spermidine
+            C00320  Thiosulfate
+            C00330  Deoxyguanosine
+            C00333  D-Galacturonate
+            C00338  Lipopolysaccharide
+            C00378  Thiamine
+            C00379  Xylitol
+            C00387  Guanosine
+            C00392  Mannitol
+            C00407  L-Isoleucine
+            C00430  5-Aminolevulinate
+            C00470  Pectate
+            C00475  Cytidine
+            C00487  Carnitine
+            C00491  L-Cystine
+            C00492  Raffinose
+            C00503  Erythritol
+            C00526  Deoxyuridine
+            C00559  Deoxyadenosine
+            C00719  Betaine
+            C00794  D-Sorbitol
+            C00855  D-Methionine
+            C00865  Phospholipid
+            C00881  Deoxycytidine
+            C00919  Choline sulfate
+            C00973  Cyclomaltodextrin
+            C01083  alpha,alpha-Trehalose
+            C01153  Orthophosphoric monoester
+            C01157  Hydroxyproline
+            C01177  Inositol 1-phosphate
+            C01181  4-Trimethylammoniobutanoate
+            C01279  4-Amino-5-hydroxymethyl-2-methylpyrimidine
+            C01330  Sodium cation
+            C01417  Cyanate
+            C01487  D-Allose
+            C01606  Phthalate
+            C01630  Xylobiose
+            C01667  Bacitracin
+            C01674  Chitobiose
+            C01682  Nopaline
+            C01684  D-Rhamnose
+            C01762  Xanthosine
+            C01834  Lipoprotein
+            C01835  Maltotriose
+            C01935  Maltodextrin
+            C01946  Oleandomycin
+            C02160  Isomaltotriose
+            C02273  Digalacturonate
+            C03557  2-Aminoethylphosphonate
+            C03611  Galactose oligosaccharide
+            C03619  Methyl beta-D-galactoside
+            C04114  (E)-4-(Trimethylammonio)but-2-enoate
+            C04137  Octopine
+            C05349  Ciprofloxacin
+            C05402  Melibiose
+            C05512  Deoxyinosine
+            C05776  Vitamin B12
+            C06227  Fe(III)hydroxamate
+            C06229  Fe(III)dicitrate
+            C06230  Fe-enterobactin
+            C06232  Molybdate
+            C06687  Norfloxacin
+            C06705  Capsular polysaccharide
+            C06706  Lipo-oligosaccharide
+            C06707  Teichoic acid
+            C06767  Hemine
+            C07662  Sparfloxacin
+            C07663  Moxifloxacin
+            C11612  Polymyxin B
+            C13768  Colistin sulfate
+            C14818  Fe2+
+            C14819  Fe3+
+            C15521  Alkanesulfonate
+            C15719  Coelichelin
+            C16421  AI-2
+            C16692  Mannopine
+            C19609  Nickel(2+)
+            C19872  N-Formyl-4-amino-5-aminomethyl-2-methylpyrimidine
+            C20570  alpha-1,5-L-Arabinobiose
+            C20571  alpha-1,5-L-Arabinotriose
+            C20572  alpha-1,5-L-Arabinotetraose
+            C20573  Aldotetraouronic acid
+            C20679  Tungstate
+            C21066  D-Galactofuranose
+            C22040  S-Methyl-L-cysteine
+            G00457  Maltotetraose
+REFERENCE   PMID:9799792
+  AUTHORS   Tomii K, Kanehisa M.
+  TITLE     A comparative analysis of ABC transporters in complete microbial genomes.
+  JOURNAL   Genome Res 8:1048-59 (1998)
+            DOI:10.1101/gr.8.10.1048
+REFERENCE   PMID:18424520
+  AUTHORS   Sperandeo P, Lau FK, Carpentieri A, De Castro C, Molinaro A, Deho G, Silhavy TJ, Polissi A
+  TITLE     Functional analysis of the protein machinery required for transport of lipopolysaccharide to the outer membrane of Escherichia coli.
+  JOURNAL   J Bacteriol 190:4460-9 (2008)
+            DOI:10.1128/JB.00270-08
+REFERENCE   PMID:18375759
+  AUTHORS   Ruiz N, Gronenberg LS, Kahne D, Silhavy TJ
+  TITLE     Identification of two inner-membrane proteins required for the transport of lipopolysaccharide to the outer membrane of Escherichia coli.
+  JOURNAL   Proc Natl Acad Sci U S A 105:5537-42 (2008)
+            DOI:10.1073/pnas.0801196105
+REFERENCE   PMID:10557362
+  AUTHORS   Omata T, Price GD, Badger MR, Okamura M, Gohta S, Ogawa T
+  TITLE     Identification of an ATP-binding cassette transporter involved in bicarbonate uptake in the cyanobacterium Synechococcus sp. strain PCC 7942.
+  JOURNAL   Proc Natl Acad Sci U S A 96:13571-6 (1999)
+            DOI:10.1073/pnas.96.23.13571
+REFERENCE   PMID:11731493
+  AUTHORS   Quintero MJ, Montesinos ML, Herrero A, Flores E
+  TITLE     Identification of genes encoding amino acid permeases by inactivation of selected ORFs from the Synechocystis genomic sequence.
+  JOURNAL   Genome Res 11:2034-40 (2001)
+            DOI:10.1101/gr.196301
+REFERENCE   PMID:16135226
+  AUTHORS   Picossi S, Montesinos ML, Pernil R, Lichtle C, Herrero A, Flores E
+  TITLE     ABC-type neutral amino acid permease N-I is required for optimal diazotrophic growth and is repressed in the heterocysts of Anabaena sp. strain PCC 7120.
+  JOURNAL   Mol Microbiol 57:1582-92 (2005)
+            DOI:10.1111/j.1365-2958.2005.04791.x
+REFERENCE   PMID:11929526
+  AUTHORS   Valladares A, Montesinos ML, Herrero A, Flores E.
+  TITLE     An ABC-type, high-affinity urea permease identified in cyanobacteria.
+  JOURNAL   Mol Microbiol 43:703-15 (2002)
+            DOI:10.1046/j.1365-2958.2002.02778.x
+REFERENCE   PMID:18326572
+  AUTHORS   Richard-Fogal CL, Frawley ER, Kranz RG
+  TITLE     Topology and function of CcmD in cytochrome c maturation.
+  JOURNAL   J Bacteriol 190:3489-93 (2008)
+            DOI:10.1128/JB.00146-08
+REFERENCE   PMID:16109926
+  AUTHORS   Suzuki H, Koyanagi T, Izuka S, Onishi A, Kumagai H
+  TITLE     The yliA, -B, -C, and -D genes of Escherichia coli K-12 encode a novel glutathione importer with an ATP-binding cassette.
+  JOURNAL   J Bacteriol 187:5861-7 (2005)
+            DOI:10.1128/JB.187.17.5861-5867.2005
+REFERENCE   PMID:17873039
+  AUTHORS   Novikova M, Metlitskaya A, Datsenko K, Kazakov T, Kazakov A, Wanner B, Severinov K
+  TITLE     The Escherichia coli Yej transporter is required for the uptake of translation inhibitor microcin C.
+  JOURNAL   J Bacteriol 189:8361-5 (2007)
+            DOI:10.1128/JB.01028-07
+REFERENCE   PMID:17214741
+  AUTHORS   Tikhonova EB, Devroy VK, Lau SY, Zgurskaya HI
+  TITLE     Reconstitution of the Escherichia coli macrolide transporter: the periplasmic membrane fusion protein MacA stimulates the ATPase activity of MacB.
+  JOURNAL   Mol Microbiol 63:895-910 (2007)
+            DOI:10.1111/j.1365-2958.2006.05549.x
+REFERENCE   PMID:18805970
+  AUTHORS   Yamanaka H, Kobayashi H, Takahashi E, Okamoto K
+  TITLE     MacAB is involved in the secretion of Escherichia coli heat-stable enterotoxin II.
+  JOURNAL   J Bacteriol 190:7693-8 (2008)
+            DOI:10.1128/JB.00853-08
+KO_PATHWAY  ko02010
+///

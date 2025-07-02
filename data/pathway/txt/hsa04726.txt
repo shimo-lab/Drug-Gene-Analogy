@@ -1,0 +1,591 @@
+ENTRY       hsa04726                    Pathway
+NAME        Serotonergic synapse - Homo sapiens (human)
+DESCRIPTION Serotonin (5-Hydroxytryptamine, 5-HT) is a monoamine neurotransmitter that plays important roles in physiological functions such as learning and memory, emotion, sleep, pain, motor function and endocrine secretion, as well as in pathological states including abnormal mood and cognition. Once released from presynaptic axonal terminals, 5-HT binds to receptors, which have been divided into 7 subfamilies on the basis of conserved structures and signaling mechanisms. These families include the ionotropic 5-HT3 receptors and G-protein-coupled 5-HT receptors, the 5-HT1 (Gi /Go -coupled), 5-HT2(Gq-coupled), 5-HT4/6/7 (Gs-coupled) and 5-HT5 receptors. Presynaptically localized 5-HT1B receptors are thought to be the autoreceptors that suppress excess 5-HT release. 5-HT's actions are terminated by transporter- mediated reuptake into neurons, leading to catabolism by monoamine oxidase.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP hsa04726  Serotonergic synapse
+DRUG        D00110  Cocaine (USP)
+            D00197  Reserpine (JP18/USP/INN)
+            D00228  Amoxapine (JP18/USP/INN)
+            D00270  Chlorpromazine (USP/INN)
+            D00274  Cisapride (USP/INN)
+            D00283  Clozapine (JAN/USP/INN)
+            D00326  Fluoxetine (USAN/INN)
+            D00367  Mazindol (JAN/USP/INN)
+            D00394  Trimipramine (USAN/INN)
+            D00415  Zolmitriptan (JAN/USP/INN)
+            D00426  Risperidone (JP18/USP/INN)
+            D00451  Sumatriptan (JAN/USP/INN)
+            D00454  Olanzapine (JAN/USP/INN)
+            D00456  Ondansetron (JAN/USP/INN)
+            D00458  Quetiapine fumarate (JP18/USP)
+            D00484  Protriptyline hydrochloride (USP)
+            D00505  Phenelzine sulfate (USP)
+            D00558  Carbidopa (USP)
+            D00561  Sertindole (USAN/INN)
+            D00563  Mirtazapine (JAN/USP/INN)
+            D00674  Naratriptan hydrochloride (JAN/USP)
+            D00675  Rizatriptan benzoate (JAN/USP)
+            D00676  Sumatriptan succinate (JAN/USP)
+            D00677  Granisetron hydrochloride (JAN/USP)
+            D00678  Ondansetron hydrochloride hydrate (JAN/USP)
+            D00681  Methysergide maleate (USP)
+            D00702  Buspirone hydrochloride (USP)
+            D00725  Dolasetron mesylate (USP)
+            D00730  Butamben (USP)
+            D00785  Selegiline hydrochloride (JAN/USP)
+            D00789  Chlorpromazine hydrochloride (JP18/USP)
+            D00794  Loxapine succinate (USP)
+            D00795  Mesoridazine besylate (USP)
+            D00809  Amitriptyline hydrochloride (JP18/USP)
+            D00811  Clomipramine hydrochloride (JP18/USP)
+            D00812  Desipramine hydrochloride (JAN/USP)
+            D00814  Doxepin hydrochloride (USP)
+            D00815  Imipramine hydrochloride (JP18/USP)
+            D00816  Nortriptyline hydrochloride (JP18/USP/INN)
+            D00819  Nefazodone hydrochloride (USP)
+            D00820  Trazodone hydrochloride (JAN/USP)
+            D00821  Venlafaxine hydrochloride (JAN/USP)
+            D00822  Citalopram hydrobromide (USP)
+            D00823  Fluoxetine hydrochloride (JAN/USP)
+            D00824  Fluvoxamine maleate (JP18/USP)
+            D00825  Sertraline hydrochloride (JAN/USP)
+            D00826  Tranylcypromine sulfate (USP)
+            D01097  Lazabemide hydrochloride (JAN/USAN)
+            D01107  Milnacipran hydrochloride (JAN/USAN)
+            D01164  Aripiprazole (JAN/USP/INN)
+            D01176  Blonanserin (JAN/INN)
+            D01179  Duloxetine hydrochloride (JAN/USP)
+            D01285  Lofepramine hydrochloride (JAN/USAN)
+            D01321  Zotepine (JAN/INN)
+            D01358  Mianserin hydrochloride (JAN/USAN)
+            D01477  Opipramol hydrochloride (JAN/USAN)
+            D01485  Propericiazine (JAN)
+            D01537  Xaliproden hydrochloride (JAN)
+            D01546  Dothiepin hydrochloride (USAN)
+            D01613  Azasetron hydrochloride (JAN)
+            D01624  Sarpogrelate hydrochloride (JP18)
+            D01653  Benserazide hydrochloride (JP18)
+            D01838  Fabesetron hydrochloride (JAN)
+            D01888  Safrazine hydrochloride (JAN)
+            D01939  Ziprasidone hydrochloride (USP)
+            D01973  Eletriptan hydrobromide (JAN/USAN)
+            D01992  Tandospirone citrate (JAN/USAN)
+            D01994  Mosapride citrate hydrate (JP18)
+            D02016  Ramosetron hydrochloride (JAN)
+            D02041  Tropisetron hydrochloride (JAN)
+            D02092  Cisapride (JAN)
+            D02100  Ziprasidone mesylate (USAN)
+            D02130  Tropisetron (INN)
+            D02170  Indeloxazine hydrochloride (JAN/USAN)
+            D02182  Cocaine hydrochloride (JP18/USP)
+            D02211  Dihydroergotamine mesylate (USP)
+            D02234  Cyproheptadine hydrochloride (JP18/USP)
+            D02242  Methamphetamine hydrochloride (JP18/USP)
+            D02260  Paroxetine hydrochloride hemihydrate (USP)
+            D02290  Flurbiprofen sodium (USP)
+            D02340  Loxapine (USAN/INN)
+            D02357  Methysergide (USAN/INN)
+            D02360  Sertraline (INN)
+            D02362  Paroxetine (USP/INN)
+            D02363  Ketanserin (USAN/INN)
+            D02408  Trimipramine maleate (JAN/USP)
+            D02559  Toloxatone (INN)
+            D02560  Brofaromine (INN)
+            D02561  Moclobemide (USAN/INN)
+            D02562  Rasagiline mesylate (USAN)
+            D02563  Befloxatone (INN)
+            D02564  Pargyline hydrochloride (USAN)
+            D02567  Escitalopram oxalate (JAN/USP)
+            D02568  Flesinoxan (INN)
+            D02569  Sunepitron hydrochloride (USAN)
+            D02570  Desvenlafaxine succinate (USAN)
+            D02571  Sibutramine hydrochloride (USP)
+            D02576  Eptapirone (INN)
+            D02577  Flibanserin (USAN/INN)
+            D02578  Agomelatine (INN)
+            D02579  Iproniazid (INN)
+            D02580  Isocarboxazid (INN)
+            D02581  Cimoxatone (INN)
+            D02632  Indisetron hydrochloride (JAN)
+            D02656  Fananserin (USAN/INN)
+            D02666  Iloperidone (USAN/INN)
+            D02671  Mesoridazine (USAN/INN)
+            D02675  Ocaperidone (USAN)
+            D02680  Pipotiazine palmitate (USAN)
+            D02686  Setoperone (USAN/INN)
+            D02688  Tiospirone hydrochloride (USAN)
+            D02730  Tegaserod maleate (USAN)
+            D02767  Adatanserin hydrochloride (USAN)
+            D02787  Alaproclate (USAN/INN)
+            D02824  Almotriptan (USAN)
+            D02825  Almotriptan malate (USP)
+            D02826  Alniditan dihydrochloride (USAN)
+            D02829  Alosetron hydrochloride (USAN)
+            D02833  Alpidem (USAN/INN)
+            D02836  Altanserin tartrate (USAN)
+            D02893  Amesergide (USAN/INN)
+            D02995  Asenapine maleate (JAN/USAN)
+            D03005  Atiprosin maleate (USAN)
+            D03014  Avitriptan fumarate (USAN)
+            D03060  Batanopride hydrochloride (USAN)
+            D03073  Bemesetron (USAN/INN)
+            D03082  Benserazide (USAN/INN)
+            D03239  Ladostigil tartrate (USAN)
+            D03248  Clorgiline (INN)
+            D03274  Chlorpromazine hibenzate (JAN)
+            D03409  Caroxazone (USAN/INN)
+            D03491  Cidoxepin hydrochloride (USAN)
+            D03495  Cilansetron (USAN/INN)
+            D03496  Cilansetron hydrochloride (USAN)
+            D03649  Dapoxetine hydrochloride (USAN)
+            D03662  Dazopride fumarate (USAN)
+            D03713  Dexfenfluramine hydrochloride (USAN)
+            D03721  Dexmethylphenidate hydrochloride (USAN)
+            D03731  Selegiline (USAN/INN)
+            D03733  Mofegiline hydrochloride (USAN)
+            D03740  Dextroamphetamine (USAN)
+            D03982  Elzasonan citrate (USAN)
+            D03983  Elzasonan hydrochloride (USAN)
+            D04034  Chlorpromazine phenolphthalinate (JAN)
+            D04055  Esmirtazapine maleate (USAN)
+            D04092  Etryptamine acetate (USAN)
+            D04148  Fenfluramine hydrochloride (JAN/USAN)
+            D04264  Frovatriptan succinate (USAN)
+            D04294  Galdansetron hydrochloride (USAN)
+            D04314  Gepirone hydrochloride (USAN)
+            D04320  Glemanserin (USAN/INN)
+            D04370  Granisetron (JAN/USAN/INN)
+            D04533  Indorenate hydrochloride (USAN)
+            D04611  Ipsapirone hydrochloride (USAN)
+            D04642  Itasetron (USAN/INN)
+            D04681  Lazabemide (USAN/INN)
+            D04683  Lecozotan hydrochloride (USAN)
+            D04788  Lubazodone hydrochloride (USAN)
+            D04820  Lurasidone hydrochloride (JAN/USAN)
+            D04821  Lurosetron mesylate (USAN)
+            D05015  Metrenperone (USAN/INN)
+            D05033  Milacemide hydrochloride (USAN)
+            D05039  Minaprine (USAN/INN)
+            D05040  Minaprine hydrochloride (USAN)
+            D05050  Mirisetron maleate (USAN)
+            D05339  Paliperidone (JAN/USP/INN)
+            D05340  Paliperidone palmitate (JAN/USAN)
+            D05343  Palonosetron hydrochloride (JAN/USP)
+            D05348  Pancopride (USAN/INN)
+            D05374  Paroxetine hydrochloride (USP)
+            D05375  Paroxetine mesylate (USAN)
+            D05395  Pelanserin hydrochloride (USAN)
+            D05458  Phentermine (USAN/INN)
+            D05459  Phentermine hydrochloride (USP)
+            D05471  Piboserod hydrochloride (USAN)
+            D05523  Pizotyline (USAN)
+            D05685  Quipazine maleate (USAN)
+            D05738  Ritanserin (USAN/INN)
+            D05740  Rizatriptan sulfate (USAN)
+            D05804  Sarizotan hydrochloride (USAN)
+            D05829  Sergolexole maleate (USAN)
+            D05941  Sulamserod hydrochloride (USAN)
+            D05980  Suritozole (USAN/INN)
+            D06056  Tegaserod (USAN/INN)
+            D06253  Tropanserin hydrochloride (USAN)
+            D06327  Xaliproden (USAN)
+            D06353  Zacopride hydrochloride (USAN)
+            D06354  Zalospirone hydrochloride (USAN)
+            D06358  Zatosetron maleate (USAN)
+            D06396  Renzapride (INN)
+            D06566  Bifeprunox (USAN/INN)
+            D06567  Bifeprunox mesylate (USAN)
+            D06613  Lorcaserin hydrochloride (USAN)
+            D06623  Olanzapine pamoate (USAN)
+            D06632  Pruvanserin (USAN/INN)
+            D06633  Pruvanserin hydrochloride (USAN)
+            D06660  Vabicaserin hydrochloride (USAN)
+            D07097  Isometheptene mucate (USP)
+            D07129  Alosetron (INN)
+            D07175  Palonosetron (INN)
+            D07307  Cyamemazine (INN)
+            D07316  Captodiame (BAN)
+            D07334  Imipraminoxide (INN)
+            D07337  Nialamide (INN)
+            D07338  Iproclozide (INN)
+            D07445  Amfetamine (INN)
+            D07448  Amitriptyline (INN)
+            D07449  Amitriptylinoxide (INN)
+            D07481  Azasetron (INN)
+            D07514  Benzfetamine (INN)
+            D07515  Benzfetamine hydrochloride
+            D07593  Buspirone (INN)
+            D07700  Cinitapride (INN)
+            D07701  Cinitapride tartrate
+            D07704  Citalopram (USP/INN)
+            D07705  Citalopram hydrochloride
+            D07727  Clomipramine (INN)
+            D07756  Cyamemazine tartrate
+            D07765  Cyproheptadine (INN)
+            D07791  Desipramine (INN)
+            D07793  Desvenlafaxine (INN)
+            D07805  Dexfenfluramine (INN)
+            D07806  Dexmethylphenidate (INN)
+            D07837  Dihydroergotamine (INN)
+            D07838  Dihydroergotamine tartrate
+            D07867  Dolasetron (INN)
+            D07872  Dosulepin (INN)
+            D07875  Doxepin (INN)
+            D07880  Duloxetine (INN)
+            D07887  Eletriptan (INN)
+            D07913  Escitalopram (INN)
+            D07945  Fenfluramine (INN)
+            D07984  Fluvoxamine (INN)
+            D07997  Frovatriptan (INN)
+            D08070  Imipramine (INN)
+            D08071  Imipramine pamoate (USP)
+            D08072  Imipraminoxide hydrochloride
+            D08077  Indeloxazine (INN)
+            D08085  Iproniazid phosphate
+            D08099  Ketanserin tartrate
+            D08140  Lofepramine (INN)
+            D08148  Loxapine hydrochloride
+            D08187  Metamfetamine (INN)
+            D08216  Mianserin (INN)
+            D08222  Milnacipran (INN)
+            D08236  Mosapride (INN)
+            D08255  Naratriptan (INN)
+            D08257  Nefazodone (INN)
+            D08288  Nortriptyline (INN)
+            D08297  Opipramol (INN)
+            D08349  Phenelzine (BAN)
+            D08385  Pipotiazine (INN)
+            D08392  Pirlindole (INN)
+            D08393  Pirlindole hydrochloride
+            D08397  Pizotifen malate
+            D08447  Protriptyline (INN)
+            D08453  Pargyline (INN)
+            D08456  Quetiapine (INN)
+            D08466  Ramosetron (INN)
+            D08469  Rasagiline (USAN/INN)
+            D08485  Rizatriptan (INN)
+            D08508  Sarpogrelate (INN)
+            D08513  Sibutramine (INN)
+            D08561  Tandospirone (INN)
+            D08575  Tetrabenazine (JAN/INN)
+            D08625  Tranylcypromine (INN)
+            D08626  Trazodone (INN)
+            D08670  Venlafaxine (INN)
+            D08687  Ziprasidone (INN)
+            D08969  Pimavanserin tartrate (USAN)
+            D09205  Prucalopride (USAN/INN)
+            D09358  Naluzotan (USAN/INN)
+            D09359  Naluzotan hydrochloride (USAN)
+            D09366  Pardoprunox hydrochloride (USAN)
+            D09397  Pardoprunox (USAN/INN)
+            D09645  Nelotanserin (USAN/INN)
+            D09693  Velusetrag (USAN/INN)
+            D09694  Velusetrag hydrochloride (USAN)
+            D09698  Vilazodone (USAN/INN)
+            D09699  Vilazodone hydrochloride (USAN)
+            D09749  Itasetron hydrochloride hydrate (JAN)
+            D09819  Chlorpromazine tannate (JAN)
+            D09876  Cariprazine hydrochloride (JAN/USAN)
+            D09933  Naronapride (USAN/INN)
+            D09934  Naronapride dihydrochloride (USAN)
+            D09973  Telotristat (USAN/INN)
+            D09974  Telotristat ethyl (USAN)
+            D09975  Telotristat etiprate (USAN)
+            D09997  Cariprazine (USAN/INN)
+            D10006  Eplivanserin (USAN/INN)
+            D10072  Levomilnacipran (USAN/INN)
+            D10088  Amitifadine (USAN)
+            D10089  Amitifadine hydrochloride (USAN)
+            D10099  Cerlapirdine (USAN)
+            D10100  Cerlapirdine hydrochloride (USAN)
+            D10133  Levomilnacipran hydrochloride (USAN)
+            D10152  Prucalopride succinate (USAN)
+            D10158  Safinamide (USAN/INN)
+            D10170  Tedatioxetine (USAN)
+            D10171  Tedatioxetine hydrobromide (USAN)
+            D10184  Vortioxetine (USAN)
+            D10185  Vortioxetine hydrobromide (JAN/USAN)
+            D10191  Safinamide mesylate (USAN)
+            D10309  Brexpiprazole (JAN/USAN/INN)
+            D10338  Lasmiditan (USAN/INN)
+            D10355  Aripiprazole cavoxil (USAN)
+            D10364  Aripiprazole lauroxil (USAN)
+            D10424  Lasmiditan succinate (JAN/USAN)
+            D10443  Liafensine (USAN)
+            D10516  Aripiprazole hydrate (JAN)
+            D10675  Valbenazine (USAN/INN)
+            D10697  Centanafadine (USAN)
+            D10698  Centanafadine hydrochloride (USAN)
+            D10701  Deutetrabenazine (USAN/INN)
+            D10747  Idalopirdine hydrochloride (JAN)
+            D10829  Rasagiline tartrate
+            D10999  Valbenazine tosylate (USAN)
+            D11056  Mirtazapine hydrate (JAN)
+            D11169  Lumateperone (USAN/INN)
+            D11170  Lumateperone tosylate (USAN)
+            D11172  Midomafetamine (USAN/INN)
+            D11220  Relenopride (USAN/INN)
+            D11221  Relenopride hydrochloride (USAN)
+            D11224  Sembragiline (USAN/INN)
+            D11317  Rodatristat (USAN)
+            D11318  Rodatristat ethyl (USAN)
+            D11566  Lorcaserin hydrochloride hemihydrate
+            D11617  Eletriptan hydrobromide monohydrate
+            D11619  Desvenlafaxine succinate anhydrous
+            D11622  Amphetamine aspartate monohydrate
+            D11688  Ampreloxetine (USAN/INN)
+            D11689  Ampreloxetine hydrochloride (USAN)
+            D11769  Asenapine (INN)
+            D11940  Toludesvenlafaxine (USAN/INN)
+            D11941  Toludesvenlafaxine hydrochloride (USAN)
+            D12157  Felcisetrag (USAN/INN)
+            D12403  Venlafaxine besylate monohydrate
+            D12474  Ulotaront (USAN/INN)
+            D12475  Ulotaront hydrochloride (USAN)
+            D12510  Utreloxastat (USAN/INN)
+            D12544  Vortioxetine hemihydrobromide (USAN)
+DBLINKS     GO: 0007210
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        121278  TPH2; tryptophan hydroxylase 2 [KO:K00502] [EC:1.14.16.4]
+            7166  TPH1; tryptophan hydroxylase 1 [KO:K00502] [EC:1.14.16.4]
+            1644  DDC; dopa decarboxylase [KO:K01593] [EC:4.1.1.28 4.1.1.105]
+            6570  SLC18A1; solute carrier family 18 member A1 [KO:K08155]
+            6571  SLC18A2; solute carrier family 18 member A2 [KO:K08155]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            3356  HTR2A; 5-hydroxytryptamine receptor 2A [KO:K04157]
+            3357  HTR2B; 5-hydroxytryptamine receptor 2B [KO:K04157]
+            3358  HTR2C; 5-hydroxytryptamine receptor 2C [KO:K04157]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            1558  CYP2C8; cytochrome P450 family 2 subfamily C member 8 [KO:K17718] [EC:1.14.14.1]
+            1559  CYP2C9; cytochrome P450 family 2 subfamily C member 9 [KO:K17719] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.-]
+            1562  CYP2C18; cytochrome P450 family 2 subfamily C member 18 [KO:K17720] [EC:1.14.14.1]
+            1557  CYP2C19; cytochrome P450 family 2 subfamily C member 19 [KO:K17721] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.75 1.14.14.-]
+            1565  CYP2D6; cytochrome P450 family 2 subfamily D member 6 [KO:K17712] [EC:1.14.14.1]
+            107987478  cytochrome P450 2D6-like [KO:K17712] [EC:1.14.14.1]
+            1564  CYP2D7; cytochrome P450 family 2 subfamily D member 7 (gene/pseudogene) [KO:K17712] [EC:1.14.14.1]
+            107987479  CYP2D6; cytochrome P450 2D6 [KO:K17712] [EC:1.14.14.1]
+            1573  CYP2J2; cytochrome P450 family 2 subfamily J member 2 [KO:K07418] [EC:1.14.14.1 1.14.14.73 1.14.14.74 1.14.14.75]
+            260293  CYP4X1; cytochrome P450 family 4 subfamily X member 1 [KO:K07428] [EC:1.14.14.1]
+            240  ALOX5; arachidonate 5-lipoxygenase [KO:K00461] [EC:1.13.11.34]
+            239  ALOX12; arachidonate 12-lipoxygenase, 12S type [KO:K00458] [EC:1.13.11.31]
+            242  ALOX12B; arachidonate 12-lipoxygenase, 12R type [KO:K08021] [EC:1.13.11.-]
+            246  ALOX15; arachidonate 15-lipoxygenase [KO:K00460] [EC:1.13.11.33]
+            247  ALOX15B; arachidonate 15-lipoxygenase type B [KO:K08022] [EC:1.13.11.33 1.13.11.-]
+            5742  PTGS1; prostaglandin-endoperoxide synthase 1 [KO:K00509] [EC:1.14.99.1]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            3359  HTR3A; 5-hydroxytryptamine receptor 3A [KO:K04819]
+            285242  HTR3E; 5-hydroxytryptamine receptor 3E [KO:K04819]
+            200909  HTR3D; 5-hydroxytryptamine receptor 3D [KO:K04819]
+            170572  HTR3C; 5-hydroxytryptamine receptor 3C [KO:K04819]
+            9177  HTR3B; 5-hydroxytryptamine receptor 3B [KO:K04819]
+            3360  HTR4; 5-hydroxytryptamine receptor 4 [KO:K04160]
+            3362  HTR6; 5-hydroxytryptamine receptor 6 [KO:K04162]
+            3363  HTR7; 5-hydroxytryptamine receptor 7 [KO:K04163]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            3781  KCNN2; potassium calcium-activated channel subfamily N member 2 [KO:K04943]
+            3751  KCND2; potassium voltage-gated channel subfamily D member 2 [KO:K04892]
+            2560  GABRB1; gamma-aminobutyric acid type A receptor subunit beta1 [KO:K05181]
+            2562  GABRB3; gamma-aminobutyric acid type A receptor subunit beta3 [KO:K05181]
+            2561  GABRB2; gamma-aminobutyric acid type A receptor subunit beta2 [KO:K05181]
+            10411  RAPGEF3; Rap guanine nucleotide exchange factor 3 [KO:K08014]
+            351  APP; amyloid beta precursor protein [KO:K04520]
+            3350  HTR1A; 5-hydroxytryptamine receptor 1A [KO:K04153]
+            3351  HTR1B; 5-hydroxytryptamine receptor 1B [KO:K04153]
+            3352  HTR1D; 5-hydroxytryptamine receptor 1D [KO:K04153]
+            3354  HTR1E; 5-hydroxytryptamine receptor 1E [KO:K04153]
+            3355  HTR1F; 5-hydroxytryptamine receptor 1F [KO:K04153]
+            3361  HTR5A; 5-hydroxytryptamine receptor 5A [KO:K04161]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            1843  DUSP1; dual specificity phosphatase 1 [KO:K21278] [EC:3.1.3.16 3.1.3.48]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            774  CACNA1B; calcium voltage-gated channel subunit alpha1 B [KO:K04849]
+            3760  KCNJ3; potassium inwardly rectifying channel subfamily J member 3 [KO:K04997]
+            3763  KCNJ6; potassium inwardly rectifying channel subfamily J member 6 [KO:K05000]
+            3765  KCNJ9; potassium inwardly rectifying channel subfamily J member 9 [KO:K05002]
+            3762  KCNJ5; potassium inwardly rectifying channel subfamily J member 5 [KO:K04999]
+            7220  TRPC1; transient receptor potential cation channel subfamily C member 1 [KO:K04964]
+            6532  SLC6A4; solute carrier family 6 member 4 [KO:K05037]
+            4129  MAOB; monoamine oxidase B [KO:K00274] [EC:1.4.3.4]
+            4128  MAOA; monoamine oxidase A [KO:K00274] [EC:1.4.3.4]
+COMPOUND    C00076  Calcium cation
+            C00078  L-Tryptophan
+            C00165  Diacylglycerol
+            C00219  Arachidonate
+            C00238  Potassium cation
+            C00427  Prostaglandin H2
+            C00575  3',5'-Cyclic AMP
+            C00584  Prostaglandin E2
+            C00639  Prostaglandin F2alpha
+            C00643  5-Hydroxy-L-tryptophan
+            C00696  Prostaglandin D2
+            C00780  Serotonin
+            C00909  Leukotriene A4
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C02165  Leukotriene B4
+            C02166  Leukotriene C4
+            C02198  Thromboxane A2
+            C04822  8(R)-HPETE
+            C05356  5(S)-HPETE
+            C05635  5-Hydroxyindoleacetate
+            C05953  Prostaglandin A2
+            C05954  Prostaglandin B2
+            C05955  Prostaglandin C2
+            C05956  Prostaglandin G2
+            C05957  Prostaglandin J2
+            C05963  Thromboxane B2
+            C05964  11-Dehydro-thromboxane B2
+            C05965  12(S)-HPETE
+            C05966  15(S)-HPETE
+            C14768  5,6-EET
+            C14769  8,9-EET
+            C14770  11,12-EET
+            C14771  14,15-EET
+            C14772  5,6-DHET
+            C14773  8,9-DHET
+            C14774  11,12-DHET
+            C14775  14,15-DHET
+            C14812  12(R)-HPETE
+            C14820  11(R)-HPETE
+            C14821  9(S)-HPETE
+            C14823  8(S)-HPETE
+REFERENCE   PMID:18676031
+  AUTHORS   Millan MJ, Marin P, Bockaert J, Mannoury la Cour C
+  TITLE     Signaling at G-protein-coupled serotonin receptors: recent advances and future research directions.
+  JOURNAL   Trends Pharmacol Sci 29:454-64 (2008)
+            DOI:10.1016/j.tips.2008.06.007
+REFERENCE   PMID:16896947
+  AUTHORS   Bockaert J, Claeysen S, Becamel C, Dumuis A, Marin P
+  TITLE     Neuronal 5-HT metabotropic receptors: fine-tuning of their structure, signaling, and roles in synaptic modulation.
+  JOURNAL   Cell Tissue Res 326:553-72 (2006)
+            DOI:10.1007/s00441-006-0286-1
+REFERENCE   PMID:11916537
+  AUTHORS   Raymond JR, Mukhin YV, Gelasco A, Turner J, Collinsworth G, Gettys TW, Grewal JS, Garnovskaya MN
+  TITLE     Multiplicity of mechanisms of serotonin receptor signal transduction.
+  JOURNAL   Pharmacol Ther 92:179-212 (2001)
+            DOI:10.1016/S0163-7258(01)00169-3
+REFERENCE   PMID:15034221
+  AUTHORS   Noda M, Higashida H, Aoki S, Wada K
+  TITLE     Multiple signal transduction pathways mediated by 5-HT receptors.
+  JOURNAL   Mol Neurobiol 29:31-9 (2004)
+            DOI:10.1385/MN:29:1:31
+REFERENCE   PMID:20561690
+  AUTHORS   Daubert EA, Condron BG
+  TITLE     Serotonin: a regulator of neuronal morphology and circuitry.
+  JOURNAL   Trends Neurosci 33:424-34 (2010)
+            DOI:10.1016/j.tins.2010.05.005
+REFERENCE   PMID:16826372
+  AUTHORS   Chameau P, van Hooft JA
+  TITLE     Serotonin 5-HT(3) receptors in the central nervous system.
+  JOURNAL   Cell Tissue Res 326:573-81 (2006)
+            DOI:10.1007/s00441-006-0255-8
+REFERENCE   PMID:9651340
+  AUTHORS   Tournois C, Mutel V, Manivet P, Launay JM, Kellermann O
+  TITLE     Cross-talk between 5-hydroxytryptamine receptors in a serotonergic cell line. Involvement of arachidonic acid metabolism.
+  JOURNAL   J Biol Chem 273:17498-503 (1998)
+            DOI:10.1074/jbc.273.28.17498
+REFERENCE   PMID:19545642
+  AUTHORS   Iliff JJ, Jia J, Nelson J, Goyagi T, Klaus J, Alkayed NJ
+  TITLE     Epoxyeicosanoid signaling in CNS function and disease.
+  JOURNAL   Prostaglandins Other Lipid Mediat 91:68-84 (2010)
+            DOI:10.1016/j.prostaglandins.2009.06.004
+REFERENCE   PMID:12676358
+  AUTHORS   Adayev T, Ray I, Sondhi R, Sobocki T, Banerjee P
+  TITLE     The G protein-coupled 5-HT1A receptor causes suppression of caspase-3 through MAPK and protein kinase Calpha.
+  JOURNAL   Biochim Biophys Acta 1640:85-96 (2003)
+            DOI:10.1016/S0167-4889(03)00023-5
+REFERENCE   PMID:11701344
+  AUTHORS   Albert PR, Tiberi M
+  TITLE     Receptor signaling and structure: insights from serotonin-1 receptors.
+  JOURNAL   Trends Endocrinol Metab 12:453-60 (2001)
+            DOI:10.1016/S1043-2760(01)00498-2
+REFERENCE   PMID:9658404
+  AUTHORS   Durham PL, Russo AF
+  TITLE     Serotonergic repression of mitogen-activated protein kinase control of the calcitonin gene-related peptide enhancer.
+  JOURNAL   Mol Endocrinol 12:1002-9 (1998)
+            DOI:10.1210/mend.12.7.0135
+REFERENCE   PMID:15710402
+  AUTHORS   Robert S, Maillet M, Morel E, Launay JM, Fischmeister R, Mercken L, Lezoualc'h F
+  TITLE     Regulation of the amyloid precursor protein ectodomain shedding by the 5-HT4 receptor and Epac.
+  JOURNAL   FEBS Lett 579:1136-42 (2005)
+            DOI:10.1016/j.febslet.2005.01.010
+REFERENCE   PMID:12543273
+  AUTHORS   Lezoualc'h F, Robert SJ
+  TITLE     The serotonin 5-HT4 receptor and the amyloid precursor protein processing.
+  JOURNAL   Exp Gerontol 38:159-66 (2003)
+            DOI:10.1016/S0531-5565(02)00157-2
+REFERENCE   PMID:11043573
+  AUTHORS   Durham PL, Russo AF
+  TITLE     Differential regulation of mitogen-activated protein kinase-responsive genes by the duration of a calcium signal.
+  JOURNAL   Mol Endocrinol 14:1570-82 (2000)
+            DOI:10.1210/mend.14.10.0529
+REFERENCE   PMID:9542727
+  AUTHORS   Hagberg GB, Blomstrand F, Nilsson M, Tamir H, Hansson E
+  TITLE     Stimulation of 5-HT2A receptors on astrocytes in primary culture opens voltage-independent Ca2+ channels.
+  JOURNAL   Neurochem Int 32:153-62 (1998)
+            DOI:10.1016/S0197-0186(97)00087-9
+REFERENCE   
+  AUTHORS   Nestler EJ, Hyman SE, Malenka RC.
+  TITLE     Molecular neuropharmacology: A foundation for clinical neuroscience
+  JOURNAL   The McGraw-Hill Companies, Inc. (2001)
+REL_PATHWAY hsa00380  Tryptophan metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa04020  Calcium signaling pathway
+            hsa04721  Synaptic vesicle cycle
+            hsa04976  Bile secretion
+KO_PATHWAY  ko04726
+///

@@ -1,0 +1,146 @@
+ENTRY       hsa04664                    Pathway
+NAME        Fc epsilon RI signaling pathway - Homo sapiens (human)
+DESCRIPTION Fc epsilon RI-mediated signaling pathways in mast cells are initiated by the interaction of antigen (Ag) with IgE bound to the extracellular domain of the alpha chain of Fc epsilon RI. The activation pathways are regulated both positively and negatively by the interactions of numerous signaling molecules. Mast cells that are thus activated release preformed granules which contain biogenic amines (especially histamines) and proteoglycans (especially heparin). The activation of phospholipase A2 causes the release of membrane lipids followed by development of lipid mediators such as leukotrienes (LTC4, LTD4 and LTE4) and prostaglandins (especially PDG2). There is also secretion of cytokines, the most important of which are TNF-alpha, IL-4 and IL-5. These mediators and cytokines contribute to inflammatory responses.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04664  Fc epsilon RI signaling pathway
+DRUG        D03095  Benzylpenicilloyl polylysine (USP)
+            D03117  Binetrakin (USAN/INN)
+            D04358  Golimumab (USAN/INN)
+            D05251  Omalizumab (USAN/INN)
+            D05671  Quiflapon sodium (USAN)
+            D06664  Veliflapon (USAN/INN)
+            D10069  Fiboflapon (USAN)
+            D10122  Fiboflapon sodium (USAN)
+            D11070  Tirabrutinib hydrochloride (JAN)
+            D11275  Rosiptor (USAN/INN)
+            D11276  Rosiptor acetate (USAN)
+            D11873  Rilzabrutinib (USAN/INN)
+            D12158  Elsubrutinib (USAN/INN)
+            D12160  Orelabrutinib (USAN/INN)
+            D12285  Remibrutinib (USAN/INN)
+            D12489  Atuzabrutinib (USAN/INN)
+DBLINKS     GO: 0045576
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            2205  FCER1A; Fc epsilon receptor Ia [KO:K08089]
+            2206  MS4A2; membrane spanning 4-domains A2 [KO:K08090]
+            2207  FCER1G; Fc epsilon receptor Ig [KO:K07983]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            695  BTK; Bruton tyrosine kinase [KO:K07370] [EC:2.7.10.2]
+            3635  INPP5D; inositol polyphosphate-5-phosphatase D [KO:K03084] [EC:3.1.3.86]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            5881  RAC3; Rac family small GTPase 3 [KO:K07861]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            5606  MAP2K3; mitogen-activated protein kinase kinase 3 [KO:K04432] [EC:2.7.12.2]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            3565  IL4; interleukin 4 [KO:K05430]
+            3596  IL13; interleukin 13 [KO:K05435]
+            3562  IL3; interleukin 3 [KO:K04736]
+            3567  IL5; interleukin 5 [KO:K05428]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3937  LCP2; lymphocyte cytosolic protein 2 [KO:K07361]
+            10451  VAV3; vav guanine nucleotide exchange factor 3 [KO:K05730]
+            7409  VAV1; vav guanine nucleotide exchange factor 1 [KO:K05730]
+            7410  VAV2; vav guanine nucleotide exchange factor 2 [KO:K05730]
+            2534  FYN; FYN proto-oncogene, Src family tyrosine kinase [KO:K05703] [EC:2.7.10.2]
+            9846  GAB2; GRB2 associated binding protein 2 [KO:K08091]
+            27040  LAT; linker for activation of T cells [KO:K07362]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            240  ALOX5; arachidonate 5-lipoxygenase [KO:K00461] [EC:1.13.11.34]
+            241  ALOX5AP; arachidonate 5-lipoxygenase activating protein [KO:K20735]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00219  Arachidonate
+            C00374  Heparin
+            C00388  Histamine
+            C00696  Prostaglandin D2
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C02166  Leukotriene C4
+            C05951  Leukotriene D4
+            C05952  Leukotriene E4
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:12360215
+  AUTHORS   Kawakami T, Galli SJ.
+  TITLE     Regulation of mast-cell and basophil function and survival by IgE.
+  JOURNAL   Nat Rev Immunol 2:773-86 (2002)
+            DOI:10.1038/nri914
+REFERENCE   PMID:14630197
+  AUTHORS   Siraganian RP.
+  TITLE     Mast cell signal transduction from the high-affinity IgE receptor.
+  JOURNAL   Curr Opin Immunol 15:639-46 (2003)
+            DOI:10.1016/j.coi.2003.09.010
+REFERENCE   
+  AUTHORS   Janeway CA, Travers P, Walport M, Shlomchik MJ.
+  TITLE     Immunobiology 6th edition
+  JOURNAL   Garland Science Publishing (2005)
+REFERENCE   PMID:10586892
+  AUTHORS   Turner H, Kinet JP.
+  TITLE     Signalling through the high-affinity IgE receptor Fc epsilonRI.
+  JOURNAL   Nature 402:B24-30 (1999)
+            DOI:10.1038/35037021
+REFERENCE   PMID:16470226
+  AUTHORS   Gilfillan AM, Tkaczyk C.
+  TITLE     Integrated signalling pathways for mast-cell activation.
+  JOURNAL   Nat Rev Immunol 6:218-30 (2006)
+            DOI:10.1038/nri1782
+REFERENCE   PMID:11079101
+  AUTHORS   Nadler MJ, Matthews SA, Turner H, Kinet JP.
+  TITLE     Signal transduction by the high-affinity immunoglobulin E receptor Fc epsilon RI: coupling form to function.
+  JOURNAL   Adv Immunol 76:325-55 (2000)
+            DOI:10.1016/S0065-2776(01)76022-1
+REFERENCE   PMID:11449275
+  AUTHORS   Gu H, Saito K, Klaman LD, Shen J, Fleming T, Wang Y, Pratt JC, Lin G, Lim B, Kinet JP, Neel BG.
+  TITLE     Essential role for Gab2 in the allergic response.
+  JOURNAL   Nature 412:186-90 (2001)
+            DOI:10.1038/35084076
+REFERENCE   PMID:12145654
+  AUTHORS   Nadler MJ, Kinet JP.
+  TITLE     Uncovering new complexities in mast cell signaling.
+  JOURNAL   Nat Immunol 3:707-8 (2002)
+            DOI:10.1038/ni0802-707
+REL_PATHWAY hsa00590  Arachidonic acid metabolism
+            hsa04010  MAPK signaling pathway
+            hsa04070  Phosphatidylinositol signaling system
+KO_PATHWAY  ko04664
+///

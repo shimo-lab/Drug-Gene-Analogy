@@ -1,0 +1,551 @@
+ENTRY       hsa05202                    Pathway
+NAME        Transcriptional misregulation in cancer - Homo sapiens (human)
+DESCRIPTION In tumor cells, genes encoding transcription factors (TFs) are often amplified, deleted, rearranged via chromosomal translocation and inversion, or subjected to point mutations that result in a gain- or loss-of- function. In hematopoietic cancers and solid tumors, the translocations and inversions increase or deregulate transcription of the oncogene. Recurrent chromosome translocations generate novel fusion oncoproteins, which are common in myeloid cancers and soft-tissue sarcomas. The fusion proteins have aberrant transcriptional function compared to their wild-type counterparts. These fusion transcription factors alter expression of target genes, and thereby result in a variety of altered cellular properties that contribute to the tumourigenic process.
+CLASS       Human Diseases; Cancer: overview
+PATHWAY_MAP hsa05202  Transcriptional misregulation in cancer
+DRUG        D00094  Tretinoin (JAN/USP/INN)
+            D10891  Capmatinib hydrochloride (USAN)
+            D11073  Tepotinib hydrochloride (USAN)
+            D11768  Pacritinib (USAN/INN)
+            D11889  Unesblin (USAN)
+            D12419  Ziftomenib (USAN/INN)
+            D12525  Enitociclib (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        861  RUNX1; RUNX family transcription factor 1 [KO:K08367]
+            1436  CSF1R; colony stimulating factor 1 receptor [KO:K05090] [EC:2.7.10.1]
+            4353  MPO; myeloperoxidase [KO:K10789] [EC:1.11.2.2]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            3562  IL3; interleukin 3 [KO:K04736]
+            862  RUNX1T1; RUNX1 partner transcriptional co-repressor 1 [KO:K10053]
+            3065  HDAC1; histone deacetylase 1 [KO:K06067] [EC:3.5.1.98]
+            3066  HDAC2; histone deacetylase 2 [KO:K06067] [EC:3.5.1.98]
+            25942  SIN3A; SIN3 transcription regulator family member A [KO:K11644]
+            9611  NCOR1; nuclear receptor corepressor 1 [KO:K04650]
+            1050  CEBPA; CCAAT enhancer binding protein alpha [KO:K09055]
+            8864  PER2; period circadian regulator 2 [KO:K02633]
+            6688  SPI1; Spi-1 proto-oncogene [KO:K09438]
+            929  CD14; CD14 molecule [KO:K04391]
+            3684  ITGAM; integrin subunit alpha M [KO:K06461]
+            2209  FCGR1A; Fc gamma receptor Ia [KO:K06498]
+            3728  JUP; junction plakoglobin [KO:K10056]
+            5371  PML; PML nuclear body scaffold [KO:K10054] [EC:2.3.2.-]
+            5914  RARA; retinoic acid receptor alpha [KO:K08527]
+            890  CCNA2; cyclin A2 [KO:K06627]
+            8900  CCNA1; cyclin A1 [KO:K06627]
+            1053  CEBPE; CCAAT enhancer binding protein epsilon [KO:K10051]
+            597  BCL2A1; BCL2 related protein A1 [KO:K02162]
+            7704  ZBTB16; zinc finger and BTB domain containing 16 [KO:K10055]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            1848  DUSP6; dual specificity phosphatase 6 [KO:K21946] [EC:3.1.3.16 3.1.3.48]
+            6929  TCF3; transcription factor 3 [KO:K09063]
+            5087  PBX1; PBX homeobox 1 [KO:K09355]
+            51384  WNT16; Wnt family member 16 [KO:K01558]
+            2120  ETV6; ETS variant transcription factor 6 [KO:K03211]
+            51513  ETV7; ETS variant transcription factor 7 [KO:K03211]
+            1667  DEFA1; defensin alpha 1 [KO:K05230]
+            1668  DEFA3; defensin alpha 3 [KO:K05230]
+            1669  DEFA4; defensin alpha 4 [KO:K05230]
+            1670  DEFA5; defensin alpha 5 [KO:K05230]
+            1671  DEFA6; defensin alpha 6 [KO:K05230]
+            728358  DEFA1B; defensin alpha 1B [KO:K05230]
+            1991  ELANE; elastase, neutrophil expressed [KO:K01327] [EC:3.4.21.37]
+            3002  GZMB; granzyme B [KO:K01353] [EC:3.4.21.79]
+            4297  KMT2A; lysine methyltransferase 2A [KO:K09186] [EC:2.1.1.354]
+            4299  AFF1; ALF transcription elongation factor 1 [KO:K15184]
+            1025  CDK9; cyclin dependent kinase 9 [KO:K02211] [EC:2.7.11.22 2.7.11.23]
+            904  CCNT1; cyclin T1 [KO:K15188]
+            905  CCNT2; cyclin T2 [KO:K15188]
+            4298  MLLT1; MLLT1 super elongation complex subunit [KO:K15187]
+            4300  MLLT3; MLLT3 super elongation complex subunit [KO:K15187]
+            84444  DOT1L; DOT1 like histone lysine methyltransferase [KO:K11427] [EC:2.1.1.360]
+            4005  LMO2; LIM domain only 2 [KO:K15612]
+            5090  PBX3; PBX homeobox 3 [KO:K15610]
+            860  RUNX2; RUNX family transcription factor 2 [KO:K09278]
+            4086  SMAD1; SMAD family member 1 [KO:K04676]
+            51274  KLF3; KLF transcription factor 3 [KO:K15605]
+            4208  MEF2C; myocyte enhancer factor 2C [KO:K04454]
+            3205  HOXA9; homeobox A9 [KO:K21950]
+            3206  HOXA10; homeobox A10 [KO:K17443]
+            221037  JMJD1C; jumonji domain containing 1C [KO:K11449] [EC:1.14.11.-]
+            8091  HMGA2; high mobility group AT-hook 2 [KO:K09283]
+            7403  KDM6A; lysine demethylase 6A [KO:K11447] [EC:1.14.11.68]
+            8464  SUPT3H; SPT3 homolog, SAGA and STAGA complex component [KO:K11313]
+            8842  PROM1; prominin 1 [KO:K06532]
+            2322  FLT3; fms related receptor tyrosine kinase 3 [KO:K05092] [EC:2.7.10.1]
+            55589  BMP2K; BMP2 inducible kinase [KO:K08854] [EC:2.7.11.1]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            1027  CDKN1B; cyclin dependent kinase inhibitor 1B [KO:K06624]
+            5218  CDK14; cyclin dependent kinase 14 [KO:K08821] [EC:2.7.11.22]
+            4211  MEIS1; Meis homeobox 1 [KO:K15613]
+            3207  HOXA11; homeobox A11 [KO:K21951]
+            6495  SIX1; SIX homeobox 1 [KO:K15614]
+            51804  SIX4; SIX homeobox 4 [KO:K15615]
+            2138  EYA1; EYA transcriptional coactivator and phosphatase 1 [KO:K15616] [EC:3.1.3.48]
+            1031  CDKN2C; cyclin dependent kinase inhibitor 2C [KO:K06622]
+            3248  HPGD; 15-hydroxyprostaglandin dehydrogenase [KO:K00069] [EC:1.1.1.141]
+            2892  GRIA3; glutamate ionotropic receptor AMPA type subunit 3 [KO:K05199]
+            2530  FUT8; fucosyltransferase 8 [KO:K00717] [EC:2.4.1.68]
+            30012  TLX3; T cell leukemia homeobox 3 [KO:K15607]
+            3195  TLX1; T cell leukemia homeobox 1 [KO:K09340]
+            64919  BCL11B; BCL11 transcription factor B [KO:K22046]
+            8861  LDB1; LIM domain binding 1 [KO:K15617]
+            4066  LYL1; LYL1 basic helix-loop-helix family member [KO:K15604]
+            3087  HHEX; hematopoietically expressed homeobox [KO:K08024]
+            171558  PTCRA; pre T cell antigen receptor alpha [KO:K06056]
+            5966  REL; REL proto-oncogene, NF-kB subunit [KO:K09254]
+            894  CCND2; cyclin D2 [KO:K10151]
+            329  BIRC2; baculoviral IAP repeat containing 2 [KO:K16060]
+            330  BIRC3; baculoviral IAP repeat containing 3 [KO:K16060]
+            7185  TRAF1; TNF receptor associated factor 1 [KO:K03172]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            942  CD86; CD86 molecule [KO:K05413]
+            958  CD40; CD40 molecule [KO:K03160]
+            604  BCL6; BCL6 transcription repressor [KO:K15618]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            4094  MAF; MAF bZIP transcription factor [KO:K09035]
+            3695  ITGB7; integrin subunit beta 7 [KO:K06590]
+            7468  NSD2; nuclear receptor binding SET domain protein 2 [KO:K11424] [EC:2.1.1.357]
+            440093  H3-5; H3.5 histone [KO:K11253]
+            3021  H3-3B; H3.3 histone B [KO:K11253]
+            8351  H3C4; H3 clustered histone 4 [KO:K11253]
+            8352  H3C3; H3 clustered histone 3 [KO:K11253]
+            8350  H3C1; H3 clustered histone 1 [KO:K11253]
+            3020  H3-3A; H3.3 histone A [KO:K11253]
+            8290  H3-4; H3.4 histone, cluster member [KO:K11253]
+            126961  H3C14; H3 clustered histone 14 [KO:K11253]
+            333932  H3C15; H3 clustered histone 15 [KO:K11253]
+            653604  H3C13; H3 clustered histone 13 [KO:K11253]
+            8353  H3C6; H3 clustered histone 6 [KO:K11253]
+            8354  H3C11; H3 clustered histone 11 [KO:K11253]
+            8355  H3C8; H3 clustered histone 8 [KO:K11253]
+            8356  H3C12; H3 clustered histone 12 [KO:K11253]
+            8357  H3C10; H3 clustered histone 10 [KO:K11253]
+            8358  H3C2; H3 clustered histone 2 [KO:K11253]
+            8968  H3C7; H3 clustered histone 7 [KO:K11253]
+            5079  PAX5; paired box 5 [KO:K09383]
+            7849  PAX8; paired box 8 [KO:K09293]
+            5468  PPARG; peroxisome proliferator activated receptor gamma [KO:K08530]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6257  RXRB; retinoid X receptor beta [KO:K08525]
+            6258  RXRG; retinoid X receptor gamma [KO:K08526]
+            5546  PRCC; proline rich mitotic checkpoint control factor [KO:K13105]
+            7030  TFE3; transcription factor binding to IGHM enhancer 3 [KO:K09105]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            7113  TMPRSS2; transmembrane serine protease 2 [KO:K09633] [EC:3.4.21.122]
+            2078  ERG; ETS transcription factor ERG [KO:K09435]
+            5328  PLAU; plasminogen activator, urokinase [KO:K01348] [EC:3.4.21.73]
+            5327  PLAT; plasminogen activator, tissue type [KO:K01343] [EC:3.4.21.68]
+            4314  MMP3; matrix metallopeptidase 3 [KO:K01394] [EC:3.4.24.17]
+            4318  MMP9; matrix metallopeptidase 9 [KO:K01403] [EC:3.4.24.35]
+            6935  ZEB1; zinc finger E-box binding homeobox 1 [KO:K09299]
+            7850  IL1R2; interleukin 1 receptor type 2 [KO:K04387]
+            6692  SPINT1; serine peptidase inhibitor, Kunitz type 1 [KO:K15619]
+            2115  ETV1; ETS variant transcription factor 1 [KO:K09431]
+            2118  ETV4; ETS variant transcription factor 4 [KO:K15592]
+            2119  ETV5; ETS variant transcription factor 5 [KO:K15593]
+            85414  SLC45A3; solute carrier family 45 member 3 [KO:K15379]
+            2005  ELK4; ETS transcription factor ELK4 [KO:K04376]
+            1655  DDX5; DEAD-box helicase 5 [KO:K12823] [EC:3.6.4.13]
+            4613  MYCN; MYCN proto-oncogene, bHLH transcription factor [KO:K09109]
+            4149  MAX; MYC associated factor X [KO:K04453]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            648  BMI1; BMI1 proto-oncogene, polycomb ring finger [KO:K11459]
+            100532731  COMMD3-BMI1; COMMD3-BMI1 readthrough [KO:K11459]
+            6667  SP1; Sp1 transcription factor [KO:K04684]
+            7709  ZBTB17; zinc finger and BTB domain containing 17 [KO:K10500]
+            4914  NTRK1; neurotrophic receptor tyrosine kinase 1 [KO:K03176] [EC:2.7.10.1]
+            4804  NGFR; nerve growth factor receptor [KO:K02583]
+            4221  MEN1; menin 1 [KO:K14970]
+            2130  EWSR1; EWS RNA binding protein 1 [KO:K13209]
+            2313  FLI1; Fli-1 proto-oncogene, ETS transcription factor [KO:K09436]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            3398  ID2; inhibitor of DNA binding 2 [KO:K17693]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            3486  IGFBP3; insulin like growth factor binding protein 3 [KO:K10138]
+            54738  FEV; FEV transcription factor, ETS family member [KO:K09437]
+            466  ATF1; activating transcription factor 1 [KO:K09053]
+            9915  ARNT2; aryl hydrocarbon receptor nuclear translocator 2 [KO:K15589]
+            472  ATM; ATM serine/threonine kinase [KO:K04728] [EC:2.7.11.1]
+            4286  MITF; melanocyte inducing transcription factor [KO:K09455]
+            7490  WT1; WT1 transcription factor [KO:K09234]
+            5154  PDGFA; platelet derived growth factor subunit A [KO:K04359]
+            3560  IL2RB; interleukin 2 receptor subunit beta [KO:K05069]
+            8938  BAIAP3; BAI1 associated protein 3 [KO:K15621]
+            7102  TSPAN7; tetraspanin 7 [KO:K06571]
+            4291  MLF1; myeloid leukemia factor 1 [KO:K15622]
+            8013  NR4A3; nuclear receptor subfamily 4 group A member 3 [KO:K08559]
+            8148  TAF15; TATA-box binding protein associated factor 15 [KO:K14651]
+            2521  FUS; FUS RNA binding protein [KO:K13098]
+            1649  DDIT3; DNA damage inducible transcript 3 [KO:K04452]
+            1051  CEBPB; CCAAT enhancer binding protein beta [KO:K10048]
+            3569  IL6; interleukin 6 [KO:K05405]
+            64332  NFKBIZ; NFKB inhibitor zeta [KO:K14242]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            5081  PAX7; paired box 7 [KO:K09381]
+            5077  PAX3; paired box 3 [KO:K09381]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            2321  FLT1; fms related receptor tyrosine kinase 1 [KO:K05096] [EC:2.7.10.1]
+            26039  SS18L1; SS18L1 subunit of BAF chromatin remodeling complex [KO:K15623]
+            6760  SS18; SS18 subunit of BAF chromatin remodeling complex [KO:K15623]
+            6756  SSX1; SSX family member 1 [KO:K15624]
+            6757  SSX2; SSX family member 2 [KO:K15625]
+            727837  SSX2B; SSX family member 2B [KO:K15625]
+            26471  NUPR1; nuclear protein 1, transcriptional regulator [KO:K15626]
+            79058  ASPSCR1; ASPSCR1 tether for SLC2A4, UBX domain containing [KO:K15627]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+REFERENCE   PMID:11607818
+  AUTHORS   Alcalay M, Orleth A, Sebastiani C, Meani N, Chiaradonna F, Casciari C, Sciurpi MT, Gelmetti V, Riganelli D, Minucci S, Fagioli M, Pelicci PG
+  TITLE     Common themes in the pathogenesis of acute myeloid leukemia.
+  JOURNAL   Oncogene 20:5680-94 (2001)
+            DOI:10.1038/sj.onc.1204642
+REFERENCE   PMID:12032780
+  AUTHORS   Scandura JM, Boccuni P, Cammenga J, Nimer SD
+  TITLE     Transcription factor fusions in acute leukemia: variations on a theme.
+  JOURNAL   Oncogene 21:3422-44 (2002)
+            DOI:10.1038/sj.onc.1205315
+REFERENCE   PMID:12529654
+  AUTHORS   Roumier C, Fenaux P, Lafage M, Imbert M, Eclache V, Preudhomme C
+  TITLE     New mechanisms of AML1 gene alteration in hematological malignancies.
+  JOURNAL   Leukemia 17:9-16 (2003)
+            DOI:10.1038/sj.leu.2402766
+REFERENCE   PMID:10717473
+  AUTHORS   Lutterbach B, Hiebert SW
+  TITLE     Role of the transcription factor AML-1 in acute leukemia and hematopoietic differentiation.
+  JOURNAL   Gene 245:223-35 (2000)
+            DOI:10.1016/S0378-1119(00)00014-7
+REFERENCE   PMID:19075268
+  AUTHORS   Koschmieder S, Halmos B, Levantini E, Tenen DG
+  TITLE     Dysregulation of the C/EBPalpha differentiation pathway in human cancer.
+  JOURNAL   J Clin Oncol 27:619-28 (2009)
+            DOI:10.1200/JCO.2008.17.9812
+REFERENCE   PMID:11340171
+  AUTHORS   Johansen LM, Iwama A, Lodie TA, Sasaki K, Felsher DW, Golub TR, Tenen DG
+  TITLE     c-Myc is a critical target for c/EBPalpha in granulopoiesis.
+  JOURNAL   Mol Cell Biol 21:3789-806 (2001)
+            DOI:10.1128/MCB.21.11.3789-3806.2001
+REFERENCE   PMID:15985538
+  AUTHORS   Gery S, Gombart AF, Yi WS, Koeffler C, Hofmann WK, Koeffler HP
+  TITLE     Transcription profiling of C/EBP targets identifies Per2 as a gene implicated in myeloid leukemia.
+  JOURNAL   Blood 106:2827-36 (2005)
+            DOI:10.1182/blood-2005-01-0358
+REFERENCE   PMID:12393465
+  AUTHORS   Vangala RK, Heiss-Neumann MS, Rangatia JS, Singh SM, Schoch C, Tenen DG, Hiddemann W, Behre G
+  TITLE     The myeloid master regulator transcription factor PU.1 is inactivated by AML1-ETO in t(8;21) myeloid leukemia.
+  JOURNAL   Blood 101:270-7 (2003)
+            DOI:10.1182/blood-2002-04-1288
+REFERENCE   PMID:12130514
+  AUTHORS   Mueller BU, Pabst T, Osato M, Asou N, Johansen LM, Minden MD, Behre G, Hiddemann W, Ito Y, Tenen DG
+  TITLE     Heterozygous PU.1 mutations are associated with acute myeloid leukemia.
+  JOURNAL   Blood 100:998-1007 (2002)
+            DOI:10.1182/blood.V100.3.998
+REFERENCE   PMID:15160934
+  AUTHORS   Jing Y
+  TITLE     The PML-RARalpha fusion protein and targeted therapy for acute promyelocytic leukemia.
+  JOURNAL   Leuk Lymphoma 45:639-48 (2004)
+            DOI:10.1080/10428190310001609933
+REFERENCE   PMID:15024077
+  AUTHORS   Muller-Tidow C, Steffen B, Cauvet T, Tickenbrock L, Ji P, Diederichs S, Sargin B, Kohler G, Stelljes M, Puccetti E, Ruthardt M, deVos S, Hiebert SW, Koeffler HP, Berdel WE, Serve H
+  TITLE     Translocation products in acute myeloid leukemia activate the Wnt signaling pathway in hematopoietic cells.
+  JOURNAL   Mol Cell Biol 24:2890-904 (2004)
+            DOI:10.1128/MCB.24.7.2890-2904.2004
+REFERENCE   PMID:19855079
+  AUTHORS   Rice KL, Hormaeche I, Doulatov S, Flatow JM, Grimwade D, Mills KI, Leiva M, Ablain J, Ambardekar C, McConnell MJ, Dick JE, Licht JD
+  TITLE     Comprehensive genomic screens identify a role for PLZF-RARalpha as a positive regulator of cell proliferation via direct regulation of c-MYC.
+  JOURNAL   Blood 114:5499-511 (2009)
+            DOI:10.1182/blood-2009-03-206524
+REFERENCE   PMID:10500199
+  AUTHORS   McWhirter JR, Neuteboom ST, Wancewicz EV, Monia BP, Downing JR, Murre C
+  TITLE     Oncogenic homeodomain transcription factor E2A-Pbx1 activates a novel WNT gene in pre-B acute lymphoblastoid leukemia.
+  JOURNAL   Proc Natl Acad Sci U S A 96:11464-9 (1999)
+            DOI:10.1073/pnas.96.20.11464
+REFERENCE   PMID:15156184
+  AUTHORS   Zelent A, Greaves M, Enver T
+  TITLE     Role of the TEL-AML1 fusion gene in the molecular pathogenesis of childhood acute lymphoblastic leukaemia.
+  JOURNAL   Oncogene 23:4275-83 (2004)
+            DOI:10.1038/sj.onc.1207672
+REFERENCE   PMID:14630078
+  AUTHORS   Sawinska M, Ladon D
+  TITLE     Mechanism, detection and clinical significance of the reciprocal translocation t(12;21)(p12;q22) in the children suffering from acute lymphoblastic leukaemia.
+  JOURNAL   Leuk Res 28:35-42 (2004)
+            DOI:10.1016/S0145-2126(03)00160-7
+REFERENCE   PMID:19141473
+  AUTHORS   Guenther MG, Lawton LN, Rozovskaia T, Frampton GM, Levine SS, Volkert TL, Croce CM, Nakamura T, Canaani E, Young RA
+  TITLE     Aberrant chromatin at genes encoding stem cell regulators in human mixed-lineage leukemia.
+  JOURNAL   Genes Dev 22:3403-8 (2008)
+            DOI:10.1101/gad.1741408
+REFERENCE   PMID:16169901
+  AUTHORS   Xia ZB, Popovic R, Chen J, Theisler C, Stuart T, Santillan DA, Erfurth F, Diaz MO, Zeleznik-Le NJ
+  TITLE     The MLL fusion gene, MLL-AF4, regulates cyclin-dependent kinase inhibitor CDKN1B (p27kip1) expression.
+  JOURNAL   Proc Natl Acad Sci U S A 102:14028-33 (2005)
+            DOI:10.1073/pnas.0506464102
+REFERENCE   PMID:21518926
+  AUTHORS   Wang QF, Wu G, Mi S, He F, Wu J, Dong J, Luo RT, Mattison R, Kaberlein JJ, Prabhakar S, Ji H, Thirman MJ
+  TITLE     MLL fusion proteins preferentially regulate a subset of wild-type MLL target genes in the leukemic genome.
+  JOURNAL   Blood 117:6895-905 (2011)
+            DOI:10.1182/blood-2010-12-324699
+REFERENCE   PMID:14701735
+  AUTHORS   Zeisig BB, Milne T, Garcia-Cuellar MP, Schreiner S, Martin ME, Fuchs U, Borkhardt A, Chanda SK, Walker J, Soden R, Hess JL, Slany RK
+  TITLE     Hoxa9 and Meis1 are key targets for MLL-ENL-mediated cellular immortalization.
+  JOURNAL   Mol Cell Biol 24:617-28 (2004)
+            DOI:10.1128/MCB.24.2.617-628.2004
+REFERENCE   PMID:19133982
+  AUTHORS   Riz I, Hawley TS, Johnston H, Hawley RG
+  TITLE     Role of TLX1 in T-cell acute lymphoblastic leukaemia pathogenesis.
+  JOURNAL   Br J Haematol 145:140-3 (2009)
+            DOI:10.1111/j.1365-2141.2008.07556.x
+REFERENCE   PMID:12511414
+  AUTHORS   Barth TF, Martin-Subero JI, Joos S, Menz CK, Hasel C, Mechtersheimer G, Parwaresch RM, Lichter P, Siebert R, Mooller P
+  TITLE     Gains of 2p involving the REL locus correlate with nuclear c-Rel protein accumulation in neoplastic cells of classical Hodgkin lymphoma.
+  JOURNAL   Blood 101:3681-6 (2003)
+            DOI:10.1182/blood-2002-08-2577
+REFERENCE   PMID:11313274
+  AUTHORS   Hinz M, Loser P, Mathas S, Krappmann D, Dorken B, Scheidereit C
+  TITLE     Constitutive NF-kappaB maintains high expression of a characteristic gene network, including CD40, CD86, and a set of antiapoptotic genes in Hodgkin/Reed-Sternberg cells.
+  JOURNAL   Blood 97:2798-807 (2001)
+            DOI:10.1182/blood.V97.9.2798
+REFERENCE   PMID:12670461
+  AUTHORS   Zuzel M, Cawley JC.
+  TITLE     The biology of hairy cells.
+  JOURNAL   Best Pract Res Clin Haematol 16:1-13 (2003)
+            DOI:10.1016/S1521-6926(02)00082-8
+REFERENCE   PMID:14998494
+  AUTHORS   Hurt EM, Wiestner A, Rosenwald A, Shaffer AL, Campo E, Grogan T, Bergsagel PL, Kuehl WM, Staudt LM
+  TITLE     Overexpression of c-maf is a frequent oncogenic event in multiple myeloma that promotes proliferation and pathological interactions with bone marrow stroma.
+  JOURNAL   Cancer Cell 5:191-9 (2004)
+            DOI:10.1016/S1535-6108(04)00019-4
+REFERENCE   PMID:20974671
+  AUTHORS   Martinez-Garcia E, Popovic R, Min DJ, Sweet SM, Thomas PM, Zamdborg L, Heffner A, Will C, Lamy L, Staudt LM, Levens DL, Kelleher NL, Licht JD
+  TITLE     The MMSET histone methyl transferase switches global histone methylation and alters gene expression in t(4;14) multiple myeloma cells.
+  JOURNAL   Blood 117:211-20 (2011)
+            DOI:10.1182/blood-2010-07-298349
+REFERENCE   PMID:19059936
+  AUTHORS   Brito JL, Walker B, Jenner M, Dickens NJ, Brown NJ, Ross FM, Avramidou A, Irving JA, Gonzalez D, Davies FE, Morgan GJ
+  TITLE     MMSET deregulation affects cell cycle progression and adhesion regulons in t(4;14) myeloma plasma cells.
+  JOURNAL   Haematologica 94:78-86 (2009)
+            DOI:10.3324/haematol.13426
+REFERENCE   PMID:10350329
+  AUTHORS   Iida S, Rao PH, Ueda R, Chaganti RS, Dalla-Favera R
+  TITLE     Chromosomal rearrangement of the PAX-5 locus in lymphoplasmacytic lymphoma with t(9;14)(p13;q32).
+  JOURNAL   Leuk Lymphoma 34:25-33 (1999)
+            DOI:10.3109/10428199909083377
+REFERENCE   PMID:10784387
+  AUTHORS   Ohno H, Ueda C, Akasaka T
+  TITLE     The t(9;14)(p13;q32) translocation in B-cell non-Hodgkin's lymphoma.
+  JOURNAL   Leuk Lymphoma 36:435-45 (2000)
+            DOI:10.3109/10428190009148390
+REFERENCE   PMID:19233641
+  AUTHORS   Prensner JR, Chinnaiyan AM
+  TITLE     Oncogenic gene fusions in epithelial carcinomas.
+  JOURNAL   Curr Opin Genet Dev 19:82-91 (2009)
+            DOI:10.1016/j.gde.2008.11.008
+REFERENCE   PMID:19406209
+  AUTHORS   Brenner JC, Chinnaiyan AM
+  TITLE     Translocations in epithelial cancers.
+  JOURNAL   Biochim Biophys Acta 1796:201-15 (2009)
+            DOI:10.1016/j.bbcan.2009.04.005
+REFERENCE   PMID:16946003
+  AUTHORS   Reddi HV, McIver B, Grebe SK, Eberhardt NL
+  TITLE     The paired box-8/peroxisome proliferator-activated receptor-gamma oncogene in thyroid tumorigenesis.
+  JOURNAL   Endocrinology 148:932-5 (2007)
+            DOI:10.1210/en.2006-0926
+REFERENCE   PMID:19422821
+  AUTHORS   Medendorp K, van Groningen JJ, Vreede L, Hetterschijt L, Brugmans L, van den Hurk WH, van Kessel AG
+  TITLE     The renal cell carcinoma-associated oncogenic fusion protein PRCCTFE3 provokes p21 WAF1/CIP1-mediated cell cycle delay.
+  JOURNAL   Exp Cell Res 315:2399-409 (2009)
+            DOI:10.1016/j.yexcr.2009.04.022
+REFERENCE   PMID:18563191
+  AUTHORS   Kumar-Sinha C, Tomlins SA, Chinnaiyan AM
+  TITLE     Recurrent gene fusions in prostate cancer.
+  JOURNAL   Nat Rev Cancer 8:497-511 (2008)
+            DOI:10.1038/nrc2402
+REFERENCE   PMID:20478527
+  AUTHORS   Yu J, Yu J, Mani RS, Cao Q, Brenner CJ, Cao X, Wang X, Wu L, Li J, Hu M, Gong Y, Cheng H, Laxman B, Vellaichamy A, Shankar S, Li Y, Dhanasekaran SM, Morey R, Barrette T, Lonigro RJ, Tomlins SA, Varambally S, Qin ZS, Chinnaiyan AM
+  TITLE     An integrated network of androgen receptor, polycomb, and TMPRSS2-ERG gene fusions in prostate cancer progression.
+  JOURNAL   Cancer Cell 17:443-54 (2010)
+            DOI:10.1016/j.ccr.2010.03.018
+REFERENCE   PMID:21747944
+  AUTHORS   Leshem O, Madar S, Kogan-Sakin I, Kamer I, Goldstein I, Brosh R, Cohen Y, Jacob-Hirsch J, Ehrlich M, Ben-Sasson S, Goldfinger N, Loewenthal R, Gazit E, Rotter V, Berger R
+  TITLE     TMPRSS2/ERG promotes epithelial to mesenchymal transition through the ZEB1/ZEB2 axis in a prostate cancer model.
+  JOURNAL   PLoS One 6:e21650 (2011)
+            DOI:10.1371/journal.pone.0021650
+REFERENCE   PMID:17505060
+  AUTHORS   Cai C, Hsieh CL, Omwancha J, Zheng Z, Chen SY, Baert JL, Shemshedini L
+  TITLE     ETV1 is a novel androgen receptor-regulated gene that mediates prostate cancer cell invasion.
+  JOURNAL   Mol Endocrinol 21:1835-46 (2007)
+            DOI:10.1210/me.2006-0480
+REFERENCE   PMID:18172298
+  AUTHORS   Helgeson BE, Tomlins SA, Shah N, Laxman B, Cao Q, Prensner JR, Cao X, Singla N, Montie JE, Varambally S, Mehra R, Chinnaiyan AM
+  TITLE     Characterization of TMPRSS2:ETV5 and SLC45A3:ETV5 gene fusions in prostate cancer.
+  JOURNAL   Cancer Res 68:73-80 (2008)
+            DOI:10.1158/0008-5472.CAN-07-5352
+REFERENCE   PMID:21849159
+  AUTHORS   Westermark UK, Wilhelm M, Frenzel A, Henriksson MA
+  TITLE     The MYCN oncogene and differentiation in neuroblastoma.
+  JOURNAL   Semin Cancer Biol 21:256-66 (2011)
+            DOI:10.1016/j.semcancer.2011.08.001
+REFERENCE   PMID:20153925
+  AUTHORS   Bell E, Chen L, Liu T, Marshall GM, Lunec J, Tweddle DA
+  TITLE     MYCN oncoprotein targets and their therapeutic potential.
+  JOURNAL   Cancer Lett 293:144-57 (2010)
+            DOI:10.1016/j.canlet.2010.01.015
+REFERENCE   PMID:15644444
+  AUTHORS   Slack A, Chen Z, Tonelli R, Pule M, Hunt L, Pession A, Shohet JM
+  TITLE     The p53 regulatory gene MDM2 is a direct transcriptional target of MYCN in neuroblastoma.
+  JOURNAL   Proc Natl Acad Sci U S A 102:731-6 (2005)
+            DOI:10.1073/pnas.0405495102
+REFERENCE   PMID:20190806
+  AUTHORS   Ochiai H, Takenobu H, Nakagawa A, Yamaguchi Y, Kimura M, Ohira M, Okimoto Y, Fujimura Y, Koseki H, Kohno Y, Nakagawara A, Kamijo T
+  TITLE     Bmi1 is a MYCN target gene that regulates tumorigenesis through repression of KIF1Bbeta and TSLC1 in neuroblastoma.
+  JOURNAL   Oncogene 29:2681-90 (2010)
+            DOI:10.1038/onc.2010.22
+REFERENCE   PMID:20145147
+  AUTHORS   Chen L, Iraci N, Gherardi S, Gamble LD, Wood KM, Perini G, Lunec J, Tweddle DA
+  TITLE     p53 is a direct transcriptional target of MYCN in neuroblastoma.
+  JOURNAL   Cancer Res 70:1377-88 (2010)
+            DOI:10.1158/0008-5472.CAN-09-2598
+REFERENCE   PMID:17327229
+  AUTHORS   Beierle EA, Trujillo A, Nagaram A, Kurenova EV, Finch R, Ma X, Vella J, Cance WG, Golubovskaya VM
+  TITLE     N-MYC regulates focal adhesion kinase expression in human neuroblastoma.
+  JOURNAL   J Biol Chem 282:12503-16 (2007)
+            DOI:10.1074/jbc.M701450200
+REFERENCE   PMID:21123453
+  AUTHORS   Iraci N, Diolaiti D, Papa A, Porro A, Valli E, Gherardi S, Herold S, Eilers M, Bernardoni R, Della Valle G, Perini G
+  TITLE     A SP1/MIZ1/MYCN repression complex recruits HDAC1 at the TRKA and p75NTR promoters and affects neuroblastoma malignancy by inhibiting the cell response to NGF.
+  JOURNAL   Cancer Res 71:404-12 (2011)
+            DOI:10.1158/0008-5472.CAN-10-2627
+REFERENCE   PMID:17024155
+  AUTHORS   Dreijerink KM, Hoppener JW, Timmers HM, Lips CJ
+  TITLE     Mechanisms of disease: multiple endocrine neoplasia type 1-relation to chromatin modifications and transcription regulation.
+  JOURNAL   Nat Clin Pract Endocrinol Metab 2:562-70 (2006)
+            DOI:10.1038/ncpendmet0292
+REFERENCE   PMID:19075677
+  AUTHORS   Wu X, Hua X
+  TITLE     Menin, histone h3 methyltransferases, and regulation of cell proliferation: current knowledge and perspective.
+  JOURNAL   Curr Mol Med 8:805-15 (2008)
+            DOI:10.2174/156652408786733702
+REFERENCE   PMID:19564705
+  AUTHORS   Sakurai A, Murakami A, Sano K, Uchino S, Fukushima Y
+  TITLE     Unusual clinical and pathological presentation of a neuroendocrine tumor in a patient with multiple endocrine neoplasia type 1.
+  JOURNAL   Endocr J 56:887-95 (2009)
+            DOI:10.1507/endocrj.K09E-126
+REFERENCE   PMID:17222504
+  AUTHORS   Yang Y, Hua X
+  TITLE     In search of tumor suppressing functions of menin.
+  JOURNAL   Mol Cell Endocrinol 265-266:34-41 (2007)
+            DOI:10.1016/j.mce.2006.12.032
+REFERENCE   PMID:15826838
+  AUTHORS   Aman P
+  TITLE     Fusion oncogenes in tumor development.
+  JOURNAL   Semin Cancer Biol 15:236-43 (2005)
+            DOI:10.1016/j.semcancer.2005.01.009
+REFERENCE   PMID:12527902
+  AUTHORS   Fukuma M, Okita H, Hata J, Umezawa A
+  TITLE     Upregulation of Id2, an oncogenic helix-loop-helix protein, is mediated by the chimeric EWS/ets protein in Ewing sarcoma.
+  JOURNAL   Oncogene 22:1-9 (2003)
+            DOI:10.1038/sj.onc.1206055
+REFERENCE   PMID:18648544
+  AUTHORS   Cironi L, Riggi N, Provero P, Wolf N, Suva ML, Suva D, Kindler V, Stamenkovic I
+  TITLE     IGF1 is a common target gene of Ewing's sarcoma fusion proteins in mesenchymal progenitor cells.
+  JOURNAL   PLoS One 3:e2634 (2008)
+            DOI:10.1371/journal.pone.0002634
+REFERENCE   PMID:17250957
+  AUTHORS   Riggi N, Stamenkovic I.
+  TITLE     The Biology of Ewing sarcoma.
+  JOURNAL   Cancer Lett 254:1-10 (2007)
+            DOI:10.1016/j.canlet.2006.12.009
+REFERENCE   PMID:20490326
+  AUTHORS   Jedlicka P
+  TITLE     Ewing Sarcoma, an enigmatic malignancy of likely progenitor cell origin, driven by transcription factor oncogenic fusions.
+  JOURNAL   Int J Clin Exp Pathol 3:338-47 (2010)
+REFERENCE   PMID:19738075
+  AUTHORS   Ordonez JL, Osuna D, Herrero D, de Alava E, Madoz-Gurpide J
+  TITLE     Advances in Ewing's sarcoma research: where are we now and what lies ahead?
+  JOURNAL   Cancer Res 69:7140-50 (2009)
+            DOI:10.1158/0008-5472.CAN-08-4041
+REFERENCE   PMID:12527906
+  AUTHORS   Jishage M, Fujino T, Yamazaki Y, Kuroda H, Nakamura T
+  TITLE     Identification of target genes for EWS/ATF-1 chimeric transcription factor.
+  JOURNAL   Oncogene 22:41-9 (2003)
+            DOI:10.1038/sj.onc.1206074
+REFERENCE   PMID:15826834
+  AUTHORS   Gerald WL, Haber DA
+  TITLE     The EWS-WT1 gene fusion in desmoplastic small round cell tumor.
+  JOURNAL   Semin Cancer Biol 15:197-205 (2005)
+            DOI:10.1016/j.semcancer.2005.01.005
+REFERENCE   PMID:18855877
+  AUTHORS   Filion C, Motoi T, Olshen AB, Lae M, Emnett RJ, Gutmann DH, Perry A, Ladanyi M, Labelle Y
+  TITLE     The EWSR1/NR4A3 fusion protein of extraskeletal myxoid chondrosarcoma activates the PPARG nuclear receptor gene.
+  JOURNAL   J Pathol 217:83-93 (2009)
+            DOI:10.1002/path.2445
+REFERENCE   PMID:18330902
+  AUTHORS   Kim S, Lee HJ, Jun HJ, Kim J
+  TITLE     The hTAF II 68-TEC fusion protein functions as a strong transcriptional activator.
+  JOURNAL   Int J Cancer 122:2446-53 (2008)
+            DOI:10.1002/ijc.23379
+REFERENCE   PMID:10537274
+  AUTHORS   Sjogren H, Meis-Kindblom J, Kindblom LG, Aman P, Stenman G
+  TITLE     Fusion of the EWS-related gene TAF2N to TEC in extraskeletal myxoid chondrosarcoma.
+  JOURNAL   Cancer Res 59:5064-7 (1999)
+REFERENCE   PMID:15688424
+  AUTHORS   Goransson M, Elias E, Stahlberg A, Olofsson A, Andersson C, Aman P
+  TITLE     Myxoid liposarcoma FUS-DDIT3 fusion oncogene induces C/EBP beta-mediated interleukin 6 expression.
+  JOURNAL   Int J Cancer 115:556-60 (2005)
+            DOI:10.1002/ijc.20893
+REFERENCE   PMID:18850010
+  AUTHORS   Goransson M, Andersson MK, Forni C, Stahlberg A, Andersson C, Olofsson A, Mantovani R, Aman P
+  TITLE     The myxoid liposarcoma FUS-DDIT3 fusion oncoprotein deregulates NF-kappaB target genes by interaction with NFKBIZ.
+  JOURNAL   Oncogene 28:270-8 (2009)
+            DOI:10.1038/onc.2008.378
+REFERENCE   PMID:20863376
+  AUTHORS   Willems SM, Schrage YM, Bruijn IH, Szuhai K, Hogendoorn PC, Bovee JV
+  TITLE     Kinome profiling of myxoid liposarcoma reveals NF-kappaB-pathway kinase activity and casein kinase II inhibition as a potential treatment option.
+  JOURNAL   Mol Cancer 9:257 (2010)
+            DOI:10.1186/1476-4598-9-257
+REFERENCE   PMID:18457914
+  AUTHORS   Linardic CM
+  TITLE     PAX3-FOXO1 fusion gene in rhabdomyosarcoma.
+  JOURNAL   Cancer Lett 270:10-8 (2008)
+            DOI:10.1016/j.canlet.2008.03.035
+REFERENCE   PMID:11863357
+  AUTHORS   Barber TD, Barber MC, Tomescu O, Barr FG, Ruben S, Friedman TB
+  TITLE     Identification of target genes regulated by PAX3 and PAX3-FKHR in embryogenesis and alveolar rhabdomyosarcoma.
+  JOURNAL   Genomics 79:278-84 (2002)
+            DOI:10.1006/geno.2002.6703
+REFERENCE   PMID:17101797
+  AUTHORS   Ishida M, Miyamoto M, Naitoh S, Tatsuda D, Hasegawa T, Nemoto T, Yokozeki H, Nishioka K, Matsukage A, Ohki M, Ohta T
+  TITLE     The SYT-SSX fusion protein down-regulates the cell proliferation regulator COM1 in t(x;18) synovial sarcoma.
+  JOURNAL   Mol Cell Biol 27:1348-55 (2007)
+            DOI:10.1128/MCB.00658-06
+REFERENCE   PMID:19472090
+  AUTHORS   Jun HJ, Lee J, Lim do H, Park JO, Ahn G, Seo SW, Sung KS, Lim do H, Yoo KH, Choi YL
+  TITLE     Expression of MET in alveolar soft part sarcoma.
+  JOURNAL   Med Oncol 27:459-65 (2010)
+            DOI:10.1007/s12032-009-9234-8
+REFERENCE   PMID:21779514
+  AUTHORS   Rivlin N, Brosh R, Oren M, Rotter V
+  TITLE     Mutations in the p53 Tumor Suppressor Gene: Important Milestones at the Various Steps of Tumorigenesis.
+  JOURNAL   Genes Cancer 2:466-74 (2011)
+            DOI:10.1177/1947601911408889
+REFERENCE   PMID:21765642
+  AUTHORS   Suzuki K, Matsubara H
+  TITLE     Recent advances in p53 research and cancer treatment.
+  JOURNAL   J Biomed Biotechnol 2011:978312 (2011)
+            DOI:10.1155/2011/978312
+REL_PATHWAY hsa04115  p53 signaling pathway
+            hsa05211  Renal cell carcinoma
+            hsa05215  Prostate cancer
+            hsa05216  Thyroid cancer
+            hsa05221  Acute myeloid leukemia
+KO_PATHWAY  ko05202
+///

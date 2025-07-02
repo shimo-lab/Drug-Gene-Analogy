@@ -1,0 +1,2473 @@
+ENTRY       hsa04080                    Pathway
+NAME        Neuroactive ligand-receptor interaction - Homo sapiens (human)
+CLASS       Environmental Information Processing; Signaling molecules and interaction
+PATHWAY_MAP hsa04080  Neuroactive ligand-receptor interaction
+DRUG        D00045  Adenosine (JAN/USP)
+            D00058  gamma-Aminobutyric acid (JAN)
+            D00059  Levodopa (JP18/USP/INN)
+            D00076  Noradrenaline (JP18)
+            D00079  Dinoprostone (JAN/USP/INN)
+            D00081  Dinoprost (JP18/USAN/INN)
+            D00088  Hydrocortisone (JP18/USP/INN)
+            D00089  Oxytocin (JP18/USP/INN)
+            D00095  Epinephrine (USP/INN)
+            D00101  Vasopressin (JP18/USP)
+            D00106  Epoprostenol (USAN/INN)
+            D00113  Atropine (USP)
+            D00116  Glucagon (genetical recombination) (JP18)
+            D00124  Ephedrine (USP)
+            D00136  Haloperidol (JP18/USP/INN)
+            D00138  Scopolamine (INN)
+            D00146  Corticotropin (USP/INN)
+            D00147  Hyoscyamine (USP)
+            D00150  Angiotensin II (INN)
+            D00165  Hydrocortisone acetate (JP18/USP)
+            D00176  Protirelin (JP18/USAN/INN)
+            D00180  Alprostadil (JP18/USP/INN)
+            D00181  Argatroban (USP)
+            D00193  Dexpanthenol (USP/INN)
+            D00195  Codeine (USP)
+            D00225  Alprazolam (JP18/USP/INN)
+            D00227  Aminophylline (USP/INN)
+            D00232  Anisotropine methylbromide (USAN)
+            D00234  Astemizole (JAN/USP/INN)
+            D00235  Atenolol (JP18/USP/INN)
+            D00241  Baclofen (JP18/USP/INN)
+            D00244  Betamethasone (JP18/USP/INN)
+            D00246  Budesonide (JP18/USP/INN)
+            D00249  Calcitonin salmon (JP18/USP/INN)
+            D00250  Capsaicin (JAN/USP)
+            D00255  Carvedilol (JP18/USP/INN)
+            D00267  Chlordiazepoxide (JP18/USP/INN)
+            D00270  Chlorpromazine (USP/INN)
+            D00274  Cisapride (USP/INN)
+            D00280  Clonazepam (JP18/USP/INN)
+            D00281  Clonidine (JAN/USP/INN)
+            D00283  Clozapine (JAN/USP/INN)
+            D00284  Cosyntropin (USP)
+            D00291  Desmopressin (INN)
+            D00292  Dexamethasone (JP18/USP/INN)
+            D00293  Diazepam (JP18/USP/INN)
+            D00295  Cimetidine (JP18/USP/INN)
+            D00300  Diphenhydramine (JP18/INN)
+            D00306  Dronabinol (USP/INN)
+            D00308  Droperidol (JP18/USP/INN)
+            D00311  Estazolam (JP18/USP/INN)
+            D00318  Famotidine (JP18/USP/INN)
+            D00320  Fentanyl (JAN/USP/INN)
+            D00324  Flunisolide (JAN/USP)
+            D00325  Fluocinonide (JP18/USP/INN)
+            D00328  Flurandrenolide (USP)
+            D00329  Flurazepam (JAN/INN)
+            D00338  Halazepam (USAN/INN)
+            D00356  Latanoprost (JAN/USP/INN)
+            D00357  Losartan potassium (JP18/USP)
+            D00364  Loratadine (JAN/USP/INN)
+            D00365  Lorazepam (JP18/USP/INN)
+            D00366  Lypressin (USAN/INN)
+            D00370  Temazepam (USP/INN)
+            D00371  Theophylline (JP18)
+            D00373  Thioridazine (USP/INN)
+            D00374  Thiothixene (USP)
+            D00376  Meprobamate (JAN/USP/INN)
+            D00378  Timolol (USAN)
+            D00385  Triamcinolone (JP18/USP/INN)
+            D00387  Triazolam (JP18/USP/INN)
+            D00390  Triflupromazine (USP/INN)
+            D00397  Tropicamide (JP18/USP/INN)
+            D00400  Valsartan (JP18/USP/INN)
+            D00403  Methotrimeprazine (USP)
+            D00405  Methyldopa (USP)
+            D00407  Methylprednisolone (JP18/USP/INN)
+            D00411  Zafirlukast (JAN/USAN/INN)
+            D00415  Zolmitriptan (JAN/USP/INN)
+            D00419  Misoprostol (JAN/USP/INN)
+            D00422  Ranitidine (USAN/INN)
+            D00426  Risperidone (JP18/USP/INN)
+            D00430  Secobarbital (USP/INN)
+            D00432  Nadolol (JP18/USP/INN)
+            D00440  Nizatidine (JP18/USP/INN)
+            D00442  Octreotide (USAN/INN)
+            D00451  Sumatriptan (JAN/USP/INN)
+            D00454  Olanzapine (JAN/USP/INN)
+            D00457  Quazepam (JAN/USP/INN)
+            D00458  Quetiapine fumarate (JP18/USP)
+            D00464  Oxazepam (JAN/USP/INN)
+            D00465  Oxybutynin (USAN/INN)
+            D00470  Prazepam (JP18/USAN/INN)
+            D00472  Prednisolone (JP18/USP/INN)
+            D00473  Prednisone (USP)
+            D00479  Prochlorperazine maleate (JP18/USP)
+            D00480  Promethazine hydrochloride (JP18/USP)
+            D00481  Propantheline bromide (JP18/USP/INN)
+            D00482  Propoxyphene hydrochloride (USAN)
+            D00483  Propranolol hydrochloride (JP18/USP)
+            D00485  Pseudoephedrine hydrochloride (USP)
+            D00492  Pancuronium bromide (JP18/USP/INN)
+            D00493  Prochlorperazine (JAN/USP/INN)
+            D00494  Promethazine (JAN/INN)
+            D00498  Pentazocine (JP18/USP/INN)
+            D00499  Pentobarbital (USP/INN)
+            D00500  Pentobarbital sodium (JAN/USP)
+            D00502  Pergolide mesylate (USP)
+            D00503  Perphenazine (JP18/USP/INN)
+            D00506  Phenobarbital (JP18/USP/INN)
+            D00507  Phenoxybenzamine hydrochloride (USP)
+            D00509  Phentolamine mesylate (USP)
+            D00511  Phenylephrine hydrochloride (JP18/USP)
+            D00513  Pindolol (JP18/USP/INN)
+            D00514  Dexmedetomidine (USAN/INN)
+            D00520  Dimenhydrinate (JP18/USP/INN)
+            D00521  Terfenadine (JAN/USAN/INN)
+            D00522  Candesartan (USAN/INN)
+            D00523  Irbesartan (JP18/USP/INN)
+            D00524  Carbachol (JAN/USP/INN)
+            D00525  Pilocarpine (JAN/USP)
+            D00528  Caffeine (USP)
+            D00529  Montelukast sodium (JP18/USP)
+            D00530  Zaleplon (JAN/USP/INN)
+            D00531  Nitrazepam (JP18/USAN/INN)
+            D00532  Glutethimide (JAN/INN)
+            D00536  Felbamate (USPINN)
+            D00537  Topiramate (JAN/USP/INN)
+            D00540  Glycopyrrolate (USP)
+            D00548  Etomidate (USP/INN)
+            D00549  Propofol (JAN/USP/INN)
+            D00550  Midazolam (JAN/USP/INN)
+            D00555  Amobarbital (JP18/INN)
+            D00559  Pramipexole dihydrochloride (USP)
+            D00560  Pimozide (JP18/USP/INN)
+            D00561  Sertindole (USAN/INN)
+            D00563  Mirtazapine (JAN/USP/INN)
+            D00573  Goserelin acetate (JAN/USP)
+            D00585  Mifepristone (JAN/USAN/INN)
+            D00597  Acebutolol hydrochloride (JP18/USP)
+            D00598  Betaxolol hydrochloride (JP18/USP)
+            D00599  Carteolol hydrochloride (JP18/USP)
+            D00600  Labetalol hydrochloride (JP18/USP)
+            D00601  Metoprolol tartrate (JP18/USP)
+            D00602  Penbutolol sulfate (JP18/USP)
+            D00603  Timolol maleate (JP18/USP)
+            D00604  Clonidine hydrochloride (JP18/USP)
+            D00605  Guanabenz acetate (JP18/USP)
+            D00606  Guanfacine hydrochloride (JAN/USP)
+            D00607  Guanadrel sulfate (USAN)
+            D00608  Doxazosin mesylate (USP)
+            D00609  Prazosin hydrochloride (JP18/USP)
+            D00610  Terazosin hydrochloride (USP)
+            D00611  Mecamylamine hydrochloride (USP)
+            D00612  Trimetaphan camsilate (JAN/INN)
+            D00613  Fenoldopam mesylate (USP)
+            D00626  Candesartan cilexetil (JP18/USP)
+            D00627  Telmisartan (JP18/USP/INN)
+            D00632  Dobutamine hydrochloride (JP18/USP)
+            D00633  Dopamine hydrochloride (JP18/USP)
+            D00634  Bisoprolol fumarate (JP18/USP)
+            D00635  Metoprolol succinate (USP)
+            D00636  Amiodarone hydrochloride (JP18/USP)
+            D00644  Esmolol hydrochloride (JAN/USP)
+            D00646  Tolterodine (USAN/INN)
+            D00659  Azelastine hydrochloride (JP18/USP)
+            D00661  Cevimeline hydrochloride (USAN)
+            D00662  Azatadine maleate (USP)
+            D00663  Brompheniramine maleate (USP)
+            D00664  Cetirizine hydrochloride (JP18/USP)
+            D00665  Chlorpheniramine maleate (JP18/USP)
+            D00666  Clemastine fumarate (JP18/USP)
+            D00668  Dexchlorpheniramine maleate (USP)
+            D00669  Diphenhydramine hydrochloride (JP18/USP)
+            D00671  Fexofenadine hydrochloride (JP18/USP)
+            D00672  Hydroxyzine hydrochloride (JP18/USP)
+            D00673  Ranitidine hydrochloride (JP18/USP)
+            D00674  Naratriptan hydrochloride (JAN/USP)
+            D00675  Rizatriptan benzoate (JAN/USP)
+            D00676  Sumatriptan succinate (JAN/USP)
+            D00679  Ergotamine tartrate (JP18/USP)
+            D00680  Methylergonovine maleate (USP)
+            D00681  Methysergide maleate (USP)
+            D00682  Carboprost tromethamine (USP)
+            D00683  Albuterol sulfate (USP)
+            D00684  Bitolterol mesylate (USAN)
+            D00685  Metaproterenol sulfate (USP)
+            D00686  Pirbuterol acetate (USAN)
+            D00687  Salmeterol xinafoate (JAN/USP)
+            D00688  Terbutaline sulfate (JP18/USP)
+            D00689  Beclomethasone dipropionate (USP)
+            D00690  Mometasone furoate (JAN/USP)
+            D00691  Dyphylline (USP)
+            D00693  Chlordiazepoxide hydrochloride (JAN/USP)
+            D00694  Clorazepate dipotassium (JP18/USP)
+            D00695  Flurazepam hydrochloride (USP)
+            D00696  Midazolam hydrochloride (USAN)
+            D00697  Flumazenil (JAN/USP/INN)
+            D00698  Aprobarbital (INN)
+            D00699  Butabarbital sodium (USP)
+            D00700  Mephobarbital (JAN/USP)
+            D00701  Phenobarbital sodium (JAN/USP/INN)
+            D00702  Buspirone hydrochloride (USP)
+            D00706  Zolpidem tartrate (JP18/USP)
+            D00711  Ketamine hydrochloride (JP18/USP)
+            D00712  Methohexital sodium (USP)
+            D00713  Thiamylal sodium (JP18)
+            D00714  Thiopental sodium (JP18/USP/INN)
+            D00715  Methscopolamine bromide (USP)
+            D00716  Clidinium bromide (USP/INN)
+            D00717  Dicyclomine hydrochloride (JAN/USP)
+            D00719  Hyoscyamine sulfate (USP)
+            D00720  Mepenzolate bromide (JP18/INN)
+            D00721  Methanthelinium bromide (INN)
+            D00722  Oxybutynin chloride (USP)
+            D00723  Tridihexethyl chloride (BAN)
+            D00726  Metoclopramide (JP18/INN)
+            D00729  Loperamide hydrochloride (JAN/USP)
+            D00743  Naphazoline hydrochloride (JP18/USP)
+            D00751  Methylprednisolone sodium succinate (JAN/USP)
+            D00756  Tetrahydrozoline nitrate (JAN)
+            D00757  Xylometazoline hydrochloride (USP)
+            D00758  Atracurium besylate (USP)
+            D00759  Cisatracurium besylate (USP)
+            D00760  Doxacurium chloride (USAN/INN)
+            D00761  Metocurine iodide (USAN)
+            D00763  Mivacurium chloride (USAN/INN)
+            D00764  Pipecuronium bromide (JAN/USAN/INN)
+            D00765  Rocuronium bromide (JAN/USP/INN)
+            D00766  Succinylcholine chloride (USP)
+            D00767  Vecuronium bromide (JAN/USP/INN)
+            D00774  Orphenadrine citrate (USP)
+            D00775  Riluzole (JAN/USP/INN)
+            D00776  Tizanidine hydrochloride (JP18/USP)
+            D00777  Amantadine hydrochloride (JP18/USP)
+            D00778  Benztropine mesylate (USP)
+            D00779  Biperiden (JAN/USP/INN)
+            D00780  Bromocriptine mesylate (USP)
+            D00782  Procyclidine hydrochloride (USP)
+            D00784  Ropinirole hydrochloride (JAN/USP)
+            D00787  Trihexyphenidyl hydrochloride (JP18/USP)
+            D00788  Acetophenazine maleate (USAN)
+            D00789  Chlorpromazine hydrochloride (JP18/USP)
+            D00790  Chlorprothixene (JAN/USAN/INN)
+            D00791  Fluphenazine hydrochloride (JAN/USP)
+            D00792  Fluphenazine enanthate (JP18/USP)
+            D00793  Fluphenazine decanoate (JAN/USP)
+            D00794  Loxapine succinate (USP)
+            D00795  Mesoridazine besylate (USP)
+            D00796  Molindone hydrochloride (USP)
+            D00797  Promazine hydrochloride (USP)
+            D00798  Thioridazine hydrochloride (JP18/USP)
+            D00799  Trifluoperazine hydrochloride (JAN/USP)
+            D00800  Triflupromazine hydrochloride (JAN/USP)
+            D00814  Doxepin hydrochloride (USP)
+            D00819  Nefazodone hydrochloride (USP)
+            D00820  Trazodone hydrochloride (JAN/USP)
+            D00835  Alfentanil hydrochloride (USP)
+            D00836  Buprenorphine hydrochloride (JP18/USP)
+            D00837  Butorphanol tartrate (JAN/USP)
+            D00838  Dezocine (USAN)
+            D00839  Hydromorphone hydrochloride (JAN/USP)
+            D00840  Levomethadyl acetate hydrochloride (USAN)
+            D00841  Levorphanol tartrate (USP)
+            D00842  Morphine sulfate (USP)
+            D00843  Nalbuphine hydrochloride (USAN)
+            D00844  Oxymorphone hydrochloride (USP)
+            D00845  Sufentanil citrate (USP)
+            D00847  Oxycodone hydrochloride (USP)
+            D00848  Dextromethorphan hydrobromide (USP)
+            D00972  Betamethasone sodium phosphate (JP18/USP)
+            D00973  Cortisone acetate (JP18/USP)
+            D00975  Dexamethasone sodium phosphate (JAN/USP)
+            D00976  Hydrocortisone cypionate
+            D00977  Hydrocortisone sodium phosphate (JP18/USP)
+            D00978  Hydrocortisone sodium succinate (JP18/USP)
+            D00979  Methylprednisolone acetate (JAN/USP)
+            D00980  Prednisolone acetate (JP18/USP/INN)
+            D00981  Prednisolone sodium phosphate (JP18/USP)
+            D00982  Prednisolone tebutate (JAN/USP)
+            D00983  Triamcinolone acetonide (JP18/USP)
+            D00984  Triamcinolone diacetate (JAN/USP)
+            D00985  Triamcinolone hexacetonide (USP/INN)
+            D00987  Cabergoline (JP18/USP/INN)
+            D00988  Gonadorelin hydrochloride (USP)
+            D00989  Leuprolide acetate (USP)
+            D00990  Nafarelin acetate (USAN)
+            D00996  Epinephrine hydrochloride (JAN)
+            D00997  Tolazoline hydrochloride (JAN/USP)
+            D00999  Acetylcholine chloride (JP18/USP/INN)
+            D01000  Bethanechol chloride (JP18/USP)
+            D01002  Cyclopentolate hydrochloride (JP18/USP)
+            D01003  Hexocyclium metilsulfate (INN)
+            D01004  Homatropine hydrobromide (JP18/USP)
+            D01005  Isopropamide iodide (JAN/USP/INN)
+            D01006  Oxyphencyclimine hydrochloride (JAN)
+            D01007  Propiverine hydrochloride (JP18)
+            D01008  Apraclonidine hydrochloride (JAN/USP)
+            D01010  Levothyroxine sodium (USP)
+            D01011  Liothyronine sodium (JP18/USP)
+            D01012  Dried thyroid (JP18)
+            D01017  Dipivefrin hydrochloride (USP)
+            D01019  Metaraminol bitartrate (JAN/USP)
+            D01020  Methoxamine hydrochloride (JAN)
+            D01021  Naphazoline nitrate (JP18)
+            D01022  Oxymetazoline hydrochloride (JAN/USP)
+            D01023  Tetrahydrozoline hydrochloride (JAN/USP)
+            D01024  Tamsulosin hydrochloride (JP18/USP)
+            D01025  Levobunolol hydrochloride (JAN/USP)
+            D01026  Sotalol hydrochloride (JAN/USP)
+            D01044  Flupentixol (INN)
+            D01051  Spiperone (JAN/USAN)
+            D01071  Hexobarbital (JAN/INN)
+            D01077  Methylatropine nitrate (USAN)
+            D01096  Hydroxyzine pamoate (JP18/USP)
+            D01101  Bromperidol (JAN/USAN/INN)
+            D01103  Trospium chloride (JAN/USP/INN)
+            D01105  Moperone hydrochloride (JAN)
+            D01113  Loxiglumide (JAN/INN)
+            D01117  Mizolastine (JAN/INN)
+            D01118  Profenamine hydrochloride (JAN)
+            D01123  Seratrodast (JAN/USAN/INN)
+            D01128  Ramatroban (JAN/INN)
+            D01130  Thiethylperazine maleate (JAN/USP)
+            D01131  Lafutidine (JP18/INN)
+            D01143  Isothipendyl hydrochloride (JAN)
+            D01148  Tolterodine tartrate (JAN/USP)
+            D01150  Methyprylon (JAN/INN)
+            D01163  Ergonovine maleate (USP)
+            D01164  Aripiprazole (JAN/USP/INN)
+            D01165  Piperidolate hydrochloride (JAN)
+            D01171  Monatepil maleate (JAN/USAN)
+            D01172  Diphenylpyraline hydrochloride (JAN)
+            D01174  Pheniramine maleate (JAN/USP)
+            D01175  Carpronium chloride (JAN/INN)
+            D01176  Blonanserin (JAN/INN)
+            D01177  Remifentanil hydrochloride (JAN/USAN)
+            D01182  Alprenolol hydrochloride (JP18/USAN)
+            D01187  Betazole hydrochloride (JAN)
+            D01188  Pimilprost (JAN/INN)
+            D01192  Olopatadine hydrochloride (JP18/USP)
+            D01201  Tiemonium iodide (JAN/INN)
+            D01204  Olmesartan medoxomil (JP18/USP)
+            D01205  Dexmedetomidine hydrochloride (JAN/USP)
+            D01213  Tolvaptan (JAN/USAN/INN)
+            D01224  Phenylpropanolamine hydrochloride (JAN/USP)
+            D01226  Sulpiride (JP18/USAN/INN)
+            D01227  Bosentan (USAN)
+            D01229  Paramethasone acetate (JAN/USAN)
+            D01230  Flunitrazepam (JP18/USAN/INN)
+            D01231  Piroheptine hydrochloride (JAN)
+            D01236  Conivaptan hydrochloride (JAN/USAN)
+            D01239  Prednisolone sodium succinate (JP18/USP)
+            D01242  Promethazine teoclate (JAN/INN)
+            D01245  Bromazepam (JP18/USAN/INN)
+            D01253  Clobazam (JAN/USAN/INN)
+            D01254  Tofisopam (JP18/INN)
+            D01263  Ritodrine hydrochloride (JP18/USP)
+            D01266  Difluprednate (JAN/USAN/INN)
+            D01268  Cloxazolam (JP18/INN)
+            D01269  Solifenacin succinate (JAN/USAN/INN)
+            D01272  Clobetasol propionate (JP18/USP)
+            D01273  Clobetasone butyrate (JAN/USAN)
+            D01277  Droxidopa (JP18/USAN/INN)
+            D01278  Oxazolam (JP18/INN)
+            D01279  Flutoprazepam (JP18/INN)
+            D01286  Flutazolam (JAN/INN)
+            D01290  Nicergoline (JP18/USAN/INN)
+            D01292  Medazepam (JP18/INN)
+            D01293  Ethyl loflazepate (JP18/INN)
+            D01295  Cinnarizine (JAN/USAN/INN)
+            D01297  Pirenzepine hydrochloride (USAN)
+            D01307  Midodrine hydrochloride (JAN/USP)
+            D01308  Halcinonide (JAN/USP/INN)
+            D01310  Secobarbital sodium (JAN/USP)
+            D01315  Methylbenactyzium bromide (JP18/INN)
+            D01316  Mexazolam (JAN/INN)
+            D01317  Meclizine hydrochloride (JAN/USP)
+            D01318  Diphenidol hydrochloride (USAN)
+            D01321  Zotepine (JAN/INN)
+            D01324  Mequitazine (JP18/INN)
+            D01327  Diflorasone diacetate (JP18/USP)
+            D01328  Clotiazepam (JP18/INN)
+            D01332  Ketotifen fumarate (JP18/USAN)
+            D01333  Urapidil (JP18/INN)
+            D01336  Carbinoxamine maleate (JAN/USP)
+            D01337  Epoprostenol sodium (JAN/USAN)
+            D01340  Naloxone hydrochloride (JP18/USP)
+            D01343  Dimethindene maleate (USAN)
+            D01347  Tramazoline hydrochloride (JAN/USAN)
+            D01348  Terguride (JAN/INN)
+            D01349  Pirbuterol hydrochloride (JAN/USAN)
+            D01352  Dinoprost tromethamine (JAN/USP)
+            D01354  Fludiazepam (JP18/INN)
+            D01355  Tramadol hydrochloride (JP18/USP)
+            D01357  Betamethasone valerate (JP18/USP)
+            D01358  Mianserin hydrochloride (JAN/USAN)
+            D01359  Etomidoline (JAN/INN)
+            D01360  Clenbuterol hydrochloride (JAN/USP)
+            D01362  Tulobuterol hydrochloride (JP18)
+            D01367  Fluorometholone (JP18/USP/INN)
+            D01369  Bevantolol hydrochloride (JAN/USAN)
+            D01372  Zopiclone (JP18/INN)
+            D01373  Formoterol fumarate (USP)
+            D01377  Prifinium bromide (JAN/INN)
+            D01382  Metharbital (JAN/INN)
+            D01383  Meperidine hydrochloride (USP)
+            D01385  Ibudilast (JP18/INN)
+            D01386  Ephedrine hydrochloride (JP18/USP)
+            D01387  Amcinonide (JAN/USP/INN)
+            D01390  Isoproterenol hydrochloride (USP)
+            D01399  Fentanyl citrate (JP18/USP)
+            D01402  Betamethasone acetate (JAN/USP)
+            D01405  Norfenefrine hydrochloride (JAN)
+            D01408  Flurazepam hydrochloride (JP18)
+            D01412  Perazine maleate (JAN)
+            D01428  Fenoterol hydrobromide (JAN)
+            D01434  Deprodone propionate (JAN)
+            D01435  Ethoheptazine citrate (JAN)
+            D01442  Hydrocortisone succinate (JP18)
+            D01444  Bunitrolol hydrochloride (JAN)
+            D01445  Ifenprodil tartrate (JP18)
+            D01447  Thioproperazine mesilate (JAN)
+            D01448  Trifluoperazine maleate (JAN)
+            D01451  Scopolamine butylbromide (JP18)
+            D01452  Isopropyl unoprostone (JAN)
+            D01453  Caffeine hydrate (JP18)
+            D01454  Bupranolol hydrochloride (JP18)
+            D01460  Homochlorcyclizine hydrochloride (JP18)
+            D01462  Lisuride maleate (JAN)
+            D01463  Diponium bromide (JAN/INN)
+            D01464  Flumethasone pivalate (USP)
+            D01467  Roxatidine acetate hydrochloride (JP18/USAN)
+            D01468  Nemonapride (JAN/INN)
+            D01469  Amosulalol hydrochloride (JP18)
+            D01471  Esatenolol (JAN/INN)
+            D01477  Opipramol hydrochloride (JAN/USAN)
+            D01478  Ebastine (JP18/USAN/INN)
+            D01481  Dihydrocodeine phosphate (JP18)
+            D01482  Pipamperone hydrochloride (JAN)
+            D01485  Propericiazine (JAN)
+            D01491  Butropium bromide (JP18/INN)
+            D01500  Trimebutine maleate (JP18)
+            D01504  Bufetolol hydrochloride (JP18)
+            D01505  Talipexole hydrochloride (JAN)
+            D01510  Dexamethasone metasulfobenzoate sodium (JAN)
+            D01512  Befunolol hydrochloride (JAN)
+            D01514  Etizolam (JP18/INN)
+            D01520  Levomepromazine hydrochloride (JAN/USAN)
+            D01521  Pipethanate hydrochloride (JAN)
+            D01522  Tiapride hydrochloride (JP18)
+            D01532  Bevonium methylsulfate (JAN)
+            D01537  Xaliproden hydrochloride (JAN)
+            D01538  Valethamate bromide (JAN)
+            D01548  Mosapramine hydrochloride (JAN)
+            D01551  Beraprost sodium (JP18/USAN)
+            D01564  Rilmazafone hydrochloride hydrate (JP18)
+            D01571  Moxisylyte hydrochloride (JAN)
+            D01573  Etilefrine hydrochloride (JP18)
+            D01589  Mabuterol hydrochloride (JAN)
+            D01592  Betahistine mesilate (JP18)
+            D01593  Nimetazepam (JAN/INN)
+            D01600  Diphenylpiperidinomethyldioxolan iodide (JAN)
+            D01603  Bethanidine sulfate (JAN/USAN)
+            D01615  Dexamethasone palmitate (JAN)
+            D01619  Hydrocortisone butyrate (JP18/USP)
+            D01624  Sarpogrelate hydrochloride (JP18)
+            D01627  Diphenylpyraline teoclate (JAN)
+            D01631  Pentagastrin (JAN/USAN/INN)
+            D01632  Dexamethasone dipropionate (USAN)
+            D01635  Methoxyphenamine hydrochloride (JAN)
+            D01637  Betamethasone dipropionate (JP18/USP)
+            D01648  Hyoscyamine methylbromide (JAN)
+            D01652  Apafant (JAN/USAN/INN)
+            D01654  Bepotastine besylate (USAN)
+            D01657  Lormetazepam (JAN/USAN/INN)
+            D01674  Naftopidil (JP18/INN)
+            D01685  Cetrorelix acetate (JAN/USAN)
+            D01689  Loteprednol etabonate (JAN/USAN)
+            D01691  Nipradilol (JAN/INN)
+            D01692  Alfuzosin hydrochloride (JAN/USAN)
+            D01699  Darifenacin hydrobromide (JAN/USAN)
+            D01701  Difeterol hydrochloride (JAN)
+            D01703  Ciclesonide (JAN/USAN/INN)
+            D01708  Fluticasone propionate (JAN/USP)
+            D01712  Theophylline sodium acetate (JAN)
+            D01713  Epinastine hydrochloride (JAN)
+            D01717  Levocabastine hydrochloride (JAN/USP)
+            D01740  Barbital (JP18/INN)
+            D01741  Celiprolol hydrochloride (JAN/USAN)
+            D01742  Clebopride malate (JP18)
+            D01743  Halopredone acetate (JAN/USAN)
+            D01744  Brotizolam (JP18/USAN/INN)
+            D01745  Domperidone (JP18/USAN/INN)
+            D01748  Isoxsuprine hydrochloride (JP18/USP)
+            D01758  Haloxazolam (JP18/INN)
+            D01764  Diflucortolone valerate (JP18)
+            D01771  Proxyphylline (JAN/INN)
+            D01782  Triprolidine hydrochloride (USP)
+            D01786  Mebhydrolin napadisilate (JAN)
+            D01794  Bopindolol malonate (JAN)
+            D01795  Tilisolol hydrochloride (JAN)
+            D01801  Thonzylamine hydrochloride (JAN/USAN)
+            D01806  Oxprenolol hydrochloride (JP18/USP)
+            D01815  Oxapium iodide (JP18/INN)
+            D01820  Alclometasone dipropionate (JAN/USP)
+            D01825  Fluocinolone acetonide (JP18/USP/INN)
+            D01830  Arotinolol hydrochloride (JP18)
+            D01831  Buserelin acetate (JAN/USAN)
+            D01835  Clorprenaline hydrochloride (JAN/USAN)
+            D01838  Fabesetron hydrochloride (JAN)
+            D01847  Landiolol hydrochloride (JAN/USAN)
+            D01855  Mozavaptane hydrochloride (JAN)
+            D01858  Panazepide (JAN)
+            D01860  Perazine dimalonate (JAN)
+            D01861  Pibutidine hydrochloride (JAN)
+            D01869  Ornoprostil (JAN/INN)
+            D01871  Methixene hydrochloride (USAN)
+            D01875  Tiquizium bromide (JAN/INN)
+            D01879  Eptazocine hydrobromide (JAN)
+            D01886  Hydrocortisone probutate (USAN)
+            D01887  Bunazosin hydrochloride (JP18)
+            D01891  Enprostil (JAN/USAN/INN)
+            D01898  Haloperidol decanoate (JAN/USP)
+            D01902  Fonazine mesylate (USAN)
+            D01903  Docarpamine (JAN/INN)
+            D01906  Dilevalol hydrochloride (JAN/USAN)
+            D01922  Pratosartan (JAN/INN)
+            D01925  Taltirelin hydrate (JP18)
+            D01929  Tiotropium bromide hydrate (JAN)
+            D01939  Ziprasidone hydrochloride (USP)
+            D01946  Oxitropium bromide (JAN/INN)
+            D01948  Dexamethasone valerate (JAN)
+            D01952  L-Methylephedrine hydrochloride (JAN)
+            D01955  Aclatonium napadisilate (JAN)
+            D01958  Indenolol hydrochloride (JP18)
+            D01964  Travoprost (JAN/USP/INN)
+            D01965  Silodosin (JP18/INN)
+            D01973  Eletriptan hydrobromide (JAN/USAN)
+            D01976  N-Methylscopolamine methylsulfate (JAN)
+            D01978  Trimetoquinol hydrochloride
+            D01981  Ximelagatran (JAN/USAN/INN)
+            D01987  Pipethanate ethobromide (JAN)
+            D01992  Tandospirone citrate (JAN/USAN)
+            D01994  Mosapride citrate hydrate (JP18)
+            D01998  Prednisolone farnesylate (JAN)
+            D02004  Apomorphine hydrochloride (USP)
+            D02007  Protirelin tartrate hydrate (JP18)
+            D02014  Angiotensin II (USAN)
+            D02017  Oxtriphylline (USP)
+            D02021  Secretin (JAN/USAN/INN)
+            D02022  Prochlorperazine mesilate (JAN)
+            D02032  Betamethasone butyrate propionate (JAN)
+            D02034  Setiptiline maleate (JAN)
+            D02035  Timiperone (JAN)
+            D02037  Perphenazine maleate (JP18)
+            D02040  Pralmorelin dihydrochloride (USAN)
+            D02048  Clinprost (JAN/INN)
+            D02064  Pridinol mesilate (JAN)
+            D02066  Isoproterenol sulfate (USP)
+            D02067  Diphenylimidazole (JAN)
+            D02069  Atropine sulfate (JP18/USP)
+            D02070  Homatropine methylbromide (USP)
+            D02071  Scopolamine hydrobromide (USP)
+            D02073  Gemeprost (JAN/USAN/INN)
+            D02076  Brimonidine tartrate (JAN/USAN)
+            D02081  Metipranolol hydrochloride
+            D02082  Eprosartan mesylate (USAN)
+            D02089  Buclizine hydrochloride (USAN)
+            D02090  Cyclizine lactate (BAN)
+            D02091  Tripelennamine hydrochloride (USP)
+            D02092  Cisapride (JAN)
+            D02093  Isoetharine hydrochloride (USP)
+            D02095  Naltrexone hydrochloride (USP)
+            D02100  Ziprasidone mesylate (USAN)
+            D02101  Codeine phosphate (USP)
+            D02102  Methadone hydrochloride (JAN/USP)
+            D02104  Nalmefene hydrochloride
+            D02105  Tetracosactide acetate (JAN)
+            D02108  Indium In 111 pentetreotide (USP)
+            D02109  dl-Methylephedrine hydrochloride (JP18)
+            D02111  Pentazocine lactate (USP)
+            D02116  Histrelin acetate
+            D02117  Sermorelin acetate (USAN)
+            D02118  Glucagon hydrochloride
+            D02147  Albuterol (USP)
+            D02148  Phenindamine tartrate (USAN)
+            D02149  Epinephrine bitartrate (JAN/USP)
+            D02150  l-Isoprenaline hydrochloride (JP18)
+            D02151  Tulobuterol (JP18/INN)
+            D02156  Prednisolone hemisuccinate (USP)
+            D02162  Chlorprothixene hydrochloride (JAN)
+            D02163  Fluphenazine maleate (JAN)
+            D02174  Dexamethasone acetate (JAN/USP)
+            D02200  Pilocarpine hydrochloride (JP18/USP)
+            D02202  Lobeline hydrochloride (JAN)
+            D02204  Hexamethonium bromide (JAN/INN)
+            D02205  Ethylmorphine hydrochloride hydrate (JP18)
+            D02207  Tubocurarine chloride (USP)
+            D02208  Sultopride hydrochloride (JAN)
+            D02211  Dihydroergotamine mesylate (USP)
+            D02212  Ipratropium bromide (USP)
+            D02213  Metoclopramide hydrochloride (JAN)
+            D02227  Pentazocine hydrochloride (JAN/USP)
+            D02234  Cyproheptadine hydrochloride (JP18/USP)
+            D02235  Desmopressin acetate (USP)
+            D02236  Flupentixol dihydrochloride (JAN)
+            D02238  Levallorphan tartrate (JP18)
+            D02245  Trimeprazine tartrate (USP)
+            D02246  Biperiden hydrochloride (JP18/USP)
+            D02247  Biperiden lactate (JAN/USP)
+            D02248  Levomepromazine maleate (JP18/USAN)
+            D02249  Emedastine difumarate (JP18/USP)
+            D02250  Octreotide acetate (JAN)
+            D02252  Amobarbital sodium (JAN/USP)
+            D02253  Pentobarbital calcium (JP18)
+            D02268  Ergoloid mesylates (USP)
+            D02271  Morphine hydrochloride hydrate (JP18)
+            D02275  Suxamethonium chloride hydrate (JP18)
+            D02281  Levalbuterol hydrochloride (USP)
+            D02283  Iomazenil (123I) (JAN/INN)
+            D02286  Betamethasone benzoate (USP)
+            D02287  Clocortolone pivalate (USP)
+            D02288  Hydrocortisone valerate (USP)
+            D02289  Medrysone (USAN)
+            D02292  Gallamine triethiodide (USP)
+            D02300  Adenosine triphosphate disodium hydrate (JAN)
+            D02327  Doxylamine succinate (USP)
+            D02338  Acebutolol (USAN/INN)
+            D02340  Loxapine (USAN/INN)
+            D02342  Bisoprolol (JAN/USAN/INN)
+            D02343  Carboprost (USAN/INN)
+            D02349  Dipivefrin (USAN)
+            D02354  Thiethylperazine (USAN/INN)
+            D02357  Methysergide (USAN/INN)
+            D02358  Metoprolol (USAN/INN)
+            D02359  Ritodrine (USAN/INN)
+            D02363  Ketanserin (USAN/INN)
+            D02364  Lobeline (INN)
+            D02369  Histrelin (USAN/INN)
+            D02371  Clocapramine hydrochloride hydrate (JP18)
+            D02372  Perospirone hydrochloride hydrate (JAN)
+            D02374  Metipranolol (USAN/INN)
+            D02384  Verlukast (USAN/INN)
+            D02389  Primidolol (USAN/INN)
+            D02396  Hexoprenaline sulfate (USAN)
+            D02404  Procaterol hydrochloride (USAN)
+            D02407  Lidamidine hydrochloride (USAN)
+            D02410  Selfotel (USAN/INN)
+            D02417  Flutropium bromide (JAN)
+            D02419  Diphenhydramine salicylate (JAN)
+            D02535  Timepidium bromide hydrate (JP18)
+            D02568  Flesinoxan (INN)
+            D02569  Sunepitron hydrochloride (USAN)
+            D02576  Eptapirone (INN)
+            D02577  Flibanserin (USAN/INN)
+            D02578  Agomelatine (INN)
+            D02588  Montirelin (INN)
+            D02590  Israpafant (JAN/INN)
+            D02591  Dexamethasone acefurate (USAN/INN)
+            D02592  Dexamethasone beloxil (USAN)
+            D02594  Abecarnil (INN)
+            D02599  Orphenadrine hydrochloride
+            D02603  Diethazine hydrochloride
+            D02604  Acepromazine maleate (USP)
+            D02605  Methoxypromazine maleate
+            D02608  Perazine fendizoate (JAN)
+            D02609  Prochlorperazine edisylate (USP)
+            D02610  Thiethylperazine malate (JAN)
+            D02612  Thiothixene hydrochloride (USP)
+            D02613  Clopenthixol (USAN)
+            D02614  Denopamine (JAN/INN)
+            D02616  Pagoclone (USAN/INN)
+            D02617  Ocinaplon (USAN/INN)
+            D02618  Butobarbital (BAN)
+            D02622  Pipamperone (USAN/INN)
+            D02623  Moperone (INN)
+            D02624  Eszopiclone (JAN/USP/INN)
+            D02625  Trifluperidol (USAN/INN)
+            D02626  Bromperidol decanoate (USAN)
+            D02627  Benperidol (USAN/INN)
+            D02634  Alentemol hydrobromide (USAN)
+            D02640  Indiplon (USAN/INN)
+            D02641  Butaclamol hydrochloride (USAN)
+            D02644  Carphenazine maleate (USAN)
+            D02656  Fananserin (USAN/INN)
+            D02666  Iloperidone (USAN/INN)
+            D02670  Mazapertine succinate (USAN)
+            D02671  Mesoridazine (USAN/INN)
+            D02675  Ocaperidone (USAN)
+            D02676  Oxiperomide (USAN/INN)
+            D02680  Pipotiazine palmitate (USAN)
+            D02681  Piquindone hydrochloride (USAN)
+            D02682  Remoxipride (USAN)
+            D02683  Remoxipride hydrochloride (USAN)
+            D02686  Setoperone (USAN/INN)
+            D02688  Tiospirone hydrochloride (USAN)
+            D02689  Ramelteon (JAN/USAN/INN)
+            D02691  Somatropin (USP/INN)
+            D02692  Menotropins (USAN)
+            D02693  Devazepide (USAN/INN)
+            D02696  Talampanel (INN)
+            D02702  Talibegron hydrochloride (USAN)
+            D02705  Alprostadil alfadex (JP18)
+            D02710  Tarazepide (INN)
+            D02719  Rosaprostol (INN)
+            D02720  Beraprost (USAN)
+            D02721  Iloprost (USAN/INN)
+            D02722  Limaprost (INN)
+            D02724  Bimatoprost (JAN/USAN/INN)
+            D02725  Sulprostone (USAN/INN)
+            D02726  Meteneprost (USAN/INN)
+            D02727  Cloprostenol sodium (USP)
+            D02729  Itopride hydrochloride (JAN)
+            D02730  Tegaserod maleate (USAN)
+            D02732  Pranlukast hydrate (JP18)
+            D02738  Abarelix (USAN/INN)
+            D02739  Ablukast (USAN/INN)
+            D02741  Ablukast sodium (USAN)
+            D02750  Aceclidine (USAN/INN)
+            D02760  Acrivastine (USAN/INN)
+            D02765  Adaprolol maleate (USAN)
+            D02767  Adatanserin hydrochloride (USAN)
+            D02769  Adenosine phosphate (USAN/INN)
+            D02770  Adinazolam (USAN/INN)
+            D02771  Adinazolam mesylate (USAN)
+            D02774  Adrenalone (USAN/INN)
+            D02775  Adrogolide hydrochloride (USAN)
+            D02780  Acamprosate calcium (JAN/USAN)
+            D02801  Alemcinal (USAN/INN)
+            D02824  Almotriptan (USAN)
+            D02825  Almotriptan malate (USP)
+            D02826  Alniditan dihydrochloride (USAN)
+            D02833  Alpidem (USAN/INN)
+            D02834  Alprenoxime hydrochloride (USAN)
+            D02836  Altanserin tartrate (USAN)
+            D02839  Altinicline maleate (USAN)
+            D02846  Cinalukast (USAN/INN)
+            D02848  Pobilukast edamine (USAN)
+            D02849  Ritolukast (USAN/INN)
+            D02850  Sulukast (USAN/INN)
+            D02851  Tomelukast (USAN/INN)
+            D02860  Limaprost alfadex (JP18)
+            D02876  Alvameline maleate (USAN)
+            D02878  Alvimopan (USAN)
+            D02893  Amesergide (USAN/INN)
+            D02901  Amidephrine mesylate (USAN)
+            D02910  Amiodarone (USAN/INN)
+            D02939  Angiotensin amide (USAN)
+            D02941  Anileridine (USP/INN)
+            D02942  Anileridine hydrochloride (USP)
+            D02950  Antazoline phosphate (USP)
+            D02964  Apaxifylline (USAN/INN)
+            D02968  Aprepitant (JAN/USP/INN)
+            D02973  Aptiganel hydrochloride (USAN)
+            D02975  Arbaprostil (USAN/INN)
+            D02976  Arbutamine hydrochloride (USAN)
+            D02981  Arformoterol tartrate (USAN)
+            D02983  Argipressin tannate (USAN)
+            D02995  Asenapine maleate (JAN/USAN)
+            D03005  Atiprosin maleate (USAN)
+            D03008  Atosiban (USAN/INN)
+            D03011  Atropine oxide hydrochloride (USAN)
+            D03014  Avitriptan fumarate (USAN)
+            D03051  Bamifylline hydrochloride (USAN)
+            D03056  Barmastine (USAN/INN)
+            D03076  Benapryzine hydrochloride (USAN)
+            D03087  Benzetimide hydrochloride (USAN)
+            D03088  Benzilonium bromide (USAN/INN)
+            D03100  Besonprodil (USAN)
+            D03102  Betahistine hydrochloride (USP)
+            D03120  Binodenoson (USAN/INN)
+            D03121  Binospirone mesylate (USAN)
+            D03136  Bivalirudin (USAN/INN)
+            D03155  Bretazenil (USAN/INN)
+            D03156  Brifentanil hydrochloride (USAN)
+            D03165  Bromocriptine (USAN/INN)
+            D03166  Bromodiphenhydramine hydrochloride (USP)
+            D03170  Bucindolol hydrochloride (USAN)
+            D03177  Bunolol hydrochloride (USAN)
+            D03180  Butabarbital (USP)
+            D03187  Butaprost (USAN/INN)
+            D03195  Butopamine (USAN/INN)
+            D03197  Butorphanol (USAN/INN)
+            D03198  Butoxamine hydrochloride (USAN)
+            D03212  Apadenoson (USAN)
+            D03214  Aplindore fumarate (USAN)
+            D03216  Atilmotin (USAN/INN)
+            D03221  Befetupitant (USAN/INN)
+            D03264  Mazaticol hydrochloride hydrate (JAN)
+            D03267  Gonadorelin diacetate (JP18)
+            D03269  Dinoprostone betadex (JAN)
+            D03274  Chlorpromazine hibenzate (JAN)
+            D03276  Profenamine hibenzate (JAN)
+            D03285  Diphenhydramine tannate (JP18)
+            D03287  Elcatonin (JP18/INN)
+            D03290  Promethazine methylenedisalicylate (JAN)
+            D03301  Prednisolone valerate acetate (JAN)
+            D03325  Mometasone furoate hydrate (JAN)
+            D03326  Somatorelin acetate (JAN)
+            D03358  Teriparatide acetate (JAN)
+            D03360  Diphenhydramine laurylsulfate (JAN)
+            D03365  Nicotine (USP)
+            D03373  Capromorelin tartrate (USAN)
+            D03399  Carboprost methyl (USAN)
+            D03402  Carbuterol hydrochloride (USAN)
+            D03405  Carfentanil citrate (USAN)
+            D03415  Carvedilol phosphate (USAN)
+            D03442  Ceruletide (USAN/INN)
+            D03443  Ceruletide diethylamine (USAN)
+            D03449  Cetamolol hydrochloride (USAN)
+            D03475  Chlorpheniramine polistirex (USAN)
+            D03478  Choriogonadotropin alfa (USAN/INN)
+            D03490  Cicloprolol hydrochloride (USAN)
+            D03491  Cidoxepin hydrochloride (USAN)
+            D03494  Ciladopa hydrochloride (USAN)
+            D03502  Cimaterol (USAN/INN)
+            D03503  Cimetidine hydrochloride (USP)
+            D03518  Cipralisant maleate (USAN)
+            D03522  Ciprostene calcium (USAN)
+            D03534  Clebopride (USAN)
+            D03535  Clemastine (USAN)
+            D03541  Clocortolone acetate (USAN)
+            D03556  Zuclopenthixol (INN)
+            D03561  Cloprednol (USAN/INN)
+            D03562  Clorazepate monopotassium (USAN)
+            D03568  Closiramine aceturate (USAN)
+            D03579  Codeine polistirex (USAN)
+            D03580  Codeine sulfate (USP)
+            D03587  Colterol mesylate (USAN)
+            D03591  Corticorelin acetate (USAN)
+            D03592  Corticorelin ovine triflutate (USAN)
+            D03593  Corticotropin zinc hydroxide
+            D03594  Cortivazol (USAN)
+            D03618  Cyclazocine (USAN/INN)
+            D03620  Cycliramine maleate (USAN)
+            D03621  Cyclizine (INN)
+            D03622  Cyclizine hydrochloride (USP)
+            D03642  Daltroban (USAN/INN)
+            D03648  Dapiprazole hydrochloride (USAN)
+            D03654  Darifenacin (USAN/INN)
+            D03671  Deflazacort (USAN/INN)
+            D03677  Deltibant (USAN/INN)
+            D03679  Delucemine hydrochloride (USAN)
+            D03685  Denufosol tetrasodium (USAN)
+            D03691  Descinolone acetonide (USAN)
+            D03692  Desirudin (USAN/INN)
+            D03693  Desloratadine (JAN/USP/INN)
+            D03696  Desonide (USP/INN)
+            D03697  Desoximetasone (USP/INN)
+            D03702  Detomidine hydrochloride (USAN)
+            D03704  Dexbrompheniramine maleate (USP)
+            D03711  Dexetimide (USAN/INN)
+            D03722  Efegatran sulfate (USAN)
+            D03725  Hydrocodone bitartrate (USP)
+            D03728  Napsagatran (USAN)
+            D03729  Dexpropranolol hydrochloride (USAN)
+            D03737  Dextofisopam (USAN/INN)
+            D03742  Dextromethorphan (USP)
+            D03744  Dextromethorphan polistirex (USAN)
+            D03746  Dextrorphan hydrochloride (USAN)
+            D03750  Dextrothyroxine sodium (USAN)
+            D03759  Diacetolol hydrochloride (USAN)
+            D03783  Oxycodone terephthalate (USP)
+            D03809  Difenoxin (USAN/INN)
+            D03812  Diflucortolone (USAN)
+            D03813  Diflucortolone pivalate (USAN)
+            D03814  Atropine methylbromide (JAN)
+            D03824  Dihexyverine hydrochloride (USAN)
+            D03825  Dihydrocodeine bitartrate (USP)
+            D03854  Diphenhydramine citrate (USP)
+            D03858  Diphenidol (USAN/INN)
+            D03859  Diphenidol pamoate (USAN)
+            D03860  Diphenoxylate hydrochloride (USP)
+            D03864  Diquafosol tetrasodium (USAN)
+            D03878  Dizocilpine maleate (USAN)
+            D03879  Dobutamine (USAN/INN)
+            D03880  Dobutamine lactobionate (USAN)
+            D03881  Dobutamine tartrate (USAN)
+            D03887  Domazoline fumarate (USAN)
+            D03889  Donetidine (USAN)
+            D03891  Dopexamine (USAN/INN)
+            D03892  Dopexamine hydrochloride (USAN)
+            D03893  Dorastine hydrochloride (USAN)
+            D03898  Doxofylline (USAN/INN)
+            D03905  Corticorelin (human) (JAN)
+            D03937  Ecopipam hydrochloride (USAN)
+            D03953  Edonentan (USAN)
+            D03963  Efletirizine dihydrochloride (USAN)
+            D03966  Eglumetad (USAN)
+            D03970  Elantrine (USAN)
+            D03979  Elucaine (USAN)
+            D03982  Elzasonan citrate (USAN)
+            D03983  Elzasonan hydrochloride (USAN)
+            D03999  Enisoprost (USAN/INN)
+            D04006  Enprofylline (USAN/INN)
+            D04018  Ephedrine sulfate (USP)
+            D04026  Epinephryl borate (USP)
+            D04034  Chlorpromazine phenolphthalinate (JAN)
+            D04038  Perphenazine fendizoate (JAN)
+            D04040  Eprosartan (USAN/INN)
+            D04055  Esmirtazapine maleate (USAN)
+            D04057  Esoxybutynin chloride (USAN)
+            D04072  Etafedrine hydrochloride (USAN)
+            D04074  Etalocib (USAN)
+            D04087  Ethybenztropine (USAN)
+            D04097  Etilevodopa (USAN/INN)
+            D04098  Etintidine hydrochloride (USAN)
+            D04116  Eucatropine hydrochloride (USP XXXII)
+            D04120  Exaprolol hydrochloride (USAN)
+            D04121  Exenatide (JAN/USAN/INN)
+            D04122  Ezlopitant (USAN/INN)
+            D04124  Fadolmidine hydrochloride (USAN)
+            D04126  Saralasin acetate (USAN)
+            D04128  Fandosentan potassium (USAN)
+            D04131  Farampator (USAN/INN)
+            D04137  Felypressin (USAN/INN)
+            D04148  Fenfluramine hydrochloride (JAN/USAN)
+            D04155  Fenobam (USAN)
+            D04157  Fenoterol (USAN/INN)
+            D04184  Fiduxosin hydrochloride (USAN)
+            D04187  Fingolimod hydrochloride (JAN/USAN)
+            D04190  Flestolol sulfate (USAN)
+            D04201  Flucloronide (USAN)
+            D04208  Flumethasone (USAN)
+            D04214  Flunisolide acetate (USAN)
+            D04217  Fluocortin butyl (USAN)
+            D04218  Fluocortolone (USAN/INN)
+            D04219  Fluocortolone caproate (USAN)
+            D04221  Fluorometholone acetate (USP)
+            D04223  Fluparoxan hydrochloride (USAN)
+            D04227  Fluprednisolone (USAN/INN)
+            D04228  Fluprednisolone valerate (USAN)
+            D04243  Forasartan (USAN/INN)
+            D04244  Formocortal (USAN/INN)
+            D04257  Fospropofol disodium (USAN)
+            D04264  Frovatriptan succinate (USAN)
+            D04282  Gaboxadol (USAN/INN)
+            D04300  Ganaxolone (USAN/INN)
+            D04302  Ganirelix acetate (JAN/USAN)
+            D04303  Gantacurium chloride (USAN/INN)
+            D04308  Gavestinel (USAN/INN)
+            D04314  Gepirone hydrochloride (USAN)
+            D04320  Glemanserin (USAN/INN)
+            D04361  Gonadorelin acetate (USP)
+            D04375  Guanabenz (USAN/INN)
+            D04405  Goserelin (USAN/INN)
+            D04409  Halobetasol propionate (USP)
+            D04429  Follitropin alfa (genetical recombination) (JAN)
+            D04430  Follitropin beta (genetical recombination) (JAN)
+            D04434  Heteronium bromide (USAN/INN)
+            D04445  Histamine phosphate (USP)
+            D04461  Hydrocodone polistirex (USAN)
+            D04467  Hydrocortisone hemisuccinate (USP)
+            D04479  Hyoscyamine hydrobromide (USP)
+            D04488  Ibopamine (USAN/INN)
+            D04491  Ibutamoren mesylate (USAN)
+            D04492  Icatibant acetate (JAN/USAN)
+            D04494  Icotidine (USAN)
+            D04497  Idremcinal (USAN/INN)
+            D04500  Ifetroban (USAN/INN)
+            D04501  Ifetroban sodium (USAN)
+            D04514  Imiloxan hydrochloride (USAN)
+            D04517  Impromidine hydrochloride (USAN)
+            D04531  Indoramin (USAN/INN)
+            D04532  Indoramin hydrochloride (USAN)
+            D04533  Indorenate hydrochloride (USAN)
+            D04611  Ipsapirone hydrochloride (USAN)
+            D04625  Isoetharine (USP)
+            D04626  Isoetharine mesylate (USP)
+            D04641  Istradefylline (JAN/USAN/INN)
+            D04644  Iturelix (USAN/INN)
+            D04649  Ketazocine (USAN/INN)
+            D04650  Ketazolam (USAN/INN)
+            D04666  Lanreotide acetate (JAN/USAN)
+            D04680  Lavoltidine succinate (USAN)
+            D04683  Lecozotan hydrochloride (USAN)
+            D04693  Lergotrile (USAN/INN)
+            D04694  Lergotrile mesylate (USAN)
+            D04701  Levalbuterol sulfate (USAN)
+            D04703  Levalbuterol tartrate (USAN)
+            D04708  Levdobutamine lactobionate (USAN)
+            D04710  Levobetaxolol hydrochloride (USAN)
+            D04716  Levomethadyl acetate (USAN)
+            D04717  Levonantradol hydrochloride (USAN)
+            D04721  Levotofisopam (USAN/INN)
+            D04724  Lexipafant (USAN/INN)
+            D04728  Licostinel (USAN/INN)
+            D04752  Lixivaptan (USAN/INN)
+            D04764  Lofentanil oxalate (USAN)
+            D04765  Lofexidine hydrochloride (USAN)
+            D04788  Lubazodone hydrochloride (USAN)
+            D04794  Lupitidine hydrochloride (USAN)
+            D04820  Lurasidone hydrochloride (JAN/USAN)
+            D04823  Lutrelin acetate (USAN)
+            D04824  Lutropin alfa (USAN/INN)
+            D04860  Maropitant citrate (USAN)
+            D04868  Mebeverine hydrochloride (USAN)
+            D04882  Medazepam hydrochloride (USAN)
+            D04883  Medetomidine hydrochloride (USAN)
+            D04888  Medroxalol (USAN/INN)
+            D04889  Medroxalol hydrochloride (USAN)
+            D04905  Memantine hydrochloride (JAN/USP)
+            D04924  Meptazinol hydrochloride (USAN)
+            D04953  Metalol hydrochloride (USAN)
+            D04954  Metaproterenol polistirex (USAN)
+            D04965  Perphenazine hydrochloride
+            D04970  Methacholine chloride (JAN/USP/INN)
+            D04973  Methadyl acetate (USAN)
+            D04979  Methdilazine (INN)
+            D04980  Methdilazine hydrochloride (USP)
+            D04985  Methohexital (USP/INN)
+            D05000  Methylprednisolone hemisuccinate (USP)
+            D05001  Methylprednisolone sodium phosphate (USAN)
+            D05002  Methylprednisolone suleptanate (USAN/INN)
+            D05004  Metiamide (USAN/INN)
+            D05007  Metkephamid acetate (USAN)
+            D05008  Metoclopramide hydrochloride (USP)
+            D05010  Metopimazine (USAN/INN)
+            D05011  Metoprolol fumarate (USP)
+            D05012  Metoquizine (USAN/INN)
+            D05014  Metreleptin (USAN/INN)
+            D05015  Metrenperone (USAN/INN)
+            D05028  Midazolam maleate (USAN)
+            D05035  Milameline hydrochloride (USAN)
+            D05037  Trimetoquinol hydrochloride hydrate (JP18)
+            D05048  Mirfentanil hydrochloride (USAN)
+            D05053  Mitemcinal fumarate (USAN)
+            D05085  Moxilubant maleate (USAN)
+            D05087  Moxonidine (USAN/INN)
+            D05099  Nabilone (USAN/INN)
+            D05107  Nafronyl oxalate (USAN)
+            D05111  Nalmefene (USAN/INN)
+            D05113  Naltrexone (USAN/INN)
+            D05117  Nantradol hydrochloride (USAN)
+            D05119  Napamezole hydrochloride (USAN)
+            D05124  Naxagolide hydrochloride (USAN)
+            D05125  Naxifylline (USAN/INN)
+            D05127  Nebivolol (USAN/INN)
+            D05145  Neramexane mesylate (USAN)
+            D05152  Netupitant (USAN/INN)
+            D05156  Nicotine bitartrate (USAN)
+            D05157  Nicotine polacrilex (USP)
+            D05194  Nivazol (USAN)
+            D05196  Noberastine (USAN/INN)
+            D05206  Norepinephrine bitartrate (USP)
+            D05217  Ocfentanil hydrochloride (USAN)
+            D05228  Octodrine (USAN/INN)
+            D05230  Octreotide pamoate (USAN)
+            D05246  Olmesartan (USAN/INN)
+            D05249  Olvanil (USAN)
+            D05258  Serum gonadotrophin (JAN)
+            D05276  Pirenzepine hydrochloride hydrate (JP18)
+            D05277  Formoterol fumarate hydrate (JP18)
+            D05299  Oxilorphan (USAN/INN)
+            D05312  Oxycodone (USAN/INN)
+            D05339  Paliperidone (JAN/USP/INN)
+            D05340  Paliperidone palmitate (JAN/USAN)
+            D05345  Pamatolol sulfate (USAN)
+            D05346  Panadiplon (USAN/INN)
+            D05360  Parapenzolate bromide (USAN/INN)
+            D05364  Parathyroid hormone (human) (USAN)
+            D05366  Procaterol hydrochloride hydrate (JP18)
+            D05378  Pazinaclone (USAN/INN)
+            D05394  Pegvisomant (USAN/INN)
+            D05395  Pelanserin hydrochloride (USAN)
+            D05418  Pentapiperium methylsulfate (USAN)
+            D05429  Aminophylline hydrate (JP18)
+            D05447  Perzinfotel (USAN/INN)
+            D05452  Phencarbamide (USAN)
+            D05453  Phencyclidine hydrochloride (USAN)
+            D05462  Oxycodone hydrochloride hydrate (JP18)
+            D05466  Phenylpropanolamine polistirex (USAN)
+            D05471  Piboserod hydrochloride (USAN)
+            D05476  Picumeterol fumarate (USAN)
+            D05478  Pilocarpine nitrate (USP)
+            D05523  Pizotyline (USAN)
+            D05535  Poldine methylsulfate (USAN)
+            D05575  Pramipexole (USAN/INN)
+            D05587  Practolol (USAN)
+            D05599  Prazarelix acetate (USAN)
+            D05601  Prednicarbate (USP/INN)
+            D05603  Prednival (USAN)
+            D05621  Progabide (USAN/INN)
+            D05628  Propenzolate hydrochloride (USAN)
+            D05631  Propiram fumarate (USAN)
+            D05632  Propoxyphene napsylate (USAN)
+            D05637  Propylhexedrine (USP/INN)
+            D05642  Prostalene (USAN)
+            D05646  Proxorphan tartrate (USAN)
+            D05648  Pseudoephedrine polistirex (USAN)
+            D05649  Pseudoephedrine sulfate (USP)
+            D05660  Pyrilamine maleate (USP)
+            D05664  Pyroxamine maleate (USAN)
+            D05667  Quadazocine mesylate (USAN)
+            D05677  Quinelorane hydrochloride (USAN)
+            D05682  Quinpirole hydrochloride (USAN)
+            D05688  Racepinephrine (USP/INN)
+            D05689  Racepinephrine hydrochloride (USP)
+            D05690  Raclopride C11 (USAN)
+            D05691  Ractopamine hydrochloride (USP)
+            D05699  Ranitidine bismuth citrate (USAN)
+            D05703  Rapacuronium bromide (USAN/INN)
+            D05711  Regadenoson (USAN)
+            D05714  Remacemide hydrochloride (USAN)
+            D05718  Reproterol hydrochloride (USAN)
+            D05719  Resocortol butyrate (USAN)
+            D05727  Ridogrel (USAN/INN)
+            D05729  Rimexolone (USP/INN)
+            D05730  Rimiterol hydrobromide (USAN)
+            D05731  Rimonabant (JAN/USAN/INN)
+            D05732  Rioprostil (USAN/INN)
+            D05734  Rismorelin porcine (USAN)
+            D05738  Ritanserin (USAN/INN)
+            D05740  Rizatriptan sulfate (USAN)
+            D05742  Rocastine hydrochloride (USAN)
+            D05768  Rotigotine (JAN/USAN/INN)
+            D05769  Rotoxamine (USAN/INN)
+            D05779  Sabcomeline hydrochloride (USAN)
+            D05792  Salmeterol (USAN/INN)
+            D05801  Saprisartan potassium (USAN)
+            D05804  Sarizotan hydrochloride (USAN)
+            D05812  Seglitide acetate (USAN)
+            D05818  Selodenoson (USAN/INN)
+            D05827  Seractide acetate (USAN)
+            D05829  Sergolexole maleate (USAN)
+            D05832  Sibenadet hydrochloride (USAN)
+            D05879  Solabegron hydrochloride (USAN)
+            D05884  Somatrem (USAN)
+            D05891  Sonepiprazole mesylate (USAN)
+            D05902  Soterenol hydrochloride (USAN)
+            D05907  Spiradoline mesylate (USAN)
+            D05938  Sufentanil (USAN/INN)
+            D05939  Sufotidine (USAN/INN)
+            D05941  Sulamserod hydrochloride (USAN)
+            D05970  Sulotroban (USAN/INN)
+            D05980  Suritozole (USAN/INN)
+            D05996  Talnetant hydrochloride (USAN)
+            D06000  Talsaclidine fumarate (USAN)
+            D06007  Tapentadol (USAN/INN)
+            D06010  Tasosartan (USAN/INN)
+            D06012  Tazifylline hydrochloride (USAN)
+            D06014  Tazolol hydrochloride (USAN)
+            D06015  Tazomeline citrate (USAN)
+            D06016  Tebanicline tosylate (USAN)
+            D06019  Tecadenoson (USAN/INN)
+            D06021  Tecastemizole (USAN/INN)
+            D06056  Tegaserod (USAN/INN)
+            D06061  Tematropium methylsulfate (USAN)
+            D06063  Temelastine (USAN/INN)
+            D06078  Teriparatide (USP/INN)
+            D06084  Tesmilifene hydrochloride (USAN)
+            D06103  Theophylline (USP)
+            D06104  Theophylline sodium glycinate (USP)
+            D06106  Thiamylal
+            D06120  Thyrotropin alfa (USAN/INN)
+            D06135  Ticabesone propionate (USAN)
+            D06140  Ticolubant (USAN/INN)
+            D06146  Tiletamine hydrochloride (USP)
+            D06147  Tilidine hydrochloride (USAN)
+            D06157  Tiotidine (USAN/INN)
+            D06161  Tipredane (USAN)
+            D06162  Tiprenolol hydrochloride (USAN)
+            D06171  Tixocortol pivalate (USAN)
+            D06175  Tofenacin hydrochloride (USAN)
+            D06176  Tolamolol (USAN/INN)
+            D06189  Tonazocine mesylate (USAN)
+            D06192  Toquizine (USAN)
+            D06201  Tralonide (USAN/INN)
+            D06204  Traxoprodil mesylate (USAN)
+            D06208  Trefentanil hydrochloride (USAN)
+            D06213  Treprostinil (JAN/USAN/INN)
+            D06216  Triamcinolone acetonide sodium phosphate (USAN)
+            D06217  Triampyzine sulfate (USAN)
+            D06234  Trimazosin hydrochloride (USAN)
+            D06240  Trimoprostil (USAN/INN)
+            D06246  Tripelennamine citrate
+            D06247  Triptorelin (USAN/INN)
+            D06248  Triptorelin pamoate (USAN)
+            D06253  Tropanserin hydrochloride (USAN)
+            D06268  Trimeperidine (INN)
+            D06269  Urofollitropin (USAN/INN)
+            D06273  Imidafenacin (JAN/INN)
+            D06274  Tafluprost (JAN/USAN/INN)
+            D06280  Vapiprost hydrochloride (JAN/USAN)
+            D06281  Vapreotide (USAN/INN)
+            D06282  Varenicline tartrate (JAN/USAN)
+            D06293  Vestipitant mesylate (USAN)
+            D06315  Fluticasone furoate (JAN/USAN/INN)
+            D06317  Vofopitant dihydrochloride (USAN)
+            D06327  Xaliproden (USAN)
+            D06328  Xamoterol (USAN)
+            D06329  Xamoterol fumarate (USAN)
+            D06330  Xanomeline (USAN)
+            D06331  Xanomeline tartrate (USAN)
+            D06342  Xorphanol mesylate (USAN)
+            D06343  Xylamidine tosylate (USAN)
+            D06344  Xylazine hydrochloride (USP)
+            D06354  Zalospirone hydrochloride (USAN)
+            D06355  Zaltidine hydrochloride (USAN)
+            D06374  Zinterol hydrochloride (USAN)
+            D06376  Zolamine hydrochloride (USAN)
+            D06380  Zolertine hydrochloride (USAN)
+            D06388  Zucapsaicin (USAN/INN)
+            D06394  Dabuzalgron hydrochloride (USAN)
+            D06395  Enadoline hydrochloride (USAN)
+            D06396  Renzapride (INN)
+            D06400  Follitropin delta (USAN)
+            D06404  Liraglutide (USAN/INN)
+            D06405  Nalfurafine hydrochloride (JAN/USAN)
+            D06457  Gonadotropin, chorionic (USP)
+            D06459  Purified human menopausal gonadotrophin (JAN)
+            D06482  Thyroid (USP)
+            D06495  Octreotide acetate (USP)
+            D06544  Corticotropin, repository (USP)
+            D06546  Teriparatide acetate (USAN)
+            D06552  Alcaftadine (JAN/USAN/INN)
+            D06562  Bedoradrine sulfate (USAN)
+            D06566  Bifeprunox (USAN/INN)
+            D06567  Bifeprunox mesylate (USAN)
+            D06569  Bremelanotide (USAN/INN)
+            D06574  Casopitant mesylate (USAN)
+            D06597  Fosaprepitant dimeglumine (USAN)
+            D06613  Lorcaserin hydrochloride (USAN)
+            D06618  Methylnaltrexone bromide (JAN/USAN)
+            D06622  Nebivolol hydrochloride (USAN)
+            D06623  Olanzapine pamoate (USAN)
+            D06632  Pruvanserin (USAN/INN)
+            D06646  Epanolol (USAN/INN)
+            D06655  Tesamorelin (USAN)
+            D06656  Tezampanel (USAN)
+            D06659  Tipelukast (USAN)
+            D06660  Vabicaserin hydrochloride (USAN)
+            D06671  Yohimbine hydrochloride (USP)
+            D06672  Terlipressin (USAN/INN)
+            D06673  Meprednisone (USP/INN)
+            D06876  Hydrocortisone aceponate (INN)
+            D06877  Oxyphenonium bromide (INN)
+            D06878  Diphemanil metilsulfate (INN)
+            D06880  Lepirudin (INN)
+            D06887  Talbutal (INN)
+            D07058  Acamprosate (INN)
+            D07065  Acepromazine (INN)
+            D07070  Fenpiverinium bromide (INN)
+            D07072  Niperotidine (INN)
+            D07073  Dexamethasone cipecilate (JAN/INN)
+            D07077  Ambrisentan (JAN/INN)
+            D07078  Rociverine (INN)
+            D07079  Difemerine (INN)
+            D07081  Penthienate bromide (NF XIII)
+            D07082  Dabigatran etexilate mesylate (USAN)
+            D07083  Otilonium bromide (INN)
+            D07084  Pipenzolate bromide (INN)
+            D07097  Isometheptene mucate (USP)
+            D07099  Cimetropium bromide (JAN/INN)
+            D07101  Bromopride (INN)
+            D07102  Alizapride (INN)
+            D07113  Loperamide oxide (INN)
+            D07116  Alclometasone (INN)
+            D07122  Alfentanil (INN)
+            D07124  Alfuzosin (INN)
+            D07125  Alimemazine (INN)
+            D07132  Buprenorphine (JAN/INN)
+            D07143  Melagatran (INN)
+            D07144  Dabigatran etexilate (USAN/INN)
+            D07156  Alprenolol (INN)
+            D07171  Sitaxentan (USAN/INN)
+            D07181  Mepindolol (INN)
+            D07182  Tertatolol (INN)
+            D07183  Cloranolol (INN)
+            D07184  Talinolol (INN)
+            D07194  Thenalidine (INN)
+            D07195  Chloropyramine (INN)
+            D07196  Tolpropamine (INN)
+            D07197  Bamipine (INN)
+            D07198  Chlorphenoxamine (INN)
+            D07201  Fluprednidene (INN)
+            D07202  Halometasone (INN)
+            D07203  Methylprednisolone aceponate (INN)
+            D07214  Tiratricol (INN)
+            D07217  Quinagolide (INN/BAN)
+            D07226  Fesoterodine (INN)
+            D07227  Ornipressin (INN)
+            D07228  Demoxytocin (INN)
+            D07229  Carbetocin (USAN/INN/BAN)
+            D07230  Prednylidene (INN)
+            D07259  Buserelin (INN)
+            D07272  Dimethyltubocurarine (BAN)
+            D07273  Fazadinium bromide (INN)
+            D07283  Esketamine (USAN/INN)
+            D07285  Nicomorphine (INN)
+            D07286  Diamorphine (BAN)
+            D07298  Barbexaclone (INN)
+            D07301  Phenglutarimide (INN)
+            D07302  Bornaprine (INN)
+            D07303  Tropatepine (INN)
+            D07305  Piribedil (INN)
+            D07306  Budipine (INN)
+            D07307  Cyamemazine (INN)
+            D07309  Melperone (INN)
+            D07310  Amisulpride (INN)
+            D07312  Levosulpiride (INN)
+            D07316  Captodiame (BAN)
+            D07326  Loprazolam (INN)
+            D07328  Cinolazepam (INN)
+            D07330  Clomethiazole (INN)
+            D07349  Choline alfoscerate (INN)
+            D07377  Bambuterol (INN)
+            D07385  Pholcodine (INN)
+            D07398  Chlorphenamine (INN)
+            D07400  Histapyrrodine (INN)
+            D07401  Oxomemazine (INN)
+            D07402  Levocetirizine (USAN/INN)
+            D07403  Pyrrobutamine (BAN)
+            D07404  Deptropine (INN)
+            D07406  Pimethixene (INN)
+            D07407  Rupatadine (INN)
+            D07417  Alsactide (INN)
+            D07431  Somatostatin (INN)
+            D07441  Amantadine (INN)
+            D07451  Amosulalol (INN)
+            D07458  Antazoline (INN)
+            D07459  Antazoline hydrochloride
+            D07460  Apomorphine (BAN)
+            D07461  Apraclonidine (INN)
+            D07463  Arformoterol (INN)
+            D07464  Paramethasone (INN)
+            D07465  Arotinolol (INN)
+            D07475  Atosiban acetate
+            D07477  Atropine oxide (INN)
+            D07482  Azatadine (INN)
+            D07483  Azelastine (INN)
+            D07489  Bambuterol hydrochloride
+            D07491  Bamifylline (INN)
+            D07492  Bamipine dihydrochloride
+            D07493  Bamipine lactate
+            D07495  Beclometasone (INN)
+            D07496  Befunolol (INN)
+            D07511  Benzatropine (INN)
+            D07513  Benzetimide (INN)
+            D07522  Betahistine (INN)
+            D07526  Betaxolol (INN)
+            D07532  Bisulepin
+            D07533  Bisulepin hydrochloride
+            D07534  Bitolterol (INN)
+            D07537  Bopindolol (INN)
+            D07538  Bosentan (INN)
+            D07540  Brimonidine (INN)
+            D07543  Brompheniramine (INN)
+            D07547  Buclizine (INN)
+            D07550  Bunazosin (INN)
+            D07557  O-Acetyldihydrocodeine hydrochloride
+            D07560  Adrenalone hydrochloride
+            D07563  Alizapride hydrochloride
+            D07589  Budipine hydrochloride
+            D07590  Bupranolol (INN)
+            D07593  Buspirone (INN)
+            D07603  Caffeine citrate (USP)
+            D07608  Carazolol (INN)
+            D07617  Carbinoxamine (INN)
+            D07620  Carfentanil (INN)
+            D07624  Carteolol (INN)
+            D07660  Celiprolol (INN)
+            D07662  Cetirizine (INN)
+            D07665  Cetrorelix (INN)
+            D07667  Cevimeline (INN)
+            D07679  Chloropyramine hydrochloride
+            D07682  Clazosentan sodium (JAN)
+            D07684  Chlorphenoxamine hydrochloride
+            D07686  Chlorprothixene acetate
+            D07687  Chlorprothixene citrate
+            D07700  Cinitapride (INN)
+            D07701  Cinitapride tartrate
+            D07713  Clenbuterol (INN)
+            D07715  Clobetasol (INN)
+            D07717  Clobetasone (INN)
+            D07718  Clocapramine (INN)
+            D07719  Clocortolone (INN)
+            D07725  Clomethiazole edisilate
+            D07730  Cloprostenol (INN)
+            D07734  Cinnarizine dihydrochloride
+            D07740  Codeine hydrochloride
+            D07741  Zibotentan (JAN/USAN/INN)
+            D07748  Conivaptan (INN)
+            D07749  Cortisone (INN)
+            D07756  Cyamemazine tartrate
+            D07759  Cyclopentolate (INN)
+            D07765  Cyproheptadine (INN)
+            D07770  Cytisinicline (USAN)
+            D07775  Dapiprazole (INN)
+            D07784  Delorazepam (INN)
+            D07790  Deptropine citrate
+            D07796  Dexamethasone 21-acetate
+            D07797  Dexamethasone isonicotinate
+            D07798  Dexamethasone sodium hemisulfate
+            D07799  Dexamethasone 21-tebutate
+            D07800  Dexamethasone 21-valerate
+            D07801  Dexamethasone phenylpropionate
+            D07802  Dexamethasone phosphate
+            D07803  Dexchlorpheniramine (INN)
+            D07804  Dexetimide hydrochloride
+            D07809  Dextropropoxyphene (INN)
+            D07810  Diacetylmorphine hydrochloride
+            D07814  Dichlorisone (INN)
+            D07815  Dichlorisone acetate
+            D07820  Dicycloverine (INN)
+            D07821  Dihexyverine (INN)
+            D07823  Diethazine (INN)
+            D07827  Diflorasone (INN)
+            D07831  Dihydrocodeine (INN)
+            D07832  Dihydrocodeine thiocyanate
+            D07833  Dihydroergocristine mesilate (BAN)
+            D07834  Dihydroergocristine (BAN)
+            D07835  Dihydroergocryptine
+            D07836  Dihydroergocryptine mesilate
+            D07837  Dihydroergotamine (INN)
+            D07838  Dihydroergotamine tartrate
+            D07853  Dimetindene (INN)
+            D07854  Dimetotiazine (INN)
+            D07860  Dioxopromethazine hydrochloride
+            D07861  Diphenoxylate (INN)
+            D07862  Diphenylpyraline (INN)
+            D07863  Diprenorphine (INN)
+            D07864  Diprenorphine hydrochloride
+            D07868  Domperidone maleate
+            D07870  Dopamine (INN)
+            D07874  Doxazosin (INN)
+            D07875  Doxepin (INN)
+            D07878  Doxylamine (INN)
+            D07887  Eletriptan (INN)
+            D07889  Embramine (INN)
+            D07890  Emedastine (INN)
+            D07900  Epinastine (INN)
+            D07904  Eptazocine (INN)
+            D07905  Ergometrine (INN)
+            D07906  Ergotamine (INN)
+            D07916  Esmolol (INN)
+            D07929  Ethylmorphine (BAN)
+            D07931  Etilefrine (INN)
+            D07937  Etorphine (INN)
+            D07945  Fenfluramine (INN)
+            D07946  Fenoldopam (INN)
+            D07951  Fentonium bromide (INN)
+            D07957  Fertirelin (INN)
+            D07958  Fexofenadine (INN)
+            D07972  Fluocortin (INN)
+            D07973  Fluocortolone 21-pivalate
+            D07975  Flupamesone
+            D07976  Flupentixol decanoate
+            D07977  Fluphenazine (INN)
+            D07980  Fluprednidene acetate
+            D07981  Fluticasone (INN)
+            D07990  Formoterol (INN)
+            D07997  Frovatriptan (INN)
+            D08010  Ganirelix (INN)
+            D08026  Velneperit (USAN/INN)
+            D08027  Gonadorelin (INN)
+            D08031  Guanfacine (INN)
+            D08035  Haloperidol lactate
+            D08036  Halopredone (INN)
+            D08039  Hexoprenaline (INN)
+            D08040  Histamine (DCF)
+            D08041  Homochlorcyclizine (INN)
+            D08045  Hydrocodone (INN)
+            D08046  Hydrocodone hydrochloride
+            D08047  Hydromorphone (INN)
+            D08054  Hydroxyzine (INN)
+            D08057  Ibopamine hydrochloride
+            D08064  Ifenprodil (INN)
+            D08065  Iloprost tromethamine
+            D08067  Azilsartan medoxomil (USAN)
+            D08074  Penbutolol (INN)
+            D08078  Indenolol (INN)
+            D08090  Isoprenaline (INN)
+            D08091  Isothipendyl (INN)
+            D08092  Isoxsuprine (INN)
+            D08093  Isoxsuprine lactate
+            D08094  Itopride (INN)
+            D08098  Ketamine (INN)
+            D08099  Ketanserin tartrate
+            D08100  Ketobemidone (INN)
+            D08101  Ketobemidone hydrochloride
+            D08105  Ketotifen (INN)
+            D08106  Labetalol (INN)
+            D08113  Leuprorelin (INN)
+            D08115  Levobunolol (INN)
+            D08117  Levocabastine (INN)
+            D08118  Levocetirizine dihydrochloride (USP)
+            D08121  Levomethadone (INN)
+            D08122  Levomethadone hydrochloride
+            D08123  Levorphanol (INN)
+            D08124  Levosalbutamol (INN)
+            D08125  Levothyroxine (BAN)
+            D08126  Lidamidine (INN)
+            D08128  Liothyronine (INN)
+            D08129  Liothyronine hydrochloride
+            D08132  Lisuride (INN)
+            D08138  Lobeline sulfate
+            D08141  Lofexidine (INN)
+            D08144  Loperamide (INN)
+            D08145  Loprazolam mesilate
+            D08146  Losartan (INN)
+            D08147  Loteprednol (INN)
+            D08148  Loxapine hydrochloride
+            D08157  Mazaticol (INN)
+            D08160  Mebeverine (INN)
+            D08161  Mebhydrolin (INN)
+            D08163  Meclozine (BAN)
+            D08165  Medetomidine (INN)
+            D08170  Melatonin (JAN)
+            D08172  Melperone hydrochloride
+            D08174  Memantine (INN)
+            D08182  Meptazinol (INN)
+            D08183  Mepyramine (INN)
+            D08192  Metaraminol (INN)
+            D08195  Methadone (BAN)
+            D08201  Methoxamine (BAN)
+            D08205  Methyldopa (INN)
+            D08206  Methylephedrine (BAN)
+            D08207  Methylergometrine (INN)
+            D08209  Metixene (INN)
+            D08212  Trimazosin (INN)
+            D08216  Mianserin (INN)
+            D08220  Midodrine (INN)
+            D08226  Molindone (INN)
+            D08227  Mometasone (INN)
+            D08229  Montelukast (INN)
+            D08233  Morphine (BAN)
+            D08234  Morphine tartrate
+            D08235  Mosapramine (INN)
+            D08236  Mosapride (INN)
+            D08239  Moxisylyte (INN)
+            D08241  Nafarelin (INN)
+            D08244  Naftidrofuryl (INN)
+            D08246  Nalbuphine (INN)
+            D08249  Naloxone (INN)
+            D08253  Naphazoline (INN)
+            D08255  Naratriptan (INN)
+            D08257  Nefazodone (INN)
+            D08271  Nicergoline tartrate
+            D08273  Nicomorphine hydrochloride
+            D08282  Nonivamide (INN)
+            D08283  Nordazepam (INN)
+            D08284  Norepinephrine hydrochoride
+            D08286  Norfenefrine (INN)
+            D08293  Olopatadine (INN)
+            D08297  Opipramol (INN)
+            D08300  Orciprenaline (INN)
+            D08305  Orphenadrine (INN)
+            D08318  Oxprenolol (INN)
+            D08322  Oxymetazoline (INN)
+            D08323  Oxymorphone (INN)
+            D08325  Oxyphencyclimine (INN)
+            D08339  Pergolide (INN)
+            D08341  Perphenazine decanoate
+            D08342  Perphenazine enantate
+            D08343  Pethidine (INN)
+            D08353  Phenindamine (INN)
+            D08355  Pheniramine (INN)
+            D08356  Phenobarbital diethylamine
+            D08358  Phenoxybenzamine (INN)
+            D08362  Phentolamine (INN)
+            D08365  Phenylephrine (INN)
+            D08366  Phenylephrine tartrate
+            D08368  Phenylpropanolamine (INN)
+            D08376  Pilocarpine borate
+            D08382  Piperidolate (INN)
+            D08384  Pipethanate (INN)
+            D08385  Pipotiazine (INN)
+            D08387  Pirbuterol (INN)
+            D08389  Pirenzepine (INN)
+            D08395  Piroheptine (INN)
+            D08397  Pizotifen malate
+            D08408  Pranlukast (INN)
+            D08411  Prazosin (INN)
+            D08412  Prednisolone pivalate
+            D08413  Prednisolone sodium metazoate (USAN)
+            D08414  Prednisolone 21-(sodium tetrahydrophthalate)
+            D08415  Prednisolone steaglate (BAN)
+            D08416  Prednisone acetate
+            D08418  Pridinol (INN)
+            D08419  Pridinol hydrochloride
+            D08424  Procaterol (INN)
+            D08425  Procyclidine (INN)
+            D08426  Profenamine (INN)
+            D08429  Proligestone (INN)
+            D08430  Promazine (INN)
+            D08432  Promethazine maleate
+            D08441  Propiverine (INN)
+            D08443  Propranolol (INN)
+            D08444  Propylhexedrine hydrochloride
+            D08449  Pseudoephedrine (INN)
+            D08456  Quetiapine (INN)
+            D08457  Quinagolide hydrochloride (BAN)
+            D08473  Remifentanil (INN)
+            D08474  Reproterol (INN)
+            D08476  Resocortol (INN)
+            D08481  Rilmazafone (INN)
+            D08482  Rilmenidine (INN)
+            D08485  Rizatriptan (INN)
+            D08489  Ropinirole (USAN/INN)
+            D08494  Roxatidine (INN)
+            D08495  Roxatidine acetate (BAN)
+            D08497  Rupatadine fumarate (JAN)
+            D08507  Sarmazenil (INN)
+            D08508  Sarpogrelate (INN)
+            D08509  Sermorelin (INN)
+            D08511  Setiptiline (INN)
+            D08517  Sitaxentan sodium (USAN)
+            D08522  Solifenacin (INN)
+            D08523  Somatorelin (INN)
+            D08525  Sotalol (INN)
+            D08549  Sultopride (INN)
+            D08558  Talipexole (INN)
+            D08560  Tamsulosin (INN)
+            D08561  Tandospirone (INN)
+            D08569  Terazosin (INN)
+            D08570  Terbutaline (INN)
+            D08571  Terlipressin acetate (JAN)
+            D08572  Tertatolol hydrochloride
+            D08578  Tetryzoline (INN)
+            D08585  Thioproperazine (INN)
+            D08587  Thonzylamine (INN)
+            D08590  Tiapride (INN)
+            D08591  Tiaprost (INN)
+            D08595  Tiemonium methylsulfate
+            D08596  Tiletamine (INN)
+            D08597  Tilidine (INN)
+            D08598  Tilisolol (INN)
+            D08600  Timolol (INN)
+            D08610  Tixocortol (INN)
+            D08611  Tizanidine (INN)
+            D08614  Tolazoline (INN)
+            D08623  Tramadol (INN)
+            D08624  Tramazoline (INN)
+            D08626  Trazodone (INN)
+            D08628  Treprostinil monosodium salt
+            D08629  Tretoquinol (INN)
+            D08635  Degarelix acetate (USAN)
+            D08636  Trifluoperazine (INN)
+            D08637  Trifluperidol hydrochloride
+            D08638  Trihexyphenidyl (INN)
+            D08639  Trimebutine (INN)
+            D08645  Tripelennamine (INN)
+            D08646  Triphosadenine (DCF)
+            D08647  Triphosadenine disodium salt
+            D08648  Triprolidine (INN)
+            D08649  Triptorelin acetate
+            D08653  Tropatepine hydrochloride
+            D08655  Tubocurarine chloride (INN)
+            D08660  Ulobetasol (INN)
+            D08661  Unoprostone (INN)
+            D08662  Urapidil hydrochloride
+            D08669  Varenicline (INN)
+            D08683  Xylazine (USP/INN)
+            D08684  Xylometazoline (INN)
+            D08685  Yohimbine (DCF)
+            D08687  Ziprasidone (INN)
+            D08690  Zolpidem (INN)
+            D08691  Zuclopenthixol acetate
+            D08692  Zuclopenthixol decanoate
+            D08693  Zuclopenthixol dihydrochloride
+            D08768  Promethazine hibenzate
+            D08837  Aclidinium bromide (JAN/USAN/INN)
+            D08840  Adipiplon (USAN)
+            D08843  Albiglutide (USAN)
+            D08850  Amibegron (USAN/INN)
+            D08851  Amibegron hydrochloride (USAN)
+            D08856  Anamorelin hydrochloride (JAN/USAN)
+            D08861  Arbaclofen placarbil (USAN/INN)
+            D08864  Azilsartan (JAN/USAN/INN)
+            D08865  Azilsartan kamedoxomil (USAN)
+            D08895  Corifollitropin alfa (INN/USAN)
+            D08901  Degarelix (INN/USAN)
+            D08908  Eglumegad (INN)
+            D08923  Fesoterodine fumarate (JAN/USAN)
+            D08935  Ispronicline (INN/USAN)
+            D08937  Labradimil (INN/USAN)
+            D08940  Laropiprant (INN/USAN)
+            D08945  Milveterol hydrochloride (USAN)
+            D08964  Perampanel (USAN)
+            D08966  Phenylephrine bitartrate (USP)
+            D08967  Phenyltoloxamine citrate (USP)
+            D08969  Pimavanserin tartrate (USAN)
+            D08986  Retosiban (USAN)
+            D08987  Rivanicline galactarate (USAN)
+            D08988  Rolapitant hydrochloride (USAN)
+            D08989  Rolofylline (USAN)
+            D09003  Sonedenoson (USAN)
+            D09008  Talaglumetad hydrochloride (USAN)
+            D09009  Taranabant (USAN/INN)
+            D09015  Tesamorelin acetate (USAN)
+            D09035  Zonampanel (INN/USAN)
+            D09205  Prucalopride (USAN/INN)
+            D09318  Indacaterol (USAN/INN)
+            D09319  Indacaterol maleate (JAN/USAN)
+            D09335  Elagolix (USAN/INN)
+            D09336  Elagolix sodium (USAN)
+            D09344  Fasobegron (INN)
+            D09349  Ibipinabant (USAN/INN)
+            D09358  Naluzotan (USAN/INN)
+            D09359  Naluzotan hydrochloride (USAN)
+            D09362  Otenabant (USAN/INN)
+            D09363  Otenabant hydrochloride (USAN)
+            D09366  Pardoprunox hydrochloride (USAN)
+            D09367  Pozanicline (USAN)
+            D09368  Pozanicline tartrate (USAN)
+            D09378  Serlopitant (USAN)
+            D09381  Sobetirome (USAN)
+            D09382  Sofinicline (USAN)
+            D09383  Sofinicline benzenesulfonate (USAN)
+            D09388  Tasimelteon (USAN/INN)
+            D09391  Telcagepant (USAN)
+            D09392  Telcagepant potassium (USAN)
+            D09397  Pardoprunox (USAN/INN)
+            D09400  Degarelix acetate (JAN)
+            D09402  Darotropium bromide (USAN/INN)
+            D09535  Mirabegron (USAN/JAN)
+            D09570  Bilastine (JAN/INN)
+            D09600  Davalintide (USAN/INN)
+            D09601  Davalintide acetate (USAN)
+            D09610  Emicerfont (USAN/INN)
+            D09645  Nelotanserin (USAN/INN)
+            D09650  Orvepitant (USAN/INN)
+            D09651  Orvepitant maleate (USAN)
+            D09684  Tonapofylline (USAN/INN)
+            D09693  Velusetrag (USAN/INN)
+            D09694  Velusetrag hydrochloride (USAN)
+            D09695  Verucerfont (USAN/INN)
+            D09696  Vilanterol (USAN)
+            D09697  Vilanterol trifenatate (JAN/USAN)
+            D09698  Vilazodone (USAN/INN)
+            D09699  Vilazodone hydrochloride (USAN)
+            D09705  Bepotastine (USAN/INN)
+            D09707  Dabigatran (USAN/INN)
+            D09717  Preladenant (USAN/INN)
+            D09723  Taspoglutide (USAN/INN)
+            D09729  Lixisenatide (JAN/USAN/INN)
+            D09732  Ritobegron ethyl hydrochloride (JAN)
+            D09747  Difeterol phosphate (JAN)
+            D09748  Difeterol (JAN/INN)
+            D09752  Carpronium chloride hydrate (JAN)
+            D09765  Vorapaxar (USAN/INN)
+            D09766  Vorapaxar sulfate (JAN/USAN)
+            D09774  Imitrodast sodium (JAN)
+            D09784  Garomefrine hydrochloride (JAN)
+            D09791  Arbaclofen (USAN)
+            D09794  Norepinephrine hydrochloride (JAN)
+            D09796  Hydrocortisone caproate (JAN)
+            D09797  Cargutocin (INN/JAN)
+            D09801  Giractide acetate (JAN)
+            D09808  Carbinoxamine diphenyldisulfonate (JAN)
+            D09819  Chlorpromazine tannate (JAN)
+            D09820  Vasopressin tannate (JAN)
+            D09824  Domitroban calcium hydrate (JAN)
+            D09838  Broizine (JAN)
+            D09842  dl-Methylephedrine saccharinate (JAN)
+            D09845  Montirelin hydrate (JAN)
+            D09866  Atopaxar (USAN)
+            D09867  Atopaxar hydrobromide (USAN)
+            D09876  Cariprazine hydrochloride (JAN/USAN)
+            D09889  Dulaglutide (USAN/INN)
+            D09917  Latrepirdine (USAN/INN)
+            D09918  Latrepirdine dihydrochloride (USAN)
+            D09931  Mibampator (USAN/INN)
+            D09933  Naronapride (USAN/INN)
+            D09934  Naronapride dihydrochloride (USAN)
+            D09937  Giractide (INN)
+            D09949  Pomaglumetad methionil (USAN)
+            D09953  Pridopidine (USAN/INN)
+            D09954  Pridopidine hydrochloride (USAN)
+            D09964  Almorexant (INN)
+            D09968  Taprenepag (USAN/INN)
+            D09969  Taprenepag isopropyl (USAN)
+            D09976  Temanogrel (USAN/INN)
+            D09977  Temanogrel hydrochloride (USAN)
+            D09981  Ulimorelin (USAN/INN)
+            D09982  Ulimorelin hydrochloride (USAN)
+            D09988  Vapreotide acetate (USAN)
+            D09990  Vidupiprant (USAN/INN)
+            D09991  Vipadenant (USAN/INN)
+            D09994  Selexipag (JAN/USAN/INN)
+            D09997  Cariprazine (USAN/INN)
+            D10001  Fingolimod (INN)
+            D10006  Eplivanserin (USAN/INN)
+            D10020  Olodaterol hydrochloride (JAN/USAN)
+            D10022  Pexacerfont (USAN/INN)
+            D10025  Semaglutide (USAN/INN)
+            D10082  Suvorexant (JAN/USAN)
+            D10099  Cerlapirdine (USAN)
+            D10100  Cerlapirdine hydrochloride (USAN)
+            D10107  Dasolampanel (USAN)
+            D10108  Dasolampanel etibutil (USAN)
+            D10109  Dasolampanel etibutil tosylate (USAN)
+            D10111  Dexmecamylamine (USAN)
+            D10112  Dexmecamylamine hydrochloride (USAN)
+            D10117  Epelsiban (USAN)
+            D10118  Epelsiban besylate (USAN)
+            D10128  Irdabisant (USAN)
+            D10135  Macitentan (JAN/USAN)
+            D10136  Mapracorat (USAN)
+            D10145  Olodaterol (USAN/INN)
+            D10147  Pasireotide (USAN)
+            D10152  Prucalopride succinate (USAN)
+            D10162  Samidorphan (USAN)
+            D10163  Samidorphan l-malate (USAN)
+            D10174  Tozadenant (USAN)
+            D10180  Umeclidinium (USAN)
+            D10181  Umeclidinium bromide (JAN/USAN)
+            D10184  Vortioxetine (USAN)
+            D10185  Vortioxetine hydrobromide (JAN/USAN)
+            D10188  Naldemedine (USAN/INN)
+            D10194  Remimazolam besylate (USAN)
+            D10199  Tapentadol hydrochloride (JAN)
+            D10219  Abediterol (USAN/INN)
+            D10220  Abediterol napadisylate (USAN)
+            D10230  Quifenadine (INN)
+            D10309  Brexpiprazole (JAN/USAN/INN)
+            D10330  Camicinal (USAN/INN)
+            D10338  Lasmiditan (USAN/INN)
+            D10345  Filorexant (USAN)
+            D10355  Aripiprazole cavoxil (USAN)
+            D10364  Aripiprazole lauroxil (USAN)
+            D10375  Naloxegol oxalate (USAN)
+            D10391  Telmapitant (USAN)
+            D10403  Eluxadoline (USAN)
+            D10424  Lasmiditan succinate (JAN/USAN)
+            D10430  Treprostinil diolamine (USAN)
+            D10433  Vibegron (JAN/USAN)
+            D10436  Cebranopadol (USAN/INN)
+            D10441  Latanoprostene bunod (USAN/INN)
+            D10470  Strychnine nitrate
+            D10478  Naldemedine tosylate (JAN/USAN)
+            D10479  Naloxegol (USAN/INN)
+            D10488  Serelaxin (USAN/INN)
+            D10497  Pasireotide diaspartate
+            D10510  Sequifenadine
+            D10511  Afamelanotide (USAN/INN)
+            D10516  Aripiprazole hydrate (JAN)
+            D10545  Batefenterol (USAN)
+            D10546  Batefenterol succinate (USAN)
+            D10556  Fimasartan (INN)
+            D10562  Macimorelin acetate (USAN)
+            D10563  Macimorelin (USAN)
+            D10566  Pasireotide pamoate (JAN)
+            D10612  Benzhydrocodone (USAN/INN)
+            D10613  Bradanicline (USAN/INN)
+            D10617  Dagrocorat (USAN/INN)
+            D10627  Esketamine hydrochloride (JAN/USAN)
+            D10628  Esuberaprost (USAN/INN)
+            D10631  Fevipiprant (JAN/USAN/INN)
+            D10634  Fosdagrocorat (USAN/INN)
+            D10660  Relamorelin (USAN/INN)
+            D10662  Rimegepant (USAN/INN)
+            D10663  Rimegepant sulfate (USAN)
+            D10673  Ubrogepant (USAN/INN)
+            D10692  Benzhydrocodone hydrochloride (USAN)
+            D10693  Bradanicline hydrochloride (USAN)
+            D10703  Esuberaprost sodium (USAN)
+            D10725  Ralinepag (USAN/INN)
+            D10735  Toreforant (USAN/INN)
+            D10742  Rolapitant (USAN/INN)
+            D10747  Idalopirdine hydrochloride (JAN)
+            D10749  Pitolisant (USAN/INN)
+            D10780  Perampanel hydrate (JAN)
+            D10811  Fentanyl hydrochloride (JAN)
+            D10812  Nalmefene hydrochloride hydrate (JAN)
+            D10853  Desfesoterodine (INN)
+            D10888  Relugolix (JAN/USAN/INN)
+            D10890  Difelikefalin acetate (JAN)
+            D10895  Fosaprepitant (INN)
+            D10896  Pomaglumetad methionil (INN)
+            D10904  Amiselimod hydrochloride (USAN)
+            D10905  Amiselimod (USAN/INN)
+            D10915  Cannabidiol (USAN/INN)
+            D10928  Erenumab (USAN/INN)
+            D10930  Etrasimod (USAN)
+            D10938  Glycopyrronium (USAN)
+            D10939  Glycopyrronium tosylate (USAN)
+            D10965  Omidenepag (USAN/INN)
+            D10966  Omidenepag isopropyl (JAN)
+            D10967  Ozanimod hydrochloride (JAN/USAN)
+            D10968  Ozanimod (USAN/INN)
+            D10970  Pegapamodutide (USAN)
+            D10971  Piclidenoson (USAN/INN)
+            D10978  Revefenacin (USAN/INN)
+            D10989  Sofpironium bromide (JAN/USAN/INN)
+            D11000  Vamorolone (USAN/INN)
+            D11009  Indacaterol acetate (JAN)
+            D11022  Lemborexant (JAN/USAN/INN)
+            D11033  Lutetium (177Lu) oxodotreotide (INN)
+            D11055  Fremanezumab (USAN/INN)
+            D11056  Mirtazapine hydrate (JAN)
+            D11065  Fosnetupitant (USAN/INN)
+            D11072  Siponimod fumarate (USAN)
+            D11093  Avacopan (JAN/USAN/INN)
+            D11098  Telenzepine hydrochloride hydrate (JAN)
+            D11111  Difelikefalin (USAN/INN)
+            D11113  Levothyroxine sodium (INN)
+            D11128  Namodenoson (USAN/INN)
+            D11142  Angiotensin II acetate (USAN)
+            D11149  Brexanolone (USAN/INN)
+            D11150  Cenobamate (USAN/INN)
+            D11161  Atesidorsen (USAN/INN)
+            D11162  Atesidorsen sodium (USNA)
+            D11169  Lumateperone (USAN/INN)
+            D11170  Lumateperone tosylate (USAN)
+            D11192  Veldoreotide (USAN/INN)
+            D11193  Somavaratan (USAN/INN)
+            D11194  Somapacitan (USAN/INN)
+            D11204  Octreotide hydrochloride (USAN)
+            D11214  Oliceridine (USAN/INN)
+            D11215  Ponesimod (USAN/INN)
+            D11220  Relenopride (USAN/INN)
+            D11221  Relenopride hydrochloride (USAN)
+            D11230  Crotedumab (USAN/INN)
+            D11269  Seltorexant (USAN/INN)
+            D11280  Bivalirudin trifluoroacetate (USAN)
+            D11283  Cenerimod (USAN/INN)
+            D11291  Asalhydromorphone (USAN)
+            D11292  Asalhydromorphone hydrochloride (USAN)
+            D11303  Eptinezumab (USAN)
+            D11312  Lenabasum (USAN/INN)
+            D11313  Atogepant (USAN)
+            D11320  Vatinoxan (USAN)
+            D11321  Vatinoxan hydrochloride (USAN)
+            D11334  Afamelanotide acetate (USAN)
+            D11336  Relacorilant (USAN)
+            D11337  Glepaglutide (USAN)
+            D11340  Rislenemdaz (USAN)
+            D11349  Gefapixant (USAN/INN)
+            D11351  Opigolix (USAN/INN)
+            D11359  Dasiglucagon (USAN)
+            D11360  Tirzepatide (JAN/USAN)
+            D11370  Fosnetupitant chloride hydrochloride (JAN/USAN)
+            D11383  Blarcamesine (USAN)
+            D11414  Troriluzole (USAN)
+            D11415  Troriluzole hydrochloride (USAN)
+            D11418  Avexitide (USAN)
+            D11419  Avexitide acetate (USAN)
+            D11424  Oxycodegol (USAN)
+            D11425  Oxycodegol phosphate (USAN)
+            D11429  Olorinab (USAN)
+            D11431  Tavapadon (USAN)
+            D11435  Nimacimab (USAN)
+            D11441  Aprocitentan (USAN/INN)
+            D11446  Esuberaprost potassium (USAN)
+            D11460  Siponimod (USAN/INN)
+            D11473  Nomacopan (USAN)
+            D11476  Balovaptan (USAN/INN)
+            D11486  Lonapegsomatropin (USAN/INN)
+            D11490  Pitolisant hydrochloride (USAN)
+            D11547  Ciforadenant (USAN)
+            D11549  Blarcamesine hydrochloride (USAN)
+            D11566  Lorcaserin hydrochloride hemihydrate
+            D11572  Beclomethasone dipropionate monohydrate
+            D11583  Difenoxin hydrochloride
+            D11585  Terazosin hydrochloride anhydrous
+            D11602  Resmetirom (USAN/INN)
+            D11614  Volagidemab (USAN)
+            D11617  Eletriptan hydrobromide monohydrate
+            D11620  Naloxone hydrochloride dihydrate
+            D11629  Bremelanotide acetate (USAN)
+            D11630  Aminophylline dihydrate
+            D11651  Edotreotide gallium Ga-68
+            D11659  Tolvaptan sodium phosphate (JAN)
+            D11664  Clazosentan (USAN/INN)
+            D11665  Exicorilant (USAN/INN)
+            D11667  Miricorilant (USAN/INN)
+            D11693  Gefapixant citrate (JAN/USAN)
+            D11696  Crovalimab (USAN/INN)
+            D11728  Tradipitant (USAN/INN)
+            D11748  Avacincaptad pegol sodium (USAN)
+            D11769  Asenapine (INN)
+            D11776  Sparsentan (USAN/INN)
+            D11788  Remimazolam (USAN/INN)
+            D11819  Adriforant (USAN/INN)
+            D11822  Mevidalen hydroxybenzoate (USAN)
+            D11826  Mevidalen (USAN)
+            D11830  Ralmitaront (USAN/INN)
+            D11831  Aticaprant (USAN/INN)
+            D11839  Foslevodopa (JAN/USAN/INN)
+            D11845  Tidutamab (USAN/INN)
+            D11882  Copper Cu 64 dotatate
+            D11886  Daridorexant (USAN/INN)
+            D11887  Daridorexant hydrochloride (JAN/USAN)
+            D11898  Zavegepant (USAN)
+            D11899  Zavegepant hydrochloride (USAN)
+            D11900  Navafenterol (USAN)
+            D11901  Navafenterol saccharinate (USAN)
+            D11910  Danuglipron (USAN)
+            D11911  Danuglipron tromethamine (USAN)
+            D11924  Beinaglutide (INN)
+            D11927  Setmelanotide (USAN/INN)
+            D11928  Setmelanotide acetate
+            D11929  Setmelanotide hydrochloride (USAN)
+            D11937  Velsecorat (USAN/INN)
+            D11947  Efpeglenatide (USAN/INN)
+            D11964  Sovatelitide (USAN)
+            D11974  Centhaquine (USAN)
+            D11975  Centhaquine citrate (USAN)
+            D11976  Fezolinetant (USAN)
+            D11978  Inupadenant (USAN)
+            D11979  Inupadenant hydrochloride (USAN)
+            D11982  Trazpiroben (USAN/INN)
+            D12005  Treprostinil palmitil (USAN/INN)
+            D12123  Elinzanetant (USAN/INN)
+            D12146  Darigabat (USAN)
+            D12148  Dersimelagon phosphate (USAN)
+            D12149  Plasminogen
+            D12157  Felcisetrag (USAN/INN)
+            D12214  Esmethadone (USAN)
+            D12215  Esmethadone hydrochloride (USAN)
+            D12225  Mazdutide (USAN)
+            D12239  Pesampator (USAN)
+            D12240  Valiloxybate (USAN)
+            D12305  Onternabez (USAN)
+            D12314  Dasiglucagon hydrochloride
+            D12323  Eliapixant (USAN/INN)
+            D12337  Leuprolide mesylate
+            D12355  Sivopixant (JAN/INN)
+            D12356  Zilucoplan sodium (JAN)
+            D12357  Zilucoplan (USAN/INN)
+            D12369  Etrumadenant (USAN/INN)
+            D12376  Udifitimod (USAN)
+            D12377  Udifitimod hydrochloride (USAN)
+            D12382  Alogabat (USAN)
+            D12395  Palopegteriparatide (USAN/INN)
+            D12410  Landiolol (USAN/INN)
+            D12430  Retatrutide (USAN)
+            D12431  Lutetium Lu177 edotreotide (USAN)
+            D12449  Cipepofol (USAN)
+            D12459  Vipalanebart (USAN)
+            D12468  Emraclidine (USAN/INN)
+            D12474  Ulotaront (USAN/INN)
+            D12475  Ulotaront hydrochloride (USAN)
+            D12477  Paltusotine (USAN/INN)
+            D12478  Paltusotine hydrochloride (USAN)
+            D12511  Vicasinabin (USAN/INN)
+            D12529  Orforglipron calcium (USAN)
+            D12536  Orforglipron (USAN)
+            D12544  Vortioxetine hemihydrobromide (USAN)
+            D12549  Fingolimod lauryl sulfate
+            D12553  Nevadistinel (USAN)
+            D12554  Risevistinel (USAN)
+            D12555  Lotiglipron (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1128  CHRM1; cholinergic receptor muscarinic 1 [KO:K04129]
+            1129  CHRM2; cholinergic receptor muscarinic 2 [KO:K04130]
+            1131  CHRM3; cholinergic receptor muscarinic 3 [KO:K04131]
+            1132  CHRM4; cholinergic receptor muscarinic 4 [KO:K04132]
+            1133  CHRM5; cholinergic receptor muscarinic 5 [KO:K04133]
+            148  ADRA1A; adrenoceptor alpha 1A [KO:K04135]
+            147  ADRA1B; adrenoceptor alpha 1B [KO:K04136]
+            146  ADRA1D; adrenoceptor alpha 1D [KO:K04137]
+            150  ADRA2A; adrenoceptor alpha 2A [KO:K04138]
+            151  ADRA2B; adrenoceptor alpha 2B [KO:K04139]
+            152  ADRA2C; adrenoceptor alpha 2C [KO:K04140]
+            153  ADRB1; adrenoceptor beta 1 [KO:K04141]
+            154  ADRB2; adrenoceptor beta 2 [KO:K04142]
+            155  ADRB3; adrenoceptor beta 3 [KO:K04143]
+            1812  DRD1; dopamine receptor D1 [KO:K04144]
+            1813  DRD2; dopamine receptor D2 [KO:K04145]
+            1814  DRD3; dopamine receptor D3 [KO:K04146]
+            1815  DRD4; dopamine receptor D4 [KO:K04147]
+            1816  DRD5; dopamine receptor D5 [KO:K05840]
+            3269  HRH1; histamine receptor H1 [KO:K04149]
+            3274  HRH2; histamine receptor H2 [KO:K04150]
+            11255  HRH3; histamine receptor H3 [KO:K04151]
+            59340  HRH4; histamine receptor H4 [KO:K04152]
+            3350  HTR1A; 5-hydroxytryptamine receptor 1A [KO:K04153]
+            3351  HTR1B; 5-hydroxytryptamine receptor 1B [KO:K04153]
+            3352  HTR1D; 5-hydroxytryptamine receptor 1D [KO:K04153]
+            3354  HTR1E; 5-hydroxytryptamine receptor 1E [KO:K04153]
+            3355  HTR1F; 5-hydroxytryptamine receptor 1F [KO:K04153]
+            3356  HTR2A; 5-hydroxytryptamine receptor 2A [KO:K04157]
+            3357  HTR2B; 5-hydroxytryptamine receptor 2B [KO:K04157]
+            3358  HTR2C; 5-hydroxytryptamine receptor 2C [KO:K04157]
+            3360  HTR4; 5-hydroxytryptamine receptor 4 [KO:K04160]
+            3361  HTR5A; 5-hydroxytryptamine receptor 5A [KO:K04161]
+            3362  HTR6; 5-hydroxytryptamine receptor 6 [KO:K04162]
+            3363  HTR7; 5-hydroxytryptamine receptor 7 [KO:K04163]
+            134860  TAAR9; trace amine associated receptor 9 [KO:K05051]
+            319100  TAAR6; trace amine associated receptor 6 [KO:K05051]
+            134864  TAAR1; trace amine associated receptor 1 [KO:K05051]
+            83551  TAAR8; trace amine associated receptor 8 [KO:K05051]
+            9038  TAAR5; trace amine associated receptor 5 [KO:K05051]
+            9287  TAAR2; trace amine associated receptor 2 [KO:K05051]
+            183  AGT; angiotensinogen [KO:K09821]
+            185  AGTR1; angiotensin II receptor type 1 [KO:K04166]
+            186  AGTR2; angiotensin II receptor type 2 [KO:K04167]
+            8862  APLN; apelin [KO:K05225]
+            100506013  APELA; apelin receptor early endogenous ligand [KO:K25355]
+            187  APLNR; apelin receptor [KO:K04174]
+            4828  NMB; neuromedin B [KO:K05223]
+            2922  GRP; gastrin releasing peptide [KO:K05224]
+            4829  NMBR; neuromedin B receptor [KO:K04168]
+            2925  GRPR; gastrin releasing peptide receptor [KO:K04169]
+            680  BRS3; bombesin receptor subtype 3 [KO:K04170]
+            3827  KNG1; kininogen 1 [KO:K03898]
+            623  BDKRB1; bradykinin receptor B1 [KO:K03915]
+            624  BDKRB2; bradykinin receptor B2 [KO:K03916]
+            718  C3; complement C3 [KO:K03990]
+            719  C3AR1; complement C3a receptor 1 [KO:K04009]
+            727  C5; complement C5 [KO:K03994]
+            728  C5AR1; complement C5a receptor 1 [KO:K04010]
+            7425  VGF; VGF nerve growth factor inducible [KO:K25695]
+            2357  FPR1; formyl peptide receptor 1 [KO:K04172]
+            2359  FPR3; formyl peptide receptor 3 [KO:K04173]
+            2358  FPR2; formyl peptide receptor 2 [KO:K04173]
+            885  CCK; cholecystokinin [KO:K05226]
+            886  CCKAR; cholecystokinin A receptor [KO:K04194]
+            887  CCKBR; cholecystokinin B receptor [KO:K04195]
+            1906  EDN1; endothelin 1 [KO:K16366]
+            1907  EDN2; endothelin 2 [KO:K16367]
+            1908  EDN3; endothelin 3 [KO:K05227]
+            1909  EDNRA; endothelin receptor type A [KO:K04197]
+            1910  EDNRB; endothelin receptor type B [KO:K04198]
+            51083  GAL; galanin and GMAP prepropeptide [KO:K05244]
+            85569  GALP; galanin like peptide [KO:K25482]
+            80763  SPX; spexin hormone [KO:K25694]
+            2587  GALR1; galanin receptor 1 [KO:K04230]
+            8811  GALR2; galanin receptor 2 [KO:K04231]
+            8484  GALR3; galanin receptor 3 [KO:K04232]
+            51738  GHRL; ghrelin and obestatin prepropeptide [KO:K05254]
+            2693  GHSR; growth hormone secretagogue receptor [KO:K04284]
+            3814  KISS1; KiSS-1 metastasis suppressor [KO:K23140]
+            84634  KISS1R; KISS1 receptor [KO:K08374]
+            5443  POMC; proopiomelanocortin [KO:K05228]
+            4157  MC1R; melanocortin 1 receptor [KO:K04199]
+            4158  MC2R; melanocortin 2 receptor [KO:K04200]
+            4159  MC3R; melanocortin 3 receptor [KO:K04201]
+            4160  MC4R; melanocortin 4 receptor [KO:K04202]
+            4161  MC5R; melanocortin 5 receptor [KO:K04203]
+            4295  MLN; motilin [KO:K05265]
+            2862  MLNR; motilin receptor [KO:K05266]
+            10874  NMU; neuromedin U [KO:K05249]
+            129521  NMS; neuromedin S [KO:K25690]
+            10316  NMUR1; neuromedin U receptor 1 [KO:K05052]
+            56923  NMUR2; neuromedin U receptor 2 [KO:K05053]
+            8620  NPFF; neuropeptide FF-amide peptide precursor [KO:K05247]
+            64111  NPVF; neuropeptide VF precursor [KO:K25692]
+            64106  NPFFR1; neuropeptide FF receptor 1 [KO:K04240]
+            10886  NPFFR2; neuropeptide FF receptor 2 [KO:K08375]
+            594857  NPS; neuropeptide S [KO:K25691]
+            387129  NPSR1; neuropeptide S receptor 1 [KO:K08376]
+            4852  NPY; neuropeptide Y [KO:K05232]
+            5697  PYY; peptide YY [KO:K05233]
+            5539  PPY; pancreatic polypeptide [KO:K05234]
+            4886  NPY1R; neuropeptide Y receptor Y1 [KO:K04204]
+            4887  NPY2R; neuropeptide Y receptor Y2 [KO:K04205]
+            5540  NPY4R; neuropeptide Y receptor Y4 [KO:K04206]
+            100996758  NPY4R2; neuropeptide Y receptor Y4-2 [KO:K04206]
+            4889  NPY5R; neuropeptide Y receptor Y5 [KO:K04207]
+            10888  GPR83; G protein-coupled receptor 83 [KO:K04210]
+            283869  NPW; neuropeptide W [KO:K23141]
+            256933  NPB; neuropeptide B [KO:K05267]
+            2831  NPBWR1; neuropeptides B and W receptor 1 [KO:K05268]
+            2832  NPBWR2; neuropeptides B and W receptor 2 [KO:K08377]
+            4922  NTS; neurotensin [KO:K05235]
+            4923  NTSR1; neurotensin receptor 1 [KO:K04211]
+            23620  NTSR2; neurotensin receptor 2 [KO:K04212]
+            5179  PENK; proenkephalin [KO:K18832]
+            5173  PDYN; prodynorphin [KO:K15840]
+            5368  PNOC; prepronociceptin [KO:K25696]
+            4985  OPRD1; opioid receptor delta 1 [KO:K04213]
+            4986  OPRK1; opioid receptor kappa 1 [KO:K04214]
+            4988  OPRM1; opioid receptor mu 1 [KO:K04215]
+            4987  OPRL1; opioid related nociceptin receptor 1 [KO:K04216]
+            347148  QRFP; pyroglutamylated RFamide peptide [KO:K25693]
+            84109  QRFPR; pyroglutamylated RFamide peptide receptor [KO:K08378]
+            3060  HCRT; hypocretin neuropeptide precursor [KO:K05246]
+            3061  HCRTR1; hypocretin receptor 1 [KO:K04238]
+            3062  HCRTR2; hypocretin receptor 2 [KO:K04239]
+            5020  OXT; oxytocin/neurophysin I prepropeptide [KO:K05243]
+            5021  OXTR; oxytocin receptor [KO:K04229]
+            6750  SST; somatostatin [KO:K05237]
+            1325  CORT; cortistatin [KO:K05238]
+            6751  SSTR1; somatostatin receptor 1 [KO:K04217]
+            6752  SSTR2; somatostatin receptor 2 [KO:K04218]
+            6753  SSTR3; somatostatin receptor 3 [KO:K04219]
+            6754  SSTR4; somatostatin receptor 4 [KO:K04220]
+            6755  SSTR5; somatostatin receptor 5 [KO:K04221]
+            6863  TAC1; tachykinin precursor 1 [KO:K05239]
+            255061  TAC4; tachykinin precursor 4 [KO:K05241]
+            6869  TACR1; tachykinin receptor 1 [KO:K04222]
+            6865  TACR2; tachykinin receptor 2 [KO:K04223]
+            6866  TAC3; tachykinin precursor 3 [KO:K05240]
+            6870  TACR3; tachykinin receptor 3 [KO:K04224]
+            10911  UTS2; urotensin 2 [KO:K05248]
+            257313  UTS2B; urotensin 2B [KO:K24267]
+            2837  UTS2R; urotensin 2 receptor [KO:K04241]
+            551  AVP; arginine vasopressin [KO:K05242]
+            552  AVPR1A; arginine vasopressin receptor 1A [KO:K04226]
+            553  AVPR1B; arginine vasopressin receptor 1B [KO:K04227]
+            554  AVPR2; arginine vasopressin receptor 2 [KO:K04228]
+            2147  F2; coagulation factor II, thrombin [KO:K01313] [EC:3.4.21.5]
+            1511  CTSG; cathepsin G [KO:K01319] [EC:3.4.21.20]
+            3001  GZMA; granzyme A [KO:K01352] [EC:3.4.21.78]
+            5340  PLG; plasminogen [KO:K01315] [EC:3.4.21.7]
+            5646  PRSS3; serine protease 3 [KO:K01312] [EC:3.4.21.4]
+            5645  PRSS2; serine protease 2 [KO:K01312] [EC:3.4.21.4]
+            5644  PRSS1; serine protease 1 [KO:K01312] [EC:3.4.21.4]
+            2149  F2R; coagulation factor II thrombin receptor [KO:K03914]
+            2150  F2RL1; F2R like trypsin receptor 1 [KO:K04234]
+            2151  F2RL2; coagulation factor II thrombin receptor like 2 [KO:K04235]
+            9002  F2RL3; F2R like thrombin or trypsin receptor 3 [KO:K04236]
+            56288  PARD3; par-3 family cell polarity regulator [KO:K04237]
+            51052  PRLH; prolactin releasing hormone [KO:K05269]
+            2834  PRLHR; prolactin releasing hormone receptor [KO:K04314]
+            5367  PMCH; pro-melanin concentrating hormone [KO:K05229]
+            2847  MCHR1; melanin concentrating hormone receptor 1 [KO:K04320]
+            84539  MCHR2; melanin concentrating hormone receptor 2 [KO:K05054]
+            2488  FSHB; follicle stimulating hormone subunit beta [KO:K05250]
+            1081  CGA; glycoprotein hormones, alpha polypeptide [KO:K08522]
+            2492  FSHR; follicle stimulating hormone receptor [KO:K04247]
+            3972  LHB; luteinizing hormone subunit beta [KO:K08521]
+            3973  LHCGR; luteinizing hormone/choriogonadotropin receptor [KO:K04248]
+            7252  TSHB; thyroid stimulating hormone subunit beta [KO:K05251]
+            170589  GPHA2; glycoprotein hormone subunit alpha 2 [KO:K25483]
+            122876  GPHB5; glycoprotein hormone subunit beta 5 [KO:K25484]
+            7253  TSHR; thyroid stimulating hormone receptor [KO:K04249]
+            5729  PTGDR; prostaglandin D2 receptor [KO:K04332]
+            5731  PTGER1; prostaglandin E receptor 1 [KO:K04258]
+            5732  PTGER2; prostaglandin E receptor 2 [KO:K04259]
+            5733  PTGER3; prostaglandin E receptor 3 [KO:K04260]
+            5734  PTGER4; prostaglandin E receptor 4 [KO:K04261]
+            5737  PTGFR; prostaglandin F receptor [KO:K04262]
+            5739  PTGIR; prostaglandin I2 receptor [KO:K04263]
+            6915  TBXA2R; thromboxane A2 receptor [KO:K04264]
+            134  ADORA1; adenosine A1 receptor [KO:K04265]
+            135  ADORA2A; adenosine A2a receptor [KO:K04266]
+            136  ADORA2B; adenosine A2b receptor [KO:K04267]
+            140  ADORA3; adenosine A3 receptor [KO:K04268]
+            5029  P2RY2; purinergic receptor P2Y2 [KO:K04269]
+            5028  P2RY1; purinergic receptor P2Y1 [KO:K04270]
+            5030  P2RY4; pyrimidinergic receptor P2Y4 [KO:K04271]
+            5031  P2RY6; pyrimidinergic receptor P2Y6 [KO:K04272]
+            10161  LPAR6; lysophosphatidic acid receptor 6 [KO:K04273]
+            27334  P2RY10; P2Y receptor family member 10 [KO:K04274]
+            9934  P2RY14; purinergic receptor P2Y14 [KO:K04299]
+            286530  P2RY8; P2Y receptor family member 8 [KO:K08386]
+            5032  P2RY11; purinergic receptor P2Y11 [KO:K08387]
+            53829  P2RY13; purinergic receptor P2Y13 [KO:K08388]
+            2859  GPR35; G protein-coupled receptor 35 [KO:K04276]
+            1268  CNR1; cannabinoid receptor 1 [KO:K04277]
+            1269  CNR2; cannabinoid receptor 2 [KO:K04278]
+            5724  PTAFR; platelet activating factor receptor [KO:K04279]
+            2796  GNRH1; gonadotropin releasing hormone 1 [KO:K05252]
+            2797  GNRH2; gonadotropin releasing hormone 2 [KO:K05252]
+            2798  GNRHR; gonadotropin releasing hormone receptor [KO:K04280]
+            7200  TRH; thyrotropin releasing hormone [KO:K05253]
+            7201  TRHR; thyrotropin releasing hormone receptor [KO:K04282]
+            4543  MTNR1A; melatonin receptor 1A [KO:K04285]
+            4544  MTNR1B; melatonin receptor 1B [KO:K04286]
+            9248  GPR50; G protein-coupled receptor 50 [KO:K04287]
+            1902  LPAR1; lysophosphatidic acid receptor 1 [KO:K04289]
+            9170  LPAR2; lysophosphatidic acid receptor 2 [KO:K04291]
+            23566  LPAR3; lysophosphatidic acid receptor 3 [KO:K04294]
+            2846  LPAR4; lysophosphatidic acid receptor 4 [KO:K04275]
+            1901  S1PR1; sphingosine-1-phosphate receptor 1 [KO:K04288]
+            9294  S1PR2; sphingosine-1-phosphate receptor 2 [KO:K04292]
+            1903  S1PR3; sphingosine-1-phosphate receptor 3 [KO:K04290]
+            8698  S1PR4; sphingosine-1-phosphate receptor 4 [KO:K04293]
+            53637  S1PR5; sphingosine-1-phosphate receptor 5 [KO:K04295]
+            1241  LTB4R; leukotriene B4 receptor [KO:K04296]
+            56413  LTB4R2; leukotriene B4 receptor 2 [KO:K04297]
+            4142  MAS1; MAS1 proto-oncogene, G protein-coupled receptor [KO:K04303]
+            6013  RLN1; relaxin 1 [KO:K21998]
+            6019  RLN2; relaxin 2 [KO:K21998]
+            117579  RLN3; relaxin 3 [KO:K22000]
+            3640  INSL3; insulin like 3 [KO:K21999]
+            10022  INSL5; insulin like 5 [KO:K22001]
+            59350  RXFP1; relaxin family peptide receptor 1 [KO:K04306]
+            122042  RXFP2; relaxin family peptide receptor 2 [KO:K04307]
+            51289  RXFP3; relaxin family peptide receptor 3 [KO:K08397]
+            339403  RXFP4; relaxin family peptide/INSL5 receptor 4 [KO:K08398]
+            10800  CYSLTR1; cysteinyl leukotriene receptor 1 [KO:K04322]
+            57105  CYSLTR2; cysteinyl leukotriene receptor 2 [KO:K04323]
+            796  CALCA; calcitonin related polypeptide alpha [KO:K12332]
+            797  CALCB; calcitonin related polypeptide beta [KO:K12332]
+            133  ADM; adrenomedullin [KO:K12333]
+            79924  ADM2; adrenomedullin 2 [KO:K25343]
+            3375  IAPP; islet amyloid polypeptide [KO:K08039]
+            799  CALCR; calcitonin receptor [KO:K04576]
+            10203  CALCRL; calcitonin receptor like receptor [KO:K04577]
+            1392  CRH; corticotropin releasing hormone [KO:K05256]
+            7349  UCN; urocortin [KO:K23142]
+            114131  UCN3; urocortin 3 [KO:K05257]
+            90226  UCN2; urocortin 2 [KO:K05257]
+            1394  CRHR1; corticotropin releasing hormone receptor 1 [KO:K04578]
+            1395  CRHR2; corticotropin releasing hormone receptor 2 [KO:K04579]
+            2695  GIP; gastric inhibitory polypeptide [KO:K05258]
+            2696  GIPR; gastric inhibitory polypeptide receptor [KO:K04580]
+            2641  GCG; glucagon [KO:K05259]
+            2642  GCGR; glucagon receptor [KO:K04583]
+            2740  GLP1R; glucagon like peptide 1 receptor [KO:K04581]
+            9340  GLP2R; glucagon like peptide 2 receptor [KO:K04582]
+            2691  GHRH; growth hormone releasing hormone [KO:K05260]
+            2692  GHRHR; growth hormone releasing hormone receptor [KO:K04584]
+            5741  PTH; parathyroid hormone [KO:K05261]
+            113091  PTH2; parathyroid hormone 2 [KO:K23143]
+            5745  PTH1R; parathyroid hormone 1 receptor [KO:K04585]
+            5746  PTH2R; parathyroid hormone 2 receptor [KO:K04586]
+            116  ADCYAP1; adenylate cyclase activating polypeptide 1 [KO:K05262]
+            117  ADCYAP1R1; ADCYAP receptor type I [KO:K04587]
+            6343  SCT; secretin [KO:K05263]
+            6344  SCTR; secretin receptor [KO:K04588]
+            7432  VIP; vasoactive intestinal peptide [KO:K05264]
+            7433  VIPR1; vasoactive intestinal peptide receptor 1 [KO:K04589]
+            7434  VIPR2; vasoactive intestinal peptide receptor 2 [KO:K04590]
+            2911  GRM1; glutamate metabotropic receptor 1 [KO:K04603]
+            2912  GRM2; glutamate metabotropic receptor 2 [KO:K04605]
+            2913  GRM3; glutamate metabotropic receptor 3 [KO:K04606]
+            2914  GRM4; glutamate metabotropic receptor 4 [KO:K04607]
+            2915  GRM5; glutamate metabotropic receptor 5 [KO:K04604]
+            2916  GRM6; glutamate metabotropic receptor 6 [KO:K04608]
+            2917  GRM7; glutamate metabotropic receptor 7 [KO:K04609]
+            2918  GRM8; glutamate metabotropic receptor 8 [KO:K04610]
+            2550  GABBR1; gamma-aminobutyric acid type B receptor subunit 1 [KO:K04615]
+            9568  GABBR2; gamma-aminobutyric acid type B receptor subunit 2 [KO:K04615]
+            165829  GPR156; G protein-coupled receptor 156 [KO:K04617]
+            79957  PAQR6; progestin and adipoQ receptor family member 6 [KO:K26169]
+            344838  PAQR9; progestin and adipoQ receptor family member 9 [KO:K26170]
+            2902  GRIN1; glutamate ionotropic receptor NMDA type subunit 1 [KO:K05208]
+            2903  GRIN2A; glutamate ionotropic receptor NMDA type subunit 2A [KO:K05209]
+            2904  GRIN2B; glutamate ionotropic receptor NMDA type subunit 2B [KO:K05210]
+            2905  GRIN2C; glutamate ionotropic receptor NMDA type subunit 2C [KO:K05211]
+            2906  GRIN2D; glutamate ionotropic receptor NMDA type subunit 2D [KO:K05212]
+            116443  GRIN3A; glutamate ionotropic receptor NMDA type subunit 3A [KO:K05213]
+            116444  GRIN3B; glutamate ionotropic receptor NMDA type subunit 3B [KO:K05214]
+            2554  GABRA1; gamma-aminobutyric acid type A receptor subunit alpha1 [KO:K05175]
+            2555  GABRA2; gamma-aminobutyric acid type A receptor subunit alpha2 [KO:K05175]
+            2556  GABRA3; gamma-aminobutyric acid type A receptor subunit alpha3 [KO:K05175]
+            2557  GABRA4; gamma-aminobutyric acid type A receptor subunit alpha4 [KO:K05175]
+            2558  GABRA5; gamma-aminobutyric acid type A receptor subunit alpha5 [KO:K05175]
+            2559  GABRA6; gamma-aminobutyric acid type A receptor subunit alpha6 [KO:K05175]
+            2560  GABRB1; gamma-aminobutyric acid type A receptor subunit beta1 [KO:K05181]
+            2562  GABRB3; gamma-aminobutyric acid type A receptor subunit beta3 [KO:K05181]
+            2561  GABRB2; gamma-aminobutyric acid type A receptor subunit beta2 [KO:K05181]
+            2563  GABRD; gamma-aminobutyric acid type A receptor subunit delta [KO:K05184]
+            2564  GABRE; gamma-aminobutyric acid type A receptor subunit epsilon [KO:K05185]
+            2565  GABRG1; gamma-aminobutyric acid type A receptor subunit gamma1 [KO:K05186]
+            2566  GABRG2; gamma-aminobutyric acid type A receptor subunit gamma2 [KO:K05186]
+            2567  GABRG3; gamma-aminobutyric acid type A receptor subunit gamma3 [KO:K05186]
+            2568  GABRP; gamma-aminobutyric acid type A receptor subunit pi [KO:K05189]
+            2569  GABRR1; gamma-aminobutyric acid type A receptor subunit rho1 [KO:K05190]
+            2570  GABRR2; gamma-aminobutyric acid type A receptor subunit rho2 [KO:K05190]
+            200959  GABRR3; gamma-aminobutyric acid type A receptor subunit rho3 [KO:K05190]
+            55879  GABRQ; gamma-aminobutyric acid type A receptor subunit theta [KO:K05192]
+            57152  SLURP1; secreted LY6/PLAUR domain containing 1 [KO:K23681]
+            432355  SLURP2; secreted LY6/PLAUR domain containing 2 [KO:K23682]
+            130574  LYPD6; LY6/PLAUR domain containing 6 [KO:K25367]
+            130576  LYPD6B; LY6/PLAUR domain containing 6B [KO:K25368]
+            66004  LYNX1; Ly6/neurotoxin 1 [KO:K25369]
+            399968  PATE4; prostate and testis expressed 4 [KO:K25370]
+            160065  PATE1; prostate and testis expressed 1 [KO:K25370]
+            100169851  PATE3; prostate and testis expressed 3 [KO:K25370]
+            399967  PATE2; prostate and testis expressed 2 [KO:K25370]
+            1134  CHRNA1; cholinergic receptor nicotinic alpha 1 subunit [KO:K04803]
+            1135  CHRNA2; cholinergic receptor nicotinic alpha 2 subunit [KO:K04804]
+            1136  CHRNA3; cholinergic receptor nicotinic alpha 3 subunit [KO:K04805]
+            1137  CHRNA4; cholinergic receptor nicotinic alpha 4 subunit [KO:K04806]
+            1138  CHRNA5; cholinergic receptor nicotinic alpha 5 subunit [KO:K04807]
+            8973  CHRNA6; cholinergic receptor nicotinic alpha 6 subunit [KO:K04808]
+            1139  CHRNA7; cholinergic receptor nicotinic alpha 7 subunit [KO:K04809]
+            55584  CHRNA9; cholinergic receptor nicotinic alpha 9 subunit [KO:K04810]
+            57053  CHRNA10; cholinergic receptor nicotinic alpha 10 subunit [KO:K04811]
+            1140  CHRNB1; cholinergic receptor nicotinic beta 1 subunit [KO:K04812]
+            1141  CHRNB2; cholinergic receptor nicotinic beta 2 subunit [KO:K04813]
+            1142  CHRNB3; cholinergic receptor nicotinic beta 3 subunit [KO:K04814]
+            1143  CHRNB4; cholinergic receptor nicotinic beta 4 subunit [KO:K04815]
+            1144  CHRND; cholinergic receptor nicotinic delta subunit [KO:K04816]
+            1145  CHRNE; cholinergic receptor nicotinic epsilon subunit [KO:K04817]
+            1146  CHRNG; cholinergic receptor nicotinic gamma subunit [KO:K04818]
+            5023  P2RX1; purinergic receptor P2X 1 [KO:K05215]
+            22953  P2RX2; purinergic receptor P2X 2 [KO:K05216]
+            5024  P2RX3; purinergic receptor P2X 3 [KO:K05217]
+            5025  P2RX4; purinergic receptor P2X 4 [KO:K05218]
+            5026  P2RX5; purinergic receptor P2X 5 [KO:K05219]
+            5027  P2RX7; purinergic receptor P2X 7 [KO:K05220]
+            9127  P2RX6; purinergic receptor P2X 6 [KO:K05221]
+            2890  GRIA1; glutamate ionotropic receptor AMPA type subunit 1 [KO:K05197]
+            2891  GRIA2; glutamate ionotropic receptor AMPA type subunit 2 [KO:K05198]
+            2892  GRIA3; glutamate ionotropic receptor AMPA type subunit 3 [KO:K05199]
+            2893  GRIA4; glutamate ionotropic receptor AMPA type subunit 4 [KO:K05200]
+            2897  GRIK1; glutamate ionotropic receptor kainate type subunit 1 [KO:K05201]
+            2898  GRIK2; glutamate ionotropic receptor kainate type subunit 2 [KO:K05202]
+            2899  GRIK3; glutamate ionotropic receptor kainate type subunit 3 [KO:K05203]
+            2900  GRIK4; glutamate ionotropic receptor kainate type subunit 4 [KO:K05204]
+            2901  GRIK5; glutamate ionotropic receptor kainate type subunit 5 [KO:K05205]
+            2894  GRID1; glutamate ionotropic receptor delta type subunit 1 [KO:K05206]
+            2895  GRID2; glutamate ionotropic receptor delta type subunit 2 [KO:K05207]
+            2741  GLRA1; glycine receptor alpha 1 [KO:K05193]
+            2742  GLRA2; glycine receptor alpha 2 [KO:K05194]
+            8001  GLRA3; glycine receptor alpha 3 [KO:K05195]
+            2743  GLRB; glycine receptor beta [KO:K05196]
+            7442  TRPV1; transient receptor potential cation channel subfamily V member 1 [KO:K05222]
+            706  TSPO; translocator protein [KO:K05770]
+            2908  NR3C1; nuclear receptor subfamily 3 group C member 1 [KO:K05771]
+            2688  GH1; growth hormone 1 [KO:K05438]
+            2689  GH2; growth hormone 2 [KO:K05438]
+            1442  CSH1; chorionic somatomammotropin hormone 1 [KO:K05438]
+            1443  CSH2; chorionic somatomammotropin hormone 2 [KO:K05438]
+            2690  GHR; growth hormone receptor [KO:K05080]
+            7067  THRA; thyroid hormone receptor alpha [KO:K05547]
+            7068  THRB; thyroid hormone receptor beta [KO:K08362]
+            3952  LEP; leptin [KO:K05424]
+            3953  LEPR; leptin receptor [KO:K05062]
+            5617  PRL; prolactin [KO:K05439]
+            5618  PRLR; prolactin receptor [KO:K05081]
+            10424  PGRMC2; progesterone receptor membrane component 2 [KO:K17278]
+            10857  PGRMC1; progesterone receptor membrane component 1 [KO:K17278]
+            27346  TMEM97; transmembrane protein 97 [KO:K26171]
+COMPOUND    C00002  ATP
+            C00008  ADP
+            C00015  UDP
+            C00025  L-Glutamate
+            C00037  Glycine
+            C00049  L-Aspartate
+            C00075  UTP
+            C00099  beta-Alanine
+            C00212  Adenosine
+            C00245  Taurine
+            C00334  4-Aminobutanoate
+            C00388  Histamine
+            C00398  Tryptamine
+            C00410  Progesterone
+            C00483  Tyramine
+            C00506  L-Cysteate
+            C00547  L-Noradrenaline
+            C00584  Prostaglandin E2
+            C00639  Prostaglandin F2alpha
+            C00681  1-Acyl-sn-glycerol 3-phosphate
+            C00696  Prostaglandin D2
+            C00735  Cortisol
+            C00780  Serotonin
+            C00788  L-Adrenaline
+            C01120  Sphinganine 1-phosphate
+            C01312  Prostaglandin I2
+            C01516  Morphine
+            C01598  Melatonin
+            C01829  Thyroxine
+            C01996  Acetylcholine
+            C02165  Leukotriene B4
+            C02166  Leukotriene C4
+            C02198  Thromboxane A2
+            C02465  Triiodothyronine
+            C03758  Dopamine
+            C04227  Octopamine
+            C04598  2-Acetyl-1-alkyl-sn-glycero-3-phosphocholine
+            C05113  Porphyrin
+            C05951  Leukotriene D4
+            C05952  Leukotriene E4
+            C06124  Sphingosine 1-phosphate
+            C06314  Lipoxin A4
+            C06865  Calcitonin
+            C11695  Anandamide
+            C12270  N-Acetylaspartylglutamate
+            C12271  N-Arachidonyldopamine
+            C12272  N-Oleoyldopamine
+            C13856  2-Arachidonoylglycerol
+            C15890  Endomorphin-1
+            C15891  Endomorphin-2
+            C15995  Bombesin
+            C16511  L-Homocysteic acid
+            C16512  Palmitoylethanolamide
+KO_PATHWAY  ko04080
+///

@@ -1,0 +1,402 @@
+ENTRY       hsa04976                    Pathway
+NAME        Bile secretion - Homo sapiens (human)
+DESCRIPTION Bile is a vital secretion, essential for digestion and absorption of fats and fat-soluble vitamins in the small intestine. Moreover, bile is an important route of elimination for excess cholesterol and many waste product, bilirubin, drugs and toxic compounds. Bile secretion depends on the function of membrane transport systems in hepatocytes and cholangiocytes and on the structural and functional integrity of the biliary tree. The hepatocytes generate the so-called primary bile in their canaliculi. Cholangiocytes modify the canalicular bile by secretory and reabsorptive processes as bile passes through the bile ducts. The main solutes in bile are bile acids, which stimulate bile secretion osmotically, as well as facilitate the intestinal absorption of dietary lipids by their detergent properties. Bile acids are also important signalling molecules. Through the activation of nuclear receptors, they regulate their own synthesis and transport rates.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP hsa04976  Bile secretion
+DRUG        D00163  Chenodiol (USAN)
+            D00734  Ursodiol (USP)
+            D00893  Pravastatin sodium (JP18/USP)
+            D02021  Secretin (JAN/USAN/INN)
+            D06008  Tariquidar (USAN/INN)
+            D06387  Zosuquidar trihydrochloride (USAN)
+            D09360  Obeticholic acid (JAN/USAN/INN)
+            D10134  Lumacaftor (USAN)
+            D10669  Sotagliflozin (USAN/INN)
+            D10685  Lumacaftor and ivacaftor
+            D10699  Cholic acid (JAN/USAN)
+            D10795  Elobixibat hydrate (JAN)
+            D10951  Maralixibat (USAN)
+            D10952  Maralixibat chloride (USAN/INN)
+            D11042  Tezacaftor and ivacaftor
+            D11539  Linerixibat (JAN/USAN)
+            D11548  Tropifexor (USAN)
+            D11700  Elexacaftor, ivacaftor and tezacaftor
+            D11716  Odevixibat (USAN)
+            D11724  Galicaftor (USAN/INN)
+            D12140  Navocaftor (USAN/INN)
+            D12454  Icenticaftor (USAN/INN)
+DBLINKS     GO: 0032782
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2052  EPHX1; epoxide hydrolase 1 [KO:K01253] [EC:3.3.2.9]
+            6579  SLCO1A2; solute carrier organic anion transporter family member 1A2 [KO:K03460]
+            28234  SLCO1B3; solute carrier organic anion transporter family member 1B3 [KO:K05043]
+            10599  SLCO1B1; solute carrier organic anion transporter family member 1B1 [KO:K05043]
+            6554  SLC10A1; solute carrier family 10 member 1 [KO:K14341]
+            10864  SLC22A7; solute carrier family 22 member 7 [KO:K08204]
+            9376  SLC22A8; solute carrier family 22 member 8 [KO:K08205]
+            6580  SLC22A1; solute carrier family 22 member 1 [KO:K08198]
+            3156  HMGCR; 3-hydroxy-3-methylglutaryl-CoA reductase [KO:K00021] [EC:1.1.1.34]
+            949  SCARB1; scavenger receptor class B member 1 [KO:K13885]
+            3949  LDLR; low density lipoprotein receptor [KO:K12473]
+            57552  NCEH1; neutral cholesterol ester hydrolase 1 [KO:K14349] [EC:3.1.1.-]
+            1581  CYP7A1; cytochrome P450 family 7 subfamily A member 1 [KO:K00489] [EC:1.14.14.23]
+            9971  NR1H4; nuclear receptor subfamily 1 group H member 4 [KO:K08537]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            8431  NR0B2; nuclear receptor subfamily 0 group B member 2 [KO:K08563]
+            10941  UGT2A1; UDP glucuronosyltransferase family 2 member A1 complex locus [KO:K00699] [EC:2.4.1.17]
+            79799  UGT2A3; UDP glucuronosyltransferase family 2 member A3 [KO:K00699] [EC:2.4.1.17]
+            7367  UGT2B17; UDP glucuronosyltransferase family 2 member B17 [KO:K00699] [EC:2.4.1.17]
+            10720  UGT2B11; UDP glucuronosyltransferase family 2 member B11 [KO:K00699] [EC:2.4.1.17]
+            54490  UGT2B28; UDP glucuronosyltransferase family 2 member B28 [KO:K00699] [EC:2.4.1.17]
+            54578  UGT1A6; UDP glucuronosyltransferase family 1 member A6 [KO:K00699] [EC:2.4.1.17]
+            54657  UGT1A4; UDP glucuronosyltransferase family 1 member A4 [KO:K00699] [EC:2.4.1.17]
+            54658  UGT1A1; UDP glucuronosyltransferase family 1 member A1 [KO:K00699] [EC:2.4.1.17]
+            54659  UGT1A3; UDP glucuronosyltransferase family 1 member A3 [KO:K00699] [EC:2.4.1.17]
+            7365  UGT2B10; UDP glucuronosyltransferase family 2 member B10 [KO:K00699] [EC:2.4.1.17]
+            54600  UGT1A9; UDP glucuronosyltransferase family 1 member A9 [KO:K00699] [EC:2.4.1.17]
+            7364  UGT2B7; UDP glucuronosyltransferase family 2 member B7 [KO:K00699] [EC:2.4.1.17]
+            54575  UGT1A10; UDP glucuronosyltransferase family 1 member A10 [KO:K00699] [EC:2.4.1.17]
+            54576  UGT1A8; UDP glucuronosyltransferase family 1 member A8 [KO:K00699] [EC:2.4.1.17]
+            54579  UGT1A5; UDP glucuronosyltransferase family 1 member A5 [KO:K00699] [EC:2.4.1.17]
+            7366  UGT2B15; UDP glucuronosyltransferase family 2 member B15 [KO:K00699] [EC:2.4.1.17]
+            54577  UGT1A7; UDP glucuronosyltransferase family 1 member A7 [KO:K00699] [EC:2.4.1.17]
+            7363  UGT2B4; UDP glucuronosyltransferase family 2 member B4 [KO:K00699] [EC:2.4.1.17]
+            574537  UGT2A2; UDP glucuronosyltransferase family 2 member A2 [KO:K00699] [EC:2.4.1.17]
+            6822  SULT2A1; sulfotransferase family 2A member 1 [KO:K11822] [EC:2.8.2.14]
+            10998  SLC27A5; solute carrier family 27 member 5 [KO:K08748] [EC:6.2.1.7]
+            570  BAAT; bile acid-CoA:amino acid N-acyltransferase [KO:K00659] [EC:2.3.1.65 3.1.2.2]
+            1576  CYP3A4; cytochrome P450 family 3 subfamily A member 4 [KO:K17689] [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.14.-]
+            366  AQP9; aquaporin 9 [KO:K09877]
+            343  AQP8; aquaporin 8 [KO:K09869]
+            64240  ABCG5; ATP binding cassette subfamily G member 5 [KO:K05683]
+            64241  ABCG8; ATP binding cassette subfamily G member 8 [KO:K05684]
+            8647  ABCB11; ATP binding cassette subfamily B member 11 [KO:K05664]
+            1244  ABCC2; ATP binding cassette subfamily C member 2 [KO:K05666]
+            9429  ABCG2; ATP binding cassette subfamily G member 2 (Junior blood group) [KO:K05681]
+            760  CA2; carbonic anhydrase 2 [KO:K18245] [EC:4.2.1.1]
+            6522  SLC4A2; solute carrier family 4 member 2 [KO:K13855]
+            5243  ABCB1; ATP binding cassette subfamily B member 1 [KO:K05658] [EC:7.6.2.2]
+            5244  ABCB4; ATP binding cassette subfamily B member 4 [KO:K05659] [EC:7.6.2.2]
+            6548  SLC9A1; solute carrier family 9 member A1 [KO:K05742]
+            57835  SLC4A5; solute carrier family 4 member 5 [KO:K13857]
+            8714  ABCC3; ATP binding cassette subfamily C member 3 [KO:K05667]
+            10257  ABCC4; ATP binding cassette subfamily C member 4 [KO:K05673]
+            200931  SLC51A; solute carrier family 51 subunit alpha [KO:K14360]
+            123264  SLC51B; solute carrier family 51 subunit beta [KO:K14361]
+            3781  KCNN2; potassium calcium-activated channel subfamily N member 2 [KO:K04943]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            6343  SCT; secretin [KO:K05263]
+            6344  SCTR; secretin receptor [KO:K04588]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1080  CFTR; CF transmembrane conductance regulator [KO:K05031] [EC:5.6.1.6]
+            8671  SLC4A4; solute carrier family 4 member 4 [KO:K13575]
+            361  AQP4; aquaporin 4 [KO:K09866]
+            358  AQP1; aquaporin 1 (Colton blood group) [KO:K09864]
+            6555  SLC10A2; solute carrier family 10 member 2 [KO:K14342]
+            6523  SLC5A1; solute carrier family 5 member 1 [KO:K14158]
+            6550  SLC9A3; solute carrier family 9 member A3 [KO:K12040]
+            6513  SLC2A1; solute carrier family 2 member 1 [KO:K07299]
+COMPOUND    C00001  H2O
+            C00011  CO2
+            C00024  Acetyl-CoA
+            C00026  2-Oxoglutarate
+            C00031  D-Glucose
+            C00051  Glutathione
+            C00080  H+
+            C00114  Choline
+            C00187  Cholesterol
+            C00238  Potassium cation
+            C00288  HCO3-
+            C00315  Spermidine
+            C00318  L-Carnitine
+            C00366  Urate
+            C00486  Bilirubin
+            C00504  Folate
+            C00575  3',5'-Cyclic AMP
+            C00584  Prostaglandin E2
+            C00639  Prostaglandin F2alpha
+            C00695  Cholic acid
+            C00698  Cl-
+            C00735  Cortisol
+            C00750  Spermine
+            C00780  Serotonin
+            C00805  Salicylate
+            C00865  Phospholipid
+            C00942  3',5'-Cyclic GMP
+            C01330  Sodium cation
+            C01353  Carbonic acid
+            C01405  Aspirin
+            C01443  Ouabain
+            C01576  Etoposide
+            C01829  Thyroxine
+            C01844  Pravastatin
+            C01921  Glycocholate
+            C01937  Methotrexate
+            C01996  Acetylcholine
+            C02165  Leukotriene B4
+            C02166  Leukotriene C4
+            C02380  6-Mercaptopurine
+            C02465  Triiodothyronine
+            C02528  Chenodeoxycholate
+            C02530  Cholesterol ester
+            C02538  Estrone 3-sulfate
+            C02918  1-Methylnicotinamide
+            C03033  beta-D-Glucuronoside
+            C03642  Taurolithocholate sulfate
+            C03758  Dopamine
+            C03990  Lithocholic acid
+            C04483  Deoxycholic acid
+            C04555  Dehydroepiandrosterone sulfate
+            C05122  Taurocholate
+            C05371  Microcystin LR
+            C05465  Taurochenodeoxycholate
+            C05466  Glycochenodeoxycholate
+            C05503  Estradiol-17beta 3-glucuronide
+            C05551  Penicillin G
+            C05963  Thromboxane B2
+            C06526  Quinine
+            C06570  Tetracycline
+            C06688  Rifampicin
+            C06804  Acetaminophen
+            C06810  Aciclovir
+            C06880  Cefazolin
+            C06890  Ceftizoxime
+            C06956  Digoxin
+            C06999  Fexofenadine
+            C07014  Fluvastatin
+            C07051  Indinavir
+            C07065  Lamivudine
+            C07151  Metformin
+            C07184  Valacyclovir
+            C07185  Valproic acid
+            C07201  Vinblastine
+            C07207  Zalcitabine
+            C07210  Zidovudine
+            C07240  Ritonavir
+            C07394  Paclitaxel
+            C07512  Tetraethylammonium
+            C07649  5-FU
+            C07660  Levofloxacin
+            C07966  Cerivastatin
+            C08357  Estradiol-17beta 3-sulfate
+            C08439  Phalloidin
+            C09955  Ochratoxin A
+            C11158  Topotecan
+            C11231  Docetaxel anhydrous
+            C11245  Glucuronosyletoposide
+            C11277  Adefovir
+            C11310  1-Methyl-4-phenylpyridinium
+            C11363  Sulfobromophthalein
+            C11587  BQ 123
+            C11754  Cephaloridine
+            C12560  Saquinavir mesylate
+            C16114  Cholecystokinin-8
+            C16578  Morphine-6-glucuronide
+            C16643  Morphine-3-glucuronide
+            D00125  Etoposide (JP18/USP/INN)
+            D00140  Erythromycin (JP18/USP/INN)
+            D00142  Methotrexate (JP18/USP/INN)
+            D00184  Cyclosporine (USP)
+            D00186  Ciprofloxacin (JP18/USP/INN)
+            D00201  Tetracycline (JAN/USP/INN)
+            D00214  Dactinomycin (USP)
+            D00224  Allopurinol (JP18/USP/INN)
+            D00240  Aztreonam (JP18/USP/INN)
+            D00247  Bumetanide (JP18/USP/INN)
+            D00295  Cimetidine (JP18/USP/INN)
+            D00298  Digoxin (JP18/USP)
+            D00318  Famotidine (JP18/USP/INN)
+            D00331  Furosemide (JP18/USP/INN)
+            D00333  Ganciclovir (JAN/USP/INN)
+            D00340  Hydrochlorothiazide (JP18/USP/INN)
+            D00353  Lamivudine (JAN/USP/INN)
+            D00359  Lovastatin (USP/INN)
+            D00400  Valsartan (JP18/USP/INN)
+            D00422  Ranitidine (USAN/INN)
+            D00427  Ritonavir (JAN/USP/INN)
+            D00429  Saquinavir (JAN/USP/INN)
+            D00439  Nitrofurantoin (JAN/USP/INN)
+            D00453  Ofloxacin (JP18/USP/INN)
+            D00456  Ondansetron (JAN/USP/INN)
+            D00491  Paclitaxel (JAN/USP/INN)
+            D00512  Phenytoin (JP18/USP/INN)
+            D00521  Terfenadine (JAN/USAN/INN)
+            D00570  Colchicine (JP18/USP)
+            D00590  Sparfloxacin (JAN/USAN/INN)
+            D00767  Vecuronium bromide (JAN/USP/INN)
+            D00804  Ivermectin (JAN/USP/INN)
+            D01061  Irinotecan hydrochloride (USP)
+            D01264  Daunorubicin hydrochloride (JP18/USP)
+            D01275  Doxorubicin hydrochloride (JP18/USP)
+            D01421  Aminohippurate sodium (USP)
+            D01745  Domperidone (JP18/USAN/INN)
+            D01862  Pitavastatin calcium (JAN)
+            D02115  Methotrexate sodium
+            D02166  Mitoxantrone hydrochloride (JAN/USP)
+            D02214  Epirubicin hydrochloride (JP18/USP)
+            D02216  Ciprofloxacin hydrochloride (USP)
+            D02356  Verapamil (USAN/INN)
+            D03130  Bisantrene hydrochloride (USAN)
+            D03833  Indinavir (USAN)
+            D03899  Doxorubicin (USAN/INN)
+            D04931  Mercaptopurine (INN)
+            D05246  Olmesartan (USAN/INN)
+            D06050  Technetium Tc 99m tetrofosmin (USP)
+            D06074  Tenofovir (USAN)
+            D07448  Amitriptyline (INN)
+            D07538  Bosentan (INN)
+            D07626  Caspofungin (INN)
+            D07661  Cerivastatin (INN)
+            D07776  Daunorubicin (INN)
+            D07845  Diltiazem (INN)
+            D07866  Docetaxel (JAN/INN)
+            D07901  Epirubicin (INN)
+            D07907  Erlotinib (INN)
+            D07958  Fexofenadine (INN)
+            D07986  Folinic acid (BAN)
+            D07987  Folinic acid calcium salt pentahydrate
+            D08066  Imatinib (INN)
+            D08086  Irinotecan (INN)
+            D08108  Lapatinib (INN)
+            D08144  Loperamide (INN)
+            D08146  Losartan (INN)
+            D08224  Mitoxantrone (INN)
+            D08259  Nelfinavir (INN)
+            D08291  Ofloxacin hydrochloride
+            D08306  Oseltamivir (INN)
+            D08411  Prazosin (INN)
+            D08458  Quinidine (BAN)
+            D08492  Rosuvastatin (INN)
+            D08618  Topotecan (BAN)
+            D08675  Vinblastine (INN)
+            D08679  Vincristine (INN)
+REFERENCE   PMID:11826283
+  AUTHORS   Meier PJ, Stieger B
+  TITLE     Bile salt transporters.
+  JOURNAL   Annu Rev Physiol 64:635-61 (2002)
+            DOI:10.1146/annurev.physiol.64.082201.100300
+REFERENCE   PMID:10728790
+  AUTHORS   Kullak-Ublick GA, Beuers U, Paumgartner G
+  TITLE     Hepatobiliary transport.
+  JOURNAL   J Hepatol 32:3-18 (2000)
+            DOI:10.1016/S0168-8278(00)80411-0
+REFERENCE   PMID:18668439
+  AUTHORS   Kosters A, Karpen SJ
+  TITLE     Bile acid transporters in health and disease.
+  JOURNAL   Xenobiotica 38:1043-71 (2008)
+            DOI:10.1080/00498250802040584
+REFERENCE   PMID:14999673
+  AUTHORS   Anwer MS
+  TITLE     Cellular regulation of hepatic bile acid transport in health and cholestasis.
+  JOURNAL   Hepatology 39:581-90 (2004)
+            DOI:10.1002/hep.20090
+REFERENCE   PMID:17404808
+  AUTHORS   Alrefai WA, Gill RK
+  TITLE     Bile acid transporters: structure, function, regulation and pathophysiological implications.
+  JOURNAL   Pharm Res 24:1803-23 (2007)
+            DOI:10.1007/s11095-007-9289-1
+REFERENCE   PMID:12663868
+  AUTHORS   Trauner M, Boyer JL
+  TITLE     Bile salt transporters: molecular characterization, function, and regulation.
+  JOURNAL   Physiol Rev 83:633-71 (2003)
+            DOI:10.1152/physrev.00027.2002
+REFERENCE   PMID:20103563
+  AUTHORS   Klaassen CD, Aleksunes LM
+  TITLE     Xenobiotic, bile acid, and cholesterol transporters: function and regulation.
+  JOURNAL   Pharmacol Rev 62:1-96 (2010)
+            DOI:10.1124/pr.109.002014
+REFERENCE   PMID:15758646
+  AUTHORS   Trauner M, Wagner M, Fickert P, Zollner G
+  TITLE     Molecular regulation of hepatobiliary transport systems: clinical implications for understanding and treating cholestasis.
+  JOURNAL   J Clin Gastroenterol 39:S111-24 (2005)
+            DOI:10.1097/01.mcg.0000155551.37266.26
+REFERENCE   PMID:14659471
+  AUTHORS   Arrese M, Trauner M
+  TITLE     Molecular aspects of bile formation and cholestasis.
+  JOURNAL   Trends Mol Med 9:558-64 (2003)
+            DOI:10.1016/j.molmed.2003.10.002
+REFERENCE   PMID:18837079
+  AUTHORS   Esteller A
+  TITLE     Physiology of bile secretion.
+  JOURNAL   World J Gastroenterol 14:5641-9 (2008)
+            DOI:10.3748/wjg.14.5641
+REFERENCE   PMID:12483266
+  AUTHORS   Takikawa H
+  TITLE     Hepatobiliary transport of bile acids and organic anions.
+  JOURNAL   J Hepatobiliary Pancreat Surg 9:443-7 (2002)
+            DOI:10.1007/s005340200055
+REFERENCE   PMID:11316487
+  AUTHORS   St-Pierre MV, Kullak-Ublick GA, Hagenbuch B, Meier PJ
+  TITLE     Transport of bile acids in hepatic and non-hepatic tissues.
+  JOURNAL   J Exp Biol 204:1673-86 (2001)
+REFERENCE   PMID:18670431
+  AUTHORS   Thomas C, Pellicciari R, Pruzanski M, Auwerx J, Schoonjans K
+  TITLE     Targeting bile-acid signalling for metabolic diseases.
+  JOURNAL   Nat Rev Drug Discov 7:678-93 (2008)
+            DOI:10.1038/nrd2619
+REFERENCE   PMID:15975683
+  AUTHORS   Pauli-Magnus C, Stieger B, Meier Y, Kullak-Ublick GA, Meier PJ
+  TITLE     Enterohepatic transport of bile salts and genetics of cholestasis.
+  JOURNAL   J Hepatol 43:342-57 (2005)
+            DOI:10.1016/j.jhep.2005.03.017
+REFERENCE   PMID:18081658
+  AUTHORS   Pellicoro A, Faber KN
+  TITLE     Review article: The function and regulation of proteins involved in bile salt biosynthesis and transport.
+  JOURNAL   Aliment Pharmacol Ther 26 Suppl 2:149-60 (2007)
+            DOI:10.1111/j.1365-2036.2007.03522.x
+REFERENCE   PMID:19482594
+  AUTHORS   Jonker JW, Stedman CA, Liddle C, Downes M
+  TITLE     Hepatobiliary ABC transporters: physiology, regulation and implications for disease.
+  JOURNAL   Front Biosci 14:4904-20 (2009)
+            DOI:10.2741/3576
+REFERENCE   PMID:19273385
+  AUTHORS   Modica S, Bellafante E, Moschetta A
+  TITLE     Master regulation of bile acid and xenobiotic metabolism via the FXR, PXR and CAR trio.
+  JOURNAL   Front Biosci 14:4719-45 (2009)
+            DOI:10.2741/3563
+REFERENCE   PMID:16706681
+  AUTHORS   Cai SY, Boyer JL
+  TITLE     FXR: a target for cholestatic syndromes?
+  JOURNAL   Expert Opin Ther Targets 10:409-21 (2006)
+            DOI:10.1517/14728222.10.3.409
+REFERENCE   PMID:19273238
+  AUTHORS   Ballatori N, Li N, Fang F, Boyer JL, Christian WV, Hammond CL
+  TITLE     OST alpha-OST beta: a key membrane transporter of bile acids and conjugated steroids.
+  JOURNAL   Front Biosci 14:2829-44 (2009)
+            DOI:10.2741/3416
+REFERENCE   PMID:18377365
+  AUTHORS   Roma MG, Crocenzi FA, Sanchez Pozzi EA
+  TITLE     Hepatocellular transport in acquired cholestasis: new insights into functional, regulatory and therapeutic aspects.
+  JOURNAL   Clin Sci (Lond) 114:567-88 (2008)
+            DOI:10.1042/CS20070227
+REFERENCE   PMID:18371245
+  AUTHORS   Arrese M, Macias RI, Briz O, Perez MJ, Marin JJ
+  TITLE     Molecular pathogenesis of intrahepatic cholestasis of pregnancy.
+  JOURNAL   Expert Rev Mol Med 10:e9 (2008)
+            DOI:10.1017/S1462399408000628
+REL_PATHWAY hsa00120  Primary bile acid biosynthesis
+            hsa04144  Endocytosis
+            hsa04530  Tight junction
+            hsa04975  Fat digestion and absorption
+KO_PATHWAY  ko04976
+///

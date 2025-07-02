@@ -1,0 +1,296 @@
+ENTRY       hsa04723                    Pathway
+NAME        Retrograde endocannabinoid signaling - Homo sapiens (human)
+DESCRIPTION Endogenous cannabinoids (endocannabinoids) serve as retrograde messengers at synapses in various regions of the brain. The family of endocannabinoids includes at least five derivatives of arachidonic acid; the two best characterized are arachydonoyl ethanolamide (anandamide, AEA) and 2-arachydonoil glycerol (2AG). They are released from postsynaptic neurons upon postsynaptic depolarization and/or receptor activation. The released endocannabinoids then activate the CB1 receptors (CB1R) at presynaptic terminals and suppress the release of inhibitory transmitter GABA (depolarization-induced suppression of inhibition, DSI) or excitatory transmitter glutamate (depolarization-induced suppression of excitation, DSE) by inhibiting Ca2+ channels. Besides the well-known expression of the CB1R in the plasma membrane, this receptor is also present in mitochondrial membranes, where it reduces the mitochondrial respiration and contributes to DSI. Whereas DSI and DSE result in short-term synaptic plasticity, endocannabinoids also mediate long-term synaptic changes (eCB-LTD). Persistent activation of CB1 receptors over a period of minutes triggers eCB-LTD by a RIM1alpha-dependent mechanism.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP hsa04723  Retrograde endocannabinoid signaling
+DRUG        D04717  Levonantradol hydrochloride (USAN)
+            D05117  Nantradol hydrochloride (USAN)
+            D05731  Rimonabant (JAN/USAN/INN)
+            D11435  Nimacimab (USAN)
+            D12382  Alogabat (USAN)
+DBLINKS     GO: 0071926
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        57084  SLC17A6; solute carrier family 17 member 6 [KO:K12302]
+            246213  SLC17A8; solute carrier family 17 member 8 [KO:K12302]
+            57030  SLC17A7; solute carrier family 17 member 7 [KO:K12302]
+            2890  GRIA1; glutamate ionotropic receptor AMPA type subunit 1 [KO:K05197]
+            2891  GRIA2; glutamate ionotropic receptor AMPA type subunit 2 [KO:K05198]
+            2892  GRIA3; glutamate ionotropic receptor AMPA type subunit 3 [KO:K05199]
+            2893  GRIA4; glutamate ionotropic receptor AMPA type subunit 4 [KO:K05200]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            2911  GRM1; glutamate metabotropic receptor 1 [KO:K04603]
+            2915  GRM5; glutamate metabotropic receptor 5 [KO:K04604]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            222236  NAPEPLD; N-acyl phosphatidylethanolamine phospholipase D [KO:K13985] [EC:3.1.4.54]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            747  DAGLA; diacylglycerol lipase alpha [KO:K13806] [EC:3.1.1.116]
+            221955  DAGLB; diacylglycerol lipase beta [KO:K13806] [EC:3.1.1.116]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            57406  ABHD6; abhydrolase domain containing 6, acylglycerol lipase [KO:K13700] [EC:3.1.1.23]
+            2166  FAAH; fatty acid amide hydrolase [KO:K15528] [EC:3.5.1.99]
+            1268  CNR1; cannabinoid receptor 1 [KO:K04277]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            3760  KCNJ3; potassium inwardly rectifying channel subfamily J member 3 [KO:K04997]
+            3763  KCNJ6; potassium inwardly rectifying channel subfamily J member 6 [KO:K05000]
+            3765  KCNJ9; potassium inwardly rectifying channel subfamily J member 9 [KO:K05002]
+            3762  KCNJ5; potassium inwardly rectifying channel subfamily J member 5 [KO:K04999]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            774  CACNA1B; calcium voltage-gated channel subunit alpha1 B [KO:K04849]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            11343  MGLL; monoglyceride lipase [KO:K01054] [EC:3.1.1.23]
+            4535  ND1; NADH dehydrogenase subunit 1 [KO:K03878] [EC:7.1.1.2]
+            4536  ND2; NADH dehydrogenase subunit 2 [KO:K03879] [EC:7.1.1.2]
+            4537  ND3; NADH dehydrogenase subunit 3 [KO:K03880] [EC:7.1.1.2]
+            4538  ND4; NADH dehydrogenase subunit 4 [KO:K03881] [EC:7.1.1.2]
+            4539  ND4L; NADH dehydrogenase subunit 4L [KO:K03882] [EC:7.1.1.2]
+            4540  ND5; NADH dehydrogenase subunit 5 [KO:K03883] [EC:7.1.1.2]
+            4541  ND6; NADH dehydrogenase subunit 6 [KO:K03884] [EC:7.1.1.2]
+            4723  NDUFV1; NADH:ubiquinone oxidoreductase core subunit V1 [KO:K03942] [EC:7.1.1.2]
+            4729  NDUFV2; NADH:ubiquinone oxidoreductase core subunit V2 [KO:K03943] [EC:7.1.1.2]
+            4731  NDUFV3; NADH:ubiquinone oxidoreductase subunit V3 [KO:K03944]
+            4694  NDUFA1; NADH:ubiquinone oxidoreductase subunit A1 [KO:K03945]
+            4695  NDUFA2; NADH:ubiquinone oxidoreductase subunit A2 [KO:K03946]
+            4696  NDUFA3; NADH:ubiquinone oxidoreductase subunit A3 [KO:K03947]
+            4697  NDUFA4; NDUFA4 mitochondrial complex associated [KO:K03948]
+            56901  NDUFA4L2; NDUFA4 mitochondrial complex associated like 2 [KO:K03948]
+            4698  NDUFA5; NADH:ubiquinone oxidoreductase subunit A5 [KO:K03949]
+            4700  NDUFA6; NADH:ubiquinone oxidoreductase subunit A6 [KO:K03950]
+            4701  NDUFA7; NADH:ubiquinone oxidoreductase subunit A7 [KO:K03951]
+            4702  NDUFA8; NADH:ubiquinone oxidoreductase subunit A8 [KO:K03952]
+            4704  NDUFA9; NADH:ubiquinone oxidoreductase subunit A9 [KO:K03953]
+            4705  NDUFA10; NADH:ubiquinone oxidoreductase subunit A10 [KO:K03954]
+            4706  NDUFAB1; NADH:ubiquinone oxidoreductase subunit AB1 [KO:K03955]
+            126328  NDUFA11; NADH:ubiquinone oxidoreductase subunit A11 [KO:K03956]
+            55967  NDUFA12; NADH:ubiquinone oxidoreductase subunit A12 [KO:K11352]
+            51079  NDUFA13; NADH:ubiquinone oxidoreductase subunit A13 [KO:K11353]
+            4707  NDUFB1; NADH:ubiquinone oxidoreductase subunit B1 [KO:K03957]
+            4708  NDUFB2; NADH:ubiquinone oxidoreductase subunit B2 [KO:K03958]
+            4709  NDUFB3; NADH:ubiquinone oxidoreductase subunit B3 [KO:K03959]
+            4710  NDUFB4; NADH:ubiquinone oxidoreductase subunit B4 [KO:K03960]
+            4711  NDUFB5; NADH:ubiquinone oxidoreductase subunit B5 [KO:K03961]
+            4712  NDUFB6; NADH:ubiquinone oxidoreductase subunit B6 [KO:K03962]
+            4713  NDUFB7; NADH:ubiquinone oxidoreductase subunit B7 [KO:K03963]
+            4714  NDUFB8; NADH:ubiquinone oxidoreductase subunit B8 [KO:K03964]
+            4715  NDUFB9; NADH:ubiquinone oxidoreductase subunit B9 [KO:K03965]
+            4716  NDUFB10; NADH:ubiquinone oxidoreductase subunit B10 [KO:K03966]
+            54539  NDUFB11; NADH:ubiquinone oxidoreductase subunit B11 [KO:K11351]
+            4719  NDUFS1; NADH:ubiquinone oxidoreductase core subunit S1 [KO:K03934] [EC:7.1.1.2]
+            4720  NDUFS2; NADH:ubiquinone oxidoreductase core subunit S2 [KO:K03935] [EC:7.1.1.2]
+            4722  NDUFS3; NADH:ubiquinone oxidoreductase core subunit S3 [KO:K03936] [EC:7.1.1.2]
+            4724  NDUFS4; NADH:ubiquinone oxidoreductase subunit S4 [KO:K03937]
+            4725  NDUFS5; NADH:ubiquinone oxidoreductase subunit S5 [KO:K03938]
+            4726  NDUFS6; NADH:ubiquinone oxidoreductase subunit S6 [KO:K03939]
+            374291  NDUFS7; NADH:ubiquinone oxidoreductase core subunit S7 [KO:K03940] [EC:7.1.1.2]
+            4728  NDUFS8; NADH:ubiquinone oxidoreductase core subunit S8 [KO:K03941] [EC:7.1.1.2]
+            4717  NDUFC1; NADH:ubiquinone oxidoreductase subunit C1 [KO:K03967]
+            4718  NDUFC2; NADH:ubiquinone oxidoreductase subunit C2 [KO:K03968]
+            100532726  NDUFC2-KCTD14; NDUFC2-KCTD14 readthrough [KO:K03968]
+            140679  SLC32A1; solute carrier family 32 member 1 [KO:K15015]
+            22999  RIMS1; regulating synaptic membrane exocytosis 1 [KO:K15291]
+            2554  GABRA1; gamma-aminobutyric acid type A receptor subunit alpha1 [KO:K05175]
+            2555  GABRA2; gamma-aminobutyric acid type A receptor subunit alpha2 [KO:K05175]
+            2556  GABRA3; gamma-aminobutyric acid type A receptor subunit alpha3 [KO:K05175]
+            2557  GABRA4; gamma-aminobutyric acid type A receptor subunit alpha4 [KO:K05175]
+            2558  GABRA5; gamma-aminobutyric acid type A receptor subunit alpha5 [KO:K05175]
+            2559  GABRA6; gamma-aminobutyric acid type A receptor subunit alpha6 [KO:K05175]
+            2560  GABRB1; gamma-aminobutyric acid type A receptor subunit beta1 [KO:K05181]
+            2562  GABRB3; gamma-aminobutyric acid type A receptor subunit beta3 [KO:K05181]
+            2561  GABRB2; gamma-aminobutyric acid type A receptor subunit beta2 [KO:K05181]
+            2565  GABRG1; gamma-aminobutyric acid type A receptor subunit gamma1 [KO:K05186]
+            2566  GABRG2; gamma-aminobutyric acid type A receptor subunit gamma2 [KO:K05186]
+            2567  GABRG3; gamma-aminobutyric acid type A receptor subunit gamma3 [KO:K05186]
+            2563  GABRD; gamma-aminobutyric acid type A receptor subunit delta [KO:K05184]
+            2564  GABRE; gamma-aminobutyric acid type A receptor subunit epsilon [KO:K05185]
+            55879  GABRQ; gamma-aminobutyric acid type A receptor subunit theta [KO:K05192]
+            2568  GABRP; gamma-aminobutyric acid type A receptor subunit pi [KO:K05189]
+            2569  GABRR1; gamma-aminobutyric acid type A receptor subunit rho1 [KO:K05190]
+            2570  GABRR2; gamma-aminobutyric acid type A receptor subunit rho2 [KO:K05190]
+            200959  GABRR3; gamma-aminobutyric acid type A receptor subunit rho3 [KO:K05190]
+COMPOUND    C00025  L-Glutamate
+            C00076  Calcium cation
+            C00116  Glycerol
+            C00157  Phosphatidylcholine
+            C00165  Diacylglycerol
+            C00189  Ethanolamine
+            C00219  Arachidonate
+            C00238  Potassium cation
+            C00334  4-Aminobutanoate
+            C00350  Phosphatidylethanolamine
+            C00427  Prostaglandin H2
+            C00575  3',5'-Cyclic AMP
+            C00689  alpha,alpha'-Trehalose 6-phosphate
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C11695  Anandamide
+            C13856  2-Arachidonoylglycerol
+            C19912  N-Arachidonoyl-phosphatidylethanolamine
+            C19913  Phospho-anandamide
+REFERENCE   PMID:17419048
+  AUTHORS   Hashimotodani Y, Ohno-Shosaku T, Kano M
+  TITLE     Ca(2+)-assisted receptor-driven endocannabinoid release: mechanisms that associate presynaptic and postsynaptic activities.
+  JOURNAL   Curr Opin Neurobiol 17:360-5 (2007)
+            DOI:10.1016/j.conb.2007.03.012
+REFERENCE   PMID:21531987
+  AUTHORS   Ohno-Shosaku T, Tanimura A, Hashimotodani Y, Kano M
+  TITLE     Endocannabinoids and retrograde modulation of synaptic transmission.
+  JOURNAL   Neuroscientist 18:119-32 (2012)
+            DOI:10.1177/1073858410397377
+REFERENCE   PMID:18084639
+  AUTHORS   Basavarajappa BS
+  TITLE     Neuropharmacology of the endocannabinoid signaling system-molecular mechanisms, biological actions and synaptic plasticity.
+  JOURNAL   Curr Neuropharmacol 5:81-97 (2007)
+            DOI:10.2174/157015907780866910
+REFERENCE   PMID:16968947
+  AUTHORS   Pacher P, Batkai S, Kunos G
+  TITLE     The endocannabinoid system as an emerging target of pharmacotherapy.
+  JOURNAL   Pharmacol Rev 58:389-462 (2006)
+            DOI:10.1124/pr.58.3.2
+REFERENCE   PMID:15340387
+  AUTHORS   Di Marzo V, Bifulco M, De Petrocellis L
+  TITLE     The endocannabinoid system and its therapeutic exploitation.
+  JOURNAL   Nat Rev Drug Discov 3:771-84 (2004)
+            DOI:10.1038/nrd1495
+REFERENCE   PMID:17404373
+  AUTHORS   Hashimotodani Y, Ohno-Shosaku T, Kano M
+  TITLE     Endocannabinoids and synaptic function in the CNS.
+  JOURNAL   Neuroscientist 13:127-37 (2007)
+            DOI:10.1177/1073858406296716
+REFERENCE   PMID:19126760
+  AUTHORS   Kano M, Ohno-Shosaku T, Hashimotodani Y, Uchigashima M, Watanabe M
+  TITLE     Endocannabinoid-mediated control of synaptic transmission.
+  JOURNAL   Physiol Rev 89:309-80 (2009)
+            DOI:10.1152/physrev.00019.2008
+REFERENCE   PMID:19640475
+  AUTHORS   Regehr WG, Carey MR, Best AR
+  TITLE     Activity-dependent regulation of synapses by retrograde messengers.
+  JOURNAL   Neuron 63:154-70 (2009)
+            DOI:10.1016/j.neuron.2009.06.021
+REFERENCE   PMID:17636069
+  AUTHORS   Benarroch E
+  TITLE     Endocannabinoids in basal ganglia circuits: implications for Parkinson disease.
+  JOURNAL   Neurology 69:306-9 (2007)
+            DOI:10.1212/01.wnl.0000267407.79757.75
+REFERENCE   PMID:16085309
+  AUTHORS   Ohno-Shosaku T, Hashimotodani Y, Maejima T, Kano M
+  TITLE     Calcium signaling and synaptic modulation: regulation of endocannabinoid-mediated synaptic modulation by calcium.
+  JOURNAL   Cell Calcium 38:369-74 (2005)
+            DOI:10.1016/j.ceca.2005.06.014
+REFERENCE   PMID:18801434
+  AUTHORS   Harkany T, Mackie K, Doherty P
+  TITLE     Wiring and firing neuronal networks: endocannabinoids take center stage.
+  JOURNAL   Curr Opin Neurobiol 18:338-45 (2008)
+            DOI:10.1016/j.conb.2008.08.007
+REFERENCE   PMID:18515270
+  AUTHORS   Hosking RD, Zajicek JP
+  TITLE     Therapeutic potential of cannabis in pain medicine.
+  JOURNAL   Br J Anaesth 101:59-68 (2008)
+            DOI:10.1093/bja/aen119
+REFERENCE   PMID:21187849
+  AUTHORS   Di Marzo V
+  TITLE     Endocannabinoid signaling in the brain: biosynthetic mechanisms in the limelight.
+  JOURNAL   Nat Neurosci 14:9-15 (2011)
+            DOI:10.1038/nn.2720
+REFERENCE   PMID:18948642
+  AUTHORS   McPartland JM
+  TITLE     The endocannabinoid system: an osteopathic perspective.
+  JOURNAL   J Am Osteopath Assoc 108:586-600 (2008)
+            DOI:10.7556/jaoa.2008.108.10.586
+REFERENCE   PMID:17553427
+  AUTHORS   Chevaleyre V, Heifets BD, Kaeser PS, Sudhof TC, Castillo PE
+  TITLE     Endocannabinoid-mediated long-term plasticity requires cAMP/PKA signaling and RIM1alpha.
+  JOURNAL   Neuron 54:801-12 (2007)
+            DOI:10.1016/j.neuron.2007.05.020
+REFERENCE   PMID:19553483
+  AUTHORS   Lafourcade CA
+  TITLE     Presynaptic mechanisms of endocannabinoid-mediated long-term depression in the hippocampus.
+  JOURNAL   J Neurophysiol 102:2009-12 (2009)
+            DOI:10.1152/jn.00441.2009
+REFERENCE   PMID:21328621
+  AUTHORS   Ueda N, Tsuboi K, Uyama T, Ohnishi T
+  TITLE     Biosynthesis and degradation of the endocannabinoid 2-arachidonoylglycerol.
+  JOURNAL   Biofactors 37:1-7 (2011)
+            DOI:10.1002/biof.131
+REFERENCE   PMID:14978245
+  AUTHORS   Guo J, Ikeda SR
+  TITLE     Endocannabinoids modulate N-type calcium channels and G-protein-coupled inwardly rectifying potassium channels via CB1 cannabinoid receptors heterologously expressed in mammalian neurons.
+  JOURNAL   Mol Pharmacol 65:665-74 (2004)
+            DOI:10.1124/mol.65.3.665
+REFERENCE   PMID:22388959
+  AUTHORS   Benard G, Massa F, Puente N, Lourenco J, Bellocchio L, Soria-Gomez E, Matias I, Delamarre A, Metna-Laurent M, Cannich A, Hebert-Chatelain E, Mulle C, Ortega-Gutierrez S, Martin-Fontecha M, Klugmann M, Guggenhuber S, Lutz B, Gertsch J, Chaouloff F, Lopez-Rodriguez ML, Grandes P, Rossignol R, Marsicano G
+  TITLE     Mitochondrial CB(1) receptors regulate neuronal energy metabolism.
+  JOURNAL   Nat Neurosci 15:558-64 (2012)
+            DOI:10.1038/nn.3053
+REFERENCE   PMID:26260530
+  AUTHORS   Busquets-Garcia A, Desprez T, Metna-Laurent M, Bellocchio L, Marsicano G, Soria-Gomez E
+  TITLE     Dissecting the cannabinergic control of behavior: The where matters.
+  JOURNAL   Bioessays 37:1215-25 (2015)
+            DOI:10.1002/bies.201500046
+REFERENCE   PMID:28076767
+  AUTHORS   Harkany T, Horvath TL
+  TITLE     (S)Pot on Mitochondria: Cannabinoids Disrupt Cellular Respiration to Limit Neuronal Activity.
+  JOURNAL   Cell Metab 25:8-10 (2017)
+            DOI:10.1016/j.cmet.2016.12.020
+REFERENCE   PMID:22449955
+  AUTHORS   Alger BE, Tang AH
+  TITLE     Do cannabinoids reduce brain power?
+  JOURNAL   Nat Neurosci 15:499-501 (2012)
+            DOI:10.1038/nn.3072
+REL_PATHWAY hsa00190  Oxidative phosphorylation
+            hsa04020  Calcium signaling pathway
+            hsa04721  Synaptic vesicle cycle
+            hsa04724  Glutamatergic synapse
+            hsa04727  GABAergic synapse
+KO_PATHWAY  ko04723
+///

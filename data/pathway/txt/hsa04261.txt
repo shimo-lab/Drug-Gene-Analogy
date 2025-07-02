@@ -1,0 +1,546 @@
+ENTRY       hsa04261                    Pathway
+NAME        Adrenergic signaling in cardiomyocytes - Homo sapiens (human)
+DESCRIPTION Cardiac myocytes express at least six subtypes of adrenergic receptor (AR) which include three subtypes of beta-AR (beta-1, beta-2, beta-3) and three subtypes of the alpha-1-AR (alpha-1A, alpha-1B, and alpha-1C). In the human heart the beta-1-AR is the pre- dominate receptor. Acute sympathetic stimulation of cardiac beta-1-ARs induces positive inotropic and chronotropic effects, the most effective mechanism to acutely increase output of the heart, by coupling to Gs, formation of cAMP by adenylyl cyclase (AC), and PKA- dependent phosphorylation of various target proteins (e.g., ryanodine receptor [RyR]; phospholamban [PLB], troponin I [TnI], and the L-type Ca2+ channel [LTCC]). Chronic beta-1-AR stimulation is detrimental and induces cardiomyocyte hypertrophy and apoptosis. beta-2-AR coupled to Gs exerts a proapoptotic action as well as beta-1-AR, while beta-2-AR coupled to Gi exerts an antiapoptotic action.
+CLASS       Organismal Systems; Circulatory system
+PATHWAY_MAP hsa04261  Adrenergic signaling in cardiomyocytes
+NETWORK     nt06214  PI3K signaling
+            nt06234  cAMP signaling
+  ELEMENT   N01345  EP/NE-ADRB-cAMP signaling pathway
+            N01347  EP/NE-ADRB-PI3K signaling pathway
+DRUG        D00076  Noradrenaline (JP18)
+            D00095  Epinephrine (USP/INN)
+            D00112  G-Strophanthin (JAN)
+            D00124  Ephedrine (USP)
+            D00150  Angiotensin II (INN)
+            D00199  Ajmaline (JP18)
+            D00235  Atenolol (JP18/USP/INN)
+            D00255  Carvedilol (JP18/USP/INN)
+            D00297  Digitoxin (JAN/USP/INN)
+            D00298  Digoxin (JP18/USP)
+            D00303  Disopyramide (JP18/USAN/INN)
+            D00319  Felodipine (JP18/USP/INN)
+            D00349  Isradipine (USP/INN)
+            D00357  Losartan potassium (JP18/USP)
+            D00358  Lidocaine (JP18/USP/INN)
+            D00378  Timolol (USAN)
+            D00400  Valsartan (JP18/USP/INN)
+            D00432  Nadolol (JP18/USP/INN)
+            D00437  Nifedipine (JP18/USP/INN)
+            D00438  Nimodipine (USP/INN)
+            D00477  Procainamide hydrochloride (JP18/USP)
+            D00483  Propranolol hydrochloride (JP18/USP)
+            D00509  Phentolamine mesylate (USP)
+            D00511  Phenylephrine hydrochloride (JP18/USP)
+            D00513  Pindolol (JP18/USP/INN)
+            D00522  Candesartan (USAN/INN)
+            D00523  Irbesartan (JP18/USP/INN)
+            D00597  Acebutolol hydrochloride (JP18/USP)
+            D00598  Betaxolol hydrochloride (JP18/USP)
+            D00599  Carteolol hydrochloride (JP18/USP)
+            D00600  Labetalol hydrochloride (JP18/USP)
+            D00601  Metoprolol tartrate (JP18/USP)
+            D00602  Penbutolol sulfate (JP18/USP)
+            D00603  Timolol maleate (JP18/USP)
+            D00608  Doxazosin mesylate (USP)
+            D00609  Prazosin hydrochloride (JP18/USP)
+            D00615  Amlodipine besylate (USP)
+            D00616  Diltiazem hydrochloride (JP18/USP)
+            D00617  Nicardipine hydrochloride (JP18/USAN)
+            D00618  Nisoldipine (JAN/USAN/INN)
+            D00626  Candesartan cilexetil (JP18/USP)
+            D00627  Telmisartan (JP18/USP/INN)
+            D00629  Nitrendipine (JP18/USAN/INN)
+            D00632  Dobutamine hydrochloride (JP18/USP)
+            D00634  Bisoprolol fumarate (JP18/USP)
+            D00635  Metoprolol succinate (USP)
+            D00636  Amiodarone hydrochloride (JP18/USP)
+            D00637  Disopyramide phosphate (JAN/USP)
+            D00638  Flecainide acetate (JP18/USP)
+            D00639  Mexiletine hydrochloride (JP18/USP)
+            D00640  Propafenone hydrochloride (JP18/USP)
+            D00642  Quinidine gluconate (USP)
+            D00643  Quinidine polygalacturonate
+            D00644  Esmolol hydrochloride (JAN/USP)
+            D00645  Bretylium tosylate (USP)
+            D00996  Epinephrine hydrochloride (JAN)
+            D00997  Tolazoline hydrochloride (JAN/USP)
+            D01019  Metaraminol bitartrate (JAN/USP)
+            D01020  Methoxamine hydrochloride (JAN)
+            D01026  Sotalol hydrochloride (JAN/USP)
+            D01041  Sparteine (INN)
+            D01104  Barnidipine hydrochloride (JAN)
+            D01145  Azelnidipine (JP18/INN)
+            D01151  Lemildipine (JAN/INN)
+            D01171  Monatepil maleate (JAN/USAN)
+            D01173  Cilnidipine (JP18/INN)
+            D01182  Alprenolol hydrochloride (JP18/USAN)
+            D01204  Olmesartan medoxomil (JP18/USP)
+            D01240  Deslanoside (JP18/USP/INN)
+            D01277  Droxidopa (JP18/USAN/INN)
+            D01326  Aprindine hydrochloride (JP18/USAN)
+            D01333  Urapidil (JP18/INN)
+            D01369  Bevantolol hydrochloride (JAN/USAN)
+            D01379  Proscillaridin (JAN/USAN/INN)
+            D01386  Ephedrine hydrochloride (JP18/USP)
+            D01390  Isoproterenol hydrochloride (USP)
+            D01444  Bunitrolol hydrochloride (JAN)
+            D01454  Bupranolol hydrochloride (JP18)
+            D01455  Cifenline succinate (USAN)
+            D01469  Amosulalol hydrochloride (JP18)
+            D01471  Esatenolol (JAN/INN)
+            D01492  Bucumolol hydrochloride (JP18)
+            D01504  Bufetolol hydrochloride (JP18)
+            D01553  Manidipine hydrochloride (JP18)
+            D01562  Aranidipine (JAN/INN)
+            D01573  Etilefrine hydrochloride (JP18)
+            D01604  Efonidipine hydrochloride ethanolate (JAN)
+            D01691  Nipradilol (JAN/INN)
+            D01697  Colforsin daropate hydrochloride (JAN)
+            D01741  Celiprolol hydrochloride (JAN/USAN)
+            D01748  Isoxsuprine hydrochloride (JP18/USP)
+            D01785  Pirmenol hydrochloride hydrate (JAN)
+            D01794  Bopindolol malonate (JAN)
+            D01795  Tilisolol hydrochloride (JAN)
+            D01806  Oxprenolol hydrochloride (JP18/USP)
+            D01830  Arotinolol hydrochloride (JP18)
+            D01847  Landiolol hydrochloride (JAN/USAN)
+            D01849  Lercanidipine hydrochloride (JAN/USAN)
+            D01903  Docarpamine (JAN/INN)
+            D01906  Dilevalol hydrochloride (JAN/USAN)
+            D01908  Nilvadipine (JP18/USAN/INN)
+            D01933  Vatanidipine hydrochloride (JAN)
+            D01958  Indenolol hydrochloride (JP18)
+            D01969  Gallopamil hydrochloride (JAN)
+            D01972  Lanatoside C (JAN/INN)
+            D02014  Angiotensin II (USAN)
+            D02045  Benidipine hydrochloride (JP18)
+            D02066  Isoproterenol sulfate (USP)
+            D02082  Eprosartan mesylate (USAN)
+            D02086  Lidocaine hydrochloride (JAN/USP)
+            D02087  Moricizine hydrochloride (USP)
+            D02088  Tocainide hydrochloride (USP)
+            D02109  dl-Methylephedrine hydrochloride (JP18)
+            D02149  Epinephrine bitartrate (JAN/USP)
+            D02150  l-Isoprenaline hydrochloride (JP18)
+            D02239  Sparteine sulfate (JAN/USAN)
+            D02272  Quinidine sulfate (USP)
+            D02338  Acebutolol (USAN/INN)
+            D02342  Bisoprolol (JAN/USAN/INN)
+            D02358  Metoprolol (USAN/INN)
+            D02389  Primidolol (USAN/INN)
+            D02537  Dronedarone (INN)
+            D02587  Metildigoxin (JP18)
+            D02614  Denopamine (JAN/INN)
+            D02762  Actisomide (USAN/INN)
+            D02765  Adaprolol maleate (USAN)
+            D02834  Alprenoxime hydrochloride (USAN)
+            D02901  Amidephrine mesylate (USAN)
+            D02910  Amiodarone (USAN/INN)
+            D02914  Amlodipine maleate (USAN)
+            D02939  Angiotensin amide (USAN)
+            D02976  Arbutamine hydrochloride (USAN)
+            D03067  Belfosdil (USAN/INN)
+            D03170  Bucindolol hydrochloride (USAN)
+            D03195  Butopamine (USAN/INN)
+            D03406  Cariporide mesylate (USAN)
+            D03415  Carvedilol phosphate (USAN)
+            D03449  Cetamolol hydrochloride (USAN)
+            D03490  Cicloprolol hydrochloride (USAN)
+            D03492  Cifenline (USAN)
+            D03536  Clentiazem maleate (JAN/USAN)
+            D03655  Darodipine (USAN/INN)
+            D03729  Dexpropranolol hydrochloride (USAN)
+            D03759  Diacetolol hydrochloride (USAN)
+            D03830  Diltiazem malate (USAN)
+            D03879  Dobutamine (USAN/INN)
+            D03880  Dobutamine lactobionate (USAN)
+            D03881  Dobutamine tartrate (USAN)
+            D03891  Dopexamine (USAN/INN)
+            D03892  Dopexamine hydrochloride (USAN)
+            D03914  Dronedarone hydrochloride (USP)
+            D03991  Encainide hydrochloride (USAN)
+            D04018  Ephedrine sulfate (USP)
+            D04040  Eprosartan (USAN/INN)
+            D04120  Exaprolol hydrochloride (USAN)
+            D04190  Flestolol sulfate (USAN)
+            D04193  Flordipine (USAN/INN)
+            D04243  Forasartan (USAN/INN)
+            D04510  Imciromab pentetate (USAN)
+            D04521  Indecainide hydrochloride (USAN)
+            D04531  Indoramin (USAN/INN)
+            D04532  Indoramin hydrochloride (USAN)
+            D04657  Lacidipine (USAN/INN)
+            D04708  Levdobutamine lactobionate (USAN)
+            D04710  Levobetaxolol hydrochloride (USAN)
+            D04774  Lorajmine hydrochloride (USAN)
+            D04888  Medroxalol (USAN/INN)
+            D04889  Medroxalol hydrochloride (USAN)
+            D05011  Metoprolol fumarate (USP)
+            D05024  Mibefradil dihydrochloride (USAN)
+            D05077  Moricizine (USAN)
+            D05127  Nebivolol (USAN/INN)
+            D05206  Norepinephrine bitartrate (USP)
+            D05228  Octodrine (USAN/INN)
+            D05246  Olmesartan (USAN/INN)
+            D05345  Pamatolol sulfate (USAN)
+            D05442  Perhexiline maleate (USAN)
+            D05587  Practolol (USAN)
+            D05801  Saprisartan potassium (USAN)
+            D06010  Tasosartan (USAN/INN)
+            D06014  Tazolol hydrochloride (USAN)
+            D06162  Tiprenolol hydrochloride (USAN)
+            D06172  Tocainide (USAN/INN)
+            D06176  Tolamolol (USAN/INN)
+            D06203  Transcainide (USAN/INN)
+            D06234  Trimazosin hydrochloride (USAN)
+            D06328  Xamoterol (USAN)
+            D06329  Xamoterol fumarate (USAN)
+            D06517  Pirmenol hydrochloride (USAN)
+            D06622  Nebivolol hydrochloride (USAN)
+            D06646  Epanolol (USAN/INN)
+            D06665  Vernakalant hydrochloride (USAN)
+            D06881  Acetyldigitoxin (INN)
+            D07147  Gitoformate (INN)
+            D07156  Alprenolol (INN)
+            D07181  Mepindolol (INN)
+            D07182  Tertatolol (INN)
+            D07183  Cloranolol (INN)
+            D07184  Talinolol (INN)
+            D07185  Fendiline (INN)
+            D07450  Amlodipine (USP/INN)
+            D07451  Amosulalol (INN)
+            D07465  Arotinolol (INN)
+            D07494  Barnidipine (INN)
+            D07509  Benidipine (INN)
+            D07526  Betaxolol (INN)
+            D07537  Bopindolol (INN)
+            D07555  Acetyldigoxin
+            D07556  beta-Acetyldigoxin
+            D07590  Bupranolol (INN)
+            D07624  Carteolol (INN)
+            D07660  Celiprolol (INN)
+            D07845  Diltiazem (INN)
+            D07874  Doxazosin (INN)
+            D07886  Efonidipine (INN)
+            D07894  Encainide (INN)
+            D07916  Esmolol (INN)
+            D07931  Etilefrine (INN)
+            D07943  Fendiline hydrochloride
+            D07962  Flecainide (INN)
+            D08009  Gallopamil (INN)
+            D08067  Azilsartan medoxomil (USAN)
+            D08074  Penbutolol (INN)
+            D08078  Indenolol (INN)
+            D08090  Isoprenaline (INN)
+            D08092  Isoxsuprine (INN)
+            D08093  Isoxsuprine lactate
+            D08106  Labetalol (INN)
+            D08111  Lercanidipine (INN)
+            D08127  Lidocaine hydrochloride monohydrate
+            D08146  Losartan (INN)
+            D08155  Manidipine (INN)
+            D08192  Metaraminol (INN)
+            D08201  Methoxamine (BAN)
+            D08206  Methylephedrine (BAN)
+            D08212  Trimazosin (INN)
+            D08215  Mexiletine (INN)
+            D08217  Mibefradil (INN)
+            D08270  Nicardipine (INN)
+            D08284  Norepinephrine hydrochoride
+            D08318  Oxprenolol (INN)
+            D08340  Perhexiline (INN)
+            D08362  Phentolamine (INN)
+            D08365  Phenylephrine (INN)
+            D08366  Phenylephrine tartrate
+            D08394  Pirmenol (INN)
+            D08411  Prazosin (INN)
+            D08421  Procainamide (INN)
+            D08435  Propafenone (INN)
+            D08443  Propranolol (INN)
+            D08458  Quinidine (BAN)
+            D08459  Quinidine phenylethylbarbiturate
+            D08525  Sotalol (INN)
+            D08572  Tertatolol hydrochloride
+            D08598  Tilisolol (INN)
+            D08600  Timolol (INN)
+            D08614  Tolazoline (INN)
+            D08662  Urapidil hydrochloride
+            D08865  Azilsartan kamedoxomil (USAN)
+            D08892  Clevidipine (USAN/INN)
+            D08941  Levamlodipine malate (USAN)
+            D08966  Phenylephrine bitartrate (USP)
+            D09789  Kirenidipine hydrochloride (JAN)
+            D09794  Norepinephrine hydrochloride (JAN)
+            D09833  Levosemotiadil fumarate (JAN)
+            D09843  Beradilol monoethyl maleate (JAN)
+            D09847  Metildigoxin (INN)
+            D10556  Fimasartan (INN)
+            D11142  Angiotensin II acetate (USAN)
+            D11155  Eleclazine (USAN/INN)
+            D11585  Terazosin hydrochloride anhydrous
+            D11723  Levamlodipine maleate (USAN)
+            D11881  Amlodipine benzoate
+            D12253  Aficamten (USAN)
+            D12265  Mavacamten (USAN/INN)
+            D12410  Landiolol (USAN/INN)
+DBLINKS     GO: 0001997
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        153  ADRB1; adrenoceptor beta 1 [KO:K04141]
+            154  ADRB2; adrenoceptor beta 2 [KO:K04142]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            11149  BVES; blood vessel epicardial substance [KO:K21108]
+            64091  POPDC2; popeye domain containing 2 [KO:K26206]
+            64208  POPDC3; popeye domain containing 3 [KO:K26207]
+            3776  KCNK2; potassium two pore domain channel subfamily K member 2 [KO:K04913]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            6548  SLC9A1; solute carrier family 9 member A1 [KO:K05742]
+            3784  KCNQ1; potassium voltage-gated channel subfamily Q member 1 [KO:K04926]
+            3753  KCNE1; potassium voltage-gated channel subfamily E regulatory subunit 1 [KO:K04894]
+            102723475  KCNE1B; potassium voltage-gated channel subfamily E regulatory subunit 1B [KO:K04894]
+            490  ATP2B1; ATPase plasma membrane Ca2+ transporting 1 [KO:K05850] [EC:7.2.2.10]
+            492  ATP2B3; ATPase plasma membrane Ca2+ transporting 3 [KO:K05850] [EC:7.2.2.10]
+            493  ATP2B4; ATPase plasma membrane Ca2+ transporting 4 [KO:K05850] [EC:7.2.2.10]
+            491  ATP2B2; ATPase plasma membrane Ca2+ transporting 2 [KO:K05850] [EC:7.2.2.10]
+            6546  SLC8A1; solute carrier family 8 member A1 [KO:K05849]
+            6543  SLC8A2; solute carrier family 8 member A2 [KO:K05849]
+            6547  SLC8A3; solute carrier family 8 member A3 [KO:K05849]
+            6331  SCN5A; sodium voltage-gated channel alpha subunit 5 [KO:K04838]
+            6332  SCN7A; sodium voltage-gated channel alpha subunit 7 [KO:K04839]
+            6324  SCN1B; sodium voltage-gated channel beta subunit 1 [KO:K04845]
+            6330  SCN4B; sodium voltage-gated channel beta subunit 4 [KO:K04848]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            782  CACNB1; calcium voltage-gated channel auxiliary subunit beta 1 [KO:K04862]
+            783  CACNB2; calcium voltage-gated channel auxiliary subunit beta 2 [KO:K04863]
+            784  CACNB3; calcium voltage-gated channel auxiliary subunit beta 3 [KO:K04864]
+            785  CACNB4; calcium voltage-gated channel auxiliary subunit beta 4 [KO:K04865]
+            781  CACNA2D1; calcium voltage-gated channel auxiliary subunit alpha2delta 1 [KO:K04858]
+            9254  CACNA2D2; calcium voltage-gated channel auxiliary subunit alpha2delta 2 [KO:K04859]
+            55799  CACNA2D3; calcium voltage-gated channel auxiliary subunit alpha2delta 3 [KO:K04860]
+            93589  CACNA2D4; calcium voltage-gated channel auxiliary subunit alpha2delta 4 [KO:K04861]
+            786  CACNG1; calcium voltage-gated channel auxiliary subunit gamma 1 [KO:K04866]
+            10369  CACNG2; calcium voltage-gated channel auxiliary subunit gamma 2 [KO:K04867]
+            10368  CACNG3; calcium voltage-gated channel auxiliary subunit gamma 3 [KO:K04868]
+            27092  CACNG4; calcium voltage-gated channel auxiliary subunit gamma 4 [KO:K04869]
+            27091  CACNG5; calcium voltage-gated channel auxiliary subunit gamma 5 [KO:K04870]
+            59285  CACNG6; calcium voltage-gated channel auxiliary subunit gamma 6 [KO:K04871]
+            59284  CACNG7; calcium voltage-gated channel auxiliary subunit gamma 7 [KO:K04872]
+            59283  CACNG8; calcium voltage-gated channel auxiliary subunit gamma 8 [KO:K04873]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            6262  RYR2; ryanodine receptor 2 [KO:K04962]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            5519  PPP2R1B; protein phosphatase 2 scaffold subunit Abeta [KO:K03456]
+            5518  PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha [KO:K03456]
+            5520  PPP2R2A; protein phosphatase 2 regulatory subunit Balpha [KO:K04354]
+            5521  PPP2R2B; protein phosphatase 2 regulatory subunit Bbeta [KO:K04354]
+            5522  PPP2R2C; protein phosphatase 2 regulatory subunit Bgamma [KO:K04354]
+            55844  PPP2R2D; protein phosphatase 2 regulatory subunit Bdelta [KO:K04354]
+            28227  PPP2R3B; protein phosphatase 2 regulatory subunit B''beta [KO:K11583]
+            55012  PPP2R3C; protein phosphatase 2 regulatory subunit B''gamma [KO:K11583]
+            5523  PPP2R3A; protein phosphatase 2 regulatory subunit B''alpha [KO:K11583]
+            5526  PPP2R5B; protein phosphatase 2 regulatory subunit B'beta [KO:K11584]
+            5527  PPP2R5C; protein phosphatase 2 regulatory subunit B'gamma [KO:K11584]
+            5528  PPP2R5D; protein phosphatase 2 regulatory subunit B'delta [KO:K11584]
+            5529  PPP2R5E; protein phosphatase 2 regulatory subunit B'epsilon [KO:K11584]
+            5525  PPP2R5A; protein phosphatase 2 regulatory subunit B'alpha [KO:K11584]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            7134  TNNC1; troponin C1, slow skeletal and cardiac type [KO:K05865]
+            7137  TNNI3; troponin I3, cardiac type [KO:K12044]
+            7139  TNNT2; troponin T2, cardiac type [KO:K12045]
+            7168  TPM1; tropomyosin 1 [KO:K10373]
+            7169  TPM2; tropomyosin 2 [KO:K10374]
+            7170  TPM3; tropomyosin 3 [KO:K09290]
+            7171  TPM4; tropomyosin 4 [KO:K10375]
+            70  ACTC1; actin alpha cardiac muscle 1 [KO:K12314]
+            4625  MYH7; myosin heavy chain 7 [KO:K17751]
+            4624  MYH6; myosin heavy chain 6 [KO:K17751]
+            4633  MYL2; myosin light chain 2 [KO:K10351]
+            4634  MYL3; myosin light chain 3 [KO:K12749]
+            4635  MYL4; myosin light chain 4 [KO:K12750]
+            5350  PLN; phospholamban [KO:K05852]
+            487  ATP2A1; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [KO:K05853] [EC:7.2.2.10]
+            489  ATP2A3; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [KO:K05853] [EC:7.2.2.10]
+            488  ATP2A2; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [KO:K05853] [EC:7.2.2.10]
+            183  AGT; angiotensinogen [KO:K09821]
+            185  AGTR1; angiotensin II receptor type 1 [KO:K04166]
+            186  AGTR2; angiotensin II receptor type 2 [KO:K04167]
+            148  ADRA1A; adrenoceptor alpha 1A [KO:K04135]
+            147  ADRA1B; adrenoceptor alpha 1B [KO:K04136]
+            146  ADRA1D; adrenoceptor alpha 1D [KO:K04137]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5502  PPP1R1A; protein phosphatase 1 regulatory inhibitor subunit 1A [KO:K08050]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            9252  RPS6KA5; ribosomal protein S6 kinase A5 [KO:K04445] [EC:2.7.11.1]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            1390  CREM; cAMP responsive element modulator [KO:K09052]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            10411  RAPGEF3; Rap guanine nucleotide exchange factor 3 [KO:K08014]
+            11069  RAPGEF4; Rap guanine nucleotide exchange factor 4 [KO:K04351]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            5294  PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [KO:K21289] [EC:2.7.1.153]
+            23533  PIK3R5; phosphoinositide-3-kinase regulatory subunit 5 [KO:K21290]
+            146850  PIK3R6; phosphoinositide-3-kinase regulatory subunit 6 [KO:K21290]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+COMPOUND    C00076  Calcium cation
+            C00080  H+
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00547  L-Noradrenaline
+            C00575  3',5'-Cyclic AMP
+            C00788  L-Adrenaline
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C07056  Isoproterenol
+REFERENCE   PMID:19883653
+  AUTHORS   Grimm M, Brown JH
+  TITLE     Beta-adrenergic receptor signaling in the heart: role of CaMKII.
+  JOURNAL   J Mol Cell Cardiol 48:322-30 (2010)
+            DOI:10.1016/j.yjmcc.2009.10.016
+REFERENCE   PMID:21212391
+  AUTHORS   Yang JH, Saucerman JJ
+  TITLE     Computational models reduce complexity and accelerate insight into cardiac signaling networks.
+  JOURNAL   Circ Res 108:85-97 (2011)
+            DOI:10.1161/CIRCRESAHA.110.223602
+REFERENCE   PMID:16765984
+  AUTHORS   Schaub MC, Hefti MA, Zaugg M
+  TITLE     Integration of calcium with the signaling network in cardiac myocytes.
+  JOURNAL   J Mol Cell Cardiol 41:183-214 (2006)
+            DOI:10.1016/j.yjmcc.2006.04.005
+REFERENCE   PMID:22022314
+  AUTHORS   Taggart P, Boyett MR, Logantha S, Lambiase PD
+  TITLE     Anger, emotion, and arrhythmias: from brain to heart.
+  JOURNAL   Front Physiol 2:67 (2011)
+            DOI:10.3389/fphys.2011.00067
+REFERENCE   PMID:17988210
+  AUTHORS   Bers DM
+  TITLE     Calcium cycling and signaling in cardiac myocytes.
+  JOURNAL   Annu Rev Physiol 70:23-49 (2008)
+            DOI:10.1146/annurev.physiol.70.113006.100455
+REFERENCE   PMID:20923637
+  AUTHORS   Soltis AR, Saucerman JJ
+  TITLE     Synergy between CaMKII substrates and beta-adrenergic signaling in regulation of cardiac myocyte Ca(2+) handling.
+  JOURNAL   Biophys J 99:2038-47 (2010)
+            DOI:10.1016/j.bpj.2010.08.016
+REFERENCE   PMID:12439640
+  AUTHORS   Wallukat G
+  TITLE     The beta-adrenergic receptors.
+  JOURNAL   Herz 27:683-90 (2002)
+            DOI:10.1007/s00059-002-2434-z
+REFERENCE   PMID:11604549
+  AUTHORS   Xiao RP
+  TITLE     Beta-adrenergic signaling in the heart: dual coupling of the beta2-adrenergic receptor to G(s) and G(i) proteins.
+  JOURNAL   Sci STKE 2001:re15 (2001)
+            DOI:10.1126/stke.2001.104.re15
+REFERENCE   PMID:10571541
+  AUTHORS   Xiao RP, Cheng H, Zhou YY, Kuschel M, Lakatta EG
+  TITLE     Recent advances in cardiac beta(2)-adrenergic signal transduction.
+  JOURNAL   Circ Res 85:1092-100 (1999)
+            DOI:10.1161/01.RES.85.11.1092
+REFERENCE   PMID:15979723
+  AUTHORS   Zheng M, Zhu W, Han Q, Xiao RP
+  TITLE     Emerging concepts and therapeutic implications of beta-adrenergic receptor subtype signaling.
+  JOURNAL   Pharmacol Ther 108:257-68 (2005)
+            DOI:10.1016/j.pharmthera.2005.04.006
+REFERENCE   PMID:17826821
+  AUTHORS   Kuzumoto M, Takeuchi A, Nakai H, Oka C, Noma A, Matsuoka S
+  TITLE     Simulation analysis of intracellular Na+ and Cl- homeostasis during beta 1-adrenergic stimulation of cardiac myocyte.
+  JOURNAL   Prog Biophys Mol Biol 96:171-86 (2008)
+            DOI:10.1016/j.pbiomolbio.2007.07.005
+REFERENCE   PMID:11805843
+  AUTHORS   Bers DM
+  TITLE     Cardiac excitation-contraction coupling.
+  JOURNAL   Nature 415:198-205 (2002)
+            DOI:10.1038/415198a
+REFERENCE   PMID:20658186
+  AUTHORS   Ho D, Yan L, Iwatsubo K, Vatner DE, Vatner SF
+  TITLE     Modulation of beta-adrenergic receptor signaling in heart failure and longevity: targeting adenylyl cyclase type 5.
+  JOURNAL   Heart Fail Rev 15:495-512 (2010)
+            DOI:10.1007/s10741-010-9183-5
+REFERENCE   PMID:15142747
+  AUTHORS   Saucerman JJ, McCulloch AD
+  TITLE     Mechanistic systems models of cell signaling networks: a case study of myocyte adrenergic regulation.
+  JOURNAL   Prog Biophys Mol Biol 85:261-78 (2004)
+            DOI:10.1016/j.pbiomolbio.2004.01.005
+REFERENCE   PMID:15765137
+  AUTHORS   Yano M, Ikeda Y, Matsuzaki M
+  TITLE     Altered intracellular Ca2+ handling in heart failure.
+  JOURNAL   J Clin Invest 115:556-64 (2005)
+            DOI:10.1172/JCI24159
+REFERENCE   PMID:15232578
+  AUTHORS   Wehrens XH, Marks AR
+  TITLE     Novel therapeutic approaches for heart failure by normalizing calcium cycling.
+  JOURNAL   Nat Rev Drug Discov 3:565-73 (2004)
+            DOI:10.1038/nrd1440
+REFERENCE   PMID:19874988
+  AUTHORS   Triposkiadis F, Karayannis G, Giamouzis G, Skoularigis J, Louridas G, Butler J
+  TITLE     The sympathetic nervous system in heart failure physiology, pathophysiology, and clinical implications.
+  JOURNAL   J Am Coll Cardiol 54:1747-62 (2009)
+            DOI:10.1016/j.jacc.2009.05.015
+REFERENCE   PMID:18407781
+  AUTHORS   Barry SP, Davidson SM, Townsend PA
+  TITLE     Molecular regulation of cardiac hypertrophy.
+  JOURNAL   Int J Biochem Cell Biol 40:2023-39 (2008)
+            DOI:10.1016/j.biocel.2008.02.020
+REL_PATHWAY hsa04020  Calcium signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04260  Cardiac muscle contraction
+KO_PATHWAY  ko04261
+///

@@ -1,0 +1,65 @@
+ENTRY       hsa00740                    Pathway
+NAME        Riboflavin metabolism - Homo sapiens (human)
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP hsa00740  Riboflavin metabolism
+DBLINKS     GO: 0006771
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        55312  RFK; riboflavin kinase [KO:K00861] [EC:2.7.1.26]
+            54  ACP5; acid phosphatase 5, tartrate resistant [KO:K14379] [EC:3.1.3.2]
+            52  ACP1; acid phosphatase 1 [KO:K14394] [EC:3.1.3.2 3.1.3.48]
+            53  ACP2; acid phosphatase 2, lysosomal [KO:K14410] [EC:3.1.3.2]
+            80308  FLAD1; flavin adenine dinucleotide synthetase 1 [KO:K00953] [EC:2.7.7.2]
+            5167  ENPP1; ectonucleotide pyrophosphatase/phosphodiesterase 1 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            5169  ENPP3; ectonucleotide pyrophosphatase/phosphodiesterase 3 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            645  BLVRB; biliverdin reductase B [KO:K05901] [EC:1.3.1.24 1.5.1.30]
+COMPOUND    C00016  FAD
+            C00044  GTP
+            C00061  FMN
+            C00199  D-Ribulose 5-phosphate
+            C00235  Dimethylallyl diphosphate
+            C00255  Riboflavin
+            C00474  Ribitol
+            C01007  Reduced riboflavin
+            C01268  5-Amino-6-(5'-phosphoribosylamino)uracil
+            C01304  2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one
+            C01352  FADH2
+            C01390  Prenol
+            C01727  Lumichrome
+            C01847  Reduced FMN
+            C03114  Dimethylbenzimidazole
+            C04332  6,7-Dimethyl-8-(D-ribityl)lumazine
+            C04454  5-Amino-6-(5'-phospho-D-ribitylamino)uracil
+            C04732  5-Amino-6-(1-D-ribitylamino)uracil
+            C05995  7-Hydroxy-6-methyl-8-ribityllumazine
+            C15556  L-3,4-Dihydroxybutan-2-one 4-phosphate
+            C15563  2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one
+            C18910  2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one
+            C21214  Dimethylallyl phosphate
+            C21215  Prenylated FMNH2
+REFERENCE   PMID:12136096
+  AUTHORS   Vitreschak AG, Rodionov DA, Mironov AA, Gelfand MS.
+  TITLE     Regulation of riboflavin biosynthesis and transport genes in bacteria by transcriptional and translational attenuation.
+  JOURNAL   Nucleic Acids Res 30:3141-51 (2002)
+            DOI:10.1093/nar/30.14.3141
+REFERENCE   PMID:11856310
+  AUTHORS   Fischer M, Haase I, Feicht R, Richter G, Gerhardt S, Changeux JP, Huber R, Bacher A.
+  TITLE     Biosynthesis of riboflavin: 6,7-dimethyl-8-ribityllumazine synthase of Schizosaccharomyces pombe.
+  JOURNAL   Eur J Biochem 269:519-26 (2002)
+            DOI:10.1046/j.0014-2956.2001.02674.x
+REFERENCE   PMID:12867427
+  AUTHORS   Haase I, Fischer M, Bacher A, Schramek N.
+  TITLE     Temperature-dependent presteady state kinetics of lumazine synthase from the hyperthermophilic eubacterium Aquifex aeolicus.
+  JOURNAL   J Biol Chem 278:37909-15 (2003)
+            DOI:10.1074/jbc.M303090200
+REFERENCE   PMID:16042598
+  AUTHORS   Fischer M, Romisch W, Illarionov B, Eisenreich W, Bacher A.
+  TITLE     Structures and reaction mechanisms of riboflavin synthases of eubacterial and archaeal origin.
+  JOURNAL   Biochem Soc Trans 33:780-4 (2005)
+            DOI:10.1042/BST0330780
+REL_PATHWAY hsa00030  Pentose phosphate pathway
+            hsa00040  Pentose and glucuronate interconversions
+            hsa00230  Purine metabolism
+            hsa00860  Porphyrin metabolism
+            hsa00900  Terpenoid backbone biosynthesis
+KO_PATHWAY  ko00740
+///

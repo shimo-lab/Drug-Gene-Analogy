@@ -1,0 +1,120 @@
+ENTRY       hsa05100                    Pathway
+NAME        Bacterial invasion of epithelial cells - Homo sapiens (human)
+DESCRIPTION Many pathogenic bacteria can invade phagocytic and non-phagocytic cells and colonize them intracellularly, then become disseminated to other cells. Invasive bacteria induce their own uptake by non-phagocytic host cells (e.g. epithelial cells) using two mechanisms referred to as zipper model and trigger model. Listeria, Staphylococcus, Streptococcus, and Yersinia are examples of bacteria that enter using the zipper model. These bacteria express proteins on their surfaces that interact with cellular receptors, initiating signalling cascades that result in close apposition of the cellular membrane around the entering bacteria. Shigella and Salmonella are the examples of bacteria entering cells using the trigger model. These bacteria use type III secretion systems to inject protein effectors that interact with the actin cytoskeleton.
+CLASS       Human Diseases; Infectious disease: bacterial
+PATHWAY_MAP hsa05100  Bacterial invasion of epithelial cells
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        999  CDH1; cadherin 1 [KO:K05689]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            29119  CTNNA3; catenin alpha 3 [KO:K05691]
+            1495  CTNNA1; catenin alpha 1 [KO:K05691]
+            1496  CTNNA2; catenin alpha 2 [KO:K05691]
+            79658  ARHGAP10; Rho GTPase activating protein 10 [KO:K13736]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            2549  GAB1; GRB2 associated binding protein 1 [KO:K09593]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            1398  CRK; CRK proto-oncogene, adaptor protein [KO:K04438]
+            1399  CRKL; CRK like proto-oncogene, adaptor protein [KO:K04438]
+            1793  DOCK1; dedicator of cytokinesis 1 [KO:K13708]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            8976  WASL; WASP like actin nucleation promoting factor [KO:K23612]
+            8936  WASF1; WASP family member 1 [KO:K05753]
+            10163  WASF2; WASP family member 2 [KO:K05748]
+            10097  ACTR2; actin related protein 2 [KO:K17260]
+            57180  ACTR3B; actin related protein 3B [KO:K18584]
+            653857  ACTR3C; actin related protein 3C [KO:K18584]
+            10096  ACTR3; actin related protein 3 [KO:K18584]
+            10095  ARPC1B; actin related protein 2/3 complex subunit 1B [KO:K05757]
+            10552  ARPC1A; actin related protein 2/3 complex subunit 1A [KO:K05757]
+            10109  ARPC2; actin related protein 2/3 complex subunit 2 [KO:K05758]
+            10094  ARPC3; actin related protein 2/3 complex subunit 3 [KO:K05756]
+            10093  ARPC4; actin related protein 2/3 complex subunit 4 [KO:K05755]
+            10092  ARPC5; actin related protein 2/3 complex subunit 5 [KO:K05754]
+            81873  ARPC5L; actin related protein 2/3 complex subunit 5 like [KO:K05754]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            1731  SEPTIN1; septin 1 [KO:K13737]
+            4735  SEPTIN2; septin 2 [KO:K16942]
+            10801  SEPTIN9; septin 9 [KO:K16938]
+            124404  SEPTIN12; septin 12 [KO:K16938]
+            55964  SEPTIN3; septin 3 [KO:K16938]
+            23157  SEPTIN6; septin 6 [KO:K16939]
+            55752  SEPTIN11; septin 11 [KO:K16939]
+            23176  SEPTIN8; septin 8 [KO:K16939]
+            867  CBL; Cbl proto-oncogene [KO:K04707] [EC:2.3.2.27]
+            6464  SHC1; SHC adaptor protein 1 [KO:K06279]
+            25759  SHC2; SHC adaptor protein 2 [KO:K17447]
+            53358  SHC3; SHC adaptor protein 3 [KO:K17448]
+            399694  SHC4; SHC adaptor protein 4 [KO:K17449]
+            23607  CD2AP; CD2 associated protein [KO:K13738]
+            1759  DNM1; dynamin 1 [KO:K01528] [EC:3.6.5.5]
+            26052  DNM3; dynamin 3 [KO:K01528] [EC:3.6.5.5]
+            1785  DNM2; dynamin 2 [KO:K23484] [EC:3.6.5.5]
+            1211  CLTA; clathrin light chain A [KO:K04644]
+            1212  CLTB; clathrin light chain B [KO:K04645]
+            1213  CLTC; clathrin heavy chain [KO:K04646]
+            8218  CLTCL1; clathrin heavy chain like 1 [KO:K04646]
+            857  CAV1; caveolin 1 [KO:K06278]
+            858  CAV2; caveolin 2 [KO:K12958]
+            859  CAV3; caveolin 3 [KO:K12959]
+            2017  CTTN; cortactin [KO:K06106]
+            3059  HCLS1; hematopoietic cell-specific Lyn substrate 1 [KO:K06106]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            9564  BCAR1; BCAR1 scaffold protein, Cas family member [KO:K05726]
+            5829  PXN; paxillin [KO:K05760]
+            2335  FN1; fibronectin 1 [KO:K05717]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            3611  ILK; integrin linked kinase [KO:K06272] [EC:2.7.11.1]
+            10459  MAD2L2; mitotic arrest deficient 2 like 2 [KO:K13728]
+            26084  ARHGEF26; Rho guanine nucleotide exchange factor 26 [KO:K13744]
+            391  RHOG; ras homolog family member G [KO:K07863]
+            9844  ELMO1; engulfment and cell motility 1 [KO:K12366]
+            63916  ELMO2; engulfment and cell motility 2 [KO:K18985]
+            79767  ELMO3; engulfment and cell motility 3 [KO:K19241]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            7414  VCL; vinculin [KO:K05700]
+REFERENCE   PMID:19296488
+  AUTHORS   Mostowy S, Cossart P
+  TITLE     Cytoskeleton rearrangements during Listeria infection: clathrin and septins as new players in the game.
+  JOURNAL   Cell Motil Cytoskeleton 66:816-23 (2009)
+            DOI:10.1002/cm.20353
+REFERENCE   PMID:16406780
+  AUTHORS   Hauck CR, Ohlsen K
+  TITLE     Sticky connections: extracellular matrix protein recognition and integrin-mediated cellular invasion by Staphylococcus aureus.
+  JOURNAL   Curr Opin Microbiol 9:5-11 (2006)
+            DOI:10.1016/j.mib.2005.12.002
+REFERENCE   PMID:17298394
+  AUTHORS   Wang B, Li S, Dedhar S, Cleary PP
+  TITLE     Paxillin phosphorylation: bifurcation point downstream of integrin-linked kinase (ILK) in streptococcal invasion.
+  JOURNAL   Cell Microbiol 9:1519-28 (2007)
+            DOI:10.1111/j.1462-5822.2007.00889.x
+REFERENCE   PMID:19185531
+  AUTHORS   Matsumoto H, Young GM
+  TITLE     Translocated effectors of Yersinia.
+  JOURNAL   Curr Opin Microbiol 12:94-100 (2009)
+            DOI:10.1016/j.mib.2008.12.005
+REFERENCE   PMID:19157959
+  AUTHORS   McGhie EJ, Brawn LC, Hume PJ, Humphreys D, Koronakis V
+  TITLE     Salmonella takes control: effector-driven manipulation of the host.
+  JOURNAL   Curr Opin Microbiol 12:117-24 (2009)
+            DOI:10.1016/j.mib.2008.12.001
+REFERENCE   PMID:17719540
+  AUTHORS   Iwai H, Kim M, Yoshikawa Y, Ashida H, Ogawa M, Fujita Y, Muller D, Kirikae T, Jackson PK, Kotani S, Sasakawa C
+  TITLE     A bacterial effector targets Mad2L2, an APC inhibitor, to modulate host cell cycling.
+  JOURNAL   Cell 130:611-23 (2007)
+            DOI:10.1016/j.cell.2007.06.043
+REL_PATHWAY hsa04110  Cell cycle
+            hsa04144  Endocytosis
+            hsa04510  Focal adhesion
+            hsa04512  ECM-receptor interaction
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko05100
+///

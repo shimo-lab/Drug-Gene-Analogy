@@ -1,0 +1,167 @@
+ENTRY       hsa04961                    Pathway
+NAME        Endocrine and other factor-regulated calcium reabsorption - Homo sapiens (human)
+DESCRIPTION Calcium (Ca2+) is essential for numerous physiological functions including intracellular signalling processes, neuronal excitability, muscle contraction and bone formation. Therefore, its homeostasis is finely maintained through the coordination of intestinal absorption, renal reabsorption, and bone resorption. In kidney, the late part of the distal convoluted tubule (DCT) and the connecting tubule (CNT) are the site of active Ca2+ transport and precisely regulate Ca2+ reabsorption. Following Ca2+ entry through TRPV5, Ca2+ bound to calbindin-D28K diffuses to the basolateral side, where it is extruded into the blood compartment through NCX1 and to a lesser extent PMCA1b. In the urinary compartment, both klotho and tissue kallikrein (TK) increase the apical abundance of TRPV5. In the blood compartment, PTH, 1,25(OH)2D3 and estrogen increase the transcription and protein expression of the luminal Ca2+ channels, calbindins, and the extrusion systems.
+CLASS       Organismal Systems; Excretory system
+PATHWAY_MAP hsa04961  Endocrine and other factor-regulated calcium reabsorption
+NETWORK     nt06318  CaSR-PTH signaling
+  ELEMENT   N00288  PTH-PTH1R-PKA signaling pathway
+DRUG        D00105  Estradiol (JAN/USP/INN)
+            D00122  Calcifediol (USP/INN)
+            D00129  Calcitriol (JAN/USP/INN)
+            D00185  Estriol (JP18/USP)
+            D00187  Ergocalciferol (JP18/USP)
+            D00188  Cholecalciferol (JP18/USP)
+            D00299  Dihydrotachysterol (JAN/USP/INN)
+            D00628  Secalciferol (JAN/USAN/INN)
+            D00930  Paricalcitol (JAN/USP/INN)
+            D01009  Doxercalciferol (USAN/INN)
+            D01098  Maxacalcitol (JAN/USAN/INN)
+            D01125  Calcipotriene (USP)
+            D01472  Tacalcitol hydrate (JP18)
+            D01518  Alfacalcidol (JAN/INN)
+            D01662  Falecalcitriol (JAN/INN)
+            D02217  Raloxifene hydrochloride (JAN/USP)
+            D03062  Bazedoxifene acetate (JAN/USAN)
+            D03358  Teriparatide acetate (JAN)
+            D03930  Ecalcidene (USAN/INN)
+            D04492  Icatibant acetate (JAN/USAN)
+            D04672  Lasofoxifene tartrate (JAN/USAN)
+            D05364  Parathyroid hormone (human) (USAN)
+            D06078  Teriparatide (USP/INN)
+            D06546  Teriparatide acetate (USAN)
+            D07578  Eldecalcitol (JAN/INN)
+            D08465  Raloxifene (INN)
+            D08554  Tacalcitol (INN)
+            D08868  Becocalcidiol (USAN/INN)
+            D09834  Levormeloxifene fumarate (JAN)
+            D10008  Fispemifene (USAN/INN)
+            D10198  Calcipotriol hydrate (JAN)
+            D10606  Raloxifene hydrochloride hydrate (JAN)
+            D11563  Abaloparatide acetate (JAN)
+            D12395  Palopegteriparatide (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5741  PTH; parathyroid hormone [KO:K05261]
+            5745  PTH1R; parathyroid hormone 1 receptor [KO:K04585]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            7421  VDR; vitamin D receptor [KO:K08539]
+            2099  ESR1; estrogen receptor 1 [KO:K08550]
+            56302  TRPV5; transient receptor potential cation channel subfamily V member 5 [KO:K04974]
+            9365  KL; klotho [KO:K14756] [EC:3.2.1.31]
+            1759  DNM1; dynamin 1 [KO:K01528] [EC:3.6.5.5]
+            26052  DNM3; dynamin 3 [KO:K01528] [EC:3.6.5.5]
+            1785  DNM2; dynamin 2 [KO:K23484] [EC:3.6.5.5]
+            161  AP2A2; adaptor related protein complex 2 subunit alpha 2 [KO:K11824]
+            160  AP2A1; adaptor related protein complex 2 subunit alpha 1 [KO:K11824]
+            163  AP2B1; adaptor related protein complex 2 subunit beta 1 [KO:K11825]
+            1173  AP2M1; adaptor related protein complex 2 subunit mu 1 [KO:K11826]
+            1175  AP2S1; adaptor related protein complex 2 subunit sigma 1 [KO:K11827]
+            1211  CLTA; clathrin light chain A [KO:K04644]
+            1212  CLTB; clathrin light chain B [KO:K04645]
+            1213  CLTC; clathrin heavy chain [KO:K04646]
+            8218  CLTCL1; clathrin heavy chain like 1 [KO:K04646]
+            8766  RAB11A; RAB11A, member RAS oncogene family [KO:K07904]
+            793  CALB1; calbindin 1 [KO:K14757]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            6546  SLC8A1; solute carrier family 8 member A1 [KO:K05849]
+            6543  SLC8A2; solute carrier family 8 member A2 [KO:K05849]
+            6547  SLC8A3; solute carrier family 8 member A3 [KO:K05849]
+            490  ATP2B1; ATPase plasma membrane Ca2+ transporting 1 [KO:K05850] [EC:7.2.2.10]
+            492  ATP2B3; ATPase plasma membrane Ca2+ transporting 3 [KO:K05850] [EC:7.2.2.10]
+            493  ATP2B4; ATPase plasma membrane Ca2+ transporting 4 [KO:K05850] [EC:7.2.2.10]
+            491  ATP2B2; ATPase plasma membrane Ca2+ transporting 2 [KO:K05850] [EC:7.2.2.10]
+            3817  KLK2; kallikrein related peptidase 2 [KO:K01325] [EC:3.4.21.35]
+            3816  KLK1; kallikrein 1 [KO:K01325] [EC:3.4.21.35]
+            624  BDKRB2; bradykinin receptor B2 [KO:K03916]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00575  3',5'-Cyclic AMP
+            C00951  Estradiol-17beta
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C01673  Calcitriol
+REFERENCE   PMID:18989697
+  AUTHORS   Boros S, Bindels RJ, Hoenderop JG
+  TITLE     Active Ca(2+) reabsorption in the connecting tubule.
+  JOURNAL   Pflugers Arch 458:99-109 (2009)
+            DOI:10.1007/s00424-008-0602-6
+REFERENCE   PMID:16518325
+  AUTHORS   Lambers TT, Bindels RJ, Hoenderop JG
+  TITLE     Coordinated control of renal Ca2+ handling.
+  JOURNAL   Kidney Int 69:650-4 (2006)
+            DOI:10.1038/sj.ki.5000169
+REFERENCE   PMID:18596722
+  AUTHORS   de Groot T, Bindels RJ, Hoenderop JG
+  TITLE     TRPV5: an ingeniously controlled calcium channel.
+  JOURNAL   Kidney Int 74:1241-6 (2008)
+            DOI:10.1038/ki.2008.320
+REFERENCE   PMID:20969972
+  AUTHORS   Markadieu N, Bindels RJ, Hoenderop JG
+  TITLE     The renal connecting tubule: Resolved and unresolved issues in Ca(2+) transport.
+  JOURNAL   Int J Biochem Cell Biol 43:1-4 (2011)
+            DOI:10.1016/j.biocel.2010.10.006
+REFERENCE   PMID:15618484
+  AUTHORS   Hoenderop JG, Nilius B, Bindels RJ
+  TITLE     Calcium absorption across epithelia.
+  JOURNAL   Physiol Rev 85:373-422 (2005)
+            DOI:10.1152/physrev.00003.2004
+REFERENCE   PMID:15747113
+  AUTHORS   van Abel M, Hoenderop JG, Bindels RJ
+  TITLE     The epithelial calcium channels TRPV5 and TRPV6: regulation and implications for disease.
+  JOURNAL   Naunyn Schmiedebergs Arch Pharmacol 371:295-306 (2005)
+            DOI:10.1007/s00210-005-1021-2
+REFERENCE   PMID:16044309
+  AUTHORS   Nijenhuis T, Hoenderop JG, Bindels RJ
+  TITLE     TRPV5 and TRPV6 in Ca(2+) (re)absorption: regulating Ca(2+) entry at the gate.
+  JOURNAL   Pflugers Arch 451:181-92 (2005)
+            DOI:10.1007/s00424-005-1430-6
+REFERENCE   PMID:12684797
+  AUTHORS   Hoenderop JG, Nilius B, Bindels RJ
+  TITLE     Epithelial calcium channels: from identification to function and regulation.
+  JOURNAL   Pflugers Arch 446:304-8 (2003)
+            DOI:10.1007/s00424-003-1045-8
+REFERENCE   PMID:17006539
+  AUTHORS   Gkika D, Topala CN, Chang Q, Picard N, Thebault S, Houillier P, Hoenderop JG, Bindels RJ
+  TITLE     Tissue kallikrein stimulates Ca(2+) reabsorption via PKC-dependent plasma membrane accumulation of TRPV5.
+  JOURNAL   EMBO J 25:4707-16 (2006)
+            DOI:10.1038/sj.emboj.7601357
+REFERENCE   PMID:17233615
+  AUTHORS   Schoeber JP, Hoenderop JG, Bindels RJ
+  TITLE     Concerted action of associated proteins in the regulation of TRPV5 and TRPV6.
+  JOURNAL   Biochem Soc Trans 35:115-9 (2007)
+            DOI:10.1042/BST0350115
+REFERENCE   PMID:18293139
+  AUTHORS   Renkema KY, Alexander RT, Bindels RJ, Hoenderop JG
+  TITLE     Calcium and phosphate homeostasis: concerted interplay of new regulators.
+  JOURNAL   Ann Med 40:82-91 (2008)
+            DOI:10.1080/07853890701689645
+REFERENCE   PMID:19423690
+  AUTHORS   de Groot T, Lee K, Langeslag M, Xi Q, Jalink K, Bindels RJ, Hoenderop JG
+  TITLE     Parathyroid hormone activates TRPV5 via PKA-dependent phosphorylation.
+  JOURNAL   J Am Soc Nephrol 20:1693-704 (2009)
+            DOI:10.1681/ASN.2008080873
+REL_PATHWAY hsa04144  Endocytosis
+            hsa04530  Tight junction
+KO_PATHWAY  ko04961
+///

@@ -1,0 +1,67 @@
+ENTRY       hsa00220                    Pathway
+NAME        Arginine biosynthesis - Homo sapiens (human)
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP hsa00220  Arginine biosynthesis
+MODULE      hsa_M00029  Urea cycle [PATH:hsa00220]
+            hsa_M00844  Arginine biosynthesis, ornithine => arginine [PATH:hsa00220]
+NETWORK     nt06010  Urea cycle
+  ELEMENT   N00593  Urea cycle
+            N00599  Obligate allosteric activation of CPS1 by NAG
+DRUG        D07130  Carglumic acid (JAN/USAN/INN)
+            D09018  Tilarginine acetate (USAN)
+            D11695  Pegzilarginase (USAN/INN)
+DBLINKS     GO: 0006526
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5009  OTC; ornithine transcarbamylase [KO:K00611] [EC:2.1.3.3]
+            445  ASS1; argininosuccinate synthase 1 [KO:K01940] [EC:6.3.4.5]
+            435  ASL; argininosuccinate lyase [KO:K01755] [EC:4.3.2.1]
+            384  ARG2; arginase 2 [KO:K01476] [EC:3.5.3.1]
+            383  ARG1; arginase 1 [KO:K01476] [EC:3.5.3.1]
+            4842  NOS1; nitric oxide synthase 1 [KO:K13240] [EC:1.14.13.39]
+            4843  NOS2; nitric oxide synthase 2 [KO:K13241] [EC:1.14.13.39]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            27165  GLS2; glutaminase 2 [KO:K01425] [EC:3.5.1.2]
+            2744  GLS; glutaminase [KO:K01425] [EC:3.5.1.2]
+            2752  GLUL; glutamate-ammonia ligase [KO:K01915] [EC:6.3.1.2]
+            2747  GLUD2; glutamate dehydrogenase 2 [KO:K00261] [EC:1.4.1.3]
+            2746  GLUD1; glutamate dehydrogenase 1 [KO:K00261] [EC:1.4.1.3]
+            1373  CPS1; carbamoyl-phosphate synthase 1 [KO:K01948] [EC:6.3.4.16]
+            2805  GOT1; glutamic-oxaloacetic transaminase 1 [KO:K14454] [EC:2.6.1.1]
+            137362  GOT1L1; glutamic-oxaloacetic transaminase 1 like 1 [KO:K14454] [EC:2.6.1.1]
+            2806  GOT2; glutamic-oxaloacetic transaminase 2 [KO:K14455] [EC:2.6.1.1]
+            84706  GPT2; glutamic--pyruvic transaminase 2 [KO:K00814] [EC:2.6.1.2]
+            2875  GPT; glutamic--pyruvic transaminase [KO:K00814] [EC:2.6.1.2]
+            162417  NAGS; N-acetylglutamate synthase [KO:K11067] [EC:2.3.1.1]
+            95  ACY1; aminoacylase 1 [KO:K14677] [EC:3.5.1.14]
+            100526760  ABHD14A-ACY1; ABHD14A-ACY1 readthrough [KO:K14677] [EC:3.5.1.14]
+COMPOUND    C00011  CO2
+            C00014  Ammonia
+            C00025  L-Glutamate
+            C00026  2-Oxoglutarate
+            C00049  L-Aspartate
+            C00062  L-Arginine
+            C00064  L-Glutamine
+            C00077  L-Ornithine
+            C00086  Urea
+            C00122  Fumarate
+            C00169  Carbamoyl phosphate
+            C00327  L-Citrulline
+            C00437  N-Acetylornithine
+            C00624  N-Acetyl-L-glutamate
+            C01010  Urea-1-carboxylate
+            C01250  N-Acetyl-L-glutamate 5-semialdehyde
+            C03406  N-(L-Arginino)succinate
+            C04133  N-Acetyl-L-glutamate 5-phosphate
+            C15532  N-Acetyl-L-citrulline
+            C20948  LysW-L-glutamate
+            C20949  LysW-L-glutamyl 5-phosphate
+            C20950  LysW-L-glutamate 5-semialdehyde
+            C20951  LysW-L-ornithine
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa00240  Pyrimidine metabolism
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa00470  D-Amino acid metabolism
+            hsa00910  Nitrogen metabolism
+KO_PATHWAY  ko00220
+///

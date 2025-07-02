@@ -1,0 +1,436 @@
+ENTRY       hsa04022                    Pathway
+NAME        cGMP-PKG signaling pathway - Homo sapiens (human)
+DESCRIPTION Cyclic GMP (cGMP) is the intracellular second messenger that mediates the action of nitric oxide (NO) and natriuretic peptides (NPs), regulating a broad array of physiologic processes. The elevated intracellular cGMP level exerts its physiological action through two forms of cGMP-dependent protein kinase (PKG), cGMP-regulated phosphodiesterases (PDE2, PDE3) and cGMP-gated cation channels, among which PKGs might be the primary mediator. PKG1 isoform-specific activation of established substrates leads to reduction of cytosolic calcium concentration and/or decrease in the sensitivity of myofilaments to Ca2+ (Ca2+-desensitization), resulting in smooth muscle relaxation. In cardiac myocyte, PKG directly phosphorylates a member of the transient potential receptor canonical channel family, TRPC6, suppressing this nonselective ion channel's Ca2+ conductance, G-alpha-q agonist-induced NFAT activation, and myocyte hypertrophic responses. PKG also opens mitochondrial ATP-sensitive K+ (mitoKATP) channels and subsequent release of ROS triggers cardioprotection.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP hsa04022  cGMP-PKG signaling pathway
+DRUG        D00095  Epinephrine (USP/INN)
+            D00227  Aminophylline (USP/INN)
+            D00231  Inamrinone (USP)
+            D00255  Carvedilol (JP18/USP/INN)
+            D00281  Clonidine (JAN/USP/INN)
+            D00302  Dipyridamole (JP18/USP/INN)
+            D00371  Theophylline (JP18)
+            D00378  Timolol (USAN)
+            D00405  Methyldopa (USP)
+            D00417  Milrinone (JAN/USP/INN)
+            D00432  Nadolol (JP18/USP/INN)
+            D00598  Betaxolol hydrochloride (JP18/USP)
+            D00599  Carteolol hydrochloride (JP18/USP)
+            D00600  Labetalol hydrochloride (JP18/USP)
+            D00603  Timolol maleate (JP18/USP)
+            D00604  Clonidine hydrochloride (JP18/USP)
+            D00606  Guanfacine hydrochloride (JAN/USP)
+            D00610  Terazosin hydrochloride (USP)
+            D00631  Bepridil hydrochloride (USAN)
+            D00632  Dobutamine hydrochloride (JP18/USP)
+            D00634  Bisoprolol fumarate (JP18/USP)
+            D00636  Amiodarone hydrochloride (JP18/USP)
+            D00680  Methylergonovine maleate (USP)
+            D00996  Epinephrine hydrochloride (JAN)
+            D01024  Tamsulosin hydrochloride (JP18/USP)
+            D01163  Ergonovine maleate (USP)
+            D01220  Trapidil (JP18/INN)
+            D01238  Bucladesine sodium (JAN)
+            D01385  Ibudilast (JP18/INN)
+            D01469  Amosulalol hydrochloride (JP18)
+            D01573  Etilefrine hydrochloride (JP18)
+            D01691  Nipradilol (JAN/INN)
+            D01692  Alfuzosin hydrochloride (JAN/USAN)
+            D01712  Theophylline sodium acetate (JAN)
+            D01771  Proxyphylline (JAN/INN)
+            D01810  Nicorandil (JP18/USAN/INN)
+            D01830  Arotinolol hydrochloride (JP18)
+            D01840  Fasudil hydrochloride (JAN)
+            D01896  Cilostazol (JP18/USP/INN)
+            D01958  Indenolol hydrochloride (JP18)
+            D01965  Silodosin (JP18/INN)
+            D02017  Oxtriphylline (USP)
+            D02084  Inamrinone ethylenelactate
+            D02085  Milrinone lactate
+            D02149  Epinephrine bitartrate (JAN/USP)
+            D02218  Papaverine hydrochloride (JP18/USP)
+            D02229  Sildenafil citrate (JAN/USP)
+            D02342  Bisoprolol (JAN/USAN/INN)
+            D02731  Vardenafil dihydrochoride (USAN)
+            D02774  Adrenalone (USAN/INN)
+            D02910  Amiodarone (USAN/INN)
+            D02976  Arbutamine hydrochloride (USAN)
+            D03051  Bamifylline hydrochloride (USAN)
+            D03115  Fasudil hydrochloride hydrate (JAN)
+            D03177  Bunolol hydrochloride (USAN)
+            D03217  Avanafil (USAN/INN)
+            D03260  Vardenafil hydrochloride hydrate (JAN)
+            D03328  Carperitide (USAN/INN)
+            D03415  Carvedilol phosphate (USAN)
+            D03657  Dasantafil (USAN/INN)
+            D03879  Dobutamine (USAN/INN)
+            D03891  Dopexamine (USAN/INN)
+            D03892  Dopexamine hydrochloride (USAN)
+            D03898  Doxofylline (USAN/INN)
+            D03953  Edonentan (USAN)
+            D04004  Enoximone (USAN/INN)
+            D04508  Imazodan hydrochloride (USAN)
+            D04510  Imciromab pentetate (USAN)
+            D04529  Indolidan (USAN/INN)
+            D04628  Isomazole hydrochloride (USAN)
+            D04710  Levobetaxolol hydrochloride (USAN)
+            D04720  Levosimendan (USAN/INN)
+            D04751  Lixazinone sulfate (USAN)
+            D05087  Moxonidine (USAN/INN)
+            D05429  Aminophylline hydrate (JP18)
+            D05514  Piroximone (USAN)
+            D05688  Racepinephrine (USP/INN)
+            D05689  Racepinephrine hydrochloride (USP)
+            D05879  Solabegron hydrochloride (USAN)
+            D06103  Theophylline (USP)
+            D06104  Theophylline sodium glycinate (USP)
+            D06562  Bedoradrine sulfate (USAN)
+            D06671  Yohimbine hydrochloride (USP)
+            D07124  Alfuzosin (INN)
+            D07181  Mepindolol (INN)
+            D07425  Papaverine (BAN)
+            D07439  Papaverine sulfate
+            D07451  Amosulalol (INN)
+            D07465  Arotinolol (INN)
+            D07491  Bamifylline (INN)
+            D07520  Bepridil (INN)
+            D07526  Betaxolol (INN)
+            D07546  Bucladesine (INN)
+            D07560  Adrenalone hydrochloride
+            D07624  Carteolol (INN)
+            D07905  Ergometrine (INN)
+            D07906  Ergotamine (INN)
+            D07931  Etilefrine (INN)
+            D07941  Fasudil (INN)
+            D08031  Guanfacine (INN)
+            D08078  Indenolol (INN)
+            D08106  Labetalol (INN)
+            D08205  Methyldopa (INN)
+            D08207  Methylergometrine (INN)
+            D08482  Rilmenidine (INN)
+            D08514  Sildenafil (INN)
+            D08560  Tamsulosin (INN)
+            D08569  Terazosin (INN)
+            D08600  Timolol (INN)
+            D08668  Vardenafil (USAN/INN)
+            D08685  Yohimbine (DCF)
+            D09822  Theosalicin (JAN)
+            D09989  Vardenafil hydrochloride (USP)
+            D10027  Udenafil (USAN/INN)
+            D10971  Piclidenoson (USAN/INN)
+            D11030  Netarsudil (USAN/INN)
+            D11031  Netarsudil mesylate (USAN)
+            D11128  Namodenoson (USAN/INN)
+            D11190  Vosoritide (USAN/INN)
+            D11320  Vatinoxan (USAN)
+            D11321  Vatinoxan hydrochloride (USAN)
+            D11585  Terazosin hydrochloride anhydrous
+            D11630  Aminophylline dihydrate
+            D11743  Ensifentrine (USAN/INN)
+            D11776  Sparsentan (USAN/INN)
+            D11974  Centhaquine (USAN)
+            D11975  Centhaquine citrate (USAN)
+            D12265  Mavacamten (USAN/INN)
+            D12516  Zagociguat (USAN/INN)
+DBLINKS     GO: 0070305
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        185  AGTR1; angiotensin II receptor type 1 [KO:K04166]
+            1909  EDNRA; endothelin receptor type A [KO:K04197]
+            1910  EDNRB; endothelin receptor type B [KO:K04198]
+            148  ADRA1A; adrenoceptor alpha 1A [KO:K04135]
+            147  ADRA1B; adrenoceptor alpha 1B [KO:K04136]
+            146  ADRA1D; adrenoceptor alpha 1D [KO:K04137]
+            150  ADRA2A; adrenoceptor alpha 2A [KO:K04138]
+            151  ADRA2B; adrenoceptor alpha 2B [KO:K04139]
+            152  ADRA2C; adrenoceptor alpha 2C [KO:K04140]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            2768  GNA12; G protein subunit alpha 12 [KO:K04346]
+            10672  GNA13; G protein subunit alpha 13 [KO:K04639]
+            7225  TRPC6; transient receptor potential cation channel subfamily C member 6 [KO:K04969]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4205  MEF2A; myocyte enhancer factor 2A [KO:K09260]
+            4207  BORCS8-MEF2B; BORCS8-MEF2B readthrough [KO:K09261]
+            100271849  MEF2B; myocyte enhancer factor 2B [KO:K09261]
+            4208  MEF2C; myocyte enhancer factor 2C [KO:K04454]
+            4209  MEF2D; myocyte enhancer factor 2D [KO:K09262]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            4776  NFATC4; nuclear factor of activated T cells 4 [KO:K17334]
+            6722  SRF; serum response factor [KO:K04378]
+            2626  GATA4; GATA binding protein 4 [KO:K09183]
+            4625  MYH7; myosin heavy chain 7 [KO:K17751]
+            4624  MYH6; myosin heavy chain 6 [KO:K17751]
+            4879  NPPB; natriuretic peptide B [KO:K12335]
+            4878  NPPA; natriuretic peptide A [KO:K12334]
+            4881  NPR1; natriuretic peptide receptor 1 [KO:K12323] [EC:4.6.1.2]
+            4880  NPPC; natriuretic peptide C [KO:K12336]
+            4882  NPR2; natriuretic peptide receptor 2 [KO:K12324] [EC:4.6.1.2]
+            5592  PRKG1; protein kinase cGMP-dependent 1 [KO:K07376] [EC:2.7.11.12]
+            5593  PRKG2; protein kinase cGMP-dependent 2 [KO:K19477] [EC:2.7.11.12]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            3778  KCNMA1; potassium calcium-activated channel subfamily M alpha 1 [KO:K04936]
+            157855  KCNU1; potassium calcium-activated channel subfamily U member 1 [KO:K05274]
+            3779  KCNMB1; potassium calcium-activated channel subfamily M regulatory beta subunit 1 [KO:K04937]
+            10242  KCNMB2; potassium calcium-activated channel subfamily M regulatory beta subunit 2 [KO:K04938]
+            27094  KCNMB3; potassium calcium-activated channel subfamily M regulatory beta subunit 3 [KO:K04939]
+            27345  KCNMB4; potassium calcium-activated channel subfamily M regulatory beta subunit 4 [KO:K04941]
+            6546  SLC8A1; solute carrier family 8 member A1 [KO:K05849]
+            6543  SLC8A2; solute carrier family 8 member A2 [KO:K05849]
+            6547  SLC8A3; solute carrier family 8 member A3 [KO:K05849]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            490  ATP2B1; ATPase plasma membrane Ca2+ transporting 1 [KO:K05850] [EC:7.2.2.10]
+            492  ATP2B3; ATPase plasma membrane Ca2+ transporting 3 [KO:K05850] [EC:7.2.2.10]
+            493  ATP2B4; ATPase plasma membrane Ca2+ transporting 4 [KO:K05850] [EC:7.2.2.10]
+            491  ATP2B2; ATPase plasma membrane Ca2+ transporting 2 [KO:K05850] [EC:7.2.2.10]
+            5997  RGS2; regulator of G protein signaling 2 [KO:K18154]
+            9569  GTF2IRD1; GTF2I repeat domain containing 1 [KO:K03121]
+            2969  GTF2I; general transcription factor IIi [KO:K03121]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            10335  IRAG1; inositol 1,4,5-triphosphate receptor associated 1 [KO:K12337]
+            5350  PLN; phospholamban [KO:K05852]
+            487  ATP2A1; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [KO:K05853] [EC:7.2.2.10]
+            489  ATP2A3; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [KO:K05853] [EC:7.2.2.10]
+            488  ATP2A2; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [KO:K05853] [EC:7.2.2.10]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            4659  PPP1R12A; protein phosphatase 1 regulatory subunit 12A [KO:K06270]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            4638  MYLK; myosin light chain kinase [KO:K00907] [EC:2.7.11.18]
+            85366  MYLK2; myosin light chain kinase 2 [KO:K00907] [EC:2.7.11.18]
+            91807  MYLK3; myosin light chain kinase 3 [KO:K00907] [EC:2.7.11.18]
+            340156  MYLK4; myosin light chain kinase family member 4 [KO:K00907] [EC:2.7.11.18]
+            10398  MYL9; myosin light chain 9 [KO:K12755]
+            1259  CNGA1; cyclic nucleotide gated channel subunit alpha 1 [KO:K04948]
+            1258  CNGB1; cyclic nucleotide gated channel subunit beta 1 [KO:K04952]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5138  PDE2A; phosphodiesterase 2A [KO:K18283] [EC:3.1.4.17]
+            5139  PDE3A; phosphodiesterase 3A [KO:K19021] [EC:3.1.4.17]
+            5140  PDE3B; phosphodiesterase 3B [KO:K13296] [EC:3.1.4.17]
+            8654  PDE5A; phosphodiesterase 5A [KO:K13762] [EC:3.1.4.35]
+            2977  GUCY1A2; guanylate cyclase 1 soluble subunit alpha 2 [KO:K12318] [EC:4.6.1.2]
+            2982  GUCY1A1; guanylate cyclase 1 soluble subunit alpha 1 [KO:K12318] [EC:4.6.1.2]
+            2983  GUCY1B1; guanylate cyclase 1 soluble subunit beta 1 [KO:K12319] [EC:4.6.1.2]
+            3827  KNG1; kininogen 1 [KO:K03898]
+            624  BDKRB2; bradykinin receptor B2 [KO:K03916]
+            4985  OPRD1; opioid receptor delta 1 [KO:K04213]
+            134  ADORA1; adenosine A1 receptor [KO:K04265]
+            140  ADORA3; adenosine A3 receptor [KO:K04268]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            3630  INS; insulin [KO:K04526]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            8471  IRS4; insulin receptor substrate 4 [KO:K17446]
+            5294  PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [KO:K21289] [EC:2.7.1.153]
+            23533  PIK3R5; phosphoinositide-3-kinase regulatory subunit 5 [KO:K21290]
+            146850  PIK3R6; phosphoinositide-3-kinase regulatory subunit 6 [KO:K21290]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            153  ADRB1; adrenoceptor beta 1 [KO:K04141]
+            154  ADRB2; adrenoceptor beta 2 [KO:K04142]
+            155  ADRB3; adrenoceptor beta 3 [KO:K04143]
+            5581  PRKCE; protein kinase C epsilon [KO:K18050] [EC:2.7.11.13]
+            3764  KCNJ8; potassium inwardly rectifying channel subfamily J member 8 [KO:K05001]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            291  SLC25A4; solute carrier family 25 member 4 [KO:K05863]
+            292  SLC25A5; solute carrier family 25 member 5 [KO:K05863]
+            293  SLC25A6; solute carrier family 25 member 6 [KO:K05863]
+            83447  SLC25A31; solute carrier family 25 member 31 [KO:K05863]
+            10105  PPIF; peptidylprolyl isomerase F [KO:K09565] [EC:5.2.1.8]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            7408  VASP; vasodilator stimulated phosphoprotein [KO:K06274]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+COMPOUND    C00020  AMP
+            C00027  Hydrogen peroxide
+            C00076  Calcium cation
+            C00144  GMP
+            C00212  Adenosine
+            C00238  Potassium cation
+            C00533  Nitric oxide
+            C00575  3',5'-Cyclic AMP
+            C00942  3',5'-Cyclic GMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+REFERENCE   PMID:20716671
+  AUTHORS   Francis SH, Busch JL, Corbin JD, Sibley D
+  TITLE     cGMP-dependent protein kinases and cGMP phosphodiesterases in nitric oxide and cGMP action.
+  JOURNAL   Pharmacol Rev 62:525-63 (2010)
+            DOI:10.1124/pr.110.002907
+REFERENCE   PMID:16439998
+  AUTHORS   Feil R, Kemp-Harper B
+  TITLE     cGMP signalling: from bench to bedside. Conference on cGMP generators, effectors and therapeutic implications.
+  JOURNAL   EMBO Rep 7:149-53 (2006)
+            DOI:10.1038/sj.embor.7400627
+REFERENCE   PMID:22785374
+  AUTHORS   Takimoto E
+  TITLE     Cyclic GMP-dependent signaling in cardiac myocytes.
+  JOURNAL   Circ J 76:1819-25 (2012)
+            DOI:10.1253/circj.CJ-12-0664
+REFERENCE   PMID:16371594
+  AUTHORS   Hofmann F, Feil R, Kleppisch T, Schlossmann J
+  TITLE     Function of cGMP-dependent protein kinases as revealed by gene deletion.
+  JOURNAL   Physiol Rev 86:1-23 (2006)
+            DOI:10.1152/physrev.00015.2005
+REFERENCE   PMID:21685243
+  AUTHORS   Kuebler WM
+  TITLE     The Janus-faced regulation of endothelial permeability by cyclic GMP.
+  JOURNAL   Am J Physiol Lung Cell Mol Physiol 301:L157-60 (2011)
+            DOI:10.1152/ajplung.00192.2011
+REFERENCE   PMID:21666108
+  AUTHORS   Schlossmann J, Desch M
+  TITLE     IRAG and novel PKG targeting in the cardiovascular system.
+  JOURNAL   Am J Physiol Heart Circ Physiol 301:H672-82 (2011)
+            DOI:10.1152/ajpheart.00198.2011
+REFERENCE   PMID:16460276
+  AUTHORS   Murthy KS
+  TITLE     Signaling for contraction and relaxation in smooth muscle of the gut.
+  JOURNAL   Annu Rev Physiol 68:345-74 (2006)
+            DOI:10.1146/annurev.physiol.68.040504.094707
+REFERENCE   PMID:22965426
+  AUTHORS   Sanders KM, Koh SD, Ro S, Ward SM
+  TITLE     Regulation of gastrointestinal motility--insights from smooth muscle biology.
+  JOURNAL   Nat Rev Gastroenterol Hepatol 9:633-45 (2012)
+            DOI:10.1038/nrgastro.2012.168
+REFERENCE   PMID:20024580
+  AUTHORS   Gao Y
+  TITLE     The multiple actions of NO.
+  JOURNAL   Pflugers Arch 459:829-39 (2010)
+            DOI:10.1007/s00424-009-0773-9
+REFERENCE   PMID:9003029
+  AUTHORS   Wang X, Robinson PJ
+  TITLE     Cyclic GMP-dependent protein kinase and cellular signaling in the nervous system.
+  JOURNAL   J Neurochem 68:443-56 (1997)
+            DOI:10.1046/j.1471-4159.1997.68020443.x
+REFERENCE   PMID:19306895
+  AUTHORS   Tsai EJ, Kass DA
+  TITLE     Cyclic GMP signaling in cardiovascular pathophysiology and therapeutics.
+  JOURNAL   Pharmacol Ther 122:216-38 (2009)
+            DOI:10.1016/j.pharmthera.2009.02.009
+REFERENCE   PMID:20388537
+  AUTHORS   Villanueva C, Giulivi C
+  TITLE     Subcellular and cellular locations of nitric oxide synthase isoforms as determinants of health and disease.
+  JOURNAL   Free Radic Biol Med 49:307-16 (2010)
+            DOI:10.1016/j.freeradbiomed.2010.04.004
+REFERENCE   PMID:15894227
+  AUTHORS   Schlossmann J, Hofmann F
+  TITLE     cGMP-dependent protein kinases in drug discovery.
+  JOURNAL   Drug Discov Today 10:627-34 (2005)
+            DOI:10.1016/S1359-6446(05)03406-9
+REFERENCE   PMID:18040025
+  AUTHORS   Kass DA, Champion HC, Beavo JA
+  TITLE     Phosphodiesterase type 5: expanding roles in cardiovascular regulation.
+  JOURNAL   Circ Res 101:1084-95 (2007)
+            DOI:10.1161/CIRCRESAHA.107.162511
+REFERENCE   PMID:16815627
+  AUTHORS   Uckert S, Hedlund P, Andersson KE, Truss MC, Jonas U, Stief CG
+  TITLE     Update on phosphodiesterase (PDE) isoenzymes as pharmacologic targets in urology: present and future.
+  JOURNAL   Eur Urol 50:1194-207; discussion 1207 (2006)
+            DOI:10.1016/j.eururo.2006.05.025
+REFERENCE   PMID:12524221
+  AUTHORS   Yan C, Kim D, Aizawa T, Berk BC
+  TITLE     Functional interplay between angiotensin II and nitric oxide: cyclic GMP as a key mediator.
+  JOURNAL   Arterioscler Thromb Vasc Biol 23:26-36 (2003)
+            DOI:10.1161/01.ATV.0000046231.17365.9D
+REFERENCE   PMID:17643091
+  AUTHORS   McKinsey TA, Kass DA
+  TITLE     Small-molecule therapies for cardiac hypertrophy: moving beneath the cell surface.
+  JOURNAL   Nat Rev Drug Discov 6:617-35 (2007)
+            DOI:10.1038/nrd2193
+REFERENCE   PMID:19961855
+  AUTHORS   Koitabashi N, Aiba T, Hesketh GG, Rowell J, Zhang M, Takimoto E, Tomaselli GF, Kass DA
+  TITLE     Cyclic GMP/PKG-dependent inhibition of TRPC6 channel activity and expression negatively regulates cardiomyocyte NFAT activation Novel mechanism of cardiac stress modulation by PDE5 inhibition.
+  JOURNAL   J Mol Cell Cardiol 48:713-24 (2010)
+            DOI:10.1016/j.yjmcc.2009.11.015
+REFERENCE   PMID:18006449
+  AUTHORS   Costa AD, Pierre SV, Cohen MV, Downey JM, Garlid KD
+  TITLE     cGMP signalling in pre- and post-conditioning: the role of mitochondria.
+  JOURNAL   Cardiovasc Res 77:344-52 (2008)
+            DOI:10.1093/cvr/cvm050
+REFERENCE   PMID:19176601
+  AUTHORS   Boengler K, Schulz R, Heusch G
+  TITLE     Loss of cardioprotection with ageing.
+  JOURNAL   Cardiovasc Res 83:247-61 (2009)
+            DOI:10.1093/cvr/cvp033
+REFERENCE   PMID:18757523
+  AUTHORS   Gao Y, Portugal AD, Liu J, Negash S, Zhou W, Tian J, Xiang R, Longo LD, Raj JU
+  TITLE     Preservation of cGMP-induced relaxation of pulmonary veins of fetal lambs exposed to chronic high altitude hypoxia: role of PKG and Rho kinase.
+  JOURNAL   Am J Physiol Lung Cell Mol Physiol 295:L889-96 (2008)
+            DOI:10.1152/ajplung.00463.2007
+REFERENCE   PMID:11522789
+  AUTHORS   Li Z, Xi X, Du X
+  TITLE     A mitogen-activated protein kinase-dependent signaling pathway in the activation of platelet integrin alpha IIbbeta3.
+  JOURNAL   J Biol Chem 276:42226-32 (2001)
+            DOI:10.1074/jbc.M106129200
+REFERENCE   PMID:23212367
+  AUTHORS   Xie J, Cha SK, An SW, Kuro-O M, Birnbaumer L, Huang CL
+  TITLE     Cardioprotection by Klotho through downregulation of TRPC6 channels in the mouse heart.
+  JOURNAL   Nat Commun 3:1238 (2012)
+            DOI:10.1038/ncomms2240
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04270  Vascular smooth muscle contraction
+            hsa04744  Phototransduction
+KO_PATHWAY  ko04022
+///

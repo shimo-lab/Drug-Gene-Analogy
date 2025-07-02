@@ -1,0 +1,212 @@
+ENTRY       hsa04914                    Pathway
+NAME        Progesterone-mediated oocyte maturation - Homo sapiens (human)
+DESCRIPTION Xenopus oocytes are naturally arrested at G2 of meiosis I. Exposure to either insulin/IGF-1 or the steroid hormone progesterone breaks this arrest and induces resumption of the two meiotic division cycles and maturation of the oocyte into a mature, fertilizable egg. This process is termed oocyte maturation. The transition is accompanied by an increase in maturation promoting factor (MPF or Cdc2/cyclin B) which precedes germinal vesicle breakdown (GVBD). Most reports point towards the Mos-MEK1-ERK2 pathway [where ERK is an extracellular signal-related protein kinase, MEK is a MAPK/ERK kinase and Mos is a p42(MAPK) activator] and the polo-like kinase/CDC25 pathway as responsible for the activation of MPF in meiosis, most likely triggered by a decrease in cAMP.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04914  Progesterone-mediated oocyte maturation
+DRUG        D00066  Progesterone (JP18/USP/INN)
+            D00182  Norethindrone (USP)
+            D00289  Danazol (JP18/USP/INN)
+            D00585  Mifepristone (JAN/USAN/INN)
+            D00949  Hydroxyprogesterone caproate (JAN/USP/INN)
+            D00950  Levonorgestrel (JAN/USP/INN)
+            D00951  Medroxyprogesterone acetate (JP18/USP)
+            D00952  Megestrol acetate (USP)
+            D00953  Norethindrone acetate (USP)
+            D00954  Norgestrel (JP18/USP/INN)
+            D01159  Gestonorone caproate (JAN/USAN)
+            D01217  Dydrogesterone (JP18/USP/INN)
+            D01294  Ethynodiol diacetate (JAN/USP)
+            D01299  Chlormadinone acetate (JP18/USAN)
+            D01374  Allylestrenol (JAN/INN)
+            D01580  Lynestrenol (JAN/USAN)
+            D02367  Desogestrel (USAN/INN)
+            D02996  Asoprisnil (USAN/INN)
+            D03799  Dienogest (JAN/USAN/INN)
+            D03917  Drospirenone (JAN/USP/INN)
+            D04104  Etonogestrel (USAN/INN)
+            D04315  Gestaclone (USAN/INN)
+            D04316  Gestodene (USAN/INN)
+            D04885  Medrogestone (USAN/INN)
+            D05003  Methynodiol diacetate (USAN)
+            D05009  Metogest (USAN/INN)
+            D05205  Norelgestromin (USP/INN)
+            D05207  Norethynodrel (USAN)
+            D05209  Norgestimate (USP/INN)
+            D05308  Oxogestone phenpropionate (USAN)
+            D05679  Quingestanol acetate (USAN)
+            D05680  Quingestrone (USAN/INN)
+            D06003  Tanaproget (USAN/INN)
+            D06145  Tigestol (USAN/INN)
+            D06197  Tosagestin (USAN/INN)
+            D06235  Trimegestone (USAN/INN)
+            D07096  Aglepristone (INN)
+            D07220  Norgestrienone (INN)
+            D07222  Nomegestrol (USAN/INN)
+            D07223  Demegestone (INN)
+            D07670  Chlormadinone (INN)
+            D07939  Etynodiol (INN)
+            D07968  Flugestone (INN)
+            D08052  Hydroxyprogesterone (INN)
+            D08053  Hydroxyprogesterone 17alfa-acetate
+            D08166  Medroxyprogesterone (INN)
+            D08167  Megestrol (INN)
+            D08281  Nomegestrol acetate (USAN)
+            D08285  Norethisterone enantate
+            D08431  Promegestone (INN)
+            D09567  Ulipristal (USAN/INN)
+            D09571  Onapristone (INN)
+            D09687  Ulipristal acetate (JAN/USAN)
+            D09972  Telapristone acetate (USAN)
+            D10986  Segesterone acetate (USAN)
+            D10987  Segesterone (USAN/INN)
+            D11181  Vilaprisan (JAN/USAN/INN)
+DBLINKS     GO: 0001556
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5241  PGR; progesterone receptor [KO:K08556]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            6790  AURKA; aurora kinase A [KO:K11481] [EC:2.7.11.1]
+            64506  CPEB1; cytoplasmic polyadenylation element binding protein 1 [KO:K02602]
+            132864  CPEB2; cytoplasmic polyadenylation element binding protein 2 [KO:K02602]
+            22849  CPEB3; cytoplasmic polyadenylation element binding protein 3 [KO:K02602]
+            80315  CPEB4; cytoplasmic polyadenylation element binding protein 4 [KO:K02602]
+            245711  SPDYA; speedy/RINGO cell cycle regulator family member A [KO:K08694]
+            387778  SPDYC; speedy/RINGO cell cycle regulator family member C [KO:K08694]
+            100310812  SPDYE2B; speedy/RINGO cell cycle regulator family member E2B [KO:K08694]
+            100505767  SPDYE18; speedy/RINGO cell cycle regulator family member E18 [KO:K08694]
+            100996746  SPDYE11; speedy/RINGO cell cycle regulator family member E11 [KO:K08694]
+            102723555  SPDYE16; speedy/RINGO cell cycle regulator family member E16 [KO:K08694]
+            102723849  SPDYE17; speedy/RINGO cell cycle regulator family member E17 [KO:K08694]
+            285955  SPDYE1; speedy/RINGO cell cycle regulator family member E1 [KO:K08694]
+            388333  SPDYE4; speedy/RINGO cell cycle regulator family member E4 [KO:K08694]
+            441272  SPDYE3; speedy/RINGO cell cycle regulator family member E3 [KO:K08694]
+            441273  SPDYE2; speedy/RINGO cell cycle regulator family member E2 [KO:K08694]
+            442590  SPDYE5; speedy/RINGO cell cycle regulator family member E5 [KO:K08694]
+            729597  SPDYE6; speedy/RINGO cell cycle regulator family member E6 [KO:K08694]
+            105180391  SPDYE15; speedy/RINGO cell cycle regulator family member E15 [KO:K08694]
+            1017  CDK2; cyclin dependent kinase 2 [KO:K02206] [EC:2.7.11.22]
+            983  CDK1; cyclin dependent kinase 1 [KO:K02087] [EC:2.7.11.22 2.7.11.23]
+            890  CCNA2; cyclin A2 [KO:K06627]
+            8900  CCNA1; cyclin A1 [KO:K06627]
+            4342  MOS; MOS proto-oncogene, serine/threonine kinase [KO:K04367] [EC:2.7.11.1]
+            3320  HSP90AA1; heat shock protein 90 alpha family class A member 1 [KO:K04079]
+            3326  HSP90AB1; heat shock protein 90 alpha family class B member 1 [KO:K04079]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            6197  RPS6KA3; ribosomal protein S6 kinase A3 [KO:K04373] [EC:2.7.11.1]
+            6195  RPS6KA1; ribosomal protein S6 kinase A1 [KO:K04373] [EC:2.7.11.1]
+            6196  RPS6KA2; ribosomal protein S6 kinase A2 [KO:K04373] [EC:2.7.11.1]
+            27330  RPS6KA6; ribosomal protein S6 kinase A6 [KO:K04373] [EC:2.7.11.1]
+            9088  PKMYT1; protein kinase, membrane associated tyrosine/threonine 1 [KO:K06633] [EC:2.7.11.1]
+            891  CCNB1; cyclin B1 [KO:K05868]
+            9133  CCNB2; cyclin B2 [KO:K21770]
+            85417  CCNB3; cyclin B3 [KO:K21771]
+            6793  STK10; serine/threonine kinase 10 [KO:K08837] [EC:2.7.11.1]
+            5347  PLK1; polo like kinase 1 [KO:K06631] [EC:2.7.11.21]
+            993  CDC25A; cell division cycle 25A [KO:K06645] [EC:3.1.3.48]
+            994  CDC25B; cell division cycle 25B [KO:K05866] [EC:3.1.3.48]
+            995  CDC25C; cell division cycle 25C [KO:K05867] [EC:3.1.3.48]
+            3630  INS; insulin [KO:K04526]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            5140  PDE3B; phosphodiesterase 3B [KO:K13296] [EC:3.1.4.17]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            699  BUB1; BUB1 mitotic checkpoint serine/threonine kinase [KO:K02178] [EC:2.7.11.1]
+            8379  MAD1L1; mitotic arrest deficient 1 like 1 [KO:K06679]
+            4085  MAD2L1; mitotic arrest deficient 2 like 1 [KO:K02537]
+            10459  MAD2L2; mitotic arrest deficient 2 like 2 [KO:K13728]
+            51343  FZR1; fizzy and cell division cycle 20 related 1 [KO:K03364]
+            64682  ANAPC1; anaphase promoting complex subunit 1 [KO:K03348]
+            29882  ANAPC2; anaphase promoting complex subunit 2 [KO:K03349]
+            996  CDC27; cell division cycle 27 [KO:K03350]
+            29945  ANAPC4; anaphase promoting complex subunit 4 [KO:K03351]
+            51433  ANAPC5; anaphase promoting complex subunit 5 [KO:K03352]
+            8881  CDC16; cell division cycle 16 [KO:K03353]
+            51434  ANAPC7; anaphase promoting complex subunit 7 [KO:K03354]
+            8697  CDC23; cell division cycle 23 [KO:K03355]
+            10393  ANAPC10; anaphase promoting complex subunit 10 [KO:K03357]
+            51529  ANAPC11; anaphase promoting complex subunit 11 [KO:K03358]
+            246184  CDC26; cell division cycle 26 [KO:K03359]
+            25847  ANAPC13; anaphase promoting complex subunit 13 [KO:K12456]
+            25906  ANAPC15; anaphase promoting complex subunit 15 [KO:K25228]
+            119504  ANAPC16; anaphase promoting complex subunit 16 [KO:K25229]
+            3835  KIF22; kinesin family member 22 [KO:K10403]
+COMPOUND    C00410  Progesterone
+            C00575  3',5'-Cyclic AMP
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C11554  1-Phosphatidyl-1D-myo-inositol 3,4-bisphosphate
+REFERENCE   PMID:12045215
+  AUTHORS   Schmitt A, Nebreda AR.
+  TITLE     Signalling pathways in oocyte meiotic maturation.
+  JOURNAL   J Cell Sci 115:2457-9 (2002)
+REFERENCE   PMID:12084906
+  AUTHORS   Cato AC, Nestl A, Mink S.
+  TITLE     Rapid actions of steroid receptors in cellular signaling pathways.
+  JOURNAL   Sci STKE 2002:RE9 (2002)
+            DOI:10.1126/stke.2002.138.re9
+REFERENCE   PMID:11730319
+  AUTHORS   Maller JL, Schwab MS, Roberts BT, Gross SD, Taieb FE, Tunquist BJ.
+  TITLE     The pathway of MAP kinase mediation of CSF arrest in Xenopus oocytes.
+  JOURNAL   Biol Cell 93:27-33 (2001)
+            DOI:10.1016/S0248-4900(01)01127-3
+REFERENCE   PMID:11063930
+  AUTHORS   Nebreda AR, Ferby I.
+  TITLE     Regulation of the meiotic cell cycle in oocytes.
+  JOURNAL   Curr Opin Cell Biol 12:666-75 (2000)
+            DOI:10.1016/S0955-0674(00)00150-2
+REFERENCE   PMID:10497333
+  AUTHORS   Ferrell JE Jr.
+  TITLE     Xenopus oocyte maturation: new lessons from a good egg.
+  JOURNAL   Bioessays 21:833-42 (1999)
+            DOI:10.1002/(SICI)1521-1878(199910)21:10<833::AID-BIES5>3.0.CO;2-P
+REFERENCE   PMID:12374568
+  AUTHORS   Andersen CB, Sakaue H, Nedachi T, Kovacina KS, Clayberger C, Conti M, Roth RA.
+  TITLE     Protein kinase B/Akt is essential for the insulin- but not progesterone-stimulated resumption of meiosis in Xenopus oocytes.
+  JOURNAL   Biochem J 369:227-38 (2003)
+            DOI:10.1042/BJ20021243
+REFERENCE   PMID:12477927
+  AUTHORS   Duckworth BC, Weaver JS, Ruderman JV.
+  TITLE     G2 arrest in Xenopus oocytes depends on phosphorylation of cdc25 by protein kinase A.
+  JOURNAL   Proc Natl Acad Sci U S A 99:16794-9 (2002)
+            DOI:10.1073/pnas.222661299
+REFERENCE   PMID:11148128
+  AUTHORS   Abrieu A, Doree M, Fisher D.
+  TITLE     The interplay between cyclin-B-Cdc2 kinase (MPF) and MAP kinase during maturation of oocytes.
+  JOURNAL   J Cell Sci 114:257-67 (2001)
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04110  Cell cycle
+KO_PATHWAY  ko04914
+///

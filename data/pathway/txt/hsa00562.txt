@@ -1,0 +1,150 @@
+ENTRY       hsa00562                    Pathway
+NAME        Inositol phosphate metabolism - Homo sapiens (human)
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP hsa00562  Inositol phosphate metabolism
+MODULE      hsa_M00130  Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4 [PATH:hsa00562]
+            hsa_M00131  Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol [PATH:hsa00562]
+            hsa_M00132  Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate [PATH:hsa00562]
+DRUG        D11158  Leniolisib (USAN/INN)
+            D11159  Leniolisib phosphate (USAN)
+            D11319  Fimepinostat (USAN/INN)
+            D11322  Umbralisib (USAN/INN)
+            D11323  Umbralisib tosylate (USAN)
+DBLINKS     GO: 0006020
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5289  PIK3C3; phosphatidylinositol 3-kinase catalytic subunit type 3 [KO:K00914] [EC:2.7.1.137]
+            4534  MTM1; myotubularin 1 [KO:K01108] [EC:3.1.3.64 3.1.3.95]
+            8776  MTMR1; myotubularin related protein 1 [KO:K18081] [EC:3.1.3.64 3.1.3.95]
+            8898  MTMR2; myotubularin related protein 2 [KO:K18081] [EC:3.1.3.64 3.1.3.95]
+            8897  MTMR3; myotubularin related protein 3 [KO:K18082] [EC:3.1.3.48 3.1.3.64 3.1.3.95]
+            9110  MTMR4; myotubularin related protein 4 [KO:K18082] [EC:3.1.3.48 3.1.3.64 3.1.3.95]
+            55613  MTMR8; myotubularin related protein 8 [KO:K18083] [EC:3.1.3.64 3.1.3.95]
+            9107  MTMR6; myotubularin related protein 6 [KO:K18083] [EC:3.1.3.64 3.1.3.95]
+            9108  MTMR7; myotubularin related protein 7 [KO:K18083] [EC:3.1.3.64 3.1.3.95]
+            64419  MTMR14; myotubularin related protein 14 [KO:K18086] [EC:3.1.3.64 3.1.3.95]
+            5297  PI4KA; phosphatidylinositol 4-kinase alpha [KO:K00888] [EC:2.7.1.67]
+            5298  PI4KB; phosphatidylinositol 4-kinase beta [KO:K19801] [EC:2.7.1.67]
+            55361  PI4K2A; phosphatidylinositol 4-kinase type 2 alpha [KO:K13711] [EC:2.7.1.67]
+            55300  PI4K2B; phosphatidylinositol 4-kinase type 2 beta [KO:K13711] [EC:2.7.1.67]
+            22908  SACM1L; SAC1 like phosphatidylinositide phosphatase [KO:K21797] [EC:3.1.3.-]
+            22876  INPP5F; inositol polyphosphate-5-phosphatase F [KO:K21798] [EC:3.1.3.-]
+            23396  PIP5K1C; phosphatidylinositol-4-phosphate 5-kinase type 1 gamma [KO:K00889] [EC:2.7.1.68]
+            8394  PIP5K1A; phosphatidylinositol-4-phosphate 5-kinase type 1 alpha [KO:K00889] [EC:2.7.1.68]
+            8395  PIP5K1B; phosphatidylinositol-4-phosphate 5-kinase type 1 beta [KO:K00889] [EC:2.7.1.68]
+            138429  PIP5KL1; phosphatidylinositol-4-phosphate 5-kinase like 1 [KO:K13712] [EC:2.7.1.68]
+            4952  OCRL; OCRL inositol polyphosphate-5-phosphatase [KO:K01099] [EC:3.1.3.36]
+            3633  INPP5B; inositol polyphosphate-5-phosphatase B [KO:K01099] [EC:3.1.3.36]
+            56623  INPP5E; inositol polyphosphate-5-phosphatase E [KO:K20278] [EC:3.1.3.36]
+            8867  SYNJ1; synaptojanin 1 [KO:K20279] [EC:3.1.3.36]
+            8871  SYNJ2; synaptojanin 2 [KO:K20279] [EC:3.1.3.36]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5294  PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [KO:K21289] [EC:2.7.1.153]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            3635  INPP5D; inositol polyphosphate-5-phosphatase D [KO:K03084] [EC:3.1.3.86]
+            3636  INPPL1; inositol polyphosphate phosphatase like 1 [KO:K15909] [EC:3.1.3.86]
+            5288  PIK3C2G; phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 gamma [KO:K00923] [EC:2.7.1.154]
+            5286  PIK3C2A; phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha [KO:K00923] [EC:2.7.1.154]
+            5287  PIK3C2B; phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 beta [KO:K00923] [EC:2.7.1.154]
+            3631  INPP4A; inositol polyphosphate-4-phosphatase type I A [KO:K01109] [EC:3.1.3.66]
+            8821  INPP4B; inositol polyphosphate-4-phosphatase type II B [KO:K01109] [EC:3.1.3.66]
+            200576  PIKFYVE; phosphoinositide kinase, FYVE-type zinc finger containing [KO:K00921] [EC:2.7.1.150]
+            9896  FIG4; FIG4 phosphoinositide 5-phosphatase [KO:K22913] [EC:3.1.3.-]
+            79837  PIP4K2C; phosphatidylinositol-5-phosphate 4-kinase type 2 gamma [KO:K00920] [EC:2.7.1.149]
+            5305  PIP4K2A; phosphatidylinositol-5-phosphate 4-kinase type 2 alpha [KO:K00920] [EC:2.7.1.149]
+            8396  PIP4K2B; phosphatidylinositol-5-phosphate 4-kinase type 2 beta [KO:K00920] [EC:2.7.1.149]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5333  PLCD1; phospholipase C delta 1 [KO:K05857] [EC:3.1.4.11]
+            113026  PLCD3; phospholipase C delta 3 [KO:K05857] [EC:3.1.4.11]
+            84812  PLCD4; phospholipase C delta 4 [KO:K05857] [EC:3.1.4.11]
+            51196  PLCE1; phospholipase C epsilon 1 [KO:K05860] [EC:3.1.4.11]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            89869  PLCZ1; phospholipase C zeta 1 [KO:K05861] [EC:3.1.4.11]
+            23007  PLCH1; phospholipase C eta 1 [KO:K19006] [EC:3.1.4.11]
+            9651  PLCH2; phospholipase C eta 2 [KO:K19006] [EC:3.1.4.11]
+            3613  IMPA2; inositol monophosphatase 2 [KO:K01092] [EC:3.1.3.25]
+            3612  IMPA1; inositol monophosphatase 1 [KO:K01092] [EC:3.1.3.25]
+            10423  CDIPT; CDP-diacylglycerol--inositol 3-phosphatidyltransferase [KO:K00999] [EC:2.7.8.11]
+            51477  ISYNA1; inositol-3-phosphate synthase 1 [KO:K01858] [EC:5.5.1.4]
+            3628  INPP1; inositol polyphosphate-1-phosphatase [KO:K01107] [EC:3.1.3.57]
+            3632  INPP5A; inositol polyphosphate-5-phosphatase A [KO:K01106] [EC:3.1.3.56]
+            51763  INPP5K; inositol polyphosphate-5-phosphatase K [KO:K24222] [EC:3.1.3.56]
+            27124  INPP5J; inositol polyphosphate-5-phosphatase J [KO:K24222] [EC:3.1.3.56]
+            9562  MINPP1; multiple inositol-polyphosphate phosphatase 1 [KO:K03103] [EC:3.1.3.62 3.1.3.80]
+            3707  ITPKB; inositol-trisphosphate 3-kinase B [KO:K00911] [EC:2.7.1.127]
+            3706  ITPKA; inositol-trisphosphate 3-kinase A [KO:K00911] [EC:2.7.1.127]
+            80271  ITPKC; inositol-trisphosphate 3-kinase C [KO:K00911] [EC:2.7.1.127]
+            3705  ITPK1; inositol-tetrakisphosphate 1-kinase [KO:K00913] [EC:2.7.1.159 2.7.1.134]
+            253430  IPMK; inositol polyphosphate multikinase [KO:K00915] [EC:2.7.1.140 2.7.1.151]
+            64768  IPPK; inositol-pentakisphosphate 2-kinase [KO:K10572] [EC:2.7.1.158]
+            55586  MIOX; myo-inositol oxygenase [KO:K00469] [EC:1.13.99.1]
+            4329  ALDH6A1; aldehyde dehydrogenase 6 family member A1 [KO:K00140] [EC:1.2.1.18 1.2.1.27]
+            7167  TPI1; triosephosphate isomerase 1 [KO:K01803] [EC:5.3.1.1]
+COMPOUND    C00024  Acetyl-CoA
+            C00092  D-Glucose 6-phosphate
+            C00111  Glycerone phosphate
+            C00118  D-Glyceraldehyde 3-phosphate
+            C00137  myo-Inositol
+            C00191  D-Glucuronate
+            C00222  3-Oxopropanoate
+            C00558  D-Tagaturonate
+            C00641  1,2-Diacyl-sn-glycerol
+            C00691  2,4,6/3,5-Pentahydroxycyclohexanone
+            C01177  Inositol 1-phosphate
+            C01194  1-Phosphatidyl-D-myo-inositol
+            C01204  Phytic acid
+            C01220  1D-myo-Inositol 1,4-bisphosphate
+            C01243  1D-myo-Inositol 1,3,4-trisphosphate
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01272  1D-myo-Inositol 1,3,4,5-tetrakisphosphate
+            C01277  1-Phosphatidyl-1D-myo-inositol 4-phosphate
+            C01284  1D-myo-Inositol 1,3,4,5,6-pentakisphosphate
+            C03546  myo-Inositol 4-phosphate
+            C03659  D-Bornesitol
+            C03660  L-Bornesitol
+            C04006  1D-myo-Inositol 3-phosphate
+            C04062  D-myo-Inositol 1,3-bisphosphate
+            C04063  D-myo-Inositol 3,4-bisphosphate
+            C04287  3D-3,5/4-Trihydroxycyclohexane-1,2-dione
+            C04477  1D-myo-Inositol 1,3,4,6-tetrakisphosphate
+            C04520  1D-myo-Inositol 3,4,5,6-tetrakisphosphate
+            C04549  1-Phosphatidyl-1D-myo-inositol 3-phosphate
+            C04563  D-myo-Inositol 1,2,4,5,6-pentakisphosphate
+            C04579  Inositol 1,2,3,5,6-pentakisphosphate
+            C04637  1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C06153  scyllo-Inositol
+            C06892  2-Deoxy-5-keto-D-gluconic acid
+            C06893  2-Deoxy-5-keto-D-gluconic acid 6-phosphate
+            C11554  1-Phosphatidyl-1D-myo-inositol 3,4-bisphosphate
+            C11555  1D-myo-Inositol 1,4,5,6-tetrakisphosphate
+            C11556  1-Phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+            C11557  1-Phosphatidyl-1D-myo-inositol 5-phosphate
+            C16737  5-Deoxy-D-glucuronate
+            C19794  CDP-1L-myo-inositol
+            C19799  Bis(1L-myo-inositol)-3,1'-phosphate 1-phosphate
+            C19891  1D-chiro-Inositol
+            C20251  1-Keto-D-chiro-inositol
+            C21643  3-Dehydro-scyllo-inosose
+            C21644  5-Dehydro-L-gluconate
+REFERENCE   PMID:14993306
+  AUTHORS   Yoshida K, Yamaguchi M, Ikeda H, Omae K, Tsurusaki K, Fujita Y
+  TITLE     The fifth gene of the iol operon of Bacillus subtilis, iolE, encodes 2-keto-myo-inositol dehydratase.
+  JOURNAL   Microbiology 150:571-80 (2004)
+            DOI:10.1099/mic.0.26768-0
+REFERENCE   PMID:18310071
+  AUTHORS   Yoshida K, Yamaguchi M, Morinaga T, Kinehara M, Ikeuchi M, Ashida H, Fujita Y.
+  TITLE     myo-Inositol catabolism in Bacillus subtilis.
+  JOURNAL   J Biol Chem 283:10415-24 (2008)
+            DOI:10.1074/jbc.M708043200
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00040  Pentose and glucuronate interconversions
+            hsa00564  Glycerophospholipid metabolism
+KO_PATHWAY  ko00562
+///

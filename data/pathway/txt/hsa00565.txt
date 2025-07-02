@@ -1,0 +1,106 @@
+ENTRY       hsa00565                    Pathway
+NAME        Ether lipid metabolism - Homo sapiens (human)
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP hsa00565  Ether lipid metabolism
+MODULE      hsa_M00067  Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid [PATH:hsa00565]
+DRUG        D03650  Darapladib (JAN/USAN)
+            D04368  Goxalapladib (USAN)
+            D05728  Rilapladib (USAN)
+            D08107  Varespladib (USAN/INN)
+            D08221  Varespladib methyl (USAN)
+            D11844  Ziritaxestat (USAN/INN)
+DBLINKS     GO: 0046485
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        8540  AGPS; alkylglycerone phosphate synthase [KO:K00803] [EC:2.5.1.26]
+            8611  PLPP1; phospholipid phosphatase 1 [KO:K01080] [EC:3.1.3.4]
+            8613  PLPP3; phospholipid phosphatase 3 [KO:K01080] [EC:3.1.3.4]
+            8612  PLPP2; phospholipid phosphatase 2 [KO:K01080] [EC:3.1.3.4]
+            85465  SELENOI; selenoprotein I [KO:K00993] [EC:2.7.8.1]
+            56994  CHPT1; choline phosphotransferase 1 [KO:K00994] [EC:2.7.8.2]
+            10390  CEPT1; choline/ethanolamine phosphotransferase 1 [KO:K13644] [EC:2.7.8.1 2.7.8.2]
+            387521  PEDS1; plasmanylethanolamine desaturase 1 [KO:K20656] [EC:1.14.19.77]
+            387522  PEDS1-UBE2V1; PEDS1-UBE2V1 readthrough [KO:K20656] [EC:1.14.19.77]
+            8399  PLA2G10; phospholipase A2 group X [KO:K01047] [EC:3.1.1.4]
+            26279  PLA2G2D; phospholipase A2 group IID [KO:K01047] [EC:3.1.1.4]
+            30814  PLA2G2E; phospholipase A2 group IIE [KO:K01047] [EC:3.1.1.4]
+            50487  PLA2G3; phospholipase A2 group III [KO:K01047] [EC:3.1.1.4]
+            64600  PLA2G2F; phospholipase A2 group IIF [KO:K01047] [EC:3.1.1.4]
+            81579  PLA2G12A; phospholipase A2 group XIIA [KO:K01047] [EC:3.1.1.4]
+            84647  PLA2G12B; phospholipase A2 group XIIB [KO:K01047] [EC:3.1.1.4]
+            5319  PLA2G1B; phospholipase A2 group IB [KO:K01047] [EC:3.1.1.4]
+            5322  PLA2G5; phospholipase A2 group V [KO:K01047] [EC:3.1.1.4]
+            5320  PLA2G2A; phospholipase A2 group IIA [KO:K01047] [EC:3.1.1.4]
+            391013  PLA2G2C; phospholipase A2 group IIC [KO:K01047] [EC:3.1.1.4]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            8398  PLA2G6; phospholipase A2 group VI [KO:K16343] [EC:3.1.1.4]
+            151056  PLB1; phospholipase B1 [KO:K14621] [EC:3.1.1.4 3.1.1.5]
+            11145  PLAAT3; phospholipase A and acyltransferase 3 [KO:K16817] [EC:3.1.1.32 3.1.1.4]
+            54979  PLAAT2; phospholipase A and acyltransferase 2 [KO:K16817] [EC:3.1.1.32 3.1.1.4]
+            254531  LPCAT4; lysophosphatidylcholine acyltransferase 4 [KO:K13512] [EC:2.3.1.23 2.3.1.-]
+            133121  ENPP6; ectonucleotide pyrophosphatase/phosphodiesterase 6 [KO:K08743] [EC:3.1.4.-]
+            5168  ENPP2; ectonucleotide pyrophosphatase/phosphodiesterase 2 [KO:K01122] [EC:3.1.4.39]
+            79153  GDPD3; glycerophosphodiester phosphodiesterase domain containing 3 [KO:K22387] [EC:3.1.4.39]
+            284161  GDPD1; glycerophosphodiester phosphodiesterase domain containing 1 [KO:K22387] [EC:3.1.4.39]
+            255043  TMEM86B; transmembrane protein 86B [KO:K18575] [EC:3.3.2.2]
+            5337  PLD1; phospholipase D1 [KO:K01115] [EC:3.1.4.4]
+            5338  PLD2; phospholipase D2 [KO:K01115] [EC:3.1.4.4]
+            23646  PLD3; phospholipase D family member 3 [KO:K16860] [EC:3.1.4.4]
+            122618  PLD4; phospholipase D family member 4 [KO:K16860] [EC:3.1.4.4]
+            7368  UGT8; UDP glycosyltransferase 8 [KO:K04628] [EC:2.4.1.47]
+            9514  GAL3ST1; galactose-3-O-sulfotransferase 1 [KO:K01019] [EC:2.8.2.11]
+            54947  LPCAT2; lysophosphatidylcholine acyltransferase 2 [KO:K13510] [EC:2.3.1.23 2.3.1.67]
+            79888  LPCAT1; lysophosphatidylcholine acyltransferase 1 [KO:K13510] [EC:2.3.1.23 2.3.1.67]
+            5048  PAFAH1B1; platelet activating factor acetylhydrolase 1b regulatory subunit 1 [KO:K16794]
+            5049  PAFAH1B2; platelet activating factor acetylhydrolase 1b catalytic subunit 2 [KO:K16795] [EC:3.1.1.47]
+            5050  PAFAH1B3; platelet activating factor acetylhydrolase 1b catalytic subunit 3 [KO:K16795] [EC:3.1.1.47]
+            7941  PLA2G7; phospholipase A2 group VII [KO:K01062] [EC:3.1.1.47]
+            5051  PAFAH2; platelet activating factor acetylhydrolase 2 [KO:K01062] [EC:3.1.1.47]
+COMPOUND    C00670  sn-Glycero-3-phosphocholine
+            C00958  Plasmenylcholine
+            C01233  sn-Glycero-3-phosphoethanolamine
+            C01264  2-Acetyl-1-alkyl-sn-glycero-3-phosphate
+            C02773  1-Alkyl-sn-glycerol
+            C03201  1-Alkyl-2-acylglycerol
+            C03372  Acylglycerone phosphate
+            C03454  1-Alkenyl-2-acylglycerol
+            C03715  O-Alkylglycerone phosphate
+            C03820  1-Alkyl-2-acetyl-sn-glycerol
+            C03968  1-Alkyl-sn-glycero-3-phosphate
+            C04317  1-Organyl-2-lyso-sn-glycero-3-phosphocholine
+            C04361  1-O-Alkyl-2-acetyl-3-acyl-sn-glycerol
+            C04475  1-Alkyl-2-acylglycerophosphoethanolamine
+            C04517  1-(1-Alkenyl)-sn-glycero-3-phosphocholine
+            C04598  2-Acetyl-1-alkyl-sn-glycero-3-phosphocholine
+            C04635  1-(1-Alkenyl)-sn-glycero-3-phosphoethanolamine
+            C04756  O-1-Alk-1-enyl-2-acyl-sn-glycero-3-phosphoethanolamine
+            C05212  1-Radyl-2-acyl-sn-glycero-3-phosphocholine
+            C05977  2-Acyl-1-alkyl-sn-glycero-3-phosphate
+            C15645  1-(1-Alkenyl)-sn-glycerol
+            C15646  1-(1-Alkenyl)-sn-glycero-3-phosphate
+            C15647  2-Acyl-1-(1-alkenyl)-sn-glycero-3-phosphate
+            C20825  Seminolipid
+            C20859  Galactosyl-1-alkyl-2-acylglycerol
+REFERENCE   PMID:11275267
+  AUTHORS   Nagan N, Zoeller RA.
+  TITLE     Plasmalogens: biosynthesis and functions.
+  JOURNAL   Prog Lipid Res 40:199-229 (2001)
+            DOI:10.1016/S0163-7827(01)00003-0
+REFERENCE   PMID:11015622
+  AUTHORS   Montrucchio G, Alloatti G, Camussi G.
+  TITLE     Role of platelet-activating factor in cardiovascular pathophysiology.
+  JOURNAL   Physiol Rev 80:1669-99 (2000)
+            DOI:10.1152/physrev.2000.80.4.1669
+REFERENCE   PMID:15788404
+  AUTHORS   Sakagami H, Aoki J, Natori Y, Nishikawa K, Kakehi Y, Natori Y, Arai H.
+  TITLE     Biochemical and molecular characterization of a novel choline-specific glycerophosphodiester phosphodiesterase belonging to the nucleotide pyrophosphatase/phosphodiesterase family.
+  JOURNAL   J Biol Chem 280:23084-93 (2005)
+            DOI:10.1074/jbc.M413438200
+REL_PATHWAY hsa00564  Glycerophospholipid metabolism
+KO_PATHWAY  ko00565
+///

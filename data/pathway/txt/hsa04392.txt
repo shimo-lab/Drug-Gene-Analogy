@@ -1,0 +1,109 @@
+ENTRY       hsa04392                    Pathway
+NAME        Hippo signaling pathway - multiple species - Homo sapiens (human)
+DESCRIPTION Hippo signaling pathways control diverse aspects of cell proliferation, survival, and morphogenesis in eukaryotes. The core organization of these networks is conserved over a billion years of evolution, with related forms described in animals and fungi. In Drosophila and mammals, Hippo/MST co-operate with Mats/Mob1 and Salvador/WW45 to activate Warts/LATS, which negatively regulates Yorkie/YAP. Yorkie/YAP interact with Scalloped/TEAD to promote gene transcriptions and control organ size through the balance between cell proliferation and apoptosis. In C. elegans, WTS-1 YAP-1 EGL-44 axis is conserved and regulates thermotolerance and healthy lifespan. In S. cerevisiae, the LATS-related Dbf2 or Dbf20 kinase in complex with Mob1 controls mitotic exit and cytokinesis, and the Hippo/MST family of kinases, STE-20, modulates Tec1, the putative yeast TEAD ortholog.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP hsa04392  Hippo signaling pathway - multiple species
+DBLINKS     GO: 0035329
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        8642  DCHS1; dachsous cadherin-related 1 [KO:K16507]
+            54798  DCHS2; dachsous cadherin-related 2 [KO:K16507]
+            79633  FAT4; FAT atypical cadherin 4 [KO:K16669]
+            1454  CSNK1E; casein kinase 1 epsilon [KO:K08960] [EC:2.7.11.1]
+            102800317  TPTEP2-CSNK1E; TPTEP2-CSNK1E readthrough [KO:K08960] [EC:2.7.11.1]
+            4771  NF2; NF2, moesin-ezrin-radixin like (MERLIN) tumor suppressor [KO:K16684]
+            23286  WWC1; WW and C2 domain containing 1 [KO:K16685]
+            79981  FRMD1; FERM domain containing 1 [KO:K16821]
+            122786  FRMD6; FERM domain containing 6 [KO:K16822]
+            11186  RASSF1; Ras association domain family member 1 [KO:K09850]
+            166824  RASSF6; Ras association domain family member 6 [KO:K09854]
+            6788  STK3; serine/threonine kinase 3 [KO:K04412]
+            60485  SAV1; salvador family WW domain containing protein 1 [KO:K16686]
+            26524  LATS2; large tumor suppressor kinase 2 [KO:K08791] [EC:2.7.11.1]
+            9113  LATS1; large tumor suppressor kinase 1 [KO:K08791] [EC:2.7.11.1]
+            55233  MOB1A; MOB kinase activator 1A [KO:K06685]
+            92597  MOB1B; MOB kinase activator 1B [KO:K06685]
+            8994  LIMD1; LIM domain containing 1 [KO:K16682]
+            84962  AJUBA; ajuba LIM protein [KO:K16682]
+            126374  WTIP; WT1 interacting protein [KO:K16682]
+            10413  YAP1; Yes1 associated transcriptional regulator [KO:K16687]
+            25937  WWTR1; WW domain containing transcription regulator 1 [KO:K16820]
+            7003  TEAD1; TEA domain transcription factor 1 [KO:K09448]
+            7004  TEAD4; TEA domain transcription factor 4 [KO:K09448]
+            7005  TEAD3; TEA domain transcription factor 3 [KO:K09448]
+            8463  TEAD2; TEA domain transcription factor 2 [KO:K09448]
+            9770  RASSF2; Ras association domain family member 2 [KO:K09851]
+            83937  RASSF4; Ras association domain family member 4 [KO:K09851]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+REFERENCE   PMID:21415026
+  AUTHORS   Hilman D, Gat U
+  TITLE     The evolutionary history of YAP and the hippo/YAP pathway.
+  JOURNAL   Mol Biol Evol 28:2403-17 (2011)
+            DOI:10.1093/molbev/msr065
+REFERENCE   PMID:24715453
+  AUTHORS   Varelas X
+  TITLE     The Hippo pathway effectors TAZ and YAP in development, homeostasis and disease.
+  JOURNAL   Development 141:1614-26 (2014)
+            DOI:10.1242/dev.102376
+REFERENCE   PMID:21808241
+  AUTHORS   Zhao B, Tumaneng K, Guan KL
+  TITLE     The Hippo pathway in organ size control, tissue regeneration and stem cell self-renewal.
+  JOURNAL   Nat Cell Biol 13:877-83 (2011)
+            DOI:10.1038/ncb2303
+REFERENCE   PMID:21138973
+  AUTHORS   Halder G, Johnson RL
+  TITLE     Hippo signaling: growth control and beyond.
+  JOURNAL   Development 138:9-22 (2011)
+            DOI:10.1242/dev.045500
+REFERENCE   PMID:20951342
+  AUTHORS   Pan D
+  TITLE     The hippo signaling pathway in development and cancer.
+  JOURNAL   Dev Cell 19:491-505 (2010)
+            DOI:10.1016/j.devcel.2010.09.011
+REFERENCE   PMID:20439427
+  AUTHORS   Zhao B, Li L, Lei Q, Guan KL
+  TITLE     The Hippo-YAP pathway in organ size control and tumorigenesis: an updated version.
+  JOURNAL   Genes Dev 24:862-74 (2010)
+            DOI:10.1101/gad.1909210
+REFERENCE   PMID:22830020
+  AUTHORS   Fausti F, Di Agostino S, Sacconi A, Strano S, Blandino G
+  TITLE     Hippo and rassf1a Pathways: A Growing Affair.
+  JOURNAL   Mol Biol Int 2012:307628 (2012)
+            DOI:10.1155/2012/307628
+REFERENCE   PMID:25966461
+  AUTHORS   Gogl G, Schneider KD, Yeh BJ, Alam N, Nguyen Ba AN, Moses AM, Hetenyi C, Remenyi A, Weiss EL
+  TITLE     The Structure of an NDR/LATS Kinase-Mob Complex Reveals a Novel Kinase-Coactivator System and Substrate Docking Mechanism.
+  JOURNAL   PLoS Biol 13:e1002146 (2015)
+            DOI:10.1371/journal.pbio.1002146
+REFERENCE   PMID:23396260
+  AUTHORS   Iwasa H, Maimaiti S, Kuroyanagi H, Kawano S, Inami K, Timalsina S, Ikeda M, Nakagawa K, Hata Y
+  TITLE     Yes-associated protein homolog, YAP-1, is involved in the thermotolerance and aging in the nematode Caenorhabditis elegans.
+  JOURNAL   Exp Cell Res 319:931-45 (2013)
+            DOI:10.1016/j.yexcr.2013.01.020
+REFERENCE   PMID:23843471
+  AUTHORS   Yang Z, Hata Y
+  TITLE     What is the Hippo pathway? Is the Hippo pathway conserved in Caenorhabditis elegans?
+  JOURNAL   J Biochem 154:207-9 (2013)
+            DOI:10.1093/jb/mvt060
+REFERENCE   PMID:24594661
+  AUTHORS   Hotz M, Barral Y
+  TITLE     The Mitotic Exit Network: new turns on old pathways.
+  JOURNAL   Trends Cell Biol 24:145-52 (2014)
+            DOI:10.1016/j.tcb.2013.09.010
+REFERENCE   PMID:23579499
+  AUTHORS   Rock JM, Lim D, Stach L, Ogrodowicz RW, Keck JM, Jones MH, Wong CC, Yates JR 3rd, Winey M, Smerdon SJ, Yaffe MB, Amon A
+  TITLE     Activation of the yeast Hippo pathway by phosphorylation-dependent assembly of signaling complexes.
+  JOURNAL   Science 340:871-5 (2013)
+            DOI:10.1126/science.1235822
+REFERENCE   PMID:22525225
+  AUTHORS   Hergovich A, Hemmings BA
+  TITLE     Hippo signalling in the G2/M cell cycle phase: lessons learned from the yeast MEN and SIN pathways.
+  JOURNAL   Semin Cell Dev Biol 23:794-802 (2012)
+            DOI:10.1016/j.semcdb.2012.04.001
+REFERENCE   PMID:19826484
+  AUTHORS   Wang Y, Abu Irqeba A, Ayalew M, Suntay K
+  TITLE     Sumoylation of transcription factor Tec1 regulates signaling of mitogen-activated protein kinase pathways in yeast.
+  JOURNAL   PLoS One 4:e7456 (2009)
+            DOI:10.1371/journal.pone.0007456
+REL_PATHWAY hsa04390  Hippo signaling pathway
+KO_PATHWAY  ko04392
+///

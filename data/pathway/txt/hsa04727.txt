@@ -1,0 +1,318 @@
+ENTRY       hsa04727                    Pathway
+NAME        GABAergic synapse - Homo sapiens (human)
+DESCRIPTION Gamma aminobutyric acid (GABA) is the most abundant inhibitory neurotransmitter in the mammalian central nervous system (CNS). When released in the synaptic cleft, GABA binds to three major classes of receptors: GABAA, GABAB, and GABAC receptors. GABAA and GABAC receptors are ionotropic and mediate fast GABA responses by triggering chloride channel openings, while GABAB receptors are metabotropic and mediate slower GABA responses by activating G-proteins and influencing second messenger systems. GABAA receptors, the major sites for fast inhibitory neurotransmission in the CNS, are regulated by phosphorylation mechanisms, affecting both their functional properties and their cell surface mobility and trafficking. GABA release by the presynaptic terminal is negatively regulated by GABAB autoreceptors, and is cleared from the extracellular space by GABA transporters (GATs) located either on the presynaptic terminal or neighboring glial cells.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP hsa04727  GABAergic synapse
+DRUG        D00058  gamma-Aminobutyric acid (JAN)
+            D00225  Alprazolam (JP18/USP/INN)
+            D00241  Baclofen (JP18/USP/INN)
+            D00267  Chlordiazepoxide (JP18/USP/INN)
+            D00280  Clonazepam (JP18/USP/INN)
+            D00293  Diazepam (JP18/USP/INN)
+            D00304  Divalproex sodium (USP)
+            D00311  Estazolam (JP18/USP/INN)
+            D00329  Flurazepam (JAN/INN)
+            D00332  Gabapentin (JAN/USP/INN)
+            D00338  Halazepam (USAN/INN)
+            D00365  Lorazepam (JP18/USP/INN)
+            D00370  Temazepam (USP/INN)
+            D00376  Meprobamate (JAN/USP/INN)
+            D00387  Triazolam (JP18/USP/INN)
+            D00399  Valproic acid (USP)
+            D00430  Secobarbital (USP/INN)
+            D00457  Quazepam (JAN/USP/INN)
+            D00464  Oxazepam (JAN/USP/INN)
+            D00470  Prazepam (JP18/USAN/INN)
+            D00499  Pentobarbital (USP/INN)
+            D00500  Pentobarbital sodium (JAN/USP)
+            D00506  Phenobarbital (JP18/USP/INN)
+            D00530  Zaleplon (JAN/USP/INN)
+            D00531  Nitrazepam (JP18/USAN/INN)
+            D00532  Glutethimide (JAN/INN)
+            D00535  Vigabatrin (JAN/USP/INN)
+            D00537  Topiramate (JAN/USP/INN)
+            D00549  Propofol (JAN/USP/INN)
+            D00550  Midazolam (JAN/USP/INN)
+            D00555  Amobarbital (JP18/INN)
+            D00693  Chlordiazepoxide hydrochloride (JAN/USP)
+            D00694  Clorazepate dipotassium (JP18/USP)
+            D00695  Flurazepam hydrochloride (USP)
+            D00696  Midazolam hydrochloride (USAN)
+            D00697  Flumazenil (JAN/USP/INN)
+            D00698  Aprobarbital (INN)
+            D00699  Butabarbital sodium (USP)
+            D00700  Mephobarbital (JAN/USP)
+            D00701  Phenobarbital sodium (JAN/USP/INN)
+            D00706  Zolpidem tartrate (JP18/USP)
+            D00710  Valproate sodium (USAN)
+            D00713  Thiamylal sodium (JP18)
+            D00714  Thiopental sodium (JP18/USP/INN)
+            D01071  Hexobarbital (JAN/INN)
+            D01150  Methyprylon (JAN/INN)
+            D01230  Flunitrazepam (JP18/USAN/INN)
+            D01245  Bromazepam (JP18/USAN/INN)
+            D01253  Clobazam (JAN/USAN/INN)
+            D01254  Tofisopam (JP18/INN)
+            D01268  Cloxazolam (JP18/INN)
+            D01278  Oxazolam (JP18/INN)
+            D01279  Flutoprazepam (JP18/INN)
+            D01286  Flutazolam (JAN/INN)
+            D01292  Medazepam (JP18/INN)
+            D01293  Ethyl loflazepate (JP18/INN)
+            D01310  Secobarbital sodium (JAN/USP)
+            D01316  Mexazolam (JAN/INN)
+            D01328  Clotiazepam (JP18/INN)
+            D01354  Fludiazepam (JP18/INN)
+            D01372  Zopiclone (JP18/INN)
+            D01382  Metharbital (JAN/INN)
+            D01408  Flurazepam hydrochloride (JP18)
+            D01514  Etizolam (JP18/INN)
+            D01564  Rilmazafone hydrochloride hydrate (JP18)
+            D01593  Nimetazepam (JAN/INN)
+            D01657  Lormetazepam (JAN/USAN/INN)
+            D01740  Barbital (JP18/INN)
+            D01744  Brotizolam (JP18/USAN/INN)
+            D01758  Haloxazolam (JP18/INN)
+            D02097  Tiagabine hydrochloride (USP)
+            D02252  Amobarbital sodium (JAN/USP)
+            D02253  Pentobarbital calcium (JP18)
+            D02283  Iomazenil (123I) (JAN/INN)
+            D02594  Abecarnil (INN)
+            D02616  Pagoclone (USAN/INN)
+            D02617  Ocinaplon (USAN/INN)
+            D02618  Butobarbital (BAN)
+            D02624  Eszopiclone (JAN/USP/INN)
+            D02640  Indiplon (USAN/INN)
+            D02770  Adinazolam (USAN/INN)
+            D02771  Adinazolam mesylate (USAN)
+            D02833  Alpidem (USAN/INN)
+            D03155  Bretazenil (USAN/INN)
+            D03180  Butabarbital (USP)
+            D03562  Clorazepate monopotassium (USAN)
+            D03584  Colforsin (USAN/INN)
+            D03737  Dextofisopam (USAN/INN)
+            D04257  Fospropofol disodium (USAN)
+            D04282  Gaboxadol (USAN/INN)
+            D04300  Ganaxolone (USAN/INN)
+            D04650  Ketazolam (USAN/INN)
+            D04721  Levotofisopam (USAN/INN)
+            D04882  Medazepam hydrochloride (USAN)
+            D05028  Midazolam maleate (USAN)
+            D05346  Panadiplon (USAN/INN)
+            D05378  Pazinaclone (USAN/INN)
+            D05621  Progabide (USAN/INN)
+            D05980  Suritozole (USAN/INN)
+            D06106  Thiamylal
+            D06887  Talbutal (INN)
+            D07298  Barbexaclone (INN)
+            D07326  Loprazolam (INN)
+            D07328  Cinolazepam (INN)
+            D07330  Clomethiazole (INN)
+            D07725  Clomethiazole edisilate
+            D07784  Delorazepam (INN)
+            D08145  Loprazolam mesilate
+            D08283  Nordazepam (INN)
+            D08356  Phenobarbital diethylamine
+            D08481  Rilmazafone (INN)
+            D08507  Sarmazenil (INN)
+            D08588  Tiagabine (INN)
+            D08667  Calcium valproate
+            D08690  Zolpidem (INN)
+            D08840  Adipiplon (USAN)
+            D08861  Arbaclofen placarbil (USAN/INN)
+            D09539  Gabapentin enacarbil (JAN/USAN/INN)
+            D09791  Arbaclofen (USAN)
+            D10194  Remimazolam besylate (USAN)
+            D11149  Brexanolone (USAN/INN)
+            D11150  Cenobamate (USAN/INN)
+            D11788  Remimazolam (USAN/INN)
+            D12146  Darigabat (USAN)
+            D12240  Valiloxybate (USAN)
+            D12382  Alogabat (USAN)
+            D12449  Cipepofol (USAN)
+DBLINKS     GO: 0051932
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        81539  SLC38A1; solute carrier family 38 member 1 [KO:K14990]
+            54407  SLC38A2; solute carrier family 38 member 2 [KO:K14207]
+            27165  GLS2; glutaminase 2 [KO:K01425] [EC:3.5.1.2]
+            2744  GLS; glutaminase [KO:K01425] [EC:3.5.1.2]
+            2571  GAD1; glutamate decarboxylase 1 [KO:K01580] [EC:4.1.1.15]
+            2572  GAD2; glutamate decarboxylase 2 [KO:K01580] [EC:4.1.1.15]
+            140679  SLC32A1; solute carrier family 32 member 1 [KO:K15015]
+            18  ABAT; 4-aminobutyrate aminotransferase [KO:K13524] [EC:2.6.1.19 2.6.1.22]
+            2554  GABRA1; gamma-aminobutyric acid type A receptor subunit alpha1 [KO:K05175]
+            2555  GABRA2; gamma-aminobutyric acid type A receptor subunit alpha2 [KO:K05175]
+            2556  GABRA3; gamma-aminobutyric acid type A receptor subunit alpha3 [KO:K05175]
+            2557  GABRA4; gamma-aminobutyric acid type A receptor subunit alpha4 [KO:K05175]
+            2558  GABRA5; gamma-aminobutyric acid type A receptor subunit alpha5 [KO:K05175]
+            2559  GABRA6; gamma-aminobutyric acid type A receptor subunit alpha6 [KO:K05175]
+            2560  GABRB1; gamma-aminobutyric acid type A receptor subunit beta1 [KO:K05181]
+            2562  GABRB3; gamma-aminobutyric acid type A receptor subunit beta3 [KO:K05181]
+            2561  GABRB2; gamma-aminobutyric acid type A receptor subunit beta2 [KO:K05181]
+            2565  GABRG1; gamma-aminobutyric acid type A receptor subunit gamma1 [KO:K05186]
+            2566  GABRG2; gamma-aminobutyric acid type A receptor subunit gamma2 [KO:K05186]
+            2567  GABRG3; gamma-aminobutyric acid type A receptor subunit gamma3 [KO:K05186]
+            2563  GABRD; gamma-aminobutyric acid type A receptor subunit delta [KO:K05184]
+            2564  GABRE; gamma-aminobutyric acid type A receptor subunit epsilon [KO:K05185]
+            55879  GABRQ; gamma-aminobutyric acid type A receptor subunit theta [KO:K05192]
+            2568  GABRP; gamma-aminobutyric acid type A receptor subunit pi [KO:K05189]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            9001  HAP1; huntingtin associated protein 1 [KO:K04647]
+            11337  GABARAP; GABA type A receptor-associated protein [KO:K08341]
+            23710  GABARAPL1; GABA type A receptor associated protein like 1 [KO:K08341]
+            11345  GABARAPL2; GABA type A receptor associated protein like 2 [KO:K08341]
+            4905  NSF; N-ethylmaleimide sensitive factor, vesicle fusing ATPase [KO:K06027] [EC:3.6.4.6]
+            66008  TRAK2; trafficking kinesin protein 2 [KO:K15374]
+            5334  PLCL1; phospholipase C like 1 (inactive) [KO:K15375]
+            10243  GPHN; gephyrin [KO:K15376] [EC:2.10.1.1 2.7.7.75]
+            57468  SLC12A5; solute carrier family 12 member 5 [KO:K23967]
+            2569  GABRR1; gamma-aminobutyric acid type A receptor subunit rho1 [KO:K05190]
+            2570  GABRR2; gamma-aminobutyric acid type A receptor subunit rho2 [KO:K05190]
+            200959  GABRR3; gamma-aminobutyric acid type A receptor subunit rho3 [KO:K05190]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            774  CACNA1B; calcium voltage-gated channel subunit alpha1 B [KO:K04849]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            2550  GABBR1; gamma-aminobutyric acid type B receptor subunit 1 [KO:K04615]
+            9568  GABBR2; gamma-aminobutyric acid type B receptor subunit 2 [KO:K04615]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            3763  KCNJ6; potassium inwardly rectifying channel subfamily J member 6 [KO:K05000]
+            6529  SLC6A1; solute carrier family 6 member 1 [KO:K05034]
+            6540  SLC6A13; solute carrier family 6 member 13 [KO:K05046]
+            6538  SLC6A11; solute carrier family 6 member 11 [KO:K05044]
+            6539  SLC6A12; solute carrier family 6 member 12 [KO:K05045]
+            2752  GLUL; glutamate-ammonia ligase [KO:K01915] [EC:6.3.1.2]
+            10991  SLC38A3; solute carrier family 38 member 3 [KO:K13576]
+            92745  SLC38A5; solute carrier family 38 member 5 [KO:K14992]
+COMPOUND    C00025  L-Glutamate
+            C00026  2-Oxoglutarate
+            C00042  Succinate
+            C00064  L-Glutamine
+            C00076  Calcium cation
+            C00238  Potassium cation
+            C00334  4-Aminobutanoate
+            C00575  3',5'-Cyclic AMP
+            C00698  Cl-
+REFERENCE   
+  AUTHORS   Davis KL, Charney D, Coyle JT, Nemeroff C (ed).
+  TITLE     Neuropsychopharmacology: The fifth generation of progress
+  JOURNAL   Lippincott Williams & Wikins (2002)
+            DOI:10.1002/hup.431
+REFERENCE   PMID:17499109
+  AUTHORS   Farrant M, Kaila K
+  TITLE     The cellular, molecular and ionic basis of GABA(A) receptor signalling.
+  JOURNAL   Prog Brain Res 160:59-87 (2007)
+            DOI:10.1016/S0079-6123(06)60005-8
+REFERENCE   PMID:9364667
+  AUTHORS   Ben-Ari Y, Khazipov R, Leinekugel X, Caillard O, Gaiarsa JL
+  TITLE     GABAA, NMDA and AMPA receptors: a developmentally regulated 'menage a trois'.
+  JOURNAL   Trends Neurosci 20:523-9 (1997)
+            DOI:10.1016/S0166-2236(97)01147-8
+REFERENCE   PMID:20655485
+  AUTHORS   Pinard A, Seddik R, Bettler B
+  TITLE     GABAB receptors: physiological functions and mechanisms of diversity.
+  JOURNAL   Adv Pharmacol 58:231-55 (2010)
+            DOI:10.1016/S1054-3589(10)58010-4
+REFERENCE   PMID:21376567
+  AUTHORS   Chalifoux JR, Carter AG
+  TITLE     GABAB receptor modulation of synaptic function.
+  JOURNAL   Curr Opin Neurobiol 21:339-44 (2011)
+            DOI:10.1016/j.conb.2011.02.004
+REFERENCE   PMID:20655481
+  AUTHORS   Padgett CL, Slesinger PA
+  TITLE     GABAB receptor coupling to G-proteins and ion channels.
+  JOURNAL   Adv Pharmacol 58:123-47 (2010)
+            DOI:10.1016/S1054-3589(10)58006-2
+REFERENCE   PMID:17499108
+  AUTHORS   Emson PC
+  TITLE     GABA(B) receptors: structure and function.
+  JOURNAL   Prog Brain Res 160:43-57 (2007)
+            DOI:10.1016/S0079-6123(06)60004-6
+REFERENCE   PMID:16932937
+  AUTHORS   Kornau HC
+  TITLE     GABA(B) receptors and synaptic modulation.
+  JOURNAL   Cell Tissue Res 326:517-33 (2006)
+            DOI:10.1007/s00441-006-0264-7
+REFERENCE   PMID:18382465
+  AUTHORS   Jacob TC, Moss SJ, Jurd R
+  TITLE     GABA(A) receptor trafficking and its role in the dynamic modulation of neuronal inhibition.
+  JOURNAL   Nat Rev Neurosci 9:331-43 (2008)
+            DOI:10.1038/nrn2370
+REFERENCE   PMID:12086709
+  AUTHORS   Kneussel M
+  TITLE     Dynamic regulation of GABA(A) receptors at synaptic sites.
+  JOURNAL   Brain Res Brain Res Rev 39:74-83 (2002)
+            DOI:10.1016/S0165-0173(02)00159-5
+REFERENCE   PMID:21555068
+  AUTHORS   Luscher B, Fuchs T, Kilpatrick CL
+  TITLE     GABAA receptor trafficking-mediated plasticity of inhibitory synapses.
+  JOURNAL   Neuron 70:385-409 (2011)
+            DOI:10.1016/j.neuron.2011.03.024
+REFERENCE   PMID:19374920
+  AUTHORS   Arancibia-Carcamo IL, Kittler JT
+  TITLE     Regulation of GABA(A) receptor membrane trafficking and synaptic localization.
+  JOURNAL   Pharmacol Ther 123:17-31 (2009)
+            DOI:10.1016/j.pharmthera.2009.03.012
+REFERENCE   PMID:16787421
+  AUTHORS   Bak LK, Schousboe A, Waagepetersen HS
+  TITLE     The glutamate/GABA-glutamine cycle: aspects of transport, neurotransmitter homeostasis and ammonia transfer.
+  JOURNAL   J Neurochem 98:641-53 (2006)
+            DOI:10.1111/j.1471-4159.2006.03913.x
+REFERENCE   PMID:15210304
+  AUTHORS   Conti F, Minelli A, Melone M
+  TITLE     GABA transporters in the mammalian cerebral cortex: localization, development and pathological implications.
+  JOURNAL   Brain Res Brain Res Rev 45:196-212 (2004)
+            DOI:10.1016/j.brainresrev.2004.03.003
+REFERENCE   PMID:12888801
+  AUTHORS   Brambilla P, Perez J, Barale F, Schettini G, Soares JC
+  TITLE     GABAergic dysfunction in mood disorders.
+  JOURNAL   Mol Psychiatry 8:721-37, 715 (2003)
+            DOI:10.1038/sj.mp.4001362
+REFERENCE   PMID:10780899
+  AUTHORS   Chebib M, Johnston GA
+  TITLE     GABA-Activated ligand gated ion channels: medicinal chemistry and molecular biology.
+  JOURNAL   J Med Chem 43:1427-47 (2000)
+            DOI:10.1021/jm9904349
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa04144  Endocytosis
+            hsa04721  Synaptic vesicle cycle
+KO_PATHWAY  ko04727
+///

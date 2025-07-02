@@ -1,0 +1,105 @@
+ENTRY       hsa05332                    Pathway
+NAME        Graft-versus-host disease - Homo sapiens (human)
+DESCRIPTION Graft-versus-host disease (GVHD) is a lethal complication of allogeneic hematopoietic stem cell transplantation (HSCT) where immunocompetent donor T cells attack the genetically disparate host cells. GVHD pathophysiology can be summerized in a three-step process. Step 1 involves the development of an inflammatory milieu resulting from damage in the host tissues induced by the preparative chemotherapy or radiotherapy regimen. Damaged tissues secrete inflammatory cytokines, including interleukin 1 (IL-1), and tumor necrosis factor (TNF-alpha ). During step 2, antigen-presenting cells (APCs) trigger the activation of donor-derived T cells, which induce further T-cell expansion, induce cytotoxic T lymphocytes (CTL) and natural killer (NK) cells responses and prime additional mononuclear phagocytes to produce TNF-alpha and IL-1. Also, nitric oxide (NO) is produced by activated macrophages, and it may contribute to the tissue damage seen during step 3. During step 3, the effector phase, activated CTL and NK cells mediate cytotoxicity against target host cells through Fas-Fas ligand interactions and perforin-granzyme B.
+CLASS       Human Diseases; Immune disease
+PATHWAY_MAP hsa05332  Graft-versus-host disease
+DISEASE     H00084  Graft-versus-host disease
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3569  IL6; interleukin 6 [KO:K05405]
+            3552  IL1A; interleukin 1 alpha [KO:K04383]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            941  CD80; CD80 molecule [KO:K05412]
+            942  CD86; CD86 molecule [KO:K05413]
+            940  CD28; CD28 molecule [KO:K06470]
+            3558  IL2; interleukin 2 [KO:K05429]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            5551  PRF1; perforin 1 [KO:K07818]
+            3002  GZMB; granzyme B [KO:K01353] [EC:3.4.21.79]
+            3458  IFNG; interferon gamma [KO:K04687]
+            3803  KIR2DL2; killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 2 [KO:K07981]
+            3802  KIR2DL1; killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 1 [KO:K07981]
+            3804  KIR2DL3; killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 3 [KO:K07981]
+            57292  KIR2DL5A; killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 5A [KO:K24232]
+            3812  KIR3DL2; killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2 [KO:K07980]
+            3811  KIR3DL1; killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1 [KO:K07980]
+            115653  KIR3DL3; killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 3 [KO:K07980]
+            3821  KLRC1; killer cell lectin like receptor C1 [KO:K06541]
+            3824  KLRD1; killer cell lectin like receptor D1 [KO:K06516]
+COMPOUND    C00338  Lipopolysaccharide
+            C00533  Nitric oxide
+REFERENCE   PMID:16412784
+  AUTHORS   Ferrara JL, Reddy P.
+  TITLE     Pathophysiology of graft-versus-host disease.
+  JOURNAL   Semin Hematol 43:3-10 (2006)
+            DOI:10.1053/j.seminhematol.2005.09.001
+REFERENCE   PMID:14735553
+  AUTHORS   Reddy P.
+  TITLE     Pathophysiology of acute graft-versus-host disease.
+  JOURNAL   Hematol Oncol 21:149-61 (2003)
+            DOI:10.1002/hon.716
+REFERENCE   PMID:17900507
+  AUTHORS   Sun Y, Tawara I, Toubai T, Reddy P.
+  TITLE     Pathophysiology of acute graft-versus-host disease: recent advances.
+  JOURNAL   Transl Res 150:197-214 (2007)
+            DOI:10.1016/j.trsl.2007.06.003
+REFERENCE   PMID:15882431
+  AUTHORS   Jaksch M, Mattsson J.
+  TITLE     The pathophysiology of acute graft-versus-host disease.
+  JOURNAL   Scand J Immunol 61:398-409 (2005)
+            DOI:10.1111/j.1365-3083.2005.01595.x
+REFERENCE   PMID:12359826
+  AUTHORS   Vogelsang GB, Lee L, Bensen-Kennedy DM.
+  TITLE     Pathogenesis and treatment of graft-versus-host disease after bone marrow transplant.
+  JOURNAL   Annu Rev Med 54:29-52 (2003)
+            DOI:10.1146/annurev.med.54.101601.152339
+REFERENCE   PMID:14556773
+  AUTHORS   Reddy P, Ferrara JL.
+  TITLE     Immunobiology of acute graft-versus-host disease.
+  JOURNAL   Blood Rev 17:187-94 (2003)
+            DOI:10.1016/S0268-960X(03)00009-2
+REFERENCE   PMID:16147539
+  AUTHORS   Blazar BR, Murphy WJ.
+  TITLE     Bone marrow transplantation and approaches to avoid graft-versus-host disease (GVHD).
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 360:1747-67 (2005)
+            DOI:10.1098/rstb.2005.1701
+REFERENCE   PMID:15372473
+  AUTHORS   Couriel D, Caldera H, Champlin R, Komanduri K.
+  TITLE     Acute graft-versus-host disease: pathophysiology, clinical manifestations, and management.
+  JOURNAL   Cancer 101:1936-46 (2004)
+            DOI:10.1002/cncr.20613
+REFERENCE   PMID:17784964
+  AUTHORS   Jacobsohn DA, Vogelsang GB.
+  TITLE     Acute graft versus host disease.
+  JOURNAL   Orphanet J Rare Dis 2:35 (2007)
+            DOI:10.1186/1750-1172-2-35
+REL_PATHWAY hsa04060  Cytokine-cytokine receptor interaction
+            hsa04210  Apoptosis
+            hsa04514  Cell adhesion molecules
+            hsa04612  Antigen processing and presentation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04660  T cell receptor signaling pathway
+KO_PATHWAY  ko05332
+///

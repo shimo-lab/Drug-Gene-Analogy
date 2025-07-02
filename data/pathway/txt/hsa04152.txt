@@ -1,0 +1,281 @@
+ENTRY       hsa04152                    Pathway
+NAME        AMPK signaling pathway - Homo sapiens (human)
+DESCRIPTION AMP-activated protein kinase (AMPK) is a serine threonine kinase that is highly conserved through evolution. AMPK system acts as a sensor of cellular energy status. It is activated by increases in the cellular AMP:ATP ratio caused by metabolic stresses that either interfere with ATP production (eg, deprivation for glucose or oxygen) or that accelerate ATP consumption (eg, muscle contraction). Several upstream kinases, including liver kinase B1 (LKB1), calcium/calmodulin kinase kinase-beta (CaMKK beta), and TGF-beta-activated kinase-1 (TAK-1), can activate AMPK by phosphorylating a threonine residue on its catalytic alpha-subunit. Once activated, AMPK leads to a concomitant inhibition of energy-consuming biosynthetic pathways, such as protein, fatty acid and glycogen synthesis, and activation of ATP-producing catabolic pathways, such as fatty acid oxidation and glycolysis.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP hsa04152  AMPK signaling pathway
+DRUG        D00395  Troglitazone (JAN/USAN/INN)
+            D00595  Buformin (USAN/INN)
+            D00596  Rosiglitazone maleate (JAN/USP)
+            D00944  Metformin hydrochloride (JP18/USP)
+            D00945  Pioglitazone hydrochloride (JP18/USP)
+            D02206  Buformin hydrochloride (JP18)
+            D04132  Farglitazar (USAN/INN)
+            D04966  Metformin (USAN/INN)
+            D05397  Peliglitazar (USAN)
+            D08351  Phenformin (BAN)
+            D08352  Phenformin hydrochloride
+            D08378  Pioglitazone (INN)
+            D08491  Rosiglitazone (INN)
+            D11604  Leriglitazone hydrochloride (USAN)
+            D11923  Lobeglitazone (INN)
+            D12242  Bocidelpar (USAN)
+            D12243  Bocidelpar sulfate (USAN)
+            D12391  Denifanstat (USAN)
+DBLINKS     GO: 2000479
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            6794  STK11; serine/threonine kinase 11 [KO:K07298] [EC:2.7.11.1]
+            51719  CAB39; calcium binding protein 39 [KO:K08272]
+            81617  CAB39L; calcium binding protein 39 like [KO:K08272]
+            92335  STRADA; STE20 related adaptor alpha [KO:K08271]
+            55437  STRADB; STE20 related adaptor beta [KO:K17532]
+            3952  LEP; leptin [KO:K05424]
+            3953  LEPR; leptin receptor [KO:K05062]
+            10645  CAMKK2; calcium/calmodulin dependent protein kinase kinase 2 [KO:K07359] [EC:2.7.11.17]
+            148  ADRA1A; adrenoceptor alpha 1A [KO:K04135]
+            9370  ADIPOQ; adiponectin, C1Q and collagen domain containing [KO:K07296]
+            51094  ADIPOR1; adiponectin receptor 1 [KO:K07297]
+            79602  ADIPOR2; adiponectin receptor 2 [KO:K07297]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            5207  PFKFB1; 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1 [KO:K19028] [EC:2.7.1.105 3.1.3.46]
+            5208  PFKFB2; 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2 [KO:K19029] [EC:2.7.1.105 3.1.3.46]
+            5209  PFKFB3; 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 [KO:K01103] [EC:2.7.1.105 3.1.3.46]
+            5210  PFKFB4; 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4 [KO:K19030] [EC:2.7.1.105 3.1.3.46]
+            2203  FBP1; fructose-bisphosphatase 1 [KO:K03841] [EC:3.1.3.11]
+            8789  FBP2; fructose-bisphosphatase 2 [KO:K03841] [EC:3.1.3.11]
+            5213  PFKM; phosphofructokinase, muscle [KO:K00850] [EC:2.7.1.11]
+            5214  PFKP; phosphofructokinase, platelet [KO:K00850] [EC:2.7.1.11]
+            5211  PFKL; phosphofructokinase, liver type [KO:K00850] [EC:2.7.1.11]
+            3172  HNF4A; hepatocyte nuclear factor 4 alpha [KO:K07292]
+            2538  G6PC1; glucose-6-phosphatase catalytic subunit 1 [KO:K01084] [EC:3.1.3.9]
+            57818  G6PC2; glucose-6-phosphatase catalytic subunit 2 [KO:K01084] [EC:3.1.3.9]
+            92579  G6PC3; glucose-6-phosphatase catalytic subunit 3 [KO:K01084] [EC:3.1.3.9]
+            5105  PCK1; phosphoenolpyruvate carboxykinase 1 [KO:K01596] [EC:4.1.1.32]
+            5106  PCK2; phosphoenolpyruvate carboxykinase 2, mitochondrial [KO:K01596] [EC:4.1.1.32]
+            200186  CRTC2; CREB regulated transcription coactivator 2 [KO:K16333]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            10891  PPARGC1A; PPARG coactivator 1 alpha [KO:K07202]
+            1994  ELAVL1; ELAV like RNA binding protein 1 [KO:K13088]
+            595  CCND1; cyclin D1 [KO:K04503]
+            890  CCNA2; cyclin A2 [KO:K06627]
+            8900  CCNA1; cyclin A1 [KO:K06627]
+            29904  EEF2K; eukaryotic elongation factor 2 kinase [KO:K08292] [EC:2.7.11.20]
+            1938  EEF2; eukaryotic translation elongation factor 2 [KO:K03234]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            23411  SIRT1; sirtuin 1 [KO:K11411] [EC:2.3.1.286]
+            6517  SLC2A4; solute carrier family 2 member 4 [KO:K07191]
+            2998  GYS2; glycogen synthase 2 [KO:K00693] [EC:2.4.1.11]
+            2997  GYS1; glycogen synthase 1 [KO:K00693] [EC:2.4.1.11]
+            3991  LIPE; lipase E, hormone sensitive type [KO:K07188] [EC:3.1.1.79]
+            3156  HMGCR; 3-hydroxy-3-methylglutaryl-CoA reductase [KO:K00021] [EC:1.1.1.34]
+            6720  SREBF1; sterol regulatory element binding transcription factor 1 [KO:K07197]
+            2194  FASN; fatty acid synthase [KO:K00665] [EC:2.3.1.85]
+            31  ACACA; acetyl-CoA carboxylase alpha [KO:K11262] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            6319  SCD; stearoyl-CoA desaturase [KO:K00507] [EC:1.14.19.1]
+            79966  SCD5; stearoyl-CoA desaturase 5 [KO:K00507] [EC:1.14.19.1]
+            32  ACACB; acetyl-CoA carboxylase beta [KO:K01946] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            23417  MLYCD; malonyl-CoA decarboxylase [KO:K01578] [EC:4.1.1.9]
+            1374  CPT1A; carnitine palmitoyltransferase 1A [KO:K08765] [EC:2.3.1.21]
+            1375  CPT1B; carnitine palmitoyltransferase 1B [KO:K19523] [EC:2.3.1.21]
+            126129  CPT1C; carnitine palmitoyltransferase 1C [KO:K19524] [EC:2.3.1.21]
+            1149  CIDEA; cell death inducing DFFA like effector a [KO:K25893]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            5519  PPP2R1B; protein phosphatase 2 scaffold subunit Abeta [KO:K03456]
+            5518  PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha [KO:K03456]
+            5520  PPP2R2A; protein phosphatase 2 regulatory subunit Balpha [KO:K04354]
+            5521  PPP2R2B; protein phosphatase 2 regulatory subunit Bbeta [KO:K04354]
+            5522  PPP2R2C; protein phosphatase 2 regulatory subunit Bgamma [KO:K04354]
+            55844  PPP2R2D; protein phosphatase 2 regulatory subunit Bdelta [KO:K04354]
+            28227  PPP2R3B; protein phosphatase 2 regulatory subunit B''beta [KO:K11583]
+            55012  PPP2R3C; protein phosphatase 2 regulatory subunit B''gamma [KO:K11583]
+            5523  PPP2R3A; protein phosphatase 2 regulatory subunit B''alpha [KO:K11583]
+            5526  PPP2R5B; protein phosphatase 2 regulatory subunit B'beta [KO:K11584]
+            5527  PPP2R5C; protein phosphatase 2 regulatory subunit B'gamma [KO:K11584]
+            5528  PPP2R5D; protein phosphatase 2 regulatory subunit B'delta [KO:K11584]
+            5529  PPP2R5E; protein phosphatase 2 regulatory subunit B'epsilon [KO:K11584]
+            5525  PPP2R5A; protein phosphatase 2 regulatory subunit B'alpha [KO:K11584]
+            23216  TBC1D1; TBC1 domain family member 1 [KO:K18341]
+            5862  RAB2A; RAB2A, member RAS oncogene family [KO:K07877]
+            4218  RAB8A; RAB8A, member RAS oncogene family [KO:K07901]
+            10890  RAB10; RAB10, member RAS oncogene family [KO:K07903]
+            9230  RAB11B; RAB11B, member RAS oncogene family [KO:K07905]
+            51552  RAB14; RAB14, member RAS oncogene family [KO:K07881]
+            1080  CFTR; CF transmembrane conductance regulator [KO:K05031] [EC:5.6.1.6]
+            948  CD36; CD36 molecule [KO:K06259]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            3630  INS; insulin [KO:K04526]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            8471  IRS4; insulin receptor substrate 4 [KO:K17446]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            7249  TSC2; TSC complex subunit 2 [KO:K07207]
+            7248  TSC1; TSC complex subunit 1 [KO:K07206]
+            6009  RHEB; Ras homolog, mTORC1 binding [KO:K07208]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            57521  RPTOR; regulatory associated protein of MTOR complex 1 [KO:K07204]
+            84335  AKT1S1; AKT1 substrate 1 [KO:K16184]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            1978  EIF4EBP1; eukaryotic translation initiation factor 4E binding protein 1 [KO:K07205]
+            5468  PPARG; peroxisome proliferator activated receptor gamma [KO:K08530]
+            8408  ULK1; unc-51 like autophagy activating kinase 1 [KO:K21357] [EC:2.7.11.1]
+COMPOUND    C00003  NAD+
+            C00008  ADP
+            C00020  AMP
+            C00022  Pyruvate
+            C00024  Acetyl-CoA
+            C00031  D-Glucose
+            C00040  Acyl-CoA
+            C00076  Calcium cation
+            C00083  Malonyl-CoA
+            C00085  D-Fructose 6-phosphate
+            C00162  Fatty acid
+            C00354  D-Fructose 1,6-bisphosphate
+            C00389  Quercetin
+            C00665  beta-D-Fructose 2,6-bisphosphate
+            C00668  alpha-D-Glucose 6-phosphate
+            C00698  Cl-
+            C00757  Berberine
+            C01172  beta-D-Glucose 6-phosphate
+            C04677  1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C07151  Metformin
+            C09731  Epigallocatechin gallate
+            D08351  Phenformin (BAN)
+REFERENCE   PMID:19584320
+  AUTHORS   Steinberg GR, Kemp BE
+  TITLE     AMPK in Health and Disease.
+  JOURNAL   Physiol Rev 89:1025-78 (2009)
+            DOI:10.1152/physrev.00011.2008
+REFERENCE   PMID:15509864
+  AUTHORS   Hardie DG.
+  TITLE     The AMP-activated protein kinase pathway--new players upstream and downstream.
+  JOURNAL   J Cell Sci 117:5479-87 (2004)
+            DOI:10.1242/jcs.01540
+REFERENCE   PMID:23747347
+  AUTHORS   Russo GL, Russo M, Ungaro P
+  TITLE     AMP-activated protein kinase: a target for old drugs against diabetes and cancer.
+  JOURNAL   Biochem Pharmacol 86:339-50 (2013)
+            DOI:10.1016/j.bcp.2013.05.023
+REFERENCE   PMID:19393004
+  AUTHORS   Ronnett GV, Ramamurthy S, Kleman AM, Landree LE, Aja S
+  TITLE     AMPK in the brain: its roles in energy balance and neuroprotection.
+  JOURNAL   J Neurochem 109 Suppl 1:17-23 (2009)
+            DOI:10.1111/j.1471-4159.2009.05916.x
+REFERENCE   PMID:20010958
+  AUTHORS   Li J, McCullough LD
+  TITLE     Effects of AMP-activated protein kinase in cerebral ischemia.
+  JOURNAL   J Cereb Blood Flow Metab 30:480-92 (2010)
+            DOI:10.1038/jcbfm.2009.255
+REFERENCE   PMID:22700795
+  AUTHORS   Sanchez AM, Candau RB, Csibi A, Pagano AF, Raibon A, Bernardi H
+  TITLE     The role of AMP-activated protein kinase in the coordination of skeletal muscle turnover and energy homeostasis.
+  JOURNAL   Am J Physiol Cell Physiol 303:C475-85 (2012)
+            DOI:10.1152/ajpcell.00125.2012
+REFERENCE   PMID:16644802
+  AUTHORS   Viollet B, Foretz M, Guigas B, Horman S, Dentin R, Bertrand L, Hue L, Andreelli F
+  TITLE     Activation of AMP-activated protein kinase in the liver: a new strategy for the management of metabolic hepatic disorders.
+  JOURNAL   J Physiol 574:41-53 (2006)
+            DOI:10.1113/jphysiol.2006.108506
+REFERENCE   PMID:19629071
+  AUTHORS   Shackelford DB, Shaw RJ
+  TITLE     The LKB1-AMPK pathway: metabolism and growth control in tumour suppression.
+  JOURNAL   Nat Rev Cancer 9:563-75 (2009)
+            DOI:10.1038/nrc2676
+REFERENCE   PMID:22885100
+  AUTHORS   Chung JH, Manganiello V, Dyck JR
+  TITLE     Resveratrol as a calorie restriction mimetic: therapeutic implications.
+  JOURNAL   Trends Cell Biol 22:546-54 (2012)
+            DOI:10.1016/j.tcb.2012.07.004
+REFERENCE   PMID:20357764
+  AUTHORS   Iwabu M, Yamauchi T, Okada-Iwabu M, Sato K, Nakagawa T, Funata M, Yamaguchi M, Namiki S, Nakayama R, Tabata M, Ogata H, Kubota N, Takamoto I, Hayashi YK, Yamauchi N, Waki H, Fukayama M, Nishino I, Tokuyama K, Ueki K, Oike Y, Ishii S, Hirose K, Shimizu T, Touhara K, Kadowaki T
+  TITLE     Adiponectin and AdipoR1 regulate PGC-1alpha and mitochondria by Ca(2+) and AMPK/SIRT1.
+  JOURNAL   Nature 464:1313-9 (2010)
+            DOI:10.1038/nature08991
+REFERENCE   PMID:17307971
+  AUTHORS   Towler MC, Hardie DG
+  TITLE     AMP-activated protein kinase in metabolic control and insulin signaling.
+  JOURNAL   Circ Res 100:328-41 (2007)
+            DOI:10.1161/01.RES.0000256090.42690.05
+REFERENCE   PMID:23899560
+  AUTHORS   Richter EA, Hargreaves M
+  TITLE     Exercise, GLUT4, and skeletal muscle glucose uptake.
+  JOURNAL   Physiol Rev 93:993-1017 (2013)
+            DOI:10.1152/physrev.00038.2012
+REFERENCE   PMID:16054041
+  AUTHORS   Kahn BB, Alquier T, Carling D, Hardie DG
+  TITLE     AMP-activated protein kinase: ancient energy gauge provides clues to modern understanding of metabolism.
+  JOURNAL   Cell Metab 1:15-25 (2005)
+            DOI:10.1016/j.cmet.2004.12.003
+REFERENCE   PMID:23565491
+  AUTHORS   Minokoshi Y, Toda C, Okamoto S
+  TITLE     Regulatory role of leptin in glucose and lipid metabolism in skeletal muscle.
+  JOURNAL   Indian J Endocrinol Metab 16:S562-8 (2012)
+            DOI:10.4103/2230-8210.105573
+REFERENCE   PMID:16723978
+  AUTHORS   Guggino WB, Stanton BA
+  TITLE     New insights into cystic fibrosis: molecular switches that regulate CFTR.
+  JOURNAL   Nat Rev Mol Cell Biol 7:426-36 (2006)
+            DOI:10.1038/nrm1949
+REFERENCE   PMID:16479585
+  AUTHORS   Cheng A, Saltiel AR
+  TITLE     More TORC for the gluconeogenic engine.
+  JOURNAL   Bioessays 28:231-4 (2006)
+            DOI:10.1002/bies.20375
+REFERENCE   PMID:19197243
+  AUTHORS   Herrero-Martin G, Hoyer-Hansen M, Garcia-Garcia C, Fumarola C, Farkas T, Lopez-Rivas A, Jaattela M
+  TITLE     TAK1 activates AMPK-dependent cytoprotective autophagy in TRAIL-treated epithelial cells.
+  JOURNAL   EMBO J 28:677-85 (2009)
+            DOI:10.1038/emboj.2009.8
+REFERENCE   PMID:19724019
+  AUTHORS   Morris DL, Rui L
+  TITLE     Recent advances in understanding leptin signaling and leptin resistance.
+  JOURNAL   Am J Physiol Endocrinol Metab 297:E1247-59 (2009)
+            DOI:10.1152/ajpendo.00274.2009
+REFERENCE   PMID:18725075
+  AUTHORS   Minokoshi Y, Shiuchi T, Lee S, Suzuki A, Okamoto S
+  TITLE     Role of hypothalamic AMP-kinase in food intake regulation.
+  JOURNAL   Nutrition 24:786-90 (2008)
+            DOI:10.1016/j.nut.2008.06.002
+REFERENCE   PMID:23024365
+  AUTHORS   Miyamoto L, Ebihara K, Kusakabe T, Aotani D, Yamamoto-Kataoka S, Sakai T, Aizawa-Abe M, Yamamoto Y, Fujikura J, Hayashi T, Hosoda K, Nakao K
+  TITLE     Leptin activates hepatic 5'-AMP-activated protein kinase through sympathetic nervous system and alpha1-adrenergic receptor: a potential mechanism for improvement of fatty liver in lipodystrophy by leptin.
+  JOURNAL   J Biol Chem 287:40441-7 (2012)
+            DOI:10.1074/jbc.M112.384545
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00061  Fatty acid biosynthesis
+            hsa00500  Starch and sucrose metabolism
+            hsa01040  Biosynthesis of unsaturated fatty acids
+            hsa04110  Cell cycle
+            hsa04140  Autophagy - animal
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+KO_PATHWAY  ko04152
+///

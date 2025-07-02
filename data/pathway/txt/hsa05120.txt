@@ -1,0 +1,112 @@
+ENTRY       hsa05120                    Pathway
+NAME        Epithelial cell signaling in Helicobacter pylori infection - Homo sapiens (human)
+DESCRIPTION Two major virulence factors of H. pylori are the vacuolating cytotoxin (VacA) and the cag type-IV secretion system (T4SS) and its translocated effector protein, cytotoxin-associated antigen A (CagA).
+            VacA binds to lipid rafts and glycosylphosphatidylinositol-anchored proteins (GPI-APs) of the target cell membrane. After insertion into the plasma membrane, VacA channels are endocytosed and eventually reach late endosomal compartments, increasing their permeability to anions with enhancement of the electrogenic vacuolar ATPase (v-ATPase) proton pump. In the presence of weak bases, osmotically active acidotropic ions will accumulate in the endosomes. This leads to water influx and vesicle swelling, an essential step in vacuole formation. In addition, it is reported that the VacA cleavage product binds to the tyrosine phosphatase receptor zeta (Ptprz) on epithelial cells and the induced signaling leads to the phosphorylation of the G protein-coupled receptor kinase-interactor 1 (Git1) and induces ulcerogenesis in mice.
+            The other virulence factor cag T4SS mediates the translocation of the effector protein CagA, which is subsequently phosphorylated by a Src kinase. Phosphorylated CagA interacts with the protein tyrosine phosphatase SHP-2, thus stimulating its phosphatase activity. Activated SHP-2 is able to induce MAPK signalling through Ras/Raf-dependent and -independent mechanisms. Deregulation of this pathway by CagA may lead to abnormal proliferation and movement of gastric epithelial cells.
+CLASS       Human Diseases; Infectious disease: bacterial
+PATHWAY_MAP hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+DISEASE     H00320  Helicobacter pylori infection
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            7082  TJP1; tight junction protein 1 [KO:K05701]
+            50848  F11R; F11 receptor [KO:K06089]
+            58494  JAM2; junctional adhesion molecule 2 [KO:K06735]
+            83700  JAM3; junctional adhesion molecule 3 [KO:K06785]
+            150084  IGSF5; immunoglobulin superfamily member 5 [KO:K06786]
+            6868  ADAM17; ADAM metallopeptidase domain 17 [KO:K06059] [EC:3.4.24.86]
+            1839  HBEGF; heparin binding EGF like growth factor [KO:K08523]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            3577  CXCR1; C-X-C motif chemokine receptor 1 [KO:K04175]
+            3579  CXCR2; C-X-C motif chemokine receptor 2 [KO:K05050]
+            102  ADAM10; ADAM metallopeptidase domain 10 [KO:K06704] [EC:3.4.24.81]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            1445  CSK; C-terminal Src kinase [KO:K05728] [EC:2.7.10.2]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            9020  MAP3K14; mitogen-activated protein kinase kinase kinase 14 [KO:K04466] [EC:2.7.11.25]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            10392  NOD1; nucleotide binding oligomerization domain containing 1 [KO:K08727]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            5803  PTPRZ1; protein tyrosine phosphatase receptor type Z1 [KO:K08114] [EC:3.1.3.48]
+            28964  GIT1; GIT ArfGAP 1 [KO:K05737]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            523  ATP6V1A; ATPase H+ transporting V1 subunit A [KO:K02145] [EC:7.1.2.2]
+            525  ATP6V1B1; ATPase H+ transporting V1 subunit B1 [KO:K02147]
+            526  ATP6V1B2; ATPase H+ transporting V1 subunit B2 [KO:K02147]
+            245973  ATP6V1C2; ATPase H+ transporting V1 subunit C2 [KO:K02148]
+            528  ATP6V1C1; ATPase H+ transporting V1 subunit C1 [KO:K02148]
+            51382  ATP6V1D; ATPase H+ transporting V1 subunit D [KO:K02149]
+            90423  ATP6V1E2; ATPase H+ transporting V1 subunit E2 [KO:K02150]
+            529  ATP6V1E1; ATPase H+ transporting V1 subunit E1 [KO:K02150]
+            9296  ATP6V1F; ATPase H+ transporting V1 subunit F [KO:K02151]
+            9550  ATP6V1G1; ATPase H+ transporting V1 subunit G1 [KO:K02152]
+            127124  ATP6V1G3; ATPase H+ transporting V1 subunit G3 [KO:K02152]
+            534  ATP6V1G2; ATPase H+ transporting V1 subunit G2 [KO:K02152]
+            8992  ATP6V0E1; ATPase H+ transporting V0 subunit e1 [KO:K02153]
+            155066  ATP6V0E2; ATPase H+ transporting V0 subunit e2 [KO:K02153]
+            10312  TCIRG1; T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [KO:K02154]
+            23545  ATP6V0A2; ATPase H+ transporting V0 subunit a2 [KO:K02154]
+            50617  ATP6V0A4; ATPase H+ transporting V0 subunit a4 [KO:K02154]
+            535  ATP6V0A1; ATPase H+ transporting V0 subunit a1 [KO:K02154]
+            9114  ATP6V0D1; ATPase H+ transporting V0 subunit d1 [KO:K02146]
+            245972  ATP6V0D2; ATPase H+ transporting V0 subunit d2 [KO:K02146]
+            51606  ATP6V1H; ATPase H+ transporting V1 subunit H [KO:K02144]
+            537  ATP6AP1; ATPase H+ transporting accessory protein 1 [KO:K03662]
+            527  ATP6V0C; ATPase H+ transporting V0 subunit c [KO:K02155]
+            533  ATP6V0B; ATPase H+ transporting V0 subunit b [KO:K03661]
+COMPOUND    C00014  Ammonia
+            C00080  H+
+            C00086  Urea
+            C00698  Cl-
+            C01342  NH4+
+            G00242  Sialyl Lewis x antigen
+            G00263  IV2Fuc,III4Fuc-Lc4-Cer
+REFERENCE   PMID:14700549
+  AUTHORS   Naumann M, Crabtree JE.
+  TITLE     Helicobacter pylori-induced epithelial cell signalling in gastric carcinogenesis.
+  JOURNAL   Trends Microbiol 12:29-36 (2004)
+            DOI:10.1016/j.tim.2003.11.005
+REFERENCE   PMID:15694859
+  AUTHORS   Rieder G, Fischer W, Haas R.
+  TITLE     Interaction of Helicobacter pylori with host cells: function of secreted and translocated molecules.
+  JOURNAL   Curr Opin Microbiol 8:67-73 (2005)
+            DOI:10.1016/j.mib.2004.12.004
+REFERENCE   PMID:11389469
+  AUTHORS   Montecucco C, Rappuoli R.
+  TITLE     Living dangerously: how Helicobacter pylori survives in the human stomach.
+  JOURNAL   Nat Rev Mol Cell Biol 2:457-66 (2001)
+            DOI:10.1038/35073084
+REFERENCE   PMID:12197905
+  AUTHORS   Gerhard M, Rad R, Prinz C, Naumann M.
+  TITLE     Pathogenesis of Helicobacter pylori infection.
+  JOURNAL   Helicobacter 7 Suppl 1:17-23 (2002)
+            DOI:10.1046/j.1523-5378.7.s1.3.x
+REL_PATHWAY hsa00190  Oxidative phosphorylation
+            hsa04010  MAPK signaling pathway
+            hsa04210  Apoptosis
+            hsa04530  Tight junction
+KO_PATHWAY  ko05120
+///

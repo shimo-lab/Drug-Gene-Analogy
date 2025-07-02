@@ -1,0 +1,764 @@
+ENTRY       hsa05203                    Pathway
+NAME        Viral carcinogenesis - Homo sapiens (human)
+DESCRIPTION There is a strong association between viruses and the development of human malignancies. We now know that at least six human viruses, Epstein-Barr virus (EBV), hepatitis B virus (HBV), hepatitis C virus (HCV), human papilloma virus (HPV), human T-cell lymphotropic virus (HTLV-1) and Kaposi's associated sarcoma virus (KSHV) contribute to 10-15% of the cancers worldwide. Via expression of many potent oncoproteins, these tumor viruses promote an aberrant cell-proliferation via modulating cellular cell-signaling pathways and escape from cellular defense system such as blocking apoptosis. Human tumor virus oncoproteins can also disrupt pathways that are necessary for the maintenance of the integrity of host cellular genome. Viruses that encode such activities can contribute to initiation as well as progression of human cancers.
+CLASS       Human Diseases; Cancer: overview
+PATHWAY_MAP hsa05203  Viral carcinogenesis
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            1642  DDB1; damage specific DNA binding protein 1 [KO:K10610]
+            7534  YWHAZ; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [KO:K16197]
+            7529  YWHAB; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta [KO:K16197]
+            10971  YWHAQ; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [KO:K16197]
+            7531  YWHAE; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [KO:K06630]
+            7533  YWHAH; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [KO:K16198]
+            7532  YWHAG; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [KO:K16198]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            6776  STAT5A; signal transducer and activator of transcription 5A [KO:K11223]
+            6777  STAT5B; signal transducer and activator of transcription 5B [KO:K11224]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            3249  HPN; hepsin [KO:K08665] [EC:3.4.21.106]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            5966  REL; REL proto-oncogene, NF-kB subunit [KO:K09254]
+            4791  NFKB2; nuclear factor kappa B subunit 2 [KO:K04469]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            898  CCNE1; cyclin E1 [KO:K06626]
+            9134  CCNE2; cyclin E2 [KO:K06626]
+            1017  CDK2; cyclin dependent kinase 2 [KO:K02206] [EC:2.7.11.22]
+            1959  EGR2; early growth response 2 [KO:K12496]
+            1960  EGR3; early growth response 3 [KO:K12497]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            4055  LTBR; lymphotoxin beta receptor [KO:K03159]
+            6672  SP100; SP100 nuclear antigen [KO:K15413]
+            3190  HNRNPK; heterogeneous nuclear ribonucleoprotein K [KO:K12886]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1654  DDX3X; DEAD-box helicase 3 X-linked [KO:K11594] [EC:3.6.4.13]
+            5610  EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2 [KO:K16195] [EC:2.7.11.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            8341  H2BC15; H2B clustered histone 15 [KO:K11252]
+            8345  H2BC9; H2B clustered histone 9 [KO:K11252]
+            8342  H2BC14; H2B clustered histone 14 [KO:K11252]
+            158983  H2BW1; H2B.W histone 1 [KO:K11252]
+            255626  H2BC1; H2B clustered histone 1 [KO:K11252]
+            440689  H2BC18; H2B clustered histone 18 [KO:K11252]
+            8348  H2BC17; H2B clustered histone 17 [KO:K11252]
+            3018  H2BC3; H2B clustered histone 3 [KO:K11252]
+            8339  H2BC8; H2B clustered histone 8 [KO:K11252]
+            8340  H2BC13; H2B clustered histone 13 [KO:K11252]
+            8347  H2BC4; H2B clustered histone 4 [KO:K11252]
+            3017  H2BC5; H2B clustered histone 5 [KO:K11252]
+            8344  H2BC6; H2B clustered histone 6 [KO:K11252]
+            8346  H2BC10; H2B clustered histone 10 [KO:K11252]
+            8349  H2BC21; H2B clustered histone 21 [KO:K11252]
+            8970  H2BC11; H2B clustered histone 11 [KO:K11252]
+            85236  H2BC12; H2B clustered histone 12 [KO:K11252]
+            128312  H2BC26; H2B clustered histone 26 [KO:K11252]
+            8343  H2BC7; H2B clustered histone 7 [KO:K11252]
+            286436  H2BW2; H2B.W histone 2 [KO:K11252]
+            102724334  histone H2B type F-S-like [KO:K11252]
+            114483833  H2BK1; H2B.K variant histone 1 [KO:K11252]
+            54145  H2BC12L; H2B clustered histone 12 like [KO:K11252]
+            121504  H4C16; H4 histone 16 [KO:K11254]
+            554313  H4C15; H4 clustered histone 15 [KO:K11254]
+            8294  H4C9; H4 clustered histone 9 [KO:K11254]
+            8360  H4C4; H4 clustered histone 4 [KO:K11254]
+            8361  H4C6; H4 clustered histone 6 [KO:K11254]
+            8362  H4C12; H4 clustered histone 12 [KO:K11254]
+            8363  H4C11; H4 clustered histone 11 [KO:K11254]
+            8364  H4C3; H4 clustered histone 3 [KO:K11254]
+            8365  H4C8; H4 clustered histone 8 [KO:K11254]
+            8366  H4C2; H4 clustered histone 2 [KO:K11254]
+            8367  H4C5; H4 clustered histone 5 [KO:K11254]
+            8368  H4C13; H4 clustered histone 13 [KO:K11254]
+            8370  H4C14; H4 clustered histone 14 [KO:K11254]
+            8359  H4C1; H4 clustered histone 1 [KO:K11254]
+            8369  H4C7; H4 clustered histone 7 [KO:K11254]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            983  CDK1; cyclin dependent kinase 1 [KO:K02087] [EC:2.7.11.22 2.7.11.23]
+            387332  TBPL2; TATA-box binding protein like 2 [KO:K03120]
+            9519  TBPL1; TATA-box binding protein like 1 [KO:K03120]
+            6908  TBP; TATA-box binding protein [KO:K03120]
+            7874  USP7; ubiquitin specific peptidase 7 [KO:K11838] [EC:3.4.19.12]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            11317  RBPJL; recombination signal binding protein for immunoglobulin kappa J region like [KO:K06053]
+            3516  RBPJ; recombination signal binding protein for immunoglobulin kappa J region [KO:K06053]
+            22938  SNW1; SNW domain containing 1 [KO:K06063]
+            2965  GTF2H1; general transcription factor IIH subunit 1 [KO:K03141]
+            2966  GTF2H2; general transcription factor IIH subunit 2 [KO:K03142]
+            730394  GTF2H2C_2; GTF2H2 family member C, copy 2 [KO:K03142]
+            728340  GTF2H2C; GTF2H2 family member C [KO:K03142]
+            2967  GTF2H3; general transcription factor IIH subunit 3 [KO:K03143]
+            2968  GTF2H4; general transcription factor IIH subunit 4 [KO:K03144]
+            2960  GTF2E1; general transcription factor IIE subunit 1 [KO:K03136]
+            2961  GTF2E2; general transcription factor IIE subunit 2 [KO:K03137]
+            27044  SND1; staphylococcal nuclease and tudor domain containing 1 [KO:K15979]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            2959  GTF2B; general transcription factor IIB [KO:K03124]
+            595  CCND1; cyclin D1 [KO:K04503]
+            894  CCND2; cyclin D2 [KO:K10151]
+            896  CCND3; cyclin D3 [KO:K10152]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            890  CCNA2; cyclin A2 [KO:K06627]
+            8900  CCNA1; cyclin A1 [KO:K06627]
+            6502  SKP2; S-phase kinase associated protein 2 [KO:K03875]
+            28973  MRPS18B; mitochondrial ribosomal protein S18B [KO:K16174]
+            7185  TRAF1; TNF receptor associated factor 1 [KO:K03172]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            7188  TRAF5; TNF receptor associated factor 5 [KO:K09849]
+            3718  JAK3; Janus kinase 3 [KO:K11218] [EC:2.7.10.2]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            9114  ATP6V0D1; ATPase H+ transporting V0 subunit d1 [KO:K02146]
+            245972  ATP6V0D2; ATPase H+ transporting V0 subunit d2 [KO:K02146]
+            7337  UBE3A; ubiquitin protein ligase E3A [KO:K10587] [EC:2.3.2.26]
+            1739  DLG1; discs large MAGUK scaffold protein 1 [KO:K12076]
+            23513  SCRIB; scribble planar cell polarity protein [KO:K16175]
+            5829  PXN; paxillin [KO:K05760]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            5700  PSMC1; proteasome 26S subunit, ATPase 1 [KO:K03062]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            5933  RBL1; RB transcriptional corepressor like 1 [KO:K04681]
+            5934  RBL2; RB transcriptional corepressor like 2 [KO:K16332]
+            1027  CDKN1B; cyclin dependent kinase inhibitor 1B [KO:K06624]
+            23352  UBR4; ubiquitin protein ligase E3 component n-recognin 4 [KO:K10691] [EC:2.3.2.27]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            1108  CHD4; chromodomain helicase DNA binding protein 4 [KO:K11643] [EC:5.6.2.-]
+            3065  HDAC1; histone deacetylase 1 [KO:K06067] [EC:3.5.1.98]
+            3066  HDAC2; histone deacetylase 2 [KO:K06067] [EC:3.5.1.98]
+            8841  HDAC3; histone deacetylase 3 [KO:K11404] [EC:3.5.1.98]
+            9759  HDAC4; histone deacetylase 4 [KO:K11406] [EC:3.5.1.98]
+            10014  HDAC5; histone deacetylase 5 [KO:K11406] [EC:3.5.1.98]
+            10013  HDAC6; histone deacetylase 6 [KO:K11407] [EC:3.5.1.98]
+            51564  HDAC7; histone deacetylase 7 [KO:K11408] [EC:3.5.1.98]
+            55869  HDAC8; histone deacetylase 8 [KO:K11405] [EC:3.5.1.98]
+            9734  HDAC9; histone deacetylase 9 [KO:K11409] [EC:3.5.1.98]
+            83933  HDAC10; histone deacetylase 10 [KO:K18671] [EC:3.5.1.98]
+            79885  HDAC11; histone deacetylase 11 [KO:K11418] [EC:3.5.1.98]
+            5315  PKM; pyruvate kinase M1/2 [KO:K00873] [EC:2.7.1.40]
+            10379  IRF9; interferon regulatory factor 9 [KO:K04693]
+            9093  DNAJA3; DnaJ heat shock protein family (Hsp40) member A3 [KO:K09504]
+            8850  KAT2B; lysine acetyltransferase 2B [KO:K06062] [EC:2.3.1.48]
+            2648  KAT2A; lysine acetyltransferase 2A [KO:K06062] [EC:2.3.1.48]
+            11036  GTF2A1L; general transcription factor IIA subunit 1 like [KO:K03122]
+            2957  GTF2A1; general transcription factor IIA subunit 1 [KO:K03122]
+            2958  GTF2A2; general transcription factor IIA subunit 2 [KO:K03123]
+            6722  SRF; serum response factor [KO:K04378]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            5922  RASA2; RAS p21 protein activator 2 [KO:K08053]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            2934  GSN; gelsolin [KO:K05768]
+            85477  SCIN; scinderin [KO:K05768]
+            87  ACTN1; actinin alpha 1 [KO:K05699]
+            81  ACTN4; actinin alpha 4 [KO:K05699]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1029  CDKN2A; cyclin dependent kinase inhibitor 2A [KO:K06621]
+            1030  CDKN2B; cyclin dependent kinase inhibitor 2B [KO:K04685]
+            1111  CHEK1; checkpoint kinase 1 [KO:K02216] [EC:2.7.11.1]
+            991  CDC20; cell division cycle 20 [KO:K03363]
+            8379  MAD1L1; mitotic arrest deficient 1 like 1 [KO:K06679]
+            55697  VAC14; VAC14 component of PIKFYVE complex [KO:K15305]
+            5902  RANBP1; RAN binding protein 1 [KO:K15306]
+            5423  POLB; DNA polymerase beta [KO:K02330] [EC:2.7.7.7 4.2.99.-]
+            3665  IRF7; interferon regulatory factor 7 [KO:K09447]
+            3572  IL6ST; interleukin 6 cytokine family signal transducer [KO:K05060]
+            1234  CCR5; C-C motif chemokine receptor 5 [KO:K04180]
+            1237  CCR8; C-C motif chemokine receptor 8 [KO:K04183]
+            1232  CCR3; C-C motif chemokine receptor 3 [KO:K04178]
+            1233  CCR4; C-C motif chemokine receptor 4 [KO:K04179]
+            9261  MAPKAPK2; MAPK activated protein kinase 2 [KO:K04443] [EC:2.7.11.1]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            5366  PMAIP1; phorbol-12-myristate-13-acetate-induced protein 1 [KO:K10131]
+            718  C3; complement C3 [KO:K03990]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+REFERENCE   PMID:18201576
+  AUTHORS   McLaughlin-Drubin ME, Munger K
+  TITLE     Viruses associated with human cancer.
+  JOURNAL   Biochim Biophys Acta 1782:127-50 (2008)
+            DOI:10.1016/j.bbadis.2007.12.005
+REFERENCE   PMID:21102637
+  AUTHORS   Moore PS, Chang Y
+  TITLE     Why do viruses cause cancer? Highlights of the first century of human tumour virology.
+  JOURNAL   Nat Rev Cancer 10:878-89 (2010)
+            DOI:10.1038/nrc2961
+REFERENCE   PMID:19400863
+  AUTHORS   Kalland KH, Ke XS, Oyan AM
+  TITLE     Tumour virology--history, status and future challenges.
+  JOURNAL   APMIS 117:382-99 (2009)
+            DOI:10.1111/j.1600-0463.2009.02452.x
+REFERENCE   PMID:17979705
+  AUTHORS   Boccardo E, Villa LL
+  TITLE     Viral origins of human cancer.
+  JOURNAL   Curr Med Chem 14:2526-39 (2007)
+            DOI:10.2174/092986707782023316
+REFERENCE   PMID:21084867
+  AUTHORS   Saha A, Kaul R, Murakami M, Robertson ES
+  TITLE     Tumor viruses and cancer biology: Modulating signaling pathways for therapeutic intervention.
+  JOURNAL   Cancer Biol Ther 10:961-78 (2010)
+            DOI:10.4161/cbt.10.10.13923
+REFERENCE   PMID:21152115
+  AUTHORS   Zheng ZM
+  TITLE     Viral oncogenes, noncoding RNAs, and RNA splicing in human tumor viruses.
+  JOURNAL   Int J Biol Sci 6:730-55 (2010)
+            DOI:10.7150/ijbs.6.730
+REFERENCE   PMID:19956178
+  AUTHORS   Martin D, Gutkind JS
+  TITLE     Human tumor-associated viruses and new insights into the molecular mechanisms of cancer.
+  JOURNAL   Oncogene 27 Suppl 2:S31-42 (2008)
+            DOI:10.1038/onc.2009.351
+REFERENCE   PMID:16459163
+  AUTHORS   Zhang X, Zhang H, Ye L
+  TITLE     Effects of hepatitis B virus X protein on the development of liver cancer.
+  JOURNAL   J Lab Clin Med 147:58-66 (2006)
+            DOI:10.1016/j.lab.2005.10.003
+REFERENCE   PMID:12686421
+  AUTHORS   Panteva M, Korkaya H, Jameel S
+  TITLE     Hepatitis viruses and the MAPK pathway: is this a survival strategy?
+  JOURNAL   Virus Res 92:131-40 (2003)
+            DOI:10.1016/S0168-1702(02)00356-8
+REFERENCE   PMID:21647825
+  AUTHORS   Ng SA, Lee C
+  TITLE     Hepatitis B virus X gene and hepatocarcinogenesis.
+  JOURNAL   J Gastroenterol 46:974-90 (2011)
+            DOI:10.1007/s00535-011-0415-9
+REFERENCE   PMID:21966251
+  AUTHORS   Nishida N, Goel A
+  TITLE     Genetic and epigenetic signatures in human hepatocellular carcinoma: a systematic review.
+  JOURNAL   Curr Genomics 12:130-7 (2011)
+            DOI:10.2174/138920211795564359
+REFERENCE   PMID:19854353
+  AUTHORS   Benhenda S, Cougot D, Buendia MA, Neuveut C
+  TITLE     Hepatitis B virus X protein molecular functions and its role in virus life cycle and pathogenesis.
+  JOURNAL   Adv Cancer Res 103:75-109 (2009)
+            DOI:10.1016/S0065-230X(09)03004-8
+REFERENCE   PMID:18251977
+  AUTHORS   Tan A, Yeh SH, Liu CJ, Cheung C, Chen PJ
+  TITLE     Viral hepatocarcinogenesis: from infection to cancer.
+  JOURNAL   Liver Int 28:175-88 (2008)
+            DOI:10.1111/j.1478-3231.2007.01652.x
+REFERENCE   PMID:9343405
+  AUTHORS   Klein NP, Schneider RJ
+  TITLE     Activation of Src family kinases by hepatitis B virus HBx protein and coupled signaling to Ras.
+  JOURNAL   Mol Cell Biol 17:6427-36 (1997)
+            DOI:10.1128/MCB.17.11.6427
+REFERENCE   PMID:16039586
+  AUTHORS   Ding Q, Xia W, Liu JC, Yang JY, Lee DF, Xia J, Bartholomeusz G, Li Y, Pan Y, Li Z, Bargou RC, Qin J, Lai CC, Tsai FJ, Tsai CH, Hung MC
+  TITLE     Erk associates with and primes GSK-3beta for its inactivation resulting in upregulation of beta-catenin.
+  JOURNAL   Mol Cell 19:159-70 (2005)
+            DOI:10.1016/j.molcel.2005.06.009
+REFERENCE   PMID:21994562
+  AUTHORS   Benhenda S, Cougot D, Neuveut C, Buendia MA
+  TITLE     Liver cell transformation in chronic HBV infection.
+  JOURNAL   Viruses 1:630-46 (2009)
+            DOI:10.3390/v1030630
+REFERENCE   PMID:11099494
+  AUTHORS   Diao J, Khine AA, Sarangi F, Hsu E, Iorio C, Tibbles LA, Woodgett JR, Penninger J, Richardson CD
+  TITLE     X protein of hepatitis B virus inhibits Fas-mediated apoptosis and is associated with up-regulation of the SAPK/JNK pathway.
+  JOURNAL   J Biol Chem 276:8328-40 (2001)
+            DOI:10.1074/jbc.M006026200
+REFERENCE   PMID:10824878
+  AUTHORS   Arbuthnot P, Capovilla A, Kew M
+  TITLE     Putative role of hepatitis B virus X protein in hepatocarcinogenesis: effects on apoptosis, DNA repair, mitogen-activated protein kinase and JAK/STAT pathways.
+  JOURNAL   J Gastroenterol Hepatol 15:357-68 (2000)
+            DOI:10.1046/j.1440-1746.2000.02069.x
+REFERENCE   PMID:9837909
+  AUTHORS   Gottlob K, Fulco M, Levrero M, Graessmann A
+  TITLE     The hepatitis B virus HBx protein inhibits caspase 3 activity.
+  JOURNAL   J Biol Chem 273:33347-53 (1998)
+            DOI:10.1074/jbc.273.50.33347
+REFERENCE   PMID:15614436
+  AUTHORS   Zhang JL, Zhao WG, Wu KL, Wang K, Zhang X, Gu CF, Li Y, Zhu Y, Wu JG
+  TITLE     Human hepatitis B virus X protein promotes cell proliferation and inhibits cell apoptosis through interacting with a serine protease Hepsin.
+  JOURNAL   Arch Virol 150:721-41 (2005)
+            DOI:10.1007/s00705-004-0446-0
+REFERENCE   PMID:15105524
+  AUTHORS   Cooray S
+  TITLE     The pivotal role of phosphatidylinositol 3-kinase-Akt signal transduction in virus survival.
+  JOURNAL   J Gen Virol 85:1065-76 (2004)
+            DOI:10.1099/vir.0.19771-0
+REFERENCE   PMID:16939421
+  AUTHORS   Mukherji A, Janbandhu VC, Kumar V
+  TITLE     HBx-dependent cell cycle deregulation involves interaction with cyclin E/A-cdk2 complex and destabilization of p27Kip1.
+  JOURNAL   Biochem J 401:247-56 (2007)
+            DOI:10.1042/BJ20061091
+REFERENCE   PMID:15173177
+  AUTHORS   Yoo YG, Lee MO
+  TITLE     Hepatitis B virus X protein induces expression of Fas ligand gene through enhancing transcriptional activity of early growth response factor.
+  JOURNAL   J Biol Chem 279:36242-9 (2004)
+            DOI:10.1074/jbc.M401290200
+REFERENCE   PMID:11604508
+  AUTHORS   Waris G, Huh KW, Siddiqui A
+  TITLE     Mitochondrially associated hepatitis B virus X protein constitutively activates transcription factors STAT-3 and NF-kappa B via oxidative stress.
+  JOURNAL   Mol Cell Biol 21:7721-30 (2001)
+            DOI:10.1128/MCB.21.22.7721-7730.2001
+REFERENCE   PMID:17894800
+  AUTHORS   Kasprzak A, Adamek A
+  TITLE     Role of hepatitis C virus proteins (C, NS3, NS5A) in hepatic oncogenesis.
+  JOURNAL   Hepatol Res 38:1-26 (2008)
+            DOI:10.1111/j.1872-034X.2007.00261.x
+REFERENCE   PMID:9882379
+  AUTHORS   You LR, Chen CM, Lee YH
+  TITLE     Hepatitis C virus core protein enhances NF-kappaB signal pathway triggering by lymphotoxin-beta receptor ligand and tumor necrosis factor alpha.
+  JOURNAL   J Virol 73:1672-81 (1999)
+            DOI:10.1128/JVI.73.2.1672-1681.1999
+REFERENCE   PMID:16581947
+  AUTHORS   Sato Y, Kato J, Takimoto R, Takada K, Kawano Y, Miyanishi K, Kobune M, Sato Y, Takayama T, Matunaga T, Niitsu Y
+  TITLE     Hepatitis C virus core protein promotes proliferation of human hepatoma cells through enhancement of transforming growth factor alpha expression via activation of nuclear factor-kappaB.
+  JOURNAL   Gut 55:1801-8 (2006)
+            DOI:10.1136/gut.2005.070417
+REFERENCE   PMID:14559998
+  AUTHORS   Watashi K, Hijikata M, Tagawa A, Doi T, Marusawa H, Shimotohno K
+  TITLE     Modulation of retinoid signaling by a cytoplasmic viral protein via sequestration of Sp110b, a potent transcriptional corepressor of retinoic acid receptor, from the nucleus.
+  JOURNAL   Mol Cell Biol 23:7498-509 (2003)
+            DOI:10.1128/MCB.23.21.7498-7509.2003
+REFERENCE   PMID:9651361
+  AUTHORS   Hsieh TY, Matsumoto M, Chou HC, Schneider R, Hwang SB, Lee AS, Lai MM
+  TITLE     Hepatitis C virus core protein interacts with heterogeneous nuclear ribonucleoprotein K.
+  JOURNAL   J Biol Chem 273:17651-9 (1998)
+            DOI:10.1074/jbc.273.28.17651
+REFERENCE   PMID:10873631
+  AUTHORS   Wang F, Yoshida I, Takamatsu M, Ishido S, Fujita T, Oka K, Hotta H
+  TITLE     Complex formation between hepatitis C virus core protein and p21Waf1/Cip1/Sdi1.
+  JOURNAL   Biochem Biophys Res Commun 273:479-84 (2000)
+            DOI:10.1006/bbrc.2000.2970
+REFERENCE   PMID:10074132
+  AUTHORS   You LR, Chen CM, Yeh TS, Tsai TY, Mai RT, Lin CH, Lee YH
+  TITLE     Hepatitis C virus core protein interacts with cellular putative RNA helicase.
+  JOURNAL   J Virol 73:2841-53 (1999)
+            DOI:10.1128/JVI.73.4.2841-2853.1999
+REFERENCE   PMID:10644344
+  AUTHORS   Aoki H, Hayashi J, Moriyama M, Arakawa Y, Hino O
+  TITLE     Hepatitis C virus core protein interacts with 14-3-3 protein and activates the kinase Raf-1.
+  JOURNAL   J Virol 74:1736-41 (2000)
+            DOI:10.1128/JVI.74.4.1736-1741.2000
+REFERENCE   PMID:17267064
+  AUTHORS   Yan XB, Battaglia S, Boucreux D, Chen Z, Brechot C, Pavio N
+  TITLE     Mapping of the interacting domains of hepatitis C virus core protein and the double-stranded RNA-activated protein kinase PKR.
+  JOURNAL   Virus Res 125:79-87 (2007)
+            DOI:10.1016/j.virusres.2006.12.010
+REFERENCE   PMID:9060639
+  AUTHORS   Borowski P, Oehlmann K, Heiland M, Laufs R
+  TITLE     Nonstructural protein 3 of hepatitis C virus blocks the distribution of the free catalytic subunit of cyclic AMP-dependent protein kinase.
+  JOURNAL   J Virol 71:2838-43 (1997)
+            DOI:10.1128/JVI.71.4.2838-2843.1997
+REFERENCE   PMID:10405893
+  AUTHORS   Borowski P, Kuhl R, Laufs R, Schulze zur Wiesch J, Heiland M
+  TITLE     Identification and characterization of a histone binding site of the non-structural protein 3 of hepatitis C virus.
+  JOURNAL   J Clin Virol 13:61-9 (1999)
+            DOI:10.1016/S1386-6532(99)00007-4
+REFERENCE   PMID:12101418
+  AUTHORS   Lan KH, Sheu ML, Hwang SJ, Yen SH, Chen SY, Wu JC, Wang YJ, Kato N, Omata M, Chang FY, Lee SD
+  TITLE     HCV NS5A interacts with p53 and inhibits p53-mediated apoptosis.
+  JOURNAL   Oncogene 21:4801-11 (2002)
+            DOI:10.1038/sj.onc.1205589
+REFERENCE   PMID:12925958
+  AUTHORS   Chung YL, Sheu ML, Yen SH
+  TITLE     Hepatitis C virus NS5A as a potential viral Bcl-2 homologue interacts with Bax and inhibits apoptosis in hepatocellular carcinoma.
+  JOURNAL   Int J Cancer 107:65-73 (2003)
+            DOI:10.1002/ijc.11303
+REFERENCE   PMID:10400746
+  AUTHORS   Gale M Jr, Kwieciszewski B, Dossett M, Nakao H, Katze MG
+  TITLE     Antiapoptotic and oncogenic potentials of hepatitis C virus are linked to interferon resistance by viral repression of the PKR protein kinase.
+  JOURNAL   J Virol 73:6506-16 (1999)
+            DOI:10.1128/JVI.73.8.6506-6516.1999
+REFERENCE   PMID:12186904
+  AUTHORS   He Y, Nakao H, Tan SL, Polyak SJ, Neddermann P, Vijaysri S, Jacobs BL, Katze MG
+  TITLE     Subversion of cell signaling pathways by hepatitis C virus nonstructural 5A protein via interaction with Grb2 and P85 phosphatidylinositol 3-kinase.
+  JOURNAL   J Virol 76:9207-17 (2002)
+            DOI:10.1128/JVI.76.18.9207-9217.2002
+REFERENCE   PMID:15795286
+  AUTHORS   Street A, Macdonald A, McCormick C, Harris M
+  TITLE     Hepatitis C virus NS5A-mediated activation of phosphoinositide 3-kinase results in stabilization of cellular beta-catenin and stimulation of beta-catenin-responsive transcription.
+  JOURNAL   J Virol 79:5006-16 (2005)
+            DOI:10.1128/JVI.79.8.5006-5016.2005
+REFERENCE   PMID:11886269
+  AUTHORS   Majumder M, Ghosh AK, Steele R, Zhou XY, Phillips NJ, Ray R, Ray RB
+  TITLE     Hepatitis C virus NS5A protein impairs TNF-mediated hepatic apoptosis, but not by an anti-FAS antibody, in transgenic mice.
+  JOURNAL   Virology 294:94-105 (2002)
+            DOI:10.1006/viro.2001.1309
+REFERENCE   PMID:11278402
+  AUTHORS   Arima N, Kao CY, Licht T, Padmanabhan R, Sasaguri Y, Padmanabhan R
+  TITLE     Modulation of cell growth by the hepatitis C virus nonstructural protein NS5A.
+  JOURNAL   J Biol Chem 276:12675-84 (2001)
+            DOI:10.1074/jbc.M008329200
+REFERENCE   PMID:21250384
+  AUTHORS   He Y, Staschke KA, Tan SL
+  TITLE     HCV NS5A: A Multifunctional Regulator of Cellular Pathways and Virus Replication
+  JOURNAL   Hepatitis C Viruses: Genomes and Molecular Biology (2006)
+REFERENCE   PMID:12379483
+  AUTHORS   Qadri I, Iwahashi M, Simon F
+  TITLE     Hepatitis C virus NS5A protein binds TBP and p53, inhibiting their DNA binding and p53 interactions with TBP and ERCC3.
+  JOURNAL   Biochim Biophys Acta 1592:193-204 (2002)
+            DOI:10.1016/S0167-4889(02)00315-4
+REFERENCE   PMID:22110506
+  AUTHORS   Spender LC, Inman GJ
+  TITLE     Inhibition of germinal centre apoptotic programmes by epstein-barr virus.
+  JOURNAL   Adv Hematol 2011:829525 (2011)
+            DOI:10.1155/2011/829525
+REFERENCE   PMID:20494113
+  AUTHORS   Klein G, Klein E, Kashuba E
+  TITLE     Interaction of Epstein-Barr virus (EBV) with human B-lymphocytes.
+  JOURNAL   Biochem Biophys Res Commun 396:67-73 (2010)
+            DOI:10.1016/j.bbrc.2010.02.146
+REFERENCE   PMID:21372216
+  AUTHORS   Saha A, Robertson ES
+  TITLE     Epstein-Barr virus-associated B-cell lymphomas: pathogenesis and clinical outcomes.
+  JOURNAL   Clin Cancer Res 17:3056-63 (2011)
+            DOI:10.1158/1078-0432.CCR-10-2578
+REFERENCE   PMID:15510157
+  AUTHORS   Young LS, Rickinson AB.
+  TITLE     Epstein-Barr virus: 40 years on.
+  JOURNAL   Nat Rev Cancer 4:757-68 (2004)
+            DOI:10.1038/nrc1452
+REFERENCE   PMID:14506283
+  AUTHORS   Holowaty MN, Sheng Y, Nguyen T, Arrowsmith C, Frappier L
+  TITLE     Protein interaction domains of the ubiquitin-specific protease, USP7/HAUSP.
+  JOURNAL   J Biol Chem 278:47753-61 (2003)
+            DOI:10.1074/jbc.M307200200
+REFERENCE   PMID:11160754
+  AUTHORS   Harada S, Yalamanchili R, Kieff E
+  TITLE     Epstein-Barr virus nuclear protein 2 has at least two N-terminal domains that mediate self-association.
+  JOURNAL   J Virol 75:2482-7 (2001)
+            DOI:10.1128/JVI.75.5.2482-2487.2001
+REFERENCE   PMID:15452270
+  AUTHORS   Peng CW, Zhao B, Kieff E
+  TITLE     Four EBNA2 domains are important for EBNALP coactivation.
+  JOURNAL   J Virol 78:11439-42 (2004)
+            DOI:10.1128/JVI.78.20.11439-11442.2004
+REFERENCE   PMID:15767449
+  AUTHORS   Peng R, Moses SC, Tan J, Kremmer E, Ling PD
+  TITLE     The Epstein-Barr virus EBNA-LP protein preferentially coactivates EBNA2-mediated stimulation of latent membrane proteins expressed from the viral divergent promoter.
+  JOURNAL   J Virol 79:4492-505 (2005)
+            DOI:10.1128/JVI.79.7.4492-4505.2005
+REFERENCE   PMID:21177815
+  AUTHORS   Saha A, Bamidele A, Murakami M, Robertson ES
+  TITLE     EBNA3C attenuates the function of p53 through interaction with inhibitor of growth family proteins 4 and 5.
+  JOURNAL   J Virol 85:2079-88 (2011)
+            DOI:10.1128/JVI.02279-10
+REFERENCE   PMID:21347341
+  AUTHORS   Saha A, Halder S, Upadhyay SK, Lu J, Kumar P, Murakami M, Cai Q, Robertson ES
+  TITLE     Epstein-Barr virus nuclear antigen 3C facilitates G1-S transition by stabilizing and enhancing the function of cyclin D1.
+  JOURNAL   PLoS Pathog 7:e1001275 (2011)
+            DOI:10.1371/journal.ppat.1001275
+REFERENCE   PMID:15542638
+  AUTHORS   Knight JS, Sharma N, Kalman DE, Robertson ES
+  TITLE     A cyclin-binding motif within the amino-terminal homology domain of EBNA3C binds cyclin A and modulates cyclin A-dependent kinase activity in Epstein-Barr virus-infected cells.
+  JOURNAL   J Virol 78:12857-67 (2004)
+            DOI:10.1128/JVI.78.23.12857-12867.2004
+REFERENCE   PMID:14747563
+  AUTHORS   Knight JS, Robertson ES
+  TITLE     Epstein-Barr virus nuclear antigen 3C regulates cyclin A/p27 complexes and enhances cyclin A-dependent kinase activity.
+  JOURNAL   J Virol 78:1981-91 (2004)
+            DOI:10.1128/JVI.78.4.1981-1991.2004
+REFERENCE   PMID:16352731
+  AUTHORS   Knight JS, Sharma N, Robertson ES
+  TITLE     Epstein-Barr virus latent antigen 3C can mediate the degradation of the retinoblastoma protein through an SCF cellular ubiquitin ligase.
+  JOURNAL   Proc Natl Acad Sci U S A 102:18562-6 (2005)
+            DOI:10.1073/pnas.0503886102
+REFERENCE   PMID:18391203
+  AUTHORS   Kashuba E, Yurchenko M, Yenamandra SP, Snopok B, Isaguliants M, Szekely L, Klein G
+  TITLE     EBV-encoded EBNA-6 binds and targets MRS18-2 to the nucleus, resulting in the disruption of pRb-E2F1 complexes.
+  JOURNAL   Proc Natl Acad Sci U S A 105:5489-94 (2008)
+            DOI:10.1073/pnas.0801053105
+REFERENCE   PMID:11091847
+  AUTHORS   Young LS, Dawson CW, Eliopoulos AG
+  TITLE     The expression and function of Epstein-Barr virus encoded latent genes.
+  JOURNAL   Mol Pathol 53:238-47 (2000)
+            DOI:10.1136/mp.53.5.238
+REFERENCE   PMID:19078975
+  AUTHORS   Kuppers R
+  TITLE     The biology of Hodgkin's lymphoma.
+  JOURNAL   Nat Rev Cancer 9:15-27 (2009)
+            DOI:10.1038/nrc2542
+REFERENCE   PMID:17049016
+  AUTHORS   Pattle SB, Farrell PJ
+  TITLE     The role of Epstein-Barr virus in cancer.
+  JOURNAL   Expert Opin Biol Ther 6:1193-205 (2006)
+            DOI:10.1517/14712598.6.11.1193
+REFERENCE   PMID:11905817
+  AUTHORS   Thorley-Lawson DA
+  TITLE     Epstein-Barr virus: exploiting the immune system.
+  JOURNAL   Nat Rev Immunol 1:75-82 (2001)
+            DOI:10.1038/35095584
+REFERENCE   PMID:11669605
+  AUTHORS   Eliopoulos AG, Young LS
+  TITLE     LMP1 structure and signal transduction.
+  JOURNAL   Semin Cancer Biol 11:435-44 (2001)
+            DOI:10.1006/scbi.2001.0410
+REFERENCE   PMID:11766888
+  AUTHORS   Dell G, Gaston K
+  TITLE     Human papillomaviruses and their role in cervical cancer.
+  JOURNAL   Cell Mol Life Sci 58:1923-42 (2001)
+            DOI:10.1007/PL00000827
+REFERENCE   PMID:10793105
+  AUTHORS   zur Hausen H
+  TITLE     Papillomaviruses causing cancer: evasion from host-cell control in early events in carcinogenesis.
+  JOURNAL   J Natl Cancer Inst 92:690-8 (2000)
+            DOI:10.1093/jnci/92.9.690
+REFERENCE   PMID:19156753
+  AUTHORS   Yugawa T, Kiyono T
+  TITLE     Molecular mechanisms of cervical carcinogenesis by high-risk human papillomaviruses: novel functions of E6 and E7 oncoproteins.
+  JOURNAL   Rev Med Virol 19:97-113 (2009)
+            DOI:10.1002/rmv.605
+REFERENCE   PMID:17645777
+  AUTHORS   Narisawa-Saito M, Kiyono T
+  TITLE     Basic mechanisms of high-risk human papillomavirus-induced carcinogenesis: roles of E6 and E7 proteins.
+  JOURNAL   Cancer Sci 98:1505-11 (2007)
+            DOI:10.1111/j.1349-7006.2007.00546.x
+REFERENCE   PMID:15342967
+  AUTHORS   Motoyama S, Ladines-Llave CA, Luis Villanueva S, Maruo T
+  TITLE     The role of human papilloma virus in the molecular biology of cervical carcinogenesis.
+  JOURNAL   Kobe J Med Sci 50:9-19 (2004)
+REFERENCE   PMID:20592731
+  AUTHORS   Moody CA, Laimins LA
+  TITLE     Human papillomavirus oncoproteins: pathways to transformation.
+  JOURNAL   Nat Rev Cancer 10:550-60 (2010)
+            DOI:10.1038/nrc2886
+REFERENCE   PMID:15956361
+  AUTHORS   McCance DJ
+  TITLE     Human papillomaviruses and cell signaling.
+  JOURNAL   Sci STKE 2005:pe29 (2005)
+            DOI:10.1126/stke.2882005pe29
+REFERENCE   PMID:18385245
+  AUTHORS   Wade R, Brimer N, Vande Pol S
+  TITLE     Transformation by bovine papillomavirus type 1 E6 requires paxillin.
+  JOURNAL   J Virol 82:5962-6 (2008)
+            DOI:10.1128/JVI.02747-07
+REFERENCE   PMID:9374493
+  AUTHORS   Berezutskaya E, Bagchi S
+  TITLE     The human papillomavirus E7 oncoprotein functionally interacts with the S4 subunit of the 26 S proteasome.
+  JOURNAL   J Biol Chem 272:30135-40 (1997)
+            DOI:10.1074/jbc.272.48.30135
+REFERENCE   PMID:16381817
+  AUTHORS   Zhang B, Chen W, Roman A
+  TITLE     The E7 proteins of low- and high-risk human papillomaviruses share the ability to target the pRB family member p130 for degradation.
+  JOURNAL   Proc Natl Acad Sci U S A 103:437-42 (2006)
+            DOI:10.1073/pnas.0510012103
+REFERENCE   PMID:12970441
+  AUTHORS   He W, Staples D, Smith C, Fisher C
+  TITLE     Direct activation of cyclin-dependent kinase 2 by human papillomavirus E7.
+  JOURNAL   J Virol 77:10566-74 (2003)
+            DOI:10.1128/JVI.77.19.10566-10574.2003
+REFERENCE   PMID:9349482
+  AUTHORS   Massimi P, Pim D, Banks L
+  TITLE     Human papillomavirus type 16 E7 binds to the conserved carboxy-terminal region of the TATA box binding protein and this contributes to E7 transforming activity.
+  JOURNAL   J Gen Virol 78 ( Pt 10):2607-13 (1997)
+            DOI:10.1099/0022-1317-78-10-2607
+REFERENCE   PMID:8617242
+  AUTHORS   Antinore MJ, Birrer MJ, Patel D, Nader L, McCance DJ
+  TITLE     The human papillomavirus type 16 E7 gene product interacts with and trans-activates the AP1 family of transcription factors.
+  JOURNAL   EMBO J 15:1950-60 (1996)
+            DOI:10.1002/j.1460-2075.1996.tb00546.x
+REFERENCE   PMID:9990017
+  AUTHORS   Zwerschke W, Mazurek S, Massimi P, Banks L, Eigenbrodt E, Jansen-Durr P
+  TITLE     Modulation of type M2 pyruvate kinase activity by the human papillomavirus type 16 E7 oncoprotein.
+  JOURNAL   Proc Natl Acad Sci U S A 96:1291-6 (1999)
+            DOI:10.1073/pnas.96.4.1291
+REFERENCE   PMID:17384582
+  AUTHORS   Matsuoka M, Jeang KT
+  TITLE     Human T-cell leukaemia virus type 1 (HTLV-1) infectivity and cellular transformation.
+  JOURNAL   Nat Rev Cancer 7:270-80 (2007)
+            DOI:10.1038/nrc2111
+REFERENCE   PMID:15310405
+  AUTHORS   Azran I, Schavinsky-Khrapunsky Y, Aboud M
+  TITLE     Role of Tax protein in human T-cell leukemia virus type-I leukemogenicity.
+  JOURNAL   Retrovirology 1:20 (2004)
+            DOI:10.1186/1742-4690-1-20
+REFERENCE   PMID:12910250
+  AUTHORS   Matsuoka M
+  TITLE     Human T-cell leukemia virus type I and adult T-cell leukemia.
+  JOURNAL   Oncogene 22:5131-40 (2003)
+            DOI:10.1038/sj.onc.1206551
+REFERENCE   PMID:11244044
+  AUTHORS   Yoshida M
+  TITLE     Multiple viral strategies of HTLV-1 for dysregulation of cell growth control.
+  JOURNAL   Annu Rev Immunol 19:475-96 (2001)
+            DOI:10.1146/annurev.immunol.19.1.475
+REFERENCE   PMID:18702816
+  AUTHORS   Boxus M, Twizere JC, Legros S, Dewulf JF, Kettmann R, Willems L
+  TITLE     The HTLV-1 Tax interactome.
+  JOURNAL   Retrovirology 5:76 (2008)
+            DOI:10.1186/1742-4690-5-76
+REFERENCE   PMID:8223437
+  AUTHORS   Caron C, Rousset R, Beraud C, Moncollin V, Egly JM, Jalinot P
+  TITLE     Functional and biochemical interaction of the HTLV-I Tax1 transactivator with TBP.
+  JOURNAL   EMBO J 12:4269-78 (1993)
+            DOI:10.1002/j.1460-2075.1993.tb06111.x
+REFERENCE   PMID:8756622
+  AUTHORS   Clemens KE, Piras G, Radonovich MF, Choi KS, Duvall JF, DeJong J, Roeder R, Brady JN
+  TITLE     Interaction of the human T-cell lymphotropic virus type 1 tax transactivator with transcription factor IIA.
+  JOURNAL   Mol Cell Biol 16:4656-64 (1996)
+            DOI:10.1128/MCB.16.9.4656
+REFERENCE   PMID:16036567
+  AUTHORS   Harhaj EW, Harhaj NS
+  TITLE     Mechanisms of persistent NF-kappaB activation by HTLV-I tax.
+  JOURNAL   IUBMB Life 57:83-91 (2005)
+            DOI:10.1080/15216540500078715
+REFERENCE   PMID:21743832
+  AUTHORS   Qu Z, Xiao G
+  TITLE     Human T-cell lymphotropic virus: a model of NF-kappaB-associated tumorigenesis.
+  JOURNAL   Viruses 3:714-49 (2011)
+            DOI:10.3390/v3060714
+REFERENCE   PMID:16155601
+  AUTHORS   Kashanchi F, Brady JN
+  TITLE     Transcriptional and post-transcriptional gene regulation of HTLV-1.
+  JOURNAL   Oncogene 24:5938-51 (2005)
+            DOI:10.1038/sj.onc.1208973
+REFERENCE   PMID:14530271
+  AUTHORS   Wu K, Bottazzi ME, de la Fuente C, Deng L, Gitlin SD, Maddukuri A, Dadgar S, Li H, Vertes A, Pumfery A, Kashanchi F
+  TITLE     Protein profile of tax-associated complexes.
+  JOURNAL   J Biol Chem 279:495-508 (2004)
+            DOI:10.1074/jbc.M310069200
+REFERENCE   PMID:16155604
+  AUTHORS   Grassmann R, Aboud M, Jeang KT
+  TITLE     Molecular mechanisms of cellular transformation by HTLV-1 Tax.
+  JOURNAL   Oncogene 24:5976-85 (2005)
+            DOI:10.1038/sj.onc.1208978
+REFERENCE   PMID:16308315
+  AUTHORS   Tabakin-Fix Y, Azran I, Schavinky-Khrapunsky Y, Levy O, Aboud M
+  TITLE     Functional inactivation of p53 by human T-cell leukemia virus type 1 Tax protein: mechanisms and clinical implications.
+  JOURNAL   Carcinogenesis 27:673-81 (2006)
+            DOI:10.1093/carcin/bgi274
+REFERENCE   PMID:16760382
+  AUTHORS   Rezaee SA, Cunningham C, Davison AJ, Blackbourn DJ
+  TITLE     Kaposi's sarcoma-associated herpesvirus immune modulation: an overview.
+  JOURNAL   J Gen Virol 87:1781-804 (2006)
+            DOI:10.1099/vir.0.81919-0
+REFERENCE   PMID:17457345
+  AUTHORS   Coscoy L
+  TITLE     Immune evasion by Kaposi's sarcoma-associated herpesvirus.
+  JOURNAL   Nat Rev Immunol 7:391-401 (2007)
+            DOI:10.1038/nri2076
+REFERENCE   PMID:21040832
+  AUTHORS   Cai Q, Verma SC, Lu J, Robertson ES
+  TITLE     Molecular biology of Kaposi's sarcoma-associated herpesvirus and related oncogenesis.
+  JOURNAL   Adv Virus Res 78:87-142 (2010)
+            DOI:10.1016/B978-0-12-385032-4.00003-3
+REFERENCE   PMID:16828973
+  AUTHORS   Jarviluoma A, Ojala PM
+  TITLE     Cell signaling pathways engaged by KSHV.
+  JOURNAL   Biochim Biophys Acta 1766:140-58 (2006)
+            DOI:10.1016/j.bbcan.2006.05.001
+REFERENCE   PMID:18948197
+  AUTHORS   Liang C, Lee JS, Jung JU
+  TITLE     Immune evasion in Kaposi's sarcoma-associated herpes virus associated oncogenesis.
+  JOURNAL   Semin Cancer Biol 18:423-36 (2008)
+            DOI:10.1016/j.semcancer.2008.09.003
+REFERENCE   PMID:19715458
+  AUTHORS   Lee HR, Kim MH, Lee JS, Liang C, Jung JU
+  TITLE     Viral interferon regulatory factors.
+  JOURNAL   J Interferon Cytokine Res 29:621-7 (2009)
+            DOI:10.1089/jir.2009.0067
+REFERENCE   PMID:22566809
+  AUTHORS   Jacobs SR, Damania B
+  TITLE     The Viral Interferon Regulatory Factors of KSHV: Immunosuppressors or Oncogenes?
+  JOURNAL   Front Immunol 2:19 (2011)
+            DOI:10.3389/fimmu.2011.00019
+REFERENCE   PMID:19651473
+  AUTHORS   Wen KW, Damania B
+  TITLE     Kaposi sarcoma-associated herpesvirus (KSHV): molecular biology and oncogenesis.
+  JOURNAL   Cancer Lett 289:140-50 (2010)
+            DOI:10.1016/j.canlet.2009.07.004
+REFERENCE   PMID:15967719
+  AUTHORS   Wang HW, Boshoff C
+  TITLE     Linking Kaposi virus to cancer-associated cytokines.
+  JOURNAL   Trends Mol Med 11:309-12 (2005)
+            DOI:10.1016/j.molmed.2005.06.002
+REFERENCE   PMID:15692053
+  AUTHORS   McCormick C, Ganem D
+  TITLE     The kaposin B protein of KSHV activates the p38/MK2 pathway and stabilizes cytokine mRNAs.
+  JOURNAL   Science 307:739-41 (2005)
+            DOI:10.1126/science.1105779
+REFERENCE   PMID:12770701
+  AUTHORS   Verma SC, Robertson ES
+  TITLE     Molecular biology and pathogenesis of Kaposi sarcoma-associated herpesvirus.
+  JOURNAL   FEMS Microbiol Lett 222:155-63 (2003)
+            DOI:10.1016/S0378-1097(03)00261-1
+REFERENCE   PMID:10354594
+  AUTHORS   Schulz TF, Moore PS
+  TITLE     Kaposi's sarcoma-associated herpesvirus: a new human tumor virus, but how?
+  JOURNAL   Trends Microbiol 7:196-200 (1999)
+            DOI:10.1016/S0966-842X(99)01495-X
+REFERENCE   PMID:10855768
+  AUTHORS   Schulz TF
+  TITLE     Kaposi's sarcoma-associated herpesvirus (human herpesvirus 8): epidemiology and pathogenesis.
+  JOURNAL   J Antimicrob Chemother 45 Suppl T3:15-27 (2000)
+            DOI:10.1093/jac/45.suppl_4.15
+REFERENCE   PMID:9594662
+  AUTHORS   Moore PS, Chang Y
+  TITLE     Antiviral activity of tumor-suppressor pathways: clues from molecular piracy by KSHV.
+  JOURNAL   Trends Genet 14:144-50 (1998)
+            DOI:10.1016/S0168-9525(98)01408-5
+REFERENCE   PMID:20534855
+  AUTHORS   Pietrek M, Brinkmann MM, Glowacka I, Enlund A, Havemeier A, Dittrich-Breiholz O, Kracht M, Lewitzky M, Saksela K, Feller SM, Schulz TF
+  TITLE     Role of the Kaposi's sarcoma-associated herpesvirus K15 SH3 binding site in inflammatory signaling and B-cell activation.
+  JOURNAL   J Virol 84:8231-40 (2010)
+            DOI:10.1128/JVI.01696-09
+REFERENCE   PMID:21421561
+  AUTHORS   Bagneris C, Briggs LC, Savva R, Ebrahimi B, Barrett TE
+  TITLE     Crystal structure of a KSHV-SOX-DNA complex: insights into the molecular mechanisms underlying DNase activity and host shutoff.
+  JOURNAL   Nucleic Acids Res 39:5744-56 (2011)
+            DOI:10.1093/nar/gkr111
+REFERENCE   PMID:15919895
+  AUTHORS   Glaunsinger B, Chavez L, Ganem D
+  TITLE     The exonuclease and host shutoff functions of the SOX protein of Kaposi's sarcoma-associated herpesvirus are genetically separable.
+  JOURNAL   J Virol 79:7396-401 (2005)
+            DOI:10.1128/JVI.79.12.7396-7401.2005
+REL_PATHWAY hsa03022  Basal transcription factors
+            hsa03320  PPAR signaling pathway
+            hsa04010  MAPK signaling pathway
+            hsa04062  Chemokine signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04142  Lysosome
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04630  JAK-STAT signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+            hsa05165  Human papillomavirus infection
+            hsa05166  Human T-cell leukemia virus 1 infection
+            hsa05167  Kaposi sarcoma-associated herpesvirus infection
+            hsa05169  Epstein-Barr virus infection
+KO_PATHWAY  ko05203
+///

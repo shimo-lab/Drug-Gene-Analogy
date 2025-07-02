@@ -1,0 +1,141 @@
+ENTRY       hsa04977                    Pathway
+NAME        Vitamin digestion and absorption - Homo sapiens (human)
+DESCRIPTION Vitamins are a diverse and chemically unrelated group of organic substances that share a common feature of being essential for normal health and well-being. They catalyze numerous biochemical reactions. Because humans and other mammals cannot synthesize these compounds (except for some synthesis of niacin), they must obtain them from exogenous sources via intestinal absorption. Vitamins are classified based on their solubility in water or fat. Most of the water-soluble vitamins are transported across the small intestinal membrane by carrier-mediated mechanisms, but vitamin B12, cobalamin, is transported by a receptor-mediated mechanism. Intestinal absorption of fat-soluble vitamins requires all of the processes needed for fat absorption. After digestion, these vitamins and the products of pancreatic hydrolysis of triglycerides (TG) are emulsified by bile salts to form mixed micelles which are taken up by intestinal enterocytes and incorporated into chylomicrons (CM). CM are then secreted into the lymphatic system, and finally moves into the plasma.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP hsa04977  Vitamin digestion and absorption
+DBLINKS     GO: 0051180
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2694  CBLIF; cobalamin binding intrinsic factor [KO:K14615]
+            8029  CUBN; cubilin [KO:K14616]
+            55788  LMBRD1; LMBR1 domain containing 1 [KO:K14617]
+            25974  MMACHC; metabolism of cobalamin associated C [KO:K14618] [EC:1.16.1.6 2.5.1.151]
+            4363  ABCC1; ATP binding cassette subfamily C member 1 [KO:K05665] [EC:7.6.2.3]
+            6948  TCN2; transcobalamin 2 [KO:K14619]
+            80704  SLC19A3; solute carrier family 19 member 3 [KO:K14610]
+            10560  SLC19A2; solute carrier family 19 member 2 [KO:K14610]
+            113278  SLC52A3; solute carrier family 52 member 3 [KO:K14620]
+            686  BTD; biotinidase [KO:K01435] [EC:3.5.1.12]
+            8884  SLC5A6; solute carrier family 5 member 6 [KO:K14386]
+            9963  SLC23A1; solute carrier family 23 member 1 [KO:K14611]
+            2346  FOLH1; folate hydrolase 1 [KO:K14592] [EC:3.4.17.21]
+            113235  SLC46A1; solute carrier family 46 member 1 [KO:K14613]
+            6573  SLC19A1; solute carrier family 19 member 1 [KO:K14609]
+            949  SCARB1; scavenger receptor class B member 1 [KO:K13885]
+            5406  PNLIP; pancreatic lipase [KO:K14073] [EC:3.1.1.3]
+            151056  PLB1; phospholipase B1 [KO:K14621] [EC:3.1.1.4 3.1.1.5]
+            5948  RBP2; retinol binding protein 2 [KO:K14622]
+            158835  AWAT2; acyl-CoA wax alcohol acyltransferase 2 [KO:K11156] [EC:2.3.1.75 2.3.1.76]
+            9227  LRAT; lecithin retinol acyltransferase [KO:K00678] [EC:2.3.1.135]
+            338  APOB; apolipoprotein B [KO:K14462]
+            337  APOA4; apolipoprotein A4 [KO:K08760]
+            335  APOA1; apolipoprotein A1 [KO:K08757]
+COMPOUND    C00003  NAD+
+            C00010  CoA
+            C00016  FAD
+            C00018  Pyridoxal phosphate
+            C00061  FMN
+            C00068  Thiamin diphosphate
+            C00072  Ascorbate
+            C00080  H+
+            C00120  Biotin
+            C00153  Nicotinamide
+            C00162  Fatty acid
+            C00187  Cholesterol
+            C00250  Pyridoxal
+            C00255  Riboflavin
+            C00376  Retinal
+            C00378  Thiamine
+            C00422  Triacylglycerol
+            C00473  Retinol
+            C00504  Folate
+            C00534  Pyridoxamine
+            C00647  Pyridoxamine phosphate
+            C00681  1-Acyl-sn-glycerol 3-phosphate
+            C00828  Menaquinone
+            C00864  Pantothenate
+            C01330  Sodium cation
+            C01558  Bile salt
+            C01885  1-Acylglycerol
+            C02059  Phylloquinone
+            C02075  Retinyl ester
+            C02094  beta-Carotene
+            C02112  2-Acylglycerol
+            C02477  alpha-Tocopherol
+            C02530  Cholesterol ester
+            C05377  Menadione
+            C05443  Vitamin D3
+            C05552  Biocytin
+            C05776  Vitamin B12
+            C12981  dl-alpha-Tocopherol nicotinate
+            C13202  alpha-Tocopherol acetate
+REFERENCE   PMID:16462170
+  AUTHORS   Said HM, Mohammed ZM
+  TITLE     Intestinal absorption of water-soluble vitamins: an update.
+  JOURNAL   Curr Opin Gastroenterol 22:140-6 (2006)
+            DOI:10.1097/01.mog.0000203870.22706.52
+REFERENCE   PMID:14642860
+  AUTHORS   Basu TK, Donaldson D
+  TITLE     Intestinal absorption in health and disease: micronutrients.
+  JOURNAL   Best Pract Res Clin Gastroenterol 17:957-79 (2003)
+            DOI:10.1016/S1521-6918(03)00084-2
+REFERENCE   PMID:14977409
+  AUTHORS   Said HM
+  TITLE     Recent advances in carrier-mediated intestinal absorption of water-soluble vitamins.
+  JOURNAL   Annu Rev Physiol 66:419-46 (2004)
+            DOI:10.1146/annurev.physiol.66.032102.144611
+REFERENCE   PMID:16206251
+  AUTHORS   Reidling JC, Nabokina SM, Balamurugan K, Said HM
+  TITLE     Developmental maturation of intestinal and renal thiamin uptake: studies in wild-type and transgenic mice carrying human THTR-1 and 2 promoters.
+  JOURNAL   J Cell Physiol 206:371-7 (2006)
+            DOI:10.1002/jcp.20492
+REFERENCE   PMID:20724488
+  AUTHORS   Fujimura M, Yamamoto S, Murata T, Yasujima T, Inoue K, Ohta KY, Yuasa H
+  TITLE     Functional characteristics of the human ortholog of riboflavin transporter 2 and riboflavin-responsive expression of its rat ortholog in the small intestine indicate its involvement in riboflavin absorption.
+  JOURNAL   J Nutr 140:1722-7 (2010)
+            DOI:10.3945/jn.110.128330
+REFERENCE   PMID:19056639
+  AUTHORS   Said HM
+  TITLE     Cell and molecular aspects of human intestinal biotin absorption.
+  JOURNAL   J Nutr 139:158-62 (2009)
+            DOI:10.3945/jn.108.092023
+REFERENCE   PMID:20185591
+  AUTHORS   Green R
+  TITLE     Ins and outs of cellular cobalamin transport.
+  JOURNAL   Blood 115:1476-7 (2010)
+            DOI:10.1182/blood-2009-12-254037
+REFERENCE   PMID:19173758
+  AUTHORS   Zhao R, Matherly LH, Goldman ID
+  TITLE     Membrane transporters and folate homeostasis: intestinal absorption and transport into systemic compartments and tissues.
+  JOURNAL   Expert Rev Mol Med 11:e4 (2009)
+            DOI:10.1017/S1462399409000969
+REFERENCE   PMID:11984580
+  AUTHORS   Hediger MA
+  TITLE     New view at C.
+  JOURNAL   Nat Med 8:445-6 (2002)
+            DOI:10.1038/nm0502-445
+REFERENCE   PMID:11340090
+  AUTHORS   Harrison EH, Hussain MM
+  TITLE     Mechanisms involved in the intestinal digestion and absorption of dietary vitamin A.
+  JOURNAL   J Nutr 131:1405-8 (2001)
+            DOI:10.1093/jn/131.5.1405
+REFERENCE   PMID:16688755
+  AUTHORS   Blomhoff R, Blomhoff HK.
+  TITLE     Overview of retinoid metabolism and function.
+  JOURNAL   J Neurobiol 66:606-30 (2006)
+            DOI:10.1002/neu.20242
+REFERENCE   PMID:20166147
+  AUTHORS   Lemaire-Ewing S, Desrumaux C, Neel D, Lagrost L
+  TITLE     Vitamin E transport, membrane incorporation and cell metabolism: Is alpha-tocopherol in lipid rafts an oar in the lifeboat?
+  JOURNAL   Mol Nutr Food Res 54:631-40 (2010)
+            DOI:10.1002/mnfr.200900445
+REFERENCE   PMID:18841274
+  AUTHORS   Shearer MJ, Newman P
+  TITLE     Metabolism and cell biology of vitamin K.
+  JOURNAL   Thromb Haemost 100:530-47 (2008)
+            DOI:10.1160/TH08-03-0147
+REL_PATHWAY hsa04142  Lysosome
+            hsa04144  Endocytosis
+            hsa04975  Fat digestion and absorption
+            hsa04976  Bile secretion
+KO_PATHWAY  ko04977
+///

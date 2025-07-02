@@ -1,0 +1,501 @@
+ENTRY       hsa05167                    Pathway
+NAME        Kaposi sarcoma-associated herpesvirus infection - Homo sapiens (human)
+DESCRIPTION Kaposi sarcoma-associated herpesvirus (KSHV), also known as human herpesvirus 8 (HHV-8), is the most recently identified human tumor virus, and is associated with the pathogenesis of Kaposi's sarcoma (KS), primary effusion lymphoma (PEL), and Multicentric Castleman's disease (MCD). Like all other herpesviruses, KSHV displays two modes of life cycle, latency and lytic replication, which are characterized by the patterns of viral gene expression. Genes expressed in latency (LANA, v-cyclin, v-FLIP, Kaposins A, B and C and viral miRNAs) are mainly thought to facilitate the establishment of life long latency in its host and survival against the host innate, and adaptive immune surveillance mechanisms. Among the viral proteins shown to be expressed during lytic replication are potent signaling molecules such as vGPCR, vIL6, vIRFs, vCCLs, K1 and K15, which have been implicated experimentally in the angiogenic and inflammatory phenotype observed in KS lesions. Several of these latent viral and lytic proteins are known to transform host cells, linking KSHV with the development of severe human malignancies.
+CLASS       Human Diseases; Infectious disease: viral
+PATHWAY_MAP hsa05167  Kaposi sarcoma-associated herpesvirus infection
+NETWORK     nt06110  MAPK signaling (viruses and bacteria)
+            nt06114  PI3K signaling (viruses)
+            nt06120  Calcium signaling (viruses and bacteria)
+            nt06122  IFN signaling (viruses)
+            nt06124  Chemokine signaling (viruses)
+            nt06128  Autophagy (viruses and bacteria)
+            nt06129  MHC presentation (viruses)
+            nt06130  Cell cycle (viruses)
+            nt06131  Apoptosis (viruses and bacteria)
+            nt06150  Cytokine-cytokine receptor interaction (viruses)
+            nt06164  Kaposi sarcoma-associated herpesvirus (KSHV)
+            nt06210  ERK signaling
+            nt06211  Other MAPK signaling
+            nt06214  PI3K signaling
+            nt06215  WNT signaling
+            nt06219  JAK-STAT signaling
+            nt06220  Calcium signaling
+            nt06221  TLR signaling
+            nt06222  IFN signaling
+            nt06223  TNF signaling
+            nt06224  CXCR signaling
+            nt06228  Autophagy
+            nt06229  MHC presentation
+            nt06230  Cell cycle
+            nt06231  Apoptosis
+            nt06505  WNT signaling
+            nt06513  Complement cascade
+            nt06516  TNF signaling
+            nt06517  TLR signaling
+            nt06518  JAK-STAT signaling
+  ELEMENT   N00157  KSHV vGPCR to GNB/G-ERK signaling pathway
+            N00158  KSHV vGPCR to GNB/G-PI3K-AKT signaling pathway
+            N00159  KSHV K1 to PI3K signaling pathway
+            N00160  KSHV K1 to RAS-ERK signaling pathway
+            N00161  KSHV vIRF1/2 to TLR3-IRF3 signaling pathway
+            N00162  KSHV vIRF3 to TLR3-IRF7 signaling pathway
+            N00163  KSHV KIE1/2 to TLR3-IRF7 signaling pathway
+            N00164  KSHV vBCL2 to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00165  KSHV vIAP to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00166  KSHV vFLIP to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00167  KSHV vIRF1/3 to p21-cell cycle G1/S
+            N00168  KSHV vCyclin to cell cycle G1/S
+            N00169  KSHV LANA to p21-cell cycle G1/S
+            N00170  KSHV LANA to cell cycle G1/S
+            N00171  KSHV vFLIP to NFKB signaling pathway
+            N00172  KSHV K15 to PLCG-calcineurin signaling pathway
+            N00173  KSHV K15 to TNF-NFKB signaling pathway
+            N00174  KSHV vFLIP to TNF-NFKB signaling pathway
+            N00175  KSHV LANA to Wnt signaling pathway
+            N00176  KSHV vFLIP to autophagy-vesicle elongation
+            N00177  KSHV vBCL2 to autophagy-vesicle nucleation
+            N00178  KSHV vGPCR to GNB/G-PI3K-JNK signaling pathway
+            N00179  KSHV K1 to PI3K-NFKB signaling pathway
+            N00180  KSHV K1 to PLCG-calcineurin signaling pathway
+            N00181  KSHV vIL-6 to Jak-STAT signaling pathway
+            N00184  KSHV MIR1/2 to antigen processing and presentation by MHC class I molecules
+            N00185  KSHV MIR2 to cell surface molecule-endocytosis
+            N00187  KSHV Kaposin B to p38 signaling pathway
+            N00189  KSHV K15 to JNK signaling pathway
+            N00212  KSHV vCCL2 to CCR signaling pathway
+            N00213  KSHV Kaposin to alternative pathway of complement cascade
+            N00261  KSHV vIRF2 to IFN signaling pathway
+            N00462  KSHV vCCL1/2/3 to CCR signaling pathway
+            N01527  KSHV Kaposin to classical/Lectin pathway of complement cascade, C4b breakdown
+            N01528  KSHV Kaposin to alternative pathway of complement cascade, C3b breakdown
+DISEASE     H00041  Kaposi sarcoma
+DRUG        D02745  Interferon alfa-2b (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        718  C3; complement C3 [KO:K03990]
+            7098  TLR3; toll like receptor 3 [KO:K05401]
+            148022  TICAM1; TIR domain containing adaptor molecule 1 [KO:K05842]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            3665  IRF7; interferon regulatory factor 7 [KO:K09447]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            3454  IFNAR1; interferon alpha and beta receptor subunit 1 [KO:K05130]
+            3455  IFNAR2; interferon alpha and beta receptor subunit 2 [KO:K05131]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            7297  TYK2; tyrosine kinase 2 [KO:K11219] [EC:2.7.10.2]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6773  STAT2; signal transducer and activator of transcription 2 [KO:K11221]
+            10379  IRF9; interferon regulatory factor 9 [KO:K04693]
+            5610  EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2 [KO:K16195] [EC:2.7.11.1]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            9261  MAPKAPK2; MAPK activated protein kinase 2 [KO:K04443] [EC:2.7.11.1]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            7538  ZFP36; ZFP36 ring finger protein [KO:K15308]
+            3569  IL6; interleukin 6 [KO:K05405]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            1232  CCR3; C-C motif chemokine receptor 3 [KO:K04178]
+            1234  CCR5; C-C motif chemokine receptor 5 [KO:K04180]
+            1230  CCR1; C-C motif chemokine receptor 1 [KO:K04176]
+            1233  CCR4; C-C motif chemokine receptor 4 [KO:K04179]
+            1237  CCR8; C-C motif chemokine receptor 8 [KO:K04183]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            637  BID; BH3 interacting domain death agonist [KO:K04726]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            3459  IFNGR1; interferon gamma receptor 1 [KO:K05132]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+            942  CD86; CD86 molecule [KO:K05413]
+            4277  MICB; MHC class I polypeptide-related sequence B [KO:K07985]
+            100507436  MICA; MHC class I polypeptide-related sequence A [KO:K07985]
+            9976  CLEC2B; C-type lectin domain family 2 member B [KO:K10071]
+            7311  UBA52; ubiquitin A-52 residue ribosomal protein fusion product 1 [KO:K02927]
+            6233  RPS27A; ribosomal protein S27a [KO:K02977]
+            7314  UBB; ubiquitin B [KO:K04551]
+            7316  UBC; ubiquitin C [KO:K08770]
+            8678  BECN1; beclin 1 [KO:K08334]
+            441925  BECN2; beclin 2 [KO:K08334]
+            22863  ATG14; autophagy related 14 [KO:K17889]
+            5289  PIK3C3; phosphatidylinositol 3-kinase catalytic subunit type 3 [KO:K00914] [EC:2.7.1.137]
+            64422  ATG3; autophagy related 3 [KO:K08343]
+            440738  MAP1LC3C; microtubule associated protein 1 light chain 3 gamma [KO:K10435]
+            81631  MAP1LC3B; microtubule associated protein 1 light chain 3 beta [KO:K10435]
+            84557  MAP1LC3A; microtubule associated protein 1 light chain 3 alpha [KO:K10435]
+            643246  MAP1LC3B2; microtubule associated protein 1 light chain 3 beta 2 [KO:K10435]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            3091  HIF1A; hypoxia inducible factor 1 subunit alpha [KO:K08268]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            5294  PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [KO:K21289] [EC:2.7.1.153]
+            23533  PIK3R5; phosphoinositide-3-kinase regulatory subunit 5 [KO:K21290]
+            146850  PIK3R6; phosphoinositide-3-kinase regulatory subunit 6 [KO:K21290]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            57580  PREX1; phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1 [KO:K12365]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            344807  CD200R1L; CD200 receptor 1 like [KO:K21668]
+            131450  CD200R1; CD200 receptor 1 [KO:K21668]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            3055  HCK; HCK proto-oncogene, Src family tyrosine kinase [KO:K08893] [EC:2.7.10.2]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            4776  NFATC4; nuclear factor of activated T cells 4 [KO:K17334]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            1827  RCAN1; regulator of calcineurin 1 [KO:K17901]
+            2247  FGF2; fibroblast growth factor 2 [KO:K18497]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            5155  PDGFB; platelet derived growth factor subunit B [KO:K17386]
+            285  ANGPT2; angiopoietin 2 [KO:K05466]
+            3572  IL6ST; interleukin 6 cytokine family signal transducer [KO:K05060]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            6932  TCF7; transcription factor 7 [KO:K02620]
+            83439  TCF7L1; transcription factor 7 like 1 [KO:K04490]
+            6934  TCF7L2; transcription factor 7 like 2 [KO:K04491]
+            51176  LEF1; lymphoid enhancer binding factor 1 [KO:K04492]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            595  CCND1; cyclin D1 [KO:K04503]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00350  Phosphatidylethanolamine
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:22403573
+  AUTHORS   Lee HR, Brulois K, Wong L, Jung JU
+  TITLE     Modulation of Immune System by Kaposi's Sarcoma-Associated Herpesvirus: Lessons from Viral Evasion Strategies.
+  JOURNAL   Front Microbiol 3:44 (2012)
+            DOI:10.3389/fmicb.2012.00044
+REFERENCE   PMID:18948197
+  AUTHORS   Liang C, Lee JS, Jung JU
+  TITLE     Immune evasion in Kaposi's sarcoma-associated herpes virus associated oncogenesis.
+  JOURNAL   Semin Cancer Biol 18:423-36 (2008)
+            DOI:10.1016/j.semcancer.2008.09.003
+REFERENCE   PMID:21040832
+  AUTHORS   Cai Q, Verma SC, Lu J, Robertson ES
+  TITLE     Molecular biology of Kaposi's sarcoma-associated herpesvirus and related oncogenesis.
+  JOURNAL   Adv Virus Res 78:87-142 (2010)
+            DOI:10.1016/B978-0-12-385032-4.00003-3
+REFERENCE   PMID:16760382
+  AUTHORS   Rezaee SA, Cunningham C, Davison AJ, Blackbourn DJ
+  TITLE     Kaposi's sarcoma-associated herpesvirus immune modulation: an overview.
+  JOURNAL   J Gen Virol 87:1781-804 (2006)
+            DOI:10.1099/vir.0.81919-0
+REFERENCE   PMID:19230674
+  AUTHORS   Areste C, Blackbourn DJ
+  TITLE     Modulation of the immune system by Kaposi's sarcoma-associated herpesvirus.
+  JOURNAL   Trends Microbiol 17:119-29 (2009)
+            DOI:10.1016/j.tim.2008.12.001
+REFERENCE   PMID:16905191
+  AUTHORS   Mark L, Spiller OB, Villoutreix BO, Blom AM
+  TITLE     Kaposi's sarcoma-associated herpes virus complement control protein: KCP--complement inhibition and more.
+  JOURNAL   Mol Immunol 44:11-22 (2007)
+            DOI:10.1016/j.molimm.2006.06.018
+REFERENCE   PMID:11500830
+  AUTHORS   Weber KS, Grone HJ, Rocken M, Klier C, Gu S, Wank R, Proudfoot AE, Nelson PJ, Weber C
+  TITLE     Selective recruitment of Th2-type cells and evasion from a cytotoxic immune response mediated by viral macrophage inhibitory protein-II.
+  JOURNAL   Eur J Immunol 31:2458-66 (2001)
+            DOI:10.1002/1521-4141(200108)31:8<2458::AID-IMMU2458>3.0.CO;2-L
+REFERENCE   PMID:10666184
+  AUTHORS   Stine JT, Wood C, Hill M, Epp A, Raport CJ, Schweickart VL, Endo Y, Sasaki T, Simmons G, Boshoff C, Clapham P, Chang Y, Moore P, Gray PW, Chantry D
+  TITLE     KSHV-encoded CC chemokine vMIP-III is a CCR4 agonist, stimulates angiogenesis, and selectively chemoattracts TH2 cells.
+  JOURNAL   Blood 95:1151-7 (2000)
+REFERENCE   PMID:26431609
+  AUTHORS   Schulz TF, Cesarman E
+  TITLE     Kaposi Sarcoma-associated Herpesvirus: mechanisms of oncogenesis.
+  JOURNAL   Curr Opin Virol 14:116-28 (2015)
+            DOI:10.1016/j.coviro.2015.08.016
+REFERENCE   PMID:10377196
+  AUTHORS   Endres MJ, Garlisi CG, Xiao H, Shan L, Hedrick JA
+  TITLE     The Kaposi's sarcoma-related herpesvirus (KSHV)-encoded chemokine vMIP-I is a specific agonist for the CC chemokine receptor (CCR)8.
+  JOURNAL   J Exp Med 189:1993-8 (1999)
+            DOI:10.1084/jem.189.12.1993
+REFERENCE   PMID:18434408
+  AUTHORS   Choi YB, Nicholas J
+  TITLE     Autocrine and paracrine promotion of cell survival and virus replication by human herpesvirus 8 chemokines.
+  JOURNAL   J Virol 82:6501-13 (2008)
+            DOI:10.1128/JVI.02396-07
+REFERENCE   PMID:15692053
+  AUTHORS   McCormick C, Ganem D
+  TITLE     The kaposin B protein of KSHV activates the p38/MK2 pathway and stabilizes cytokine mRNAs.
+  JOURNAL   Science 307:739-41 (2005)
+            DOI:10.1126/science.1105779
+REFERENCE   PMID:15967719
+  AUTHORS   Wang HW, Boshoff C
+  TITLE     Linking Kaposi virus to cancer-associated cytokines.
+  JOURNAL   Trends Mol Med 11:309-12 (2005)
+            DOI:10.1016/j.molmed.2005.06.002
+REFERENCE   PMID:16828973
+  AUTHORS   Jarviluoma A, Ojala PM
+  TITLE     Cell signaling pathways engaged by KSHV.
+  JOURNAL   Biochim Biophys Acta 1766:140-58 (2006)
+            DOI:10.1016/j.bbcan.2006.05.001
+REFERENCE   PMID:12032073
+  AUTHORS   Wang HW, Sharp TV, Koumi A, Koentges G, Boshoff C
+  TITLE     Characterization of an anti-apoptotic glycoprotein encoded by Kaposi's sarcoma-associated herpesvirus which resembles a spliced variant of human survivin.
+  JOURNAL   EMBO J 21:2602-15 (2002)
+            DOI:10.1093/emboj/21.11.2602
+REFERENCE   PMID:10510092
+  AUTHORS   Djerbi M, Screpanti V, Catrina AI, Bogen B, Biberfeld P, Grandien A
+  TITLE     The inhibitor of death receptor signaling, FLICE-inhibitory protein defines a new class of tumor progression factors.
+  JOURNAL   J Exp Med 190:1025-32 (1999)
+            DOI:10.1084/jem.190.7.1025
+REFERENCE   PMID:10523854
+  AUTHORS   Chaudhary PM, Jasmin A, Eby MT, Hood L
+  TITLE     Modulation of the NF-kappa B pathway by virally encoded death effector domains-containing proteins.
+  JOURNAL   Oncogene 18:5738-46 (1999)
+            DOI:10.1038/sj.onc.1202976
+REFERENCE   PMID:12890756
+  AUTHORS   Field N, Low W, Daniels M, Howell S, Daviet L, Boshoff C, Collins M
+  TITLE     KSHV vFLIP binds to IKK-gamma to activate IKK.
+  JOURNAL   J Cell Sci 116:3721-8 (2003)
+            DOI:10.1242/jcs.00691
+REFERENCE   PMID:20865011
+  AUTHORS   Mesri EA, Cesarman E, Boshoff C
+  TITLE     Kaposi's sarcoma and its associated herpesvirus.
+  JOURNAL   Nat Rev Cancer 10:707-19 (2010)
+            DOI:10.1038/nrc2888
+REFERENCE   PMID:10799607
+  AUTHORS   Ishido S, Wang C, Lee BS, Cohen GB, Jung JU
+  TITLE     Downregulation of major histocompatibility complex class I molecules by Kaposi's sarcoma-associated herpesvirus K3 and K5 proteins.
+  JOURNAL   J Virol 74:5300-9 (2000)
+            DOI:10.1128/JVI.74.11.5300-5309.2000
+REFERENCE   PMID:17166914
+  AUTHORS   Li Q, Means R, Lang S, Jung JU
+  TITLE     Downregulation of gamma interferon receptor 1 by Kaposi's sarcoma-associated herpesvirus K3 and K5.
+  JOURNAL   J Virol 81:2117-27 (2007)
+            DOI:10.1128/JVI.01961-06
+REFERENCE   PMID:18230726
+  AUTHORS   Thomas M, Boname JM, Field S, Nejentsev S, Salio M, Cerundolo V, Wills M, Lehner PJ
+  TITLE     Down-regulation of NKG2D and NKp80 ligands by Kaposi's sarcoma-associated herpesvirus K5 protects against NK cell cytotoxicity.
+  JOURNAL   Proc Natl Acad Sci U S A 105:1656-61 (2008)
+            DOI:10.1073/pnas.0707883105
+REFERENCE   PMID:11413168
+  AUTHORS   Coscoy L, Ganem D
+  TITLE     A viral protein that selectively downregulates ICAM-1 and B7-2 and modulates T cell costimulation.
+  JOURNAL   J Clin Invest 107:1599-606 (2001)
+            DOI:10.1172/JCI12432
+REFERENCE   PMID:24710493
+  AUTHORS   Pratt ZL, Sugden B
+  TITLE     How human tumor viruses make use of autophagy.
+  JOURNAL   Cells 1:617-30 (2012)
+            DOI:10.3390/cells1030617
+REFERENCE   PMID:10354594
+  AUTHORS   Schulz TF, Moore PS
+  TITLE     Kaposi's sarcoma-associated herpesvirus: a new human tumor virus, but how?
+  JOURNAL   Trends Microbiol 7:196-200 (1999)
+            DOI:10.1016/S0966-842X(99)01495-X
+REFERENCE   PMID:9594662
+  AUTHORS   Moore PS, Chang Y
+  TITLE     Antiviral activity of tumor-suppressor pathways: clues from molecular piracy by KSHV.
+  JOURNAL   Trends Genet 14:144-50 (1998)
+            DOI:10.1016/S0168-9525(98)01408-5
+REFERENCE   PMID:12770701
+  AUTHORS   Verma SC, Robertson ES
+  TITLE     Molecular biology and pathogenesis of Kaposi sarcoma-associated herpesvirus.
+  JOURNAL   FEMS Microbiol Lett 222:155-63 (2003)
+            DOI:10.1016/S0378-1097(03)00261-1
+REFERENCE   PMID:11960692
+  AUTHORS   Jenner RG, Boshoff C
+  TITLE     The molecular pathology of Kaposi's sarcoma-associated herpesvirus.
+  JOURNAL   Biochim Biophys Acta 1602:1-22 (2002)
+            DOI:10.1016/S0304-419X(01)00040-3
+REFERENCE   PMID:15220441
+  AUTHORS   Foster-Cuevas M, Wright GJ, Puklavec MJ, Brown MH, Barclay AN
+  TITLE     Human herpesvirus 8 K14 protein mimics CD200 in down-regulating macrophage activation through CD200 receptor.
+  JOURNAL   J Virol 78:7667-76 (2004)
+            DOI:10.1128/JVI.78.14.7667-7676.2004
+REFERENCE   PMID:10987301
+  AUTHORS   Sodhi A, Montaner S, Patel V, Zohar M, Bais C, Mesri EA, Gutkind JS
+  TITLE     The Kaposi's sarcoma-associated herpes virus G protein-coupled receptor up-regulates vascular endothelial growth factor expression and secretion through mitogen-activated protein kinase and p38 pathways acting on hypoxia-inducible factor 1alpha.
+  JOURNAL   Cancer Res 60:4873-80 (2000)
+REFERENCE   PMID:27518127
+  AUTHORS   Abere B, Schulz TF
+  TITLE     KSHV non-structural membrane proteins involved in the activation of intracellular signaling pathways and the pathogenesis of Kaposi's sarcoma.
+  JOURNAL   Curr Opin Virol 20:11-19 (2016)
+            DOI:10.1016/j.coviro.2016.07.008
+REFERENCE   PMID:15573137
+  AUTHORS   Sodhi A, Montaner S, Gutkind JS
+  TITLE     Viral hijacking of G-protein-coupled-receptor signalling networks.
+  JOURNAL   Nat Rev Mol Cell Biol 5:998-1012 (2004)
+            DOI:10.1038/nrm1529
+REFERENCE   PMID:17329974
+  AUTHORS   Montaner S
+  TITLE     Akt/TSC/mTOR activation by the KSHV G protein-coupled receptor: emerging insights into the molecular oncogenesis and treatment of Kaposi's sarcoma.
+  JOURNAL   Cell Cycle 6:438-43 (2007)
+            DOI:10.4161/cc.6.4.3843
+REFERENCE   PMID:23028325
+  AUTHORS   Bala K, Bosco R, Gramolelli S, Haas DA, Kati S, Pietrek M, Havemeier A, Yakushko Y, Singh VV, Dittrich-Breiholz O, Kracht M, Schulz TF
+  TITLE     Kaposi's sarcoma herpesvirus K15 protein contributes to virus-induced angiogenesis by recruiting PLCgamma1 and activating NFAT1-dependent RCAN1 expression.
+  JOURNAL   PLoS Pathog 8:e1002927 (2012)
+            DOI:10.1371/journal.ppat.1002927
+REFERENCE   PMID:10318948
+  AUTHORS   Lagunoff M, Majeti R, Weiss A, Ganem D
+  TITLE     Deregulated signal transduction by the K1 gene product of Kaposi's sarcoma-associated herpesvirus.
+  JOURNAL   Proc Natl Acad Sci U S A 96:5704-9 (1999)
+            DOI:10.1073/pnas.96.10.5704
+REFERENCE   PMID:26192396
+  AUTHORS   Sousa-Squiavinato AC, Silvestre RN, Elgui De Oliveira D
+  TITLE     Biology and oncogenicity of the Kaposi sarcoma herpesvirus K1 protein.
+  JOURNAL   Rev Med Virol 25:273-85 (2015)
+            DOI:10.1002/rmv.1843
+REFERENCE   PMID:25187543
+  AUTHORS   Havemeier A, Gramolelli S, Pietrek M, Jochmann R, Sturzl M, Schulz TF
+  TITLE     Activation of NF-kappaB by the Kaposi's sarcoma-associated herpesvirus K15 protein involves recruitment of the NF-kappaB-inducing kinase, IkappaB kinases, and phosphorylation of p65.
+  JOURNAL   J Virol 88:13161-72 (2014)
+            DOI:10.1128/JVI.01766-14
+REFERENCE   PMID:17050609
+  AUTHORS   Brinkmann MM, Pietrek M, Dittrich-Breiholz O, Kracht M, Schulz TF
+  TITLE     Modulation of host gene expression by the K15 protein of Kaposi's sarcoma-associated herpesvirus.
+  JOURNAL   J Virol 81:42-58 (2007)
+            DOI:10.1128/JVI.00648-06
+REFERENCE   PMID:16585191
+  AUTHORS   Wang L, Dittmer DP, Tomlinson CC, Fakhari FD, Damania B
+  TITLE     Immortalization of primary endothelial cells by the K1 protein of Kaposi's sarcoma-associated herpesvirus.
+  JOURNAL   Cancer Res 66:3658-66 (2006)
+            DOI:10.1158/0008-5472.CAN-05-3680
+REFERENCE   PMID:22521915
+  AUTHORS   Morris VA, Punjabi AS, Wells RC, Wittkopp CJ, Vart R, Lagunoff M
+  TITLE     The KSHV viral IL-6 homolog is sufficient to induce blood to lymphatic endothelial cell differentiation.
+  JOURNAL   Virology 428:112-20 (2012)
+            DOI:10.1016/j.virol.2012.03.013
+REFERENCE   PMID:25594835
+  AUTHORS   Purushothaman P, Uppal T, Verma SC
+  TITLE     Molecular biology of KSHV lytic reactivation.
+  JOURNAL   Viruses 7:116-53 (2015)
+            DOI:10.3390/v7010116
+REFERENCE   PMID:14991150
+  AUTHORS   Fujimuro M, Hayward SD
+  TITLE     Manipulation of glycogen-synthase kinase-3 activity in KSHV-associated cancers.
+  JOURNAL   J Mol Med (Berl) 82:223-31 (2004)
+            DOI:10.1007/s00109-003-0519-7
+REFERENCE   PMID:26870016
+  AUTHORS   Purushothaman P, Dabral P, Gupta N, Sarkar R, Verma SC
+  TITLE     KSHV Genome Replication and Maintenance.
+  JOURNAL   Front Microbiol 7:54 (2016)
+            DOI:10.3389/fmicb.2016.00054
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04144  Endocytosis
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04310  Wnt signaling pathway
+            hsa04610  Complement and coagulation cascades
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04630  JAK-STAT signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04668  TNF signaling pathway
+KO_PATHWAY  ko05167
+///

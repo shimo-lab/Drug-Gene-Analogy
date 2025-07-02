@@ -1,0 +1,47 @@
+ENTRY       hsa03266                    Pathway
+NAME        Virion - Herpesvirus - Homo sapiens (human)
+CLASS       Genetic Information Processing; Information processing in viruses
+PATHWAY_MAP hsa03266  Virion - Herpesvirus
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        29992  PILRA; paired immunoglobin like type 2 receptor alpha [KO:K15411]
+            29990  PILRB; paired immunoglobin like type 2 receptor beta [KO:K15411]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            3416  IDE; insulin degrading enzyme [KO:K01408] [EC:3.4.24.56]
+            8764  TNFRSF14; TNF receptor superfamily member 14 [KO:K05152]
+            5818  NECTIN1; nectin cell adhesion molecule 1 [KO:K06081]
+            5819  NECTIN2; nectin cell adhesion molecule 2 [KO:K06531]
+            3482  IGF2R; insulin like growth factor 2 receptor [KO:K06564]
+REFERENCE   PMID:28528442
+  AUTHORS   Heming JD, Conway JF, Homa FL
+  TITLE     Herpesvirus Capsid Assembly and DNA Packaging.
+  JOURNAL   Adv Anat Embryol Cell Biol 223:119-142 (2017)
+            DOI:10.1007/978-3-319-53168-7_6
+REFERENCE   PMID:29622628
+  AUTHORS   Dai X, Zhou ZH
+  TITLE     Structure of the herpes simplex virus 1 capsid with associated tegument protein complexes.
+  JOURNAL   Science 360:eaao7298 (2018)
+            DOI:10.1126/science.aao7298
+REFERENCE   PMID:31142842
+  AUTHORS   Liu YT, Jih J, Dai X, Bi GQ, Zhou ZH
+  TITLE     Cryo-EM structures of herpes simplex virus type 1 portal vertex and packaged genome.
+  JOURNAL   Nature 570:257-261 (2019)
+            DOI:10.1038/s41586-019-1248-6
+REFERENCE   PMID:29728654
+  AUTHORS   Cooper RS, Georgieva ER, Borbat PP, Freed JH, Heldwein EE
+  TITLE     Structural basis for membrane anchoring and fusion regulation of the herpes simplex virus fusogen gB.
+  JOURNAL   Nat Struct Mol Biol 25:416-424 (2018)
+            DOI:10.1038/s41594-018-0060-6
+REFERENCE   PMID:20601960
+  AUTHORS   Chowdary TK, Cairns TM, Atanasiu D, Cohen GH, Eisenberg RJ, Heldwein EE
+  TITLE     Crystal structure of the conserved herpesvirus fusion regulator complex gH-gL.
+  JOURNAL   Nat Struct Mol Biol 17:882-8 (2010)
+            DOI:10.1038/nsmb.1837
+REFERENCE   PMID:33087881
+  AUTHORS   Connolly SA, Jardetzky TS, Longnecker R
+  TITLE     The structural basis of herpesvirus entry.
+  JOURNAL   Nat Rev Microbiol 19:110-121 (2021)
+            DOI:10.1038/s41579-020-00448-w
+REL_PATHWAY hsa05168  Herpes simplex virus 1 infection
+KO_PATHWAY  ko03266
+///

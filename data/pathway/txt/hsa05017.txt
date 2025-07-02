@@ -1,0 +1,383 @@
+ENTRY       hsa05017                    Pathway
+NAME        Spinocerebellar ataxia - Homo sapiens (human)
+DESCRIPTION The autosomal dominant spinocerebellar ataxias (SCAs) are a group of progressive neurodegenerative diseases characterised by loss of balance and motor coordination due to the primary dysfunction of the cerebellum. Compelling evidence points to major aetiological roles for transcriptional dysregulation, protein aggregation and clearance, autophagy, the ubiquitin-proteasome system, alterations of calcium homeostasis, mitochondria defects, toxic RNA gain-of-function mechanisms and eventual cell death with apoptotic features of neurons during SCA disease progression.
+CLASS       Human Diseases; Neurodegenerative disease
+PATHWAY_MAP hsa05017  Spinocerebellar ataxia
+NETWORK     nt06410  Calcium signaling
+            nt06411  Potassium transport
+            nt06413  Autophagy
+            nt06415  PI3K signaling
+            nt06440  Transcription
+            nt06462  Spinocerebellar ataxia
+  ELEMENT   N00954  Mutation-activated GRM1 to mGluR1-TRPC3 signaling pathway
+            N00955  Mutation-inactivated PRKCG to mGluR1-TRPC3 signaling pathway
+            N00956  Mutation-activated PRKCG to mGluR1-TRPC3 signaling pathway
+            N00957  Mutation-caused abberant ATXN2/3 to mGluR5-Ca2+ -apoptotic pathway
+            N00958  Mutation-activated ITPR1 to mGluR1-TRPC3 signaling pathway
+            N00959  ITPR1-reduced expression to mGluR1-TRPC3 signaling pathway
+            N00960  Mutation-caused aberrant SPTBN2 to mGluR1-TRPC3 signaling pathway
+            N00961  Mutation-activated TRPC3 to mGluR1-TRPC3 signaling pathway
+            N00962  Mutation-inactivated ATXN3 to autophagy-vesicle nucleation
+            N00964  DAB1-overexpression to RELN-VLDLR-PI3K signaling pathway
+            N00966  Mutation-caused aberrant ATXN1 to RORA-mediated transcription
+            N00968  Mutation-activated CACNA1A to VGCC-Ca2+ -apoptotic pathway
+            N00969  Mutation-inactivated CACNA1A to VGCC-Ca2- -apoptotic pathway
+            N00971  Mutation-caused aberrant PDYN to transport of calcium
+            N00973  Mutation-inactivated KCNC3 to transport of potassium
+            N00975  Mutation-inactivated KCND3 to transport of potassium
+DISEASE     H00063  Spinocerebellar ataxia (SCA)
+            H01891  Autosomal recessive spinocerebellar ataxias
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7222  TRPC3; transient receptor potential cation channel subfamily C member 3 [KO:K04966]
+            2911  GRM1; glutamate metabotropic receptor 1 [KO:K04603]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            2890  GRIA1; glutamate ionotropic receptor AMPA type subunit 1 [KO:K05197]
+            2891  GRIA2; glutamate ionotropic receptor AMPA type subunit 2 [KO:K05198]
+            2892  GRIA3; glutamate ionotropic receptor AMPA type subunit 3 [KO:K05199]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            11273  ATXN2L; ataxin 2 like [KO:K23625]
+            6311  ATXN2; ataxin 2 [KO:K23625]
+            4287  ATXN3; ataxin 3 [KO:K11863] [EC:3.4.22.-]
+            92552  ATXN3L; ataxin 3 like [KO:K11863] [EC:3.4.22.-]
+            6261  RYR1; ryanodine receptor 1 [KO:K04961]
+            5173  PDYN; prodynorphin [KO:K15840]
+            2902  GRIN1; glutamate ionotropic receptor NMDA type subunit 1 [KO:K05208]
+            2903  GRIN2A; glutamate ionotropic receptor NMDA type subunit 2A [KO:K05209]
+            2904  GRIN2B; glutamate ionotropic receptor NMDA type subunit 2B [KO:K05210]
+            2905  GRIN2C; glutamate ionotropic receptor NMDA type subunit 2C [KO:K05211]
+            2906  GRIN2D; glutamate ionotropic receptor NMDA type subunit 2D [KO:K05212]
+            116443  GRIN3A; glutamate ionotropic receptor NMDA type subunit 3A [KO:K05213]
+            116444  GRIN3B; glutamate ionotropic receptor NMDA type subunit 3B [KO:K05214]
+            90550  MCU; mitochondrial calcium uniporter [KO:K20858]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            291  SLC25A4; solute carrier family 25 member 4 [KO:K05863]
+            292  SLC25A5; solute carrier family 25 member 5 [KO:K05863]
+            293  SLC25A6; solute carrier family 25 member 6 [KO:K05863]
+            83447  SLC25A31; solute carrier family 25 member 31 [KO:K05863]
+            10105  PPIF; peptidylprolyl isomerase F [KO:K09565] [EC:5.2.1.8]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            10939  AFG3L2; AFG3 like matrix AAA peptidase subunit 2 [KO:K08956] [EC:3.4.24.-]
+            115209  OMA1; OMA1 zinc metallopeptidase [KO:K23010] [EC:3.4.24.-]
+            4976  OPA1; OPA1 mitochondrial dynamin like GTPase [KO:K17079] [EC:3.6.5.5]
+            2259  FGF14; fibroblast growth factor 14 [KO:K23920]
+            6712  SPTBN2; spectrin beta, non-erythrocytic 2 [KO:K23932]
+            5687  PSMA6; proteasome 20S subunit alpha 6 [KO:K02730] [EC:3.4.25.1]
+            5683  PSMA2; proteasome 20S subunit alpha 2 [KO:K02726] [EC:3.4.25.1]
+            5685  PSMA4; proteasome 20S subunit alpha 4 [KO:K02728] [EC:3.4.25.1]
+            5688  PSMA7; proteasome 20S subunit alpha 7 [KO:K02731] [EC:3.4.25.1]
+            143471  PSMA8; proteasome 20S subunit alpha 8 [KO:K02731] [EC:3.4.25.1]
+            5686  PSMA5; proteasome 20S subunit alpha 5 [KO:K02729] [EC:3.4.25.1]
+            5682  PSMA1; proteasome 20S subunit alpha 1 [KO:K02725] [EC:3.4.25.1]
+            5684  PSMA3; proteasome 20S subunit alpha 3 [KO:K02727] [EC:3.4.25.1]
+            5694  PSMB6; proteasome 20S subunit beta 6 [KO:K02738] [EC:3.4.25.1]
+            5695  PSMB7; proteasome 20S subunit beta 7 [KO:K02739] [EC:3.4.25.1]
+            5691  PSMB3; proteasome 20S subunit beta 3 [KO:K02735] [EC:3.4.25.1]
+            5690  PSMB2; proteasome 20S subunit beta 2 [KO:K02734] [EC:3.4.25.1]
+            5693  PSMB5; proteasome 20S subunit beta 5 [KO:K02737] [EC:3.4.25.1]
+            5689  PSMB1; proteasome 20S subunit beta 1 [KO:K02732] [EC:3.4.25.1]
+            5692  PSMB4; proteasome 20S subunit beta 4 [KO:K02736] [EC:3.4.25.1]
+            5701  PSMC2; proteasome 26S subunit, ATPase 2 [KO:K03061]
+            5700  PSMC1; proteasome 26S subunit, ATPase 1 [KO:K03062]
+            5704  PSMC4; proteasome 26S subunit, ATPase 4 [KO:K03063]
+            5706  PSMC6; proteasome 26S subunit, ATPase 6 [KO:K03064]
+            5702  PSMC3; proteasome 26S subunit, ATPase 3 [KO:K03065]
+            5705  PSMC5; proteasome 26S subunit, ATPase 5 [KO:K03066]
+            5708  PSMD2; proteasome 26S subunit ubiquitin receptor, non-ATPase 2 [KO:K03028]
+            5707  PSMD1; proteasome 26S subunit, non-ATPase 1 [KO:K03032]
+            5709  PSMD3; proteasome 26S subunit, non-ATPase 3 [KO:K03033]
+            5715  PSMD9; proteasome 26S subunit, non-ATPase 9 [KO:K06693]
+            5718  PSMD12; proteasome 26S subunit, non-ATPase 12 [KO:K03035]
+            5717  PSMD11; proteasome 26S subunit, non-ATPase 11 [KO:K03036]
+            9861  PSMD6; proteasome 26S subunit, non-ATPase 6 [KO:K03037]
+            5713  PSMD7; proteasome 26S subunit, non-ATPase 7 [KO:K03038]
+            5719  PSMD13; proteasome 26S subunit, non-ATPase 13 [KO:K03039]
+            5710  PSMD4; proteasome 26S subunit ubiquitin receptor, non-ATPase 4 [KO:K03029]
+            10213  PSMD14; proteasome 26S subunit, non-ATPase 14 [KO:K03030]
+            5714  PSMD8; proteasome 26S subunit, non-ATPase 8 [KO:K03031]
+            11047  ADRM1; ADRM1 26S proteasome ubiquitin receptor [KO:K06691]
+            7979  SEM1; SEM1 26S proteasome subunit [KO:K10881]
+            2081  ERN1; endoplasmic reticulum to nucleus signaling 1 [KO:K08852] [EC:2.7.11.1 3.1.26.-]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            342371  ATXN1L; ataxin 1 like [KO:K23616]
+            6310  ATXN1; ataxin 1 [KO:K23616]
+            10524  KAT5; lysine acetyltransferase 5 [KO:K11304] [EC:2.3.1.48]
+            6095  RORA; RAR related orphan receptor A [KO:K08532]
+            487  ATP2A1; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [KO:K05853] [EC:7.2.2.10]
+            489  ATP2A3; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [KO:K05853] [EC:7.2.2.10]
+            488  ATP2A2; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [KO:K05853] [EC:7.2.2.10]
+            6511  SLC1A6; solute carrier family 1 member 6 [KO:K05617]
+            23152  CIC; capicua transcriptional repressor [KO:K20225]
+            23369  PUM2; pumilio RNA binding family member 2 [KO:K17943]
+            9698  PUM1; pumilio RNA binding family member 1 [KO:K17943]
+            387332  TBPL2; TATA-box binding protein like 2 [KO:K03120]
+            9519  TBPL1; TATA-box binding protein like 1 [KO:K03120]
+            6908  TBP; TATA-box binding protein [KO:K03120]
+            11317  RBPJL; recombination signal binding protein for immunoglobulin kappa J region like [KO:K06053]
+            3516  RBPJ; recombination signal binding protein for immunoglobulin kappa J region [KO:K06053]
+            6667  SP1; Sp1 transcription factor [KO:K04684]
+            2959  GTF2B; general transcription factor IIB [KO:K03124]
+            4800  NFYA; nuclear transcription factor Y subunit alpha [KO:K08064]
+            7494  XBP1; X-box binding protein 1 [KO:K09027]
+            4654  MYOD1; myogenic differentiation 1 [KO:K09064]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            8408  ULK1; unc-51 like autophagy activating kinase 1 [KO:K21357] [EC:2.7.11.1]
+            9706  ULK2; unc-51 like autophagy activating kinase 2 [KO:K08269] [EC:2.7.11.1]
+            60673  ATG101; autophagy related 101 [KO:K19730]
+            9776  ATG13; autophagy related 13 [KO:K08331]
+            9821  RB1CC1; RB1 inducible coiled-coil 1 [KO:K17589]
+            55626  AMBRA1; autophagy and beclin 1 regulator 1 [KO:K17985]
+            8678  BECN1; beclin 1 [KO:K08334]
+            441925  BECN2; beclin 2 [KO:K08334]
+            30849  PIK3R4; phosphoinositide-3-kinase regulatory subunit 4 [KO:K08333] [EC:2.7.11.1]
+            22863  ATG14; autophagy related 14 [KO:K17889]
+            29982  NRBF2; nuclear receptor binding factor 2 [KO:K21246]
+            5289  PIK3C3; phosphatidylinositol 3-kinase catalytic subunit type 3 [KO:K00914] [EC:2.7.1.137]
+            23130  ATG2A; autophagy related 2A [KO:K17906]
+            55102  ATG2B; autophagy related 2B [KO:K17906]
+            26100  WIPI2; WD repeat domain, phosphoinositide interacting 2 [KO:K17908]
+            55062  WIPI1; WD repeat domain, phosphoinositide interacting 1 [KO:K17908]
+            3748  KCNC3; potassium voltage-gated channel subfamily C member 3 [KO:K04889]
+            3752  KCND3; potassium voltage-gated channel subfamily D member 3 [KO:K04893]
+            5649  RELN; reelin [KO:K06249] [EC:3.4.21.-]
+            7436  VLDLR; very low density lipoprotein receptor [KO:K20053]
+            1600  DAB1; DAB adaptor protein 1 [KO:K20054]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            56652  TWNK; twinkle mtDNA helicase [KO:K17680] [EC:5.6.2.3]
+            6315  ATXN8OS; ATXN8 opposite strand lncRNA [KO:K23933]
+            25814  ATXN10; ataxin 10 [KO:K19323]
+            146227  BEAN1; brain expressed associated with NEDD4 1 [KO:K19324]
+            10528  NOP56; NOP56 ribonucleoprotein [KO:K14564]
+COMPOUND    C00025  L-Glutamate
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C04549  1-Phosphatidyl-1D-myo-inositol 3-phosphate
+REFERENCE   PMID:19890685
+  AUTHORS   Matilla-Duenas A, Sanchez I, Corral-Juan M, Davalos A, Alvarez R, Latorre P
+  TITLE     Cellular and molecular pathways triggering neurodegeneration in the spinocerebellar ataxias.
+  JOURNAL   Cerebellum 9:148-66 (2010)
+            DOI:10.1007/s12311-009-0144-2
+REFERENCE   PMID:16613893
+  AUTHORS   Duenas AM, Goold R, Giunti P
+  TITLE     Molecular pathogenesis of spinocerebellar ataxias.
+  JOURNAL   Brain 129:1357-70 (2006)
+            DOI:10.1093/brain/awl081
+REFERENCE   PMID:27392710
+  AUTHORS   Mark MD, Schwitalla JC, Groemmke M, Herlitze S
+  TITLE     Keeping Our Calcium in Balance to Maintain Our Balance.
+  JOURNAL   Biochem Biophys Res Commun 483:1040-1050 (2017)
+            DOI:10.1016/j.bbrc.2016.07.020
+REFERENCE   PMID:29253316
+  AUTHORS   Egorova PA, Bezprozvanny IB
+  TITLE     Inositol 1,4,5-trisphosphate receptors and neurodegenerative disorders.
+  JOURNAL   FEBS J 285:3547-3565 (2018)
+            DOI:10.1111/febs.14366
+REFERENCE   PMID:28554312
+  AUTHORS   Shimobayashi E, Kapfhammer JP
+  TITLE     Calcium Signaling, PKC Gamma, IP3R1 and CAR8 Link Spinocerebellar Ataxias and Purkinje Cell Dendritic Development.
+  JOURNAL   Curr Neuropharmacol 16:151-159 (2018)
+            DOI:10.2174/1570159X15666170529104000
+REFERENCE   PMID:20480274
+  AUTHORS   Kasumu A, Bezprozvanny I
+  TITLE     Deranged calcium signaling in Purkinje cells and pathogenesis in spinocerebellar ataxia 2 (SCA2) and other ataxias.
+  JOURNAL   Cerebellum 11:630-9 (2012)
+            DOI:10.1007/s12311-010-0182-9
+REFERENCE   PMID:25846864
+  AUTHORS   Egorova P, Popugaeva E, Bezprozvanny I
+  TITLE     Disturbed calcium signaling in spinocerebellar ataxias and Alzheimer's disease.
+  JOURNAL   Semin Cell Dev Biol 40:127-33 (2015)
+            DOI:10.1016/j.semcdb.2015.03.010
+REFERENCE   PMID:29777722
+  AUTHORS   Hisatsune C, Hamada K, Mikoshiba K
+  TITLE     Ca(2+) signaling and spinocerebellar ataxia.
+  JOURNAL   Biochim Biophys Acta Mol Cell Res 1865:1733-1744 (2018)
+            DOI:10.1016/j.bbamcr.2018.05.009
+REFERENCE   PMID:27771899
+  AUTHORS   Takada SH, Ikebara JM, de Sousa E, Cardoso DS, Resende RR, Ulrich H, Ruckl M, Rudiger S, Kihara AH
+  TITLE     Determining the Roles of Inositol Trisphosphate Receptors in Neurodegeneration: Interdisciplinary Perspectives on a Complex Topic.
+  JOURNAL   Mol Neurobiol 54:6870-6884 (2017)
+            DOI:10.1007/s12035-016-0205-8
+REFERENCE   PMID:25653583
+  AUTHORS   Brown SA, Loew LM
+  TITLE     Integration of modeling with experimental and clinical findings synthesizes and refines the central role of inositol 1,4,5-trisphosphate receptor 1 in spinocerebellar ataxia.
+  JOURNAL   Front Neurosci 8:453 (2014)
+            DOI:10.3389/fnins.2014.00453
+REFERENCE   PMID:14748477
+  AUTHORS   Inoue T
+  TITLE     Dynamics of calcium and its roles in the dendrite of the cerebellar Purkinje cell.
+  JOURNAL   Keio J Med 52:244-9 (2003)
+            DOI:10.2302/kjm.52.244
+REFERENCE   PMID:18499672
+  AUTHORS   Adachi N, Kobayashi T, Takahashi H, Kawasaki T, Shirai Y, Ueyama T, Matsuda T, Seki T, Sakai N, Saito N
+  TITLE     Enzymological analysis of mutant protein kinase Cgamma causing spinocerebellar ataxia type 14 and dysfunction in Ca2+ homeostasis.
+  JOURNAL   J Biol Chem 283:19854-63 (2008)
+            DOI:10.1074/jbc.M801492200
+REFERENCE   PMID:26169942
+  AUTHORS   Smeets CJ, Jezierska J, Watanabe H, Duarri A, Fokkens MR, Meijer M, Zhou Q, Yakovleva T, Boddeke E, den Dunnen W, van Deursen J, Bakalkin G, Kampinga HH, van de Sluis B, Verbeek DS
+  TITLE     Elevated mutant dynorphin A causes Purkinje cell loss and motor dysfunction in spinocerebellar ataxia type 23.
+  JOURNAL   Brain 138:2537-52 (2015)
+            DOI:10.1093/brain/awv195
+REFERENCE   PMID:30910913
+  AUTHORS   Tulli S, Del Bondio A, Baderna V, Mazza D, Codazzi F, Pierson TM, Ambrosi A, Nolte D, Goizet C, Toro C, Baets J, Deconinck T, DeJonghe P, Mandich P, Casari G, Maltecca F
+  TITLE     Pathogenic variants in the AFG3L2 proteolytic domain cause SCA28 through haploinsufficiency and proteostatic stress-driven OMA1 activation.
+  JOURNAL   J Med Genet 56:499-511 (2019)
+            DOI:10.1136/jmedgenet-2018-105766
+REFERENCE   PMID:30389403
+  AUTHORS   Mancini C, Hoxha E, Iommarini L, Brussino A, Richter U, Montarolo F, Cagnoli C, Parolisi R, Gondor Morosini DI, Nicolo V, Maltecca F, Muratori L, Ronchi G, Geuna S, Arnaboldi F, Donetti E, Giorgio E, Cavalieri S, Di Gregorio E, Pozzi E, Ferrero M, Riberi E, Casari G, Altruda F, Turco E, Gasparre G, Battersby BJ, Porcelli AM, Ferrero E, Brusco A, Tempia F
+  TITLE     Mice harbouring a SCA28 patient mutation in AFG3L2 develop late-onset ataxia associated with enhanced mitochondrial proteotoxicity.
+  JOURNAL   Neurobiol Dis 124:14-28 (2019)
+            DOI:10.1016/j.nbd.2018.10.018
+REFERENCE   PMID:25772041
+  AUTHORS   Becker EBE
+  TITLE     From Mice to Men: TRPC3 in Cerebellar Ataxia.
+  JOURNAL   Cerebellum 16:877-879 (2017)
+            DOI:10.1007/s12311-015-0663-y
+REFERENCE   PMID:27857688
+  AUTHORS   Hoxha E, Tempia F, Lippiello P, Miniaci MC
+  TITLE     Modulation, Plasticity and Pathophysiology of the Parallel Fiber-Purkinje Cell Synapse.
+  JOURNAL   Front Synaptic Neurosci 8:35 (2016)
+            DOI:10.3389/fnsyn.2016.00035
+REFERENCE   PMID:23831029
+  AUTHORS   Yan H, Pablo JL, Pitt GS
+  TITLE     FGF14 regulates presynaptic Ca2+ channels and synaptic transmission.
+  JOURNAL   Cell Rep 4:66-75 (2013)
+            DOI:10.1016/j.celrep.2013.06.012
+REFERENCE   PMID:26827887
+  AUTHORS   Tada M, Nishizawa M, Onodera O
+  TITLE     Roles of inositol 1,4,5-trisphosphate receptors in spinocerebellar ataxias.
+  JOURNAL   Neurochem Int 94:1-8 (2016)
+            DOI:10.1016/j.neuint.2016.01.007
+REFERENCE   PMID:20204399
+  AUTHORS   Pietrobon D
+  TITLE     CaV2.1 channelopathies.
+  JOURNAL   Pflugers Arch 460:375-93 (2010)
+            DOI:10.1007/s00424-010-0802-8
+REFERENCE   PMID:15474358
+  AUTHORS   Matsuyama Z, Yanagisawa NK, Aoki Y, Black JL 3rd, Lennon VA, Mori Y, Imoto K, Inuzuka T
+  TITLE     Polyglutamine repeats of spinocerebellar ataxia 6 impair the cell-death-preventing effect of CaV2.1 Ca2+ channel--loss-of-function cellular model of SCA6.
+  JOURNAL   Neurobiol Dis 17:198-204 (2004)
+            DOI:10.1016/j.nbd.2004.07.013
+REFERENCE   PMID:12050113
+  AUTHORS   Nishitoh H, Matsuzawa A, Tobiume K, Saegusa K, Takeda K, Inoue K, Hori S, Kakizuka A, Ichijo H
+  TITLE     ASK1 is essential for endoplasmic reticulum stress-induced neuronal cell death triggered by expanded polyglutamine repeats.
+  JOURNAL   Genes Dev 16:1345-55 (2002)
+            DOI:10.1101/gad.992302
+REFERENCE   PMID:24293103
+  AUTHORS   Evers MM, Toonen LJ, van Roon-Mom WM
+  TITLE     Ataxin-3 protein and RNA toxicity in spinocerebellar ataxia type 3: current insights and emerging therapeutic strategies.
+  JOURNAL   Mol Neurobiol 49:1513-31 (2014)
+            DOI:10.1007/s12035-013-8596-2
+REFERENCE   PMID:28722507
+  AUTHORS   Ashkenazi A, Bento CF, Ricketts T, Vicinanza M, Siddiqi F, Pavel M, Squitieri F, Hardenberg MC, Imarisio S, Menzies FM, Rubinsztein DC
+  TITLE     Polyglutamine tracts regulate autophagy.
+  JOURNAL   Autophagy 13:1613-1614 (2017)
+            DOI:10.1080/15548627.2017.1336278
+REFERENCE   PMID:31630678
+  AUTHORS   Chen RH, Chen YH, Huang TY
+  TITLE     Ubiquitin-mediated regulation of autophagy.
+  JOURNAL   J Biomed Sci 26:80 (2019)
+            DOI:10.1186/s12929-019-0569-y
+REFERENCE   PMID:17110330
+  AUTHORS   Serra HG, Duvick L, Zu T, Carlson K, Stevens S, Jorgensen N, Lysholm A, Burright E, Zoghbi HY, Clark HB, Andresen JM, Orr HT
+  TITLE     RORalpha-mediated Purkinje cell development determines disease severity in adult SCA1 mice.
+  JOURNAL   Cell 127:697-708 (2006)
+            DOI:10.1016/j.cell.2006.09.036
+REFERENCE   PMID:29526553
+  AUTHORS   Rousseaux MWC, Tschumperlin T, Lu HC, Lackey EP, Bondar VV, Wan YW, Tan Q, Adamski CJ, Friedrich J, Twaroski K, Chen W, Tolar J, Henzler C, Sharma A, Bajic A, Lin T, Duvick L, Liu Z, Sillitoe RV, Zoghbi HY, Orr HT
+  TITLE     ATXN1-CIC Complex Is the Primary Driver of Cerebellar Pathology in Spinocerebellar Ataxia Type 1 through a Gain-of-Function Mechanism.
+  JOURNAL   Neuron 97:1235-1243.e5 (2018)
+            DOI:10.1016/j.neuron.2018.02.013
+REFERENCE   PMID:22526417
+  AUTHORS   Jimenez G, Shvartsman SY, Paroush Z
+  TITLE     The Capicua repressor--a general sensor of RTK signaling in development and disease.
+  JOURNAL   J Cell Sci 125:1383-91 (2012)
+            DOI:10.1242/jcs.092965
+REFERENCE   PMID:29474920
+  AUTHORS   Gennarino VA, Palmer EE, McDonell LM, Wang L, Adamski CJ, Koire A, See L, Chen CA, Schaaf CP, Rosenfeld JA, Panzer JA, Moog U, Hao S, Bye A, Kirk EP, Stankiewicz P, Breman AM, McBride A, Kandula T, Dubbs HA, Macintosh R, Cardamone M, Zhu Y, Ying K, Dias KR, Cho MT, Henderson LB, Baskin B, Morris P, Tao J, Cowley MJ, Dinger ME, Roscioli T, Caluseriu O, Suchowersky O, Sachdev RK, Lichtarge O, Tang J, Boycott KM, Holder JL Jr, Zoghbi HY
+  TITLE     A Mild PUM1 Mutation Is Associated with Adult-Onset Ataxia, whereas Haploinsufficiency Causes Developmental Delay and Seizures.
+  JOURNAL   Cell 172:924-936.e11 (2018)
+            DOI:10.1016/j.cell.2018.02.006
+REFERENCE   PMID:24218544
+  AUTHORS   Irie T, Matsuzaki Y, Sekino Y, Hirai H
+  TITLE     Kv3.3 channels harbouring a mutation of spinocerebellar ataxia type 13 alter excitability and induce cell death in cultured cerebellar Purkinje cells.
+  JOURNAL   J Physiol 592:229-47 (2014)
+            DOI:10.1113/jphysiol.2013.264309
+REFERENCE   PMID:26889478
+  AUTHORS   Bushart DD, Murphy GG, Shakkottai VG
+  TITLE     Precision medicine in spinocerebellar ataxias: treatment based on common mechanisms of disease.
+  JOURNAL   Ann Transl Med 4:25 (2016)
+            DOI:10.3978/j.issn.2305-5839.2016.01.06
+REFERENCE   PMID:31293010
+  AUTHORS   Hsiao CT, Fu SJ, Liu YT, Lu YH, Zhong CY, Tang CY, Soong BW, Jeng CJ
+  TITLE     Novel SCA19/22-associated KCND3 mutations disrupt human KV 4.3 protein biosynthesis and channel gating.
+  JOURNAL   Hum Mutat 40:2088-2107 (2019)
+            DOI:10.1002/humu.23865
+REFERENCE   PMID:25854634
+  AUTHORS   Duarri A, Lin MC, Fokkens MR, Meijer M, Smeets CJ, Nibbeling EA, Boddeke E, Sinke RJ, Kampinga HH, Papazian DM, Verbeek DS
+  TITLE     Spinocerebellar ataxia type 19/22 mutations alter heterocomplex Kv4.3 channel function and gating in a dominant manner.
+  JOURNAL   Cell Mol Life Sci 72:3387-99 (2015)
+            DOI:10.1007/s00018-015-1894-2
+REFERENCE   PMID:31145571
+  AUTHORS   Matilla-Duenas A, Volpini V
+  TITLE     Spinocerebellar Ataxia Type 37
+  JOURNAL   GeneReviews (1993)
+REFERENCE   PMID:29939198
+  AUTHORS   Corral-Juan M, Serrano-Munuera C, Rabano A, Cota-Gonzalez D, Segarra-Roca A, Ispierto L, Cano-Orgaz AT, Adarmes AD, Mendez-Del-Barrio C, Jesus S, Mir P, Volpini V, Alvarez-Ramo R, Sanchez I, Matilla-Duenas A
+  TITLE     Clinical, genetic and neuropathological characterization of spinocerebellar ataxia type 37.
+  JOURNAL   Brain 141:1981-1997 (2018)
+            DOI:10.1093/brain/awy137
+REFERENCE   PMID:31721251
+  AUTHORS   Swinnen B, Robberecht W, Van Den Bosch L
+  TITLE     RNA toxicity in non-coding repeat expansion disorders.
+  JOURNAL   EMBO J e101112 (2019)
+            DOI:10.15252/embj.2018101112
+REFERENCE   PMID:31755042
+  AUTHORS   Ishikawa K, Nagai Y
+  TITLE     Molecular Mechanisms and Future Therapeutics for Spinocerebellar Ataxia Type 31 (SCA31).
+  JOURNAL   Neurotherapeutics 10.1007/s13311-019-00804-6 (2019)
+            DOI:10.1007/s13311-019-00804-6
+REFERENCE   PMID:23607545
+  AUTHORS   Niimi Y, Takahashi M, Sugawara E, Umeda S, Obayashi M, Sato N, Ishiguro T, Higashi M, Eishi Y, Mizusawa H, Ishikawa K
+  TITLE     Abnormal RNA structures (RNA foci) containing a penta-nucleotide repeat (UGGAA)n in the Purkinje cell nucleus is associated with spinocerebellar ataxia type 31 pathogenesis.
+  JOURNAL   Neuropathology 33:600-11 (2013)
+            DOI:10.1111/neup.12032
+REFERENCE   PMID:21683323
+  AUTHORS   Kobayashi H, Abe K, Matsuura T, Ikeda Y, Hitomi T, Akechi Y, Habu T, Liu W, Okuda H, Koizumi A
+  TITLE     Expansion of intronic GGCCTG hexanucleotide repeat in NOP56 causes SCA36, a type of spinocerebellar ataxia accompanied by motor neuron involvement.
+  JOURNAL   Am J Hum Genet 89:121-30 (2011)
+            DOI:10.1016/j.ajhg.2011.05.015
+REL_PATHWAY hsa03050  Proteasome
+            hsa04020  Calcium signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04210  Apoptosis
+            hsa04724  Glutamatergic synapse
+            hsa04730  Long-term depression
+KO_PATHWAY  ko05017
+///

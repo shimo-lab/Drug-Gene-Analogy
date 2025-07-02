@@ -1,0 +1,482 @@
+ENTRY       hsa05207                    Pathway
+NAME        Chemical carcinogenesis - receptor activation - Homo sapiens (human)
+DESCRIPTION Carcinogenesis is a multistage process that consists of initiation, promotion, and progression stages. Chemicals or environmental factors may act at any of these stages to induce and/or enhance the carcinogenic process. Based on their mode-of-action, carcinogens can be classified as genotoxic or non-genotoxic. Genotoxic agent begins their action at the deoxyribonucleic acid (DNA) level, causing DNA damage through several mechanisms. Non-genotoxic carcinogens are chemicals that cause the development of tumors through multiple non-genotoxic events and epigenetic alterations without direct interaction with DNA. One non-genotoxic mechanism involves receptor activation. Biological mechanisms involving receptor activation fall into two broad categories: (i) those that involve cell surface receptors and some intracellular receptors that activate signal transduction pathways, resulting in biological responses, including gene transcription, and (ii) those that involve intracellular receptors that translocate into the nucleus and act as transcription factors regulating gene expression. Both classes of receptors can be involved in mechanisms of carcinogenesis.
+CLASS       Human Diseases; Cancer: overview
+PATHWAY_MAP hsa05207  Chemical carcinogenesis - receptor activation
+NETWORK     nt06210  ERK signaling
+            nt06214  PI3K signaling
+            nt06219  JAK-STAT signaling
+            nt06227  Nuclear receptor signaling
+            nt06230  Cell cycle
+            nt06234  cAMP signaling
+  ELEMENT   N01337  NNK/NNN to CHRNA7-E2F signaling pathway
+            N01339  NNK/NNN to PI3K signaling pathway
+            N01341  NNK/NNN to Jak-STAT signaling pathway
+            N01342  Nicotine to Jak-STAT signaling pathway
+            N01344  NNK/NNN to RAS-ERK signaling pathway
+            N01346  Nicotine/NNK to cAMP signaling pathway
+            N01348  Nicotine/NNK to PI3K signaling pathway
+            N01350  NNK/NNN to PI3K signaling pathway
+            N01352  BPA to RAS-ERK signaling pathway
+            N01353  E2 to RAS-ERK signaling pathway
+            N01354  BPA to RAS-ERK signaling pathway
+            N01355  Arsenic to PI3K signaling pathway
+            N01357  P4/MPA to membrane-initiated progesterone signaling pathway
+            N01359  P4/MPA to PR-PI3K signaling pathway
+            N01361  P4/MPA to PR-RAS-ERK signaling pathway
+            N01363  P4/MPA to nuclear-initiated progesterone signaling pathway
+            N01364  E2 to nuclear-initiated estrogen signaling pathway
+            N01365  TCDD to Ahr signaling pathway
+            N01366  BaP to Ahr signaling pathway
+            N01367  PCB to Ahr signaling pathway
+            N01368  HCB to Ahr signaling pathway
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1139  CHRNA7; cholinergic receptor nicotinic alpha 7 subunit [KO:K04809]
+            408  ARRB1; arrestin beta 1 [KO:K04439]
+            409  ARRB2; arrestin beta 2 [KO:K04439]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            332  BIRC5; baculoviral IAP repeat containing 5 [KO:K08731]
+            331  XIAP; X-linked inhibitor of apoptosis [KO:K04725] [EC:2.3.2.27]
+            990  CDC6; cell division cycle 6 [KO:K02213]
+            993  CDC25A; cell division cycle 25A [KO:K06645] [EC:3.1.3.48]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            595  CCND1; cyclin D1 [KO:K04503]
+            1137  CHRNA4; cholinergic receptor nicotinic alpha 4 subunit [KO:K04806]
+            1141  CHRNB2; cholinergic receptor nicotinic beta 2 subunit [KO:K04813]
+            1136  CHRNA3; cholinergic receptor nicotinic alpha 3 subunit [KO:K04805]
+            1143  CHRNB4; cholinergic receptor nicotinic beta 4 subunit [KO:K04815]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            774  CACNA1B; calcium voltage-gated channel subunit alpha1 B [KO:K04849]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            2247  FGF2; fibroblast growth factor 2 [KO:K18497]
+            153  ADRB1; adrenoceptor beta 1 [KO:K04141]
+            154  ADRB2; adrenoceptor beta 2 [KO:K04142]
+            155  ADRB3; adrenoceptor beta 3 [KO:K04143]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            55584  CHRNA9; cholinergic receptor nicotinic alpha 9 subunit [KO:K04810]
+            6197  RPS6KA3; ribosomal protein S6 kinase A3 [KO:K04373] [EC:2.7.11.1]
+            6195  RPS6KA1; ribosomal protein S6 kinase A1 [KO:K04373] [EC:2.7.11.1]
+            6196  RPS6KA2; ribosomal protein S6 kinase A2 [KO:K04373] [EC:2.7.11.1]
+            27330  RPS6KA6; ribosomal protein S6 kinase A6 [KO:K04373] [EC:2.7.11.1]
+            2099  ESR1; estrogen receptor 1 [KO:K08550]
+            2100  ESR2; estrogen receptor 2 [KO:K08551]
+            7421  VDR; vitamin D receptor [KO:K08539]
+            896  CCND3; cyclin D3 [KO:K10152]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            1978  EIF4EBP1; eukaryotic translation initiation factor 4E binding protein 1 [KO:K07205]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            164091  PAQR7; progestin and adipoQ receptor family member 7 [KO:K25039]
+            85315  PAQR8; progestin and adipoQ receptor family member 8 [KO:K25040]
+            54852  PAQR5; progestin and adipoQ receptor family member 5 [KO:K25041]
+            5241  PGR; progesterone receptor [KO:K08556]
+            8600  TNFSF11; TNF superfamily member 11 [KO:K05473]
+            6776  STAT5A; signal transducer and activator of transcription 5A [KO:K11223]
+            6777  STAT5B; signal transducer and activator of transcription 5B [KO:K11224]
+            604  BCL6; BCL6 transcription repressor [KO:K15618]
+            688  KLF5; KLF transcription factor 5 [KO:K09206]
+            9314  KLF4; KLF transcription factor 4 [KO:K17846]
+            7471  WNT1; Wnt family member 1 [KO:K03209]
+            4853  NOTCH2; notch receptor 2 [KO:K20994]
+            182  JAG1; jagged canonical Notch ligand 1 [KO:K06052]
+            406933  MIR141; microRNA 141 [KO:K17018]
+            407021  MIR29A; microRNA 29a [KO:K16995]
+            407024  MIR29B1; microRNA 29b-1 [KO:K16996]
+            407025  MIR29B2; microRNA 29b-2 [KO:K16996]
+            407026  MIR29C; microRNA 29c [KO:K16997]
+            367  AR; androgen receptor [KO:K08557]
+            406881  MIRLET7A1; microRNA let-7a-1 [KO:K16980]
+            406882  MIRLET7A2; microRNA let-7a-2 [KO:K16980]
+            406883  MIRLET7A3; microRNA let-7a-3 [KO:K16980]
+            406884  MIRLET7B; microRNA let-7b [KO:K16980]
+            406886  MIRLET7D; microRNA let-7d [KO:K16980]
+            406887  MIRLET7E; microRNA let-7e [KO:K16980]
+            406888  MIRLET7F1; microRNA let-7f-1 [KO:K16980]
+            406889  MIRLET7F2; microRNA let-7f-2 [KO:K16980]
+            406890  MIRLET7G; microRNA let-7g [KO:K16980]
+            406891  MIRLET7I; microRNA let-7i [KO:K16980]
+            1950  EGF; epidermal growth factor [KO:K04357]
+            2248  FGF3; fibroblast growth factor 3 [KO:K04358]
+            2249  FGF4; fibroblast growth factor 4 [KO:K04358]
+            8822  FGF17; fibroblast growth factor 17 [KO:K04358]
+            2251  FGF6; fibroblast growth factor 6 [KO:K04358]
+            2252  FGF7; fibroblast growth factor 7 [KO:K04358]
+            2253  FGF8; fibroblast growth factor 8 [KO:K04358]
+            2254  FGF9; fibroblast growth factor 9 [KO:K04358]
+            2255  FGF10; fibroblast growth factor 10 [KO:K04358]
+            8823  FGF16; fibroblast growth factor 16 [KO:K04358]
+            2250  FGF5; fibroblast growth factor 5 [KO:K04358]
+            8817  FGF18; fibroblast growth factor 18 [KO:K04358]
+            26281  FGF20; fibroblast growth factor 20 [KO:K04358]
+            27006  FGF22; fibroblast growth factor 22 [KO:K04358]
+            10683  DLL3; delta like canonical Notch ligand 3 [KO:K06051]
+            28514  DLL1; delta like canonical Notch ligand 1 [KO:K06051]
+            54567  DLL4; delta like canonical Notch ligand 4 [KO:K06051]
+            10728  PTGES3; prostaglandin E synthase 3 [KO:K15730] [EC:5.3.99.3]
+            23746  AIPL1; aryl hydrocarbon receptor interacting protein like 1 [KO:K17767]
+            9049  AIP; aryl hydrocarbon receptor interacting protein [KO:K17767]
+            196  AHR; aryl hydrocarbon receptor [KO:K09093]
+            3320  HSP90AA1; heat shock protein 90 alpha family class A member 1 [KO:K04079]
+            3326  HSP90AB1; heat shock protein 90 alpha family class B member 1 [KO:K04079]
+            7184  HSP90B1; heat shock protein 90 beta family member 1 [KO:K09487]
+            3836  KPNA1; karyopherin subunit alpha 1 [KO:K23940]
+            3838  KPNA2; karyopherin subunit alpha 2 [KO:K15043]
+            402569  KPNA7; karyopherin subunit alpha 7 [KO:K15043]
+            3839  KPNA3; karyopherin subunit alpha 3 [KO:K23583]
+            3840  KPNA4; karyopherin subunit alpha 4 [KO:K23583]
+            23633  KPNA6; karyopherin subunit alpha 6 [KO:K15042]
+            3841  KPNA5; karyopherin subunit alpha 5 [KO:K15042]
+            3837  KPNB1; karyopherin subunit beta 1 [KO:K14293]
+            405  ARNT; aryl hydrocarbon receptor nuclear translocator [KO:K09097]
+            1543  CYP1A1; cytochrome P450 family 1 subfamily A member 1 [KO:K07408] [EC:1.14.14.1]
+            1545  CYP1B1; cytochrome P450 family 1 subfamily B member 1 [KO:K07410] [EC:1.14.14.1]
+            2052  EPHX1; epoxide hydrolase 1 [KO:K01253] [EC:3.3.2.9]
+            2053  EPHX2; epoxide hydrolase 2 [KO:K08726] [EC:3.3.2.10 3.1.3.76]
+            79852  EPHX3; epoxide hydrolase 3 [KO:K22368] [EC:3.3.2.10]
+            253152  EPHX4; epoxide hydrolase 4 [KO:K22369] [EC:3.3.-.-]
+            221357  GSTA5; glutathione S-transferase alpha 5 [KO:K00799] [EC:2.5.1.18]
+            2939  GSTA2; glutathione S-transferase alpha 2 [KO:K00799] [EC:2.5.1.18]
+            2941  GSTA4; glutathione S-transferase alpha 4 [KO:K00799] [EC:2.5.1.18]
+            119391  GSTO2; glutathione S-transferase omega 2 [KO:K00799] [EC:2.5.1.18]
+            2948  GSTM4; glutathione S-transferase mu 4 [KO:K00799] [EC:2.5.1.18]
+            2953  GSTT2; glutathione S-transferase theta 2 (gene/pseudogene) [KO:K00799] [EC:2.5.1.18]
+            2952  GSTT1; glutathione S-transferase theta 1 [KO:K00799] [EC:2.5.1.18]
+            2947  GSTM3; glutathione S-transferase mu 3 [KO:K00799] [EC:2.5.1.18]
+            4257  MGST1; microsomal glutathione S-transferase 1 [KO:K00799] [EC:2.5.1.18]
+            4259  MGST3; microsomal glutathione S-transferase 3 [KO:K00799] [EC:2.5.1.18]
+            2944  GSTM1; glutathione S-transferase mu 1 [KO:K00799] [EC:2.5.1.18]
+            2949  GSTM5; glutathione S-transferase mu 5 [KO:K00799] [EC:2.5.1.18]
+            4258  MGST2; microsomal glutathione S-transferase 2 [KO:K00799] [EC:2.5.1.18]
+            2938  GSTA1; glutathione S-transferase alpha 1 [KO:K00799] [EC:2.5.1.18]
+            2946  GSTM2; glutathione S-transferase mu 2 [KO:K00799] [EC:2.5.1.18]
+            2940  GSTA3; glutathione S-transferase alpha 3 [KO:K00799] [EC:2.5.1.18]
+            9446  GSTO1; glutathione S-transferase omega 1 [KO:K00799] [EC:2.5.1.18]
+            653689  GSTT2B; glutathione S-transferase theta 2B [KO:K00799] [EC:2.5.1.18]
+            10941  UGT2A1; UDP glucuronosyltransferase family 2 member A1 complex locus [KO:K00699] [EC:2.4.1.17]
+            79799  UGT2A3; UDP glucuronosyltransferase family 2 member A3 [KO:K00699] [EC:2.4.1.17]
+            7367  UGT2B17; UDP glucuronosyltransferase family 2 member B17 [KO:K00699] [EC:2.4.1.17]
+            10720  UGT2B11; UDP glucuronosyltransferase family 2 member B11 [KO:K00699] [EC:2.4.1.17]
+            54490  UGT2B28; UDP glucuronosyltransferase family 2 member B28 [KO:K00699] [EC:2.4.1.17]
+            54578  UGT1A6; UDP glucuronosyltransferase family 1 member A6 [KO:K00699] [EC:2.4.1.17]
+            54657  UGT1A4; UDP glucuronosyltransferase family 1 member A4 [KO:K00699] [EC:2.4.1.17]
+            54658  UGT1A1; UDP glucuronosyltransferase family 1 member A1 [KO:K00699] [EC:2.4.1.17]
+            54659  UGT1A3; UDP glucuronosyltransferase family 1 member A3 [KO:K00699] [EC:2.4.1.17]
+            7365  UGT2B10; UDP glucuronosyltransferase family 2 member B10 [KO:K00699] [EC:2.4.1.17]
+            54600  UGT1A9; UDP glucuronosyltransferase family 1 member A9 [KO:K00699] [EC:2.4.1.17]
+            7364  UGT2B7; UDP glucuronosyltransferase family 2 member B7 [KO:K00699] [EC:2.4.1.17]
+            54575  UGT1A10; UDP glucuronosyltransferase family 1 member A10 [KO:K00699] [EC:2.4.1.17]
+            54576  UGT1A8; UDP glucuronosyltransferase family 1 member A8 [KO:K00699] [EC:2.4.1.17]
+            54579  UGT1A5; UDP glucuronosyltransferase family 1 member A5 [KO:K00699] [EC:2.4.1.17]
+            7366  UGT2B15; UDP glucuronosyltransferase family 2 member B15 [KO:K00699] [EC:2.4.1.17]
+            54577  UGT1A7; UDP glucuronosyltransferase family 1 member A7 [KO:K00699] [EC:2.4.1.17]
+            7363  UGT2B4; UDP glucuronosyltransferase family 2 member B4 [KO:K00699] [EC:2.4.1.17]
+            574537  UGT2A2; UDP glucuronosyltransferase family 2 member A2 [KO:K00699] [EC:2.4.1.17]
+            1555  CYP2B6; cytochrome P450 family 2 subfamily B member 6 [KO:K17709] [EC:1.14.14.-]
+            9970  NR1I3; nuclear receptor subfamily 1 group I member 3 [KO:K08541]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6257  RXRB; retinoid X receptor beta [KO:K08525]
+            6258  RXRG; retinoid X receptor gamma [KO:K08526]
+            1576  CYP3A4; cytochrome P450 family 3 subfamily A member 4 [KO:K17689] [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.14.-]
+            1544  CYP1A2; cytochrome P450 family 1 subfamily A member 2 [KO:K07409] [EC:1.14.14.1]
+            5465  PPARA; peroxisome proliferator activated receptor alpha [KO:K07294]
+COMPOUND    C00076  Calcium cation
+            C00410  Progesterone
+            C00547  L-Noradrenaline
+            C00575  3',5'-Cyclic AMP
+            C00745  Nicotine
+            C00780  Serotonin
+            C00788  L-Adrenaline
+            C00951  Estradiol-17beta
+            C03690  Bis(2-ethylhexyl)phthalate
+            C04623  DDT
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C06697  Arsenite
+            C06790  Trichloroethene
+            C06916  Clofibrate
+            C07020  Gemfibrozil
+            C07434  Phenobarbital
+            C07535  Benzo[a]pyrene
+            C07557  2,3,7,8-Tetrachlorodibenzodioxin
+            C08150  Medroxyprogesterone acetate
+            C11042  Hexachlorobenzene
+            C11150  Trichloroacetate
+            C11371  Nafenopin
+            C11906  Sodium arsenite
+            C13624  Bisphenol A
+            C14240  Di(2-ethylhexyl) adipate
+            C14573  3,3',4,4',5-Pentachlorobiphenyl
+            C15995  Bombesin
+            C16452  N'-Nitrosonornicotine
+            C16453  4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone
+REFERENCE   PMID:15660110
+  AUTHORS   Luch A.
+  TITLE     Nature and nurture - lessons from chemical carcinogenesis.
+  JOURNAL   Nat Rev Cancer 5:113-25 (2005)
+            DOI:10.1038/nrc1546
+REFERENCE   PMID:19631282
+  AUTHORS   Hernandez LG, van Steeg H, Luijten M, van Benthem J
+  TITLE     Mechanisms of non-genotoxic carcinogens and importance of a weight of evidence approach.
+  JOURNAL   Mutat Res 682:94-109 (2009)
+            DOI:10.1016/j.mrrev.2009.07.002
+REFERENCE   PMID:21444681
+  AUTHORS   Wu CH, Lee CH, Ho YS
+  TITLE     Nicotinic acetylcholine receptor-based blockade: applications of molecular targets for cancer therapy.
+  JOURNAL   Clin Cancer Res 17:3533-41 (2011)
+            DOI:10.1158/1078-0432.CCR-10-2434
+REFERENCE   PMID:19194381
+  AUTHORS   Schuller HM
+  TITLE     Is cancer triggered by altered signalling of nicotinic acetylcholine receptors?
+  JOURNAL   Nat Rev Cancer 9:195-205 (2009)
+            DOI:10.1038/nrc2590
+REFERENCE   PMID:21541211
+  AUTHORS   Singh S, Pillai S, Chellappan S
+  TITLE     Nicotinic acetylcholine receptor signaling in tumor growth and metastasis.
+  JOURNAL   J Oncol 2011:456743 (2011)
+            DOI:10.1155/2011/456743
+REFERENCE   PMID:31956359
+  AUTHORS   Cheng WL, Chen KY, Lee KY, Feng PH, Wu SM
+  TITLE     Nicotinic-nAChR signaling mediates drug resistance in lung cancer.
+  JOURNAL   J Cancer 11:1125-1140 (2020)
+            DOI:10.7150/jca.36359
+REFERENCE   PMID:24827506
+  AUTHORS   Grando SA
+  TITLE     Connections of nicotine to cancer.
+  JOURNAL   Nat Rev Cancer 14:419-29 (2014)
+            DOI:10.1038/nrc3725
+REFERENCE   PMID:24398389
+  AUTHORS   Schaal C, Chellappan SP
+  TITLE     Nicotine-mediated cell proliferation and tumor progression in smoking-related cancers.
+  JOURNAL   Mol Cancer Res 12:14-23 (2014)
+            DOI:10.1158/1541-7786.MCR-13-0541
+REFERENCE   PMID:21640716
+  AUTHORS   Improgo MR, Tapper AR, Gardner PD
+  TITLE     Nicotinic acetylcholine receptor-mediated mechanisms in lung cancer.
+  JOURNAL   Biochem Pharmacol 82:1015-21 (2011)
+            DOI:10.1016/j.bcp.2011.05.020
+REFERENCE   PMID:18262664
+  AUTHORS   Egleton RD, Brown KC, Dasgupta P
+  TITLE     Nicotinic acetylcholine receptors in cancer: multiple roles in proliferation and inhibition of apoptosis.
+  JOURNAL   Trends Pharmacol Sci 29:151-8 (2008)
+            DOI:10.1016/j.tips.2007.12.006
+REFERENCE   PMID:24830349
+  AUTHORS   Xue J, Yang S, Seng S
+  TITLE     Mechanisms of Cancer Induction by Tobacco-Specific NNK and NNN.
+  JOURNAL   Cancers (Basel) 6:1138-56 (2014)
+            DOI:10.3390/cancers6021138
+REFERENCE   PMID:21801603
+  AUTHORS   Wen J, Fu JH, Zhang W, Guo M
+  TITLE     Lung carcinoma signaling pathways activated by smoking.
+  JOURNAL   Chin J Cancer 30:551-8 (2011)
+            DOI:10.5732/cjc.011.10059
+REFERENCE   PMID:28664511
+  AUTHORS   Gankhuyag N, Lee KH, Cho JY
+  TITLE     The Role of Nitrosamine (NNK) in Breast Cancer Carcinogenesis.
+  JOURNAL   J Mammary Gland Biol Neoplasia 22:159-170 (2017)
+            DOI:10.1007/s10911-017-9381-z
+REFERENCE   PMID:22330135
+  AUTHORS   Guo J, Kim D, Gao J, Kurtyka C, Chen H, Yu C, Wu D, Mittal A, Beg AA, Chellappan SP, Haura EB, Cheng JQ
+  TITLE     IKBKE is induced by STAT3 and tobacco carcinogen and determines chemosensitivity in non-small cell lung cancer.
+  JOURNAL   Oncogene 32:151-9 (2013)
+            DOI:10.1038/onc.2012.39
+REFERENCE   PMID:20106947
+  AUTHORS   Chen RJ, Ho YS, Guo HR, Wang YJ
+  TITLE     Long-term nicotine exposure-induced chemoresistance is mediated by activation of Stat3 and downregulation of ERK1/2 via nAChR and beta-adrenoceptors in human bladder cancer cells.
+  JOURNAL   Toxicol Sci 115:118-30 (2010)
+            DOI:10.1093/toxsci/kfq028
+REFERENCE   PMID:20953833
+  AUTHORS   Lee CH, Chang YC, Chen CS, Tu SH, Wang YJ, Chen LC, Chang YJ, Wei PL, Chang HW, Chang CH, Huang CS, Wu CH, Ho YS
+  TITLE     Crosstalk between nicotine and estrogen-induced estrogen receptor activation induces alpha9-nicotinic acetylcholine receptor expression in human breast cancer cells.
+  JOURNAL   Breast Cancer Res Treat 129:331-45 (2011)
+            DOI:10.1007/s10549-010-1209-0
+REFERENCE   PMID:16421368
+  AUTHORS   Yager JD, Davidson NE
+  TITLE     Estrogen carcinogenesis in breast cancer.
+  JOURNAL   N Engl J Med 354:270-82 (2006)
+            DOI:10.1056/NEJMra050776
+REFERENCE   PMID:29229539
+  AUTHORS   Murata M, Kang JH
+  TITLE     Bisphenol A (BPA) and cell signaling pathways.
+  JOURNAL   Biotechnol Adv 36:311-327 (2018)
+            DOI:10.1016/j.biotechadv.2017.12.002
+REFERENCE   PMID:28251049
+  AUTHORS   Wang Z, Liu H, Liu S
+  TITLE     Low-Dose Bisphenol A Exposure: A Seemingly Instigating Carcinogenic Effect on Breast Cancer.
+  JOURNAL   Adv Sci (Weinh) 4:1600248 (2017)
+            DOI:10.1002/advs.201600248
+REFERENCE   PMID:28426875
+  AUTHORS   Sauer SJ, Tarpley M, Shah I, Save AV, Lyerly HK, Patierno SR, Williams KP, Devi GR
+  TITLE     Bisphenol A activates EGFR and ERK promoting proliferation, tumor spheroid formation and resistance to EGFR pathway inhibition in estrogen receptor-negative inflammatory breast cancer cells.
+  JOURNAL   Carcinogenesis 38:252-260 (2017)
+            DOI:10.1093/carcin/bgx003
+REFERENCE   PMID:29769245
+  AUTHORS   Chen QY, Costa M
+  TITLE     PI3K/Akt/mTOR Signaling Pathway and the Biphasic Effect of Arsenic in Carcinogenesis.
+  JOURNAL   Mol Pharmacol 94:784-792 (2018)
+            DOI:10.1124/mol.118.112268
+REFERENCE   PMID:32867363
+  AUTHORS   Pedroza DA, Subramani R, Lakshmanaswamy R
+  TITLE     Classical and Non-Classical Progesterone Signaling in Breast Cancers.
+  JOURNAL   Cancers (Basel) 12:E2440 (2020)
+            DOI:10.3390/cancers12092440
+REFERENCE   PMID:26265122
+  AUTHORS   Finlay-Schultz J, Sartorius CA
+  TITLE     Steroid hormones, steroid receptors, and breast cancer stem cells.
+  JOURNAL   J Mammary Gland Biol Neoplasia 20:39-50 (2015)
+            DOI:10.1007/s10911-015-9340-5
+REFERENCE   PMID:27368976
+  AUTHORS   Valadez-Cosmes P, Vazquez-Martinez ER, Cerbon M, Camacho-Arroyo I
+  TITLE     Membrane progesterone receptors in reproduction and cancer.
+  JOURNAL   Mol Cell Endocrinol 434:166-75 (2016)
+            DOI:10.1016/j.mce.2016.06.027
+REFERENCE   PMID:33014829
+  AUTHORS   Chen B, Ye P, Chen Y, Liu T, Cha JH, Yan X, Yang WH
+  TITLE     Involvement of the Estrogen and Progesterone Axis in Cancer Stemness: Elucidating Molecular Mechanisms and Clinical Significance.
+  JOURNAL   Front Oncol 10:1657 (2020)
+            DOI:10.3389/fonc.2020.01657
+REFERENCE   PMID:25568920
+  AUTHORS   Murray IA, Patterson AD, Perdew GH
+  TITLE     Aryl hydrocarbon receptor ligands in cancer: friend and foe.
+  JOURNAL   Nat Rev Cancer 14:801-14 (2014)
+            DOI:10.1038/nrc3846
+REFERENCE   PMID:30003042
+  AUTHORS   Larigot L, Juricek L, Dairou J, Coumoul X
+  TITLE     AhR signaling pathways and regulatory functions.
+  JOURNAL   Biochim Open 7:1-9 (2018)
+            DOI:10.1016/j.biopen.2018.05.001
+REFERENCE   PMID:27980293
+  AUTHORS   Kawajiri K, Fujii-Kuriyama Y
+  TITLE     The aryl hydrocarbon receptor: a multifunctional chemical sensor for host defense and homeostatic maintenance.
+  JOURNAL   Exp Anim 66:75-89 (2017)
+            DOI:10.1538/expanim.16-0092
+REFERENCE   PMID:31552251
+  AUTHORS   Hidaka T, Fujimura T, Aiba S
+  TITLE     Aryl Hydrocarbon Receptor Modulates Carcinogenesis and Maintenance of Skin Cancers.
+  JOURNAL   Front Med (Lausanne) 6:194 (2019)
+            DOI:10.3389/fmed.2019.00194
+REFERENCE   PMID:15900503
+  AUTHORS   Mandal PK
+  TITLE     Dioxin: a review of its environmental effects and its aryl hydrocarbon receptor biology.
+  JOURNAL   J Comp Physiol B 175:221-30 (2005)
+            DOI:10.1007/s00360-005-0483-3
+REFERENCE   PMID:30951959
+  AUTHORS   Miret NV, Pontillo CA, Zarate LV, Kleiman de Pisarev D, Cocca C, Randi AS
+  TITLE     Impact of endocrine disruptor hexachlorobenzene on the mammary gland and breast cancer: The story thus far.
+  JOURNAL   Environ Res 173:330-341 (2019)
+            DOI:10.1016/j.envres.2019.03.054
+REFERENCE   PMID:32526215
+  AUTHORS   Zarate LV, Pontillo CA, Espanol A, Miret NV, Chiappini F, Cocca C, Alvarez L, de Pisarev DK, Sales ME, Randi AS
+  TITLE     Angiogenesis signaling in breast cancer models is induced by hexachlorobenzene and chlorpyrifos, pesticide ligands of the aryl hydrocarbon receptor.
+  JOURNAL   Toxicol Appl Pharmacol 401:115093 (2020)
+            DOI:10.1016/j.taap.2020.115093
+REFERENCE   PMID:25257533
+  AUTHORS   L'Heritier F, Marques M, Fauteux M, Gaudreau L
+  TITLE     Defining molecular sensors to assess long-term effects of pesticides on carcinogenesis.
+  JOURNAL   Int J Mol Sci 15:17148-61 (2014)
+            DOI:10.3390/ijms150917148
+REFERENCE   PMID:17189671
+  AUTHORS   Kitamura M, Kasai A
+  TITLE     Cigarette smoke as a trigger for the dioxin receptor-mediated signaling pathway.
+  JOURNAL   Cancer Lett 252:184-94 (2007)
+            DOI:10.1016/j.canlet.2006.11.015
+REFERENCE   PMID:26600562
+  AUTHORS   Smith MT, Guyton KZ, Gibbons CF, Fritz JM, Portier CJ, Rusyn I, DeMarini DM, Caldwell JC, Kavlock RJ, Lambert PF, Hecht SS, Bucher JR, Stewart BW, Baan RA, Cogliano VJ, Straif K
+  TITLE     Key Characteristics of Carcinogens as a Basis for Organizing Data on Mechanisms of Carcinogenesis.
+  JOURNAL   Environ Health Perspect 124:713-21 (2016)
+            DOI:10.1289/ehp.1509912
+REFERENCE   PMID:31366862
+  AUTHORS   Yoshinari K
+  TITLE     Role of Nuclear Receptors PXR and CAR in Xenobiotic-Induced Hepatocyte Proliferation and Chemical Carcinogenesis.
+  JOURNAL   Biol Pharm Bull 42:1243-1252 (2019)
+            DOI:10.1248/bpb.b19-00267
+REFERENCE   PMID:26136231
+  AUTHORS   Yoo HS, Cichocki JA, Kim S, Venkatratnam A, Iwata Y, Kosyk O, Bodnar W, Sweet S, Knap A, Wade T, Campbell J, Clewell HJ, Melnyk SB, Chiu WA, Rusyn I
+  TITLE     The Contribution of Peroxisome Proliferator-Activated Receptor Alpha to the Relationship Between Toxicokinetics and Toxicodynamics of Trichloroethylene.
+  JOURNAL   Toxicol Sci 147:339-49 (2015)
+            DOI:10.1093/toxsci/kfv134
+REFERENCE   PMID:20414453
+  AUTHORS   Pyper SR, Viswakarma N, Yu S, Reddy JK
+  TITLE     PPARalpha: energy combustion, hypolipidemia, inflammation and cancer.
+  JOURNAL   Nucl Recept Signal 8:e002 (2010)
+            DOI:10.1621/nrs.08002
+REFERENCE   PMID:20049115
+  AUTHORS   Guyton KZ, Chiu WA, Bateson TF, Jinot J, Scott CS, Brown RC, Caldwell JC
+  TITLE     A reexamination of the PPAR-alpha activation mode of action as a basis for assessing human cancer risks of environmental contaminants.
+  JOURNAL   Environ Health Perspect 117:1664-72 (2009)
+            DOI:10.1289/ehp.0900758
+REL_PATHWAY hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa03320  PPAR signaling pathway
+            hsa04010  MAPK signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04370  VEGF signaling pathway
+            hsa04915  Estrogen signaling pathway
+            hsa05204  Chemical carcinogenesis - DNA adducts
+            hsa05206  MicroRNAs in cancer
+            hsa05208  Chemical carcinogenesis - reactive oxygen species
+KO_PATHWAY  ko05207
+///

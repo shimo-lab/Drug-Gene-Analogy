@@ -1,0 +1,277 @@
+ENTRY       hsa05223                    Pathway
+NAME        Non-small cell lung cancer - Homo sapiens (human)
+DESCRIPTION Lung cancer is a leading cause of cancer death among men and women in industrialized countries. Non-small-cell lung cancer (NSCLC) accounts for approximately 85% of lung cancer and represents a heterogeneous group of cancers, consisting mainly of squamous cell (SCC), adeno (AC) and large-cell carcinoma. Molecular mechanisms altered in NSCLC include activation of oncogenes, such as K-RAS, EGFR and EML4-ALK, and inactivation of tumorsuppressor genes, such as p53, p16INK4a, RAR-beta, and RASSF1. Point mutations within the K-RAS gene inactivate GTPase activity and the p21-RAS protein continuously transmits growth signals to the nucleus. Mutations or overexpression of EGFR leads to a proliferative advantage. EML4-ALK fusion leads to constitutive ALK activation, which causes cell proliferation, invasion, and inhibition of apoptosis. Inactivating mutation of p53 can lead to more rapid proliferation and reduced apoptosis. The protein encoded by the p16INK4a inhibits formation of CDK-cyclin-D complexes by competitive binding of CDK4 and CDK6. Loss of p16INK4a expression is a common feature of NSCLC. RAR-beta is a nuclear receptor that bears vitamin-A-dependent transcriptional activity. RASSF1A is able to form heterodimers with Nore-1, an RAS effector.Therefore loss of RASSF1A might shift the balance of RAS activity towards a growth-promoting effect.
+CLASS       Human Diseases; Cancer: specific types
+PATHWAY_MAP hsa05223  Non-small cell lung cancer
+NETWORK     nt06210  ERK signaling
+            nt06213  Other RAS signaling
+            nt06214  PI3K signaling
+            nt06219  JAK-STAT signaling
+            nt06220  Calcium signaling
+            nt06230  Cell cycle
+            nt06240  Transcription
+            nt06260  Colorectal cancer
+            nt06261  Gastric cancer
+            nt06262  Pancreatic cancer
+            nt06263  Hepatocellular carcinoma
+            nt06265  Bladder cancer
+            nt06266  Non-small cell lung cancer
+            nt06267  Small cell lung cancer
+            nt06268  Melanoma
+            nt06269  Basal cell carcinoma
+            nt06270  Breast cancer
+            nt06271  Endometrial cancer
+            nt06273  Glioma
+            nt06274  Thyroid cancer
+            nt06275  Acute myeloid leukemia
+            nt06276  Chronic myeloid leukemia
+  ELEMENT   N00007  EML4-ALK fusion kinase to RAS-ERK signaling pathway
+            N00008  RET fusion kinase to RAS-ERK signaling pathway
+            N00012  Mutation-activated KRAS/NRAS to ERK signaling pathway
+            N00014  Mutation-activated EGFR to RAS-ERK signaling pathway
+            N00022  ERBB2-overexpression to RAS-ERK signaling pathway
+            N00024  Mutation-activated EGFR to PLCG-ERK signaling pathway
+            N00025  EML4-ALK fusion kinase to PLCG-ERK signaling pathway
+            N00032  Mutation-activated KRAS/NRAS to PI3K signaling pathway
+            N00036  Mutation-activated EGFR to PI3K signaling pathway
+            N00041  EGFR-overexpression to RAS-ERK signaling pathway
+            N00047  EML4-ALK fusion kinase to PI3K signaling pathway
+            N00070  Mutation-inactivated p16(INK4a) to p16-cell cycle G1/S
+            N00097  Loss of RASSF1 to RAS-RASSF1 signaling pathway
+            N00105  EML4-ALK fusion kinase to Jak-STAT signaling pathway
+            N00115  Mutation-inactivated TP53 to transcription
+            N01062  Mutation-activated MET to RAS-ERK signaling pathway
+            N01063  Mutation-activated MET to PI3K signaling pathway
+DISEASE     H00014  Non-small cell lung cancer
+DRUG        D01977  Gefitinib (JP18/USAN/INN)
+            D04023  Erlotinib hydrochloride (JAN/USAN)
+            D07907  Erlotinib (INN)
+            D09731  Crizotinib (JAN/USAN/INN)
+            D09733  Afatinib dimaleate (USAN)
+            D10018  Necitumumab (USAN/INN)
+            D10450  Alectinib hydrochloride (JAN)
+            D10514  Dacomitinib (USAN)
+            D10542  Alectinib (USAN/INN)
+            D10551  Ceritinib (JAN/USAN/INN)
+            D10766  Osimertinib mesylate (USAN)
+            D10866  Brigatinib (JAN/USAN)
+            D10891  Capmatinib hydrochloride (USAN)
+            D11012  Lorlatinib (JAN/USAN/INN)
+            D11073  Tepotinib hydrochloride (USAN)
+            D11712  Pralsetinib (USAN/INN)
+            D11713  Selpercatinib (JAN/USAN/INN)
+            D11894  Amivantamab (USAN/INN)
+            D11969  Mobocertinib succinate (JAN)
+            D12055  Sotorasib (JAN/USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2272  FHIT; fragile histidine triad diadenosine triphosphatase [KO:K01522] [EC:3.6.1.29]
+            5915  RARB; retinoic acid receptor beta [KO:K08528]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6257  RXRB; retinoid X receptor beta [KO:K08525]
+            6258  RXRG; retinoid X receptor gamma [KO:K08526]
+            1029  CDKN2A; cyclin dependent kinase inhibitor 2A [KO:K06621]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            595  CCND1; cyclin D1 [KO:K04503]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            11186  RASSF1; Ras association domain family member 1 [KO:K09850]
+            83593  RASSF5; Ras association domain family member 5 [KO:K08015]
+            6789  STK4; serine/threonine kinase 4 [KO:K04411]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            1950  EGF; epidermal growth factor [KO:K04357]
+            7039  TGFA; transforming growth factor alpha [KO:K08774]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            2064  ERBB2; erb-b2 receptor tyrosine kinase 2 [KO:K05083] [EC:2.7.10.1]
+            3082  HGF; hepatocyte growth factor [KO:K05460]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+            3798  KIF5A; kinesin family member 5A [KO:K10396]
+            3799  KIF5B; kinesin family member 5B [KO:K10396]
+            3800  KIF5C; kinesin family member 5C [KO:K10396]
+            5979  RET; ret proto-oncogene [KO:K05126] [EC:2.7.10.1]
+            27436  EML4; EMAP like 4 [KO:K15420]
+            238  ALK; ALK receptor tyrosine kinase [KO:K05119] [EC:2.7.10.1]
+            3718  JAK3; Janus kinase 3 [KO:K11218] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            6776  STAT5A; signal transducer and activator of transcription 5A [KO:K11223]
+            6777  STAT5B; signal transducer and activator of transcription 5B [KO:K11224]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00777  Retinoate
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C15493  9-cis-Retinoic acid
+REFERENCE   PMID:12379883
+  AUTHORS   Osada H, Takahashi T.
+  TITLE     Genetic alterations of multiple tumor suppressors and oncogenes in the carcinogenesis and progression of lung cancer.
+  JOURNAL   Oncogene 21:7421-34 (2002)
+            DOI:10.1038/sj.onc.1205802
+REFERENCE   PMID:12741677
+  AUTHORS   Yokota J, Nishioka M, Tani M, Kohno T.
+  TITLE     Genetic alterations responsible for metastatic phenotypes of lung cancer cells.
+  JOURNAL   Clin Exp Metastasis 20:189-93 (2003)
+            DOI:10.1023/a:1022978932215
+REFERENCE   PMID:16870043
+  AUTHORS   Aviel-Ronen S, Blackhall FH, Shepherd FA, Tsao MS.
+  TITLE     K-ras mutations in non-small-cell lung carcinoma: a review.
+  JOURNAL   Clin Lung Cancer 8:30-8 (2006)
+            DOI:10.3816/CLC.2006.n.030
+REFERENCE   PMID:15948711
+  AUTHORS   Pfeifer GP, Dammann R.
+  TITLE     Methylation of the tumor suppressor gene RASSF1A in human tumors.
+  JOURNAL   Biochemistry (Mosc) 70:576-83 (2005)
+            DOI:10.1007/s10541-005-0151-y
+REFERENCE   PMID:11902573
+  AUTHORS   Altucci L, Gronemeyer H.
+  TITLE     The promise of retinoids to fight against cancer.
+  JOURNAL   Nat Rev Cancer 1:181-93 (2001)
+            DOI:10.1038/35106036
+REFERENCE   PMID:10944551
+  AUTHORS   Virmani AK, Rathi A, Zochbauer-Muller S, Sacchi N, Fukuyama Y, Bryant D, Maitra A, Heda S, Fong KM, Thunnissen F, Minna JD, Gazdar AF.
+  TITLE     Promoter methylation and silencing of the retinoic acid receptor-beta gene in lung carcinomas.
+  JOURNAL   J Natl Cancer Inst 92:1303-7 (2000)
+            DOI:10.1093/jnci/92.16.1303
+REFERENCE   PMID:12867060
+  AUTHORS   Hirsch FR, Scagliotti GV, Langer CJ, Varella-Garcia M, Franklin WA.
+  TITLE     Epidermal growth factor family of receptors in preneoplasia and lung cancer: perspectives for targeted therapies.
+  JOURNAL   Lung Cancer 41 Suppl 1:S29-42 (2003)
+            DOI:10.1016/S0169-5002(03)00137-5
+REFERENCE   PMID:16112428
+  AUTHORS   Panani AD, Roussos C.
+  TITLE     Cytogenetic and molecular aspects of lung cancer.
+  JOURNAL   Cancer Lett 239:1-9 (2006)
+            DOI:10.1016/j.canlet.2005.06.030
+REFERENCE   PMID:12407699
+  AUTHORS   Mitsuuchi Y, Testa JR.
+  TITLE     Cytogenetics and molecular genetics of lung cancer.
+  JOURNAL   Am J Med Genet 115:183-8 (2002)
+            DOI:10.1002/ajmg.10692
+REFERENCE   PMID:15942304
+  AUTHORS   Breuer RH, Postmus PE, Smit EF.
+  TITLE     Molecular pathology of non-small-cell lung cancer.
+  JOURNAL   Respiration 72:313-30 (2005)
+            DOI:10.1159/000085376
+REFERENCE   PMID:11895903
+  AUTHORS   Piyathilake CJ, Frost AR, Manne U, Weiss H, Bell WC, Heimburger DC, Grizzle WE.
+  TITLE     Differential expression of growth factors in squamous cell carcinoma and precancerous lesions of the lung.
+  JOURNAL   Clin Cancer Res 8:734-44 (2002)
+REFERENCE   PMID:16189154
+  AUTHORS   Awaya H, Takeshima Y, Furonaka O, Kohno N, Inai K.
+  TITLE     Gene amplification and protein expression of EGFR and HER2 by chromogenic in situ hybridisation and immunohistochemistry in atypical adenomatous hyperplasia and adenocarcinoma of the lung.
+  JOURNAL   J Clin Pathol 58:1076-80 (2005)
+            DOI:10.1136/jcp.2004.025585
+REFERENCE   PMID:17625570
+  AUTHORS   Soda M, Choi YL, Enomoto M, Takada S, Yamashita Y, Ishikawa S, Fujiwara S, Watanabe H, Kurashina K, Hatanaka H, Bando M, Ohno S, Ishikawa Y, Aburatani H, Niki T, Sohara Y, Sugiyama Y, Mano H
+  TITLE     Identification of the transforming EML4-ALK fusion gene in non-small-cell lung cancer.
+  JOURNAL   Nature 448:561-6 (2007)
+            DOI:10.1038/nature05945
+REFERENCE   PMID:18593892
+  AUTHORS   Choi YL, Takeuchi K, Soda M, Inamura K, Togashi Y, Hatano S, Enomoto M, Hamada T, Haruta H, Watanabe H, Kurashina K, Hatanaka H, Ueno T, Takada S, Yamashita Y, Sugiyama Y, Ishikawa Y, Mano H
+  TITLE     Identification of novel isoforms of the EML4-ALK transforming gene in non-small cell lung cancer.
+  JOURNAL   Cancer Res 68:4971-6 (2008)
+            DOI:10.1158/0008-5472.CAN-07-6158
+REFERENCE   PMID:19629074
+  AUTHORS   Janne PA, Gray N, Settleman J
+  TITLE     Factors underlying sensitivity of cancers to small-molecule kinase inhibitors.
+  JOURNAL   Nat Rev Drug Discov 8:709-23 (2009)
+            DOI:10.1038/nrd2871
+REFERENCE   PMID:23201355
+  AUTHORS   Roskoski R Jr
+  TITLE     Anaplastic lymphoma kinase (ALK): structure, oncogenic activation, and pharmacological inhibition.
+  JOURNAL   Pharmacol Res 68:68-94 (2013)
+            DOI:10.1016/j.phrs.2012.11.007
+REFERENCE   PMID:22154278
+  AUTHORS   Reungwetwattana T, Weroha SJ, Molina JR
+  TITLE     Oncogenic pathways, molecularly targeted therapies, and highlighted clinical trials in non-small-cell lung cancer (NSCLC).
+  JOURNAL   Clin Lung Cancer 13:252-66 (2012)
+            DOI:10.1016/j.cllc.2011.09.004
+REFERENCE   PMID:21855164
+  AUTHORS   Popat S, Gonzalez D, Min T, Swansbury J, Dainton M, Croud JG, Rice AJ, Nicholson AG
+  TITLE     ALK translocation is associated with ALK immunoreactivity and extensive signet-ring morphology in primary lung adenocarcinoma.
+  JOURNAL   Lung Cancer 75:300-5 (2012)
+            DOI:10.1016/j.lungcan.2011.07.017
+REFERENCE   PMID:21753699
+  AUTHORS   Yoshida A, Tsuta K, Nakamura H, Kohno T, Takahashi F, Asamura H, Sekine I, Fukayama M, Shibata T, Furuta K, Tsuda H
+  TITLE     Comprehensive histologic analysis of ALK-rearranged lung carcinomas.
+  JOURNAL   Am J Surg Pathol 35:1226-34 (2011)
+            DOI:10.1097/PAS.0b013e3182233e06
+REFERENCE   PMID:22736493
+  AUTHORS   Shaozhang Z, Xiaomei L, Aiping Z, Jianbo H, Xiangqun S, Qitao Y
+  TITLE     Detection of EML4-ALK fusion genes in non-small cell lung cancer patients with clinical features associated with EGFR mutations.
+  JOURNAL   Genes Chromosomes Cancer 51:925-32 (2012)
+            DOI:10.1002/gcc.21976
+REFERENCE   PMID:21850578
+  AUTHORS   Toyooka S, Mitsudomi T, Soh J, Aokage K, Yamane M, Oto T, Kiura K, Miyoshi S
+  TITLE     Molecular oncology of lung cancer.
+  JOURNAL   Gen Thorac Cardiovasc Surg 59:527-37 (2011)
+            DOI:10.1007/s11748-010-0743-3
+REFERENCE   PMID:23733083
+  AUTHORS   Koudelakova V, Kneblova M, Trojanec R, Drabek J, Hajduch M
+  TITLE     Non-small cell lung cancer--genetic predictors.
+  JOURNAL   Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub 157:125-36 (2013)
+            DOI:10.5507/bp.2013.034
+REFERENCE   PMID:30941048
+  AUTHORS   Takeuchi K
+  TITLE     Discovery Stories of RET Fusions in Lung Cancer: A Mini-Review.
+  JOURNAL   Front Physiol 10:216 (2019)
+            DOI:10.3389/fphys.2019.00216
+REFERENCE   PMID:29128428
+  AUTHORS   Ferrara R, Auger N, Auclin E, Besse B
+  TITLE     Clinical and Translational Implications of RET Rearrangements in Non-Small Cell Lung Cancer.
+  JOURNAL   J Thorac Oncol 13:27-45 (2018)
+            DOI:10.1016/j.jtho.2017.10.021
+REFERENCE   PMID:32326537
+  AUTHORS   Santoro M, Moccia M, Federico G, Carlomagno F
+  TITLE     RET Gene Fusions in Malignancies of the Thyroid and Other Tissues.
+  JOURNAL   Genes (Basel) 11:genes11040424 (2020)
+            DOI:10.3390/genes11040424
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04014  Ras signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+KO_PATHWAY  ko05223
+///

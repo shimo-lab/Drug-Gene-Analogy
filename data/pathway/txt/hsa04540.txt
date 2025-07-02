@@ -1,0 +1,227 @@
+ENTRY       hsa04540                    Pathway
+NAME        Gap junction - Homo sapiens (human)
+DESCRIPTION Gap junctions contain intercellular channels that allow direct communication between the cytosolic compartments of adjacent cells. Each gap junction channel is formed by docking of two 'hemichannels', each containing six connexins, contributed by each neighboring cell. These channels permit the direct transfer of small molecules including ions, amino acids, nucleotides, second messengers and other metabolites between adjacent cells. Gap junctional communication is essential for many physiological events, including embryonic development, electrical coupling, metabolic transport, apoptosis, and tissue homeostasis. Communication through Gap Junction is sensitive to a variety of stimuli, including changes in the level of intracellular Ca2+, pH, transjunctional applied voltage and phosphorylation/dephosphorylation processes. This figure represents the possible activation routes of different protein kinases involved in Cx43 and Cx36 phosphorylation.
+CLASS       Cellular Processes; Cellular community - eukaryotes
+PATHWAY_MAP hsa04540  Gap junction
+DRUG        D00491  Paclitaxel (JAN/USP/INN)
+            D00570  Colchicine (JP18/USP)
+            D00599  Carteolol hydrochloride (JP18/USP)
+            D01068  Vinblastine sulfate (JP18/USP)
+            D01105  Moperone hydrochloride (JAN)
+            D01769  Vindesine sulfate (JAN/USAN)
+            D01919  Soblidotin (JAN/INN)
+            D01935  Vinorelbine tartrate (USP)
+            D02035  Timiperone (JAN)
+            D02165  Docetaxel (USP)
+            D02197  Vincristine sulfate (JP18/USP)
+            D02371  Clocapramine hydrochloride hydrate (JP18)
+            D02372  Perospirone hydrochloride hydrate (JAN)
+            D02605  Methoxypromazine maleate
+            D02623  Moperone (INN)
+            D02641  Butaclamol hydrochloride (USAN)
+            D02670  Mazapertine succinate (USAN)
+            D02681  Piquindone hydrochloride (USAN)
+            D02682  Remoxipride (USAN)
+            D02683  Remoxipride hydrochloride (USAN)
+            D03059  Batabulin sodium (USAN)
+            D03065  Becaplermin (USAN/INN)
+            D03364  Cantuzumab mertansine (USAN)
+            D04645  Ixabepilone (JAN/USAN/INN)
+            D04864  Maytansine (USAN)
+            D05062  Mivobulin isethionate (USAN)
+            D05333  Paclitaxel poliglumex (USAN/INN)
+            D06001  Taltobulin (USAN/INN)
+            D06009  Tasidotin hydrochloride (USAN)
+            D06304  Vindesine (USAN/INN)
+            D06305  Vinepidine sulfate (USAN)
+            D06306  Vinglycinate sulfate (USAN)
+            D06307  Vinleurosine sulfate (USAN)
+            D06308  Vinrosidine sulfate (USAN)
+            D06309  Vinzolidine sulfate (USAN)
+            D06560  Batabulin (USAN/INN)
+            D06576  Cevipabulin fumarate (USAN)
+            D07624  Carteolol (INN)
+            D07718  Clocapramine (INN)
+            D07866  Docetaxel (JAN/INN)
+            D08675  Vinblastine (INN)
+            D08679  Vincristine (INN)
+            D08680  Vinorelbine (INN)
+            D08889  Cevipabulin succinate (USAN)
+            D08914  Eribulin mesylate (USAN)
+            D09032  Vinflunine ditartrate (USAN)
+            D09755  Cabazitaxel (USAN/INN)
+            D09927  Lorvotuzumab mertansine (USAN/INN)
+            D10029  Verubulin (USAN/INN)
+            D10030  Verubulin hydrochloride (USAN)
+            D10452  Cabazitaxel acetonate (JAN)
+            D10454  Cantuzumab ravtansine (USAN)
+            D11228  Soravtansine (USAN)
+            D11238  Lifastuzumab vedotin (USAN/INN)
+            D11494  Lisavanbulin (USAN/INN)
+            D11525  Enfortumab vedotin (USAN)
+            D11681  Avanbulin (USAN/INN)
+            D11691  Tirbanibulin (USAN/INN)
+            D11692  Tirbanibulin mesylate (USAN)
+            D11814  Tisotumab vedotin (USAN/INN)
+            D12183  Farletuzumab ecteribulin (USAN)
+            D12516  Zagociguat (USAN/INN)
+            D12519  Sabizabulin (USAN/INN)
+            D12520  Sabizabulin hydrochloride (USAN)
+DBLINKS     GO: 0005921
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2697  GJA1; gap junction protein alpha 1 [KO:K07372]
+            57369  GJD2; gap junction protein delta 2 [KO:K07373]
+            1902  LPAR1; lysophosphatidic acid receptor 1 [KO:K04289]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            5154  PDGFA; platelet derived growth factor subunit A [KO:K04359]
+            5155  PDGFB; platelet derived growth factor subunit B [KO:K17386]
+            56034  PDGFC; platelet derived growth factor C [KO:K05450]
+            80310  PDGFD; platelet derived growth factor D [KO:K05450]
+            1950  EGF; epidermal growth factor [KO:K04357]
+            5156  PDGFRA; platelet derived growth factor receptor alpha [KO:K04363] [EC:2.7.10.1]
+            5159  PDGFRB; platelet derived growth factor receptor beta [KO:K05089] [EC:2.7.10.1]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            10746  MAP3K2; mitogen-activated protein kinase kinase kinase 2 [KO:K04420] [EC:2.7.11.25]
+            5607  MAP2K5; mitogen-activated protein kinase kinase 5 [KO:K04463] [EC:2.7.12.2]
+            5598  MAPK7; mitogen-activated protein kinase 7 [KO:K04464] [EC:2.7.11.24]
+            10376  TUBA1B; tubulin alpha 1b [KO:K07374]
+            7277  TUBA4A; tubulin alpha 4a [KO:K07374]
+            7278  TUBA3C; tubulin alpha 3c [KO:K07374]
+            7846  TUBA1A; tubulin alpha 1a [KO:K07374]
+            84790  TUBA1C; tubulin alpha 1c [KO:K07374]
+            51807  TUBA8; tubulin alpha 8 [KO:K07374]
+            112714  TUBA3E; tubulin alpha 3e [KO:K07374]
+            113457  TUBA3D; tubulin alpha 3d [KO:K07374]
+            79861  TUBAL3; tubulin alpha like 3 [KO:K07374]
+            84617  TUBB6; tubulin beta 6 class V [KO:K07375]
+            203068  TUBB; tubulin beta class I [KO:K07375]
+            81027  TUBB1; tubulin beta 1 class VI [KO:K07375]
+            7280  TUBB2A; tubulin beta 2A class IIa [KO:K07375]
+            10381  TUBB3; tubulin beta 3 class III [KO:K07375]
+            10382  TUBB4A; tubulin beta 4A class IVa [KO:K07375]
+            347688  TUBB8; tubulin beta 8 class VIII [KO:K07375]
+            347733  TUBB2B; tubulin beta 2B class IIb [KO:K07375]
+            10383  TUBB4B; tubulin beta 4B class IVb [KO:K07375]
+            1453  CSNK1D; casein kinase 1 delta [KO:K08959] [EC:2.7.11.1]
+            983  CDK1; cyclin dependent kinase 1 [KO:K02087] [EC:2.7.11.22 2.7.11.23]
+            7082  TJP1; tight junction protein 1 [KO:K05701]
+            153  ADRB1; adrenoceptor beta 1 [KO:K04141]
+            1812  DRD1; dopamine receptor D1 [KO:K04144]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            1813  DRD2; dopamine receptor D2 [KO:K04145]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            3356  HTR2A; 5-hydroxytryptamine receptor 2A [KO:K04157]
+            3357  HTR2B; 5-hydroxytryptamine receptor 2B [KO:K04157]
+            3358  HTR2C; 5-hydroxytryptamine receptor 2C [KO:K04157]
+            2911  GRM1; glutamate metabotropic receptor 1 [KO:K04603]
+            2915  GRM5; glutamate metabotropic receptor 5 [KO:K04604]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            2977  GUCY1A2; guanylate cyclase 1 soluble subunit alpha 2 [KO:K12318] [EC:4.6.1.2]
+            2982  GUCY1A1; guanylate cyclase 1 soluble subunit alpha 1 [KO:K12318] [EC:4.6.1.2]
+            2983  GUCY1B1; guanylate cyclase 1 soluble subunit beta 1 [KO:K12319] [EC:4.6.1.2]
+            5592  PRKG1; protein kinase cGMP-dependent 1 [KO:K07376] [EC:2.7.11.12]
+            5593  PRKG2; protein kinase cGMP-dependent 2 [KO:K19477] [EC:2.7.11.12]
+COMPOUND    C00025  L-Glutamate
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00533  Nitric oxide
+            C00547  L-Noradrenaline
+            C00575  3',5'-Cyclic AMP
+            C00681  1-Acyl-sn-glycerol 3-phosphate
+            C00780  Serotonin
+            C00942  3',5'-Cyclic GMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C03758  Dopamine
+REFERENCE   PMID:14506308
+  AUTHORS   Saez JC, Berthoud VM, Branes MC, Martinez AD, Beyer EC.
+  TITLE     Plasma membrane channels formed by connexins: their regulation and functions.
+  JOURNAL   Physiol Rev 83:1359-400 (2003)
+            DOI:10.1152/physrev.00007.2003
+REFERENCE   PMID:15033580
+  AUTHORS   Warn-Cramer BJ, Lau AF.
+  TITLE     Regulation of gap junctions by tyrosine protein kinases.
+  JOURNAL   Biochim Biophys Acta 1662:81-95 (2004)
+            DOI:10.1016/j.bbamem.2003.10.018
+REFERENCE   PMID:9535909
+  AUTHORS   Warn-Cramer BJ, Cottrell GT, Burt JM, Lau AF.
+  TITLE     Regulation of connexin-43 gap junctional intercellular communication by mitogen-activated protein kinase.
+  JOURNAL   J Biol Chem 273:9188-96 (1998)
+            DOI:10.1074/jbc.273.15.9188
+REFERENCE   PMID:10751659
+  AUTHORS   Roerig B, Feller MB.
+  TITLE     Neurotransmitters and gap junctions in developing neural circuits.
+  JOURNAL   Brain Res Brain Res Rev 32:86-114 (2000)
+            DOI:10.1016/S0165-0173(99)00069-7
+REFERENCE   PMID:10873290
+  AUTHORS   Hatton GI.
+  TITLE     Synaptic modulation of neuronal coupling.
+  JOURNAL   Cell Biol Int 22:765-80 (1998)
+            DOI:10.1006/cbir.1998.0386
+REFERENCE   PMID:12566218
+  AUTHORS   Cruciani V, Mikalsen SO.
+  TITLE     Connexins, gap junctional intercellular communication and kinases.
+  JOURNAL   Biol Cell 94:433-43 (2002)
+            DOI:10.1016/S0248-4900(02)00014-X
+REFERENCE   PMID:15094344
+  AUTHORS   Giepmans BN.
+  TITLE     Gap junctions and connexin-interacting proteins.
+  JOURNAL   Cardiovasc Res 62:233-45 (2004)
+            DOI:10.1016/j.cardiores.2003.12.009
+REFERENCE   PMID:15955302
+  AUTHORS   Laird DW.
+  TITLE     Connexin phosphorylation as a regulatory event linked to gap junction internalization and degradation.
+  JOURNAL   Biochim Biophys Acta 1711:172-82 (2005)
+            DOI:10.1016/j.bbamem.2004.09.009
+REFERENCE   PMID:15033579
+  AUTHORS   Peracchia C.
+  TITLE     Chemical gating of gap junction channels; roles of calcium, pH and calmodulin.
+  JOURNAL   Biochim Biophys Acta 1662:61-80 (2004)
+            DOI:10.1016/j.bbamem.2003.10.020
+REFERENCE   PMID:15033578
+  AUTHORS   Bukauskas FF, Verselis VK.
+  TITLE     Gap junction channel gating.
+  JOURNAL   Biochim Biophys Acta 1662:42-60 (2004)
+            DOI:10.1016/j.bbamem.2004.01.008
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04080  Neuroactive ligand-receptor interaction
+KO_PATHWAY  ko04540
+///

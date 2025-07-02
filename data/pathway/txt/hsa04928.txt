@@ -1,0 +1,280 @@
+ENTRY       hsa04928                    Pathway
+NAME        Parathyroid hormone synthesis, secretion and action - Homo sapiens (human)
+DESCRIPTION Parathyroid hormone (PTH) is a key regulator of calcium and phosphorus homeostasis. The principal regulators of PTH secretion are extracellular ionized calcium (Ca2+) and 1,25-dihydroxyvitamin D (1,25(OH)2D3). Under conditions of dietary Ca restriction, a decrement in serum Ca concentration induces release of PTH from the parathyroid gland. PTH acts on bone and kidney to stimulate bone turnover, increase the circulating levels of 1,25(OH)2D3 and calcium and inhibit the reabsorption of phosphate from the glomerular filtrate. This hormone exerts its actions via binding to the PTH/PTH-related peptide receptor (PTH1R). PTH1R primarily activates two sub-types of heterotrimeric Gproteins: Gs and Gq , which in turn regulate the activity of adenylyl cyclases and phospholipase C (PLC) that control the flow of cAMP/PKA and IP/PKC signaling cascades, respectively.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04928  Parathyroid hormone synthesis, secretion and action
+NETWORK     nt06318  CaSR-PTH signaling
+  ELEMENT   N00288  PTH-PTH1R-PKA signaling pathway
+            N00291  CaSR-PTH signaling pathway
+            N00293  GCM2-mediated transcription
+DRUG        D00930  Paricalcitol (JAN/USP/INN)
+            D01009  Doxercalciferol (USAN/INN)
+            D03358  Teriparatide acetate (JAN)
+            D03504  Cinacalcet (USAN)
+            D03505  Cinacalcet hydrochloride (JAN/USAN)
+            D05364  Parathyroid hormone (human) (USAN)
+            D06078  Teriparatide (USP/INN)
+            D06546  Teriparatide acetate (USAN)
+            D10676  Etelcalcetide (USAN/INN)
+            D10677  Etelcalcetide hydrochloride (JAN/USAN)
+            D11063  Evocalcet (JAN/INN)
+            D11237  Lifastuzumab (USAN)
+            D11238  Lifastuzumab vedotin (USAN/INN)
+            D11563  Abaloparatide acetate (JAN)
+            D11564  Upacicalcet sodium hydrate (JAN)
+            D12395  Palopegteriparatide (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        846  CASR; calcium sensing receptor [KO:K04612]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            8521  GCM1; glial cells missing transcription factor 1 [KO:K21598]
+            9247  GCM2; glial cells missing transcription factor 2 [KO:K21598]
+            9935  MAFB; MAF bZIP transcription factor B [KO:K09036]
+            2625  GATA3; GATA binding protein 3 [KO:K17895]
+            6667  SP1; Sp1 transcription factor [KO:K04684]
+            7421  VDR; vitamin D receptor [KO:K08539]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6257  RXRB; retinoid X receptor beta [KO:K08525]
+            6258  RXRG; retinoid X receptor gamma [KO:K08526]
+            8074  FGF23; fibroblast growth factor 23 [KO:K22428]
+            2260  FGFR1; fibroblast growth factor receptor 1 [KO:K04362] [EC:2.7.10.1]
+            9365  KL; klotho [KO:K14756] [EC:3.2.1.31]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            1958  EGR1; early growth response 1 [KO:K09203]
+            5741  PTH; parathyroid hormone [KO:K05261]
+            5744  PTHLH; parathyroid hormone like hormone [KO:K22608]
+            5745  PTH1R; parathyroid hormone 1 receptor [KO:K04585]
+            408  ARRB1; arrestin beta 1 [KO:K04439]
+            409  ARRB2; arrestin beta 2 [KO:K04439]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            56302  TRPV5; transient receptor potential cation channel subfamily V member 5 [KO:K04974]
+            6569  SLC34A1; solute carrier family 34 member 1 [KO:K14683]
+            10568  SLC34A2; solute carrier family 34 member 2 [KO:K14683]
+            142680  SLC34A3; solute carrier family 34 member 3 [KO:K14683]
+            9368  NHERF1; NHERF family PDZ scaffold protein 1 [KO:K13365]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            5141  PDE4A; phosphodiesterase 4A [KO:K13293] [EC:3.1.4.53]
+            5142  PDE4B; phosphodiesterase 4B [KO:K13293] [EC:3.1.4.53]
+            5143  PDE4C; phosphodiesterase 4C [KO:K13293] [EC:3.1.4.53]
+            5144  PDE4D; phosphodiesterase 4D [KO:K13293] [EC:3.1.4.53]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1594  CYP27B1; cytochrome P450 family 27 subfamily B member 1 [KO:K07438] [EC:1.14.15.18]
+            1591  CYP24A1; cytochrome P450 family 24 subfamily A member 1 [KO:K07436] [EC:1.14.15.16]
+            4205  MEF2A; myocyte enhancer factor 2A [KO:K09260]
+            4208  MEF2C; myocyte enhancer factor 2C [KO:K04454]
+            4209  MEF2D; myocyte enhancer factor 2D [KO:K09262]
+            50964  SOST; sclerostin [KO:K16834]
+            4929  NR4A2; nuclear receptor subfamily 4 group A member 2 [KO:K08558]
+            4666  NACA; nascent polypeptide associated complex subunit alpha [KO:K03626]
+            3727  JUND; JunD proto-oncogene, AP-1 transcription factor subunit [KO:K04449]
+            632  BGLAP; bone gamma-carboxyglutamate protein [KO:K22609]
+            4041  LRP5; LDL receptor related protein 5 [KO:K03068]
+            4040  LRP6; LDL receptor related protein 6 [KO:K03068]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            8600  TNFSF11; TNF superfamily member 11 [KO:K05473]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            860  RUNX2; RUNX family transcription factor 2 [KO:K09278]
+            4322  MMP13; matrix metallopeptidase 13 [KO:K07994] [EC:3.4.24.-]
+            2768  GNA12; G protein subunit alpha 12 [KO:K04346]
+            10672  GNA13; G protein subunit alpha 13 [KO:K04639]
+            9138  ARHGEF1; Rho guanine nucleotide exchange factor 1 [KO:K12330]
+            9826  ARHGEF11; Rho guanine nucleotide exchange factor 11 [KO:K12331]
+            11214  AKAP13; A-kinase anchoring protein 13 [KO:K16529]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            5337  PLD1; phospholipase D1 [KO:K01115] [EC:3.1.4.4]
+            5338  PLD2; phospholipase D2 [KO:K01115] [EC:3.1.4.4]
+            4323  MMP14; matrix metallopeptidase 14 [KO:K07763] [EC:3.4.24.80]
+            4324  MMP15; matrix metallopeptidase 15 [KO:K07995] [EC:3.4.24.-]
+            4325  MMP16; matrix metallopeptidase 16 [KO:K07996] [EC:3.4.24.-]
+            4326  MMP17; matrix metallopeptidase 17 [KO:K07997] [EC:3.4.24.-]
+            10893  MMP24; matrix metallopeptidase 24 [KO:K08002] [EC:3.4.24.-]
+            64386  MMP25; matrix metallopeptidase 25 [KO:K08003] [EC:3.4.24.-]
+            1839  HBEGF; heparin binding EGF like growth factor [KO:K08523]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+COMPOUND    C00009  Orthophosphate
+            C00020  AMP
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00575  3',5'-Cyclic AMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C01561  Calcidiol
+            C01673  Calcitriol
+            C18231  Calcitetrol
+REFERENCE   PMID:27065162
+  AUTHORS   Khundmiri SJ, Murray RD, Lederer E
+  TITLE     PTH and Vitamin D.
+  JOURNAL   Compr Physiol 6:561-601 (2016)
+            DOI:10.1002/cphy.c140071
+REFERENCE   PMID:28363951
+  AUTHORS   Bastepe M, Turan S, He Q
+  TITLE     Heterotrimeric G proteins in the control of parathyroid hormone actions.
+  JOURNAL   J Mol Endocrinol 58:R203-R224 (2017)
+            DOI:10.1530/JME-16-0221
+REFERENCE   PMID:20703892
+  AUTHORS   Vilardaga JP, Romero G, Friedman PA, Gardella TJ
+  TITLE     Molecular basis of parathyroid hormone receptor signaling and trafficking: a family B GPCR paradigm.
+  JOURNAL   Cell Mol Life Sci 68:1-13 (2011)
+            DOI:10.1007/s00018-010-0465-9
+REFERENCE   PMID:29291826
+  AUTHORS   Naveh-Many T, Silver J
+  TITLE     Transcription factors that determine parathyroid development power PTH expression.
+  JOURNAL   Kidney Int 93:7-9 (2018)
+            DOI:10.1016/j.kint.2017.08.026
+REFERENCE   PMID:25917456
+  AUTHORS   Han SI, Tsunekage Y, Kataoka K
+  TITLE     Gata3 cooperates with Gcm2 and MafB to activate parathyroid hormone gene expression by interacting with SP1.
+  JOURNAL   Mol Cell Endocrinol 411:113-20 (2015)
+            DOI:10.1016/j.mce.2015.04.018
+REFERENCE   PMID:22622503
+  AUTHORS   Ferre S, Hoenderop JG, Bindels RJ
+  TITLE     Sensing mechanisms involved in Ca2+ and Mg2+ homeostasis.
+  JOURNAL   Kidney Int 82:1157-66 (2012)
+            DOI:10.1038/ki.2012.179
+REFERENCE   PMID:20010546
+  AUTHORS   Komaba H, Fukagawa M
+  TITLE     FGF23-parathyroid interaction: implications in chronic kidney disease.
+  JOURNAL   Kidney Int 77:292-8 (2010)
+            DOI:10.1038/ki.2009.466
+REFERENCE   PMID:27194212
+  AUTHORS   Bilezikian JP, Cusano NE, Khan AA, Liu JM, Marcocci C, Bandeira F
+  TITLE     Primary hyperparathyroidism.
+  JOURNAL   Nat Rev Dis Primers 2:16033 (2016)
+            DOI:10.1038/nrdp.2016.33
+REFERENCE   PMID:21576356
+  AUTHORS   de Groot T, Kovalevskaya NV, Verkaart S, Schilderink N, Felici M, van der Hagen EA, Bindels RJ, Vuister GW, Hoenderop JG
+  TITLE     Molecular mechanisms of calmodulin action on TRPV5 and modulation by parathyroid hormone.
+  JOURNAL   Mol Cell Biol 31:2845-53 (2011)
+            DOI:10.1128/MCB.01319-10
+REFERENCE   PMID:17975663
+  AUTHORS   Hernando N, Wagner C, Biber J, Murer H
+  TITLE     Kidney kinase network regulates renal ion cotransport.
+  JOURNAL   J Clin Invest 117:3179-82 (2007)
+            DOI:10.1172/JCI33859
+REFERENCE   PMID:22628548
+  AUTHORS   Wang B, Means CK, Yang Y, Mamonova T, Bisello A, Altschuler DL, Scott JD, Friedman PA
+  TITLE     Ezrin-anchored protein kinase A coordinates phosphorylation-dependent disassembly of a NHERF1 ternary complex to regulate hormone-sensitive phosphate transport.
+  JOURNAL   J Biol Chem 287:24148-63 (2012)
+            DOI:10.1074/jbc.M112.369405
+REFERENCE   PMID:21097685
+  AUTHORS   Crenshaw TD, Rortvedt LA, Hassen Z
+  TITLE     Triennial Growth Symposium: a novel pathway for vitamin D-mediated phosphate homeostasis: implications for skeleton growth and mineralization.
+  JOURNAL   J Anim Sci 89:1957-64 (2011)
+            DOI:10.2527/jas.2010-3411
+REFERENCE   PMID:11698670
+  AUTHORS   Zierold C, Mings JA, DeLuca HF
+  TITLE     Parathyroid hormone regulates 25-hydroxyvitamin D(3)-24-hydroxylase mRNA by altering its stability.
+  JOURNAL   Proc Natl Acad Sci U S A 98:13572-6 (2001)
+            DOI:10.1073/pnas.241516798
+REFERENCE   PMID:20074973
+  AUTHORS   Kramer I, Keller H, Leupin O, Kneissel M
+  TITLE     Does osteocytic SOST suppression mediate PTH bone anabolism?
+  JOURNAL   Trends Endocrinol Metab 21:237-44 (2010)
+            DOI:10.1016/j.tem.2009.12.002
+REFERENCE   PMID:17696759
+  AUTHORS   Leupin O, Kramer I, Collette NM, Loots GG, Natt F, Kneissel M, Keller H
+  TITLE     Control of the SOST bone enhancer by PTH using MEF2 transcription factors.
+  JOURNAL   J Bone Miner Res 22:1957-67 (2007)
+            DOI:10.1359/jbmr.070804
+REFERENCE   PMID:24940803
+  AUTHORS   Meir T, Durlacher K, Pan Z, Amir G, Richards WG, Silver J, Naveh-Many T
+  TITLE     Parathyroid hormone activates the orphan nuclear receptor Nurr1 to induce FGF23 transcription.
+  JOURNAL   Kidney Int 86:1106-15 (2014)
+            DOI:10.1038/ki.2014.215
+REFERENCE   PMID:29413898
+  AUTHORS   Pellicelli M, Hariri H, Miller JA, St-Arnaud R
+  TITLE     Lrp6 is a target of the PTH-activated alphaNAC transcriptional coregulator.
+  JOURNAL   Biochim Biophys Acta 1861:61-71 (2018)
+            DOI:10.1016/j.bbagrm.2018.01.008
+REFERENCE   PMID:12364326
+  AUTHORS   Fu Q, Jilka RL, Manolagas SC, O'Brien CA
+  TITLE     Parathyroid hormone stimulates receptor activator of NFkappa B ligand and inhibits osteoprotegerin expression via protein kinase A activation of cAMP-response element-binding protein.
+  JOURNAL   J Biol Chem 277:48868-75 (2002)
+            DOI:10.1074/jbc.M208494200
+REFERENCE   PMID:19716455
+  AUTHORS   O'Brien CA
+  TITLE     Control of RANKL gene expression.
+  JOURNAL   Bone 46:911-9 (2010)
+            DOI:10.1016/j.bone.2009.08.050
+REFERENCE   PMID:17517365
+  AUTHORS   Jilka RL
+  TITLE     Molecular and cellular mechanisms of the anabolic effect of intermittent PTH.
+  JOURNAL   Bone 40:1434-46 (2007)
+            DOI:10.1016/j.bone.2007.03.017
+REFERENCE   PMID:8810350
+  AUTHORS   Pearman AT, Chou WY, Bergman KD, Pulumati MR, Partridge NC
+  TITLE     Parathyroid hormone induces c-fos promoter activity in osteoblastic cells through phosphorylated cAMP response element (CRE)-binding protein binding to the major CRE.
+  JOURNAL   J Biol Chem 271:25715-21 (1996)
+            DOI:10.1074/jbc.271.41.25715
+REFERENCE   PMID:16164977
+  AUTHORS   Boumah CE, Selvamurugan N, Partridge NC
+  TITLE     Transcription in the osteoblast: regulatory mechanisms utilized by parathyroid hormone and transforming growth factor-beta.
+  JOURNAL   Prog Nucleic Acid Res Mol Biol 80:287-321 (2005)
+            DOI:10.1016/S0079-6603(05)80007-8
+REFERENCE   PMID:11274169
+  AUTHORS   Hess J, Porte D, Munz C, Angel P
+  TITLE     AP-1 and Cbfa/runt physically interact and regulate parathyroid hormone-dependent MMP13 expression in osteoblasts through a new osteoblast-specific element 2/AP-1  composite element.
+  JOURNAL   J Biol Chem 276:20029-38 (2001)
+            DOI:10.1074/jbc.M010601200
+REFERENCE   PMID:15705779
+  AUTHORS   Singh AT, Gilchrist A, Voyno-Yasenetskaya T, Radeff-Huang JM, Stern PH
+  TITLE     G alpha12/G alpha13 subunits of heterotrimeric G proteins mediate parathyroid hormone activation of phospholipase D in UMR-106 osteoblastic cells.
+  JOURNAL   Endocrinology 146:2171-5 (2005)
+            DOI:10.1210/en.2004-1283
+REFERENCE   PMID:12738761
+  AUTHORS   Ahmed I, Gesty-Palmer D, Drezner MK, Luttrell LM
+  TITLE     Transactivation of the epidermal growth factor receptor mediates parathyroid hormone and prostaglandin F2 alpha-stimulated mitogen-activated protein kinase activation in cultured transgenic murine osteoblasts.
+  JOURNAL   Mol Endocrinol 17:1607-21 (2003)
+            DOI:10.1210/me.2002-0040
+REFERENCE   PMID:17107942
+  AUTHORS   Sneddon WB, Yang Y, Ba J, Harinstein LM, Friedman PA
+  TITLE     Extracellular signal-regulated kinase activation by parathyroid hormone in distal tubule cells.
+  JOURNAL   Am J Physiol Renal Physiol 292:F1028-34 (2007)
+            DOI:10.1152/ajprenal.00288.2006
+REL_PATHWAY hsa04012  ErbB signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04961  Endocrine and other factor-regulated calcium reabsorption
+KO_PATHWAY  ko04928
+///

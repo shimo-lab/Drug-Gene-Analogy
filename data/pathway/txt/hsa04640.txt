@@ -1,0 +1,289 @@
+ENTRY       hsa04640                    Pathway
+NAME        Hematopoietic cell lineage - Homo sapiens (human)
+DESCRIPTION Blood-cell development progresses from a hematopoietic stem cell (HSC), which can undergo either self-renewal or differentiation into a multilineage committed progenitor cell: a common lymphoid progenitor (CLP) or a common myeloid progenitor (CMP). A CLP gives rise to the lymphoid lineage of white blood cells or leukocytes-the natural killer (NK) cells and the T and B lymphocytes. A CMP gives rise to the myeloid lineage, which comprises the rest of the leukocytes, the erythrocytes (red blood cells), and the megakaryocytes that produce platelets important in blood clotting. Cells undergoing these differentiation process express a stage- and lineage-specific set of surface markers. Therefore cellular stages are identified by the specific expression patterns of these genes.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04640  Hematopoietic cell lineage
+DRUG        D00754  Thalidomide (JAN/USP/INN)
+            D01029  Tirofiban hydrochloride (USAN)
+            D01583  Pirfenidone (JAN/USAN/INN)
+            D02596  Tocilizumab (USAN/INN)
+            D02664  Mirimostim (JAN/INN)
+            D02778  Abciximab (USAN/INN)
+            D02937  Ancestim (USAN/INN)
+            D02994  Rituximab (USAN/INN)
+            D03058  Basiliximab (USAN/INN)
+            D03231  Epoetin alfa (USAN/INN)
+            D03232  Epoetin beta (USAN/INN)
+            D03235  Filgrastim (USP/INN)
+            D03247  Lenograstim (USAN/INN)
+            D03259  Gemtuzumab ozogamicin (USAN)
+            D03497  Cilengitide (USAN/INN)
+            D03639  Daclizumab (USAN/INN)
+            D03645  Daniplestim (USAN/INN)
+            D03651  Darbepoetin alfa (USAN/INN)
+            D03971  Elarofiban (USAN)
+            D04032  Epoetin delta (USAN)
+            D04036  Epratuzumab (USAN/INN)
+            D04489  Ibritumomab tiuxetan (USAN/INN)
+            D04659  Lamifiban (USAN/INN)
+            D04687  Lenalidomide (JAN/USAN/INN)
+            D04695  Leridistim (USAN/INN)
+            D04785  Lotrafiban hydrochloride (USAN)
+            D04923  Mepolizumab (USAN/INN)
+            D05036  Milodistim (USAN/INN)
+            D05066  Molgramostim (USAN/INN)
+            D05090  Muplestim (USAN/INN)
+            D05218  Ocrelizumab (USAN)
+            D05266  Oprelvekin (USAN/INN)
+            D05267  Orbofiban acetate (USAN)
+            D05772  Roxifiban acetate (USAN)
+            D05803  Sargramostim (USP/INN)
+            D05834  Sibrafiban (USAN/INN)
+            D05847  Siplizumab (USAN/INN)
+            D06335  Xemilofiban hydrochloride (USAN)
+            D06348  Yttrium Y 90 epratuzumab (USAN)
+            D06349  Yttrium Y 90 epratuzumab tetraxetan (USAN)
+            D06381  Zolimomab aritox (USAN)
+            D06463  Lumiliximab (USAN/INN)
+            D06649  Tadocizumab (USAN)
+            D06888  Eptifibatide (INN)
+            D06889  Pegfilgrastim (USAN/INN)
+            D08607  Tirofiban (INN)
+            D08621  Tositumomab (INN)
+            D08622  Tositumomab 131 iodine
+            D08933  Inotuzumab ozogamicin (USAN/INN)
+            D08976  Pomalidomide (JAN/USAN/INN)
+            D09031  Veltuzumab (USAN)
+            D09190  Anti-human thymocyte immunoglobulin, rabbit (JAN)
+            D09207  Catumaxomab (INN)
+            D09314  Ofatumumab (USAN/INN)
+            D09321  Obinutuzumab (USAN)
+            D09813  Lenalidomide hydrate (JAN)
+            D09932  Moxetumomab pasudotox (USAN/INN)
+            D09955  Quizartinib (USAN/INN)
+            D09956  Quizartinib dihydrochloride (USAN)
+            D10000  Epoetin epsilon (INN)
+            D10026  Tosedostat (USAN/INN)
+            D10028  Valategrast hydrochloride (USAN)
+            D10225  Sacubitril (JAN/USAN/INN)
+            D10242  Lipegfilgrastim (USAN)
+            D10310  Balugrastim (USAN/INN)
+            D10354  Dupilumab (USAN)
+            D10777  Daratumumab (USAN)
+            D10800  Gilteritinib fumarate (JAN/USAN)
+            D10846  Epoetin theta (INN)
+            D10847  Epoetin zeta (INN)
+            D10993  Tucidinostat (JAN/USAN/INN)
+            D11026  Pegteograstim (INN)
+            D11050  Isatuximab (USAN/INN)
+            D11144  Axicabtagene ciloleucel (USAN)
+            D11188  Eflapegrastim (USAN/INN)
+            D11231  Denintuzumab (USAN/INN)
+            D11232  Denintuzumab mafodotin (USAN/INN)
+            D11236  Lenzilumab (USAN/INN)
+            D11243  Ublituximab (USAN/INN)
+            D11294  Vadastuximab (USAN/INN)
+            D11295  Vadastuximab talirine (USAN)
+            D11306  Flotetuzumab (USAN/INN)
+            D11324  Camidanlumab (USAN)
+            D11325  Camidanlumab tesirine (USAN)
+            D11333  Loncastuximab (USAN)
+            D11338  Loncastuximab tesirine (USAN)
+            D11358  Tagraxofusp (USAN/INN)
+            D11372  Duvortuxizumab (USAN)
+            D11386  Tisagenlecleucel-T (USAN)
+            D11463  Mosunetuzumab (USAN/INN)
+            D11489  Cibisatamab (USAN/INN)
+            D11534  Odronextamab (USAN)
+            D11599  Zotiraciclib (USAN)
+            D11600  Zotiraciclib citrate (USAN)
+            D11601  Tafasitamab (USAN/INN)
+            D11686  Plamotamab (USAN/INN)
+            D11757  Inebilizumab (USAN/INN)
+            D11768  Pacritinib (USAN/INN)
+            D11812  Pabinafusp alfa (genetical recombination) (JAN)
+            D11833  Glofitamab (USAN/INN)
+            D11841  Vibecotamab (USAN/INN)
+            D11880  Brexucabtagene autoleucel (USAN)
+            D11930  Betibeglogene autotemcel (USAN/INN)
+            D11945  Mezagitamab (USAN/INN)
+            D11986  Efbemalenograstim alfa (USAN/INN)
+            D11990  Lisocabtagene maraleucel (USAN/INN)
+            D11992  Pavurutamab (USAN)
+            D12051  Zalunfiban (USAN)
+            D12058  Elranatamab (USAN)
+            D12124  Lilotomab (USAN/INN)
+            D12125  Lutetium (177Lu) lilotomab satetraxetan (USAN/INN)
+            D12141  Emerfetamab (USAN)
+            D12152  Eluvixtamab (USAN)
+            D12163  Zalunfiban acetate (USAN)
+            D12177  Teclistamab (USAN/INN)
+            D12180  Talquetamab (USAN/INN)
+            D12307  Pivekimab (USAN)
+            D12308  Pivekimab sunirine (USAN)
+            D12315  Ciltacabtagene autoleucel (USAN/INN)
+            D12368  Epcoritamab (USAN/INN)
+            D12476  Tuspetinib (USAN)
+            D12509  Trontinemab (USAN/INN)
+            D12540  Briquilimab (USAN/INN)
+            D12567  Imvotamab (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        4254  KITLG; KIT ligand [KO:K05461]
+            3574  IL7; interleukin 7 [KO:K05431]
+            3565  IL4; interleukin 4 [KO:K05430]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            2323  FLT3LG; fms related receptor tyrosine kinase 3 ligand [KO:K05454]
+            3567  IL5; interleukin 5 [KO:K05428]
+            1440  CSF3; colony stimulating factor 3 [KO:K05423]
+            3562  IL3; interleukin 3 [KO:K04736]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3589  IL11; interleukin 11 [KO:K05417]
+            3552  IL1A; interleukin 1 alpha [KO:K04383]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            1435  CSF1; colony stimulating factor 1 [KO:K05453]
+            2056  EPO; erythropoietin [KO:K05437]
+            7066  THPO; thrombopoietin [KO:K06854]
+            947  CD34; CD34 molecule [KO:K06474]
+            2322  FLT3; fms related receptor tyrosine kinase 3 [KO:K05092] [EC:2.7.10.1]
+            1791  DNTT; DNA nucleotidylexotransferase [KO:K00977] [EC:2.7.7.31]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            960  CD44; CD44 molecule (Indian blood group) [KO:K06256]
+            3815  KIT; KIT proto-oncogene, receptor tyrosine kinase [KO:K05091] [EC:2.7.10.1]
+            3559  IL2RA; interleukin 2 receptor subunit alpha [KO:K05068]
+            3575  IL7R; interleukin 7 receptor [KO:K05072]
+            7037  TFRC; transferrin receptor [KO:K06503]
+            952  CD38; CD38 molecule [KO:K01242] [EC:3.2.2.6 2.4.99.20]
+            924  CD7; CD7 molecule [KO:K06457]
+            914  CD2; CD2 molecule [KO:K06449]
+            921  CD5; CD5 molecule [KO:K06455]
+            909  CD1A; CD1a molecule [KO:K06448]
+            910  CD1B; CD1b molecule [KO:K06448]
+            911  CD1C; CD1c molecule [KO:K06448]
+            912  CD1D; CD1d molecule [KO:K06448]
+            913  CD1E; CD1e molecule [KO:K06448]
+            920  CD4; CD4 molecule [KO:K06454]
+            925  CD8A; CD8 subunit alpha [KO:K06458]
+            926  CD8B; CD8 subunit beta [KO:K06459]
+            927  CD8B2; CD8B family member 2 [KO:K06459]
+            915  CD3D; CD3 delta subunit of T-cell receptor complex [KO:K06450]
+            916  CD3E; CD3 epsilon subunit of T-cell receptor complex [KO:K06451]
+            917  CD3G; CD3 gamma subunit of T-cell receptor complex [KO:K06452]
+            4311  MME; membrane metalloendopeptidase [KO:K01389] [EC:3.4.24.11]
+            928  CD9; CD9 molecule [KO:K06460]
+            930  CD19; CD19 molecule [KO:K06465]
+            933  CD22; CD22 molecule [KO:K06467]
+            100133941  CD24; CD24 molecule [KO:K06469]
+            931  MS4A1; membrane spanning 4-domains A1 [KO:K06466]
+            1380  CR2; complement C3d receptor 2 [KO:K04012]
+            951  CD37; CD37 molecule [KO:K06475]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            2208  FCER2; Fc epsilon receptor II [KO:K06468]
+            1378  CR1; complement C3b/C4b receptor 1 (Knops blood group) [KO:K04011]
+            1379  CR1L; complement C3b/C4b receptor 1 like [KO:K04011]
+            1438  CSF2RA; colony stimulating factor 2 receptor subunit alpha [KO:K05066]
+            3563  IL3RA; interleukin 3 receptor subunit alpha [KO:K04737]
+            945  CD33; CD33 molecule [KO:K06473]
+            3566  IL4R; interleukin 4 receptor [KO:K05071]
+            3570  IL6R; interleukin 6 receptor [KO:K05055]
+            2209  FCGR1A; Fc gamma receptor Ia [KO:K06498]
+            1436  CSF1R; colony stimulating factor 1 receptor [KO:K05090] [EC:2.7.10.1]
+            290  ANPEP; alanyl aminopeptidase, membrane [KO:K11140] [EC:3.4.11.2]
+            3684  ITGAM; integrin subunit alpha M [KO:K06461]
+            929  CD14; CD14 molecule [KO:K04391]
+            3581  IL9R; interleukin 9 receptor [KO:K05073]
+            3554  IL1R1; interleukin 1 receptor type 1 [KO:K04386]
+            7850  IL1R2; interleukin 1 receptor type 2 [KO:K04387]
+            1441  CSF3R; colony stimulating factor 3 receptor [KO:K05061]
+            3568  IL5RA; interleukin 5 receptor subunit alpha [KO:K05067]
+            2057  EPOR; erythropoietin receptor [KO:K05079]
+            948  CD36; CD36 molecule [KO:K06259]
+            2993  GYPA; glycophorin A (MNS blood group) [KO:K06575]
+            1604  CD55; CD55 molecule (Cromer blood group) [KO:K04006]
+            966  CD59; CD59 molecule (CD59 blood group) [KO:K04008]
+            3590  IL11RA; interleukin 11 receptor subunit alpha [KO:K05056]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            3674  ITGA2B; integrin subunit alpha 2b [KO:K06476]
+            2815  GP9; glycoprotein IX platelet [KO:K06263]
+            2811  GP1BA; glycoprotein Ib platelet subunit alpha [KO:K06261]
+            2812  GP1BB; glycoprotein Ib platelet subunit beta [KO:K06262]
+            2814  GP5; glycoprotein V platelet [KO:K06260]
+            3672  ITGA1; integrin subunit alpha 1 [KO:K06480]
+            3673  ITGA2; integrin subunit alpha 2 [KO:K06481]
+            3675  ITGA3; integrin subunit alpha 3 [KO:K06482]
+            3676  ITGA4; integrin subunit alpha 4 [KO:K06483]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            3655  ITGA6; integrin subunit alpha 6 [KO:K06485]
+REFERENCE   
+  AUTHORS   Janeway CA Jr, Travers P, Walport M, Shlomchik MJ
+  TITLE     Immunobiology - International editon: The immune system in health and disease
+  JOURNAL   Harcourt Publishers Ltd, a subsidiary of Harcourt International Ltd (2001)
+REFERENCE   
+  AUTHORS   Abe T
+  TITLE     [Atlas of malignancies in hematopoietic organ - Morphology, immunology, chromosome and gene] (In Japanese)
+  JOURNAL   Nihonijishinhousya (2000)
+REFERENCE   PMID:15771582
+  AUTHORS   Rothenberg EV, Taghon T.
+  TITLE     Molecular genetics of T cell development.
+  JOURNAL   Annu Rev Immunol 23:601-49 (2005)
+            DOI:10.1146/annurev.immunol.23.021704.115737
+REFERENCE   PMID:12415312
+  AUTHORS   Ceredig R, Rolink T.
+  TITLE     A positive look at double-negative thymocytes.
+  JOURNAL   Nat Rev Immunol 2:888-97 (2002)
+            DOI:10.1038/nri937
+REFERENCE   PMID:15156179
+  AUTHORS   de Bruijn MF, Speck NA.
+  TITLE     Core-binding factors in hematopoiesis and immune function.
+  JOURNAL   Oncogene 23:4238-48 (2004)
+            DOI:10.1038/sj.onc.1207763
+REFERENCE   PMID:14985712
+  AUTHORS   Radtke F, Wilson A, Mancini SJ, MacDonald HR.
+  TITLE     Notch regulation of lymphocyte development and function.
+  JOURNAL   Nat Immunol 5:247-53 (2004)
+            DOI:10.1038/ni1045
+REFERENCE   PMID:12360214
+  AUTHORS   Spits H.
+  TITLE     Development of alphabeta T cells in the human thymus.
+  JOURNAL   Nat Rev Immunol 2:760-72 (2002)
+            DOI:10.1038/nri913
+REFERENCE   PMID:9927518
+  AUTHORS   Di Santo JP, Aifantis I, Rosmaraki E, Garcia C, Feinberg J, Fehling HJ, Fischer A, von Boehmer H, Rocha B.
+  TITLE     The common cytokine receptor gamma chain and the pre-T cell receptor provide independent but critically overlapping signals in early alpha/beta T cell development.
+  JOURNAL   J Exp Med 189:563-74 (1999)
+            DOI:10.1084/jem.189.3.563
+REFERENCE   PMID:11905810
+  AUTHORS   Mak TW, Penninger JM, Ohashi PS.
+  TITLE     Knockout mice: a paradigm shift in modern immunology.
+  JOURNAL   Nat Rev Immunol 1:11-9 (2001)
+            DOI:10.1038/35095551
+REFERENCE   PMID:15738953
+  AUTHORS   Shapiro-Shelef M, Calame K.
+  TITLE     Regulation of plasma-cell development.
+  JOURNAL   Nat Rev Immunol 5:230-42 (2005)
+            DOI:10.1038/nri1572
+REFERENCE   PMID:14670296
+  AUTHORS   Maillard I, Adler SH, Pear WS.
+  TITLE     Notch and the immune system.
+  JOURNAL   Immunity 19:781-91 (2003)
+            DOI:10.1016/S1074-7613(03)00325-X
+REFERENCE   PMID:15629410
+  AUTHORS   Alpdogan O, van den Brink MR.
+  TITLE     IL-7 and IL-15: therapeutic cytokines for immunodeficiency.
+  JOURNAL   Trends Immunol 26:56-64 (2005)
+            DOI:10.1016/j.it.2004.11.002
+KO_PATHWAY  ko04640
+///

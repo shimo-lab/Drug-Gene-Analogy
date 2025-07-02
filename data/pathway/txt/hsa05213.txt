@@ -1,0 +1,139 @@
+ENTRY       hsa05213                    Pathway
+NAME        Endometrial cancer - Homo sapiens (human)
+DESCRIPTION Endometrial cancer (EC) is the most common gynaecological malignancy and the fourth most common malignancy in women in the developed world after breast, colorectal and lung cancer. Two types of endometrial carcinoma are distinguished with respect to biology and clinical course. Type-I carcinoma is related to hyperestrogenism by association with endometrial hyperplasia, frequent expression of estrogen and progesterone receptors and younger age, whereas type-II carcinoma is unrelated to estrogen, associated with atrophic endometrium, frequent lack of estrogen and progesterone receptors and older age. The morphologic differences in these cancers are mirrored in their molecular genetic profile with type I showing defects in DNA-mismatch repair and mutations in PTEN, K-ras, and beta-catenin, and type II showing aneuploidy, p53 mutations, and her2/neu amplification.
+CLASS       Human Diseases; Cancer: specific types
+PATHWAY_MAP hsa05213  Endometrial cancer
+NETWORK     nt06210  ERK signaling
+            nt06214  PI3K signaling
+            nt06215  WNT signaling
+            nt06240  Transcription
+            nt06260  Colorectal cancer
+            nt06261  Gastric cancer
+            nt06262  Pancreatic cancer
+            nt06263  Hepatocellular carcinoma
+            nt06265  Bladder cancer
+            nt06266  Non-small cell lung cancer
+            nt06267  Small cell lung cancer
+            nt06268  Melanoma
+            nt06269  Basal cell carcinoma
+            nt06270  Breast cancer
+            nt06271  Endometrial cancer
+            nt06272  Prostate cancer
+            nt06273  Glioma
+            nt06274  Thyroid cancer
+            nt06275  Acute myeloid leukemia
+            nt06276  Chronic myeloid leukemia
+  ELEMENT   N00012  Mutation-activated KRAS/NRAS to ERK signaling pathway
+            N00052  Mutation-inactivated PTEN to PI3K signaling pathway
+            N00058  Mutation-activated CTNNB1 to Wnt signaling pathway
+            N00115  Mutation-inactivated TP53 to transcription
+DISEASE     H00026  Endometrial cancer
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1950  EGF; epidermal growth factor [KO:K04357]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            3611  ILK; integrin linked kinase [KO:K06272] [EC:2.7.11.1]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2002  ELK1; ETS transcription factor ELK1 [KO:K04375]
+            4292  MLH1; mutL homolog 1 [KO:K08734]
+            999  CDH1; cadherin 1 [KO:K05689]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            29119  CTNNA3; catenin alpha 3 [KO:K05691]
+            1495  CTNNA1; catenin alpha 1 [KO:K05691]
+            1496  CTNNA2; catenin alpha 2 [KO:K05691]
+            8312  AXIN1; axin 1 [KO:K02157]
+            8313  AXIN2; axin 2 [KO:K04385]
+            324  APC; APC regulator of WNT signaling pathway [KO:K02085]
+            10297  APC2; APC regulator of WNT signaling pathway 2 [KO:K02085]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            6932  TCF7; transcription factor 7 [KO:K02620]
+            83439  TCF7L1; transcription factor 7 like 1 [KO:K04490]
+            6934  TCF7L2; transcription factor 7 like 2 [KO:K04491]
+            51176  LEF1; lymphoid enhancer binding factor 1 [KO:K04492]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            595  CCND1; cyclin D1 [KO:K04503]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+            2064  ERBB2; erb-b2 receptor tyrosine kinase 2 [KO:K05083] [EC:2.7.10.1]
+COMPOUND    C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:15947972
+  AUTHORS   Ryan AJ, Susil B, Jobling TW, Oehler MK.
+  TITLE     Endometrial cancer.
+  JOURNAL   Cell Tissue Res 322:53-61 (2005)
+            DOI:10.1007/s00441-005-1109-5
+REFERENCE   PMID:14747944
+  AUTHORS   Lax SF.
+  TITLE     Molecular genetic pathways in various types of endometrial carcinoma: from a phenotypical to a molecular-based classification.
+  JOURNAL   Virchows Arch 444:213-23 (2004)
+            DOI:10.1007/s00428-003-0947-3
+REFERENCE   PMID:16508724
+  AUTHORS   Shiozawa T, Konishi I.
+  TITLE     Early endometrial carcinoma: clinicopathology, hormonal aspects, molecular genetics, diagnosis, and treatment.
+  JOURNAL   Int J Clin Oncol 11:13-21 (2006)
+            DOI:10.1007/s10147-005-0546-1
+REFERENCE   PMID:17028294
+  AUTHORS   Hecht JL, Mutter GL.
+  TITLE     Molecular and pathologic aspects of endometrial carcinogenesis.
+  JOURNAL   J Clin Oncol 24:4783-91 (2006)
+            DOI:10.1200/JCO.2006.06.7173
+REFERENCE   PMID:11431710
+  AUTHORS   Matias-Guiu X, Catasus L, Bussaglia E, Lagarda H, Garcia A, Pons C, Munoz J, Arguelles R, Machin P, Prat J.
+  TITLE     Molecular pathology of endometrial hyperplasia and carcinoma.
+  JOURNAL   Hum Pathol 32:569-77 (2001)
+            DOI:10.1053/hupa.2001.25929
+REFERENCE   PMID:15284264
+  AUTHORS   Slomovitz BM, Broaddus RR, Burke TW, Sneige N, Soliman PT, Wu W, Sun CC, Munsell MF, Gershenson DM, Lu KH.
+  TITLE     Her-2/neu overexpression and amplification in uterine papillary serous carcinoma.
+  JOURNAL   J Clin Oncol 22:3126-32 (2004)
+            DOI:10.1200/JCO.2004.11.154
+REFERENCE   PMID:7585656
+  AUTHORS   Saffari B, Jones LA, el-Naggar A, Felix JC, George J, Press MF.
+  TITLE     Amplification and overexpression of HER-2/neu (c-erbB2) in endometrial cancers: correlation with overall survival.
+  JOURNAL   Cancer Res 55:5693-8 (1995)
+REFERENCE   PMID:16248975
+  AUTHORS   Kim D, Chung J.
+  TITLE     Akt: versatile mediator of cell survival and beyond.
+  JOURNAL   J Biochem Mol Biol 35:106-15 (2002)
+            DOI:10.5483/bmbrep.2002.35.1.106
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04520  Adherens junction
+KO_PATHWAY  ko05213
+///

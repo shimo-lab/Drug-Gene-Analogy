@@ -1,0 +1,99 @@
+ENTRY       hsa00500                    Pathway
+NAME        Starch and sucrose metabolism - Homo sapiens (human)
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP hsa00500  Starch and sucrose metabolism
+MODULE      hsa_M00854  Glycogen biosynthesis, glucose-1P => glycogen/starch [PATH:hsa00500]
+            hsa_M00855  Glycogen degradation, glycogen => glucose-6P [PATH:hsa00500]
+NETWORK     nt06017  Glycogen metabolism
+  ELEMENT   N00713  Glycogen biosynthesis
+            N00718  Glycogen degradation
+            N00720  Glycogen degradation (amylase)
+DRUG        D00216  Acarbose (JAN/USAN/INN)
+            D00625  Miglitol (JP18/USAN/INN)
+            D01665  Voglibose (JP18/USAN/INN)
+            D03342  Camiglibose (USAN)
+            D04537  Ingliforib (USAN/INN)
+            D09605  Duvoglustat (USAN/INN)
+            D09606  Duvoglustat hydrochloride (USAN)
+            D11744  Avalglucosidase alfa (USAN/INN)
+            D11798  Cipaglucosidase alfa (USAN)
+            D11828  Clervonafusp alfa (USAN/INN)
+DBLINKS     GO: 0005982 0005985
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        8972  MGAM; maltase-glucoamylase [KO:K12047] [EC:3.2.1.20 3.2.1.3]
+            93432  MGAM2; maltase-glucoamylase 2 (putative) [KO:K12047] [EC:3.2.1.20 3.2.1.3]
+            2548  GAA; alpha glucosidase [KO:K12316] [EC:3.2.1.20]
+            2595  GANC; glucosidase alpha, neutral C [KO:K12317] [EC:3.2.1.20]
+            6476  SI; sucrase-isomaltase [KO:K01203] [EC:3.2.1.48 3.2.1.10]
+            7360  UGP2; UDP-glucose pyrophosphorylase 2 [KO:K00963] [EC:2.7.7.9]
+            5167  ENPP1; ectonucleotide pyrophosphatase/phosphodiesterase 1 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            5169  ENPP3; ectonucleotide pyrophosphatase/phosphodiesterase 3 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            57733  GBA3; glucosylceramidase beta 3 (gene/pseudogene) [KO:K05350] [EC:3.2.1.21]
+            2998  GYS2; glycogen synthase 2 [KO:K00693] [EC:2.4.1.11]
+            2997  GYS1; glycogen synthase 1 [KO:K00693] [EC:2.4.1.11]
+            2992  GYG1; glycogenin 1 [KO:K00750] [EC:2.4.1.186]
+            8908  GYG2; glycogenin 2 [KO:K00750] [EC:2.4.1.186]
+            2632  GBE1; 1,4-alpha-glucan branching enzyme 1 [KO:K00700] [EC:2.4.1.18]
+            5836  PYGL; glycogen phosphorylase L [KO:K00688] [EC:2.4.1.1]
+            5837  PYGM; glycogen phosphorylase, muscle associated [KO:K00688] [EC:2.4.1.1]
+            5834  PYGB; glycogen phosphorylase B [KO:K00688] [EC:2.4.1.1]
+            178  AGL; amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase [KO:K01196] [EC:2.4.1.25 3.2.1.33]
+            278  AMY1C; amylase alpha 1C [KO:K01176] [EC:3.2.1.1]
+            279  AMY2A; amylase alpha 2A [KO:K01176] [EC:3.2.1.1]
+            276  AMY1A; amylase alpha 1A [KO:K01176] [EC:3.2.1.1]
+            280  AMY2B; amylase alpha 2B [KO:K01176] [EC:3.2.1.1]
+            277  AMY1B; amylase alpha 1B [KO:K01176] [EC:3.2.1.1]
+            11181  TREH; trehalase [KO:K01194] [EC:3.2.1.28]
+            5236  PGM1; phosphoglucomutase 1 [KO:K01835] [EC:5.4.2.2]
+            55276  PGM2; phosphoglucomutase 2 [KO:K15779] [EC:5.4.2.2 5.4.2.7]
+            3101  HK3; hexokinase 3 [KO:K00844] [EC:2.7.1.1]
+            3098  HK1; hexokinase 1 [KO:K00844] [EC:2.7.1.1]
+            3099  HK2; hexokinase 2 [KO:K00844] [EC:2.7.1.1]
+            80201  HKDC1; hexokinase domain containing 1 [KO:K00844] [EC:2.7.1.1]
+            2645  GCK; glucokinase [KO:K12407] [EC:2.7.1.2]
+            2538  G6PC1; glucose-6-phosphatase catalytic subunit 1 [KO:K01084] [EC:3.1.3.9]
+            57818  G6PC2; glucose-6-phosphatase catalytic subunit 2 [KO:K01084] [EC:3.1.3.9]
+            92579  G6PC3; glucose-6-phosphatase catalytic subunit 3 [KO:K01084] [EC:3.1.3.9]
+            283209  PGM2L1; phosphoglucomutase 2 like 1 [KO:K11809] [EC:2.7.1.106]
+            2821  GPI; glucose-6-phosphate isomerase [KO:K01810] [EC:5.3.1.9]
+COMPOUND    C00029  UDP-glucose
+            C00031  D-Glucose
+            C00085  D-Fructose 6-phosphate
+            C00089  Sucrose
+            C00092  D-Glucose 6-phosphate
+            C00095  D-Fructose
+            C00103  D-Glucose 1-phosphate
+            C00185  Cellobiose
+            C00208  Maltose
+            C00252  Isomaltose
+            C00369  Starch
+            C00372  Dextran
+            C00394  GDP-glucose
+            C00498  ADP-glucose
+            C00501  CDP-glucose
+            C00663  beta-D-Glucose 1-phosphate
+            C00689  alpha,alpha'-Trehalose 6-phosphate
+            C00718  Amylose
+            C00721  Dextrin
+            C00760  Cellulose
+            C00963  beta-D-Glucoside
+            C00965  1,3-beta-D-Glucan
+            C00973  Cyclomaltodextrin
+            C01083  alpha,alpha-Trehalose
+            C01231  alpha-D-Glucose 1,6-bisphosphate
+            C01725  Levanbiose
+            C01898  Cellodextrin
+            C01935  Maltodextrin
+            C02591  Sucrose 6'-phosphate
+            C02995  Maltose 6'-phosphate
+            C03323  (2,1-beta-D-Fructosyl)n
+            C04534  6-Phospho-beta-D-glucosyl-(1,4)-D-glucose
+            C05731  3-Ketosucrose
+            C06215  Levan
+            C06400  1-alpha-D-[(1->4)-alpha-D-Glucosyl](n-1)-alpha-D-glucopyranoside
+            C16688  Sucrose 6-phosphate
+            C20237  alpha-Maltose 1-phosphate
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+KO_PATHWAY  ko00500
+///

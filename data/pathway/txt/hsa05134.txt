@@ -1,0 +1,172 @@
+ENTRY       hsa05134                    Pathway
+NAME        Legionellosis - Homo sapiens (human)
+DESCRIPTION Legionellosis is a potentially fatal infectious disease caused by the bacterium Legionella pneumophila and other legionella species. Two distinct clinical and epidemiological syndromes are associated with Legionella species: Legionnaires' disease is the more severe form of the infection, which may involve pneumonia, and Pontiac fever is a milder respiratory illness.
+            The pathogenesis of L. pneumophila is derived from its growth within lung macrophages. One of the L. pneumophila's type IV secretion systems, the Dot/Icm secretion system, is of critical importance for its ability to replicate and to cause disease. The Dot/Icm substrates modulate multiple host cell processes and in particular, redirect trafficking of the L. pneumophila phagosome and mediate its conversion into an ER-derived organelle competent for intracellular bacterial replication. L. pneumophila also manipulates host cell death and survival pathways in a way that allows continued intracellular replication.
+CLASS       Human Diseases; Infectious disease: bacterial
+PATHWAY_MAP hsa05134  Legionellosis
+DISEASE     H00311  Legionellosis
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3329  HSPD1; heat shock protein family D (Hsp60) member 1 [KO:K04077] [EC:5.6.1.7]
+            718  C3; complement C3 [KO:K03990]
+            1378  CR1; complement C3b/C4b receptor 1 (Knops blood group) [KO:K04011]
+            1379  CR1L; complement C3b/C4b receptor 1 like [KO:K04011]
+            3684  ITGAM; integrin subunit alpha M [KO:K06461]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            375  ARF1; ADP ribosylation factor 1 [KO:K07937]
+            5861  RAB1A; RAB1A, member RAS oncogene family [KO:K07874]
+            81876  RAB1B; RAB1B, member RAS oncogene family [KO:K07875]
+            9554  SEC22B; SEC22 homolog B, vesicle trafficking protein [KO:K08517]
+            56681  SAR1A; secretion associated Ras related GTPase 1A [KO:K07953] [EC:3.6.5.-]
+            51128  SAR1B; secretion associated Ras related GTPase 1B [KO:K07953] [EC:3.6.5.-]
+            7415  VCP; valosin containing protein [KO:K13525]
+            317  APAF1; apoptotic peptidase activating factor 1 [KO:K02084]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            664  BNIP3; BCL2 interacting protein 3 [KO:K15464]
+            23786  BCL2L13; BCL2 like 13 [KO:K15485]
+            4791  NFKB2; nuclear factor kappa B subunit 2 [KO:K04469]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            57396  CLK4; CDC like kinase 4 [KO:K23561] [EC:2.7.12.1]
+            1195  CLK1; CDC like kinase 1 [KO:K23561] [EC:2.7.12.1]
+            10767  HBS1L; HBS1 like translational GTPase [KO:K14416]
+            1915  EEF1A1; eukaryotic translation elongation factor 1 alpha 1 [KO:K03231]
+            1917  EEF1A2; eukaryotic translation elongation factor 1 alpha 2 [KO:K03231]
+            3297  HSF1; heat shock transcription factor 1 [KO:K09414]
+            3312  HSPA8; heat shock protein family A (Hsp70) member 8 [KO:K03283]
+            3303  HSPA1A; heat shock protein family A (Hsp70) member 1A [KO:K03283]
+            3306  HSPA2; heat shock protein family A (Hsp70) member 2 [KO:K03283]
+            3305  HSPA1L; heat shock protein family A (Hsp70) member 1 like [KO:K03283]
+            3304  HSPA1B; heat shock protein family A (Hsp70) member 1B [KO:K03283]
+            3310  HSPA6; heat shock protein family A (Hsp70) member 6 [KO:K03283]
+            1937  EEF1G; eukaryotic translation elongation factor 1 gamma [KO:K03233]
+            4671  NAIP; NLR family apoptosis inhibitory protein [KO:K12807]
+            840  CASP7; caspase 7 [KO:K04397] [EC:3.4.22.60]
+            58484  NLRC4; NLR family CARD domain containing 4 [KO:K12805]
+            29108  PYCARD; PYD and CARD domain containing [KO:K12799]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+            3606  IL18; interleukin 18 [KO:K05482]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            7100  TLR5; toll like receptor 5 [KO:K10168]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            929  CD14; CD14 molecule [KO:K04391]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+COMPOUND    C00338  Lipopolysaccharide
+            C01277  1-Phosphatidyl-1D-myo-inositol 4-phosphate
+REFERENCE   PMID:20375353
+  AUTHORS   Newton HJ, Ang DK, van Driel IR, Hartland EL
+  TITLE     Molecular pathogenesis of infections caused by Legionella pneumophila.
+  JOURNAL   Clin Microbiol Rev 23:274-98 (2010)
+            DOI:10.1128/CMR.00052-09
+REFERENCE   PMID:18363881
+  AUTHORS   Shin S, Roy CR
+  TITLE     Host cell processes that influence the intracellular survival of Legionella pneumophila.
+  JOURNAL   Cell Microbiol 10:1209-20 (2008)
+            DOI:10.1111/j.1462-5822.2008.01145.x
+REFERENCE   PMID:19157961
+  AUTHORS   Ensminger AW, Isberg RR
+  TITLE     Legionella pneumophila Dot/Icm translocated substrates: a sum of parts.
+  JOURNAL   Curr Opin Microbiol 12:67-73 (2009)
+            DOI:10.1016/j.mib.2008.12.004
+REFERENCE   PMID:15972519
+  AUTHORS   Chang B, Kura F, Amemura-Maekawa J, Koizumi N, Watanabe H
+  TITLE     Identification of a novel adhesion molecule involved in the virulence of Legionella pneumophila.
+  JOURNAL   Infect Immun 73:4272-80 (2005)
+            DOI:10.1128/IAI.73.7.4272-4280.2005
+REFERENCE   PMID:18549456
+  AUTHORS   Liu M, Conover GM, Isberg RR
+  TITLE     Legionella pneumophila EnhC is required for efficient replication in tumour necrosis factor alpha-stimulated macrophages.
+  JOURNAL   Cell Microbiol 10:1906-23 (2008)
+            DOI:10.1111/j.1462-5822.2008.01180.x
+REFERENCE   PMID:19021631
+  AUTHORS   Weber SS, Ragaz C, Hilbi H
+  TITLE     The inositol polyphosphate 5-phosphatase OCRL1 restricts intracellular growth of Legionella, localizes to the replicative vacuole and binds to the bacterial effector LpnE.
+  JOURNAL   Cell Microbiol 11:442-60 (2009)
+            DOI:10.1111/j.1462-5822.2008.01266.x
+REFERENCE   PMID:16495539
+  AUTHORS   Newton HJ, Sansom FM, Bennett-Wood V, Hartland EL
+  TITLE     Identification of Legionella pneumophila-specific genes by genomic subtractive hybridization with Legionella micdadei and identification of lpnE, a gene required for efficient host cell entry.
+  JOURNAL   Infect Immun 74:1683-91 (2006)
+            DOI:10.1128/IAI.74.3.1683-1691.2006
+REFERENCE   PMID:18048909
+  AUTHORS   De Buck E, Anne J, Lammertyn E
+  TITLE     The role of protein secretion systems in the virulence of the intracellular pathogen Legionella pneumophila.
+  JOURNAL   Microbiology 153:3948-53 (2007)
+            DOI:10.1099/mic.0.2007/012039-0
+REFERENCE   PMID:19687203
+  AUTHORS   Chong A, Lima CA, Allan DS, Nasrallah GK, Garduno RA
+  TITLE     The purified and recombinant Legionella pneumophila chaperonin alters mitochondrial trafficking and microfilament organization.
+  JOURNAL   Infect Immun 77:4724-39 (2009)
+            DOI:10.1128/IAI.00150-09
+REFERENCE   PMID:1721820
+  AUTHORS   Cooper NR
+  TITLE     Complement evasion strategies of microorganisms.
+  JOURNAL   Immunol Today 12:327-31 (1991)
+            DOI:10.1016/0167-5699(91)90010-Q
+REFERENCE   PMID:16824952
+  AUTHORS   Machner MP, Isberg RR
+  TITLE     Targeting of host Rab GTPase function by the intravacuolar pathogen Legionella pneumophila.
+  JOURNAL   Dev Cell 11:47-56 (2006)
+            DOI:10.1016/j.devcel.2006.05.013
+REFERENCE   PMID:12427954
+  AUTHORS   Neumeister B, Faigle M, Lauber K, Northoff H, Wesselborg S
+  TITLE     Legionella pneumophila induces apoptosis via the mitochondrial death pathway.
+  JOURNAL   Microbiology 148:3639-50 (2002)
+            DOI:10.1099/00221287-148-11-3639
+REFERENCE   PMID:17124169
+  AUTHORS   Laguna RK, Creasey EA, Li Z, Valtz N, Isberg RR
+  TITLE     A Legionella pneumophila-translocated substrate that is required for growth within macrophages and protection from host cell death.
+  JOURNAL   Proc Natl Acad Sci U S A 103:18745-50 (2006)
+            DOI:10.1073/pnas.0609012103
+REFERENCE   PMID:19666608
+  AUTHORS   Ge J, Xu H, Li T, Zhou Y, Zhang Z, Li S, Liu L, Shao F
+  TITLE     A Legionella type IV effector activates the NF-kappaB pathway by phosphorylating the IkappaB family of inhibitors.
+  JOURNAL   Proc Natl Acad Sci U S A 106:13725-30 (2009)
+            DOI:10.1073/pnas.0907200106
+REFERENCE   PMID:18284575
+  AUTHORS   Kubori T, Hyakutake A, Nagai H
+  TITLE     Legionella translocates an E3 ubiquitin ligase that has multiple U-boxes with distinct functions.
+  JOURNAL   Mol Microbiol 67:1307-19 (2008)
+            DOI:10.1111/j.1365-2958.2008.06124.x
+REFERENCE   PMID:19386084
+  AUTHORS   Shen X, Banga S, Liu Y, Xu L, Gao P, Shamovsky I, Nudler E, Luo ZQ
+  TITLE     Targeting eEF1A by a Legionella pneumophila effector leads to inhibition of protein synthesis and induction of host stress response.
+  JOURNAL   Cell Microbiol 11:911-26 (2009)
+            DOI:10.1111/j.1462-5822.2009.01301.x
+REFERENCE   PMID:19478083
+  AUTHORS   Belyi Y, Stahl M, Sovkova I, Kaden P, Luy B, Aktories K
+  TITLE     Region of elongation factor 1A1 involved in substrate recognition by Legionella pneumophila glucosyltransferase Lgt1: identification of Lgt1 as a retaining glucosyltransferase.
+  JOURNAL   J Biol Chem 284:20167-74 (2009)
+            DOI:10.1074/jbc.M109.008441
+REFERENCE   PMID:18281405
+  AUTHORS   Belyi Y, Tabakova I, Stahl M, Aktories K
+  TITLE     Lgt: a family of cytotoxic glucosyltransferases produced by Legionella pneumophila.
+  JOURNAL   J Bacteriol 190:3026-35 (2008)
+            DOI:10.1128/JB.01798-07
+REFERENCE   PMID:19343209
+  AUTHORS   Akhter A, Gavrilin MA, Frantz L, Washington S, Ditty C, Limoli D, Day C, Sarkar A, Newland C, Butchar J, Marsh CB, Wewers MD, Tridandapani S, Kanneganti TD, Amer AO
+  TITLE     Caspase-7 activation by the Nlrc4/Ipaf inflammasome restricts Legionella pneumophila infection.
+  JOURNAL   PLoS Pathog 5:e1000361 (2009)
+            DOI:10.1371/journal.ppat.1000361
+REFERENCE   PMID:20941588
+  AUTHORS   Palusinska-Szysz M, Janczarek M
+  TITLE     Innate immunity to Legionella and toll-like receptors - review.
+  JOURNAL   Folia Microbiol (Praha) 55:508-14 (2010)
+            DOI:10.1007/s12223-010-0084-8
+REL_PATHWAY hsa04210  Apoptosis
+            hsa04610  Complement and coagulation cascades
+            hsa04620  Toll-like receptor signaling pathway
+KO_PATHWAY  ko05134
+///

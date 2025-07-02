@@ -1,0 +1,85 @@
+ENTRY       hsa00515                    Pathway
+NAME        Mannose type O-glycan biosynthesis - Homo sapiens (human)
+DESCRIPTION Biosynthesis of mammalian O-mannosyl glycans is initiated by the transfer of mannose from mannose-P-Dol to serine or threonine residue, followed by extensions with N-acetylglucosamine (GlcNAc) and galactose (Gal) to generate core M1, M2 and M3 glycans. Core M1 and M2 glycans can then be further attached by fucose residues, sialic acid terminals and sulfatded glucuroinc acid terminals. Core M3 glycan is involved in the synthesis of alpha-dystroglycan, a heavily glycosylated protein found in muscle and brain tissues. Core M3 glycan contains a tandem repeat of ribitol 5-phosphate (Rbo5P) and -alpha3-GlcA-beta3-Xyl- repeating structures. Defects of genes encoding core glycans and modified core M3 glycans are associated with various congenital diseases, such as muscular dystrophies caused by reduced O-mannosylation of alpha-dystroglycan in skeletal muscles [DS:H00120].
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00515  Mannose type O-glycan biosynthesis
+MODULE      hsa_M00872  O-glycan biosynthesis, mannose type (core M3) [PATH:hsa00515]
+NETWORK     nt06013  O-Glycan biosynthesis
+  ELEMENT   N00627  Mannose type O-glycan biosynthesis, POMT to POMK
+            N00698  Mannose type O-glycan biosynthesis, Rib-ol-5P to CDP-Rib-ol
+            N00699  Mannose type O-glycan biosynthesis, FKTN to LARGE
+DBLINKS     GO: 0035269
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10585  POMT1; protein O-mannosyltransferase 1 [KO:K00728] [EC:2.4.1.109]
+            29954  POMT2; protein O-mannosyltransferase 2 [KO:K00728] [EC:2.4.1.109]
+            55624  POMGNT1; protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-) [KO:K09666] [EC:2.4.1.-]
+            2683  B4GALT1; beta-1,4-galactosyltransferase 1 [KO:K07966] [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+            8704  B4GALT2; beta-1,4-galactosyltransferase 2 [KO:K07967] [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+            8703  B4GALT3; beta-1,4-galactosyltransferase 3 [KO:K07968] [EC:2.4.1.90 2.4.1.38 2.4.1.-]
+            6487  ST3GAL3; ST3 beta-galactoside alpha-2,3-sialyltransferase 3 [KO:K00781] [EC:2.4.3.6]
+            27087  B3GAT1; beta-1,3-glucuronyltransferase 1 [KO:K00735] [EC:2.4.1.135]
+            135152  B3GAT2; beta-1,3-glucuronyltransferase 2 [KO:K10157] [EC:2.4.1.135]
+            9486  CHST10; carbohydrate sulfotransferase 10 [KO:K09674] [EC:2.8.2.-]
+            10690  FUT9; fucosyltransferase 9 [KO:K03663] [EC:2.4.1.152]
+            2526  FUT4; fucosyltransferase 4 [KO:K07632] [EC:2.4.1.-]
+            146664  MGAT5B; alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase B [KO:K09661] [EC:2.4.1.-]
+            84892  POMGNT2; protein O-linked mannose N-acetylglucosaminyltransferase 2 (beta 1,4-) [KO:K18207] [EC:2.4.1.312]
+            148789  B3GALNT2; beta-1,3-N-acetylgalactosaminyltransferase 2 [KO:K09654] [EC:2.4.1.313]
+            84197  POMK; protein O-mannose kinase [KO:K17547] [EC:2.7.1.183]
+            729920  CRPPA; CDP-L-ribitol pyrophosphorylase A [KO:K21031] [EC:2.7.7.40]
+            2218  FKTN; fukutin [KO:K19872] [EC:2.7.8.-]
+            79147  FKRP; fukutin related protein [KO:K19873] [EC:2.7.8.-]
+            10329  RXYLT1; ribitol xylosyltransferase 1 [KO:K21052] [EC:2.4.2.61]
+            11041  B4GAT1; beta-1,4-glucuronyltransferase 1 [KO:K21032] [EC:2.4.1.-]
+            9215  LARGE1; LARGE xylosyl- and glucuronyltransferase 1 [KO:K09668] [EC:2.4.2.- 2.4.1.-]
+            120071  LARGE2; LARGE xylosyl- and glucuronyltransferase 2 [KO:K09668] [EC:2.4.2.- 2.4.1.-]
+COMPOUND    C00063  CTP
+            C00789  CDP-ribitol
+            C01068  D-Ribitol 5-phosphate
+            C02189  [Protein]-L-serine
+            G10617  Dolichyl phosphate D-mannose
+            G13026
+            G13027
+            G13028
+            G13082
+            G13083
+            G13084  O-Mannose core M1
+            G13085
+            G13086  O-Mannose core M2
+            G13087
+            G13088
+            G13089
+            G13090
+            G13091  O-mannose core M3
+            G13092  Phospho-core M3
+            G13093
+            G13094
+            G13095
+            G13096
+            G13097
+            G13098
+            G13099
+            G13100
+REFERENCE   PMID:24786756
+  AUTHORS   Praissman JL, Wells L
+  TITLE     Mammalian O-mannosylation pathway: glycan structures, enzymes, and protein substrates.
+  JOURNAL   Biochemistry 53:3066-78 (2014)
+            DOI:10.1021/bi500153y
+REFERENCE   PMID:21945038
+  AUTHORS   Stalnaker SH, Stuart R, Wells L
+  TITLE     Mammalian O-mannosylation: unsolved questions of structure/function.
+  JOURNAL   Curr Opin Struct Biol 21:603-9 (2011)
+            DOI:10.1016/j.sbi.2011.09.001
+REFERENCE   PMID:26923585
+  AUTHORS   Kanagawa M, Kobayashi K, Tajiri M, Manya H, Kuga A, Yamaguchi Y, Akasaka-Manya K, Furukawa J, Mizuno M, Kawakami H, Shinohara Y, Wada Y, Endo T, Toda T
+  TITLE     Identification of a Post-translational Modification with Ribitol-Phosphate and Its Defect in Muscular Dystrophy.
+  JOURNAL   Cell Rep 14:2209-23 (2016)
+            DOI:10.1016/j.celrep.2016.02.017
+REFERENCE   PMID:27733679
+  AUTHORS   Manya H, Yamaguchi Y, Kanagawa M, Kobayashi K, Tajiri M, Akasaka-Manya K, Kawakami H, Mizuno M, Wada Y, Toda T, Endo T
+  TITLE     The Muscular Dystrophy Gene TMEM5 Encodes a Ribitol beta1,4-Xylosyltransferase Required for the Functional Glycosylation of Dystroglycan.
+  JOURNAL   J Biol Chem 291:24618-24627 (2016)
+            DOI:10.1074/jbc.M116.751917
+REL_PATHWAY hsa00510  N-Glycan biosynthesis
+KO_PATHWAY  ko00515
+///

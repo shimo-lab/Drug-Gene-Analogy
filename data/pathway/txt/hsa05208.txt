@@ -1,0 +1,564 @@
+ENTRY       hsa05208                    Pathway
+NAME        Chemical carcinogenesis - reactive oxygen species - Homo sapiens (human)
+DESCRIPTION It is well established that cancer is a multi-step process which involves initiation, promotion and progression. Chemical carcinogens can alter any of these processes to induce their carcinogenic effects. In the majority of instances, chemical carcinogens, directly or after xenobiotic metabolism, induce DNA damage and act in a 'genotoxic' manner. There is, however, a group of carcinogens that induce cancer via nongenotoxic mechanisms. The biochemical modes of action for nongenotoxic carcinogens are diverse, one example of which is induction of oxidative stress. Trace metals and organic xenobiotics are typical classes of environmental pollutants with prooxidant effects. Trace metals generate reactive oxygen species (ROS) depending on their ability to lose electrons and catalyze Haber Weiss and Fenton reactions. ROS are also generated due to induction of various cytochrome P450 isoenzymes during detoxification of chemical carcinogens. Increased ROS generation often has been linked to DNA damage that can lead to mutations and may, therefore, play an important role in the initiation and progression of multistage carcinogenesis. Besides causing DNA damage, ROS further induce multiple intracellular signaling pathways, notably NF-kappa B, JNK/SAPK/p38, as well as Erk/MAPK. These signaling routes can lead to transcriptional induction of target genes that could promote proliferation or confer apoptosis resistance to exposed cells.
+CLASS       Human Diseases; Cancer: overview
+PATHWAY_MAP hsa05208  Chemical carcinogenesis - reactive oxygen species
+NETWORK     nt06210  ERK signaling
+            nt06211  Other MAPK signaling
+            nt06214  PI3K signaling
+            nt06223  TNF signaling
+            nt06225  HIF-1 signaling
+            nt06226  KEAP1-NRF2 signaling
+            nt06251  CYP-mediated ROS formation
+            nt06252  Mitochondrial ROS formation
+            nt06253  Antioxidant system
+  ELEMENT   N01389  Lead to SOD/Cat-mediated ROS neutralization
+            N01390  p,p'-DDT to SOD/Cat-mediated ROS neutralization
+            N01391  Lead to SOD/Cat-mediated ROS neutralization
+            N01392  Arsenic to electron transfer in complex II
+            N01393  Arsenic to electron transfer in complex II
+            N01394  Arsenic to electron transfer in complex IV
+            N01395  Cadmium to electron transfer in complex III
+            N01396  4-Aminobiphenyl to CYP-mediated metabolism
+            N01397  4-Aminobiphenyl to CYP-mediated metabolism
+            N01398  Pentachlorophenol to CYP-mediated metabolism
+            N01399  Benzene to CYP-mediated metabolism
+            N01400  Benzene to CYP-mediated metabolism
+            N01401  Benzo[a]pyrenre to CYP-mediated metabolism
+            N01404  17beta-estradiol to CYP-mediated metabolism
+            N01405  17beta-estradiol to CYP-mediated metabolism
+            N01406  Ethanol to CYP-mediated metabolism
+            N01407  Metals to JNK signaling pathway
+            N01408  Metals to RAS-ERK signaling pathway
+            N01409  Metals to PI3K signaling pathway
+            N01410  Metals to NFKB signaling pathway
+            N01411  Metals to NFKB signaling pathway
+            N01412  Metals to HTF-1 signaling pathway
+            N01413  Metals to KEAP1-NRF2 signalig pathway
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        57412  AS3MT; arsenite methyltransferase [KO:K07755] [EC:2.1.1.137]
+            221357  GSTA5; glutathione S-transferase alpha 5 [KO:K00799] [EC:2.5.1.18]
+            2939  GSTA2; glutathione S-transferase alpha 2 [KO:K00799] [EC:2.5.1.18]
+            2941  GSTA4; glutathione S-transferase alpha 4 [KO:K00799] [EC:2.5.1.18]
+            119391  GSTO2; glutathione S-transferase omega 2 [KO:K00799] [EC:2.5.1.18]
+            2948  GSTM4; glutathione S-transferase mu 4 [KO:K00799] [EC:2.5.1.18]
+            2953  GSTT2; glutathione S-transferase theta 2 (gene/pseudogene) [KO:K00799] [EC:2.5.1.18]
+            2952  GSTT1; glutathione S-transferase theta 1 [KO:K00799] [EC:2.5.1.18]
+            2947  GSTM3; glutathione S-transferase mu 3 [KO:K00799] [EC:2.5.1.18]
+            4257  MGST1; microsomal glutathione S-transferase 1 [KO:K00799] [EC:2.5.1.18]
+            4259  MGST3; microsomal glutathione S-transferase 3 [KO:K00799] [EC:2.5.1.18]
+            2944  GSTM1; glutathione S-transferase mu 1 [KO:K00799] [EC:2.5.1.18]
+            2949  GSTM5; glutathione S-transferase mu 5 [KO:K00799] [EC:2.5.1.18]
+            4258  MGST2; microsomal glutathione S-transferase 2 [KO:K00799] [EC:2.5.1.18]
+            2938  GSTA1; glutathione S-transferase alpha 1 [KO:K00799] [EC:2.5.1.18]
+            2946  GSTM2; glutathione S-transferase mu 2 [KO:K00799] [EC:2.5.1.18]
+            2940  GSTA3; glutathione S-transferase alpha 3 [KO:K00799] [EC:2.5.1.18]
+            9446  GSTO1; glutathione S-transferase omega 1 [KO:K00799] [EC:2.5.1.18]
+            653689  GSTT2B; glutathione S-transferase theta 2B [KO:K00799] [EC:2.5.1.18]
+            4535  ND1; NADH dehydrogenase subunit 1 [KO:K03878] [EC:7.1.1.2]
+            4536  ND2; NADH dehydrogenase subunit 2 [KO:K03879] [EC:7.1.1.2]
+            4537  ND3; NADH dehydrogenase subunit 3 [KO:K03880] [EC:7.1.1.2]
+            4538  ND4; NADH dehydrogenase subunit 4 [KO:K03881] [EC:7.1.1.2]
+            4539  ND4L; NADH dehydrogenase subunit 4L [KO:K03882] [EC:7.1.1.2]
+            4540  ND5; NADH dehydrogenase subunit 5 [KO:K03883] [EC:7.1.1.2]
+            4541  ND6; NADH dehydrogenase subunit 6 [KO:K03884] [EC:7.1.1.2]
+            4723  NDUFV1; NADH:ubiquinone oxidoreductase core subunit V1 [KO:K03942] [EC:7.1.1.2]
+            4729  NDUFV2; NADH:ubiquinone oxidoreductase core subunit V2 [KO:K03943] [EC:7.1.1.2]
+            4731  NDUFV3; NADH:ubiquinone oxidoreductase subunit V3 [KO:K03944]
+            4694  NDUFA1; NADH:ubiquinone oxidoreductase subunit A1 [KO:K03945]
+            4695  NDUFA2; NADH:ubiquinone oxidoreductase subunit A2 [KO:K03946]
+            4696  NDUFA3; NADH:ubiquinone oxidoreductase subunit A3 [KO:K03947]
+            4697  NDUFA4; NDUFA4 mitochondrial complex associated [KO:K03948]
+            56901  NDUFA4L2; NDUFA4 mitochondrial complex associated like 2 [KO:K03948]
+            4698  NDUFA5; NADH:ubiquinone oxidoreductase subunit A5 [KO:K03949]
+            4700  NDUFA6; NADH:ubiquinone oxidoreductase subunit A6 [KO:K03950]
+            4701  NDUFA7; NADH:ubiquinone oxidoreductase subunit A7 [KO:K03951]
+            4702  NDUFA8; NADH:ubiquinone oxidoreductase subunit A8 [KO:K03952]
+            4704  NDUFA9; NADH:ubiquinone oxidoreductase subunit A9 [KO:K03953]
+            4705  NDUFA10; NADH:ubiquinone oxidoreductase subunit A10 [KO:K03954]
+            4706  NDUFAB1; NADH:ubiquinone oxidoreductase subunit AB1 [KO:K03955]
+            126328  NDUFA11; NADH:ubiquinone oxidoreductase subunit A11 [KO:K03956]
+            55967  NDUFA12; NADH:ubiquinone oxidoreductase subunit A12 [KO:K11352]
+            51079  NDUFA13; NADH:ubiquinone oxidoreductase subunit A13 [KO:K11353]
+            4707  NDUFB1; NADH:ubiquinone oxidoreductase subunit B1 [KO:K03957]
+            4708  NDUFB2; NADH:ubiquinone oxidoreductase subunit B2 [KO:K03958]
+            4709  NDUFB3; NADH:ubiquinone oxidoreductase subunit B3 [KO:K03959]
+            4710  NDUFB4; NADH:ubiquinone oxidoreductase subunit B4 [KO:K03960]
+            4711  NDUFB5; NADH:ubiquinone oxidoreductase subunit B5 [KO:K03961]
+            4712  NDUFB6; NADH:ubiquinone oxidoreductase subunit B6 [KO:K03962]
+            4713  NDUFB7; NADH:ubiquinone oxidoreductase subunit B7 [KO:K03963]
+            4714  NDUFB8; NADH:ubiquinone oxidoreductase subunit B8 [KO:K03964]
+            4715  NDUFB9; NADH:ubiquinone oxidoreductase subunit B9 [KO:K03965]
+            4716  NDUFB10; NADH:ubiquinone oxidoreductase subunit B10 [KO:K03966]
+            54539  NDUFB11; NADH:ubiquinone oxidoreductase subunit B11 [KO:K11351]
+            4719  NDUFS1; NADH:ubiquinone oxidoreductase core subunit S1 [KO:K03934] [EC:7.1.1.2]
+            4720  NDUFS2; NADH:ubiquinone oxidoreductase core subunit S2 [KO:K03935] [EC:7.1.1.2]
+            4722  NDUFS3; NADH:ubiquinone oxidoreductase core subunit S3 [KO:K03936] [EC:7.1.1.2]
+            4724  NDUFS4; NADH:ubiquinone oxidoreductase subunit S4 [KO:K03937]
+            4725  NDUFS5; NADH:ubiquinone oxidoreductase subunit S5 [KO:K03938]
+            4726  NDUFS6; NADH:ubiquinone oxidoreductase subunit S6 [KO:K03939]
+            374291  NDUFS7; NADH:ubiquinone oxidoreductase core subunit S7 [KO:K03940] [EC:7.1.1.2]
+            4728  NDUFS8; NADH:ubiquinone oxidoreductase core subunit S8 [KO:K03941] [EC:7.1.1.2]
+            4717  NDUFC1; NADH:ubiquinone oxidoreductase subunit C1 [KO:K03967]
+            4718  NDUFC2; NADH:ubiquinone oxidoreductase subunit C2 [KO:K03968]
+            100532726  NDUFC2-KCTD14; NDUFC2-KCTD14 readthrough [KO:K03968]
+            6389  SDHA; succinate dehydrogenase complex flavoprotein subunit A [KO:K00234] [EC:1.3.5.1]
+            6390  SDHB; succinate dehydrogenase complex iron sulfur subunit B [KO:K00235] [EC:1.3.5.1]
+            6391  SDHC; succinate dehydrogenase complex subunit C [KO:K00236]
+            6392  SDHD; succinate dehydrogenase complex subunit D [KO:K00237]
+            7386  UQCRFS1; ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [KO:K00411] [EC:7.1.1.8]
+            4519  CYTB; cytochrome b [KO:K00412]
+            1537  CYC1; cytochrome c1 [KO:K00413]
+            7384  UQCRC1; ubiquinol-cytochrome c reductase core protein 1 [KO:K00414]
+            7385  UQCRC2; ubiquinol-cytochrome c reductase core protein 2 [KO:K00415]
+            7388  UQCRH; ubiquinol-cytochrome c reductase hinge protein [KO:K00416]
+            440567  UQCRHL; ubiquinol-cytochrome c reductase hinge protein like [KO:K00416]
+            7381  UQCRB; ubiquinol-cytochrome c reductase binding protein [KO:K00417]
+            27089  UQCRQ; ubiquinol-cytochrome c reductase complex III subunit VII [KO:K00418]
+            29796  UQCR10; ubiquinol-cytochrome c reductase, complex III subunit X [KO:K00419]
+            10975  UQCR11; ubiquinol-cytochrome c reductase, complex III subunit XI [KO:K00420]
+            4514  COX3; cytochrome c oxidase subunit III [KO:K02262]
+            4512  COX1; cytochrome c oxidase subunit I [KO:K02256] [EC:7.1.1.9]
+            4513  COX2; cytochrome c oxidase subunit II [KO:K02261]
+            84701  COX4I2; cytochrome c oxidase subunit 4I2 [KO:K02263]
+            1327  COX4I1; cytochrome c oxidase subunit 4I1 [KO:K02263]
+            9377  COX5A; cytochrome c oxidase subunit 5A [KO:K02264]
+            1329  COX5B; cytochrome c oxidase subunit 5B [KO:K02265]
+            1337  COX6A1; cytochrome c oxidase subunit 6A1 [KO:K02266]
+            1339  COX6A2; cytochrome c oxidase subunit 6A2 [KO:K02266]
+            1340  COX6B1; cytochrome c oxidase subunit 6B1 [KO:K02267]
+            125965  COX6B2; cytochrome c oxidase subunit 6B2 [KO:K02267]
+            1345  COX6C; cytochrome c oxidase subunit 6C [KO:K02268]
+            1346  COX7A1; cytochrome c oxidase subunit 7A1 [KO:K02270]
+            1347  COX7A2; cytochrome c oxidase subunit 7A2 [KO:K02270]
+            9167  COX7A2L; cytochrome c oxidase subunit 7A2 like [KO:K02270]
+            1349  COX7B; cytochrome c oxidase subunit 7B [KO:K02271]
+            170712  COX7B2; cytochrome c oxidase subunit 7B2 [KO:K02271]
+            1350  COX7C; cytochrome c oxidase subunit 7C [KO:K02272]
+            341947  COX8C; cytochrome c oxidase subunit 8C [KO:K02273]
+            1351  COX8A; cytochrome c oxidase subunit 8A [KO:K02273]
+            498  ATP5F1A; ATP synthase F1 subunit alpha [KO:K02132]
+            506  ATP5F1B; ATP synthase F1 subunit beta [KO:K02133] [EC:7.1.2.2]
+            509  ATP5F1C; ATP synthase F1 subunit gamma [KO:K02136]
+            513  ATP5F1D; ATP synthase F1 subunit delta [KO:K02134]
+            514  ATP5F1E; ATP synthase F1 subunit epsilon [KO:K02135]
+            4508  ATP6; ATP synthase F0 subunit 6 [KO:K02126]
+            515  ATP5PB; ATP synthase peripheral stalk-membrane subunit b [KO:K02127]
+            516  ATP5MC1; ATP synthase membrane subunit c locus 1 [KO:K02128]
+            517  ATP5MC2; ATP synthase membrane subunit c locus 2 [KO:K02128]
+            518  ATP5MC3; ATP synthase membrane subunit c locus 3 [KO:K02128]
+            10476  ATP5PD; ATP synthase peripheral stalk subunit d [KO:K02138]
+            539  ATP5PO; ATP synthase peripheral stalk subunit OSCP [KO:K02137]
+            522  ATP5PF; ATP synthase peripheral stalk subunit F6 [KO:K02131]
+            4509  ATP8; ATP synthase F0 subunit 8 [KO:K02125]
+            6648  SOD2; superoxide dismutase 2 [KO:K04564] [EC:1.15.1.1]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            291  SLC25A4; solute carrier family 25 member 4 [KO:K05863]
+            292  SLC25A5; solute carrier family 25 member 5 [KO:K05863]
+            293  SLC25A6; solute carrier family 25 member 6 [KO:K05863]
+            83447  SLC25A31; solute carrier family 25 member 31 [KO:K05863]
+            10105  PPIF; peptidylprolyl isomerase F [KO:K09565] [EC:5.2.1.8]
+            6647  SOD1; superoxide dismutase 1 [KO:K04565] [EC:1.15.1.1]
+            847  CAT; catalase [KO:K03781] [EC:1.11.1.6]
+            10861  SLC26A1; solute carrier family 26 member 1 [KO:K14700]
+            1836  SLC26A2; solute carrier family 26 member 2 [KO:K14701]
+            65010  SLC26A6; solute carrier family 26 member 6 [KO:K14704]
+            115019  SLC26A9; solute carrier family 26 member 9 [KO:K14706]
+            1544  CYP1A2; cytochrome P450 family 1 subfamily A member 2 [KO:K07409] [EC:1.14.14.1]
+            1571  CYP2E1; cytochrome P450 family 2 subfamily E member 1 [KO:K07415] [EC:1.14.14.-]
+            1572  CYP2F1; cytochrome P450 family 2 subfamily F member 1 [KO:K07416] [EC:1.14.14.1]
+            1543  CYP1A1; cytochrome P450 family 1 subfamily A member 1 [KO:K07408] [EC:1.14.14.1]
+            1545  CYP1B1; cytochrome P450 family 1 subfamily B member 1 [KO:K07410] [EC:1.14.14.1]
+            2052  EPHX1; epoxide hydrolase 1 [KO:K01253] [EC:3.3.2.9]
+            2053  EPHX2; epoxide hydrolase 2 [KO:K08726] [EC:3.3.2.10 3.1.3.76]
+            79852  EPHX3; epoxide hydrolase 3 [KO:K22368] [EC:3.3.2.10]
+            253152  EPHX4; epoxide hydrolase 4 [KO:K22369] [EC:3.3.-.-]
+            10327  AKR1A1; aldo-keto reductase family 1 member A1 [KO:K00002] [EC:1.1.1.2]
+            1645  AKR1C1; aldo-keto reductase family 1 member C1 [KO:K00212] [EC:1.1.1.149 1.1.1.357 1.3.1.20]
+            1646  AKR1C2; aldo-keto reductase family 1 member C2 [KO:K00089] [EC:1.1.1.213 1.1.1.357]
+            8644  AKR1C3; aldo-keto reductase family 1 member C3 [KO:K04119] [EC:1.1.1.51 1.1.1.188 1.1.1.213 1.1.1.357]
+            1109  AKR1C4; aldo-keto reductase family 1 member C4 [KO:K00037] [EC:1.1.1.50 1.1.1.357 1.1.1.225]
+            1728  NQO1; NAD(P)H quinone dehydrogenase 1 [KO:K00355] [EC:1.6.5.2]
+            873  CBR1; carbonyl reductase 1 [KO:K00079] [EC:1.1.1.184 1.1.1.189 1.1.1.197]
+            196  AHR; aryl hydrocarbon receptor [KO:K09093]
+            4025  LPO; lactoperoxidase [KO:K12550] [EC:1.11.1.7]
+            50507  NOX4; NADPH oxidase 4 [KO:K21423] [EC:1.6.3.-]
+            1535  CYBA; cytochrome b-245 alpha chain [KO:K08009]
+            27035  NOX1; NADPH oxidase 1 [KO:K08008]
+            653361  NCF1; neutrophil cytosolic factor 1 [KO:K08011]
+            4688  NCF2; neutrophil cytosolic factor 2 [KO:K08010]
+            1950  EGF; epidermal growth factor [KO:K04357]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            3082  HGF; hepatocyte growth factor [KO:K05460]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            5770  PTPN1; protein tyrosine phosphatase non-receptor type 1 [KO:K05696] [EC:3.1.3.48]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            5795  PTPRJ; protein tyrosine phosphatase receptor type J [KO:K05698] [EC:3.1.3.48]
+            52  ACP1; acid phosphatase 1 [KO:K14394] [EC:3.1.3.2 3.1.3.48]
+            5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            25  ABL1; ABL proto-oncogene 1, non-receptor tyrosine kinase [KO:K06619] [EC:2.7.10.2]
+            27  ABL2; ABL proto-oncogene 2, non-receptor tyrosine kinase [KO:K08887] [EC:2.7.10.2]
+            5587  PRKD1; protein kinase D1 [KO:K06070] [EC:2.7.11.13]
+            23683  PRKD3; protein kinase D3 [KO:K06070] [EC:2.7.11.13]
+            25865  PRKD2; protein kinase D2 [KO:K06070] [EC:2.7.11.13]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            5337  PLD1; phospholipase D1 [KO:K01115] [EC:3.1.4.4]
+            5338  PLD2; phospholipase D2 [KO:K01115] [EC:3.1.4.4]
+            9020  MAP3K14; mitogen-activated protein kinase kinase kinase 14 [KO:K04466] [EC:2.7.11.25]
+            3091  HIF1A; hypoxia inducible factor 1 subunit alpha [KO:K08268]
+            405  ARNT; aryl hydrocarbon receptor nuclear translocator [KO:K09097]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            9817  KEAP1; kelch like ECH associated protein 1 [KO:K10456]
+            4780  NFE2L2; NFE2 like bZIP transcription factor 2 [KO:K05638]
+            3162  HMOX1; heme oxygenase 1 [KO:K00510] [EC:1.14.14.18]
+COMPOUND    C00001  H2O
+            C00003  NAD+
+            C00005  NADPH
+            C00006  NADP+
+            C00007  Oxygen
+            C00019  S-Adenosyl-L-methionine
+            C00021  S-Adenosyl-L-homocysteine
+            C00023  Iron
+            C00027  Hydrogen peroxide
+            C00051  Glutathione
+            C00070  Copper
+            C00084  Acetaldehyde
+            C00127  Glutathione disulfide
+            C00146  Phenol
+            C00291  Nickel
+            C00469  Ethanol
+            C00472  p-Benzoquinone
+            C00530  Hydroquinone
+            C00704  Superoxide
+            C00951  Estradiol-17beta
+            C01407  Benzene
+            C01413  Cadmium
+            C01782  Benzene oxide
+            C02389  p-Benzosemiquinone
+            C02575  Pentachlorophenol
+            C02814  Benzene-1,2,4-triol
+            C03434  Tetrachlorohydroquinone
+            C03622  N-Hydroxy-4-aminobiphenyl
+            C04623  DDT
+            C05301  2-Hydroxyestradiol
+            C05309  Semiquinone
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C06268  Chromium
+            C06269  Arsenic
+            C06696  Lead
+            C07294  Methylarsonate
+            C07295  Methanearsonous acid
+            C07308  Cacodylate
+            C07535  Benzo[a]pyrene
+            C07557  2,3,7,8-Tetrachlorodibenzodioxin
+            C10998  4-Aminobiphenyl
+            C14209  4-Hydroxy-17beta-estradiol
+            C14850  Benzo[a]pyrene-7,8-oxide
+            C14852  Benzo[a]pyrene-7,8-dihydrodiol
+            C16038  2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine
+            C16453  4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone
+            C16844  Hydroxyl radical
+            C18205  2,2',4,4'-Tetrabromodiphenyl ether
+            C18933  Chloranil
+            C19171  Cobalt
+            C20300  Dimethylarsinous acid
+            C20316  4-Nitrosobiphenyl
+            C20319  Hydronitroxide radical
+            C22355  Benzo[a]pyrene-7,8-diol
+            C22356  Benzo[a]pyrene-7,8-dione
+            C22357  17beta-Estradiol-2,3-quinone
+            C22381  Reactive oxygen species
+REFERENCE   PMID:24281075
+  AUTHORS   Henkler F, Brinkmann J, Luch A
+  TITLE     The role of oxidative stress in carcinogenesis induced by metals and xenobiotics.
+  JOURNAL   Cancers (Basel) 2:376-96 (2010)
+            DOI:10.3390/cancers2020376
+REFERENCE   PMID:22705365
+  AUTHORS   Lee JC, Son YO, Pratheeshkumar P, Shi X
+  TITLE     Oxidative stress and metal carcinogenesis.
+  JOURNAL   Free Radic Biol Med 53:742-57 (2012)
+            DOI:10.1016/j.freeradbiomed.2012.06.002
+REFERENCE   PMID:32033297
+  AUTHORS   Hu Y, Li J, Lou B, Wu R, Wang G, Lu C, Wang H, Pi J, Xu Y
+  TITLE     The Role of Reactive Oxygen Species in Arsenic Toxicity.
+  JOURNAL   Biomolecules 10:E240 (2020)
+            DOI:10.3390/biom10020240
+REFERENCE   PMID:33864199
+  AUTHORS   Ozturk M, Metin M, Altay V, Bhat RA, Ejaz M, Gul A, Unal BT, Hasanuzzaman M, Nibir L, Nahar K, Bukhari A, Dervash MA, Kawano T
+  TITLE     Arsenic and Human Health: Genotoxicity, Epigenomic Effects, and Cancer Signaling.
+  JOURNAL   Biol Trace Elem Res 10.1007/s12011-021-02719-w (2021)
+            DOI:10.1007/s12011-021-02719-w
+REFERENCE   PMID:23510327
+  AUTHORS   Hubaux R, Becker-Santos DD, Enfield KS, Rowbotham D, Lam S, Lam WL, Martinez VD
+  TITLE     Molecular features in arsenic-induced lung tumors.
+  JOURNAL   Mol Cancer 12:20 (2013)
+            DOI:10.1186/1476-4598-12-20
+REFERENCE   PMID:21648415
+  AUTHORS   Naranmandura H, Xu S, Sawata T, Hao WH, Liu H, Bu N, Ogra Y, Lou YJ, Suzuki N
+  TITLE     Mitochondria are the main target organelle for trivalent monomethylarsonous acid (MMA(III))-induced cytotoxicity.
+  JOURNAL   Chem Res Toxicol 24:1094-103 (2011)
+            DOI:10.1021/tx200156k
+REFERENCE   PMID:23583964
+  AUTHORS   Faita F, Cori L, Bianchi F, Andreassi MG
+  TITLE     Arsenic-induced genotoxicity and genetic susceptibility to arsenic-related pathologies.
+  JOURNAL   Int J Environ Res Public Health 10:1527-46 (2013)
+            DOI:10.3390/ijerph10041527
+REFERENCE   PMID:28179585
+  AUTHORS   Sage AP, Minatel BC, Ng KW, Stewart GL, Dummer TJB, Lam WL, Martinez VD
+  TITLE     Oncogenomic disruptions in arsenic-induced carcinogenesis.
+  JOURNAL   Oncotarget 8:25736-25755 (2017)
+            DOI:10.18632/oncotarget.15106
+REFERENCE   PMID:21414382
+  AUTHORS   Jomova K, Valko M
+  TITLE     Advances in metal-induced oxidative stress and human disease.
+  JOURNAL   Toxicology 283:65-87 (2011)
+            DOI:10.1016/j.tox.2011.03.001
+REFERENCE   PMID:16430879
+  AUTHORS   Valko M, Rhodes CJ, Moncol J, Izakovic M, Mazur M
+  TITLE     Free radicals, metals and antioxidants in oxidative stress-induced cancer.
+  JOURNAL   Chem Biol Interact 160:1-40 (2006)
+            DOI:10.1016/j.cbi.2005.12.009
+REFERENCE   PMID:32731582
+  AUTHORS   Tumolo M, Ancona V, De Paola D, Losacco D, Campanale C, Massarelli C, Uricchio VF
+  TITLE     Chromium Pollution in European Water, Sources, Health Risk, and Remediation Strategies: An Overview.
+  JOURNAL   Int J Environ Res Public Health 17:E5438 (2020)
+            DOI:10.3390/ijerph17155438
+REFERENCE   PMID:28860815
+  AUTHORS   Wang Y, Su H, Gu Y, Song X, Zhao J
+  TITLE     Carcinogenicity of chromium and chemoprevention: a brief update.
+  JOURNAL   Onco Targets Ther 10:4065-4079 (2017)
+            DOI:10.2147/OTT.S139262
+REFERENCE   PMID:24820114
+  AUTHORS   Jin X, Chen M, Song L, Li H, Li Z
+  TITLE     The evaluation of p,p'-DDT exposure on cell adhesion of hepatocellular carcinoma.
+  JOURNAL   Toxicology 322:99-108 (2014)
+            DOI:10.1016/j.tox.2014.05.002
+REFERENCE   PMID:20370557
+  AUTHORS   Liou GY, Storz P
+  TITLE     Reactive oxygen species in cancer.
+  JOURNAL   Free Radic Res 44:479-96 (2010)
+            DOI:10.3109/10715761003667554
+REFERENCE   PMID:11275476
+  AUTHORS   Murata M, Tamura A, Tada M, Kawanishi S
+  TITLE     Mechanism of oxidative DNA damage induced by carcinogenic 4-aminobiphenyl.
+  JOURNAL   Free Radic Biol Med 30:765-73 (2001)
+            DOI:10.1016/S0891-5849(01)00463-4
+REFERENCE   PMID:31283132
+  AUTHORS   
+  TITLE     
+  JOURNAL   Pentachlorophenol and Some Related Compounds(2019)
+REFERENCE   PMID:19408893
+  AUTHORS   Zhu BZ, Shan GQ
+  TITLE     Potential mechanism for pentachlorophenol-induced carcinogenicity: a novel mechanism for metal-independent production of hydroxyl radicals.
+  JOURNAL   Chem Res Toxicol 22:969-77 (2009)
+            DOI:10.1021/tx900030v
+REFERENCE   PMID:22166497
+  AUTHORS   McHale CM, Zhang L, Smith MT
+  TITLE     Current understanding of the mechanism of benzene-induced leukemia in humans: implications for risk assessment.
+  JOURNAL   Carcinogenesis 33:240-52 (2012)
+            DOI:10.1093/carcin/bgr297
+REFERENCE   PMID:32977499
+  AUTHORS   Scharf P, Broering MF, Oliveira da Rocha GH, Farsky SHP
+  TITLE     Cellular and Molecular Mechanisms of Environmental Pollutants on Hematopoiesis.
+  JOURNAL   Int J Mol Sci 21:E6996 (2020)
+            DOI:10.3390/ijms21196996
+REFERENCE   PMID:23066403
+  AUTHORS   Snyder R
+  TITLE     Leukemia and benzene.
+  JOURNAL   Int J Environ Res Public Health 9:2875-93 (2012)
+            DOI:10.3390/ijerph9082875
+REFERENCE   PMID:9118888
+  AUTHORS   Snyder R, Hedli CC
+  TITLE     An overview of benzene metabolism.
+  JOURNAL   Environ Health Perspect 104 Suppl 6:1165-71 (1996)
+            DOI:10.1289/ehp.961041165
+REFERENCE   PMID:11978484
+  AUTHORS   Kawanishi S, Hiraku Y, Murata M, Oikawa S
+  TITLE     The role of metals in site-specific DNA damage with reference to carcinogenesis.
+  JOURNAL   Free Radic Biol Med 32:822-32 (2002)
+            DOI:10.1016/S0891-5849(02)00779-7
+REFERENCE   PMID:27919191
+  AUTHORS   Das DN, Panda PK, Naik PP, Mukhopadhyay S, Sinha N, Bhutia SK
+  TITLE     Phytotherapeutic approach: a new hope for polycyclic aromatic hydrocarbons induced cellular disorders, autophagic and apoptotic cell death.
+  JOURNAL   Toxicol Mech Methods 27:1-17 (2017)
+            DOI:10.1080/15376516.2016.1268228
+REFERENCE   PMID:21910479
+  AUTHORS   Shultz CA, Quinn AM, Park JH, Harvey RG, Bolton JL, Maser E, Penning TM.
+  TITLE     Specificity of human aldo-keto reductases, NAD(P)H:quinone oxidoreductase, and carbonyl reductases to redox-cycle polycyclic aromatic hydrocarbon diones and 4-hydroxyequilenin-o-quinone.
+  JOURNAL   Chem Res Toxicol 24:2153-66 (2011)
+            DOI:10.1021/tx200294c
+REFERENCE   PMID:25279998
+  AUTHORS   Penning TM
+  TITLE     Human aldo-keto reductases and the metabolic activation of polycyclic aromatic hydrocarbons.
+  JOURNAL   Chem Res Toxicol 27:1901-17 (2014)
+            DOI:10.1021/tx500298n
+REFERENCE   PMID:10706104
+  AUTHORS   Burczynski ME, Penning TM
+  TITLE     Genotoxic polycyclic aromatic hydrocarbon ortho-quinones generated by aldo-keto reductases induce CYP1A1 via nuclear translocation of the aryl hydrocarbon receptor.
+  JOURNAL   Cancer Res 60:908-15 (2000)
+REFERENCE   PMID:15963346
+  AUTHORS   Xue W, Warshawsky D
+  TITLE     Metabolic activation of polycyclic and heterocyclic aromatic hydrocarbons and DNA damage: a review.
+  JOURNAL   Toxicol Appl Pharmacol 206:73-93 (2005)
+            DOI:10.1016/j.taap.2004.11.006
+REFERENCE   PMID:15142886
+  AUTHORS   Chen ZH, Hurh YJ, Na HK, Kim JH, Chun YJ, Kim DH, Kang KS, Cho MH, Surh YJ
+  TITLE     Resveratrol inhibits TCDD-induced expression of CYP1A1 and CYP1B1 and catechol estrogen-mediated oxidative DNA damage in cultured human mammary epithelial cells.
+  JOURNAL   Carcinogenesis 25:2005-13 (2004)
+            DOI:10.1093/carcin/bgh183
+REFERENCE   PMID:16684662
+  AUTHORS   Rifkind AB
+  TITLE     CYP1A in TCDD toxicity and in physiology-with particular reference to CYP dependent arachidonic acid metabolism and other endogenous substrates.
+  JOURNAL   Drug Metab Rev 38:291-335 (2006)
+            DOI:10.1080/03602530600570107
+REFERENCE   PMID:9380738
+  AUTHORS   Cavalieri EL, Stack DE, Devanesan PD, Todorovic R, Dwivedy I, Higginbotham S, Johansson SL, Patil KD, Gross ML, Gooden JK, Ramanathan R, Cerny RL, Rogan EG
+  TITLE     Molecular origin of cancer: catechol estrogen-3,4-quinones as endogenous tumor initiators.
+  JOURNAL   Proc Natl Acad Sci U S A 94:10937-42 (1997)
+            DOI:10.1073/pnas.94.20.10937
+REFERENCE   PMID:9472688
+  AUTHORS   Zhu BT, Conney AH
+  TITLE     Functional role of estrogen metabolism in target cells: review and perspectives.
+  JOURNAL   Carcinogenesis 19:1-27 (1998)
+            DOI:10.1093/carcin/19.1.1
+REFERENCE   PMID:19387921
+  AUTHORS   McKillop IH, Schrum LW
+  TITLE     Role of alcohol in liver carcinogenesis.
+  JOURNAL   Semin Liver Dis 29:222-32 (2009)
+            DOI:10.1055/s-0029-1214377
+REFERENCE   PMID:15603755
+  AUTHORS   Gonzalez FJ
+  TITLE     Role of cytochromes P450 in chemical toxicity and oxidative stress: studies with CYP2E1.
+  JOURNAL   Mutat Res 569:101-10 (2005)
+            DOI:10.1016/j.mrfmmm.2004.04.021
+REFERENCE   PMID:31864052
+  AUTHORS   Montalbano AM, Albano GD, Anzalone G, Moscato M, Gagliardo R, Di Sano C, Bonanno A, Ruggieri S, Cibella F, Profita M
+  TITLE     Cytotoxic and genotoxic effects of the flame retardants (PBDE-47, PBDE-99 and PBDE-209) in human bronchial epithelial cells.
+  JOURNAL   Chemosphere 245:125600 (2020)
+            DOI:10.1016/j.chemosphere.2019.125600
+REFERENCE   PMID:33907575
+  AUTHORS   Sun HN, Ren CX, Gong YX, Xie DP, Kwon T
+  TITLE     Regulatory function of peroxiredoxin I on 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone-induced lung cancer development.
+  JOURNAL   Oncol Lett 21:465 (2021)
+            DOI:10.3892/ol.2021.12726
+REFERENCE   PMID:25372613
+  AUTHORS   Pluchino LA, Wang HC
+  TITLE     Chronic exposure to combined carcinogens enhances breast cell carcinogenesis with mesenchymal and stem-like cell properties.
+  JOURNAL   PLoS One 9:e108698 (2014)
+            DOI:10.1371/journal.pone.0108698
+REFERENCE   PMID:25535943
+  AUTHORS   Pluchino LA, Liu AK, Wang HC
+  TITLE     Reactive oxygen species-mediated breast cell carcinogenesis enhanced by multiple carcinogens and intervened by dietary ergosterol and mimosine.
+  JOURNAL   Free Radic Biol Med 80:12-26 (2015)
+            DOI:10.1016/j.freeradbiomed.2014.12.015
+REFERENCE   PMID:30327380
+  AUTHORS   Moldogazieva NT, Lutsenko SV, Terentiev AA
+  TITLE     Reactive Oxygen and Nitrogen Species-Induced Protein Modifications: Implication in Carcinogenesis and Anticancer Therapy.
+  JOURNAL   Cancer Res 78:6040-6047 (2018)
+            DOI:10.1158/0008-5472.CAN-18-0980
+REFERENCE   PMID:32358622
+  AUTHORS   Kirtonia A, Sethi G, Garg M
+  TITLE     The multifaceted role of reactive oxygen species in tumorigenesis.
+  JOURNAL   Cell Mol Life Sci 77:4459-4483 (2020)
+            DOI:10.1007/s00018-020-03536-5
+REFERENCE   PMID:29449774
+  AUTHORS   Kumari S, Badana AK, G MM, G S, Malla R
+  TITLE     Reactive Oxygen Species: A Key Constituent in Cancer Survival.
+  JOURNAL   Biomark Insights 13:1177271918755391 (2018)
+            DOI:10.1177/1177271918755391
+REFERENCE   PMID:28881698
+  AUTHORS   Gao X, Schottker B
+  TITLE     Reduction-oxidation pathways involved in cancer development: a systematic review of literature reviews.
+  JOURNAL   Oncotarget 8:51888-51906 (2017)
+            DOI:10.18632/oncotarget.17128
+REFERENCE   PMID:15769673
+  AUTHORS   Storz P
+  TITLE     Reactive oxygen species in tumor progression.
+  JOURNAL   Front Biosci 10:1881-96 (2005)
+            DOI:10.2741/1667
+REFERENCE   PMID:28835450
+  AUTHORS   Assi M
+  TITLE     The differential role of reactive oxygen species in early and late stages of cancer.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 313:R646-R653 (2017)
+            DOI:10.1152/ajpregu.00247.2017
+REFERENCE   PMID:15024053
+  AUTHORS   Storz P, Doppler H, Toker A
+  TITLE     Protein kinase Cdelta selectively regulates protein kinase D-dependent activation of NF-kappaB in oxidative stress signaling.
+  JOURNAL   Mol Cell Biol 24:2614-26 (2004)
+            DOI:10.1128/MCB.24.7.2614-2626.2004
+REFERENCE   PMID:24998536
+  AUTHORS   Nourazarian AR, Kangari P, Salmaninejad A
+  TITLE     Roles of oxidative stress in the development and progression of breast cancer.
+  JOURNAL   Asian Pac J Cancer Prev 15:4745-51 (2014)
+            DOI:10.7314/apjcp.2014.15.12.4745
+REFERENCE   PMID:32336668
+  AUTHORS   Zheng F, Goncalves FM, Abiko Y, Li H, Kumagai Y, Aschner M
+  TITLE     Redox toxicology of environmental chemicals causing oxidative stress.
+  JOURNAL   Redox Biol 34:101475 (2020)
+            DOI:10.1016/j.redox.2020.101475
+REL_PATHWAY hsa00190  Oxidative phosphorylation
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04370  VEGF signaling pathway
+            hsa05207  Chemical carcinogenesis - receptor activation
+            hsa05211  Renal cell carcinoma
+            hsa05215  Prostate cancer
+            hsa05219  Bladder cancer
+            hsa05221  Acute myeloid leukemia
+            hsa05222  Small cell lung cancer
+            hsa05223  Non-small cell lung cancer
+            hsa05224  Breast cancer
+            hsa05225  Hepatocellular carcinoma
+KO_PATHWAY  ko05208
+///

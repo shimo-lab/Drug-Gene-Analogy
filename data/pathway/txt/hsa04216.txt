@@ -1,0 +1,174 @@
+ENTRY       hsa04216                    Pathway
+NAME        Ferroptosis - Homo sapiens (human)
+DESCRIPTION Ferroptosis is a regulated form of cell death and characterized by a production of reactive oxygen species (ROS) from accumulated iron and lipid peroxidation. It can be induced by experimental compounds (e.g.,erastin, RSL3) or clinical drugs(e.g., sulfasalazine, sorafenib) in cancer cell and certain normal cells. It is involved in multiple physiological and pathological processes, such as cancer cell death, neurodegenerative disease, tissue damage and acute renal failure.
+CLASS       Cellular Processes; Cell growth and death
+PATHWAY_MAP hsa04216  Ferroptosis
+NETWORK     nt06026  Glutathione biosynthesis
+  ELEMENT   N01587  Fe-TF transport
+            N01588  Fe3+ Ferritin transport
+            N01589  Glutathione biosynthesis
+            N01590  Arachidonate/Adrenic acid metabolism
+            N01591  Fe2+ Ferroportin transport
+DRUG        D11812  Pabinafusp alfa (genetical recombination) (JAN)
+            D12289  Vamifeport (USAN/INN)
+            D12290  Vamifeport trihydrochloride (USAN)
+            D12509  Trontinemab (USAN/INN)
+            D12510  Utreloxastat (USAN/INN)
+DBLINKS     GO: 0097707
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6520  SLC3A2; solute carrier family 3 member 2 [KO:K06519]
+            23657  SLC7A11; solute carrier family 7 member 11 [KO:K13869]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            2729  GCLC; glutamate-cysteine ligase catalytic subunit [KO:K11204] [EC:6.3.2.2]
+            2730  GCLM; glutamate-cysteine ligase modifier subunit [KO:K11205]
+            2937  GSS; glutathione synthetase [KO:K21456] [EC:6.3.2.3]
+            2879  GPX4; glutathione peroxidase 4 [KO:K05361] [EC:1.11.1.12]
+            23305  ACSL6; acyl-CoA synthetase long chain family member 6 [KO:K01897] [EC:6.2.1.3]
+            2182  ACSL4; acyl-CoA synthetase long chain family member 4 [KO:K01897] [EC:6.2.1.3]
+            2180  ACSL1; acyl-CoA synthetase long chain family member 1 [KO:K01897] [EC:6.2.1.3]
+            51703  ACSL5; acyl-CoA synthetase long chain family member 5 [KO:K01897] [EC:6.2.1.3]
+            2181  ACSL3; acyl-CoA synthetase long chain family member 3 [KO:K01897] [EC:6.2.1.3]
+            10162  LPCAT3; lysophosphatidylcholine acyltransferase 3 [KO:K13515] [EC:2.3.1.23 2.3.1.-]
+            246  ALOX15; arachidonate 15-lipoxygenase [KO:K00460] [EC:1.13.11.33]
+            112483  SAT2; spermidine/spermine N1-acetyltransferase family member 2 [KO:K00657] [EC:2.3.1.57]
+            6303  SAT1; spermidine/spermine N1-acetyltransferase 1 [KO:K00657] [EC:2.3.1.57]
+            7018  TF; transferrin [KO:K14736]
+            7037  TFRC; transferrin receptor [KO:K06503]
+            55240  STEAP3; STEAP3 metalloreductase [KO:K10142] [EC:1.16.1.-]
+            4891  SLC11A2; solute carrier family 11 member 2 [KO:K21398]
+            64116  SLC39A8; solute carrier family 39 member 8 [KO:K14714]
+            23516  SLC39A14; solute carrier family 39 member 14 [KO:K14720]
+            5094  PCBP2; poly(rC) binding protein 2 [KO:K13162]
+            30061  SLC40A1; solute carrier family 40 member 1 [KO:K14685]
+            1356  CP; ceruloplasmin [KO:K13624] [EC:1.16.3.1]
+            5093  PCBP1; poly(rC) binding protein 1 [KO:K12889]
+            2495  FTH1; ferritin heavy chain 1 [KO:K00522] [EC:1.16.3.2]
+            2512  FTL; ferritin light chain [KO:K13625]
+            440738  MAP1LC3C; microtubule associated protein 1 light chain 3 gamma [KO:K10435]
+            81631  MAP1LC3B; microtubule associated protein 1 light chain 3 beta [KO:K10435]
+            84557  MAP1LC3A; microtubule associated protein 1 light chain 3 alpha [KO:K10435]
+            643246  MAP1LC3B2; microtubule associated protein 1 light chain 3 beta 2 [KO:K10435]
+            9474  ATG5; autophagy related 5 [KO:K08339]
+            10533  ATG7; autophagy related 7 [KO:K08337]
+            8031  NCOA4; nuclear receptor coactivator 4 [KO:K09289]
+            5621  PRNP; prion protein [KO:K05634]
+            3162  HMOX1; heme oxygenase 1 [KO:K00510] [EC:1.14.14.18]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            1536  CYBB; cytochrome b-245 beta chain [KO:K21421] [EC:1.-.-.-]
+            94033  FTMT; ferritin mitochondrial [KO:K18495]
+COMPOUND    C00010  CoA
+            C00024  Acetyl-CoA
+            C00025  L-Glutamate
+            C00027  Hydrogen peroxide
+            C00032  Heme
+            C00051  Glutathione
+            C00097  L-Cysteine
+            C00127  Glutathione disulfide
+            C00129  Isopentenyl diphosphate
+            C00219  Arachidonate
+            C00356  (S)-3-Hydroxy-3-methylglutaryl-CoA
+            C00418  (R)-Mevalonate
+            C00491  L-Cystine
+            C00669  gamma-L-Glutamyl-L-cysteine
+            C02249  Arachidonyl-CoA
+            C02477  alpha-Tocopherol
+            C11378  Ubiquinone-10
+            C14818  Fe2+
+            C14819  Fe3+
+            C16170  (7Z,10Z,13Z,16Z)-Docosatetraenoyl-CoA
+            C16527  Adrenic acid
+            C16844  Hydroxyl radical
+            C21478  Erastin
+            C21479  RSL3
+            C21480  1-Octadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphoethanolamine
+            C21481  1-Octadecanoyl-2-(7Z,10Z,13Z,16Z-docosatetraenoyl)-sn-glycero-3-phosphoethanolamine
+            C21482  1-Octadecanoyl-2-(15S-hydroxy-5Z,8Z,11Z,13E-eicosatetraenoyl)-sn-glycero-3-phosphoethanolamine
+            C21483  1-Octadecanoyl-2-(15S-hydroperoxy-5Z,8Z,11Z,13E-eicosatetraenoyl)-sn-glycero-3-phosphoethanolamine
+            C21484  1-Octadecanoyl-sn-glycero-3-phosphoethanolamine
+            D00448  Sulfasalazine (USP/INN)
+            D08524  Sorafenib (USAN/INN)
+REFERENCE   PMID:26775689
+  AUTHORS   Conrad M, Angeli JP, Vandenabeele P, Stockwell BR
+  TITLE     Regulated necrosis: disease relevance and therapeutic opportunities.
+  JOURNAL   Nat Rev Drug Discov 15:348-66 (2016)
+            DOI:10.1038/nrd.2015.6
+REFERENCE   PMID:26653790
+  AUTHORS   Yang WS, Stockwell BR
+  TITLE     Ferroptosis: Death by Lipid Peroxidation.
+  JOURNAL   Trends Cell Biol 26:165-76 (2016)
+            DOI:10.1016/j.tcb.2015.10.014
+REFERENCE   PMID:27842066
+  AUTHORS   Kagan VE, Mao G, Qu F, Angeli JP, Doll S, Croix CS, Dar HH, Liu B, Tyurin VA, Ritov VB, Kapralov AA, Amoscato AA, Jiang J, Anthonymuthu T, Mohammadyani D, Yang Q, Proneth B, Klein-Seetharaman J, Watkins S, Bahar I, Greenberger J, Mallampalli RK, Stockwell BR, Tyurina YY, Conrad M, Bayir H
+  TITLE     Oxidized arachidonic and adrenic PEs navigate cells to ferroptosis.
+  JOURNAL   Nat Chem Biol 13:81-90 (2017)
+            DOI:10.1038/nchembio.2238
+REFERENCE   PMID:27842067
+  AUTHORS   D'Herde K, Krysko DV
+  TITLE     Ferroptosis: Oxidized PEs trigger death.
+  JOURNAL   Nat Chem Biol 13:4-5 (2017)
+            DOI:10.1038/nchembio.2261
+REFERENCE   PMID:28082232
+  AUTHORS   Guiney SJ, Adlard PA, Bush AI, Finkelstein DI, Ayton S
+  TITLE     Ferroptosis and cell death mechanisms in Parkinson's disease.
+  JOURNAL   Neurochem Int 104:34-48 (2017)
+            DOI:10.1016/j.neuint.2017.01.004
+REFERENCE   PMID:26725301
+  AUTHORS   Bogdan AR, Miyazawa M, Hashimoto K, Tsuji Y
+  TITLE     Regulators of Iron Homeostasis: New Players in Metabolism, Cell Death, and Disease.
+  JOURNAL   Trends Biochem Sci 41:274-86 (2016)
+            DOI:10.1016/j.tibs.2015.11.012
+REFERENCE   PMID:26794443
+  AUTHORS   Xie Y, Hou W, Song X, Yu Y, Huang J, Sun X, Kang R, Tang D
+  TITLE     Ferroptosis: process and function.
+  JOURNAL   Cell Death Differ 23:369-79 (2016)
+            DOI:10.1038/cdd.2015.158
+REFERENCE   PMID:27791175
+  AUTHORS   Murphy ME
+  TITLE     Ironing out how p53 regulates ferroptosis.
+  JOURNAL   Proc Natl Acad Sci U S A 113:12350-12352 (2016)
+            DOI:10.1073/pnas.1615159113
+REFERENCE   PMID:28129536
+  AUTHORS   Muckenthaler MU, Rivella S, Hentze MW, Galy B
+  TITLE     A Red Carpet for Iron Metabolism.
+  JOURNAL   Cell 168:344-361 (2017)
+            DOI:10.1016/j.cell.2016.12.034
+REFERENCE   PMID:27860262
+  AUTHORS   Yu H, Guo P, Xie X, Wang Y, Chen G
+  TITLE     Ferroptosis, a new form of cell death, and its relationships with tumourous diseases.
+  JOURNAL   J Cell Mol Med 21:648-657 (2017)
+            DOI:10.1111/jcmm.13008
+REFERENCE   PMID:27314071
+  AUTHORS   Wang SJ, Ou Y, Jiang L, Gu W
+  TITLE     Ferroptosis: A missing puzzle piece in the p53 blueprint?
+  JOURNAL   Mol Cell Oncol 3:e1046581 (2016)
+            DOI:10.1080/23723556.2015.1046581
+REFERENCE   PMID:27048822
+  AUTHORS   Cao JY, Dixon SJ
+  TITLE     Mechanisms of ferroptosis.
+  JOURNAL   Cell Mol Life Sci 73:2195-209 (2016)
+            DOI:10.1007/s00018-016-2194-1
+REFERENCE   PMID:26436293
+  AUTHORS   Mancias JD, Pontano Vaites L, Nissim S, Biancur DE, Kim AJ, Wang X, Liu Y, Goessling W, Kimmelman AC, Harper JW
+  TITLE     Ferritinophagy via NCOA4 is required for erythropoiesis and is regulated by iron dependent HERC2-mediated proteolysis.
+  JOURNAL   Elife 4:e10308 (2015)
+            DOI:10.7554/eLife.10308
+REFERENCE   PMID:28066232
+  AUTHORS   Wang YQ, Chang SY, Wu Q, Gou YJ, Jia L, Cui YM, Yu P, Shi ZH, Wu WS, Gao G, Chang YZ
+  TITLE     The Protective Role of Mitochondrial Ferritin on Erastin-Induced Ferroptosis.
+  JOURNAL   Front Aging Neurosci 8:308 (2016)
+            DOI:10.3389/fnagi.2016.00308
+REFERENCE   PMID:26405158
+  AUTHORS   Kwon MY, Park E, Lee SJ, Chung SW
+  TITLE     Heme oxygenase-1 accelerates erastin-induced ferroptotic cell death.
+  JOURNAL   Oncotarget 6:24393-403 (2015)
+            DOI:10.18632/oncotarget.5162
+REFERENCE   PMID:22632964
+  AUTHORS   Reed JC, Pellecchia M
+  TITLE     Ironing out cell death mechanisms.
+  JOURNAL   Cell 149:963-5 (2012)
+            DOI:10.1016/j.cell.2012.05.009
+REL_PATHWAY hsa00480  Glutathione metabolism
+            hsa00900  Terpenoid backbone biosynthesis
+KO_PATHWAY  ko04216
+///

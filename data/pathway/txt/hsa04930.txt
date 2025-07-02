@@ -1,0 +1,166 @@
+ENTRY       hsa04930                    Pathway
+NAME        Type II diabetes mellitus - Homo sapiens (human)
+DESCRIPTION Insulin resistance is strongly associated with type II diabetes. "Diabetogenic" factors including FFA, TNFalpha and cellular stress induce insulin resistance through inhibition of IRS1 functions. Serine/threonine phosphorylation, interaction with SOCS, regulation of the expression, modification of the cellular localization, and degradation represent the molecular mechanisms stimulated by them. Various kinases (ERK, JNK, IKKbeta, PKCzeta, PKCtheta and mTOR) are involved in this process.
+            The development of type II diabetes requires impaired beta-cell function. Chronic hyperglycemia has been shown to induce multiple defects in beta-cells. Hyperglycemia has been proposed to lead to large amounts of reactive oxygen species (ROS) in beta-cells, with subsequent damage to cellular components including PDX-1. Loss of PDX-1, a critical regulator of insulin promoter activity, has also been proposed as an important mechanism leading to beta-cell dysfunction.
+            Although there is little doubt as to the importance of genetic factors in type II diabetes, genetic analysis is difficult due to complex interaction among multiple susceptibility genes and between genetic and environmental factors. Genetic studies have therefore given very diverse results. Kir6.2 and IRS are two of the candidate genes. It is known that Kir6.2 and IRS play central roles in insulin secretion and insulin signal transmission, respectively.
+CLASS       Human Diseases; Endocrine and metabolic disease
+PATHWAY_MAP hsa04930  Type II diabetes mellitus
+DISEASE     H00409  Type 2 diabetes mellitus
+DRUG        D00219  Acetohexamide (JP18/USP/INN)
+            D00271  Chlorpropamide (JP18/USP/INN)
+            D00335  Glipizide (USP/INN)
+            D00336  Glyburide (USP)
+            D00379  Tolazamide (JAN/USP/INN)
+            D00380  Tolbutamide (JP18/USP/INN)
+            D00593  Glimepiride (JP18/USP/INN)
+            D00594  Repaglinide (JAN/USP/INN)
+            D01111  Nateglinide (JP18/USP/INN)
+            D01356  Glymidine sodium (JAN/USAN/INN)
+            D01599  Gliclazide (JP18/INN)
+            D01799  Glyclopyramide (JAN/INN)
+            D01854  Mitiglinide calcium hydrate (JP18)
+            D02425  Carbutamide (INN)
+            D02427  Glibornuride (USAN/INN)
+            D02430  Gliquidone (INN)
+            D03230  Insulin human (USP/INN)
+            D03250  Insulin glargine (USAN/INN)
+            D04050  Ertiprotafib (USAN/INN)
+            D04475  Insulin aspart (USP/INN)
+            D04477  Insulin lispro (USP/INN)
+            D04539  Insulin detemir (USAN/INN)
+            D04540  Insulin glulisine (USAN/INN)
+            D04739  Linogliride (USAN/INN)
+            D04740  Linogliride fumarate (USAN)
+            D06177  Tolbutamide sodium, sterile
+            D07117  Metahexamide (INN)
+            D07118  Glisoxepide (INN)
+            D08970  Piragliatin (USAN)
+            D09727  Insulin degludec (USAN/INN)
+            D11034  Insulin glargine and lixisenatide
+            D11342  Dorzagliatin (USAN)
+            D11567  Insulin degludec and liraglutide
+            D12320  Cadisegliatin (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3630  INS; insulin [KO:K04526]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            8471  IRS4; insulin receptor substrate 4 [KO:K17446]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            6517  SLC2A4; solute carrier family 2 member 4 [KO:K07191]
+            9370  ADIPOQ; adiponectin, C1Q and collagen domain containing [KO:K07296]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            8651  SOCS1; suppressor of cytokine signaling 1 [KO:K04694]
+            8835  SOCS2; suppressor of cytokine signaling 2 [KO:K04695]
+            9021  SOCS3; suppressor of cytokine signaling 3 [KO:K04696]
+            122809  SOCS4; suppressor of cytokine signaling 4 [KO:K04697]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            5581  PRKCE; protein kinase C epsilon [KO:K18050] [EC:2.7.11.13]
+            3651  PDX1; pancreatic and duodenal homeobox 1 [KO:K07594]
+            389692  MAFA; MAF bZIP transcription factor A [KO:K07595]
+            6514  SLC2A2; solute carrier family 2 member 2 [KO:K07593]
+            3101  HK3; hexokinase 3 [KO:K00844] [EC:2.7.1.1]
+            3098  HK1; hexokinase 1 [KO:K00844] [EC:2.7.1.1]
+            3099  HK2; hexokinase 2 [KO:K00844] [EC:2.7.1.1]
+            80201  HKDC1; hexokinase domain containing 1 [KO:K00844] [EC:2.7.1.1]
+            2645  GCK; glucokinase [KO:K12407] [EC:2.7.1.2]
+            5315  PKM; pyruvate kinase M1/2 [KO:K00873] [EC:2.7.1.40]
+            5313  PKLR; pyruvate kinase L/R [KO:K12406] [EC:2.7.1.40]
+            3767  KCNJ11; potassium inwardly rectifying channel subfamily J member 11 [KO:K05004]
+            6833  ABCC8; ATP binding cassette subfamily C member 8 [KO:K05032]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            774  CACNA1B; calcium voltage-gated channel subunit alpha1 B [KO:K04849]
+            777  CACNA1E; calcium voltage-gated channel subunit alpha1 E [KO:K04852]
+            8913  CACNA1G; calcium voltage-gated channel subunit alpha1 G [KO:K04854]
+COMPOUND    C00002  ATP
+            C00022  Pyruvate
+            C00031  D-Glucose
+            C00076  Calcium cation
+            C00162  Fatty acid
+            C00238  Potassium cation
+REFERENCE   PMID:15823385
+  AUTHORS   Stumvoll M, Goldstein BJ, van Haeften TW.
+  TITLE     Type 2 diabetes: principles of pathogenesis and therapy.
+  JOURNAL   Lancet 365:1333-46 (2005)
+            DOI:10.1016/S0140-6736(05)61032-X
+REFERENCE   PMID:15733744
+  AUTHORS   Gual P, Le Marchand-Brustel Y, Tanti JF.
+  TITLE     Positive and negative regulation of insulin signaling through IRS-1 phosphorylation.
+  JOURNAL   Biochimie 87:99-109 (2005)
+            DOI:10.1016/j.biochi.2004.10.019
+REFERENCE   PMID:11078440
+  AUTHORS   Henquin JC.
+  TITLE     Triggering and amplifying pathways of regulation of insulin secretion by glucose.
+  JOURNAL   Diabetes 49:1751-60 (2000)
+            DOI:10.2337/diabetes.49.11.1751
+REFERENCE   PMID:11272200
+  AUTHORS   Chandra J, Zhivotovsky B, Zaitsev S, Juntti-Berggren L, Berggren PO, Orrenius S.
+  TITLE     Role of apoptosis in pancreatic beta-cell death in diabetes.
+  JOURNAL   Diabetes 50 Suppl 1:S44-7 (2001)
+            DOI:10.2337/diabetes.50.2007.S44
+REFERENCE   PMID:15759102
+  AUTHORS   Kaneto H, Matsuoka TA, Nakatani Y, Kawamori D, Miyatsuka T, Matsuhisa M, Yamasaki Y.
+  TITLE     Oxidative stress, ER stress, and the JNK pathway in type 2 diabetes.
+  JOURNAL   J Mol Med 83:429-39 (2005)
+            DOI:10.1007/s00109-005-0640-x
+REFERENCE   PMID:12480546
+  AUTHORS   Sakai K, Matsumoto K, Nishikawa T, Suefuji M, Nakamaru K, Hirashima Y, Kawashima J, Shirotani T, Ichinose K, Brownlee M, Araki E.
+  TITLE     Mitochondrial reactive oxygen species reduce insulin secretion by pancreatic beta-cells.
+  JOURNAL   Biochem Biophys Res Commun 300:216-22 (2003)
+            DOI:10.1016/S0006-291X(02)02832-2
+REFERENCE   PMID:11390407
+  AUTHORS   Kaneto H, Xu G, Song KH, Suzuma K, Bonner-Weir S, Sharma A, Weir GC.
+  TITLE     Activation of the hexosamine pathway leads to deterioration of pancreatic beta-cell function through the induction of oxidative stress.
+  JOURNAL   J Biol Chem 276:31099-104 (2001)
+            DOI:10.1074/jbc.M104115200
+REFERENCE   PMID:9011569
+  AUTHORS   Matsuoka T, Kajimoto Y, Watada H, Kaneto H, Kishimoto M, Umayahara Y, Fujitani Y, Kamada T, Kawamori R, Yamasaki Y.
+  TITLE     Glycation-dependent, reactive oxygen species-mediated suppression of the insulin gene promoter activity in HIT cells.
+  JOURNAL   J Clin Invest 99:144-50 (1997)
+            DOI:10.1172/JCI119126
+REFERENCE   PMID:7491105
+  AUTHORS   Sharma A, Olson LK, Robertson RP, Stein R.
+  TITLE     The reduction of insulin gene transcription in HIT-T15 beta cells chronically exposed to high glucose concentration is associated with the loss of RIPE3b1 and STF-1 transcription factor expression.
+  JOURNAL   Mol Endocrinol 9:1127-34 (1995)
+            DOI:10.1210/mend.9.9.7491105
+REFERENCE   PMID:15258147
+  AUTHORS   Robertson RP.
+  TITLE     Chronic oxidative stress as a central mechanism for glucose toxicity in pancreatic islet beta cells in diabetes.
+  JOURNAL   J Biol Chem 279:42351-4 (2004)
+            DOI:10.1074/jbc.R400019200
+REFERENCE   PMID:9974390
+  AUTHORS   Eto K, Tsubamoto Y, Terauchi Y, Sugiyama T, Kishimoto T, Takahashi N, Yamauchi N, Kubota N, Murayama S, Aizawa T, Akanuma Y, Aizawa S, Kasai H, Yazaki Y, Kadowaki T.
+  TITLE     Role of NADH shuttle system in glucose-induced activation of mitochondrial metabolism and insulin secretion.
+  JOURNAL   Science 283:981-5 (1999)
+            DOI:10.1126/science.283.5404.981
+REFERENCE   PMID:11325516
+  AUTHORS   Novelli M, Fabregat ME, Fernandez-Alvarez J, Gomis R, Masiello P.
+  TITLE     Metabolic and functional studies on isolated islets in a new rat model of type 2 diabetes.
+  JOURNAL   Mol Cell Endocrinol 175:57-66 (2001)
+            DOI:10.1016/S0303-7207(01)00400-2
+REFERENCE   PMID:15585596
+  AUTHORS   Yang SN, Berggren PO.
+  TITLE     Beta-cell CaV channel regulation in physiology and pathophysiology.
+  JOURNAL   Am J Physiol Endocrinol Metab 288:E16-28 (2005)
+            DOI:10.1152/ajpendo.00042.2004
+REL_PATHWAY hsa04210  Apoptosis
+            hsa04910  Insulin signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04950  Maturity onset diabetes of the young
+KO_PATHWAY  ko04930
+///

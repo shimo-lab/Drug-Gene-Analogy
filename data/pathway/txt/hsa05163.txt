@@ -1,0 +1,462 @@
+ENTRY       hsa05163                    Pathway
+NAME        Human cytomegalovirus infection - Homo sapiens (human)
+DESCRIPTION Human cytomegalovirus (HCMV) is an enveloped, double-stranded DNA virus that is a member of beta-herpesvirus family. HCMV is best known for causing significant morbidity and mortality in immunocompromised populations. As with other herpesviruses, HCMV gB and gH/gL envelope glycoproteins are essential for virus entry. HCMV gB could activate the PDGFRA, and induce activation of the oncogenic PI3-K/AKT pathway. Though it is unlikely that HCMV by itself can act as an oncogenic factor, HCMV may have an oncomodulatory role, to catalyze an oncogenic process that has already been initiated. US28, one of the four HCMV-encoded vGPCRs (US27, US28, UL33 and UL78), also has a specific role in the oncomodulatory properties. In addition, HCMV has developed numerous mechanisms for manipulating the host immune system. The virally encoded US2, US3, US6 and US11 gene products all interfere with major histocompatibility complex (MHC) class I antigen presentation. HCMV encodes several immediate early (IE) antiapoptotic proteins (IE1, IE2, vMIA and vICA). These proteins might avoid immune clearance of infected tumor cells by cytotoxic lymphocytes and NK cells.
+CLASS       Human Diseases; Infectious disease: viral
+PATHWAY_MAP hsa05163  Human cytomegalovirus infection
+NETWORK     nt06110  MAPK signaling (viruses and bacteria)
+            nt06114  PI3K signaling (viruses)
+            nt06124  Chemokine signaling (viruses)
+            nt06129  MHC presentation (viruses)
+            nt06130  Cell cycle (viruses)
+            nt06131  Apoptosis (viruses and bacteria)
+            nt06135  Cytoskeletal regulation (viruses and bacteria)
+            nt06150  Cytokine-cytokine receptor interaction (viruses)
+            nt06167  Human cytomegalovirus (HCMV)
+            nt06516  TNF signaling
+            nt06518  JAK-STAT signaling
+            nt06520  CGAS-STING signaling
+  ELEMENT   N00385  HCMV gB to PDGFR-PI3K signaling pathway
+            N00386  HCMV gB to PDGFR-RAS-ERK signaling pathway
+            N00387  HCMV IE1-72/IE2-86 to PI3K signaling pathway
+            N00388  HCMV UL38 to MTOR signaling pathway
+            N00389  HCMV IE1-72 to transcription
+            N00391  HCMV gB to EGFR-PI3K-NFKB signaling pathway
+            N00392  HCMV gB to EGFR-RAS-ERK signaling pathway
+            N00394  HCMV gH to ITGA/B-RhoA signaling pathway
+            N00396  HCMV UL82 to cGAS-STING signaling pathway
+            N00397  HCMV UL26 to NFKB signaling pathway
+            N00398  HCMV IE2-86 to TNF-NFKB signaling pathway
+            N00400  HCMV US28 to GNB/G-PI3K-NFKB signaling pathway
+            N00402  HCMV US28 to GNAQ-PLCB/G-calcineurin signaling pathway
+            N00404  HCMV US28 to GNAI-AC-PKA signaling pathway
+            N00406  HCMV US28 to GNA12/13-Rho signaling pathway
+            N00407  HCMV UL33 to GNAQ-PLCB/G-calcineurin signaling pathway
+            N00409  HCMV UL33 to GNB/G-Rho signaling pathway
+            N00411  HCMV UL33 to GNAS-AC-PKA signaling pathway
+            N00412  HCMV UL33 to GNAI-AC-PKA signaling pathway
+            N00414  HCMV US27 to CXCR4-GNB/G-PLCB-PKC signaling pathway
+            N00416  HCMV vIL10 to IL10-JAK-STAT signaling pathway
+            N00417  HCMV US6 to antigen processing and presentation by MHC class I molecules
+            N00418  HCMV US2/11 to antigen processing and presentation by MHC class I molecules
+            N00419  HCMV US3/10 to antigen processing and presentation by MHC class I molecules
+            N00420  HCMV IE2-86 to p21-cell cycle G1/S
+            N00421  HCMV IE2-86 to p21-cell cycle G1/S
+            N00422  HCMV IE2-86 to cell cycle G1/S
+            N00423  HCMV IE1-72 to cell cycle G1/S
+            N00424  HCMV pp71 to cell cycle G1/S
+            N00425  HCMV UL36 to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00426  HCMV UL37x1 to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00427  HCMV vCXCL to CXCR-GNB/G-PI3K-AKT signaling pathway
+            N00429  HCMV UL22A to CCR5-GNB/G-PLCB/G-PKC signaling pathway
+DISEASE     H00368  Cytomegalovirus infection
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5156  PDGFRA; platelet derived growth factor receptor alpha [KO:K04363] [EC:2.7.10.1]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            7248  TSC1; TSC complex subunit 1 [KO:K07206]
+            7249  TSC2; TSC complex subunit 2 [KO:K07207]
+            6009  RHEB; Ras homolog, mTORC1 binding [KO:K07208]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            1978  EIF4EBP1; eukaryotic translation initiation factor 4E binding protein 1 [KO:K07205]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2002  ELK1; ETS transcription factor ELK1 [KO:K04375]
+            6667  SP1; Sp1 transcription factor [KO:K04684]
+            3685  ITGAV; integrin subunit alpha V [KO:K06487]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            5881  RAC3; Rac family small GTPase 3 [KO:K07861]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            115004  CGAS; cyclic GMP-AMP synthase [KO:K17834] [EC:2.7.7.86]
+            340061  STING1; stimulator of interferon response cGAMP interactor 1 [KO:K12654]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8737  RIPK1; receptor interacting serine/threonine kinase 1 [KO:K02861] [EC:2.7.11.1]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            7188  TRAF5; TNF receptor associated factor 5 [KO:K09849]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3554  IL1R1; interleukin 1 receptor type 1 [KO:K04386]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            3569  IL6; interleukin 6 [KO:K05405]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            4776  NFATC4; nuclear factor of activated T cells 4 [KO:K17334]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            6348  CCL3; C-C motif chemokine ligand 3 [KO:K05408]
+            6349  CCL3L1; C-C motif chemokine ligand 3 like 1 [KO:K05408]
+            414062  CCL3L3; C-C motif chemokine ligand 3 like 3 [KO:K05408]
+            6351  CCL4; C-C motif chemokine ligand 4 [KO:K12964]
+            9560  CCL4L2; C-C motif chemokine ligand 4 like 2 [KO:K12964]
+            388372  CCL4L1; C-C motif chemokine ligand 4 like 1 [KO:K12964]
+            6376  CX3CL1; C-X3-C motif chemokine ligand 1 [KO:K05508]
+            2768  GNA12; G protein subunit alpha 12 [KO:K04346]
+            10672  GNA13; G protein subunit alpha 13 [KO:K04639]
+            9138  ARHGEF1; Rho guanine nucleotide exchange factor 1 [KO:K12330]
+            9826  ARHGEF11; Rho guanine nucleotide exchange factor 11 [KO:K12331]
+            23365  ARHGEF12; Rho guanine nucleotide exchange factor 12 [KO:K07532]
+            11214  AKAP13; A-kinase anchoring protein 13 [KO:K16529]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            5731  PTGER1; prostaglandin E receptor 1 [KO:K04258]
+            5732  PTGER2; prostaglandin E receptor 2 [KO:K04259]
+            5733  PTGER3; prostaglandin E receptor 3 [KO:K04260]
+            5734  PTGER4; prostaglandin E receptor 4 [KO:K04261]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            595  CCND1; cyclin D1 [KO:K04503]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            3570  IL6R; interleukin 6 receptor [KO:K05055]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            6387  CXCL12; C-X-C motif chemokine ligand 12 [KO:K10031]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            2185  PTK2B; protein tyrosine kinase 2 beta [KO:K05871] [EC:2.7.10.2]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            9564  BCAR1; BCAR1 scaffold protein, Cas family member [KO:K05726]
+            1398  CRK; CRK proto-oncogene, adaptor protein [KO:K04438]
+            1399  CRKL; CRK like proto-oncogene, adaptor protein [KO:K04438]
+            5829  PXN; paxillin [KO:K05760]
+            3587  IL10RA; interleukin 10 receptor subunit alpha [KO:K05134]
+            3588  IL10RB; interleukin 10 receptor subunit beta [KO:K05135]
+            3579  CXCR2; C-X-C motif chemokine receptor 2 [KO:K05050]
+            1230  CCR1; C-C motif chemokine receptor 1 [KO:K04176]
+            1232  CCR3; C-C motif chemokine receptor 3 [KO:K04178]
+            1234  CCR5; C-C motif chemokine receptor 5 [KO:K04180]
+            6890  TAP1; transporter 1, ATP binding cassette subfamily B member [KO:K05653] [EC:7.4.2.14]
+            6891  TAP2; transporter 2, ATP binding cassette subfamily B member [KO:K05654] [EC:7.4.2.14]
+            6892  TAPBP; TAP binding protein [KO:K08058]
+            2923  PDIA3; protein disulfide isomerase family A member 3 [KO:K08056] [EC:5.3.4.1]
+            811  CALR; calreticulin [KO:K08057]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            567  B2M; beta-2-microglobulin [KO:K08055]
+            1029  CDKN2A; cyclin dependent kinase inhibitor 2A [KO:K06621]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            637  BID; BH3 interacting domain death agonist [KO:K04726]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00584  Prostaglandin E2
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C20640  Cyclic GMP-AMP
+REFERENCE   PMID:19107226
+  AUTHORS   Michaelis M, Doerr HW, Cinatl J
+  TITLE     The story of human cytomegalovirus and cancer: increasing evidence and open questions.
+  JOURNAL   Neoplasia 11:1-9 (2009)
+            DOI:10.1593/neo.81178
+REFERENCE   PMID:24839861
+  AUTHORS   Roy S, Arav-Boger R
+  TITLE     New cell-signaling pathways for controlling cytomegalovirus replication.
+  JOURNAL   Am J Transplant 14:1249-58 (2014)
+            DOI:10.1111/ajt.12725
+REFERENCE   PMID:14720582
+  AUTHORS   Cinatl J, Scholz M, Kotchetkov R, Vogel JU, Doerr HW
+  TITLE     Molecular mechanisms of the modulatory effects of HCMV infection in tumor cell biology.
+  JOURNAL   Trends Mol Med 10:19-23 (2004)
+            DOI:10.1016/j.molmed.2003.11.002
+REFERENCE   PMID:15380778
+  AUTHORS   Evers DL, Wang X, Huang ES
+  TITLE     Cellular stress and signal transduction responses to human cytomegalovirus infection.
+  JOURNAL   Microbes Infect 6:1084-93 (2004)
+            DOI:10.1016/j.micinf.2004.05.026
+REFERENCE   PMID:29547547
+  AUTHORS   Murray MJ, Peters NE, Reeves MB
+  TITLE     Navigating the Host Cell Response during Entry into Sites of Latent Cytomegalovirus Infection.
+  JOURNAL   Pathogens 7:E30 (2018)
+            DOI:10.3390/pathogens7010030
+REFERENCE   PMID:27501260
+  AUTHORS   Campadelli-Fiume G, Collins-McMillen D, Gianni T, Yurochko AD
+  TITLE     Integrins as Herpesvirus Receptors and Mediators of the Host Signalosome.
+  JOURNAL   Annu Rev Virol 3:215-236 (2016)
+            DOI:10.1146/annurev-virology-110615-035618
+REFERENCE   PMID:28132838
+  AUTHORS   Fu YZ, Su S, Gao YQ, Wang PP, Huang ZF, Hu MM, Luo WW, Li S, Luo MH, Wang YY, Shu HB
+  TITLE     Human Cytomegalovirus Tegument Protein UL82 Inhibits STING-Mediated Signaling to Evade Antiviral Immunity.
+  JOURNAL   Cell Host Microbe 21:231-243 (2017)
+            DOI:10.1016/j.chom.2017.01.001
+REFERENCE   PMID:29082387
+  AUTHORS   Hancock MH, Nelson JA
+  TITLE     Modulation of the NFkappab Signalling Pathway by Human Cytomegalovirus.
+  JOURNAL   Virology (Hyderabad) 1:104 (2017)
+REFERENCE   PMID:21383764
+  AUTHORS   Rahman MM, McFadden G
+  TITLE     Modulation of NF-kappaB signalling by microbial pathogens.
+  JOURNAL   Nat Rev Microbiol 9:291-306 (2011)
+            DOI:10.1038/nrmicro2539
+REFERENCE   PMID:27060663
+  AUTHORS   Zhang J, Feng H, Xu S, Feng P
+  TITLE     Hijacking GPCRs by viral pathogens and tumor.
+  JOURNAL   Biochem Pharmacol 114:69-81 (2016)
+            DOI:10.1016/j.bcp.2016.03.021
+REFERENCE   PMID:28035083
+  AUTHORS   Lee S, Chung YH, Lee C
+  TITLE     US28, a Virally-Encoded GPCR as an Antiviral Target for Human Cytomegalovirus Infection.
+  JOURNAL   Biomol Ther (Seoul) 25:69-79 (2017)
+            DOI:10.4062/biomolther.2016.208
+REFERENCE   PMID:23145028
+  AUTHORS   Langemeijer EV, Slinger E, de Munnik S, Schreiber A, Maussang D, Vischer H, Verkaar F, Leurs R, Siderius M, Smit MJ
+  TITLE     Constitutive beta-catenin signaling by the viral chemokine receptor US28.
+  JOURNAL   PLoS One 7:e48935 (2012)
+            DOI:10.1371/journal.pone.0048935
+REFERENCE   PMID:15990176
+  AUTHORS   Couty JP, Gershengorn MC
+  TITLE     G-protein-coupled receptors encoded by human herpesviruses.
+  JOURNAL   Trends Pharmacol Sci 26:405-11 (2005)
+            DOI:10.1016/j.tips.2005.06.004
+REFERENCE   PMID:25549333
+  AUTHORS   Fiallos E, Judkins J, Matlaf L, Prichard M, Dittmer D, Cobbs C, Soroceanu L
+  TITLE     Human cytomegalovirus gene expression in long-term infected glioma stem cells.
+  JOURNAL   PLoS One 9:e116178 (2014)
+            DOI:10.1371/journal.pone.0116178
+REFERENCE   PMID:24445563
+  AUTHORS   Vischer HF, Siderius M, Leurs R, Smit MJ
+  TITLE     Herpesvirus-encoded GPCRs: neglected players in inflammatory and proliferative diseases?
+  JOURNAL   Nat Rev Drug Discov 13:123-39 (2014)
+            DOI:10.1038/nrd4189
+REFERENCE   PMID:20398729
+  AUTHORS   Slinger E, Langemeijer E, Siderius M, Vischer HF, Smit MJ
+  TITLE     Herpesvirus-encoded GPCRs rewire cellular signaling.
+  JOURNAL   Mol Cell Endocrinol 331:179-84 (2011)
+            DOI:10.1016/j.mce.2010.04.007
+REFERENCE   PMID:11175803
+  AUTHORS   Murphy PM
+  TITLE     Viral exploitation and subversion of the immune system through chemokine mimicry.
+  JOURNAL   Nat Immunol 2:116-22 (2001)
+            DOI:10.1038/84214
+REFERENCE   PMID:16352349
+  AUTHORS   Vischer HF, Leurs R, Smit MJ
+  TITLE     HCMV-encoded G-protein-coupled receptors as constitutively active modulators of cellular signaling networks.
+  JOURNAL   Trends Pharmacol Sci 27:56-63 (2006)
+            DOI:10.1016/j.tips.2005.11.006
+REFERENCE   PMID:25805993
+  AUTHORS   de Munnik SM, Smit MJ, Leurs R, Vischer HF
+  TITLE     Modulation of cellular signaling by herpesvirus-encoded G protein-coupled receptors.
+  JOURNAL   Front Pharmacol 6:40 (2015)
+            DOI:10.3389/fphar.2015.00040
+REFERENCE   PMID:15172446
+  AUTHORS   Michelson S
+  TITLE     Consequences of human cytomegalovirus mimicry.
+  JOURNAL   Hum Immunol 65:465-75 (2004)
+            DOI:10.1016/j.humimm.2004.02.002
+REFERENCE   PMID:29237840
+  AUTHORS   Tu CC, Arnolds KL, O'Connor CM, Spencer JV
+  TITLE     Human Cytomegalovirus UL111A and US27 Gene Products Enhance the CXCL12/CXCR4 Signaling Axis via Distinct Mechanisms.
+  JOURNAL   J Virol 92:e01981-17 (2018)
+            DOI:10.1128/JVI.01981-17
+REFERENCE   PMID:17169327
+  AUTHORS   Busillo JM, Benovic JL
+  TITLE     Regulation of CXCR4 signaling.
+  JOURNAL   Biochim Biophys Acta 1768:952-63 (2007)
+            DOI:10.1016/j.bbamem.2006.11.002
+REFERENCE   PMID:22454101
+  AUTHORS   Noriega V, Redmann V, Gardner T, Tortorella D
+  TITLE     Diverse immune evasion strategies by human cytomegalovirus.
+  JOURNAL   Immunol Res 54:140-51 (2012)
+            DOI:10.1007/s12026-012-8304-8
+REFERENCE   PMID:17145306
+  AUTHORS   Loureiro J, Ploegh HL
+  TITLE     Antigen presentation and the ubiquitin-proteasome system in host-pathogen interactions.
+  JOURNAL   Adv Immunol 92:225-305 (2006)
+            DOI:10.1016/S0065-2776(06)92006-9
+REFERENCE   PMID:10707064
+  AUTHORS   Fortunato EA, McElroy AK, Sanchez I, Spector DH
+  TITLE     Exploitation of cellular signaling and regulatory pathways by human cytomegalovirus.
+  JOURNAL   Trends Microbiol 8:111-9 (2000)
+            DOI:10.1016/S0966-842X(00)01699-1
+REFERENCE   PMID:15389728
+  AUTHORS   Cinatl J Jr, Scholz M, Doerr HW
+  TITLE     Role of tumor cell immune escape mechanisms in cytomegalovirus-mediated oncomodulation.
+  JOURNAL   Med Res Rev 25:167-85 (2005)
+            DOI:10.1002/med.20018
+REFERENCE   PMID:14975530
+  AUTHORS   Cinatl J Jr, Vogel JU, Kotchetkov R, Wilhelm Doerr H
+  TITLE     Oncomodulatory signals by regulatory proteins encoded by human cytomegalovirus: a novel role for viral infection in tumor progression.
+  JOURNAL   FEMS Microbiol Rev 28:59-77 (2004)
+            DOI:10.1016/j.femsre.2003.07.005
+REFERENCE   PMID:12062798
+  AUTHORS   Castillo JP, Kowalik TF
+  TITLE     Human cytomegalovirus immediate early proteins and cell growth control.
+  JOURNAL   Gene 290:19-34 (2002)
+            DOI:10.1016/S0378-1119(02)00566-8
+REFERENCE   PMID:15352160
+  AUTHORS   Kalejta RF
+  TITLE     Human cytomegalovirus pp71: a new viral tool to probe the mechanisms of cell cycle progression and oncogenesis controlled by the retinoblastoma family of tumor suppressors.
+  JOURNAL   J Cell Biochem 93:37-45 (2004)
+            DOI:10.1002/jcb.20177
+REFERENCE   PMID:20969904
+  AUTHORS   Brune W
+  TITLE     Inhibition of programmed cell death by cytomegaloviruses.
+  JOURNAL   Virus Res 157:144-50 (2011)
+            DOI:10.1016/j.virusres.2010.10.012
+REFERENCE   PMID:28869497
+  AUTHORS   Brune W, Andoniou CE
+  TITLE     Die Another Day: Inhibition of Cell Death Pathways by Cytomegalovirus.
+  JOURNAL   Viruses 9:E249 (2017)
+            DOI:10.3390/v9090249
+REFERENCE   PMID:27160907
+  AUTHORS   Yamin R, Lecker LSM, Weisblum Y, Vitenshtein A, Le-Trilling VTK, Wolf DG, Mandelboim O
+  TITLE     HCMV vCXCL1 Binds Several Chemokine Receptors and Preferentially Attracts Neutrophils over NK Cells by Interacting with CXCR2.
+  JOURNAL   Cell Rep 15:1542-1553 (2016)
+            DOI:10.1016/j.celrep.2016.04.042
+REFERENCE   PMID:28488292
+  AUTHORS   Wang X, Sanchez J, Stone MJ, Payne RJ
+  TITLE     Sulfation of the Human Cytomegalovirus Protein UL22A Enhances Binding to the Chemokine RANTES.
+  JOURNAL   Angew Chem Int Ed Engl 56:8490-8494 (2017)
+            DOI:10.1002/anie.201703059
+REL_PATHWAY hsa00590  Arachidonic acid metabolism
+            hsa03050  Proteasome
+            hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04110  Cell cycle
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04612  Antigen processing and presentation
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04630  JAK-STAT signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko05163
+///

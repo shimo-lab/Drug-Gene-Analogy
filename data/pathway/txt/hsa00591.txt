@@ -1,0 +1,106 @@
+ENTRY       hsa00591                    Pathway
+NAME        Linoleic acid metabolism - Homo sapiens (human)
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP hsa00591  Linoleic acid metabolism
+DRUG        D12510  Utreloxastat (USAN/INN)
+DBLINKS     GO: 0043651
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        8399  PLA2G10; phospholipase A2 group X [KO:K01047] [EC:3.1.1.4]
+            26279  PLA2G2D; phospholipase A2 group IID [KO:K01047] [EC:3.1.1.4]
+            30814  PLA2G2E; phospholipase A2 group IIE [KO:K01047] [EC:3.1.1.4]
+            50487  PLA2G3; phospholipase A2 group III [KO:K01047] [EC:3.1.1.4]
+            64600  PLA2G2F; phospholipase A2 group IIF [KO:K01047] [EC:3.1.1.4]
+            81579  PLA2G12A; phospholipase A2 group XIIA [KO:K01047] [EC:3.1.1.4]
+            84647  PLA2G12B; phospholipase A2 group XIIB [KO:K01047] [EC:3.1.1.4]
+            5319  PLA2G1B; phospholipase A2 group IB [KO:K01047] [EC:3.1.1.4]
+            5322  PLA2G5; phospholipase A2 group V [KO:K01047] [EC:3.1.1.4]
+            5320  PLA2G2A; phospholipase A2 group IIA [KO:K01047] [EC:3.1.1.4]
+            391013  PLA2G2C; phospholipase A2 group IIC [KO:K01047] [EC:3.1.1.4]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            8398  PLA2G6; phospholipase A2 group VI [KO:K16343] [EC:3.1.1.4]
+            151056  PLB1; phospholipase B1 [KO:K14621] [EC:3.1.1.4 3.1.1.5]
+            11145  PLAAT3; phospholipase A and acyltransferase 3 [KO:K16817] [EC:3.1.1.32 3.1.1.4]
+            54979  PLAAT2; phospholipase A and acyltransferase 2 [KO:K16817] [EC:3.1.1.32 3.1.1.4]
+            246  ALOX15; arachidonate 15-lipoxygenase [KO:K00460] [EC:1.13.11.33]
+            1544  CYP1A2; cytochrome P450 family 1 subfamily A member 2 [KO:K07409] [EC:1.14.14.1]
+            1558  CYP2C8; cytochrome P450 family 2 subfamily C member 8 [KO:K17718] [EC:1.14.14.1]
+            1559  CYP2C9; cytochrome P450 family 2 subfamily C member 9 [KO:K17719] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.-]
+            1557  CYP2C19; cytochrome P450 family 2 subfamily C member 19 [KO:K17721] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.75 1.14.14.-]
+            1573  CYP2J2; cytochrome P450 family 2 subfamily J member 2 [KO:K07418] [EC:1.14.14.1 1.14.14.73 1.14.14.74 1.14.14.75]
+            1571  CYP2E1; cytochrome P450 family 2 subfamily E member 1 [KO:K07415] [EC:1.14.14.-]
+            1576  CYP3A4; cytochrome P450 family 3 subfamily A member 4 [KO:K17689] [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.14.-]
+COMPOUND    C00157  Phosphatidylcholine
+            C00219  Arachidonate
+            C01595  Linoleate
+            C03242  Dihomo-gamma-linolenate
+            C04056  Rumenic acid
+            C04717  (9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid
+            C06426  (6Z,9Z,12Z)-Octadecatrienoic acid
+            C07289  Crepenynate
+            C07338  (9Z,12Z)-(11S)-11-Hydroperoxyoctadeca-9,12-dienoic acid
+            C07354  (7S,8S)-DiHODE
+            C14762  13(S)-HODE
+            C14765  13-OxoODE
+            C14766  9-OxoODE
+            C14767  9(S)-HODE
+            C14825  9(10)-EpOME
+            C14826  12(13)-EpOME
+            C14827  9(S)-HPODE
+            C14828  9,10-DHOME
+            C14829  12,13-DHOME
+            C14831  8(R)-HPODE
+            C14832  12,13-Epoxy-9-hydroxy-10-octadecenoate
+            C14833  9,12,13-TriHOME
+            C14834  9,10-Epoxy-13-hydroxy-11-octadecenoate
+            C14835  9,10,13-TriHOME
+            C14836  9,10-12,13-Diepoxyoctadecanoate
+            C14837  9,10-Dihydroxy-12,13-epoxyoctadecanoate
+            C19937  (8E,10R,12Z)-10-Hydroperoxy-8,12-octadecadienoate
+            C20186  5S,8R-DiHODE
+REFERENCE   PMID:14757320
+  AUTHORS   Nowak G, Grant DF, Moran JH.
+  TITLE     Linoleic acid epoxide promotes the maintenance of mitochondrial function and active Na+ transport following hypoxia.
+  JOURNAL   Toxicol Lett 147:161-75 (2004)
+            DOI:10.1016/j.toxlet.2003.11.002
+REFERENCE   PMID:12909723
+  AUTHORS   Shureiqi I, Jiang W, Zuo X, Wu Y, Stimmel JB, Leesnitzer LM, Morris JS, Fan HZ, Fischer SM, Lippman SM.
+  TITLE     The 15-lipoxygenase-1 product 13-S-hydroxyoctadecadienoic acid down-regulates PPAR-delta to induce apoptosis in colorectal cancer cells.
+  JOURNAL   Proc Natl Acad Sci U S A 100:9968-73 (2003)
+            DOI:10.1073/pnas.1631086100
+REFERENCE   PMID:12324235
+  AUTHORS   Spiteller G.
+  TITLE     Do changes in the cell membrane structure induce the generation of lipid peroxidation products which serve as first signalling molecules in cell to cell communication?
+  JOURNAL   Prostaglandins Leukot Essent Fatty Acids 67:151-62 (2002)
+            DOI:10.1054/plef.2002.0413
+REFERENCE   PMID:11302930
+  AUTHORS   Jude AR, Little JM, Bull AW, Podgorski I, Radominska-Pandya A.
+  TITLE     13-hydroxy- and 13-oxooctadecadienoic acids: novel substrates for human UDP-glucuronosyltransferases.
+  JOURNAL   Drug Metab Dispos 29:652-5 (2001)
+REFERENCE   PMID:9694817
+  AUTHORS   Su C, Sahlin M, Oliw EH.
+  TITLE     A protein radical and ferryl intermediates are generated by linoleate diol synthase, a ferric hemeprotein with dioxygenase and hydroperoxide isomerase activities.
+  JOURNAL   J Biol Chem 273:20744-51 (1998)
+            DOI:10.1074/jbc.273.33.20744
+REFERENCE   PMID:1634517
+  AUTHORS   Brodowsky ID, Hamberg M, Oliw EH.
+  TITLE     A linoleic acid (8R)-dioxygenase and hydroperoxide isomerase of the fungus Gaeumannomyces graminis. Biosynthesis of (8R)-hydroxylinoleic acid and (7S,8S)-dihydroxylinoleic acid from (8R)-hydroperoxylinoleic acid.
+  JOURNAL   J Biol Chem 267:14738-45 (1992)
+REFERENCE   PMID:12226220
+  AUTHORS   Hamberg M, Hamberg G.
+  TITLE     Peroxygenase-Catalyzed Fatty Acid Epoxidation in Cereal Seeds (Sequential Oxidation of Linoleic Acid into 9(S),12(S),13(S)-Trihydroxy-10(E)-Octadecenoic Acid).
+  JOURNAL   Plant Physiol 110:807-815 (1996)
+            DOI:10.1104/pp.110.3.807
+REFERENCE   PMID:8765137
+  AUTHORS   Moghaddam M, Motoba K, Borhan B, Pinot F, Hammock BD.
+  TITLE     Novel metabolic pathways for linoleic and arachidonic acid metabolism.
+  JOURNAL   Biochim Biophys Acta 1290:327-39 (1996)
+            DOI:10.1016/0304-4165(96)00037-2
+REL_PATHWAY hsa00590  Arachidonic acid metabolism
+KO_PATHWAY  ko00591
+///

@@ -1,0 +1,128 @@
+ENTRY       hsa04137                    Pathway
+NAME        Mitophagy - animal - Homo sapiens (human)
+DESCRIPTION Mitochondria act as the energy powerhouse of the cell, and are essential for eukaryotic cells to grow and function normally. However, deleterious byproducts of oxidative phosphorylation process called reactive oxidative species (ROS) lead to mitochondrial dysfunction. If the damage is too excessive to be repaired, such mitochondria are selectively recognized and targeted for degradation by a specific mode of autophagy, termed mitophagy. The loss of the mitochondrial membrane potential can induce mitophagy, involving the kinase PINK1 and the E3 ligase Parkin. PINK1 serves as the sensor for the mitochondrial depolarization and recruits Parkin, followed by ubiquitin-dependent recruitment of mitophagy receptors. There are also several PINK1/Parkin-independent mitophagy pathways, in which a group of LIR-containing receptors are required in response to different stimuli. Mitophagy contributes to the maintenance of a healthy mitochondrial network and the prevention of programmed cell death.
+CLASS       Cellular Processes; Transport and catabolism
+PATHWAY_MAP hsa04137  Mitophagy - animal
+NETWORK     nt06421  Mitophagy
+            nt06463  Parkinson disease
+            nt06464  Amyotrophic lateral sclerosis
+  ELEMENT   N01052  PINK1-Parkin-mediated MFN2 degradation
+            N01137  PINK-Parkin-mediated autophagosome formation
+            N01140  TBK1-mediated autophagosome formation
+DBLINKS     GO: 0000422
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        23786  BCL2L13; BCL2 like 13 [KO:K15485]
+            9451  EIF2AK3; eukaryotic translation initiation factor 2 alpha kinase 3 [KO:K08860] [EC:2.7.11.1]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            65018  PINK1; PTEN induced kinase 1 [KO:K05688] [EC:2.7.11.1]
+            54543  TOMM7; translocase of outer mitochondrial membrane 7 [KO:K17771]
+            5071  PRKN; parkin RBR E3 ubiquitin protein ligase [KO:K04556] [EC:2.3.2.31]
+            7311  UBA52; ubiquitin A-52 residue ribosomal protein fusion product 1 [KO:K02927]
+            6233  RPS27A; ribosomal protein S27a [KO:K02977]
+            7314  UBB; ubiquitin B [KO:K04551]
+            7316  UBC; ubiquitin C [KO:K08770]
+            55669  MFN1; mitofusin 1 [KO:K21356] [EC:3.6.5.-]
+            9927  MFN2; mitofusin 2 [KO:K06030] [EC:3.6.5.-]
+            55288  RHOT1; ras homolog family member T1 [KO:K07870] [EC:3.6.5.-]
+            89941  RHOT2; ras homolog family member T2 [KO:K07871] [EC:3.6.5.-]
+            9101  USP8; ubiquitin specific peptidase 8 [KO:K11839] [EC:3.4.19.12]
+            9958  USP15; ubiquitin specific peptidase 15 [KO:K21343] [EC:3.4.19.12]
+            84749  USP30; ubiquitin specific peptidase 30 [KO:K11851] [EC:3.4.19.12]
+            8887  TAX1BP1; Tax1 binding protein 1 [KO:K21347]
+            8878  SQSTM1; sequestosome 1 [KO:K14381]
+            10241  CALCOCO2; calcium binding and coiled-coil domain 2 [KO:K21348]
+            10133  OPTN; optineurin [KO:K19946]
+            4077  NBR1; NBR1 autophagy cargo receptor [KO:K17987]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            11337  GABARAP; GABA type A receptor-associated protein [KO:K08341]
+            23710  GABARAPL1; GABA type A receptor associated protein like 1 [KO:K08341]
+            11345  GABARAPL2; GABA type A receptor associated protein like 2 [KO:K08341]
+            440738  MAP1LC3C; microtubule associated protein 1 light chain 3 gamma [KO:K10435]
+            81631  MAP1LC3B; microtubule associated protein 1 light chain 3 beta [KO:K10435]
+            84557  MAP1LC3A; microtubule associated protein 1 light chain 3 alpha [KO:K10435]
+            643246  MAP1LC3B2; microtubule associated protein 1 light chain 3 beta 2 [KO:K10435]
+            55626  AMBRA1; autophagy and beclin 1 regulator 1 [KO:K17985]
+            9474  ATG5; autophagy related 5 [KO:K08339]
+            285973  ATG9B; autophagy related 9B [KO:K17907]
+            79065  ATG9A; autophagy related 9A [KO:K17907]
+            4286  MITF; melanocyte inducing transcription factor [KO:K09455]
+            7942  TFEB; transcription factor EB [KO:K15590]
+            7030  TFE3; transcription factor binding to IGHM enhancer 3 [KO:K09105]
+            8678  BECN1; beclin 1 [KO:K08334]
+            441925  BECN2; beclin 2 [KO:K08334]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            192111  PGAM5; PGAM family member 5, mitochondrial serine/threonine protein phosphatase [KO:K15637] [EC:3.1.3.16]
+            1457  CSNK2A1; casein kinase 2 alpha 1 [KO:K03097] [EC:2.7.11.1]
+            1459  CSNK2A2; casein kinase 2 alpha 2 [KO:K03097] [EC:2.7.11.1]
+            283106  CSNK2A3; casein kinase 2 alpha 3 [KO:K03097] [EC:2.7.11.1]
+            1460  CSNK2B; casein kinase 2 beta [KO:K03115]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            8408  ULK1; unc-51 like autophagy activating kinase 1 [KO:K21357] [EC:2.7.11.1]
+            139341  FUNDC1; FUN14 domain containing 1 [KO:K17986]
+            3091  HIF1A; hypoxia inducible factor 1 subunit alpha [KO:K08268]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            664  BNIP3; BCL2 interacting protein 3 [KO:K15464]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            22808  MRAS; muscle RAS oncogene homolog [KO:K07831]
+            6237  RRAS; RAS related [KO:K07829]
+            22800  RRAS2; RAS related 2 [KO:K07830]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            665  BNIP3L; BCL2 interacting protein 3 like [KO:K15465]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            10370  CITED2; Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2 [KO:K21361]
+            6667  SP1; Sp1 transcription factor [KO:K04684]
+            64786  TBC1D15; TBC1 domain family member 15 [KO:K20168]
+            79735  TBC1D17; TBC1 domain family member 17 [KO:K19945]
+            7879  RAB7A; RAB7A, member RAS oncogene family [KO:K07897]
+            338382  RAB7B; RAB7B, member RAS oncogene family [KO:K07898]
+            51024  FIS1; fission, mitochondrial 1 [KO:K17969]
+REFERENCE   PMID:25611507
+  AUTHORS   Pickrell AM, Youle RJ
+  TITLE     The roles of PINK1, parkin, and mitochondrial fidelity in Parkinson's disease.
+  JOURNAL   Neuron 85:257-73 (2015)
+            DOI:10.1016/j.neuron.2014.12.007
+REFERENCE   PMID:25995186
+  AUTHORS   Durcan TM, Fon EA
+  TITLE     The three 'P's of mitophagy: PARKIN, PINK1, and post-translational modifications.
+  JOURNAL   Genes Dev 29:989-99 (2015)
+            DOI:10.1101/gad.262758.115
+REFERENCE   PMID:25999423
+  AUTHORS   Shirihai OS, Song M, Dorn GW 2nd
+  TITLE     How mitochondrial dynamism orchestrates mitophagy.
+  JOURNAL   Circ Res 116:1835-49 (2015)
+            DOI:10.1161/CIRCRESAHA.116.306374
+REFERENCE   PMID:26611876
+  AUTHORS   Hamacher-Brady A, Brady NR
+  TITLE     Mitophagy programs: mechanisms and physiological implications of mitochondrial targeting by autophagy.
+  JOURNAL   Cell Mol Life Sci 73:775-95 (2016)
+            DOI:10.1007/s00018-015-2087-8
+REFERENCE   PMID:26882551
+  AUTHORS   Yamano K, Matsuda N, Tanaka K
+  TITLE     The ubiquitin signal and autophagy: an orchestrated dance leading to mitochondrial degradation.
+  JOURNAL   EMBO Rep 17:300-16 (2016)
+            DOI:10.15252/embr.201541486
+REFERENCE   PMID:27021519
+  AUTHORS   Yamaguchi O, Murakawa T, Nishida K, Otsu K
+  TITLE     Receptor-mediated mitophagy.
+  JOURNAL   J Mol Cell Cardiol 95:50-6 (2016)
+            DOI:10.1016/j.yjmcc.2016.03.010
+REFERENCE   PMID:27443527
+  AUTHORS   Roberts RF, Tang MY, Fon EA, Durcan TM
+  TITLE     Defending the mitochondria: The pathways of mitophagy and mitochondrial-derived vesicles.
+  JOURNAL   Int J Biochem Cell Biol 79:427-436 (2016)
+            DOI:10.1016/j.biocel.2016.07.020
+REFERENCE   PMID:27701735
+  AUTHORS   Arena G, Valente EM
+  TITLE     PINK1 in the limelight: multiple functions of an eclectic protein in human health and disease.
+  JOURNAL   J Pathol 241:251-263 (2017)
+            DOI:10.1002/path.4815
+REL_PATHWAY hsa04140  Autophagy - animal
+KO_PATHWAY  ko04137
+///

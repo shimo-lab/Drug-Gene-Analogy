@@ -1,0 +1,73 @@
+ENTRY       hsa00603                    Pathway
+NAME        Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human)
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+MODULE      hsa_M00068  Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer [PATH:hsa00603]
+DBLINKS     GO: 0001576 1990387
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        127550  A3GALT2; alpha 1,3-galactosyltransferase 2 [KO:K20736] [EC:2.4.1.87]
+            8706  B3GALNT1; beta-1,3-N-acetylgalactosaminyltransferase 1 (globoside blood group) [KO:K00719] [EC:2.4.1.79]
+            26301  GBGT1; globoside alpha-1,3-N-acetylgalactosaminyltransferase 1 (FORS blood group) [KO:K00722] [EC:2.4.1.88]
+            53947  A4GALT; alpha 1,4-galactosyltransferase (P blood group) [KO:K01988] [EC:2.4.1.228]
+            2717  GLA; galactosidase alpha [KO:K01189] [EC:3.2.1.22]
+            10317  B3GALT5; beta-1,3-galactosyltransferase 5 [KO:K03877] [EC:2.4.1.-]
+            3073  HEXA; hexosaminidase subunit alpha [KO:K12373] [EC:3.2.1.52]
+            3074  HEXB; hexosaminidase subunit beta [KO:K12373] [EC:3.2.1.52]
+            4668  NAGA; alpha-N-acetylgalactosaminidase [KO:K01204] [EC:3.2.1.49]
+            2523  FUT1; fucosyltransferase 1 (H blood group) [KO:K00718] [EC:2.4.1.69]
+            2524  FUT2; fucosyltransferase 2 [KO:K00718] [EC:2.4.1.69]
+            6482  ST3GAL1; ST3 beta-galactoside alpha-2,3-sialyltransferase 1 [KO:K00780] [EC:2.4.3.2 2.4.3.4]
+            6483  ST3GAL2; ST3 beta-galactoside alpha-2,3-sialyltransferase 2 [KO:K03368] [EC:2.4.3.2 2.4.3.4]
+            6489  ST8SIA1; ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 1 [KO:K03371] [EC:2.4.3.8]
+            10690  FUT9; fucosyltransferase 9 [KO:K03663] [EC:2.4.1.152]
+COMPOUND    G00092  Lactosylceramide
+            G00093  Globotriaosylceramide
+            G00094  Globoside
+            G00095  Forssman antigen, IV3GalNAca-Gb4Cer
+            G00096  IV3GalNAcb-Gb4Cer
+            G00097  Galactosylgloboside
+            G00098  Monosialylgalactosylgloboside
+            G00099  Globo-H
+            G00100  V3(NeuAc)2-Gb5Cer
+            G00101
+            G00102
+            G00103
+            G00104
+            G00105  GalGb3Cer
+            G00106
+            G00107
+            G00181  Disialosylglobopentaosylceramide
+            G00392  iGb4-Cer
+            G00403  iGb3-Cer
+            G02977
+            G11492  IV4-alpha-Gal-Gb4Cer
+            G13080  NORint
+            G13081  NOR2 antigen
+REFERENCE   PMID:12716912
+  AUTHORS   Saito S, Aoki H, Ito A, Ueno S, Wada T, Mitsuzuka K, Satoh M, Arai Y, Miyagi T.
+  TITLE     Human alpha2,3-sialyltransferase (ST3Gal II) is a stage-specific embryonic antigen-4 synthase.
+  JOURNAL   J Biol Chem 278:26474-9 (2003)
+            DOI:10.1074/jbc.M213223200
+REFERENCE   PMID:10837462
+  AUTHORS   Zhou D, Henion TR, Jungalwala FB, Berger EG, Hennet T.
+  TITLE     The beta 1,3-galactosyltransferase beta 3GalT-V is a stage-specific embryonic antigen-3 (SSEA-3) synthase.
+  JOURNAL   J Biol Chem 275:22631-4 (2000)
+            DOI:10.1074/jbc.C000263200
+REFERENCE   PMID:10748143
+  AUTHORS   Kojima Y, Fukumoto S, Furukawa K, Okajima T, Wiels J, Yokoyama K, Suzuki Y, Urano T, Ohta M, Furukawa K.
+  TITLE     Molecular cloning of globotriaosylceramide/CD77 synthase, aglycosyltransferase that initiates the synthesis of globo seriesglycosphingolipids.
+  JOURNAL   J Biol Chem 275:15152-6 (2000)
+            DOI:10.1074/jbc.M909620199
+REFERENCE   PMID:10854428
+  AUTHORS   Keusch JJ, Manzella SM, Nyame KA, Cummings RD, Baenziger JU.
+  TITLE     Cloning of Gb3 synthase, the key enzyme in globo-series glycosphingolipidsynthesis, predicts a family of alpha 1, 4-glycosyltransferases conservedin plants, insects, and mammals.
+  JOURNAL   J Biol Chem 275:25315-21 (2000)
+            DOI:10.1074/jbc.M002630200
+REFERENCE   PMID:10854427
+  AUTHORS   Keusch JJ, Manzella SM, Nyame KA, Cummings RD, Baenziger JU
+  TITLE     Expression cloning of a new member of the ABO blood group glycosyltransferases, iGb3 synthase, that directs the synthesis of isoglobo-glycosphingolipids.
+  JOURNAL   J Biol Chem 275:25308-14 (2000)
+            DOI:10.1074/jbc.M002629200
+REL_PATHWAY hsa00600  Sphingolipid metabolism
+KO_PATHWAY  ko00603
+///

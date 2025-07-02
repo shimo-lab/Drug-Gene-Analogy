@@ -1,0 +1,117 @@
+ENTRY       hsa01522                    Pathway
+NAME        Endocrine resistance - Homo sapiens (human)
+DESCRIPTION Endocrine therapy is a key treatment strategy to control or eradicate hormone-responsive breast cancer. The most commonly used endocrine therapy agents are selective estrogen receptor modulators (SERMs, e.g. tamoxifen), estrogen synthesis inhibitors (e.g. aromatase inhibitors (AIs) such as anastrozole, letrozole, and exemestane), and selective estrogen receptor down-regulators (SERDs, e.g. fulvestrant). However, resistance to these agents has become a major clinical obstacle. Mechanisms of endocrine resistance include loss of ER-alpha expression, altered expression of coactivators or coregulators that play a critical role in ER-mediated gene transcription, ligand-independent growth factor signaling cascades that activate kinases and ER-phosphorylation, altered availability of active tamoxifen metabolites regulated by drug-metabolizing enzymes, such as CYP2D6, and deregulation of the cell cycle and apoptotic machinery.
+CLASS       Human Diseases; Drug resistance: antineoplastic
+PATHWAY_MAP hsa01522  Endocrine resistance
+DRUG        D03793  Ilomastat (USAN/INN)
+            D03795  Marimastat (USAN/INN)
+            D03797  Prinomastat (USAN/INN)
+            D03802  Tanomastat (USAN/INN)
+            D07928  Ethinylestradiol propanesulfonate
+            D11262  Andecaliximab (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+REFERENCE   PMID:23344024
+  AUTHORS   Garcia-Becerra R, Santos N, Diaz L, Camacho J
+  TITLE     Mechanisms of resistance to endocrine therapy in breast cancer: focus on signaling pathways, miRNAs and genetically based resistance.
+  JOURNAL   Int J Mol Sci 14:108-45 (2012)
+            DOI:10.3390/ijms14010108
+REFERENCE   PMID:19701242
+  AUTHORS   Musgrove EA, Sutherland RL
+  TITLE     Biological determinants of endocrine resistance in breast cancer.
+  JOURNAL   Nat Rev Cancer 9:631-43 (2009)
+            DOI:10.1038/nrc2713
+REFERENCE   PMID:22015292
+  AUTHORS   Giuliano M, Schifp R, Osborne CK, Trivedi MV
+  TITLE     Biological mechanisms and clinical implications of endocrine resistance in breast cancer.
+  JOURNAL   Breast 20 Suppl 3:S42-9 (2011)
+            DOI:10.1016/S0960-9776(11)70293-4
+REFERENCE   PMID:25907219
+  AUTHORS   Ma CX, Reinert T, Chmielewska I, Ellis MJ
+  TITLE     Mechanisms of aromatase inhibitor resistance.
+  JOURNAL   Nat Rev Cancer 15:261-75 (2015)
+            DOI:10.1038/nrc3920
+REFERENCE   PMID:24841429
+  AUTHORS   Viedma-Rodriguez R, Baiza-Gutman L, Salamanca-Gomez F, Diaz-Zaragoza M, Martinez-Hernandez G, Ruiz Esparza-Garrido R, Velazquez-Flores MA, Arenas-Aranda D
+  TITLE     Mechanisms associated with resistance to tamoxifen in estrogen receptor-positive breast cancer (review).
+  JOURNAL   Oncol Rep 32:3-15 (2014)
+            DOI:10.3892/or.2014.3190
+REFERENCE   PMID:26849149
+  AUTHORS   Luqmani YA, Alam-Eldin N
+  TITLE     Overcoming Resistance to Endocrine Therapy in Breast Cancer: New Approaches to a Nagging Problem.
+  JOURNAL   Med Princ Pract 25 Suppl 2:28-40 (2016)
+            DOI:10.1159/000444451
+REFERENCE   PMID:22771991
+  AUTHORS   Bianco S, Gevry N
+  TITLE     Endocrine resistance in breast cancer: from cellular signaling pathways to epigenetic mechanisms.
+  JOURNAL   Transcription 3:165-70 (2012)
+            DOI:10.4161/trns.20496
+REFERENCE   PMID:20887199
+  AUTHORS   Osborne CK, Schiff R
+  TITLE     Mechanisms of endocrine resistance in breast cancer.
+  JOURNAL   Annu Rev Med 62:233-47 (2011)
+            DOI:10.1146/annurev-med-070909-182917
+REFERENCE   PMID:23714450
+  AUTHORS   Miller TW
+  TITLE     Endocrine resistance: what do we know?
+  JOURNAL   Am Soc Clin Oncol Educ Book 0011300037 (2013)
+            DOI:10.1200/EdBook_AM.2013.33.e37
+REFERENCE   PMID:23625614
+  AUTHORS   Lonning PE, Eikesdal HP
+  TITLE     Aromatase inhibition 2013: clinical state of the art and questions that remain to be solved.
+  JOURNAL   Endocr Relat Cancer 20:R183-201 (2013)
+            DOI:10.1530/ERC-13-0099
+REFERENCE   PMID:26473850
+  AUTHORS   Egeland NG, Lunde S, Jonsdottir K, Lende TH, Cronin-Fenton D, Gilje B, Janssen EA, Soiland H
+  TITLE     The Role of MicroRNAs as Predictors of Response to Tamoxifen Treatment in Breast Cancer Patients.
+  JOURNAL   Int J Mol Sci 16:24243-75 (2015)
+            DOI:10.3390/ijms161024243
+REFERENCE   PMID:24130921
+  AUTHORS   Chang M
+  TITLE     Tamoxifen resistance in breast cancer.
+  JOURNAL   Biomol Ther (Seoul) 20:256-67 (2012)
+            DOI:10.4062/biomolther.2012.20.3.256
+REFERENCE   PMID:18804516
+  AUTHORS   Zilli M, Grassadonia A, Tinari N, Di Giacobbe A, Gildetti S, Giampietro J, Natoli C, Iacobelli S
+  TITLE     Molecular mechanisms of endocrine resistance and their implication in the therapy of breast cancer.
+  JOURNAL   Biochim Biophys Acta 1795:62-81 (2009)
+            DOI:10.1016/j.bbcan.2008.08.003
+REFERENCE   PMID:24289103
+  AUTHORS   Mo Z, Liu M, Yang F, Luo H, Li Z, Tu G, Yang G
+  TITLE     GPR30 as an initiator of tamoxifen resistance in hormone-dependent breast cancer.
+  JOURNAL   Breast Cancer Res 15:R114 (2013)
+            DOI:10.1186/bcr3581
+REFERENCE   PMID:24415977
+  AUTHORS   Hasson SP, Rubinek T, Ryvo L, Wolf I
+  TITLE     Endocrine resistance in breast cancer: focus on the phosphatidylinositol 3-kinase/akt/mammalian target of rapamycin signaling pathway.
+  JOURNAL   Breast Care (Basel) 8:248-55 (2013)
+            DOI:10.1159/000354757
+REFERENCE   PMID:15613444
+  AUTHORS   Ring A, Dowsett M
+  TITLE     Mechanisms of tamoxifen resistance.
+  JOURNAL   Endocr Relat Cancer 11:643-58 (2004)
+            DOI:10.1677/erc.1.00776
+REFERENCE   PMID:24565562
+  AUTHORS   Ribeiro JR, Freiman RN
+  TITLE     Estrogen signaling crosstalk: Implications for endocrine resistance in ovarian cancer.
+  JOURNAL   J Steroid Biochem Mol Biol 143:160-73 (2014)
+            DOI:10.1016/j.jsbmb.2014.02.010
+REFERENCE   PMID:20960099
+  AUTHORS   Wang D, Hu L, Zhang G, Zhang L, Chen C
+  TITLE     G protein-coupled receptor 30 in tumor development.
+  JOURNAL   Endocrine 38:29-37 (2010)
+            DOI:10.1007/s12020-010-9363-z
+REFERENCE   PMID:26122181
+  AUTHORS   Jeselsohn R, Buchwalter G, De Angelis C, Brown M, Schiff R
+  TITLE     ESR1 mutations-a mechanism for acquired endocrine resistance in breast cancer.
+  JOURNAL   Nat Rev Clin Oncol 12:573-83 (2015)
+            DOI:10.1038/nrclinonc.2015.117
+REL_PATHWAY hsa00982  Drug metabolism - cytochrome P450
+            hsa04010  MAPK signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04110  Cell cycle
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04330  Notch signaling pathway
+            hsa04913  Ovarian steroidogenesis
+KO_PATHWAY  ko01522
+///

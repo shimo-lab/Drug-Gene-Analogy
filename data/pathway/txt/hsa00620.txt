@@ -1,0 +1,105 @@
+ENTRY       hsa00620                    Pathway
+NAME        Pyruvate metabolism - Homo sapiens (human)
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP hsa00620  Pyruvate metabolism
+MODULE      hsa_M00307  Pyruvate oxidation, pyruvate => acetyl-CoA [PATH:hsa00620]
+DRUG        D00123  Cyanamide (JP18)
+            D00131  Disulfiram (JP18/USP/INN)
+            D11408  Mitapivat sulfate (USAN)
+            D12362  Etavopivat (USAN/INN)
+DBLINKS     GO: 0006090
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        84532  ACSS1; acyl-CoA synthetase short chain family member 1 [KO:K01895] [EC:6.2.1.1]
+            55902  ACSS2; acyl-CoA synthetase short chain family member 2 [KO:K01895] [EC:6.2.1.1]
+            5161  PDHA2; pyruvate dehydrogenase E1 subunit alpha 2 [KO:K00161] [EC:1.2.4.1]
+            5160  PDHA1; pyruvate dehydrogenase E1 subunit alpha 1 [KO:K00161] [EC:1.2.4.1]
+            5162  PDHB; pyruvate dehydrogenase E1 subunit beta [KO:K00162] [EC:1.2.4.1]
+            1737  DLAT; dihydrolipoamide S-acetyltransferase [KO:K00627] [EC:2.3.1.12]
+            1738  DLD; dihydrolipoamide dehydrogenase [KO:K00382] [EC:1.8.1.4]
+            124  ADH1A; alcohol dehydrogenase 1A (class I), alpha polypeptide [KO:K13951] [EC:1.1.1.1]
+            125  ADH1B; alcohol dehydrogenase 1B (class I), beta polypeptide [KO:K13951] [EC:1.1.1.1]
+            126  ADH1C; alcohol dehydrogenase 1C (class I), gamma polypeptide [KO:K13951] [EC:1.1.1.1]
+            131  ADH7; alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [KO:K13951] [EC:1.1.1.1]
+            127  ADH4; alcohol dehydrogenase 4 (class II), pi polypeptide [KO:K13980] [EC:1.1.1.1]
+            130  ADH6; alcohol dehydrogenase 6 (class V) [KO:K13952] [EC:1.1.1.1]
+            128  ADH5; alcohol dehydrogenase 5 (class III), chi polypeptide [KO:K00121] [EC:1.1.1.284 1.1.1.1]
+            10327  AKR1A1; aldo-keto reductase family 1 member A1 [KO:K00002] [EC:1.1.1.2]
+            5315  PKM; pyruvate kinase M1/2 [KO:K00873] [EC:2.7.1.40]
+            5313  PKLR; pyruvate kinase L/R [KO:K12406] [EC:2.7.1.40]
+            31  ACACA; acetyl-CoA carboxylase alpha [KO:K11262] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            32  ACACB; acetyl-CoA carboxylase beta [KO:K01946] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            98  ACYP2; acylphosphatase 2 [KO:K01512] [EC:3.6.1.7]
+            97  ACYP1; acylphosphatase 1 [KO:K01512] [EC:3.6.1.7]
+            217  ALDH2; aldehyde dehydrogenase 2 family member [KO:K00128] [EC:1.2.1.3]
+            224  ALDH3A2; aldehyde dehydrogenase 3 family member A2 [KO:K00128] [EC:1.2.1.3]
+            219  ALDH1B1; aldehyde dehydrogenase 1 family member B1 [KO:K00128] [EC:1.2.1.3]
+            501  ALDH7A1; aldehyde dehydrogenase 7 family member A1 [KO:K14085] [EC:1.2.1.31 1.2.1.8 1.2.1.3]
+            223  ALDH9A1; aldehyde dehydrogenase 9 family member A1 [KO:K00149] [EC:1.2.1.47 1.2.1.3]
+            134526  ACOT12; acyl-CoA thioesterase 12 [KO:K01067] [EC:3.1.2.1]
+            160287  LDHAL6A; lactate dehydrogenase A like 6A [KO:K00016] [EC:1.1.1.27]
+            92483  LDHAL6B; lactate dehydrogenase A like 6B [KO:K00016] [EC:1.1.1.27]
+            3939  LDHA; lactate dehydrogenase A [KO:K00016] [EC:1.1.1.27]
+            3945  LDHB; lactate dehydrogenase B [KO:K00016] [EC:1.1.1.27]
+            3948  LDHC; lactate dehydrogenase C [KO:K00016] [EC:1.1.1.27]
+            197257  LDHD; lactate dehydrogenase D [KO:K00102] [EC:1.1.2.4]
+            2739  GLO1; glyoxalase I [KO:K01759] [EC:4.4.1.5]
+            3029  HAGH; hydroxyacylglutathione hydrolase [KO:K01069] [EC:3.1.2.6]
+            9380  GRHPR; glyoxylate and hydroxypyruvate reductase [KO:K00049] [EC:1.1.1.79 1.1.1.81]
+            4200  ME2; malic enzyme 2 [KO:K00027] [EC:1.1.1.38]
+            10873  ME3; malic enzyme 3 [KO:K00029] [EC:1.1.1.40]
+            4199  ME1; malic enzyme 1 [KO:K00029] [EC:1.1.1.40]
+            5091  PC; pyruvate carboxylase [KO:K01958] [EC:6.4.1.1]
+            4190  MDH1; malate dehydrogenase 1 [KO:K00025] [EC:1.1.1.37]
+            4191  MDH2; malate dehydrogenase 2 [KO:K00026] [EC:1.1.1.37]
+            2271  FH; fumarate hydratase [KO:K01679] [EC:4.2.1.2]
+            5105  PCK1; phosphoenolpyruvate carboxykinase 1 [KO:K01596] [EC:4.1.1.32]
+            5106  PCK2; phosphoenolpyruvate carboxykinase 2, mitochondrial [KO:K01596] [EC:4.1.1.32]
+            39  ACAT2; acetyl-CoA acetyltransferase 2 [KO:K00626] [EC:2.3.1.9]
+            38  ACAT1; acetyl-CoA acetyltransferase 1 [KO:K00626] [EC:2.3.1.9]
+COMPOUND    C00022  Pyruvate
+            C00024  Acetyl-CoA
+            C00033  Acetate
+            C00036  Oxaloacetate
+            C00042  Succinate
+            C00058  Formate
+            C00068  Thiamin diphosphate
+            C00074  Phosphoenolpyruvate
+            C00083  Malonyl-CoA
+            C00084  Acetaldehyde
+            C00122  Fumarate
+            C00149  (S)-Malate
+            C00186  (S)-Lactate
+            C00227  Acetyl phosphate
+            C00256  (R)-Lactate
+            C00332  Acetoacetyl-CoA
+            C00424  (S)-Lactaldehyde
+            C00469  Ethanol
+            C00546  Methylglyoxal
+            C00937  (R)-Lactaldehyde
+            C01251  (R)-2-Hydroxybutane-1,2,4-tricarboxylate
+            C02488  (R)-2-Ethylmalate
+            C02504  alpha-Isopropylmalate
+            C03248  Acetylenedicarboxylate
+            C03451  (R)-S-Lactoylglutathione
+            C03981  2-Hydroxyethylenedicarboxylate
+            C05125  2-(alpha-Hydroxyethyl)thiamine diphosphate
+            C05993  Acetyl adenylate
+            C05994  2-Propylmalate
+            C15972  Enzyme N6-(lipoyl)lysine
+            C15973  Enzyme N6-(dihydrolipoyl)lysine
+            C16255  [Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine
+REFERENCE   
+  AUTHORS   Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).
+  TITLE     [Cellular Functions and Metabolic Maps] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (1997)
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00061  Fatty acid biosynthesis
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00290  Valine, leucine and isoleucine biosynthesis
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa00760  Nicotinate and nicotinamide metabolism
+KO_PATHWAY  ko00620
+///

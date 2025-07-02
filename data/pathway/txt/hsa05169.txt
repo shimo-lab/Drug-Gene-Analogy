@@ -1,0 +1,442 @@
+ENTRY       hsa05169                    Pathway
+NAME        Epstein-Barr virus infection - Homo sapiens (human)
+DESCRIPTION Epstein-Barr virus (EBV) is a gamma-herpes virus that widely infects human populations predominantly at an early age but remains mostly asymptomatic. EBV has been linked to a wide spectrum of human malignancies, including nasopharyngeal carcinoma and other hematologic cancers, like Hodgkin's lymphoma, Burkitt's lymphoma (BL), B-cell immunoblastic lymphoma in HIV patients, and posttransplant-associated lymphoproliferative diseases.  EBV has the unique ability to establish life-long latent infection in primary human B lymphocytes. During latent infection, EBV expresses a small subset of genes, including 6 nuclear antigens (EBNA-1, -2, -3A, -3B, -3C, and -LP), 3 latent membrane proteins (LMP-1, -2A, and -2B), 2 small noncoding RNAs (EBER-1 and 2). On the basis of these latent gene expression, three different latency patterns associated with the types of cancers are recognized.
+CLASS       Human Diseases; Infectious disease: viral
+PATHWAY_MAP hsa05169  Epstein-Barr virus infection
+NETWORK     nt06114  PI3K signaling (viruses)
+            nt06120  Calcium signaling (viruses and bacteria)
+            nt06122  IFN signaling (viruses)
+            nt06129  MHC presentation (viruses)
+            nt06130  Cell cycle (viruses)
+            nt06131  Apoptosis (viruses and bacteria)
+            nt06140  Transcription (viruses)
+            nt06165  Epstein-Barr virus (EBV)
+            nt06516  TNF signaling
+            nt06517  TLR signaling
+            nt06518  JAK-STAT signaling
+            nt06519  RLR signaling
+  ELEMENT   N00223  EBV EBNA1 to p53-mediated transcription
+            N00224  EBV EBNALP RBP-Jk-mediated transcription
+            N00225  EBV EBNA2 to RBP-Jk-mediated transcription
+            N00226  EBV EBNA3A/3B/3C to RBP-Jk-mediated transcription
+            N00262  EBV EBNA3C to intrinsic apoptotic pathway
+            N00263  EBV EBNA3C to p53-mediated transcription
+            N00264  EBV EBNA3C to p27-Cell cycle G1/S
+            N00265  EBV LMP1 to NFKB signaling pathway
+            N00266  EBV LMP2A to PI3K signaling pathway
+            N00466  EBV BPLF1 to TLR2/4-NFKB signaling pathway
+            N00467  EBV BPLF1 to TLR2/4-NFKB signaling pathway
+            N00468  EBV BPLF1 to TLR2/4-NFKB signaling pathway
+            N00470  EBV BGLF4 to RIG-I-like receptor signaling pathway
+            N00471  EBV LMP2A/2B to IFN signaling pathway
+            N00472  EBV LMP1 to IFN signaling pathway
+            N00473  EBV BGLF4 to IFN signaling pathway
+            N00474  EBV BHRF1 to intrinsic apoptotic pathway
+            N00475  EBV BHRF1 to intrinsic apoptotic pathway
+            N00476  EBV BHRF1 to intrinsic apoptotic pathway
+            N00477  EBV BHRF1 to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00478  EBV BARF1 to intrinsic apoptotic pathway
+            N00479  EBV BNLF2a to antigen processing and presentation by MHC class I molecules
+            N00480  EBV BILF1 to antigen processing and presentation by MHC class I molecules
+            N00481  EBV BZLF1 to p53-mediated transcription
+            N00482  EBV EBNA3C to p27-Cell cycle G1/S
+            N00483  EBV EBNA3C to cell cycle G1/S
+            N00484  EBV EBNA3C to cell cycle G1/S
+            N00485  EBV LMP1 to PI3K signaling pathway
+            N00486  EBV LMP1 to Jak-STAT signaling pathway
+            N00488  EBV LMP2A to BCR signaling pathway
+DISEASE     H00367  Infectious mononucleosis
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1380  CR2; complement C3d receptor 2 [KO:K04012]
+            930  CD19; CD19 molecule [KO:K06465]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            10454  TAB1; TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [KO:K04403]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3569  IL6; interleukin 6 [KO:K05405]
+            23586  RIGI; RNA sensor RIG-I [KO:K12646] [EC:3.6.4.13]
+            57506  MAVS; mitochondrial antiviral signaling protein [KO:K12648]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            3665  IRF7; interferon regulatory factor 7 [KO:K09447]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            3454  IFNAR1; interferon alpha and beta receptor subunit 1 [KO:K05130]
+            3455  IFNAR2; interferon alpha and beta receptor subunit 2 [KO:K05131]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            7297  TYK2; tyrosine kinase 2 [KO:K11219] [EC:2.7.10.2]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6773  STAT2; signal transducer and activator of transcription 2 [KO:K11221]
+            10379  IRF9; interferon regulatory factor 9 [KO:K04693]
+            5610  EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2 [KO:K16195] [EC:2.7.11.1]
+            4938  OAS1; 2'-5'-oligoadenylate synthetase 1 [KO:K14216] [EC:2.7.7.84]
+            4939  OAS2; 2'-5'-oligoadenylate synthetase 2 [KO:K14216] [EC:2.7.7.84]
+            4940  OAS3; 2'-5'-oligoadenylate synthetase 3 [KO:K14216] [EC:2.7.7.84]
+            3627  CXCL10; C-X-C motif chemokine ligand 10 [KO:K12671]
+            9636  ISG15; ISG15 ubiquitin like modifier [KO:K12159]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            637  BID; BH3 interacting domain death agonist [KO:K04726]
+            10018  BCL2L11; BCL2 like 11 [KO:K16341]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            317  APAF1; apoptotic peptidase activating factor 1 [KO:K02084]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            916  CD3E; CD3 epsilon subunit of T-cell receptor complex [KO:K06451]
+            917  CD3G; CD3 gamma subunit of T-cell receptor complex [KO:K06452]
+            915  CD3D; CD3 delta subunit of T-cell receptor complex [KO:K06450]
+            919  CD247; CD247 molecule [KO:K06453]
+            5701  PSMC2; proteasome 26S subunit, ATPase 2 [KO:K03061]
+            5700  PSMC1; proteasome 26S subunit, ATPase 1 [KO:K03062]
+            5704  PSMC4; proteasome 26S subunit, ATPase 4 [KO:K03063]
+            5706  PSMC6; proteasome 26S subunit, ATPase 6 [KO:K03064]
+            5702  PSMC3; proteasome 26S subunit, ATPase 3 [KO:K03065]
+            5705  PSMC5; proteasome 26S subunit, ATPase 5 [KO:K03066]
+            5708  PSMD2; proteasome 26S subunit ubiquitin receptor, non-ATPase 2 [KO:K03028]
+            5707  PSMD1; proteasome 26S subunit, non-ATPase 1 [KO:K03032]
+            5709  PSMD3; proteasome 26S subunit, non-ATPase 3 [KO:K03033]
+            5718  PSMD12; proteasome 26S subunit, non-ATPase 12 [KO:K03035]
+            5717  PSMD11; proteasome 26S subunit, non-ATPase 11 [KO:K03036]
+            9861  PSMD6; proteasome 26S subunit, non-ATPase 6 [KO:K03037]
+            5713  PSMD7; proteasome 26S subunit, non-ATPase 7 [KO:K03038]
+            5719  PSMD13; proteasome 26S subunit, non-ATPase 13 [KO:K03039]
+            5710  PSMD4; proteasome 26S subunit ubiquitin receptor, non-ATPase 4 [KO:K03029]
+            10213  PSMD14; proteasome 26S subunit, non-ATPase 14 [KO:K03030]
+            5714  PSMD8; proteasome 26S subunit, non-ATPase 8 [KO:K03031]
+            11047  ADRM1; ADRM1 26S proteasome ubiquitin receptor [KO:K06691]
+            7979  SEM1; SEM1 26S proteasome subunit [KO:K10881]
+            6890  TAP1; transporter 1, ATP binding cassette subfamily B member [KO:K05653] [EC:7.4.2.14]
+            6891  TAP2; transporter 2, ATP binding cassette subfamily B member [KO:K05654] [EC:7.4.2.14]
+            6892  TAPBP; TAP binding protein [KO:K08058]
+            2923  PDIA3; protein disulfide isomerase family A member 3 [KO:K08056] [EC:5.3.4.1]
+            811  CALR; calreticulin [KO:K08057]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            567  B2M; beta-2-microglobulin [KO:K08055]
+            22938  SNW1; SNW domain containing 1 [KO:K06063]
+            25942  SIN3A; SIN3 transcription regulator family member A [KO:K11644]
+            3065  HDAC1; histone deacetylase 1 [KO:K06067] [EC:3.5.1.98]
+            3066  HDAC2; histone deacetylase 2 [KO:K06067] [EC:3.5.1.98]
+            9612  NCOR2; nuclear receptor corepressor 2 [KO:K06065]
+            8819  SAP30; Sin3A associated protein 30 [KO:K19202]
+            79685  SAP30L; SAP30 like [KO:K19202]
+            9541  CIR1; corepressor interacting with RBPJ, CIR1 [KO:K06066]
+            11317  RBPJL; recombination signal binding protein for immunoglobulin kappa J region like [KO:K06053]
+            3516  RBPJ; recombination signal binding protein for immunoglobulin kappa J region [KO:K06053]
+            3280  HES1; hes family bHLH transcription factor 1 [KO:K06054]
+            2208  FCER2; Fc epsilon receptor II [KO:K06468]
+            864  RUNX3; RUNX family transcription factor 3 [KO:K09279]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            7874  USP7; ubiquitin specific peptidase 7 [KO:K11838] [EC:3.4.19.12]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+            7188  TRAF5; TNF receptor associated factor 5 [KO:K09849]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            9020  MAP3K14; mitogen-activated protein kinase kinase kinase 14 [KO:K04466] [EC:2.7.11.25]
+            5971  RELB; RELB proto-oncogene, NF-kB subunit [KO:K09253]
+            4791  NFKB2; nuclear factor kappa B subunit 2 [KO:K04469]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4794  NFKBIE; NFKB inhibitor epsilon [KO:K05872]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            8737  RIPK1; receptor interacting serine/threonine kinase 1 [KO:K02861] [EC:2.7.11.1]
+            5606  MAP2K3; mitogen-activated protein kinase kinase 3 [KO:K04432] [EC:2.7.12.2]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            956  ENTPD3; ectonucleoside triphosphate diphosphohydrolase 3 [KO:K01510] [EC:3.6.1.5]
+            377841  ENTPD8; ectonucleoside triphosphate diphosphohydrolase 8 [KO:K01510] [EC:3.6.1.5]
+            953  ENTPD1; ectonucleoside triphosphate diphosphohydrolase 1 [KO:K01510] [EC:3.6.1.5]
+            958  CD40; CD40 molecule [KO:K03160]
+            960  CD44; CD44 molecule (Indian blood group) [KO:K06256]
+            3683  ITGAL; integrin subunit alpha L [KO:K05718]
+            965  CD58; CD58 molecule [KO:K06492]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+            7431  VIM; vimentin [KO:K07606]
+            7128  TNFAIP3; TNF alpha induced protein 3 [KO:K11859] [EC:3.4.19.12]
+            3718  JAK3; Janus kinase 3 [KO:K11218] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            4734  NEDD4; NEDD4 E3 ubiquitin protein ligase [KO:K10591] [EC:2.3.2.26]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            695  BTK; Bruton tyrosine kinase [KO:K07370] [EC:2.7.10.2]
+            29760  BLNK; B cell linker [KO:K07371]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            6502  SKP2; S-phase kinase associated protein 2 [KO:K03875]
+            1027  CDKN1B; cyclin dependent kinase inhibitor 1B [KO:K06624]
+            595  CCND1; cyclin D1 [KO:K04503]
+            894  CCND2; cyclin D2 [KO:K10151]
+            896  CCND3; cyclin D3 [KO:K10152]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            890  CCNA2; cyclin A2 [KO:K06627]
+            8900  CCNA1; cyclin A1 [KO:K06627]
+            898  CCNE1; cyclin E1 [KO:K06626]
+            9134  CCNE2; cyclin E2 [KO:K06626]
+            1017  CDK2; cyclin dependent kinase 2 [KO:K02206] [EC:2.7.11.22]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+COMPOUND    C00076  Calcium cation
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:15510157
+  AUTHORS   Young LS, Rickinson AB.
+  TITLE     Epstein-Barr virus: 40 years on.
+  JOURNAL   Nat Rev Cancer 4:757-68 (2004)
+            DOI:10.1038/nrc1452
+REFERENCE   PMID:21372216
+  AUTHORS   Saha A, Robertson ES
+  TITLE     Epstein-Barr virus-associated B-cell lymphomas: pathogenesis and clinical outcomes.
+  JOURNAL   Clin Cancer Res 17:3056-63 (2011)
+            DOI:10.1158/1078-0432.CCR-10-2578
+REFERENCE   PMID:21429244
+  AUTHORS   Ning S
+  TITLE     Innate immune modulation in EBV infection.
+  JOURNAL   Herpesviridae 2:1 (2011)
+            DOI:10.1186/2042-4280-2-1
+REFERENCE   PMID:28408983
+  AUTHORS   Stanfield BA, Luftig MA
+  TITLE     Recent advances in understanding Epstein-Barr virus.
+  JOURNAL   F1000Res 6:386 (2017)
+            DOI:10.12688/f1000research.10591.1
+REFERENCE   PMID:24586164
+  AUTHORS   van Gent M, Braem SG, de Jong A, Delagic N, Peeters JG, Boer IG, Moynagh PN, Kremmer E, Wiertz EJ, Ovaa H, Griffin BD, Ressing ME
+  TITLE     Epstein-Barr virus large tegument protein BPLF1 contributes to innate immune evasion through interference with toll-like receptor signaling.
+  JOURNAL   PLoS Pathog 10:e1003960 (2014)
+            DOI:10.1371/journal.ppat.1003960
+REFERENCE   PMID:23850008
+  AUTHORS   Rajsbaum R, Garcia-Sastre A
+  TITLE     Viral evasion mechanisms of early antiviral responses involving regulation of ubiquitin pathways.
+  JOURNAL   Trends Microbiol 21:421-9 (2013)
+            DOI:10.1016/j.tim.2013.06.006
+REFERENCE   PMID:25704559
+  AUTHORS   Hoffmann HH, Schneider WM, Rice CM
+  TITLE     Interferons and viruses: an evolutionary arms race of molecular interactions.
+  JOURNAL   Trends Immunol 36:124-38 (2015)
+            DOI:10.1016/j.it.2015.01.004
+REFERENCE   PMID:22110506
+  AUTHORS   Spender LC, Inman GJ
+  TITLE     Inhibition of germinal centre apoptotic programmes by epstein-barr virus.
+  JOURNAL   Adv Hematol 2011:829525 (2011)
+            DOI:10.1155/2011/829525
+REFERENCE   PMID:23303627
+  AUTHORS   Fu Q, He C, Mao ZR
+  TITLE     Epstein-Barr virus interactions with the Bcl-2 protein family and apoptosis in human tumor cells.
+  JOURNAL   J Zhejiang Univ Sci B 14:8-24 (2013)
+            DOI:10.1631/jzus.B1200189
+REFERENCE   PMID:29116588
+  AUTHORS   Wang Y, Banerjee S, Ding L, Cai C, Wei F, Cai Q
+  TITLE     The regulatory role of protein phosphorylation in human gammaherpesvirus associated cancers.
+  JOURNAL   Virol Sin 32:357-368 (2017)
+            DOI:10.1007/s12250-017-4081-9
+REFERENCE   PMID:23435233
+  AUTHORS   Melchjorsen J
+  TITLE     Learning from the messengers: innate sensing of viruses and cytokine regulation of immunity - clues for treatments and vaccines.
+  JOURNAL   Viruses 5:470-527 (2013)
+            DOI:10.3390/v5020470
+REFERENCE   PMID:19498380
+  AUTHORS   Hansen TH, Bouvier M
+  TITLE     MHC class I antigen presentation: learning from viral evasion strategies.
+  JOURNAL   Nat Rev Immunol 9:503-13 (2009)
+            DOI:10.1038/nri2575
+REFERENCE   PMID:18977445
+  AUTHORS   Ressing ME, Horst D, Griffin BD, Tellam J, Zuo J, Khanna R, Rowe M, Wiertz EJ
+  TITLE     Epstein-Barr virus evasion of CD8(+) and CD4(+) T cell immunity via concerted actions of multiple gene products.
+  JOURNAL   Semin Cancer Biol 18:397-408 (2008)
+            DOI:10.1016/j.semcancer.2008.10.008
+REFERENCE   PMID:21146386
+  AUTHORS   Horst D, Verweij MC, Davison AJ, Ressing ME, Wiertz EJ
+  TITLE     Viral evasion of T cell immunity: ancient mechanisms offering new applications.
+  JOURNAL   Curr Opin Immunol 23:96-103 (2011)
+            DOI:10.1016/j.coi.2010.11.005
+REFERENCE   PMID:27886133
+  AUTHORS   Ghosh Roy S, Robertson ES, Saha A
+  TITLE     Epigenetic Impact on EBV Associated B-Cell Lymphomagenesis.
+  JOURNAL   Biomolecules 6:E46 (2016)
+            DOI:10.3390/biom6040046
+REFERENCE   PMID:22249143
+  AUTHORS   Dawson CW, Port RJ, Young LS
+  TITLE     The role of the EBV-encoded latent membrane proteins LMP1 and LMP2 in the pathogenesis of nasopharyngeal carcinoma (NPC).
+  JOURNAL   Semin Cancer Biol 22:144-53 (2012)
+            DOI:10.1016/j.semcancer.2012.01.004
+REFERENCE   PMID:25613730
+  AUTHORS   Cai Q, Chen K, Young KH
+  TITLE     Epstein-Barr virus-positive T/NK-cell lymphoproliferative disorders.
+  JOURNAL   Exp Mol Med 47:e133 (2015)
+            DOI:10.1038/emm.2014.105
+REFERENCE   PMID:17601372
+  AUTHORS   Zheng H, Li LL, Hu DS, Deng XY, Cao Y
+  TITLE     Role of Epstein-Barr virus encoded latent membrane protein 1 in the carcinogenesis of nasopharyngeal carcinoma.
+  JOURNAL   Cell Mol Immunol 4:185-96 (2007)
+REFERENCE   PMID:23793113
+  AUTHORS   Ersing I, Bernhardt K, Gewurz BE
+  TITLE     NF-kappaB and IRF7 pathway activation by Epstein-Barr virus Latent Membrane Protein 1.
+  JOURNAL   Viruses 5:1587-606 (2013)
+            DOI:10.3390/v5061587
+REFERENCE   PMID:28835489
+  AUTHORS   Wang LW, Jiang S, Gewurz BE
+  TITLE     Epstein-Barr Virus LMP1-Mediated Oncogenicity.
+  JOURNAL   J Virol 91:e01718-16 (2017)
+            DOI:10.1128/JVI.01718-16
+REFERENCE   PMID:12740915
+  AUTHORS   Mori N, Morishita M, Tsukazaki T, Yamamoto N
+  TITLE     Repression of Smad-dependent transforming growth factor-beta signaling by Epstein-Barr virus latent membrane protein 1 through nuclear factor-kappaB.
+  JOURNAL   Int J Cancer 105:661-8 (2003)
+            DOI:10.1002/ijc.11146
+REFERENCE   PMID:25873381
+  AUTHORS   Edwards RH, Marquitz AR, Raab-Traub N
+  TITLE     Changes in expression induced by Epstein-Barr Virus LMP1-CTAR1: potential role of bcl3.
+  JOURNAL   MBio 6:e00441-15 (2015)
+            DOI:10.1128/mBio.00441-15
+REFERENCE   PMID:11905817
+  AUTHORS   Thorley-Lawson DA
+  TITLE     Epstein-Barr virus: exploiting the immune system.
+  JOURNAL   Nat Rev Immunol 1:75-82 (2001)
+            DOI:10.1038/35095584
+REFERENCE   PMID:11669605
+  AUTHORS   Eliopoulos AG, Young LS
+  TITLE     LMP1 structure and signal transduction.
+  JOURNAL   Semin Cancer Biol 11:435-44 (2001)
+            DOI:10.1006/scbi.2001.0410
+REFERENCE   PMID:14506283
+  AUTHORS   Holowaty MN, Sheng Y, Nguyen T, Arrowsmith C, Frappier L
+  TITLE     Protein interaction domains of the ubiquitin-specific protease, USP7/HAUSP.
+  JOURNAL   J Biol Chem 278:47753-61 (2003)
+            DOI:10.1074/jbc.M307200200
+REFERENCE   PMID:25403939
+  AUTHORS   Kang H, Kiess A, Chung CH
+  TITLE     Emerging biomarkers in head and neck cancer in the era of genomics.
+  JOURNAL   Nat Rev Clin Oncol 12:11-26 (2015)
+            DOI:10.1038/nrclinonc.2014.192
+REFERENCE   PMID:29932446
+  AUTHORS   Tornesello ML, Annunziata C, Tornesello AL, Buonaguro L, Buonaguro FM
+  TITLE     Human Oncoviruses and p53 Tumor Suppressor Pathway Deregulation at the Origin of Human Cancers.
+  JOURNAL   Cancers (Basel) 10:E213 (2018)
+            DOI:10.3390/cancers10070213
+REFERENCE   PMID:19649319
+  AUTHORS   Sato Y, Kamura T, Shirata N, Murata T, Kudoh A, Iwahori S, Nakayama S, Isomura H, Nishiyama Y, Tsurumi T
+  TITLE     Degradation of phosphorylated p53 by viral protein-ECS E3 ligase complex.
+  JOURNAL   PLoS Pathog 5:e1000530 (2009)
+            DOI:10.1371/journal.ppat.1000530
+REFERENCE   PMID:19244339
+  AUTHORS   Saha A, Murakami M, Kumar P, Bajaj B, Sims K, Robertson ES
+  TITLE     Epstein-Barr virus nuclear antigen 3C augments Mdm2-mediated p53 ubiquitination and degradation by deubiquitinating Mdm2.
+  JOURNAL   J Virol 83:4652-69 (2009)
+            DOI:10.1128/JVI.02408-08
+REFERENCE   PMID:19394062
+  AUTHORS   Yi F, Saha A, Murakami M, Kumar P, Knight JS, Cai Q, Choudhuri T, Robertson ES
+  TITLE     Epstein-Barr virus nuclear antigen 3C targets p53 and modulates its transcriptional and apoptotic activities.
+  JOURNAL   Virology 388:236-47 (2009)
+            DOI:10.1016/j.virol.2009.03.027
+REFERENCE   PMID:25635182
+  AUTHORS   Kumar P, Murakami M, Kaul R, Saha A, Cai Q, Robertson ES
+  TITLE     Deregulation of the cell cycle machinery by Epstein-Barr virus nuclear antigen 3C.
+  JOURNAL   Future Virol 4:79-91 (2009)
+            DOI:10.2217/17460794.4.1.79
+REFERENCE   PMID:10818681
+  AUTHORS   Longnecker R
+  TITLE     Epstein-Barr virus latency: LMP2, a regulator or means for Epstein-Barr virus persistence?
+  JOURNAL   Adv Cancer Res 79:175-200 (2000)
+            DOI:10.1016/s0065-230x(00)79006-3
+REFERENCE   PMID:30116721
+  AUTHORS   El-Sharkawy A, Al Zaidan L, Malki A
+  TITLE     Epstein-Barr Virus-Associated Malignancies: Roles of Viral Oncoproteins in Carcinogenesis.
+  JOURNAL   Front Oncol 8:265 (2018)
+            DOI:10.3389/fonc.2018.00265
+REFERENCE   PMID:12811813
+  AUTHORS   Dolcetti R, Masucci MG
+  TITLE     Epstein-Barr virus: induction and control of cell transformation.
+  JOURNAL   J Cell Physiol 196:207-18 (2003)
+            DOI:10.1002/jcp.10263
+REFERENCE   PMID:21347341
+  AUTHORS   Saha A, Halder S, Upadhyay SK, Lu J, Kumar P, Murakami M, Cai Q, Robertson ES
+  TITLE     Epstein-Barr virus nuclear antigen 3C facilitates G1-S transition by stabilizing and enhancing the function of cyclin D1.
+  JOURNAL   PLoS Pathog 7:e1001275 (2011)
+            DOI:10.1371/journal.ppat.1001275
+REL_PATHWAY hsa03050  Proteasome
+            hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04210  Apoptosis
+            hsa04612  Antigen processing and presentation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04630  JAK-STAT signaling pathway
+            hsa04662  B cell receptor signaling pathway
+KO_PATHWAY  ko05169
+///

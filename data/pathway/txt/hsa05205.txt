@@ -1,0 +1,405 @@
+ENTRY       hsa05205                    Pathway
+NAME        Proteoglycans in cancer - Homo sapiens (human)
+DESCRIPTION Many proteoglycans (PGs) in the tumor microenvironment have been shown to be key macromolecules that contribute to biology of various types of cancer including proliferation, adhesion, angiogenesis and metastasis, affecting tumor progress. The four main types of proteoglycans include hyaluronan (HA), which does not occur as a PG but in free form, heparan sulfate proteoglycans (HSPGs), chondroitin sulfate proteoglycans (CSPGs), dematan sulfate proteoglycans (DSPG) and keratan sulfate proteoglycans (KSPGs) [BR:00535]. Among these proteoglycans such as HA, acting with CD44, promotes tumor cell growth and migration, whereas other proteoglycans such as syndecans (-1~-4), glypican (-1, -3) and perlecan may interact with growth factors, cytokines, morphogens and enzymes through HS chains [BR:00536], also leading to tumor growth and invasion. In contrast, some of the small leucine-rich proteolgycans, such as decorin and lumican, can function as tumor repressors, and modulate the signaling pathways by the interaction of their core proteins and multiple receptors.
+CLASS       Human Diseases; Cancer: overview
+PATHWAY_MAP hsa05205  Proteoglycans in cancer
+DRUG        D08620  Toremifene (INN)
+            D09992  Vismodegib (USAN/INN)
+            D10381  Afuresertib (USAN)
+            D10382  Afuresertib hydrochloride (USAN)
+            D10514  Dacomitinib (USAN)
+            D11239  Lumretuzumab (USAN/INN)
+            D11611  Infigratinib phosphate (USAN)
+            D11764  Necuparanib (USAN/INN)
+            D11765  Necuparanib sodium (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        960  CD44; CD44 molecule (Indian blood group) [KO:K06256]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            2017  CTTN; cortactin [KO:K06106]
+            3059  HCLS1; hematopoietic cell-specific Lyn substrate 1 [KO:K06106]
+            2064  ERBB2; erb-b2 receptor tyrosine kinase 2 [KO:K05083] [EC:2.7.10.1]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            10451  VAV3; vav guanine nucleotide exchange factor 3 [KO:K05730]
+            7409  VAV1; vav guanine nucleotide exchange factor 1 [KO:K05730]
+            7410  VAV2; vav guanine nucleotide exchange factor 2 [KO:K05730]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            6237  RRAS; RAS related [KO:K07829]
+            22800  RRAS2; RAS related 2 [KO:K07830]
+            22808  MRAS; muscle RAS oncogene homolog [KO:K07831]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            8826  IQGAP1; IQ motif containing GTPase activating protein 1 [KO:K16848]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            2002  ELK1; ETS transcription factor ELK1 [KO:K04375]
+            2099  ESR1; estrogen receptor 1 [KO:K08550]
+            595  CCND1; cyclin D1 [KO:K04503]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            2316  FLNA; filamin A [KO:K04437]
+            2318  FLNC; filamin C [KO:K04437]
+            2317  FLNB; filamin B [KO:K04437]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            7074  TIAM1; TIAM Rac1 associated GEF 1 [KO:K05731]
+            9138  ARHGEF1; Rho guanine nucleotide exchange factor 1 [KO:K12330]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            286  ANK1; ankyrin 1 [KO:K10380]
+            287  ANK2; ankyrin 2 [KO:K10380]
+            288  ANK3; ankyrin 3 [KO:K10380]
+            2549  GAB1; GRB2 associated binding protein 1 [KO:K09593]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            6548  SLC9A1; solute carrier family 9 member A1 [KO:K05742]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            4659  PPP1R12A; protein phosphatase 1 regulatory subunit 12A [KO:K06270]
+            4660  PPP1R12B; protein phosphatase 1 regulatory subunit 12B [KO:K12329]
+            54776  PPP1R12C; protein phosphatase 1 regulatory subunit 12C [KO:K17457]
+            23365  ARHGEF12; Rho guanine nucleotide exchange factor 12 [KO:K07532]
+            51196  PLCE1; phospholipase C epsilon 1 [KO:K05860] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            79923  NANOG; Nanog homeobox [KO:K10164]
+            388112  NANOGP8; Nanog homeobox retrogene P8 [KO:K10164]
+            1655  DDX5; DEAD-box helicase 5 [KO:K12823] [EC:3.6.4.13]
+            29102  DROSHA; drosha ribonuclease III [KO:K03685] [EC:3.1.26.3]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            406991  MIR21; microRNA 21 [KO:K16863]
+            7291  TWIST1; twist family bHLH transcription factor 1 [KO:K09069]
+            117581  TWIST2; twist family bHLH transcription factor 2 [KO:K09069]
+            406902  MIR10A; microRNA 10a [KO:K16864]
+            406903  MIR10B; microRNA 10b [KO:K17393]
+            3236  HOXD10; homeobox D10 [KO:K09295]
+            1634  DCN; decorin [KO:K04660]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            1975  EIF4B; eukaryotic translation initiation factor 4B [KO:K03258]
+            6194  RPS6; ribosomal protein S6 [KO:K02991]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            857  CAV1; caveolin 1 [KO:K06278]
+            858  CAV2; caveolin 2 [KO:K12958]
+            859  CAV3; caveolin 3 [KO:K12959]
+            967  CD63; CD63 molecule [KO:K06497]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            27250  PDCD4; programmed cell death 4 [KO:K16865]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            2065  ERBB3; erb-b2 receptor tyrosine kinase 3 [KO:K05084] [EC:2.7.10.1]
+            2066  ERBB4; erb-b2 receptor tyrosine kinase 4 [KO:K05085] [EC:2.7.10.1]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            3091  HIF1A; hypoxia inducible factor 1 subunit alpha [KO:K08268]
+            7023  TFAP4; transcription factor AP-4 [KO:K09108]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            3791  KDR; kinase insert domain receptor [KO:K05098] [EC:2.7.10.1]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            867  CBL; Cbl proto-oncogene [KO:K04707] [EC:2.3.2.27]
+            7078  TIMP3; TIMP metallopeptidase inhibitor 3 [KO:K16866]
+            7057  THBS1; thrombospondin 1 [KO:K16857]
+            4313  MMP2; matrix metallopeptidase 2 [KO:K01398] [EC:3.4.24.24]
+            4318  MMP9; matrix metallopeptidase 9 [KO:K01403] [EC:3.4.24.35]
+            4060  LUM; lumican [KO:K08122]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            4087  SMAD2; SMAD family member 2 [KO:K04500]
+            10855  HPSE; heparanase [KO:K07964] [EC:3.2.1.166]
+            60495  HPSE2; heparanase 2 (inactive) [KO:K07965] [EC:3.2.1.-]
+            6382  SDC1; syndecan 1 [KO:K06257]
+            5328  PLAU; plasminogen activator, urokinase [KO:K01348] [EC:3.4.21.73]
+            5329  PLAUR; plasminogen activator, urokinase receptor [KO:K03985]
+            1277  COL1A1; collagen type I alpha 1 chain [KO:K06236]
+            1278  COL1A2; collagen type I alpha 2 chain [KO:K06236]
+            3673  ITGA2; integrin subunit alpha 2 [KO:K06481]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            7448  VTN; vitronectin [KO:K06251]
+            3685  ITGAV; integrin subunit alpha V [KO:K06487]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            2335  FN1; fibronectin 1 [KO:K05717]
+            3693  ITGB5; integrin subunit beta 5 [KO:K06588]
+            3082  HGF; hepatocyte growth factor [KO:K05460]
+            7471  WNT1; Wnt family member 1 [KO:K03209]
+            8321  FZD1; frizzled class receptor 1 [KO:K02432]
+            8324  FZD7; frizzled class receptor 7 [KO:K02432]
+            2535  FZD2; frizzled class receptor 2 [KO:K02235]
+            7976  FZD3; frizzled class receptor 3 [KO:K02329]
+            8322  FZD4; frizzled class receptor 4 [KO:K02354]
+            7855  FZD5; frizzled class receptor 5 [KO:K02375]
+            8325  FZD8; frizzled class receptor 8 [KO:K02375]
+            8323  FZD6; frizzled class receptor 6 [KO:K02376]
+            11211  FZD10; frizzled class receptor 10 [KO:K02842]
+            8326  FZD9; frizzled class receptor 9 [KO:K02842]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            6383  SDC2; syndecan 2 [KO:K16336]
+            7430  EZR; ezrin [KO:K08007]
+            5962  RDX; radixin [KO:K05762]
+            4478  MSN; moesin [KO:K05763]
+            6385  SDC4; syndecan 4 [KO:K16338]
+            2247  FGF2; fibroblast growth factor 2 [KO:K18497]
+            2260  FGFR1; fibroblast growth factor receptor 1 [KO:K04362] [EC:2.7.10.1]
+            10818  FRS2; fibroblast growth factor receptor substrate 2 [KO:K12461]
+            5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            84309  NUDT16L1; nudix hydrolase 16 like 1 [KO:K16867]
+            5829  PXN; paxillin [KO:K05760]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            1839  HBEGF; heparin binding EGF like growth factor [KO:K08523]
+            2817  GPC1; glypican 1 [KO:K08107]
+            3481  IGF2; insulin like growth factor 2 [KO:K13769]
+            2719  GPC3; glypican 3 [KO:K08109]
+            7472  WNT2; Wnt family member 2 [KO:K00182]
+            7482  WNT2B; Wnt family member 2B [KO:K00182]
+            7473  WNT3; Wnt family member 3 [KO:K00312]
+            89780  WNT3A; Wnt family member 3A [KO:K00312]
+            54361  WNT4; Wnt family member 4 [KO:K00408]
+            7474  WNT5A; Wnt family member 5A [KO:K00444]
+            81029  WNT5B; Wnt family member 5B [KO:K00444]
+            7475  WNT6; Wnt family member 6 [KO:K00445]
+            7476  WNT7A; Wnt family member 7A [KO:K00572]
+            7477  WNT7B; Wnt family member 7B [KO:K00572]
+            7478  WNT8A; Wnt family member 8A [KO:K00714]
+            7479  WNT8B; Wnt family member 8B [KO:K00714]
+            7483  WNT9A; Wnt family member 9A [KO:K01064]
+            7484  WNT9B; Wnt family member 9B [KO:K01064]
+            7480  WNT10B; Wnt family member 10B [KO:K01357]
+            80326  WNT10A; Wnt family member 10A [KO:K01357]
+            7481  WNT11; Wnt family member 11 [KO:K01384]
+            51384  WNT16; Wnt family member 16 [KO:K01558]
+            6469  SHH; sonic hedgehog signaling molecule [KO:K11988]
+            3549  IHH; Indian hedgehog signaling molecule [KO:K11989]
+            5727  PTCH1; patched 1 [KO:K06225]
+            6608  SMO; smoothened, frizzled class receptor [KO:K06226]
+            3339  HSPG2; heparan sulfate proteoglycan 2 [KO:K06255]
+            1514  CTSL; cathepsin L [KO:K01365] [EC:3.4.22.15]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            3316  HSPB2; heat shock protein family B (small) member 2 [KO:K09543]
+            5777  PTPN6; protein tyrosine phosphatase non-receptor type 6 [KO:K05697] [EC:3.1.3.48]
+COMPOUND    C00426  Dermatan sulfate
+            C00573  Keratan sulfate
+            C00607  Chondroitin sulfate
+            C00925  Heparan sulfate
+            G10505  Hyaluronic acid
+            G13063  Binding domain for FGF2 in heparin/heparan sulfate
+            G13064  Binding domain for HGF in heparin/heparan sulfate
+REFERENCE   PMID:18450475
+  AUTHORS   Bourguignon LY
+  TITLE     Hyaluronan-mediated CD44 activation of RhoGTPase signaling and cytoskeleton function promotes tumor progression.
+  JOURNAL   Semin Cancer Biol 18:251-9 (2008)
+            DOI:10.1016/j.semcancer.2008.03.007
+REFERENCE   PMID:12729888
+  AUTHORS   Briggs MW, Sacks DB
+  TITLE     IQGAP1 as signal integrator: Ca2+, calmodulin, Cdc42 and the cytoskeleton.
+  JOURNAL   FEBS Lett 542:7-11 (2003)
+            DOI:10.1016/S0014-5793(03)00333-8
+REFERENCE   PMID:12748184
+  AUTHORS   Bourguignon LY, Singleton PA, Zhu H, Diedrich F
+  TITLE     Hyaluronan-mediated CD44 interaction with RhoGEF and Rho kinase promotes Grb2-associated binder-1 phosphorylation and phosphatidylinositol 3-kinase signaling leading to cytokine (macrophage-colony stimulating factor) production and breast tumor progression.
+  JOURNAL   J Biol Chem 278:29420-34 (2003)
+            DOI:10.1074/jbc.M301885200
+REFERENCE   PMID:15655247
+  AUTHORS   Bourguignon LY, Gilad E, Rothman K, Peyrollier K
+  TITLE     Hyaluronan-CD44 interaction with IQGAP1 promotes Cdc42 and ERK signaling, leading to actin binding, Elk-1/estrogen receptor transcriptional activation, and ovarian cancer progression.
+  JOURNAL   J Biol Chem 280:11961-72 (2005)
+            DOI:10.1074/jbc.M411985200
+REFERENCE   PMID:11717317
+  AUTHORS   Turley EA, Noble PW, Bourguignon LY
+  TITLE     Signaling properties of hyaluronan receptors.
+  JOURNAL   J Biol Chem 277:4589-92 (2002)
+            DOI:10.1074/jbc.R100038200
+REFERENCE   PMID:9346940
+  AUTHORS   Bourguignon LY, Zhu H, Chu A, Iida N, Zhang L, Hung MC
+  TITLE     Interaction between the adhesion receptor, CD44, and the oncogene product, p185HER2, promotes human ovarian tumor cell activation.
+  JOURNAL   J Biol Chem 272:27913-8 (1997)
+            DOI:10.1074/jbc.272.44.27913
+REFERENCE   PMID:22735579
+  AUTHORS   Neill T, Schaefer L, Iozzo RV
+  TITLE     Decorin: a guardian from the matrix.
+  JOURNAL   Am J Pathol 181:380-7 (2012)
+            DOI:10.1016/j.ajpath.2012.04.029
+REFERENCE   PMID:22194599
+  AUTHORS   Neill T, Painter H, Buraschi S, Owens RT, Lisanti MP, Schaefer L, Iozzo RV
+  TITLE     Decorin antagonizes the angiogenic network: concurrent inhibition of Met, hypoxia inducible factor 1alpha, vascular endothelial growth factor A, and induction of thrombospondin-1 and TIMP3.
+  JOURNAL   J Biol Chem 287:5492-506 (2012)
+            DOI:10.1074/jbc.M111.283499
+REFERENCE   PMID:19433454
+  AUTHORS   Goldoni S, Humphries A, Nystrom A, Sattar S, Owens RT, McQuillan DJ, Ireton K, Iozzo RV
+  TITLE     Decorin is a novel antagonistic ligand of the Met receptor.
+  JOURNAL   J Cell Biol 185:743-54 (2009)
+            DOI:10.1083/jcb.200901129
+REFERENCE   PMID:15994311
+  AUTHORS   Zhu JX, Goldoni S, Bix G, Owens RT, McQuillan DJ, Reed CC, Iozzo RV
+  TITLE     Decorin evokes protracted internalization and degradation of the epidermal growth factor receptor via caveolar endocytosis.
+  JOURNAL   J Biol Chem 280:32468-79 (2005)
+            DOI:10.1074/jbc.M503833200
+REFERENCE   PMID:20974860
+  AUTHORS   Buraschi S, Pal N, Tyler-Rubinstein N, Owens RT, Neill T, Iozzo RV
+  TITLE     Decorin antagonizes Met receptor activity and down-regulates {beta}-catenin and Myc levels.
+  JOURNAL   J Biol Chem 285:42075-85 (2010)
+            DOI:10.1074/jbc.M110.172841
+REFERENCE   PMID:18798267
+  AUTHORS   Goldoni S, Iozzo RV
+  TITLE     Tumor microenvironment: Modulation by decorin and related molecules harboring leucine-rich tandem motifs.
+  JOURNAL   Int J Cancer 123:2473-9 (2008)
+            DOI:10.1002/ijc.23930
+REFERENCE   PMID:23058688
+  AUTHORS   Sofeu Feugaing DD, Gotte M, Viola M
+  TITLE     More than matrix: the multifaceted role of decorin in cancer.
+  JOURNAL   Eur J Cell Biol 92:1-11 (2013)
+            DOI:10.1016/j.ejcb.2012.08.004
+REFERENCE   PMID:22087031
+  AUTHORS   Merline R, Moreth K, Beckmann J, Nastase MV, Zeng-Brouwers J, Tralhao JG, Lemarchand P, Pfeilschifter J, Schaefer RM, Iozzo RV, Schaefer L
+  TITLE     Signaling by the matrix proteoglycan decorin controls inflammation and cancer through PDCD4 and MicroRNA-21.
+  JOURNAL   Sci Signal 4:ra75 (2011)
+            DOI:10.1126/scisignal.2001868
+REFERENCE   PMID:22033227
+  AUTHORS   Teng YH, Aquino RS, Park PW
+  TITLE     Molecular functions of syndecan-1 in disease.
+  JOURNAL   Matrix Biol 31:3-16 (2012)
+            DOI:10.1016/j.matbio.2011.10.001
+REFERENCE   PMID:11830493
+  AUTHORS   Derksen PW, Keehnen RM, Evers LM, van Oers MH, Spaargaren M, Pals ST
+  TITLE     Cell surface proteoglycan syndecan-1 mediates hepatocyte growth factor binding and promotes Met signaling in multiple myeloma.
+  JOURNAL   Blood 99:1405-10 (2002)
+            DOI:10.1182/blood.V99.4.1405
+REFERENCE   PMID:19733083
+  AUTHORS   Fux L, Ilan N, Sanderson RD, Vlodavsky I
+  TITLE     Heparanase: busy at the cell surface.
+  JOURNAL   Trends Biochem Sci 34:511-9 (2009)
+            DOI:10.1016/j.tibs.2009.06.005
+REFERENCE   PMID:18812315
+  AUTHORS   Purushothaman A, Chen L, Yang Y, Sanderson RD
+  TITLE     Heparanase stimulation of protease expression implicates it as a master regulator of the aggressive tumor phenotype in myeloma.
+  JOURNAL   J Biol Chem 283:32628-36 (2008)
+            DOI:10.1074/jbc.M806266200
+REFERENCE   PMID:19255147
+  AUTHORS   Beauvais DM, Ell BJ, McWhorter AR, Rapraeger AC
+  TITLE     Syndecan-1 regulates alphavbeta3 and alphavbeta5 integrin activation during angiogenesis and is blocked by synstatin, a novel peptide inhibitor.
+  JOURNAL   J Exp Med 206:691-705 (2009)
+            DOI:10.1084/jem.20081278
+REFERENCE   PMID:20655987
+  AUTHORS   Mahtouk K, Tjin EP, Spaargaren M, Pals ST
+  TITLE     The HGF/MET pathway as target for the treatment of multiple myeloma and B-cell lymphomas.
+  JOURNAL   Biochim Biophys Acta 1806:208-19 (2010)
+            DOI:10.1016/j.bbcan.2010.07.006
+REFERENCE   PMID:11931647
+  AUTHORS   Munesue S, Kusano Y, Oguri K, Itano N, Yoshitomi Y, Nakanishi H, Yamashina I, Okayama M
+  TITLE     The role of syndecan-2 in regulation of actin-cytoskeletal organization of Lewis lung carcinoma-derived metastatic clones.
+  JOURNAL   Biochem J 363:201-9 (2002)
+            DOI:10.1042/bj3630201
+REFERENCE   PMID:10687947
+  AUTHORS   Nugent MA, Iozzo RV
+  TITLE     Fibroblast growth factor-2.
+  JOURNAL   Int J Biochem Cell Biol 32:115-20 (2000)
+            DOI:10.1016/S1357-2725(99)00123-5
+REFERENCE   PMID:10633082
+  AUTHORS   Baciu PC, Saoncella S, Lee SH, Denhez F, Leuthardt D, Goetinck PF
+  TITLE     Syndesmos, a protein that interacts with the cytoplasmic domain of syndecan-4, mediates cell spreading and actin cytoskeletal organization.
+  JOURNAL   J Cell Sci 113 Pt 2:315-24 (2000)
+REFERENCE   PMID:12509413
+  AUTHORS   Thodeti CK, Albrechtsen R, Grauslund M, Asmar M, Larsson C, Takada Y, Mercurio AM, Couchman JR, Wewer UM
+  TITLE     ADAM12/syndecan-4 signaling promotes beta 1 integrin-dependent cell spreading through protein kinase Calpha and RhoA.
+  JOURNAL   J Biol Chem 278:9576-84 (2003)
+            DOI:10.1074/jbc.M208937200
+REFERENCE   PMID:14711376
+  AUTHORS   Beauvais DM, Rapraeger AC
+  TITLE     Syndecans in tumor cell adhesion and signaling.
+  JOURNAL   Reprod Biol Endocrinol 2:3 (2004)
+            DOI:10.1186/1477-7827-2-3
+REFERENCE   PMID:17971838
+  AUTHORS   Morgan MR, Humphries MJ, Bass MD
+  TITLE     Synergistic control of cell adhesion by integrins and syndecans.
+  JOURNAL   Nat Rev Mol Cell Biol 8:957-69 (2007)
+            DOI:10.1038/nrm2289
+REFERENCE   PMID:18505598
+  AUTHORS   Filmus J, Capurro M, Rast J
+  TITLE     Glypicans.
+  JOURNAL   Genome Biol 9:224 (2008)
+            DOI:10.1186/gb-2008-9-5-224
+REFERENCE   PMID:23305321
+  AUTHORS   Filmus J, Capurro M
+  TITLE     Glypican-3: a marker and a therapeutic target in hepatocellular carcinoma.
+  JOURNAL   FEBS J 280:2471-6 (2013)
+            DOI:10.1111/febs.12126
+REFERENCE   PMID:22563565
+  AUTHORS   Gao W, Ho M
+  TITLE     The role of glypican-3 in regulating Wnt in hepatocellular carcinomas.
+  JOURNAL   Cancer Rep 1:14-19 (2011)
+REFERENCE   PMID:24412155
+  AUTHORS   Filmus J, Capurro M
+  TITLE     The role of glypicans in Hedgehog signaling.
+  JOURNAL   Matrix Biol 35:248-52 (2014)
+            DOI:10.1016/j.matbio.2013.12.007
+REFERENCE   PMID:18413366
+  AUTHORS   Cheng W, Tseng CJ, Lin TT, Cheng I, Pan HW, Hsu HC, Lee YM
+  TITLE     Glypican-3-mediated oncogenesis involves the Insulin-like growth factor-signaling pathway.
+  JOURNAL   Carcinogenesis 29:1319-26 (2008)
+            DOI:10.1093/carcin/bgn091
+REFERENCE   PMID:21155971
+  AUTHORS   Iozzo RV, Sanderson RD
+  TITLE     Proteoglycans in cancer biology, tumour microenvironment and angiogenesis.
+  JOURNAL   J Cell Mol Med 15:1013-31 (2011)
+            DOI:10.1111/j.1582-4934.2010.01236.x
+REFERENCE   PMID:18949819
+  AUTHORS   Nikitovic D, Katonis P, Tsatsakis A, Karamanos NK, Tzanakakis GN
+  TITLE     Lumican, a small leucine-rich proteoglycan.
+  JOURNAL   IUBMB Life 60:818-23 (2008)
+            DOI:10.1002/iub.131
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04310  Wnt signaling pathway
+            hsa04340  Hedgehog signaling pathway
+            hsa04350  TGF-beta signaling pathway
+            hsa04370  VEGF signaling pathway
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko05205
+///

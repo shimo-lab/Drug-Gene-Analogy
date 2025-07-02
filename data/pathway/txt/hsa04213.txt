@@ -1,0 +1,173 @@
+ENTRY       hsa04213                    Pathway
+NAME        Longevity regulating pathway - multiple species - Homo sapiens (human)
+DESCRIPTION Aging is a complex process of accumulation of molecular, cellular, and organ damage, leading to loss of function and increased vulnerability to disease and death. Despite the complexity of aging, recent work has shown that dietary restriction (DR) and genetic down-regulation of nutrient-sensing pathways, namely IIS (insulin/insulin-like growth factor signalling) and TOR (target-of- rapamycin) can substantially increase healthy life span of laboratory model organisms. These nutrient signaling pathways are conserved in various organisms. In worms, flies, and mammals, DR reduces signalling through IIS/TOR pathways, deactivating the PI3K/Akt/TOR intracellular signalling cascade and consequently activating the antiaging FOXO family transcription factor(s). In yeast, the effects of DR on life- span extension are associated with reduced activities of the TOR/Sch9 and Ras/PKA pathways and require the serine-threonine kinase Rim15 and transcription factors Gis1 and Msn2/4. These transcription factors (FOXO, DAF-16, Gis1, and Msn2/4) transactivate genes involved in resistance to oxidative stress, energy metabolism, DNA damage repair, glucose metabolism, autophagy and protection of proteins by chaperones.
+CLASS       Organismal Systems; Aging
+PATHWAY_MAP hsa04213  Longevity regulating pathway - multiple species
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3630  INS; insulin [KO:K04526]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            8471  IRS4; insulin receptor substrate 4 [KO:K17446]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            6648  SOD2; superoxide dismutase 2 [KO:K04564] [EC:1.15.1.1]
+            847  CAT; catalase [KO:K03781] [EC:1.11.1.6]
+            9474  ATG5; autophagy related 5 [KO:K08339]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            57521  RPTOR; regulatory associated protein of MTOR complex 1 [KO:K07204]
+            84335  AKT1S1; AKT1 substrate 1 [KO:K16184]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            23411  SIRT1; sirtuin 1 [KO:K11411] [EC:2.3.1.286]
+            6647  SOD1; superoxide dismutase 1 [KO:K04565] [EC:1.15.1.1]
+            1979  EIF4EBP2; eukaryotic translation initiation factor 4E binding protein 2 [KO:K18644]
+            3312  HSPA8; heat shock protein family A (Hsp70) member 8 [KO:K03283]
+            3303  HSPA1A; heat shock protein family A (Hsp70) member 1A [KO:K03283]
+            3306  HSPA2; heat shock protein family A (Hsp70) member 2 [KO:K03283]
+            3305  HSPA1L; heat shock protein family A (Hsp70) member 1 like [KO:K03283]
+            3304  HSPA1B; heat shock protein family A (Hsp70) member 1B [KO:K03283]
+            3310  HSPA6; heat shock protein family A (Hsp70) member 6 [KO:K03283]
+            1410  CRYAB; crystallin alpha B [KO:K09542]
+            3065  HDAC1; histone deacetylase 1 [KO:K06067] [EC:3.5.1.98]
+            3066  HDAC2; histone deacetylase 2 [KO:K06067] [EC:3.5.1.98]
+            3170  FOXA2; forkhead box A2 [KO:K08035]
+            81570  CLPB; caseinolytic mitochondrial matrix peptidase chaperone subunit B [KO:K03695]
+COMPOUND    C00575  3',5'-Cyclic AMP
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:20395504
+  AUTHORS   Fontana L, Partridge L, Longo VD
+  TITLE     Extending healthy life span--from yeast to humans.
+  JOURNAL   Science 328:321-6 (2010)
+            DOI:10.1126/science.1172539
+REFERENCE   PMID:20098959
+  AUTHORS   Parrella E, Longo VD
+  TITLE     Insulin/IGF-I and related signaling pathways regulate aging in nondividing cells: from yeast to the mammalian brain.
+  JOURNAL   ScientificWorldJournal 10:161-77 (2010)
+            DOI:10.1100/tsw.2010.8
+REFERENCE   PMID:26682004
+  AUTHORS   Santos J, Leitao-Correia F, Sousa MJ, Leao C
+  TITLE     Dietary Restriction and Nutrient Balance in Aging.
+  JOURNAL   Oxid Med Cell Longev 2016:4010357 (2016)
+            DOI:10.1155/2016/4010357
+REFERENCE   PMID:18946478
+  AUTHORS   Longo VD, Lieber MR, Vijg J
+  TITLE     Turning anti-ageing genes against cancer.
+  JOURNAL   Nat Rev Mol Cell Biol 9:903-10 (2008)
+            DOI:10.1038/nrm2526
+REFERENCE   PMID:16304601
+  AUTHORS   Longo VD, Mitteldorf J, Skulachev VP
+  TITLE     Programmed and altruistic ageing.
+  JOURNAL   Nat Rev Genet 6:866-72 (2005)
+            DOI:10.1038/nrg1706
+REFERENCE   PMID:12610293
+  AUTHORS   Longo VD, Finch CE
+  TITLE     Evolutionary medicine: from dwarf model systems to healthy centenarians?
+  JOURNAL   Science 299:1342-6 (2003)
+            DOI:10.1126/science.1077991
+REFERENCE   PMID:25153840
+  AUTHORS   Mirzaei H, Suarez JA, Longo VD
+  TITLE     Protein and amino acid restriction, aging and disease: from yeast to humans.
+  JOURNAL   Trends Endocrinol Metab 25:558-66 (2014)
+            DOI:10.1016/j.tem.2014.07.002
+REFERENCE   PMID:20336132
+  AUTHORS   Kenyon CJ
+  TITLE     The genetics of ageing.
+  JOURNAL   Nature 464:504-12 (2010)
+            DOI:10.1038/nature08980
+REFERENCE   PMID:20097433
+  AUTHORS   Longo VD, Fontana L
+  TITLE     Calorie restriction and cancer prevention: metabolic and molecular mechanisms.
+  JOURNAL   Trends Pharmacol Sci 31:89-98 (2010)
+            DOI:10.1016/j.tips.2009.11.004
+REFERENCE   PMID:22094419
+  AUTHORS   Longo VD, Fabrizio P
+  TITLE     Chronological aging in Saccharomyces cerevisiae.
+  JOURNAL   Subcell Biochem 57:101-21 (2012)
+            DOI:10.1007/978-94-007-2561-4_5
+REFERENCE   PMID:26525455
+  AUTHORS   Bitto A, Wang AM, Bennett CF, Kaeberlein M
+  TITLE     Biochemical Genetic Pathways that Modulate Aging in Multiple Species.
+  JOURNAL   Cold Spring Harb Perspect Med 5:a025114 (2015)
+            DOI:10.1101/cshperspect.a025114
+REFERENCE   PMID:18373439
+  AUTHORS   Mair W, Dillin A
+  TITLE     Aging and survival: the genetics of life span extension by dietary restriction.
+  JOURNAL   Annu Rev Biochem 77:727-54 (2008)
+            DOI:10.1146/annurev.biochem.77.061206.171059
+REFERENCE   PMID:17701476
+  AUTHORS   Dali-Youcef N, Lagouge M, Froelich S, Koehl C, Schoonjans K, Auwerx J
+  TITLE     Sirtuins: the 'magnificent seven', function, metabolism and longevity.
+  JOURNAL   Ann Med 39:335-45 (2007)
+            DOI:10.1080/07853890701408194
+REFERENCE   PMID:21909281
+  AUTHORS   Rizki G, Iwata TN, Li J, Riedel CG, Picard CL, Jan M, Murphy CT, Lee SS
+  TITLE     The evolutionarily conserved longevity determinants HCF-1 and SIR-2.1/SIRT1 collaborate to regulate DAF-16/FOXO.
+  JOURNAL   PLoS Genet 7:e1002235 (2011)
+            DOI:10.1371/journal.pgen.1002235
+REFERENCE   PMID:23615258
+  AUTHORS   Lee SH, Min KJ
+  TITLE     Caloric restriction and its mimetics.
+  JOURNAL   BMB Rep 46:181-7 (2013)
+            DOI:10.5483/BMBRep.2013.46.4.033
+REFERENCE   PMID:15768047
+  AUTHORS   Bordone L, Guarente L
+  TITLE     Calorie restriction, SIRT1 and metabolism: understanding longevity.
+  JOURNAL   Nat Rev Mol Cell Biol 6:298-305 (2005)
+            DOI:10.1038/nrm1616
+REFERENCE   PMID:21841070
+  AUTHORS   Canto C, Auwerx J
+  TITLE     Calorie restriction: is AMPK a key sensor and effector?
+  JOURNAL   Physiology (Bethesda) 26:214-24 (2011)
+            DOI:10.1152/physiol.00010.2011
+REFERENCE   PMID:14534077
+  AUTHORS   Barbieri M, Bonafe M, Franceschi C, Paolisso G
+  TITLE     Insulin/IGF-I-signaling pathway: an evolutionarily conserved mechanism of longevity from yeast to humans.
+  JOURNAL   Am J Physiol Endocrinol Metab 285:E1064-71 (2003)
+            DOI:10.1152/ajpendo.00296.2003
+REFERENCE   PMID:17684529
+  AUTHORS   Russell SJ, Kahn CR
+  TITLE     Endocrine regulation of ageing.
+  JOURNAL   Nat Rev Mol Cell Biol 8:681-91 (2007)
+            DOI:10.1038/nrm2234
+REL_PATHWAY hsa04068  FoxO signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04211  Longevity regulating pathway
+            hsa04910  Insulin signaling pathway
+KO_PATHWAY  ko04213
+///

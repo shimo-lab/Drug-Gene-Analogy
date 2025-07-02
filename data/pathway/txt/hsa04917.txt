@@ -1,0 +1,174 @@
+ENTRY       hsa04917                    Pathway
+NAME        Prolactin signaling pathway - Homo sapiens (human)
+DESCRIPTION Prolactin (PRL) is a polypeptide hormone known to be involved in a wide range of biological functions including osmoregulation, lactation, reproduction, growth and development, endocrinology and metabolism, brain and behavior, and immunomodulation. PRL mediates its action through PRLR, a transmembrane protein of the hematopoietin cytokine receptor superfamily. At the protein level, the long PRLR isoform (long-R) and several short PRLR isoforms (short-R) have been detected. Acting through the long-R, PRL activates many signaling cascades including Jak2/Stat, the major cascade, Src kinase, phosphatidylinositol-3-kinase (PI3K)/AKT, and mitogen-activated protein kinase (MAPK) pathways. PRL cannot activate Jak2/Stat5 through the short-R, but can activate pathways including MAPK and PI3K pathways.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04917  Prolactin signaling pathway
+NETWORK     nt06325  PRL signaling
+  ELEMENT   N00920  PRL-JAK-STAT signaling pathway
+DRUG        D00780  Bromocriptine mesylate (USP)
+            D00987  Cabergoline (JP18/USP/INN)
+            D01348  Terguride (JAN/INN)
+            D03165  Bromocriptine (USAN/INN)
+            D06631  Prinaberel (USAN/INN)
+DBLINKS     GO: 0038161
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5617  PRL; prolactin [KO:K05439]
+            5618  PRLR; prolactin receptor [KO:K05081]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            6464  SHC1; SHC adaptor protein 1 [KO:K06279]
+            25759  SHC2; SHC adaptor protein 2 [KO:K17447]
+            53358  SHC3; SHC adaptor protein 3 [KO:K17448]
+            399694  SHC4; SHC adaptor protein 4 [KO:K17449]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            2592  GALT; galactose-1-phosphate uridylyltransferase [KO:K00965] [EC:2.7.7.12]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            595  CCND1; cyclin D1 [KO:K04503]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            1154  CISH; cytokine inducible SH2 containing protein [KO:K04701]
+            8651  SOCS1; suppressor of cytokine signaling 1 [KO:K04694]
+            8835  SOCS2; suppressor of cytokine signaling 2 [KO:K04695]
+            9021  SOCS3; suppressor of cytokine signaling 3 [KO:K04696]
+            122809  SOCS4; suppressor of cytokine signaling 4 [KO:K04697]
+            9655  SOCS5; suppressor of cytokine signaling 5 [KO:K04698]
+            30837  SOCS7; suppressor of cytokine signaling 7 [KO:K04699]
+            9306  SOCS6; suppressor of cytokine signaling 6 [KO:K04699]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            6776  STAT5A; signal transducer and activator of transcription 5A [KO:K11223]
+            6777  STAT5B; signal transducer and activator of transcription 5B [KO:K11224]
+            8600  TNFSF11; TNF superfamily member 11 [KO:K05473]
+            8792  TNFRSF11A; TNF receptor superfamily member 11a [KO:K05147]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            2001  ELF5; E74 like ETS transcription factor 5 [KO:K17101]
+            1447  CSN2; casein beta [KO:K17107]
+            1081  CGA; glycoprotein hormones, alpha polypeptide [KO:K08522]
+            3972  LHB; luteinizing hormone subunit beta [KO:K08521]
+            3973  LHCGR; luteinizing hormone/choriogonadotropin receptor [KO:K04248]
+            1586  CYP17A1; cytochrome P450 family 17 subfamily A member 1 [KO:K00512] [EC:1.14.14.19 1.14.14.32]
+            2099  ESR1; estrogen receptor 1 [KO:K08550]
+            2100  ESR2; estrogen receptor 2 [KO:K08551]
+            3659  IRF1; interferon regulatory factor 1 [KO:K09444]
+            7054  TH; tyrosine hydroxylase [KO:K00501] [EC:1.14.16.2]
+            6514  SLC2A2; solute carrier family 2 member 2 [KO:K07593]
+            2645  GCK; glucokinase [KO:K12407] [EC:2.7.1.2]
+            894  CCND2; cyclin D2 [KO:K10151]
+            3630  INS; insulin [KO:K04526]
+COMPOUND    C00002  ATP
+            C00031  D-Glucose
+            C00082  L-Tyrosine
+            C00092  D-Glucose 6-phosphate
+            C00280  Androstenedione
+            C00355  3,4-Dihydroxy-L-phenylalanine
+            C00410  Progesterone
+            C00468  Estrone
+            C00951  Estradiol-17beta
+            C03758  Dopamine
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:20149678
+  AUTHORS   Binart N, Bachelot A, Bouilly J
+  TITLE     Impact of prolactin receptor isoforms on reproduction.
+  JOURNAL   Trends Endocrinol Metab 21:362-8 (2010)
+            DOI:10.1016/j.tem.2010.01.008
+REFERENCE   PMID:17307904
+  AUTHORS   Bachelot A, Binart N
+  TITLE     Reproductive role of prolactin.
+  JOURNAL   Reproduction 133:361-9 (2007)
+            DOI:10.1530/REP-06-0299
+REFERENCE   PMID:16231422
+  AUTHORS   Hennighausen L, Robinson GW
+  TITLE     Information networks in the mammary gland.
+  JOURNAL   Nat Rev Mol Cell Biol 6:715-25 (2005)
+            DOI:10.1038/nrm1714
+REFERENCE   PMID:21664429
+  AUTHORS   Bouilly J, Sonigo C, Auffret J, Gibori G, Binart N
+  TITLE     Prolactin signaling mechanisms in ovary.
+  JOURNAL   Mol Cell Endocrinol 356:80-7 (2012)
+            DOI:10.1016/j.mce.2011.05.004
+REFERENCE   PMID:18219564
+  AUTHORS   Oakes SR, Rogers RL, Naylor MJ, Ormandy CJ
+  TITLE     Prolactin regulation of mammary gland development.
+  JOURNAL   J Mammary Gland Biol Neoplasia 13:13-28 (2008)
+            DOI:10.1007/s10911-008-9069-5
+REFERENCE   PMID:12670737
+  AUTHORS   Frasor J, Gibori G
+  TITLE     Prolactin regulation of estrogen receptor expression.
+  JOURNAL   Trends Endocrinol Metab 14:118-23 (2003)
+            DOI:10.1016/S1043-2760(03)00030-4
+REFERENCE   PMID:9626554
+  AUTHORS   Bole-Feysot C, Goffin V, Edery M, Binart N, Kelly PA
+  TITLE     Prolactin (PRL) and its receptor: actions, signal transduction pathways and phenotypes observed in PRL receptor knockout mice.
+  JOURNAL   Endocr Rev 19:225-68 (1998)
+            DOI:10.1210/edrv.19.3.0334
+REFERENCE   PMID:17535875
+  AUTHORS   Weinhaus AJ, Stout LE, Bhagroo NV, Brelje TC, Sorenson RL
+  TITLE     Regulation of glucokinase in pancreatic islets by prolactin: a mechanism for increasing glucose-stimulated insulin secretion during pregnancy.
+  JOURNAL   J Endocrinol 193:367-81 (2007)
+            DOI:10.1677/JOE-07-0043
+REFERENCE   PMID:18601698
+  AUTHORS   Grattan DR, Kokay IC
+  TITLE     Prolactin: a pleiotropic neuroendocrine hormone.
+  JOURNAL   J Neuroendocrinol 20:752-63 (2008)
+            DOI:10.1111/j.1365-2826.2008.01736.x
+REFERENCE   PMID:9475379
+  AUTHORS   Yu-Lee LY, Luo G, Book ML, Morris SM
+  TITLE     Lactogenic hormone signal transduction.
+  JOURNAL   Biol Reprod 58:295-301 (1998)
+            DOI:10.1095/biolreprod58.2.295
+REFERENCE   PMID:11606470
+  AUTHORS   Tam SP, Lau P, Djiane J, Hilton DJ, Waters MJ
+  TITLE     Tissue-specific induction of SOCS gene expression by PRL.
+  JOURNAL   Endocrinology 142:5015-26 (2001)
+            DOI:10.1210/endo.142.11.8466
+REFERENCE   PMID:17975019
+  AUTHORS   Halperin J, Devi SY, Elizur S, Stocco C, Shehu A, Rebourcet D, Unterman TG, Leslie ND, Le J, Binart N, Gibori G
+  TITLE     Prolactin signaling through the short form of its receptor represses forkhead transcription factor FOXO3 and its target gene galt causing a severe ovarian defect.
+  JOURNAL   Mol Endocrinol 22:513-22 (2008)
+            DOI:10.1210/me.2007-0399
+REFERENCE   PMID:17519353
+  AUTHORS   Sakamoto K, Creamer BA, Triplett AA, Wagner KU
+  TITLE     The Janus kinase 2 is required for expression and nuclear accumulation of cyclin D1 in proliferating mammary epithelial cells.
+  JOURNAL   Mol Endocrinol 21:1877-92 (2007)
+            DOI:10.1210/me.2006-0316
+REFERENCE   PMID:16677418
+  AUTHORS   Oakes SR, Hilton HN, Ormandy CJ
+  TITLE     The alveolar switch: coordinating the proliferative cues and cell fate decisions that drive the formation of lobuloalveoli from ductal epithelium.
+  JOURNAL   Breast Cancer Res 8:207 (2006)
+            DOI:10.1186/bcr1411
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04630  JAK-STAT signaling pathway
+            hsa04728  Dopaminergic synapse
+            hsa04911  Insulin secretion
+            hsa04913  Ovarian steroidogenesis
+            hsa04915  Estrogen signaling pathway
+KO_PATHWAY  ko04917
+///

@@ -1,0 +1,192 @@
+ENTRY       hsa04670                    Pathway
+NAME        Leukocyte transendothelial migration - Homo sapiens (human)
+DESCRIPTION Leukocyte migaration from the blood into tissues is vital for immune surveillance and inflammation. During this diapedesis of leukocytes, the leukocytes bind to endothelial cell adhesion molecules (CAM) and then migrate across the vascular endothelium. A leukocyte adherent to CAMs on the endothelial cells moves forward by leading-edge protrusion and retraction of its tail. In this process, alphaL /beta2 integrin activates through Vav1, RhoA, which subsequently activates the kinase p160ROCK. ROCK activation leads to MLC phosphorylation, resulting in retraction of the actin cytoskeleton. Moreover, Leukocytes activate endothelial cell signals that stimulate endothelial cell retraction during localized dissociation of the endothelial cell junctions. ICAM-1-mediated signals activate an endothelial cell calcium flux and PKC, which are required for ICAM-1 dependent leukocyte migration. VCAM-1 is involved in the opening of the "endothelial passage" through which leukocytes can extravasate. In this regard, VCAM-1 ligation induces NADPH oxidase activation and the production of reactive oxygen species (ROS) in a Rac-mediated manner, with subsequent activation of matrix metallopoteinases and loss of VE-cadherin-mediated adhesion.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04670  Leukocyte transendothelial migration
+DRUG        D02811  Alicaforsen sodium (USAN)
+            D03061  Batimastat (USAN/INN)
+            D03793  Ilomastat (USAN/INN)
+            D03795  Marimastat (USAN/INN)
+            D03797  Prinomastat (USAN/INN)
+            D03800  Rebimastat (USAN/INN)
+            D03802  Tanomastat (USAN/INN)
+            D04000  Enlimomab (USAN/INN)
+            D04045  Erlizumab (USAN/INN)
+            D05029  Midostaurin (JAN/USAN/INN)
+            D06886  Natalizumab (USAN/INN)
+            D09799  Carotegrast methyl (JAN)
+            D10028  Valategrast hydrochloride (USAN)
+            D10374  Lifitegrast (USAN/INN)
+            D10392  Lifitegrast sodium (USAN)
+            D10463  Ripasudil hydrochloride hydrate (JAN)
+            D10618  Defactinib (USAN/INN)
+            D11527  Zolbetuximab (USAN/INN)
+DBLINKS     GO: 0050900
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        83700  JAM3; junctional adhesion molecule 3 [KO:K06785]
+            3684  ITGAM; integrin subunit alpha M [KO:K06461]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            58494  JAM2; junctional adhesion molecule 2 [KO:K06735]
+            3676  ITGA4; integrin subunit alpha 4 [KO:K06483]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            5175  PECAM1; platelet and endothelial cell adhesion molecule 1 [KO:K06471]
+            4267  CD99; CD99 molecule (Xg blood group) [KO:K06520]
+            83692  CD99L2; CD99 molecule like 2 [KO:K06520]
+            3683  ITGAL; integrin subunit alpha L [KO:K05718]
+            50848  F11R; F11 receptor [KO:K06089]
+            1003  CDH5; cadherin 5 [KO:K06533]
+            1364  CLDN4; claudin 4 [KO:K06087]
+            1365  CLDN3; claudin 3 [KO:K06087]
+            1366  CLDN7; claudin 7 [KO:K06087]
+            149461  CLDN19; claudin 19 [KO:K06087]
+            10686  CLDN16; claudin 16 [KO:K06087]
+            23562  CLDN14; claudin 14 [KO:K06087]
+            24146  CLDN15; claudin 15 [KO:K06087]
+            26285  CLDN17; claudin 17 [KO:K06087]
+            49861  CLDN20; claudin 20 [KO:K06087]
+            5010  CLDN11; claudin 11 [KO:K06087]
+            51208  CLDN18; claudin 18 [KO:K06087]
+            53842  CLDN22; claudin 22 [KO:K06087]
+            7122  CLDN5; claudin 5 [KO:K06087]
+            9071  CLDN10; claudin 10 [KO:K06087]
+            9073  CLDN8; claudin 8 [KO:K06087]
+            9074  CLDN6; claudin 6 [KO:K06087]
+            9075  CLDN2; claudin 2 [KO:K06087]
+            9076  CLDN1; claudin 1 [KO:K06087]
+            9080  CLDN9; claudin 9 [KO:K06087]
+            137075  CLDN23; claudin 23 [KO:K06087]
+            100288814  CLDN34; claudin 34 [KO:K06087]
+            644672  CLDN25; claudin 25 [KO:K06087]
+            100132463  CLDN24; claudin 24 [KO:K06087]
+            100506658  OCLN; occludin [KO:K06088]
+            90952  ESAM; endothelial cell adhesion molecule [KO:K06787]
+            7412  VCAM1; vascular cell adhesion molecule 1 [KO:K06527]
+            7430  EZR; ezrin [KO:K08007]
+            4478  MSN; moesin [KO:K05763]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            1536  CYBB; cytochrome b-245 beta chain [KO:K21421] [EC:1.-.-.-]
+            1535  CYBA; cytochrome b-245 alpha chain [KO:K08009]
+            4688  NCF2; neutrophil cytosolic factor 2 [KO:K08010]
+            653361  NCF1; neutrophil cytosolic factor 1 [KO:K08011]
+            4689  NCF4; neutrophil cytosolic factor 4 [KO:K08012]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            1500  CTNND1; catenin delta 1 [KO:K05690]
+            29119  CTNNA3; catenin alpha 3 [KO:K05691]
+            1495  CTNNA1; catenin alpha 1 [KO:K05691]
+            1496  CTNNA2; catenin alpha 2 [KO:K05691]
+            5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            4313  MMP2; matrix metallopeptidase 2 [KO:K01398] [EC:3.4.24.24]
+            4318  MMP9; matrix metallopeptidase 9 [KO:K01403] [EC:3.4.24.35]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            5829  PXN; paxillin [KO:K05760]
+            9564  BCAR1; BCAR1 scaffold protein, Cas family member [KO:K05726]
+            7070  THY1; Thy-1 cell surface antigen [KO:K06514]
+            2909  ARHGAP35; Rho GTPase activating protein 35 [KO:K05732]
+            394  ARHGAP5; Rho GTPase activating protein 5 [KO:K13709]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            4633  MYL2; myosin light chain 2 [KO:K10351]
+            4636  MYL5; myosin light chain 5 [KO:K12753]
+            58498  MYL7; myosin light chain 7 [KO:K12754]
+            10398  MYL9; myosin light chain 9 [KO:K12755]
+            93408  MYL10; myosin light chain 10 [KO:K12756]
+            103910  MYL12B; myosin light chain 12B [KO:K12757]
+            10627  MYL12A; myosin light chain 12A [KO:K12757]
+            29895  MYL11; myosin light chain 11 [KO:K12758]
+            4301  AFDN; afadin, adherens junction formation factor [KO:K05702]
+            5906  RAP1A; RAP1A, member of RAS oncogene family [KO:K04353]
+            5908  RAP1B; RAP1B, member of RAS oncogene family [KO:K07836]
+            6494  SIPA1; signal-induced proliferation-associated 1 [KO:K08013]
+            7408  VASP; vasodilator stimulated phosphoprotein [KO:K06274]
+            87  ACTN1; actinin alpha 1 [KO:K05699]
+            81  ACTN4; actinin alpha 4 [KO:K05699]
+            7414  VCL; vinculin [KO:K05700]
+            6387  CXCL12; C-X-C motif chemokine ligand 12 [KO:K10031]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            10411  RAPGEF3; Rap guanine nucleotide exchange factor 3 [KO:K08014]
+            11069  RAPGEF4; Rap guanine nucleotide exchange factor 4 [KO:K04351]
+            83593  RASSF5; Ras association domain family member 5 [KO:K08015]
+            2185  PTK2B; protein tyrosine kinase 2 beta [KO:K05871] [EC:2.7.10.2]
+            3702  ITK; IL2 inducible T cell kinase [KO:K07363] [EC:2.7.10.2]
+            7294  TXK; TXK tyrosine kinase [KO:K08016] [EC:2.7.10.2]
+            10451  VAV3; vav guanine nucleotide exchange factor 3 [KO:K05730]
+            7409  VAV1; vav guanine nucleotide exchange factor 1 [KO:K05730]
+            7410  VAV2; vav guanine nucleotide exchange factor 2 [KO:K05730]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            399  RHOH; ras homolog family member H [KO:K07873]
+COMPOUND    C00027  Hydrogen peroxide
+            C00076  Calcium cation
+            C00575  3',5'-Cyclic AMP
+            C04637  1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+REFERENCE   PMID:14976004
+  AUTHORS   van Buul JD, Hordijk PL.
+  TITLE     Signaling in leukocyte transendothelial migration.
+  JOURNAL   Arterioscler Thromb Vasc Biol 24:824-33 (2004)
+            DOI:10.1161/01.ATV.0000122854.76267.5c
+REFERENCE   PMID:15604886
+  AUTHORS   Wittchen ES, van Buul JD, Burridge K, Worthylake RA.
+  TITLE     Trading spaces: Rap, Rac, and Rho as architects of transendothelial migration.
+  JOURNAL   Curr Opin Hematol 12:14-21 (2005)
+            DOI:10.1097/01.moh.0000147892.83713.a7
+REFERENCE   PMID:14977592
+  AUTHORS   Barreiro O, Vicente-Manzanares M, Urzainqui A, Yanez-Mo M, Sanchez-Madrid F.
+  TITLE     Interactive protrusive structures during leukocyte adhesion and transendothelial migration.
+  JOURNAL   Front Biosci 9:1849-63 (2004)
+            DOI:10.2741/1285
+REFERENCE   PMID:15629883
+  AUTHORS   Cook-Mills JM, Deem TL.
+  TITLE     Active participation of endothelial cells in inflammation.
+  JOURNAL   J Leukoc Biol 77:487-95 (2005)
+            DOI:10.1189/jlb.0904554
+REFERENCE   PMID:15173832
+  AUTHORS   Imhof BA, Aurrand-Lions M.
+  TITLE     Adhesion mechanisms regulating the migration of monocytes.
+  JOURNAL   Nat Rev Immunol 4:432-44 (2004)
+            DOI:10.1038/nri1375
+REFERENCE   PMID:15265790
+  AUTHORS   Deem TL, Cook-Mills JM.
+  TITLE     Vascular cell adhesion molecule 1 (VCAM-1) activation of endothelial cell matrix metalloproteinases: role of reactive oxygen species.
+  JOURNAL   Blood 104:2385-93 (2004)
+            DOI:10.1182/blood-2004-02-0665
+REFERENCE   PMID:10975856
+  AUTHORS   Etienne-Manneville S, Manneville JB, Adamson P, Wilbourn B, Greenwood J, Couraud PO.
+  TITLE     ICAM-1-coupled cytoskeletal rearrangements and transendothelial lymphocyte migration involve intracellular calcium signaling in brain endothelial cell lines.
+  JOURNAL   J Immunol 165:3375-83 (2000)
+            DOI:10.4049/jimmunol.165.6.3375
+REFERENCE   PMID:12540948
+  AUTHORS   Chavakis T, Preissner KT, Santoso S.
+  TITLE     Leukocyte trans-endothelial migration: JAMs add new pieces to the puzzle.
+  JOURNAL   Thromb Haemost 89:13-7 (2003)
+            DOI:10.1055/s-0037-1613537
+REFERENCE   PMID:15771581
+  AUTHORS   Berg LJ, Finkelstein LD, Lucas JA, Schwartzberg PL.
+  TITLE     Tec family kinases in T lymphocyte development and function.
+  JOURNAL   Annu Rev Immunol 23:549-600 (2005)
+            DOI:10.1146/annurev.immunol.22.012703.104743
+REL_PATHWAY hsa04514  Cell adhesion molecules
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko04670
+///

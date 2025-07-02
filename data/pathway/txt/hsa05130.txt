@@ -1,0 +1,303 @@
+ENTRY       hsa05130                    Pathway
+NAME        Pathogenic Escherichia coli infection - Homo sapiens (human)
+DESCRIPTION Enteropathogenic E. coli (EPEC) and enterohemorrhagic E. coli (EHEC) are closely related pathogenic strains of Escherichia coli. The hallmark of EPEC/EHEC infections [DS:H00278 H00277] is induction of attaching and effacing (A/E) lesions that damage intestinal epithelial cells. The capacity to form A/E lesions is encoded mainly by the locus of enterocyte effacement (LEE) pathogenicity island. Tir, Map, EspF, EspG are known LEE-encoded effector proteins secreted via the type III secretion system, which is also LEE-encoded, into the host cell. EPEC and EHEC Tir's link the extracellular bacterium to the cell cytoskeleton. Map and EspF are involved in mitochondrion membrane permeabilization. EspG interacts with tubulins and stimulates microtubule destabilization. LEE-encoded adhesin or intimin (Eae) is exported via the general secretory pathway to the periplasm, where it is inserted into the outer membrane. In addition to Tir, two potential host cell-carried intimin receptors, beta1 integrin (ITGB1) and nucleolin (NCL), have so far been identified. The distinguishing feature of EHEC is the elaboration of Shiga-like toxin (Stx). Stx cleaves ribosomal RNA, thereby disrupting protein synthesis and killing the intoxicated epithelial or endothelial cells.
+CLASS       Human Diseases; Infectious disease: bacterial
+PATHWAY_MAP hsa05130  Pathogenic Escherichia coli infection
+NETWORK     nt06125  Membrane trafficking (bacteria)
+            nt06131  Apoptosis (viruses and bacteria)
+            nt06135  Cytoskeletal regulation (viruses and bacteria)
+            nt06516  TNF signaling
+            nt06517  TLR signaling
+            nt06521  NLR signaling
+  ELEMENT   N00926  Escherichia Tir to TLR2/4-MAPK signaling pathway
+            N00927  Escherichia/Shigella NleE/OspZ to TNF-NFKB signaling pathway
+            N00928  Escherichia NleB to TNF-NFKB signaling pathway
+            N00929  Escherichia NleC to TNF-NFKB signaling pathway
+            N00930  Escherichia NleD to TNF-JNK signaling pathway
+            N00931  Escherichia NleD to TNF-p38 signaling pathway
+            N00932  Escherichia NleH1 to TNF-NFKB signaling pathway
+            N00933  Escherichia NleA to NLRP3 inflammasome signaling pathway
+            N00935  Escherichia NleF to non-canonical inflammasome signaling pathway
+            N00936  Escherichia NleB1 to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00937  Escherichia NleF to extrinsic apoptotic pathway
+            N00938  Escherichia NleH to intrinsic apoptotic pathway
+            N00939  Escherichia EspF to intrinsic apoptotic pathway
+            N01084  Escherichia EspG to ARNO-ARF-ACTB/G signaling pathway
+            N01085  Escherichia EspG to ARNO-ARF-ACTB/G signaling pathway
+            N01086  Escherichia EspT to RAC signaling pathway
+            N01087  Escherichia EspW to RAC signaling pathway
+            N01088  Escherichia EspH to LPA-GNA12/13-RhoA signaling pathway
+            N01089  Escherichia EspM to LPA-GNA12/13-Rho signaling pathway
+            N01091  Escherichia EspJ to IGG-FCGR-RAC signaling pathway
+            N01092  Escherichia Eae/Tir to Actin signaling pathway
+            N01093  Escherichia EspJ/Tir to Actin signaling pathway
+            N01094  Escherichia Eae/Tir/TccP to Actin signaling pathway
+            N01095  Escherichia Map to LPA-GNA12/13-RhoA signaling pathway
+            N01096  Escherichia Map to CDC42 signaling pathway
+            N01286  Escherichia EspG to Microtubule-RHOA signaling pathway
+            N01288  Escherichia EspF to Tight junction-Actin signaling pathway
+            N01290  Escherichia NleA to COPII vesicle formation
+            N01292  Escherichia EspG to RAB1 signaling pathway
+            N01294  Escherichia NleF to COPI vesicle formation
+DISEASE     H00277  Enterohemorrhagic Escherichia coli (EHEC) infection
+            H00278  Enteropathogenic Escherichia coli (EPEC) infection
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            2212  FCGR2A; Fc gamma receptor IIa [KO:K06472]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            9265  CYTH3; cytohesin 3 [KO:K18441]
+            27128  CYTH4; cytohesin 4 [KO:K18441]
+            9266  CYTH2; cytohesin 2 [KO:K18441]
+            9267  CYTH1; cytohesin 1 [KO:K18441]
+            382  ARF6; ADP ribosylation factor 6 [KO:K07941]
+            375  ARF1; ADP ribosylation factor 1 [KO:K07937]
+            10787  NCKAP1; NCK associated protein 1 [KO:K05750]
+            3071  NCKAP1L; NCK associated protein 1 like [KO:K05750]
+            23191  CYFIP1; cytoplasmic FMR1 interacting protein 1 [KO:K05749]
+            26999  CYFIP2; cytoplasmic FMR1 interacting protein 2 [KO:K05749]
+            10006  ABI1; abl interactor 1 [KO:K23649]
+            55845  BRK1; BRICK1 subunit of SCAR/WAVE actin nucleating complex [KO:K05752]
+            8936  WASF1; WASP family member 1 [KO:K05753]
+            10163  WASF2; WASP family member 2 [KO:K05748]
+            10810  WASF3; WASP family member 3 [KO:K06083]
+            10097  ACTR2; actin related protein 2 [KO:K17260]
+            57180  ACTR3B; actin related protein 3B [KO:K18584]
+            653857  ACTR3C; actin related protein 3C [KO:K18584]
+            10096  ACTR3; actin related protein 3 [KO:K18584]
+            10095  ARPC1B; actin related protein 2/3 complex subunit 1B [KO:K05757]
+            10552  ARPC1A; actin related protein 2/3 complex subunit 1A [KO:K05757]
+            10109  ARPC2; actin related protein 2/3 complex subunit 2 [KO:K05758]
+            10094  ARPC3; actin related protein 2/3 complex subunit 3 [KO:K05756]
+            10093  ARPC4; actin related protein 2/3 complex subunit 4 [KO:K05755]
+            10092  ARPC5; actin related protein 2/3 complex subunit 5 [KO:K05754]
+            81873  ARPC5L; actin related protein 2/3 complex subunit 5 like [KO:K05754]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            9138  ARHGEF1; Rho guanine nucleotide exchange factor 1 [KO:K12330]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            283446  MYO1H; myosin IH [KO:K10356]
+            4430  MYO1B; myosin IB [KO:K10356]
+            4542  MYO1F; myosin IF [KO:K10356]
+            4640  MYO1A; myosin IA [KO:K10356]
+            4641  MYO1C; myosin IC [KO:K10356]
+            4642  MYO1D; myosin ID [KO:K10356]
+            4643  MYO1E; myosin IE [KO:K10356]
+            64005  MYO1G; myosin IG [KO:K10356]
+            4644  MYO5A; myosin VA [KO:K10357]
+            4645  MYO5B; myosin VB [KO:K10357]
+            55930  MYO5C; myosin VC [KO:K10357]
+            4646  MYO6; myosin VI [KO:K10358]
+            4651  MYO10; myosin X [KO:K12559]
+            4627  MYH9; myosin heavy chain 9 [KO:K10352]
+            4628  MYH10; myosin heavy chain 10 [KO:K10352]
+            4629  MYH11; myosin heavy chain 11 [KO:K10352]
+            79784  MYH14; myosin heavy chain 14 [KO:K10352]
+            8976  WASL; WASP like actin nucleation promoting factor [KO:K23612]
+            9368  NHERF1; NHERF family PDZ scaffold protein 1 [KO:K13365]
+            7430  EZR; ezrin [KO:K08007]
+            2147  F2; coagulation factor II, thrombin [KO:K01313] [EC:3.4.21.5]
+            1902  LPAR1; lysophosphatidic acid receptor 1 [KO:K04289]
+            9170  LPAR2; lysophosphatidic acid receptor 2 [KO:K04291]
+            2846  LPAR4; lysophosphatidic acid receptor 4 [KO:K04275]
+            57121  LPAR5; lysophosphatidic acid receptor 5 [KO:K08390]
+            2149  F2R; coagulation factor II thrombin receptor [KO:K03914]
+            2768  GNA12; G protein subunit alpha 12 [KO:K04346]
+            10672  GNA13; G protein subunit alpha 13 [KO:K04639]
+            9826  ARHGEF11; Rho guanine nucleotide exchange factor 11 [KO:K12331]
+            23365  ARHGEF12; Rho guanine nucleotide exchange factor 12 [KO:K07532]
+            10376  TUBA1B; tubulin alpha 1b [KO:K07374]
+            7277  TUBA4A; tubulin alpha 4a [KO:K07374]
+            7278  TUBA3C; tubulin alpha 3c [KO:K07374]
+            7846  TUBA1A; tubulin alpha 1a [KO:K07374]
+            84790  TUBA1C; tubulin alpha 1c [KO:K07374]
+            51807  TUBA8; tubulin alpha 8 [KO:K07374]
+            112714  TUBA3E; tubulin alpha 3e [KO:K07374]
+            113457  TUBA3D; tubulin alpha 3d [KO:K07374]
+            79861  TUBAL3; tubulin alpha like 3 [KO:K07374]
+            84617  TUBB6; tubulin beta 6 class V [KO:K07375]
+            203068  TUBB; tubulin beta class I [KO:K07375]
+            81027  TUBB1; tubulin beta 1 class VI [KO:K07375]
+            7280  TUBB2A; tubulin beta 2A class IIa [KO:K07375]
+            10381  TUBB3; tubulin beta 3 class III [KO:K07375]
+            10382  TUBB4A; tubulin beta 4A class IVa [KO:K07375]
+            347688  TUBB8; tubulin beta 8 class VIII [KO:K07375]
+            347733  TUBB2B; tubulin beta 2B class IIb [KO:K07375]
+            10383  TUBB4B; tubulin beta 4B class IVb [KO:K07375]
+            9181  ARHGEF2; Rho/Rac guanine nucleotide exchange factor 2 [KO:K12791]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            2534  FYN; FYN proto-oncogene, Src family tyrosine kinase [KO:K05703] [EC:2.7.10.2]
+            25  ABL1; ABL proto-oncogene 1, non-receptor tyrosine kinase [KO:K06619] [EC:2.7.10.2]
+            55971  BAIAP2L1; BAR/IMD domain containing adaptor protein 2 like 1 [KO:K20127]
+            10458  BAIAP2; BAR/IMD domain containing adaptor protein 2 [KO:K05627]
+            4690  NCK1; NCK adaptor protein 1 [KO:K07365]
+            8440  NCK2; NCK adaptor protein 2 [KO:K19862]
+            147179  WIPF2; WAS/WASL interacting protein family member 2 [KO:K19475]
+            7456  WIPF1; WAS/WASL interacting protein family member 1 [KO:K19475]
+            644150  WIPF3; WAS/WASL interacting protein family member 3 [KO:K19475]
+            2017  CTTN; cortactin [KO:K06106]
+            3059  HCLS1; hematopoietic cell-specific Lyn substrate 1 [KO:K06106]
+            4691  NCL; nucleolin [KO:K11294]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3554  IL1R1; interleukin 1 receptor type 1 [KO:K04386]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            114609  TIRAP; TIR domain containing adaptor protein [KO:K05403]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            7100  TLR5; toll like receptor 5 [KO:K10168]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            5777  PTPN6; protein tyrosine phosphatase non-receptor type 6 [KO:K05697] [EC:3.1.3.48]
+            5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            2597  GAPDH; glyceraldehyde-3-phosphate dehydrogenase [KO:K00134] [EC:1.2.1.12]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            8737  RIPK1; receptor interacting serine/threonine kinase 1 [KO:K02861] [EC:2.7.11.1]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            10454  TAB1; TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [KO:K04403]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            257397  TAB3; TGF-beta activated kinase 1 (MAP3K7) binding protein 3 [KO:K12793]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            6188  RPS3; ribosomal protein S3 [KO:K02985]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            8743  TNFSF10; TNF superfamily member 10 [KO:K04721]
+            8797  TNFRSF10A; TNF receptor superfamily member 10a [KO:K04722]
+            8795  TNFRSF10B; TNF receptor superfamily member 10b [KO:K04722]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            7009  TMBIM6; transmembrane BAX inhibitor motif containing 6 [KO:K21889]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            840  CASP7; caspase 7 [KO:K04397] [EC:3.4.22.60]
+            10061  ABCF2; ATP binding cassette subfamily F member 2 [KO:K06185]
+            4671  NAIP; NLR family apoptosis inhibitory protein [KO:K12807]
+            147945  NLRP4; NLR family pyrin domain containing 4 [KO:K22265]
+            114548  NLRP3; NLR family pyrin domain containing 3 [KO:K12800]
+            29108  PYCARD; PYD and CARD domain containing [KO:K12799]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+            837  CASP4; caspase 4 [KO:K04394] [EC:3.4.22.57 3.4.22.64]
+            3606  IL18; interleukin 18 [KO:K05482]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            5062  PAK2; p21 (RAC1) activated kinase 2 [KO:K04410] [EC:2.7.11.1]
+            5063  PAK3; p21 (RAC1) activated kinase 3 [KO:K05733] [EC:2.7.11.1]
+            5861  RAB1A; RAB1A, member RAS oncogene family [KO:K07874]
+            10427  SEC24B; SEC24 homolog B, COPII coat complex component [KO:K14007]
+            10802  SEC24A; SEC24 homolog A, COPII coat complex component [KO:K14007]
+            9632  SEC24C; SEC24 homolog C, COPII coat complex component [KO:K14007]
+            9871  SEC24D; SEC24 homolog D, COPII coat complex component [KO:K14007]
+            10972  TMED10; transmembrane p24 trafficking protein 10 [KO:K20352]
+            100506658  OCLN; occludin [KO:K06088]
+            1364  CLDN4; claudin 4 [KO:K06087]
+            1365  CLDN3; claudin 3 [KO:K06087]
+            1366  CLDN7; claudin 7 [KO:K06087]
+            149461  CLDN19; claudin 19 [KO:K06087]
+            10686  CLDN16; claudin 16 [KO:K06087]
+            23562  CLDN14; claudin 14 [KO:K06087]
+            24146  CLDN15; claudin 15 [KO:K06087]
+            26285  CLDN17; claudin 17 [KO:K06087]
+            49861  CLDN20; claudin 20 [KO:K06087]
+            5010  CLDN11; claudin 11 [KO:K06087]
+            51208  CLDN18; claudin 18 [KO:K06087]
+            53842  CLDN22; claudin 22 [KO:K06087]
+            7122  CLDN5; claudin 5 [KO:K06087]
+            9071  CLDN10; claudin 10 [KO:K06087]
+            9073  CLDN8; claudin 8 [KO:K06087]
+            9074  CLDN6; claudin 6 [KO:K06087]
+            9075  CLDN2; claudin 2 [KO:K06087]
+            9076  CLDN1; claudin 1 [KO:K06087]
+            9080  CLDN9; claudin 9 [KO:K06087]
+            137075  CLDN23; claudin 23 [KO:K06087]
+            100288814  CLDN34; claudin 34 [KO:K06087]
+            644672  CLDN25; claudin 25 [KO:K06087]
+            100132463  CLDN24; claudin 24 [KO:K06087]
+            7082  TJP1; tight junction protein 1 [KO:K05701]
+COMPOUND    C00338  Lipopolysaccharide
+            C00350  Phosphatidylethanolamine
+            C00681  1-Acyl-sn-glycerol 3-phosphate
+REFERENCE   PMID:29477730
+  AUTHORS   Pinaud L, Sansonetti PJ, Phalipon A
+  TITLE     Host Cell Targeting by Enteropathogenic Bacteria T3SS Effectors.
+  JOURNAL   Trends Microbiol 26:266-283 (2018)
+            DOI:10.1016/j.tim.2018.01.010
+REFERENCE   PMID:25588886
+  AUTHORS   Santos AS, Finlay BB
+  TITLE     Bringing down the host: enteropathogenic and enterohaemorrhagic Escherichia coli effector-mediated subversion of host innate immune pathways.
+  JOURNAL   Cell Microbiol 17:318-32 (2015)
+            DOI:10.1111/cmi.12412
+REFERENCE   PMID:26104206
+  AUTHORS   Pearson JS, Hartland EL
+  TITLE     The Inflammatory Response during Enterohemorrhagic Escherichia coli Infection.
+  JOURNAL   Microbiol Spectr 2:EHEC-0012-2013 (2014)
+            DOI:10.1128/microbiolspec.EHEC-0012-2013
+REFERENCE   PMID:21488979
+  AUTHORS   Wong AR, Pearson JS, Bright MD, Munera D, Robinson KS, Lee SF, Frankel G, Hartland EL
+  TITLE     Enteropathogenic and enterohaemorrhagic Escherichia coli: even more subversive elements.
+  JOURNAL   Mol Microbiol 80:1420-38 (2011)
+            DOI:10.1111/j.1365-2958.2011.07661.x
+REFERENCE   PMID:23927593
+  AUTHORS   Lai Y, Rosenshine I, Leong JM, Frankel G
+  TITLE     Intimate host attachment: enteropathogenic and enterohaemorrhagic Escherichia coli.
+  JOURNAL   Cell Microbiol 15:1796-808 (2013)
+            DOI:10.1111/cmi.12179
+REFERENCE   PMID:27606286
+  AUTHORS   Ugalde-Silva P, Gonzalez-Lugo O, Navarro-Garcia F
+  TITLE     Tight Junction Disruption Induced by Type 3 Secretion System Effectors Injected by Enteropathogenic and Enterohemorrhagic Escherichia coli.
+  JOURNAL   Front Cell Infect Microbiol 6:87 (2016)
+            DOI:10.3389/fcimb.2016.00087
+REFERENCE   PMID:27617233
+  AUTHORS   Yen H, Karino M, Tobe T
+  TITLE     Modulation of the Inflammasome Signaling Pathway by Enteropathogenic and Enterohemorrhagic Escherichia coli.
+  JOURNAL   Front Cell Infect Microbiol 6:89 (2016)
+            DOI:10.3389/fcimb.2016.00089
+REFERENCE   PMID:27732847
+  AUTHORS   Humphreys D, Singh V, Koronakis V
+  TITLE     Inhibition of WAVE Regulatory Complex Activation by a Bacterial Virulence Effector Counteracts Pathogen Phagocytosis.
+  JOURNAL   Cell Rep 17:697-707 (2016)
+            DOI:10.1016/j.celrep.2016.09.039
+REFERENCE   PMID:20300064
+  AUTHORS   Dong N, Liu L, Shao F
+  TITLE     A bacterial effector targets host DH-PH domain RhoGEFs and antagonizes macrophage phagocytosis.
+  JOURNAL   EMBO J 29:1363-76 (2010)
+            DOI:10.1038/emboj.2010.33
+REFERENCE   PMID:15318166
+  AUTHORS   Matsuzawa T, Kuwae A, Yoshida S, Sasakawa C, Abe A.
+  TITLE     Enteropathogenic Escherichia coli activates the RhoA signaling pathway via the stimulation of GEF-H1.
+  JOURNAL   EMBO J 23:3570-82 (2004)
+            DOI:10.1038/sj.emboj.7600359
+REL_PATHWAY hsa04064  NF-kappa B signaling pathway
+            hsa04210  Apoptosis
+            hsa04530  Tight junction
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko05130
+///

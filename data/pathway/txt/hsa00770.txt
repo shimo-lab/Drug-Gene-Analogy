@@ -1,0 +1,66 @@
+ENTRY       hsa00770                    Pathway
+NAME        Pantothenate and CoA biosynthesis - Homo sapiens (human)
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP hsa00770  Pantothenate and CoA biosynthesis
+MODULE      hsa_M00120  Coenzyme A biosynthesis, pantothenate => CoA [PATH:hsa00770]
+DBLINKS     GO: 0015940 0015937
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        53354  PANK1; pantothenate kinase 1 [KO:K09680] [EC:2.7.1.33]
+            79646  PANK3; pantothenate kinase 3 [KO:K09680] [EC:2.7.1.33]
+            80025  PANK2; pantothenate kinase 2 [KO:K09680] [EC:2.7.1.33]
+            79717  PPCS; phosphopantothenoylcysteine synthetase [KO:K01922] [EC:6.3.2.51]
+            60490  PPCDC; phosphopantothenoylcysteine decarboxylase [KO:K01598] [EC:4.1.1.36]
+            5167  ENPP1; ectonucleotide pyrophosphatase/phosphodiesterase 1 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            5169  ENPP3; ectonucleotide pyrophosphatase/phosphodiesterase 3 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            80347  COASY; Coenzyme A synthase [KO:K02318] [EC:2.7.7.3 2.7.1.24]
+            60496  AASDHPPT; aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase [KO:K06133] [EC:2.7.8.-]
+            8876  VNN1; vanin 1 [KO:K08069] [EC:3.5.1.92]
+            8875  VNN2; vanin 2 [KO:K08069] [EC:3.5.1.92]
+            587  BCAT2; branched chain amino acid transaminase 2 [KO:K00826] [EC:2.6.1.42]
+            586  BCAT1; branched chain amino acid transaminase 1 [KO:K00826] [EC:2.6.1.42]
+            1806  DPYD; dihydropyrimidine dehydrogenase [KO:K00207] [EC:1.3.1.2]
+            1807  DPYS; dihydropyrimidinase [KO:K01464] [EC:3.5.2.2]
+            51733  UPB1; beta-ureidopropionase 1 [KO:K01431] [EC:3.5.1.6]
+            339896  GADL1; glutamate decarboxylase like 1 [KO:K18966] [EC:4.1.1.29 4.1.1.11]
+            51380  CSAD; cysteine sulfinic acid decarboxylase [KO:K18966] [EC:4.1.1.29 4.1.1.11]
+            217  ALDH2; aldehyde dehydrogenase 2 family member [KO:K00128] [EC:1.2.1.3]
+            224  ALDH3A2; aldehyde dehydrogenase 3 family member A2 [KO:K00128] [EC:1.2.1.3]
+            219  ALDH1B1; aldehyde dehydrogenase 1 family member B1 [KO:K00128] [EC:1.2.1.3]
+COMPOUND    C00010  CoA
+            C00022  Pyruvate
+            C00049  L-Aspartate
+            C00054  Adenosine 3',5'-bisphosphate
+            C00097  L-Cysteine
+            C00099  beta-Alanine
+            C00106  Uracil
+            C00141  3-Methyl-2-oxobutanoic acid
+            C00183  L-Valine
+            C00229  Acyl-carrier protein
+            C00429  5,6-Dihydrouracil
+            C00522  (R)-Pantoate
+            C00750  Spermine
+            C00831  Pantetheine
+            C00864  Pantothenate
+            C00882  Dephospho-CoA
+            C00966  2-Dehydropantoate
+            C01053  (R)-4-Dehydropantoate
+            C01088  (R)-3,3-Dimethylmalate
+            C01134  Pantetheine 4'-phosphate
+            C02642  3-Ureidopropionate
+            C03492  D-4'-Phosphopantothenate
+            C03688  Apo-[acyl-carrier-protein]
+            C04079  N-((R)-Pantothenoyl)-L-cysteine
+            C04272  (R)-2,3-Dihydroxy-3-methylbutanoate
+            C04352  (R)-4'-Phosphopantothenoyl-L-cysteine
+            C05665  3-Aminopropanal
+            C05944  Pantothenol
+            C06010  (S)-2-Acetolactate
+            C18911  (R)-4-Phosphopantoate
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00270  Cysteine and methionine metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00640  Propanoate metabolism
+KO_PATHWAY  ko00770
+///

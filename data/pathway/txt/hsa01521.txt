@@ -1,0 +1,136 @@
+ENTRY       hsa01521                    Pathway
+NAME        EGFR tyrosine kinase inhibitor resistance - Homo sapiens (human)
+DESCRIPTION EGFR is a tyrosine kinase that participates in the regulation of cellular homeostasis. EGFR also serves as a stimulus for cancer growth. EGFR gene mutations and protein overexpression, both of which activate down- stream pathways, are associated with cancers, especially lung cancer. Several tyrosine kinase inhibitor (TKI) therapies against EGFR are currently administered and are initially effective in cancer patients who have EGFR mutations or aberrant activation of EGFR. However, the development of TKI resistance is common and results in the recurrence of tumors. Studies over the last decade have identified mechanisms that drive resistance to EGFR TKI treatment. Most outstanding mechanisms are: the secondary EGFR mutation (T790M), activation of alternative pathways (c-Met, HGF, AXL), aberrance of the downstream pathways (K-RAS mutations, loss of PTEN), impairment of the EGFR-TKIs-mediated apoptosis pathway (BCL2-like 11/BIM deletion polymorphism), histologic transformation, etc.
+CLASS       Human Diseases; Drug resistance: antineoplastic
+PATHWAY_MAP hsa01521  EGFR tyrosine kinase inhibitor resistance
+DRUG        D08950  Neratinib (USAN/INN)
+            D09371  Ramucirumab (USAN)
+            D10766  Osimertinib mesylate (USAN)
+            D10898  Neratinib maleate
+            D11244  Vanucizumab (USAN/INN)
+            D11251  Icotinib
+            D11307  Telisotuzumab (USAN)
+            D11344  Telisotuzumab vedotin (USAN)
+            D11417  Pemigatinib (JAN/USAN/INN)
+            D11529  Trastuzumab deruxtecan (USAN/INN)
+            D11725  Futibatinib (JAN/USAN/INN)
+            D11772  Tesevatinib (USAN/INN)
+            D11773  Tesevatinib tosylate (USAN)
+            D11969  Mobocertinib succinate (JAN)
+            D11980  Lazertinib (USAN)
+            D12219  Mecbotamab (USAN)
+            D12220  Mecbotamab vedotin
+            D12245  Lazertinib mesilate hydrate (JAN)
+            D12258  Aumolertinib (USAN)
+            D12259  Aumolertinib mesylate (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+REFERENCE   PMID:26579470
+  AUTHORS   Huang L, Fu L
+  TITLE     Mechanisms of resistance to EGFR tyrosine kinase inhibitors.
+  JOURNAL   Acta Pharm Sin B 5:390-401 (2015)
+            DOI:10.1016/j.apsb.2015.07.001
+REFERENCE   PMID:23358468
+  AUTHORS   Hrustanovic G, Lee BJ, Bivona TG
+  TITLE     Mechanisms of resistance to EGFR targeted therapies.
+  JOURNAL   Cancer Biol Ther 14:304-14 (2013)
+            DOI:10.4161/cbt.23627
+REFERENCE   PMID:25232485
+  AUTHORS   Lin Y, Wang X, Jin H
+  TITLE     EGFR-TKI resistance in NSCLC patients: mechanisms and strategies.
+  JOURNAL   Am J Cancer Res 4:411-35 (2014)
+REFERENCE   PMID:19632948
+  AUTHORS   Nguyen KS, Kobayashi S, Costa DB
+  TITLE     Acquired resistance to epidermal growth factor receptor tyrosine kinase inhibitors in non-small-cell lung cancers dependent on the epidermal growth factor receptor pathway.
+  JOURNAL   Clin Lung Cancer 10:281-9 (2009)
+            DOI:10.3816/CLC.2009.n.039
+REFERENCE   PMID:18483355
+  AUTHORS   Engelman JA, Janne PA
+  TITLE     Mechanisms of acquired resistance to epidermal growth factor receptor tyrosine kinase inhibitors in non-small cell lung cancer.
+  JOURNAL   Clin Cancer Res 14:2895-9 (2008)
+            DOI:10.1158/1078-0432.CCR-07-2248
+REFERENCE   PMID:23401451
+  AUTHORS   Ohashi K, Maruvka YE, Michor F, Pao W
+  TITLE     Epidermal growth factor receptor tyrosine kinase inhibitor-resistant disease.
+  JOURNAL   J Clin Oncol 31:1070-80 (2013)
+            DOI:10.1200/JCO.2012.43.3912
+REFERENCE   PMID:24307395
+  AUTHORS   Carrera S, Buque A, Azkona E, Aresti U, Calvo B, Sancho A, Arruti M, Nuno M, Rubio I, de Lobera AR, Lopez C, Vivanco GL
+  TITLE     Epidermal growth factor receptor tyrosine-kinase inhibitor treatment resistance in non-small cell lung cancer: biological basis and therapeutic strategies.
+  JOURNAL   Clin Transl Oncol 16:339-50 (2014)
+            DOI:10.1007/s12094-013-1143-9
+REFERENCE   PMID:22970367
+  AUTHORS   Lin L, Bivona TG
+  TITLE     Mechanisms of Resistance to Epidermal Growth Factor Receptor Inhibitors and Novel Therapeutic Strategies to Overcome Resistance in NSCLC Patients.
+  JOURNAL   Chemother Res Pract 2012:817297 (2012)
+            DOI:10.1155/2012/817297
+REFERENCE   
+  AUTHORS   Song X.
+  TITLE     Targeting PI3K/AKT/mTOR pathway and mutant EGFR to overcome resistance to tyrosine kinase inhibitors in mutant EGFR-mediated lung cancer
+  JOURNAL   Onco Reviews 1:13-19 (2013)
+            DOI:10.14259/or.v1i1.81
+REFERENCE   PMID:24202392
+  AUTHORS   Chong CR, Janne PA
+  TITLE     The quest to overcome resistance to EGFR-targeted therapies in cancer.
+  JOURNAL   Nat Med 19:1389-400 (2013)
+            DOI:10.1038/nm.3388
+REFERENCE   PMID:20551942
+  AUTHORS   Wheeler DL, Dunn EF, Harari PM
+  TITLE     Understanding resistance to EGFR inhibitors-impact on future treatment strategies.
+  JOURNAL   Nat Rev Clin Oncol 7:493-507 (2010)
+            DOI:10.1038/nrclinonc.2010.97
+REFERENCE   PMID:23361103
+  AUTHORS   Gonzalez de Castro D, Clarke PA, Al-Lazikani B, Workman P
+  TITLE     Personalized cancer medicine: molecular diagnostics, predictive biomarkers, and drug resistance.
+  JOURNAL   Clin Pharmacol Ther 93:252-9 (2013)
+            DOI:10.1038/clpt.2012.237
+REFERENCE   PMID:20966921
+  AUTHORS   Pao W, Chmielecki J
+  TITLE     Rational, biologically based treatment of EGFR-mutant non-small-cell lung cancer.
+  JOURNAL   Nat Rev Cancer 10:760-74 (2010)
+            DOI:10.1038/nrc2947
+REFERENCE   PMID:22956644
+  AUTHORS   Takezawa K, Pirazzoli V, Arcila ME, Nebhan CA, Song X, de Stanchina E, Ohashi K, Janjigian YY, Spitzler PJ, Melnick MA, Riely GJ, Kris MG, Miller VA, Ladanyi M, Politi K, Pao W
+  TITLE     HER2 amplification: a potential mechanism of acquired resistance to EGFR inhibition in EGFR-mutant lung cancers that lack the second-site EGFRT790M mutation.
+  JOURNAL   Cancer Discov 2:922-33 (2012)
+            DOI:10.1158/2159-8290.CD-12-0108
+REFERENCE   PMID:16843264
+  AUTHORS   Zhou BB, Peyton M, He B, Liu C, Girard L, Caudler E, Lo Y, Baribaud F, Mikami I, Reguart N, Yang G, Li Y, Yao W, Vaddi K, Gazdar AF, Friedman SM, Jablons DM, Newton RC, Fridman JS, Minna JD, Scherle PA
+  TITLE     Targeting ADAM-mediated ligand cleavage to inhibit HER3 and EGFR pathways in non-small cell lung cancer.
+  JOURNAL   Cancer Cell 10:39-50 (2006)
+            DOI:10.1016/j.ccr.2006.05.024
+REFERENCE   PMID:22474259
+  AUTHORS   Logue JS, Morrison DK
+  TITLE     Complexity in the signaling network: insights from the use of targeted inhibitors in cancer therapy.
+  JOURNAL   Genes Dev 26:641-50 (2012)
+            DOI:10.1101/gad.186965.112
+REFERENCE   PMID:24493829
+  AUTHORS   Costa C, Molina MA, Drozdowskyj A, Gimenez-Capitan A, Bertran-Alamillo J, Karachaliou N, Gervais R, Massuti B, Wei J, Moran T, Majem M, Felip E, Carcereny E, Garcia-Campelo R, Viteri S, Taron M, Ono M, Giannikopoulos P, Bivona T, Rosell R
+  TITLE     The impact of EGFR T790M mutations and BIM mRNA expression on outcome in patients with EGFR-mutant NSCLC treated with erlotinib or chemotherapy in the randomized phase III EURTAC trial.
+  JOURNAL   Clin Cancer Res 20:2001-10 (2014)
+            DOI:10.1158/1078-0432.CCR-13-2233
+REFERENCE   PMID:23071030
+  AUTHORS   Blakely CM, Bivona TG
+  TITLE     Resiliency of lung cancers to EGFR inhibitor treatment unveiled, offering opportunities to divide and conquer EGFR inhibitor resistance.
+  JOURNAL   Cancer Discov 2:872-5 (2012)
+            DOI:10.1158/2159-8290.CD-12-0387
+REFERENCE   PMID:25337673
+  AUTHORS   Wu X, Liu X, Koul S, Lee CY, Zhang Z, Halmos B
+  TITLE     AXL kinase as a novel target for cancer therapy.
+  JOURNAL   Oncotarget 5:9546-63 (2014)
+            DOI:10.18632/oncotarget.2542
+REFERENCE   PMID:17554333
+  AUTHORS   Arteaga CL
+  TITLE     HER3 and mutant EGFR meet MET.
+  JOURNAL   Nat Med 13:675-7 (2007)
+            DOI:10.1038/nm0607-675
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04012  ErbB signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04630  JAK-STAT signaling pathway
+            hsa05212  Pancreatic cancer
+            hsa05214  Glioma
+            hsa05223  Non-small cell lung cancer
+KO_PATHWAY  ko01521
+///

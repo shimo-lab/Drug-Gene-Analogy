@@ -1,0 +1,104 @@
+ENTRY       hsa03460                    Pathway
+NAME        Fanconi anemia pathway - Homo sapiens (human)
+DESCRIPTION The Fanconi anemia pathway is required for the efficient repair of damaged DNA, especially interstrand cross-links (ICLs). DNA ICL is directly recognized by FANCM and associated proteins, that recruit the FA core complex. The FA core complex monoubiquitinates FANCD2 and FANCI. The monoubiquitinated FANCD2/FANCI becomes an active form and interacts with a series of DNA repair proteins and facilitates downstream repair pathways. Fanconi anemia is caused by mutations in one of at least 13 FA genes and is characterized by congenital growth abnormalities, bone marrow failure and cancer predisposition.
+CLASS       Genetic Information Processing; Replication and repair
+PATHWAY_MAP hsa03460  Fanconi anemia pathway
+NETWORK     nt06506  Double-strand break repair
+            nt06508  Interstrand crosslink repair
+  ELEMENT   N01447  Double Holliday junction dissolution
+            N01448  Double Holliday junction resolution
+            N01464  Fanconi anemia pathway
+            N01465  Lesion bypass by TLS and DSB formation
+            N01466  Homologous recombination in ICLR
+            N01539  RAD51 -dsDNA destabilization
+DRUG        D12558  Emzadirib (USAN)
+DBLINKS     GO: 0043240
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        84126  ATRIP; ATR interacting protein [KO:K10905]
+            545  ATR; ATR serine/threonine kinase [KO:K06640] [EC:2.7.11.1]
+            57697  FANCM; FA complementation group M [KO:K10896]
+            91442  FAAP24; FA core complex associated protein 24 [KO:K10898]
+            378708  CENPS; centromere protein S [KO:K11511]
+            100526739  CENPS-CORT; CENPS-CORT readthrough [KO:K11511]
+            201254  CENPX; centromere protein X [KO:K15360]
+            9894  TELO2; telomere maintenance 2 [KO:K11137]
+            3280  HES1; hes family bHLH transcription factor 1 [KO:K06054]
+            80233  FAAP100; FA core complex associated protein 100 [KO:K10993]
+            2175  FANCA; FA complementation group A [KO:K10888]
+            2187  FANCB; FA complementation group B [KO:K10889]
+            2176  FANCC; FA complementation group C [KO:K10890]
+            2178  FANCE; FA complementation group E [KO:K10892]
+            2188  FANCF; FA complementation group F [KO:K10893]
+            2189  FANCG; FA complementation group G [KO:K10894]
+            55120  FANCL; FA complementation group L [KO:K10606] [EC:2.3.2.27]
+            57599  WDR48; WD repeat domain 48 [KO:K15361]
+            7398  USP1; ubiquitin specific peptidase 1 [KO:K11832] [EC:3.4.19.12]
+            29089  UBE2T; ubiquitin conjugating enzyme E2 T [KO:K13960] [EC:2.3.2.23]
+            55215  FANCI; FA complementation group I [KO:K10895]
+            2177  FANCD2; FA complementation group D2 [KO:K10891]
+            675  BRCA2; BRCA2 DNA repair associated [KO:K08775]
+            79728  PALB2; partner and localizer of BRCA2 [KO:K10897]
+            5889  RAD51C; RAD51 paralog C [KO:K10870]
+            5888  RAD51; RAD51 recombinase [KO:K04482]
+            672  BRCA1; BRCA1 DNA repair associated [KO:K10605] [EC:2.3.2.27]
+            83990  BRIP1; BRCA1 interacting helicase 1 [KO:K15362] [EC:5.6.2.3]
+            22909  FAN1; FANCD2 and FANCI associated nuclease 1 [KO:K15363] [EC:3.1.21.- 3.1.4.1]
+            4292  MLH1; mutL homolog 1 [KO:K08734]
+            5395  PMS2; PMS1 homolog 2, mismatch repair system component [KO:K10858]
+            51455  REV1; REV1 DNA directed polymerase [KO:K03515] [EC:2.7.7.-]
+            5980  REV3L; REV3 like, DNA directed polymerase zeta catalytic subunit [KO:K02350] [EC:2.7.7.7]
+            5429  POLH; DNA polymerase eta [KO:K03509] [EC:2.7.7.7]
+            11201  POLI; DNA polymerase iota [KO:K03510] [EC:2.7.7.7]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+            353497  POLN; DNA polymerase nu [KO:K16618] [EC:2.7.7.7]
+            80010  RMI1; RecQ mediated genome instability 1 [KO:K10990]
+            116028  RMI2; RecQ mediated genome instability 2 [KO:K15365]
+            7156  TOP3A; DNA topoisomerase III alpha [KO:K03165] [EC:5.6.2.1]
+            8940  TOP3B; DNA topoisomerase III beta [KO:K03165] [EC:5.6.2.1]
+            641  BLM; BLM RecQ like helicase [KO:K10901] [EC:5.6.2.4]
+            6117  RPA1; replication protein A1 [KO:K07466]
+            6118  RPA2; replication protein A2 [KO:K10739]
+            6119  RPA3; replication protein A3 [KO:K10740]
+            29935  RPA4; replication protein A4 [KO:K10741]
+            80198  MUS81; MUS81 structure-specific endonuclease subunit [KO:K08991] [EC:3.1.22.-]
+            146956  EME1; essential meiotic structure-specific endonuclease 1 [KO:K10882] [EC:3.1.22.-]
+            197342  EME2; essential meiotic structure-specific endonuclease subunit 2 [KO:K10883]
+            2072  ERCC4; ERCC excision repair 4, endonuclease catalytic subunit [KO:K10848] [EC:3.1.-.-]
+            2067  ERCC1; ERCC excision repair 1, endonuclease non-catalytic subunit [KO:K10849]
+            548593  SLX1A; SLX1 homolog A, structure-specific endonuclease subunit [KO:K15078] [EC:3.6.1.-]
+            79008  SLX1B; SLX1 homolog B, structure-specific endonuclease subunit [KO:K15078] [EC:3.6.1.-]
+            84464  SLX4; SLX4 structure-specific endonuclease subunit [KO:K10484]
+REFERENCE   PMID:18047734
+  AUTHORS   Jacquemont C, Taniguchi T
+  TITLE     The Fanconi anemia pathway and ubiquitin.
+  JOURNAL   BMC Biochem 8 Suppl 1:S10 (2007)
+            DOI:10.1186/1471-2091-8-S1-S10
+REFERENCE   PMID:19805513
+  AUTHORS   Bhagwat N, Olsen AL, Wang AT, Hanada K, Stuckert P, Kanaar R, D'Andrea A, Niedernhofer LJ, McHugh PJ
+  TITLE     XPF-ERCC1 participates in the Fanconi anemia pathway of cross-link repair.
+  JOURNAL   Mol Cell Biol 29:6427-37 (2009)
+            DOI:10.1128/MCB.00086-09
+REFERENCE   PMID:21701511
+  AUTHORS   Deans AJ, West SC
+  TITLE     DNA interstrand crosslink repair and cancer.
+  JOURNAL   Nat Rev Cancer 11:467-80 (2011)
+            DOI:10.1038/nrc3088
+REFERENCE   PMID:20064461
+  AUTHORS   Deans AJ, West SC
+  TITLE     FANCM connects the genome instability disorders Bloom's Syndrome and Fanconi Anemia.
+  JOURNAL   Mol Cell 36:943-53 (2009)
+            DOI:10.1016/j.molcel.2009.12.006
+REFERENCE   PMID:20039786
+  AUTHORS   Muniandy PA, Liu J, Majumdar A, Liu ST, Seidman MM
+  TITLE     DNA interstrand crosslink repair in mammalian cells: step by step.
+  JOURNAL   Crit Rev Biochem Mol Biol 45:23-49 (2010)
+            DOI:10.3109/10409230903501819
+REFERENCE   PMID:18518821
+  AUTHORS   Ciccia A, McDonald N, West SC
+  TITLE     Structural and functional relationships of the XPF/MUS81 family of proteins.
+  JOURNAL   Annu Rev Biochem 77:259-87 (2008)
+            DOI:10.1146/annurev.biochem.77.070306.102408
+REL_PATHWAY hsa03430  Mismatch repair
+            hsa03440  Homologous recombination
+KO_PATHWAY  ko03460
+///

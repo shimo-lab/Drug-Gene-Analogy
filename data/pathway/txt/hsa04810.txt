@@ -1,0 +1,306 @@
+ENTRY       hsa04810                    Pathway
+NAME        Regulation of actin cytoskeleton - Homo sapiens (human)
+CLASS       Cellular Processes; Cell motility
+PATHWAY_MAP hsa04810  Regulation of actin cytoskeleton
+NETWORK     nt06124  Chemokine signaling (viruses)
+            nt06135  Cytoskeletal regulation (viruses and bacteria)
+            nt06167  Human cytomegalovirus (HCMV)
+            nt06423  Cytoskeletal regulation
+            nt06464  Amyotrophic lateral sclerosis
+  ELEMENT   N00405  CXCR4-GNA12/13-Rho signaling pathway
+            N01068  ITGA/B-FAK-RAC signaling pathway
+            N01097  LPA-GNA12/13-RhoA signaling pathway
+            N01161  Actin polymerization
+DRUG        D01175  Carpronium chloride (JAN/INN)
+            D01840  Fasudil hydrochloride (JAN)
+            D03065  Becaplermin (USAN/INN)
+            D03115  Fasudil hydrochloride hydrate (JAN)
+            D03497  Cilengitide (USAN/INN)
+            D03722  Efegatran sulfate (USAN)
+            D03728  Napsagatran (USAN)
+            D04492  Icatibant acetate (JAN/USAN)
+            D05338  Palifermin (USAN/INN)
+            D05716  Repifermin (USAN/INN)
+            D06319  Volociximab (USAN)
+            D07941  Fasudil (INN)
+            D09342  Etaracizumab (USAN/INN)
+            D09752  Carpronium chloride hydrate (JAN)
+            D10028  Valategrast hydrochloride (USAN)
+            D10374  Lifitegrast (USAN/INN)
+            D10392  Lifitegrast sodium (USAN)
+            D10463  Ripasudil hydrochloride hydrate (JAN)
+DBLINKS     GO: 0030036
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1902  LPAR1; lysophosphatidic acid receptor 1 [KO:K04289]
+            9170  LPAR2; lysophosphatidic acid receptor 2 [KO:K04291]
+            2846  LPAR4; lysophosphatidic acid receptor 4 [KO:K04275]
+            57121  LPAR5; lysophosphatidic acid receptor 5 [KO:K08390]
+            6387  CXCL12; C-X-C motif chemokine ligand 12 [KO:K10031]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            2147  F2; coagulation factor II, thrombin [KO:K01313] [EC:3.4.21.5]
+            2149  F2R; coagulation factor II thrombin receptor [KO:K03914]
+            3630  INS; insulin [KO:K04526]
+            1950  EGF; epidermal growth factor [KO:K04357]
+            2246  FGF1; fibroblast growth factor 1 [KO:K18496]
+            2247  FGF2; fibroblast growth factor 2 [KO:K18497]
+            2248  FGF3; fibroblast growth factor 3 [KO:K04358]
+            2249  FGF4; fibroblast growth factor 4 [KO:K04358]
+            8822  FGF17; fibroblast growth factor 17 [KO:K04358]
+            2251  FGF6; fibroblast growth factor 6 [KO:K04358]
+            2252  FGF7; fibroblast growth factor 7 [KO:K04358]
+            2253  FGF8; fibroblast growth factor 8 [KO:K04358]
+            2254  FGF9; fibroblast growth factor 9 [KO:K04358]
+            2255  FGF10; fibroblast growth factor 10 [KO:K04358]
+            8823  FGF16; fibroblast growth factor 16 [KO:K04358]
+            2250  FGF5; fibroblast growth factor 5 [KO:K04358]
+            8817  FGF18; fibroblast growth factor 18 [KO:K04358]
+            26281  FGF20; fibroblast growth factor 20 [KO:K04358]
+            27006  FGF22; fibroblast growth factor 22 [KO:K04358]
+            9965  FGF19; fibroblast growth factor 19 [KO:K22603]
+            26291  FGF21; fibroblast growth factor 21 [KO:K22429]
+            8074  FGF23; fibroblast growth factor 23 [KO:K22428]
+            5154  PDGFA; platelet derived growth factor subunit A [KO:K04359]
+            5155  PDGFB; platelet derived growth factor subunit B [KO:K17386]
+            56034  PDGFC; platelet derived growth factor C [KO:K05450]
+            80310  PDGFD; platelet derived growth factor D [KO:K05450]
+            3645  INSRR; insulin receptor related receptor [KO:K05086] [EC:2.7.10.1]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            2260  FGFR1; fibroblast growth factor receptor 1 [KO:K04362] [EC:2.7.10.1]
+            2263  FGFR2; fibroblast growth factor receptor 2 [KO:K05093] [EC:2.7.10.1]
+            2261  FGFR3; fibroblast growth factor receptor 3 [KO:K05094] [EC:2.7.10.1]
+            2264  FGFR4; fibroblast growth factor receptor 4 [KO:K05095] [EC:2.7.10.1]
+            5156  PDGFRA; platelet derived growth factor receptor alpha [KO:K04363] [EC:2.7.10.1]
+            5159  PDGFRB; platelet derived growth factor receptor beta [KO:K05089] [EC:2.7.10.1]
+            2335  FN1; fibronectin 1 [KO:K05717]
+            3672  ITGA1; integrin subunit alpha 1 [KO:K06480]
+            3673  ITGA2; integrin subunit alpha 2 [KO:K06481]
+            3674  ITGA2B; integrin subunit alpha 2b [KO:K06476]
+            3675  ITGA3; integrin subunit alpha 3 [KO:K06482]
+            3676  ITGA4; integrin subunit alpha 4 [KO:K06483]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            3655  ITGA6; integrin subunit alpha 6 [KO:K06485]
+            3679  ITGA7; integrin subunit alpha 7 [KO:K06583]
+            8516  ITGA8; integrin subunit alpha 8 [KO:K06584]
+            3680  ITGA9; integrin subunit alpha 9 [KO:K06585]
+            8515  ITGA10; integrin subunit alpha 10 [KO:K06586]
+            22801  ITGA11; integrin subunit alpha 11 [KO:K06587]
+            3685  ITGAV; integrin subunit alpha V [KO:K06487]
+            3683  ITGAL; integrin subunit alpha L [KO:K05718]
+            3684  ITGAM; integrin subunit alpha M [KO:K06461]
+            3687  ITGAX; integrin subunit alpha X [KO:K06462]
+            3681  ITGAD; integrin subunit alpha D [KO:K06594]
+            3682  ITGAE; integrin subunit alpha E [KO:K06524]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            3691  ITGB4; integrin subunit beta 4 [KO:K06525]
+            3693  ITGB5; integrin subunit beta 5 [KO:K06588]
+            3694  ITGB6; integrin subunit beta 6 [KO:K06589]
+            3695  ITGB7; integrin subunit beta 7 [KO:K06590]
+            3696  ITGB8; integrin subunit beta 8 [KO:K06591]
+            3827  KNG1; kininogen 1 [KO:K03898]
+            623  BDKRB1; bradykinin receptor B1 [KO:K03915]
+            624  BDKRB2; bradykinin receptor B2 [KO:K03916]
+            1128  CHRM1; cholinergic receptor muscarinic 1 [KO:K04129]
+            1129  CHRM2; cholinergic receptor muscarinic 2 [KO:K04130]
+            1131  CHRM3; cholinergic receptor muscarinic 3 [KO:K04131]
+            1132  CHRM4; cholinergic receptor muscarinic 4 [KO:K04132]
+            1133  CHRM5; cholinergic receptor muscarinic 5 [KO:K04133]
+            727  C5; complement C5 [KO:K03994]
+            729  C6; complement C6 [KO:K03995]
+            730  C7; complement C7 [KO:K03996]
+            731  C8A; complement C8 alpha chain [KO:K03997]
+            732  C8B; complement C8 beta chain [KO:K03998]
+            733  C8G; complement C8 gamma chain [KO:K03999]
+            735  C9; complement C9 [KO:K04000]
+            2768  GNA12; G protein subunit alpha 12 [KO:K04346]
+            10672  GNA13; G protein subunit alpha 13 [KO:K04639]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            2245  FGD1; FYVE, RhoGEF and PH domain containing 1 [KO:K05720]
+            89846  FGD3; FYVE, RhoGEF and PH domain containing 3 [KO:K05722]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            9564  BCAR1; BCAR1 scaffold protein, Cas family member [KO:K05726]
+            1398  CRK; CRK proto-oncogene, adaptor protein [KO:K04438]
+            1399  CRKL; CRK like proto-oncogene, adaptor protein [KO:K04438]
+            1793  DOCK1; dedicator of cytokinesis 1 [KO:K13708]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            6237  RRAS; RAS related [KO:K07829]
+            22800  RRAS2; RAS related 2 [KO:K07830]
+            22808  MRAS; muscle RAS oncogene homolog [KO:K07831]
+            9459  ARHGEF6; Rac/Cdc42 guanine nucleotide exchange factor 6 [KO:K05729]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            10451  VAV3; vav guanine nucleotide exchange factor 3 [KO:K05730]
+            7409  VAV1; vav guanine nucleotide exchange factor 1 [KO:K05730]
+            7410  VAV2; vav guanine nucleotide exchange factor 2 [KO:K05730]
+            7074  TIAM1; TIAM Rac1 associated GEF 1 [KO:K05731]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            4342  MOS; MOS proto-oncogene, serine/threonine kinase [KO:K04367] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            28984  RGCC; regulator of cell cycle [KO:K26108]
+            9138  ARHGEF1; Rho guanine nucleotide exchange factor 1 [KO:K12330]
+            23365  ARHGEF12; Rho guanine nucleotide exchange factor 12 [KO:K07532]
+            2909  ARHGAP35; Rho GTPase activating protein 35 [KO:K05732]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            5881  RAC3; Rac family small GTPase 3 [KO:K07861]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            5062  PAK2; p21 (RAC1) activated kinase 2 [KO:K04410] [EC:2.7.11.1]
+            5063  PAK3; p21 (RAC1) activated kinase 3 [KO:K05733] [EC:2.7.11.1]
+            10298  PAK4; p21 (RAC1) activated kinase 4 [KO:K05734] [EC:2.7.11.1]
+            57144  PAK5; p21 (RAC1) activated kinase 5 [KO:K05736] [EC:2.7.11.1]
+            56924  PAK6; p21 (RAC1) activated kinase 6 [KO:K05735] [EC:2.7.11.1]
+            106821730  BUB1B-PAK6; BUB1B-PAK6 readthrough [KO:K05735] [EC:2.7.11.1]
+            8874  ARHGEF7; Rho guanine nucleotide exchange factor 7 [KO:K13710]
+            28964  GIT1; GIT ArfGAP 1 [KO:K05737]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            4638  MYLK; myosin light chain kinase [KO:K00907] [EC:2.7.11.18]
+            85366  MYLK2; myosin light chain kinase 2 [KO:K00907] [EC:2.7.11.18]
+            91807  MYLK3; myosin light chain kinase 3 [KO:K00907] [EC:2.7.11.18]
+            340156  MYLK4; myosin light chain kinase family member 4 [KO:K00907] [EC:2.7.11.18]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            4659  PPP1R12A; protein phosphatase 1 regulatory subunit 12A [KO:K06270]
+            4660  PPP1R12B; protein phosphatase 1 regulatory subunit 12B [KO:K12329]
+            54776  PPP1R12C; protein phosphatase 1 regulatory subunit 12C [KO:K17457]
+            4633  MYL2; myosin light chain 2 [KO:K10351]
+            4636  MYL5; myosin light chain 5 [KO:K12753]
+            58498  MYL7; myosin light chain 7 [KO:K12754]
+            10398  MYL9; myosin light chain 9 [KO:K12755]
+            93408  MYL10; myosin light chain 10 [KO:K12756]
+            103910  MYL12B; myosin light chain 12B [KO:K12757]
+            10627  MYL12A; myosin light chain 12A [KO:K12757]
+            29895  MYL11; myosin light chain 11 [KO:K12758]
+            4627  MYH9; myosin heavy chain 9 [KO:K10352]
+            4628  MYH10; myosin heavy chain 10 [KO:K10352]
+            4629  MYH11; myosin heavy chain 11 [KO:K10352]
+            79784  MYH14; myosin heavy chain 14 [KO:K10352]
+            1729  DIAPH1; diaphanous related formin 1 [KO:K05740]
+            1730  DIAPH2; diaphanous related formin 2 [KO:K05741]
+            6548  SLC9A1; solute carrier family 9 member A1 [KO:K05742]
+            23396  PIP5K1C; phosphatidylinositol-4-phosphate 5-kinase type 1 gamma [KO:K00889] [EC:2.7.1.68]
+            8394  PIP5K1A; phosphatidylinositol-4-phosphate 5-kinase type 1 alpha [KO:K00889] [EC:2.7.1.68]
+            8395  PIP5K1B; phosphatidylinositol-4-phosphate 5-kinase type 1 beta [KO:K00889] [EC:2.7.1.68]
+            79837  PIP4K2C; phosphatidylinositol-5-phosphate 4-kinase type 2 gamma [KO:K00920] [EC:2.7.1.149]
+            5305  PIP4K2A; phosphatidylinositol-5-phosphate 4-kinase type 2 alpha [KO:K00920] [EC:2.7.1.149]
+            8396  PIP4K2B; phosphatidylinositol-5-phosphate 4-kinase type 2 beta [KO:K00920] [EC:2.7.1.149]
+            200576  PIKFYVE; phosphoinositide kinase, FYVE-type zinc finger containing [KO:K00921] [EC:2.7.1.150]
+            3984  LIMK1; LIM domain kinase 1 [KO:K05743] [EC:2.7.11.1]
+            3985  LIMK2; LIM domain kinase 2 [KO:K05744] [EC:2.7.11.1]
+            81624  DIAPH3; diaphanous related formin 3 [KO:K05745]
+            10458  BAIAP2; BAR/IMD domain containing adaptor protein 2 [KO:K05627]
+            55740  ENAH; ENAH actin regulator [KO:K05746]
+            8976  WASL; WASP like actin nucleation promoting factor [KO:K23612]
+            10163  WASF2; WASP family member 2 [KO:K05748]
+            23191  CYFIP1; cytoplasmic FMR1 interacting protein 1 [KO:K05749]
+            26999  CYFIP2; cytoplasmic FMR1 interacting protein 2 [KO:K05749]
+            10787  NCKAP1; NCK associated protein 1 [KO:K05750]
+            3071  NCKAP1L; NCK associated protein 1 like [KO:K05750]
+            10152  ABI2; abl interactor 2 [KO:K05751]
+            55845  BRK1; BRICK1 subunit of SCAR/WAVE actin nucleating complex [KO:K05752]
+            8936  WASF1; WASP family member 1 [KO:K05753]
+            10097  ACTR2; actin related protein 2 [KO:K17260]
+            57180  ACTR3B; actin related protein 3B [KO:K18584]
+            653857  ACTR3C; actin related protein 3C [KO:K18584]
+            10096  ACTR3; actin related protein 3 [KO:K18584]
+            10095  ARPC1B; actin related protein 2/3 complex subunit 1B [KO:K05757]
+            10552  ARPC1A; actin related protein 2/3 complex subunit 1A [KO:K05757]
+            10109  ARPC2; actin related protein 2/3 complex subunit 2 [KO:K05758]
+            10094  ARPC3; actin related protein 2/3 complex subunit 3 [KO:K05756]
+            10093  ARPC4; actin related protein 2/3 complex subunit 4 [KO:K05755]
+            10092  ARPC5; actin related protein 2/3 complex subunit 5 [KO:K05754]
+            81873  ARPC5L; actin related protein 2/3 complex subunit 5 like [KO:K05754]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            345456  PFN3; profilin 3 [KO:K05759]
+            5216  PFN1; profilin 1 [KO:K05759]
+            5217  PFN2; profilin 2 [KO:K05759]
+            375189  PFN4; profilin family member 4 [KO:K05759]
+            5829  PXN; paxillin [KO:K05760]
+            7430  EZR; ezrin [KO:K08007]
+            5962  RDX; radixin [KO:K05762]
+            4478  MSN; moesin [KO:K05763]
+            7114  TMSB4X; thymosin beta 4 X-linked [KO:K05764]
+            9087  TMSB4Y; thymosin beta 4 Y-linked [KO:K05764]
+            1072  CFL1; cofilin 1 [KO:K05765]
+            1073  CFL2; cofilin 2 [KO:K05765]
+            54434  SSH1; slingshot protein phosphatase 1 [KO:K05766] [EC:3.1.3.16 3.1.3.48]
+            54961  SSH3; slingshot protein phosphatase 3 [KO:K05766] [EC:3.1.3.16 3.1.3.48]
+            85464  SSH2; slingshot protein phosphatase 2 [KO:K05766] [EC:3.1.3.16 3.1.3.48]
+            7414  VCL; vinculin [KO:K05700]
+            8826  IQGAP1; IQ motif containing GTPase activating protein 1 [KO:K16848]
+            10788  IQGAP2; IQ motif containing GTPase activating protein 2 [KO:K05767]
+            128239  IQGAP3; IQ motif containing GTPase activating protein 3 [KO:K05767]
+            2934  GSN; gelsolin [KO:K05768]
+            85477  SCIN; scinderin [KO:K05768]
+            87  ACTN1; actinin alpha 1 [KO:K05699]
+            81  ACTN4; actinin alpha 4 [KO:K05699]
+            324  APC; APC regulator of WNT signaling pathway [KO:K02085]
+            10297  APC2; APC regulator of WNT signaling pathway 2 [KO:K02085]
+            50649  ARHGEF4; Rho guanine nucleotide exchange factor 4 [KO:K05769]
+            221178  SPATA13; spermatogenesis associated 13 [KO:K05769]
+COMPOUND    C00681  1-Acyl-sn-glycerol 3-phosphate
+            C01996  Acetylcholine
+            C04637  1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C11554  1-Phosphatidyl-1D-myo-inositol 3,4-bisphosphate
+REFERENCE   PMID:14744429
+  AUTHORS   Burridge K, Wennerberg K.
+  TITLE     Rho and Rac take center stage.
+  JOURNAL   Cell 116:167-79 (2004)
+            DOI:10.1016/S0092-8674(04)00003-0
+REFERENCE   PMID:11082269
+  AUTHORS   Schmitz AA, Govek EE, Bottner B, Van Aelst L.
+  TITLE     Rho GTPases: signaling, migration, and invasion.
+  JOURNAL   Exp Cell Res 261:1-12 (2000)
+            DOI:10.1006/excr.2000.5049
+REFERENCE   PMID:11152757
+  AUTHORS   Takai Y, Sasaki T, Matozaki T.
+  TITLE     Small GTP-binding proteins.
+  JOURNAL   Physiol Rev 81:153-208 (2001)
+            DOI:10.1152/physrev.2001.81.1.153
+REFERENCE   PMID:12700767
+  AUTHORS   Pollard TD.
+  TITLE     The cytoskeleton, cellular motility and the reductionist agenda.
+  JOURNAL   Nature 422:741-5 (2003)
+            DOI:10.1038/nature01598
+REFERENCE   PMID:14657486
+  AUTHORS   Ridley AJ, Schwartz MA, Burridge K, Firtel RA, Ginsberg MH, Borisy G, Parsons JT, Horwitz AR.
+  TITLE     Cell migration: integrating signals from front to back.
+  JOURNAL   Science 302:1704-9 (2003)
+            DOI:10.1126/science.1092053
+REFERENCE   PMID:11082272
+  AUTHORS   Sastry SK, Burridge K.
+  TITLE     Focal adhesions: a nexus for intracellular signaling and cytoskeletal dynamics.
+  JOURNAL   Exp Cell Res 261:25-36 (2000)
+            DOI:10.1006/excr.2000.5043
+REFERENCE   PMID:10574699
+  AUTHORS   Fukata M, Nakagawa M, Kuroda S, Kaibuchi K.
+  TITLE     Cell adhesion and Rho small GTPases.
+  JOURNAL   J Cell Sci 112 ( Pt 24):4491-500 (1999)
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04510  Focal adhesion
+            hsa04520  Adherens junction
+KO_PATHWAY  ko04810
+///

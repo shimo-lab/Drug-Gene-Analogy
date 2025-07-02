@@ -1,0 +1,159 @@
+ENTRY       hsa05144                    Pathway
+NAME        Malaria - Homo sapiens (human)
+DESCRIPTION Plasmodium protozoa are parasites that account for malaria infection. Sporozoite forms of the parasite are injected by mosquito bites under the skin and are carried to the liver where they develop into the merozoite form.
+            Sporozoite invasion of hepatocytes is mediated by parasite surface protein like CSP. Subsequent infection into red blood cells (RBCs) by merozoites causes malaria disease via aberrant cytokine production and sequestration of parasite-infected red blood cells (pRBCs) to host endothelium. Microvasculature sequestration in the brain brings about cerebral malaria that can results in death or persisting neurological impairment. PfEMP1 has been suggested as the key adhesive molecule of pRBCs.
+CLASS       Human Diseases; Infectious disease: parasitic
+PATHWAY_MAP hsa05144  Malaria
+DISEASE     H00361  Malaria
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6382  SDC1; syndecan 1 [KO:K06257]
+            6383  SDC2; syndecan 2 [KO:K16336]
+            4035  LRP1; LDL receptor related protein 1 [KO:K04550]
+            975  CD81; CD81 molecule [KO:K06508]
+            3082  HGF; hepatocyte growth factor [KO:K05460]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            2532  ACKR1; atypical chemokine receptor 1 (Duffy blood group) [KO:K06574]
+            2993  GYPA; glycophorin A (MNS blood group) [KO:K06575]
+            2994  GYPB; glycophorin B (MNS blood group) [KO:K20925]
+            2995  GYPC; glycophorin C (Gerbich blood group) [KO:K06576]
+            3039  HBA1; hemoglobin subunit alpha 1 [KO:K13822]
+            3040  HBA2; hemoglobin subunit alpha 2 [KO:K13822]
+            3043  HBB; hemoglobin subunit beta [KO:K13823]
+            54106  TLR9; toll like receptor 9 [KO:K10161]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            3586  IL10; interleukin 10 [KO:K05443]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            3569  IL6; interleukin 6 [KO:K05405]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            1440  CSF3; colony stimulating factor 3 [KO:K05423]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3606  IL18; interleukin 18 [KO:K05482]
+            3820  KLRB1; killer cell lectin like receptor B1 [KO:K06543]
+            22914  KLRK1; killer cell lectin like receptor K1 [KO:K06728]
+            100528032  KLRC4-KLRK1; KLRC4-KLRK1 readthrough [KO:K06728]
+            3458  IFNG; interferon gamma [KO:K04687]
+            948  CD36; CD36 molecule [KO:K06259]
+            1378  CR1; complement C3b/C4b receptor 1 (Knops blood group) [KO:K04011]
+            1379  CR1L; complement C3b/C4b receptor 1 like [KO:K04011]
+            5175  PECAM1; platelet and endothelial cell adhesion molecule 1 [KO:K06471]
+            7412  VCAM1; vascular cell adhesion molecule 1 [KO:K06527]
+            7057  THBS1; thrombospondin 1 [KO:K16857]
+            1311  COMP; cartilage oligomeric matrix protein [KO:K04659]
+            7058  THBS2; thrombospondin 2 [KO:K04659]
+            7059  THBS3; thrombospondin 3 [KO:K04659]
+            7060  THBS4; thrombospondin 4 [KO:K04659]
+            6401  SELE; selectin E [KO:K06494]
+            3683  ITGAL; integrin subunit alpha L [KO:K05718]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+            959  CD40LG; CD40 ligand [KO:K03161]
+            958  CD40; CD40 molecule [KO:K03160]
+            6403  SELP; selectin P [KO:K06496]
+COMPOUND    C00533  Nitric oxide
+            C00634  Chondroitin 4-sulfate
+            G00052  Type II B antigen
+            G00054  Type II A antigen
+            G10505  Hyaluronic acid
+REFERENCE   PMID:19101208
+  AUTHORS   Morahan BJ, Wang L, Coppel RL
+  TITLE     No TRAP, no invasion.
+  JOURNAL   Trends Parasitol 25:77-84 (2009)
+            DOI:10.1016/j.pt.2008.11.004
+REFERENCE   PMID:8920859
+  AUTHORS   Shakibaei M, Frevert U
+  TITLE     Dual interaction of the malaria circumsporozoite protein with the low density lipoprotein receptor-related protein (LRP) and heparan sulfate proteoglycans.
+  JOURNAL   J Exp Med 184:1699-711 (1996)
+            DOI:10.1084/jem.184.5.1699
+REFERENCE   PMID:15106591
+  AUTHORS   Silvie O, Franetich JF, Renia L, Mazier D
+  TITLE     Malaria sporozoite: migrating for a living.
+  JOURNAL   Trends Mol Med 10:97-100; discussion 100-1 (2004)
+            DOI:10.1016/j.molmed.2004.01.004
+REFERENCE   PMID:15464448
+  AUTHORS   Mota MM, Giordano S, Rodriguez A
+  TITLE     Targeting Plasmodium host cells: survival within hepatocytes.
+  JOURNAL   Trends Mol Med 10:487-92 (2004)
+            DOI:10.1016/j.molmed.2004.08.003
+REFERENCE   PMID:12364790
+  AUTHORS   Cowman AF, Crabb BS
+  TITLE     The Plasmodium falciparum genome--a blueprint for erythrocyte invasion.
+  JOURNAL   Science 298:126-8 (2002)
+            DOI:10.1126/science.1078169
+REFERENCE   PMID:16019257
+  AUTHORS   O'Donnell RA, Blackman MJ
+  TITLE     The role of malaria merozoite proteases in red blood cell invasion.
+  JOURNAL   Curr Opin Microbiol 8:422-7 (2005)
+            DOI:10.1016/j.mib.2005.06.018
+REFERENCE   PMID:17630968
+  AUTHORS   Iyer J, Gruner AC, Renia L, Snounou G, Preiser PR
+  TITLE     Invasion of host cells by malaria parasites: a tale of two protein families.
+  JOURNAL   Mol Microbiol 65:231-49 (2007)
+            DOI:10.1111/j.1365-2958.2007.05791.x
+REFERENCE   PMID:11224682
+  AUTHORS   Chitnis CE
+  TITLE     Molecular insights into receptors used by malaria parasites for erythrocyte invasion.
+  JOURNAL   Curr Opin Hematol 8:85-91 (2001)
+            DOI:10.1097/00062752-200103000-00005
+REFERENCE   PMID:15094163
+  AUTHORS   Rasti N, Wahlgren M, Chen Q
+  TITLE     Molecular aspects of malaria pathogenesis.
+  JOURNAL   FEMS Immunol Med Microbiol 41:9-26 (2004)
+            DOI:10.1016/j.femsim.2004.01.010
+REFERENCE   PMID:15463497
+  AUTHORS   Clark IA, Rockett KA, Cowden WB
+  TITLE     Proposed link between cytokines, nitric oxide and human cerebral malaria.
+  JOURNAL   Parasitol Today 7:205-7 (1991)
+            DOI:10.1016/0169-4758(91)90142-B
+REFERENCE   PMID:18250459
+  AUTHORS   Hisaeda H, Tetsutani K, Imai T, Moriya C, Tu L, Hamano S, Duan X, Chou B, Ishida H, Aramaki A, Shen J, Ishii KJ, Coban C, Akira S, Takeda K, Yasutomo K, Torii M, Himeno K
+  TITLE     Malaria parasites require TLR9 signaling for immune evasion by activating regulatory T cells.
+  JOURNAL   J Immunol 180:2496-503 (2008)
+            DOI:10.4049/jimmunol.180.4.2496
+REFERENCE   PMID:10885986
+  AUTHORS   Chen Q, Schlichtherle M, Wahlgren M
+  TITLE     Molecular aspects of severe malaria.
+  JOURNAL   Clin Microbiol Rev 13:439-50 (2000)
+            DOI:10.1128/CMR.13.3.439-450.2000
+REFERENCE   PMID:11832955
+  AUTHORS   Miller LH, Baruch DI, Marsh K, Doumbo OK
+  TITLE     The pathogenic basis of malaria.
+  JOURNAL   Nature 415:673-9 (2002)
+            DOI:10.1038/415673a
+REFERENCE   PMID:19967139
+  AUTHORS   Faille D, El-Assaad F, Alessi MC, Fusai T, Combes V, Grau GE
+  TITLE     Platelet-endothelial cell interactions in cerebral malaria: the end of a cordial understanding.
+  JOURNAL   Thromb Haemost 102:1093-102 (2009)
+            DOI:10.1160/TH09-05-0337
+REFERENCE   PMID:16138104
+  AUTHORS   Schofield L, Grau GE
+  TITLE     Immunological processes in malaria pathogenesis.
+  JOURNAL   Nat Rev Immunol 5:722-35 (2005)
+            DOI:10.1038/nri1686
+REFERENCE   PMID:14737184
+  AUTHORS   Ishino T, Yano K, Chinzei Y, Yuda M
+  TITLE     Cell-passage activity is required for the malarial parasite to cross the liver sinusoidal cell layer.
+  JOURNAL   PLoS Biol 2:E4 (2004)
+            DOI:10.1371/journal.pbio.0020004
+REFERENCE   PMID:16468982
+  AUTHORS   Kariu T, Ishino T, Yano K, Chinzei Y, Yuda M
+  TITLE     CelTOS, a novel malarial protein that mediates transmission to mosquito and vertebrate hosts.
+  JOURNAL   Mol Microbiol 59:1369-79 (2006)
+            DOI:10.1111/j.1365-2958.2005.05024.x
+REFERENCE   PMID:20091081
+  AUTHORS   Cox D, McConkey S
+  TITLE     The role of platelets in the pathogenesis of cerebral malaria.
+  JOURNAL   Cell Mol Life Sci 67:557-68 (2010)
+            DOI:10.1007/s00018-009-0211-3
+REL_PATHWAY hsa04210  Apoptosis
+            hsa04514  Cell adhesion molecules
+            hsa04610  Complement and coagulation cascades
+            hsa04620  Toll-like receptor signaling pathway
+KO_PATHWAY  ko05144
+///

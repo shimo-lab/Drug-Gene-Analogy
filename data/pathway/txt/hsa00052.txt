@@ -1,0 +1,118 @@
+ENTRY       hsa00052                    Pathway
+NAME        Galactose metabolism - Homo sapiens (human)
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP hsa00052  Galactose metabolism
+MODULE      hsa_M00554  Nucleotide sugar biosynthesis, galactose => UDP-galactose [PATH:hsa00052]
+            hsa_M00632  Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P [PATH:hsa00052]
+NETWORK     nt06023  Galactose degradation
+  ELEMENT   N00847  Galactose degradation
+DRUG        D00216  Acarbose (JAN/USAN/INN)
+            D00625  Miglitol (JP18/USAN/INN)
+            D01665  Voglibose (JP18/USAN/INN)
+            D01688  Epalrestat (JP18/INN)
+            D01715  Risarestat (INN)
+            D01842  Fidarestat (JAN/INN)
+            D02323  Tolrestat (USAN/INN)
+            D02328  Zopolrestat (USAN/INN)
+            D02835  Alrestatin sodium (USAN)
+            D03342  Camiglibose (USAN)
+            D03803  Lidorestat (USAN)
+            D03805  Minalrestat (USAN/INN)
+            D03806  Ponalrestat (USAN/INN)
+            D03807  Zenarestat (USAN/INN)
+            D05893  Sorbinil (USAN/INN)
+            D06403  Ranirestat (JAN/INN)
+            D09605  Duvoglustat (USAN/INN)
+            D09606  Duvoglustat hydrochloride (USAN)
+            D09779  Emiglitate (JAN/INN)
+            D11744  Avalglucosidase alfa (USAN/INN)
+            D11798  Cipaglucosidase alfa (USAN)
+            D11828  Clervonafusp alfa (USAN/INN)
+            D12384  Govorestat (USAN/INN)
+            D12390  Caficrestat (USAN/INN)
+DBLINKS     GO: 0006012
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        130589  GALM; galactose mutarotase [KO:K01785] [EC:5.1.3.3]
+            2584  GALK1; galactokinase 1 [KO:K00849] [EC:2.7.1.6]
+            2592  GALT; galactose-1-phosphate uridylyltransferase [KO:K00965] [EC:2.7.7.12]
+            2582  GALE; UDP-galactose-4-epimerase [KO:K01784] [EC:5.1.3.2]
+            7360  UGP2; UDP-glucose pyrophosphorylase 2 [KO:K00963] [EC:2.7.7.9]
+            5236  PGM1; phosphoglucomutase 1 [KO:K01835] [EC:5.4.2.2]
+            55276  PGM2; phosphoglucomutase 2 [KO:K15779] [EC:5.4.2.2 5.4.2.7]
+            3101  HK3; hexokinase 3 [KO:K00844] [EC:2.7.1.1]
+            3098  HK1; hexokinase 1 [KO:K00844] [EC:2.7.1.1]
+            3099  HK2; hexokinase 2 [KO:K00844] [EC:2.7.1.1]
+            80201  HKDC1; hexokinase domain containing 1 [KO:K00844] [EC:2.7.1.1]
+            2645  GCK; glucokinase [KO:K12407] [EC:2.7.1.2]
+            2538  G6PC1; glucose-6-phosphatase catalytic subunit 1 [KO:K01084] [EC:3.1.3.9]
+            57818  G6PC2; glucose-6-phosphatase catalytic subunit 2 [KO:K01084] [EC:3.1.3.9]
+            92579  G6PC3; glucose-6-phosphatase catalytic subunit 3 [KO:K01084] [EC:3.1.3.9]
+            2720  GLB1; galactosidase beta 1 [KO:K12309] [EC:3.2.1.23]
+            3938  LCT; lactase [KO:K01229] [EC:3.2.1.108 3.2.1.62]
+            3906  LALBA; lactalbumin alpha [KO:K00704] [EC:2.4.1.22]
+            2683  B4GALT1; beta-1,4-galactosyltransferase 1 [KO:K07966] [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+            8704  B4GALT2; beta-1,4-galactosyltransferase 2 [KO:K07967] [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+            2717  GLA; galactosidase alpha [KO:K01189] [EC:3.2.1.22]
+            231  AKR1B1; aldo-keto reductase family 1 member B [KO:K00011] [EC:1.1.1.21]
+            57016  AKR1B10; aldo-keto reductase family 1 member B10 [KO:K00011] [EC:1.1.1.21]
+            5213  PFKM; phosphofructokinase, muscle [KO:K00850] [EC:2.7.1.11]
+            5214  PFKP; phosphofructokinase, platelet [KO:K00850] [EC:2.7.1.11]
+            5211  PFKL; phosphofructokinase, liver type [KO:K00850] [EC:2.7.1.11]
+            8972  MGAM; maltase-glucoamylase [KO:K12047] [EC:3.2.1.20 3.2.1.3]
+            93432  MGAM2; maltase-glucoamylase 2 (putative) [KO:K12047] [EC:3.2.1.20 3.2.1.3]
+            2548  GAA; alpha glucosidase [KO:K12316] [EC:3.2.1.20]
+            2595  GANC; glucosidase alpha, neutral C [KO:K12317] [EC:3.2.1.20]
+            6476  SI; sucrase-isomaltase [KO:K01203] [EC:3.2.1.48 3.2.1.10]
+COMPOUND    C00029  UDP-glucose
+            C00031  D-Glucose
+            C00052  UDP-alpha-D-galactose
+            C00085  D-Fructose 6-phosphate
+            C00089  Sucrose
+            C00095  D-Fructose
+            C00103  D-Glucose 1-phosphate
+            C00111  Glycerone phosphate
+            C00116  Glycerol
+            C00118  D-Glyceraldehyde 3-phosphate
+            C00124  D-Galactose
+            C00137  myo-Inositol
+            C00159  D-Mannose
+            C00243  Lactose
+            C00267  alpha-D-Glucose
+            C00446  alpha-D-Galactose 1-phosphate
+            C00492  Raffinose
+            C00577  D-Glyceraldehyde
+            C00668  alpha-D-Glucose 6-phosphate
+            C00794  D-Sorbitol
+            C00795  D-Tagatose
+            C00880  D-Galactonate
+            C00984  alpha-D-Galactose
+            C01097  D-Tagatose 6-phosphate
+            C01113  D-Galactose 6-phosphate
+            C01132  N-Acetyl-D-galactosamine
+            C01216  2-Dehydro-3-deoxy-D-galactonate
+            C01235  alpha-D-Galactosyl-(1->3)-1D-myo-inositol
+            C01286  2-Dehydro-3-deoxy-6-phospho-D-galactonate
+            C01613  Stachyose
+            C01697  Galactitol
+            C02262  D-Galactosamine
+            C02669  D-Galactono-1,5-lactone
+            C03383  D-Galactono-1,4-lactone
+            C03733  UDP-alpha-D-galactofuranose
+            C03785  D-Tagatose 1,6-bisphosphate
+            C05396  Lactose 6'-phosphate
+            C05399  Melibiitol
+            C05400  Epimelibiose
+            C05401  3-beta-D-Galactosyl-sn-glycerol
+            C05402  Melibiose
+            C05404  D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose
+            C05796  Galactan
+            C06311  Galactitol 1-phosphate
+            C06376  N-Acetyl-D-galactosamine 6-phosphate
+            C06377  D-Galactosamine 6-phosphate
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00030  Pentose phosphate pathway
+            hsa00040  Pentose and glucuronate interconversions
+            hsa00051  Fructose and mannose metabolism
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+KO_PATHWAY  ko00052
+///

@@ -1,0 +1,435 @@
+ENTRY       hsa05166                    Pathway
+NAME        Human T-cell leukemia virus 1 infection - Homo sapiens (human)
+DESCRIPTION Human T-cell leukemia virus type 1 (HTLV-1) is a pathogenic retrovirus that is associated with adult T-cell leukemia/lymphoma (ATL). It is also strongly implicated in non-neoplastic chronic inflammatory diseases such as HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP). Expression of Tax, a viral regulatory protein is critical to the pathogenesis. Tax is a transcriptional co-factor that interfere several signaling pathways related to anti-apoptosis or cell proliferation. The modulation of the signaling by Tax involve its binding to transcription factors like CREB/ATF, NF-kappa B, and SRF.
+CLASS       Human Diseases; Infectious disease: viral
+PATHWAY_MAP hsa05166  Human T-cell leukemia virus 1 infection
+NETWORK     nt06114  PI3K signaling (viruses)
+            nt06120  Calcium signaling (viruses and bacteria)
+            nt06129  MHC presentation (viruses)
+            nt06130  Cell cycle (viruses)
+            nt06140  Transcription (viruses)
+            nt06150  Cytokine-cytokine receptor interaction (viruses)
+            nt06160  Human T-cell leukemia virus 1 (HTLV-1)
+            nt06214  PI3K signaling
+            nt06218  TGFB signaling
+            nt06219  JAK-STAT signaling
+            nt06220  Calcium signaling
+            nt06223  TNF signaling
+            nt06229  MHC presentation
+            nt06230  Cell cycle
+            nt06507  TGFB signaling
+            nt06516  TNF signaling
+            nt06518  JAK-STAT signaling
+  ELEMENT   N00221  HTLV-1 Tax to spindle assembly checkpoint signaling
+            N00222  HTLV-1 Tax to spindle assembly checkpoint signaling
+            N00489  HTLV-1 p30II to c-myc-mediated transcription
+            N00490  HTLV-1 p12 to calcineurin signaling pathway
+            N00491  HTLV-1 p12 to Jak-STAT signaling pathway
+            N00492  HTLV-1 p12 to antigen processing and presentation by MHC class I molecules
+            N00494  HTLV-1 Tax to p16-cell cycle G1/S
+            N00495  HTLV-1 Tax to p15-cell cycle G1/S
+            N00497  HTLV-1 Tax to p21-cell cycle G1/S
+            N00498  HTLV-1 Tax to p21-cell cycle G1/S
+            N00500  HTLV-1 Tax to p21-cell cycle G2/M
+            N00501  HTLV-1 Tax to EGFR-PI3K-NFKB signaling pathway
+            N00502  HTLV-1 Tax to PTEN-PIP3-AKT signaling pathway
+            N00503  HTLV-1 Tax to TNF-JNK signaling pathway
+            N00504  HTLV-1 Tax to NFKB signaling pathway
+            N00506  HTLV-1 Tax to CD40-NFKB signaling pathway
+            N00507  HTLV-1 Tax to TGF-beta signaling pathway
+            N00508  HTLV-1 Tax to NFY-mediated transcription
+            N00509  HTLV-1 Tax to SRF-mediated transcription
+            N00510  HTLV-1 Tax to CREB-mediated transcription
+            N00511  HTLV-1 Tax to E47-mediated transcription
+            N00512  HTLV-1 Tax to c-myc-mediated transcription
+DISEASE     H00009  Adult T-cell leukemia
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6513  SLC2A1; solute carrier family 2 member 1 [KO:K07299]
+            8829  NRP1; neuropilin 1 [KO:K06724]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            8295  TRRAP; transformation/transcription domain associated protein [KO:K08874]
+            10524  KAT5; lysine acetyltransferase 5 [KO:K11304] [EC:2.3.1.48]
+            894  CCND2; cyclin D2 [KO:K10151]
+            3683  ITGAL; integrin subunit alpha L [KO:K05718]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            920  CD4; CD4 molecule [KO:K06454]
+            7094  TLN1; talin 1 [KO:K06271]
+            83660  TLN2; talin 2 [KO:K06271]
+            8498  RANBP3; RAN binding protein 3 [KO:K15304]
+            5901  RAN; RAN, member RAS oncogene family [KO:K07936]
+            7514  XPO1; exportin 1 [KO:K14290]
+            811  CALR; calreticulin [KO:K08057]
+            821  CANX; calnexin [KO:K08054]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            4776  NFATC4; nuclear factor of activated T cells 4 [KO:K17334]
+            3560  IL2RB; interleukin 2 receptor subunit beta [KO:K05069]
+            3561  IL2RG; interleukin 2 receptor subunit gamma [KO:K05070]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            3718  JAK3; Janus kinase 3 [KO:K11218] [EC:2.7.10.2]
+            6776  STAT5A; signal transducer and activator of transcription 5A [KO:K11223]
+            6777  STAT5B; signal transducer and activator of transcription 5B [KO:K11224]
+            3558  IL2; interleukin 2 [KO:K05429]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            567  B2M; beta-2-microglobulin [KO:K08055]
+            2224  FDPS; farnesyl diphosphate synthase [KO:K00787] [EC:2.5.1.1 2.5.1.10]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            291  SLC25A4; solute carrier family 25 member 4 [KO:K05863]
+            292  SLC25A5; solute carrier family 25 member 5 [KO:K05863]
+            293  SLC25A6; solute carrier family 25 member 6 [KO:K05863]
+            83447  SLC25A31; solute carrier family 25 member 31 [KO:K05863]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            706  TSPO; translocator protein [KO:K05770]
+            55697  VAC14; VAC14 component of PIKFYVE complex [KO:K15305]
+            5902  RANBP1; RAN binding protein 1 [KO:K15306]
+            8379  MAD1L1; mitotic arrest deficient 1 like 1 [KO:K06679]
+            4085  MAD2L1; mitotic arrest deficient 2 like 1 [KO:K02537]
+            701  BUB1B; BUB1 mitotic checkpoint serine/threonine kinase B [KO:K06637] [EC:2.7.11.1]
+            9184  BUB3; BUB3 mitotic checkpoint protein [KO:K02180]
+            64682  ANAPC1; anaphase promoting complex subunit 1 [KO:K03348]
+            29882  ANAPC2; anaphase promoting complex subunit 2 [KO:K03349]
+            996  CDC27; cell division cycle 27 [KO:K03350]
+            29945  ANAPC4; anaphase promoting complex subunit 4 [KO:K03351]
+            51433  ANAPC5; anaphase promoting complex subunit 5 [KO:K03352]
+            8881  CDC16; cell division cycle 16 [KO:K03353]
+            51434  ANAPC7; anaphase promoting complex subunit 7 [KO:K03354]
+            8697  CDC23; cell division cycle 23 [KO:K03355]
+            10393  ANAPC10; anaphase promoting complex subunit 10 [KO:K03357]
+            51529  ANAPC11; anaphase promoting complex subunit 11 [KO:K03358]
+            246184  CDC26; cell division cycle 26 [KO:K03359]
+            25847  ANAPC13; anaphase promoting complex subunit 13 [KO:K12456]
+            25906  ANAPC15; anaphase promoting complex subunit 15 [KO:K25228]
+            119504  ANAPC16; anaphase promoting complex subunit 16 [KO:K25229]
+            991  CDC20; cell division cycle 20 [KO:K03363]
+            9232  PTTG1; PTTG1 regulator of sister chromatid separation, securin [KO:K06635]
+            10744  PTTG2; pituitary tumor-transforming 2 [KO:K06635]
+            9700  ESPL1; extra spindle pole bodies like 1, separase [KO:K02365] [EC:3.4.22.49]
+            9133  CCNB2; cyclin B2 [KO:K21770]
+            1030  CDKN2B; cyclin dependent kinase inhibitor 2B [KO:K04685]
+            1029  CDKN2A; cyclin dependent kinase inhibitor 2A [KO:K06621]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            595  CCND1; cyclin D1 [KO:K04503]
+            896  CCND3; cyclin D3 [KO:K10152]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            890  CCNA2; cyclin A2 [KO:K06627]
+            8900  CCNA1; cyclin A1 [KO:K06627]
+            898  CCNE1; cyclin E1 [KO:K06626]
+            9134  CCNE2; cyclin E2 [KO:K06626]
+            1017  CDK2; cyclin dependent kinase 2 [KO:K02206] [EC:2.7.11.22]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            472  ATM; ATM serine/threonine kinase [KO:K04728] [EC:2.7.11.1]
+            545  ATR; ATR serine/threonine kinase [KO:K06640] [EC:2.7.11.1]
+            1111  CHEK1; checkpoint kinase 1 [KO:K02216] [EC:2.7.11.1]
+            11200  CHEK2; checkpoint kinase 2 [KO:K06641] [EC:2.7.11.1]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            1739  DLG1; discs large MAGUK scaffold protein 1 [KO:K12076]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            4214  MAP3K1; mitogen-activated protein kinase kinase kinase 1 [KO:K04416] [EC:2.7.11.25]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            4316  MMP7; matrix metallopeptidase 7 [KO:K01397] [EC:3.4.24.23]
+            3554  IL1R1; interleukin 1 receptor type 1 [KO:K04386]
+            7850  IL1R2; interleukin 1 receptor type 2 [KO:K04387]
+            915  CD3D; CD3 delta subunit of T-cell receptor complex [KO:K06450]
+            916  CD3E; CD3 epsilon subunit of T-cell receptor complex [KO:K06451]
+            917  CD3G; CD3 gamma subunit of T-cell receptor complex [KO:K06452]
+            4215  MAP3K3; mitogen-activated protein kinase kinase kinase 3 [KO:K04421] [EC:2.7.11.25]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            2874  GPS2; G protein pathway suppressor 2 [KO:K15307]
+            4055  LTBR; lymphotoxin beta receptor [KO:K03159]
+            958  CD40; CD40 molecule [KO:K03160]
+            115650  TNFRSF13C; TNF receptor superfamily member 13C [KO:K05151]
+            9020  MAP3K14; mitogen-activated protein kinase kinase kinase 14 [KO:K04466] [EC:2.7.11.25]
+            5971  RELB; RELB proto-oncogene, NF-kB subunit [KO:K09253]
+            4791  NFKB2; nuclear factor kappa B subunit 2 [KO:K04469]
+            7538  ZFP36; ZFP36 ring finger protein [KO:K15308]
+            3559  IL2RA; interleukin 2 receptor subunit alpha [KO:K05068]
+            3600  IL15; interleukin 15 [KO:K05433]
+            3601  IL15RA; interleukin 15 receptor subunit alpha [KO:K05074]
+            3569  IL6; interleukin 6 [KO:K05405]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            4049  LTA; lymphotoxin alpha [KO:K05468]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            331  XIAP; X-linked inhibitor of apoptosis [KO:K04725] [EC:2.3.2.27]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            7046  TGFBR1; transforming growth factor beta receptor 1 [KO:K04674] [EC:2.7.11.30]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            4087  SMAD2; SMAD family member 2 [KO:K04500]
+            4088  SMAD3; SMAD family member 3 [KO:K23605]
+            4089  SMAD4; SMAD family member 4 [KO:K04501]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            4801  NFYB; nuclear transcription factor Y subunit beta [KO:K08065]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            6722  SRF; serum response factor [KO:K04378]
+            2005  ELK4; ETS transcription factor ELK4 [KO:K04376]
+            2002  ELK1; ETS transcription factor ELK1 [KO:K04375]
+            6688  SPI1; Spi-1 proto-oncogene [KO:K09438]
+            2113  ETS1; ETS proto-oncogene 1, transcription factor [KO:K02678]
+            2114  ETS2; ETS proto-oncogene 2, transcription factor [KO:K21932]
+            387332  TBPL2; TATA-box binding protein like 2 [KO:K03120]
+            9519  TBPL1; TATA-box binding protein like 1 [KO:K03120]
+            6908  TBP; TATA-box binding protein [KO:K03120]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            1958  EGR1; early growth response 1 [KO:K09203]
+            8061  FOSL1; FOS like 1, AP-1 transcription factor subunit [KO:K04502]
+            1959  EGR2; early growth response 2 [KO:K12496]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            23373  CRTC1; CREB regulated transcription coactivator 1 [KO:K15309]
+            200186  CRTC2; CREB regulated transcription coactivator 2 [KO:K16333]
+            64784  CRTC3; CREB regulated transcription coactivator 3 [KO:K16334]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            8850  KAT2B; lysine acetyltransferase 2B [KO:K06062] [EC:2.3.1.48]
+            2648  KAT2A; lysine acetyltransferase 2A [KO:K06062] [EC:2.3.1.48]
+            6929  TCF3; transcription factor 3 [KO:K09063]
+            5423  POLB; DNA polymerase beta [KO:K02330] [EC:2.7.7.7 4.2.99.-]
+            3932  LCK; LCK proto-oncogene, Src family tyrosine kinase [KO:K05856] [EC:2.7.10.2]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            1031  CDKN2C; cyclin dependent kinase inhibitor 2C [KO:K06622]
+            7015  TERT; telomerase reverse transcriptase [KO:K11126] [EC:2.7.7.49]
+            4487  MSX1; msh homeobox 1 [KO:K09341]
+            4488  MSX2; msh homeobox 2 [KO:K09341]
+COMPOUND    C00027  Hydrogen peroxide
+            C00076  Calcium cation
+            C00238  Potassium cation
+            C00575  3',5'-Cyclic AMP
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:17384582
+  AUTHORS   Matsuoka M, Jeang KT
+  TITLE     Human T-cell leukaemia virus type 1 (HTLV-1) infectivity and cellular transformation.
+  JOURNAL   Nat Rev Cancer 7:270-80 (2007)
+            DOI:10.1038/nrc2111
+REFERENCE   PMID:16155604
+  AUTHORS   Grassmann R, Aboud M, Jeang KT
+  TITLE     Molecular mechanisms of cellular transformation by HTLV-1 Tax.
+  JOURNAL   Oncogene 24:5976-85 (2005)
+            DOI:10.1038/sj.onc.1208978
+REFERENCE   PMID:18702816
+  AUTHORS   Boxus M, Twizere JC, Legros S, Dewulf JF, Kettmann R, Willems L
+  TITLE     The HTLV-1 Tax interactome.
+  JOURNAL   Retrovirology 5:76 (2008)
+            DOI:10.1186/1742-4690-5-76
+REFERENCE   PMID:21994754
+  AUTHORS   Jones KS, Lambert S, Bouttier M, Benit L, Ruscetti FW, Hermine O, Pique C
+  TITLE     Molecular aspects of HTLV-1 entry: functional domains of the HTLV-1 surface subunit (SU) and their relationships to the entry receptors.
+  JOURNAL   Viruses 3:794-810 (2011)
+            DOI:10.3390/v3060794
+REFERENCE   PMID:21114861
+  AUTHORS   Ghez D, Lepelletier Y, Jones KS, Pique C, Hermine O
+  TITLE     Current concepts regarding the HTLV-1 receptor complex.
+  JOURNAL   Retrovirology 7:99 (2010)
+            DOI:10.1186/1742-4690-7-99
+REFERENCE   
+  AUTHORS   Sinet F.
+  TITLE     Complex splicing in the human T-cell leukemia virus (HTLV) family of retroviruses: a number of proteins play a key role in the establishment and maintenance of viral infection.
+  JOURNAL   BioSciences Master Reviews, July 2013
+REFERENCE   PMID:18923409
+  AUTHORS   Sattentau Q
+  TITLE     Avoiding the void: cell-to-cell spread of human viruses.
+  JOURNAL   Nat Rev Microbiol 6:815-26 (2008)
+            DOI:10.1038/nrmicro1972
+REFERENCE   PMID:15040584
+  AUTHORS   Vicente-Manzanares M, Sanchez-Madrid F
+  TITLE     Role of the cytoskeleton during leukocyte responses.
+  JOURNAL   Nat Rev Immunol 4:110-22 (2004)
+            DOI:10.1038/nri1268
+REFERENCE   PMID:27334587
+  AUTHORS   Dutartre H, Claviere M, Journo C, Mahieux R
+  TITLE     Cell-Free versus Cell-to-Cell Infection by Human Immunodeficiency Virus Type 1 and Human T-Lymphotropic Virus Type 1: Exploring the Link among Viral Source, Viral Trafficking, and Viral Replication.
+  JOURNAL   J Virol 90:7607-17 (2016)
+            DOI:10.1128/JVI.00407-16
+REFERENCE   PMID:15988028
+  AUTHORS   Awasthi S, Sharma A, Wong K, Zhang J, Matlock EF, Rogers L, Motloch P, Takemoto S, Taguchi H, Cole MD, Luscher B, Dittrich O, Tagami H, Nakatani Y, McGee M, Girard AM, Gaughan L, Robson CN, Monnat RJ Jr, Harrod R
+  TITLE     A human T-cell lymphotropic virus type 1 enhancer of Myc transforming potential stabilizes Myc-TIP60 transcriptional interactions.
+  JOURNAL   Mol Cell Biol 25:6178-98 (2005)
+            DOI:10.1128/MCB.25.14.6178-6198.2005
+REFERENCE   PMID:21994758
+  AUTHORS   Edwards D, Fenizia C, Gold H, de Castro-Amarante MF, Buchmann C, Pise-Masison CA, Franchini G
+  TITLE     Orf-I and orf-II-encoded proteins in HTLV-1 infection and persistence.
+  JOURNAL   Viruses 3:861-85 (2011)
+            DOI:10.3390/v3060861
+REFERENCE   PMID:26927155
+  AUTHORS   Nakano K, Watanabe T
+  TITLE     HTLV-1 Rex Tunes the Cellular Environment Favorable for Viral Replication.
+  JOURNAL   Viruses 8:58 (2016)
+            DOI:10.3390/v8030058
+REFERENCE   PMID:22783232
+  AUTHORS   Shida H
+  TITLE     Role of Nucleocytoplasmic RNA Transport during the Life Cycle of Retroviruses.
+  JOURNAL   Front Microbiol 3:179 (2012)
+            DOI:10.3389/fmicb.2012.00179
+REFERENCE   PMID:23248621
+  AUTHORS   Bai XT, Nicot C
+  TITLE     Overview on HTLV-1 p12, p8, p30, p13: accomplices in persistent infection and viral pathogenesis.
+  JOURNAL   Front Microbiol 3:400 (2012)
+            DOI:10.3389/fmicb.2012.00400
+REFERENCE   PMID:18421579
+  AUTHORS   Taylor JM, Nicot C
+  TITLE     HTLV-1 and apoptosis: role in cellular transformation and recent advances in therapeutic approaches.
+  JOURNAL   Apoptosis 13:733-47 (2008)
+            DOI:10.1007/s10495-008-0208-7
+REFERENCE   PMID:15761473
+  AUTHORS   D'Agostino DM, Silic-Benussi M, Hiraragi H, Lairmore MD, Ciminale V
+  TITLE     The human T-cell leukemia virus type 1 p13II protein: effects on mitochondrial function and cell growth.
+  JOURNAL   Cell Death Differ 12 Suppl 1:905-15 (2005)
+            DOI:10.1038/sj.cdd.4401576
+REFERENCE   PMID:20332002
+  AUTHORS   Silic-Benussi M, Biasiotto R, Andresen V, Franchini G, D'Agostino DM, Ciminale V
+  TITLE     HTLV-1 p13, a small protein with a busy agenda.
+  JOURNAL   Mol Aspects Med 31:350-8 (2010)
+            DOI:10.1016/j.mam.2010.03.001
+REFERENCE   PMID:23741982
+  AUTHORS   Fuentes-Gonzalez AM, Contreras-Paredes A, Manzo-Merino J, Lizano M
+  TITLE     The modulation of apoptosis by oncogenic viruses.
+  JOURNAL   Virol J 10:182 (2013)
+            DOI:10.1186/1743-422X-10-182
+REFERENCE   PMID:21743832
+  AUTHORS   Qu Z, Xiao G
+  TITLE     Human T-cell lymphotropic virus: a model of NF-kappaB-associated tumorigenesis.
+  JOURNAL   Viruses 3:714-49 (2011)
+            DOI:10.3390/v3060714
+REFERENCE   PMID:21994767
+  AUTHORS   Saggioro D
+  TITLE     Anti-apoptotic effect of Tax: an NF-kappaB path or a CREB way?
+  JOURNAL   Viruses 3:1001-14 (2011)
+            DOI:10.3390/v3071001
+REFERENCE   PMID:16036567
+  AUTHORS   Harhaj EW, Harhaj NS
+  TITLE     Mechanisms of persistent NF-kappaB activation by HTLV-I tax.
+  JOURNAL   IUBMB Life 57:83-91 (2005)
+            DOI:10.1080/15216540500078715
+REFERENCE   PMID:16155602
+  AUTHORS   Sun SC, Yamaoka S
+  TITLE     Activation of NF-kappaB by HTLV-I and implications for cell transformation.
+  JOURNAL   Oncogene 24:5952-64 (2005)
+            DOI:10.1038/sj.onc.1208969
+REFERENCE   PMID:9710600
+  AUTHORS   Geleziunas R, Ferrell S, Lin X, Mu Y, Cunningham ET Jr, Grant M, Connelly MA, Hambor JE, Marcu KB, Greene WC
+  TITLE     Human T-cell leukemia virus type 1 Tax induction of NF-kappaB involves activation of the IkappaB kinase alpha (IKKalpha) and IKKbeta cellular kinases.
+  JOURNAL   Mol Cell Biol 18:5157-65 (1998)
+            DOI:10.1128/MCB.18.9.5157
+REFERENCE   PMID:21315773
+  AUTHORS   Nakachi S, Nakazato T, Ishikawa C, Kimura R, Mann DA, Senba M, Masuzaki H, Mori N
+  TITLE     Human T-cell leukemia virus type 1 tax transactivates the matrix metalloproteinase 7 gene via JunD/AP-1 signaling.
+  JOURNAL   Biochim Biophys Acta 1813:731-41 (2011)
+            DOI:10.1016/j.bbamcr.2011.02.002
+REFERENCE   PMID:26797638
+  AUTHORS   James CD, Roberts S
+  TITLE     Viral Interactions with PDZ Domain-Containing Proteins-An Oncogenic Trait?
+  JOURNAL   Pathogens 5:E8 (2016)
+            DOI:10.3390/pathogens5010008
+REFERENCE   PMID:26324707
+  AUTHORS   Cherian MA, Baydoun HH, Al-Saleem J, Shkriabai N, Kvaratskhelia M, Green P, Ratner L
+  TITLE     Akt Pathway Activation by Human T-cell Leukemia Virus Type 1 Tax Oncoprotein.
+  JOURNAL   J Biol Chem 290:26270-81 (2015)
+            DOI:10.1074/jbc.M115.684746
+REFERENCE   PMID:11264182
+  AUTHORS   Mori N, Morishita M, Tsukazaki T, Giam CZ, Kumatori A, Tanaka Y, Yamamoto N
+  TITLE     Human T-cell leukemia virus type I oncoprotein Tax represses Smad-dependent transforming growth factor beta signaling through interaction with CREB-binding protein/p300.
+  JOURNAL   Blood 97:2137-44 (2001)
+            DOI:10.1182/blood.v97.7.2137
+REFERENCE   PMID:15310405
+  AUTHORS   Azran I, Schavinsky-Khrapunsky Y, Aboud M
+  TITLE     Role of Tax protein in human T-cell leukemia virus type-I leukemogenicity.
+  JOURNAL   Retrovirology 1:20 (2004)
+            DOI:10.1186/1742-4690-1-20
+REFERENCE   PMID:11244044
+  AUTHORS   Yoshida M
+  TITLE     Multiple viral strategies of HTLV-1 for dysregulation of cell growth control.
+  JOURNAL   Annu Rev Immunol 19:475-96 (2001)
+            DOI:10.1146/annurev.immunol.19.1.475
+REFERENCE   PMID:12802280
+  AUTHORS   Gabet AS, Mortreux F, Charneau P, Riou P, Duc-Dodon M, Wu Y, Jeang KT, Wattel E
+  TITLE     Inactivation of hTERT transcription by Tax.
+  JOURNAL   Oncogene 22:3734-41 (2003)
+            DOI:10.1038/sj.onc.1206468
+REL_PATHWAY hsa03013  Nucleocytoplasmic transport
+            hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04350  TGF-beta signaling pathway
+            hsa04612  Antigen processing and presentation
+            hsa04660  T cell receptor signaling pathway
+            hsa04668  TNF signaling pathway
+KO_PATHWAY  ko05166
+///

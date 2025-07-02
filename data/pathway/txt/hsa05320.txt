@@ -1,0 +1,120 @@
+ENTRY       hsa05320                    Pathway
+NAME        Autoimmune thyroid disease - Homo sapiens (human)
+DESCRIPTION The classification of autoimmune throid disease (AITD) includes Hashimoto's thyroiditis (HT) or chronic autoimmune thyroiditis and its variants, Graves' disease (GD) and autoimmune atrophic thyroiditis or primary myxedema. HT is characterized by the presence of goitre, thyroid autoantibodies against thyroid peroxidase (TPO) and thyroglobulin (Tg) in serum and varying degrees of thyroid dysfunction. During HT, self-reactive CD4+ T lymphocytes (Th) recruit B cells and CD8+ T cells (CTL) into the thyroid. Disease progression leads to the death of thyroid cells and hypothyroidism. Both autoantibodies and thyroid-specific cytotoxic T lymphocytes (CTLs) have been proposed to be responsible for autoimmune thyrocyte depletion. In GD, the TSH-R is the most important autoantigen. Antibodies directed against it mimic the effects of the hormone on thyroid cells, TSH, stimulating autonomous production of thyroxine and triiodothyronine and causing hyperthyroidism. The presence of TSH-R-blocking antibodies that bind the TSH receptor in a similar fashion to the antibodies in patients with Grave's disease but that block rather than activate the receptor explains some cases of atrophic hypothyroidism.
+CLASS       Human Diseases; Immune disease
+PATHWAY_MAP hsa05320  Autoimmune thyroid disease
+DISEASE     H00081  Hashimoto thyroiditis
+            H00082  Graves disease
+DRUG        D00562  Propylthiouracil (JP18/USP/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            1493  CTLA4; cytotoxic T-lymphocyte associated protein 4 [KO:K06538]
+            7173  TPO; thyroid peroxidase [KO:K00431] [EC:1.11.1.8]
+            7038  TG; thyroglobulin [KO:K10809]
+            941  CD80; CD80 molecule [KO:K05412]
+            942  CD86; CD86 molecule [KO:K05413]
+            940  CD28; CD28 molecule [KO:K06470]
+            3558  IL2; interleukin 2 [KO:K05429]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            5551  PRF1; perforin 1 [KO:K07818]
+            3002  GZMB; granzyme B [KO:K01353] [EC:3.4.21.79]
+            959  CD40LG; CD40 ligand [KO:K03161]
+            958  CD40; CD40 molecule [KO:K03160]
+            3565  IL4; interleukin 4 [KO:K05430]
+            3567  IL5; interleukin 5 [KO:K05428]
+            3586  IL10; interleukin 10 [KO:K05443]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            7253  TSHR; thyroid stimulating hormone receptor [KO:K04249]
+            1081  CGA; glycoprotein hormones, alpha polypeptide [KO:K08522]
+            7252  TSHB; thyroid stimulating hormone subunit beta [KO:K05251]
+COMPOUND    C01382  Iodine
+            C01829  Thyroxine
+            C02465  Triiodothyronine
+            D00636  Amiodarone hydrochloride (JP18/USP)
+REFERENCE   PMID:15049952
+  AUTHORS   Fountoulakis S, Tsatsoulis A.
+  TITLE     On the pathogenesis of autoimmune thyroid disease: a unifying hypothesis.
+  JOURNAL   Clin Endocrinol (Oxf) 60:397-409 (2004)
+            DOI:10.1046/j.1365-2265.2004.01978.x
+REFERENCE   PMID:15762980
+  AUTHORS   Chistiakov DA.
+  TITLE     Immunogenetics of Hashimoto's thyroiditis.
+  JOURNAL   J Autoimmune Dis 2:1 (2005)
+            DOI:10.1186/1740-2557-2-1
+REFERENCE   PMID:9534029
+  AUTHORS   McIver B, Morris JC.
+  TITLE     The pathogenesis of Graves' disease.
+  JOURNAL   Endocrinol Metab Clin North Am 27:73-89 (1998)
+            DOI:10.1016/S0889-8529(05)70299-1
+REFERENCE   PMID:11913070
+  AUTHORS   Stassi G, De Maria R.
+  TITLE     Autoimmune thyroid disease: new models of cell death in autoimmunity.
+  JOURNAL   Nat Rev Immunol 2:195-204 (2002)
+            DOI:10.1038/nri750
+REFERENCE   PMID:12192541
+  AUTHORS   Collins J, Gough S.
+  TITLE     Autoimmunity in thyroid disease.
+  JOURNAL   Eur J Nucl Med Mol Imaging 29 Suppl 2:S417-24 (2002)
+            DOI:10.1007/s00259-002-0848-8
+REFERENCE   PMID:11396701
+  AUTHORS   Ruwhof C, Drexhage HA.
+  TITLE     Iodine and thyroid autoimmune disease in animal models.
+  JOURNAL   Thyroid 11:427-36 (2001)
+            DOI:10.1089/105072501300176381
+REFERENCE   PMID:17192582
+  AUTHORS   Tsatsoulis A.
+  TITLE     The role of stress in the clinical expression of thyroid autoimmunity.
+  JOURNAL   Ann N Y Acad Sci 1088:382-95 (2006)
+            DOI:10.1196/annals.1366.015
+REFERENCE   PMID:15132715
+  AUTHORS   Prummel MF, Strieder T, Wiersinga WM.
+  TITLE     The environment and autoimmune thyroid diseases.
+  JOURNAL   Eur J Endocrinol 150:605-18 (2004)
+            DOI:10.1530/eje.0.1500605
+REFERENCE   PMID:11577986
+  AUTHORS   Kopp P.
+  TITLE     The TSH receptor and its role in thyroid disease.
+  JOURNAL   Cell Mol Life Sci 58:1301-22 (2001)
+            DOI:10.1007/PL00000941
+REL_PATHWAY hsa04210  Apoptosis
+            hsa04514  Cell adhesion molecules
+            hsa04610  Complement and coagulation cascades
+            hsa04612  Antigen processing and presentation
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04918  Thyroid hormone synthesis
+KO_PATHWAY  ko05320
+///

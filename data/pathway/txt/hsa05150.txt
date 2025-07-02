@@ -1,0 +1,262 @@
+ENTRY       hsa05150                    Pathway
+NAME        Staphylococcus aureus infection - Homo sapiens (human)
+DESCRIPTION Staphylococcus aureus can cause multiple forms of infections ranging from superficial skin infections to food poisoning and life-threatening infections. The organism has several ways to divert the effectiveness of the immune system: secreting immune modulating proteins that inhibit complement activation and neutrophil chemotaxis or lysis, modulating the sensitivity to cationic antimicrobial peptides (such as defensin) by increasing the positive net charge of its cytoplasmic membrane, and expression of superantigens that prevent development of a normal immune response or cause an emetic response when ingested.
+CLASS       Human Diseases; Infectious disease: bacterial
+PATHWAY_MAP hsa05150  Staphylococcus aureus infection
+DISEASE     H00330  Methicillin-resistant Staphylococcal aureus (MRSA) infection
+            H00331  Vancomycin-resistant Staphylococcal aureus (VRSA) infection
+            H01409  Methicillin-sensitive Staphylococcus aureus (MSSA) infection
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3857  KRT9; keratin 9 [KO:K07604]
+            3858  KRT10; keratin 10 [KO:K07604]
+            3859  KRT12; keratin 12 [KO:K07604]
+            3860  KRT13; keratin 13 [KO:K07604]
+            3861  KRT14; keratin 14 [KO:K07604]
+            3866  KRT15; keratin 15 [KO:K07604]
+            3868  KRT16; keratin 16 [KO:K07604]
+            3872  KRT17; keratin 17 [KO:K07604]
+            3875  KRT18; keratin 18 [KO:K07604]
+            3880  KRT19; keratin 19 [KO:K07604]
+            3881  KRT31; keratin 31 [KO:K07604]
+            3882  KRT32; keratin 32 [KO:K07604]
+            3883  KRT33A; keratin 33A [KO:K07604]
+            3884  KRT33B; keratin 33B [KO:K07604]
+            3885  KRT34; keratin 34 [KO:K07604]
+            3886  KRT35; keratin 35 [KO:K07604]
+            125115  KRT40; keratin 40 [KO:K07604]
+            390792  KRT39; keratin 39 [KO:K07604]
+            25984  KRT23; keratin 23 [KO:K07604]
+            147183  KRT25; keratin 25 [KO:K07604]
+            162605  KRT28; keratin 28 [KO:K07604]
+            192666  KRT24; keratin 24 [KO:K07604]
+            342574  KRT27; keratin 27 [KO:K07604]
+            54474  KRT20; keratin 20 [KO:K07604]
+            8687  KRT38; keratin 38 [KO:K07604]
+            8688  KRT37; keratin 37 [KO:K07604]
+            8689  KRT36; keratin 36 [KO:K07604]
+            100653049  keratin, type I cuticular Ha4 [KO:K07604]
+            353288  KRT26; keratin 26 [KO:K07604]
+            2266  FGG; fibrinogen gamma chain [KO:K03905]
+            718  C3; complement C3 [KO:K03990]
+            629  CFB; complement factor B [KO:K01335] [EC:3.4.21.47]
+            1675  CFD; complement factor D [KO:K01334] [EC:3.4.21.46]
+            3075  CFH; complement factor H [KO:K04004]
+            4153  MBL2; mannose binding lectin 2 [KO:K03991]
+            5648  MASP1; MBL associated serine protease 1 [KO:K03992] [EC:3.4.21.-]
+            10747  MASP2; MBL associated serine protease 2 [KO:K03993] [EC:3.4.21.104]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            712  C1QA; complement C1q A chain [KO:K03986]
+            713  C1QB; complement C1q B chain [KO:K03987]
+            714  C1QC; complement C1q C chain [KO:K03988]
+            715  C1R; complement C1r [KO:K01330] [EC:3.4.21.41]
+            716  C1S; complement C1s [KO:K01331] [EC:3.4.21.42]
+            717  C2; complement C2 [KO:K01332] [EC:3.4.21.43]
+            720  C4A; complement C4A (Rodgers blood group) [KO:K03989]
+            721  C4B; complement C4B (Chido blood group) [KO:K03989]
+            727  C5; complement C5 [KO:K03994]
+            719  C3AR1; complement C3a receptor 1 [KO:K04009]
+            728  C5AR1; complement C5a receptor 1 [KO:K04010]
+            2209  FCGR1A; Fc gamma receptor Ia [KO:K06498]
+            2212  FCGR2A; Fc gamma receptor IIa [KO:K06472]
+            2213  FCGR2B; Fc gamma receptor IIb [KO:K12560]
+            9103  FCGR2C; Fc gamma receptor IIc (gene/pseudogene) [KO:K16824]
+            2214  FCGR3A; Fc gamma receptor IIIa [KO:K06463]
+            2215  FCGR3B; Fc gamma receptor IIIb [KO:K06463]
+            2204  FCAR; Fc alpha receptor [KO:K06513]
+            2359  FPR3; formyl peptide receptor 3 [KO:K04173]
+            2358  FPR2; formyl peptide receptor 2 [KO:K04173]
+            2357  FPR1; formyl peptide receptor 1 [KO:K04172]
+            5340  PLG; plasminogen [KO:K01315] [EC:3.4.21.7]
+            3426  CFI; complement factor I [KO:K01333] [EC:3.4.21.45]
+            6404  SELPLG; selectin P ligand [KO:K06544]
+            6403  SELP; selectin P [KO:K06496]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+            3683  ITGAL; integrin subunit alpha L [KO:K05718]
+            3684  ITGAM; integrin subunit alpha M [KO:K06461]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            1672  DEFB1; defensin beta 1 [KO:K23125]
+            1673  DEFB4A; defensin beta 4A [KO:K21100]
+            100289462  DEFB4B; defensin beta 4B [KO:K21100]
+            414325  DEFB103A; defensin beta 103A [KO:K23126]
+            55894  DEFB103B; defensin beta 103B [KO:K23126]
+            1667  DEFA1; defensin alpha 1 [KO:K05230]
+            1668  DEFA3; defensin alpha 3 [KO:K05230]
+            1669  DEFA4; defensin alpha 4 [KO:K05230]
+            1670  DEFA5; defensin alpha 5 [KO:K05230]
+            1671  DEFA6; defensin alpha 6 [KO:K05230]
+            728358  DEFA1B; defensin alpha 1B [KO:K05230]
+            820  CAMP; cathelicidin antimicrobial peptide [KO:K13916]
+            1828  DSG1; desmoglein 1 [KO:K07596]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            5724  PTAFR; platelet activating factor receptor [KO:K04279]
+            3586  IL10; interleukin 10 [KO:K05443]
+COMPOUND    C11596  FMLP
+            C20898  Lipoteichoic acid
+REFERENCE   PMID:20178484
+  AUTHORS   Foster TJ
+  TITLE     Colonization and infection of the human host by staphylococci: adhesion, survival and immune evasion.
+  JOURNAL   Vet Dermatol 20:456-70 (2009)
+            DOI:10.1111/j.1365-3164.2009.00825.x
+REFERENCE   PMID:16322743
+  AUTHORS   Foster TJ
+  TITLE     Immune evasion by staphylococci.
+  JOURNAL   Nat Rev Microbiol 3:948-58 (2005)
+            DOI:10.1038/nrmicro1289
+REFERENCE   PMID:20062962
+  AUTHORS   Laarman A, Milder F, van Strijp J, Rooijakkers S
+  TITLE     Complement inhibition by gram-positive pathogens: molecular mechanisms and therapeutic implications.
+  JOURNAL   J Mol Med 88:115-20 (2010)
+            DOI:10.1007/s00109-009-0572-y
+REFERENCE   PMID:16242332
+  AUTHORS   Rooijakkers SH, van Kessel KP, van Strijp JA
+  TITLE     Staphylococcal innate immune evasion.
+  JOURNAL   Trends Microbiol 13:596-601 (2005)
+            DOI:10.1016/j.tim.2005.10.002
+REFERENCE   PMID:16679003
+  AUTHORS   Iwatsuki K, Yamasaki O, Morizane S, Oono T
+  TITLE     Staphylococcal cutaneous infections: invasion, evasion and aggression.
+  JOURNAL   J Dermatol Sci 42:203-14 (2006)
+            DOI:10.1016/j.jdermsci.2006.03.011
+REFERENCE   PMID:11361034
+  AUTHORS   Torres BA, Kominsky S, Perrin GQ, Hobeika AC, Johnson HM
+  TITLE     Superantigens: the good, the bad, and the ugly.
+  JOURNAL   Exp Biol Med (Maywood) 226:164-76 (2001)
+            DOI:10.1177/153537020122600303
+REFERENCE   PMID:18061675
+  AUTHORS   Atkins KL, Burman JD, Chamberlain ES, Cooper JE, Poutrel B, Bagby S, Jenkins AT, Feil EJ, van den Elsen JM
+  TITLE     S. aureus IgG-binding proteins SpA and Sbi: host specificity and mechanisms of immune complex formation.
+  JOURNAL   Mol Immunol 45:1600-11 (2008)
+            DOI:10.1016/j.molimm.2007.10.021
+REFERENCE   PMID:16724100
+  AUTHORS   Silverman GJ, Goodyear CS
+  TITLE     Confounding B-cell defences: lessons from a staphylococcal superantigen.
+  JOURNAL   Nat Rev Immunol 6:465-75 (2006)
+            DOI:10.1038/nri1853
+REFERENCE   PMID:15273292
+  AUTHORS   Goodyear CS, Silverman GJ
+  TITLE     Staphylococcal toxin induced preferential and prolonged in vivo deletion of innate-like B lymphocytes.
+  JOURNAL   Proc Natl Acad Sci U S A 101:11392-7 (2004)
+            DOI:10.1073/pnas.0404382101
+REFERENCE   PMID:19112495
+  AUTHORS   Haupt K, Reuter M, van den Elsen J, Burman J, Halbich S, Richter J, Skerka C, Zipfel PF
+  TITLE     The Staphylococcus aureus protein Sbi acts as a complement inhibitor and forms a tripartite complex with host complement Factor H and C3b.
+  JOURNAL   PLoS Pathog 4:e1000250 (2008)
+            DOI:10.1371/journal.ppat.1000250
+REFERENCE   PMID:16111912
+  AUTHORS   Bokarewa MI, Jin T, Tarkowski A
+  TITLE     Staphylococcus aureus: Staphylokinase.
+  JOURNAL   Int J Biochem Cell Biol 38:504-9 (2006)
+            DOI:10.1016/j.biocel.2005.07.005
+REFERENCE   PMID:16086019
+  AUTHORS   Rooijakkers SH, Ruyken M, Roos A, Daha MR, Presanis JS, Sim RB, van Wamel WJ, van Kessel KP, van Strijp JA
+  TITLE     Immune evasion by a staphylococcal complement inhibitor that acts on C3 convertases.
+  JOURNAL   Nat Immunol 6:920-7 (2005)
+            DOI:10.1038/ni1235
+REFERENCE   PMID:19503103
+  AUTHORS   Rooijakkers SH, Wu J, Ruyken M, van Domselaar R, Planken KL, Tzekou A, Ricklin D, Lambris JD, Janssen BJ, van Strijp JA, Gros P
+  TITLE     Structural and functional implications of the alternative complement pathway C3 convertase stabilized by a staphylococcal inhibitor.
+  JOURNAL   Nat Immunol 10:721-7 (2009)
+            DOI:10.1038/ni.1756
+REFERENCE   PMID:17893203
+  AUTHORS   Jongerius I, Kohl J, Pandey MK, Ruyken M, van Kessel KP, van Strijp JA, Rooijakkers SH
+  TITLE     Staphylococcal complement evasion by various convertase-blocking molecules.
+  JOURNAL   J Exp Med 204:2461-71 (2007)
+            DOI:10.1084/jem.20070818
+REFERENCE   PMID:18544012
+  AUTHORS   Hair PS, Ward MD, Semmes OJ, Foster TJ, Cunnion KM
+  TITLE     Staphylococcus aureus clumping factor A binds to complement regulator factor I and increases factor I cleavage of C3b.
+  JOURNAL   J Infect Dis 198:125-33 (2008)
+            DOI:10.1086/588825
+REFERENCE   PMID:16640587
+  AUTHORS   Higgins J, Loughman A, van Kessel KP, van Strijp JA, Foster TJ
+  TITLE     Clumping factor A of Staphylococcus aureus inhibits phagocytosis by human polymorphonuclear leucocytes.
+  JOURNAL   FEMS Microbiol Lett 258:290-6 (2006)
+            DOI:10.1111/j.1574-6968.2006.00229.x
+REFERENCE   PMID:20133685
+  AUTHORS   Laursen NS, Gordon N, Hermans S, Lorenz N, Jackson N, Wines B, Spillner E, Christensen JB, Jensen M, Fredslund F, Bjerre M, Sottrup-Jensen L, Fraser JD, Andersen GR
+  TITLE     Structural basis for inhibition of complement C5 by the SSL7 protein from Staphylococcus aureus.
+  JOURNAL   Proc Natl Acad Sci U S A 107:3681-6 (2010)
+            DOI:10.1073/pnas.0910565107
+REFERENCE   PMID:17848512
+  AUTHORS   Ramsland PA, Willoughby N, Trist HM, Farrugia W, Hogarth PM, Fraser JD, Wines BD
+  TITLE     Structural basis for evasion of IgA immunity by Staphylococcus aureus revealed in the complex of SSL7 with Fc of human IgA1.
+  JOURNAL   Proc Natl Acad Sci U S A 104:15051-6 (2007)
+            DOI:10.1073/pnas.0706028104
+REFERENCE   PMID:14993252
+  AUTHORS   de Haas CJ, Veldkamp KE, Peschel A, Weerkamp F, Van Wamel WJ, Heezius EC, Poppelier MJ, Van Kessel KP, van Strijp JA
+  TITLE     Chemotaxis inhibitory protein of Staphylococcus aureus, a bacterial antiinflammatory agent.
+  JOURNAL   J Exp Med 199:687-95 (2004)
+            DOI:10.1084/jem.20031636
+REFERENCE   PMID:17114475
+  AUTHORS   Prat C, Bestebroer J, de Haas CJ, van Strijp JA, van Kessel KP
+  TITLE     A new staphylococcal anti-inflammatory protein that antagonizes the formyl peptide receptor-like 1.
+  JOURNAL   J Immunol 177:8017-26 (2006)
+            DOI:10.4049/jimmunol.177.11.8017
+REFERENCE   PMID:17132726
+  AUTHORS   Bestebroer J, Poppelier MJ, Ulfman LH, Lenting PJ, Denis CV, van Kessel KP, van Strijp JA, de Haas CJ
+  TITLE     Staphylococcal superantigen-like 5 binds PSGL-1 and inhibits P-selectin-mediated neutrophil rolling.
+  JOURNAL   Blood 109:2936-43 (2007)
+            DOI:10.1182/blood-2006-06-015461
+REFERENCE   PMID:18045383
+  AUTHORS   Chung MC, Wines BD, Baker H, Langley RJ, Baker EN, Fraser JD
+  TITLE     The crystal structure of staphylococcal superantigen-like protein 11 in complex with sialyl Lewis X reveals the mechanism for cell binding and immune inhibition.
+  JOURNAL   Mol Microbiol 66:1342-55 (2007)
+            DOI:10.1111/j.1365-2958.2007.05989.x
+REFERENCE   PMID:12091905
+  AUTHORS   Chavakis T, Hussain M, Kanse SM, Peters G, Bretzel RG, Flock JI, Herrmann M, Preissner KT
+  TITLE     Staphylococcus aureus extracellular adherence protein serves as anti-inflammatory factor by inhibiting the recruitment of host leukocytes.
+  JOURNAL   Nat Med 8:687-93 (2002)
+            DOI:10.1038/nm728
+REFERENCE   PMID:17517597
+  AUTHORS   Li M, Lai Y, Villaruz AE, Cha DJ, Sturdevant DE, Otto M
+  TITLE     Gram-positive three-component antimicrobial peptide-sensing system.
+  JOURNAL   Proc Natl Acad Sci U S A 104:9469-74 (2007)
+            DOI:10.1073/pnas.0702159104
+REFERENCE   PMID:15561843
+  AUTHORS   Sieprawska-Lupa M, Mydel P, Krawczyk K, Wojcik K, Puklo M, Lupa B, Suder P, Silberring J, Reed M, Pohl J, Shafer W, McAleese F, Foster T, Travis J, Potempa J
+  TITLE     Degradation of human antimicrobial peptide LL-37 by Staphylococcus aureus-derived proteinases.
+  JOURNAL   Antimicrob Agents Chemother 48:4673-9 (2004)
+            DOI:10.1128/AAC.48.12.4673-4679.2004
+REFERENCE   PMID:18837785
+  AUTHORS   Fraser JD, Proft T
+  TITLE     The bacterial superantigen and superantigen-like proteins.
+  JOURNAL   Immunol Rev 225:226-43 (2008)
+            DOI:10.1111/j.1600-065X.2008.00681.x
+REFERENCE   PMID:12228315
+  AUTHORS   Yamaguchi T, Nishifuji K, Sasaki M, Fudaba Y, Aepfelbacher M, Takata T, Ohara M, Komatsuzawa H, Amagai M, Sugai M
+  TITLE     Identification of the Staphylococcus aureus etd pathogenicity island which encodes a novel exfoliative toxin, ETD, and EDIN-B.
+  JOURNAL   Infect Immun 70:5835-45 (2002)
+            DOI:10.1128/IAI.70.10.5835-5845.2002
+REFERENCE   PMID:16710608
+  AUTHORS   Pazgier M, Hoover DM, Yang D, Lu W, Lubkowski J
+  TITLE     Human beta-defensins.
+  JOURNAL   Cell Mol Life Sci 63:1294-313 (2006)
+            DOI:10.1007/s00018-005-5540-2
+REFERENCE   PMID:16184199
+  AUTHORS   Zhang Q, Mousdicas N, Yi Q, Al-Hassani M, Billings SD, Perkins SM, Howard KM, Ishii S, Shimizu T, Travers JB
+  TITLE     Staphylococcal lipoteichoic acid inhibits delayed-type hypersensitivity reactions via the platelet-activating factor receptor.
+  JOURNAL   J Clin Invest 115:2855-61 (2005)
+            DOI:10.1172/JCI25429
+REFERENCE   PMID:15372083
+  AUTHORS   Lehrer RI
+  TITLE     Primate defensins.
+  JOURNAL   Nat Rev Microbiol 2:727-38 (2004)
+            DOI:10.1038/nrmicro976
+REL_PATHWAY hsa04610  Complement and coagulation cascades
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+KO_PATHWAY  ko05150
+///

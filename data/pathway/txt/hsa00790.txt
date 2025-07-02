@@ -1,0 +1,159 @@
+ENTRY       hsa00790                    Pathway
+NAME        Folate biosynthesis - Homo sapiens (human)
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP hsa00790  Folate biosynthesis
+MODULE      hsa_M00842  Tetrahydrobiopterin biosynthesis, GTP => BH4 [PATH:hsa00790]
+            hsa_M00880  Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor [PATH:hsa00790]
+NETWORK     nt06016  Phenylalanine and tyrosine metabolism
+            nt06025  Molybdenum cofactor biosynthesis
+            nt06028  Dopamine and serotonin metabolism
+  ELEMENT   N00700  Tyrosine biosynthesis
+            N00702  Tetrahydrobiopterin biosynthesis, GTP to BH4
+            N00705  Tetrahydrobiopterin biosynthesis, BH4OH to BH4
+            N00890  Molybdenum cofactor biosynthesis
+DRUG        D00142  Methotrexate (JP18/USP/INN)
+            D02115  Methotrexate sodium
+            D03828  Pemetrexed disodium (USAN)
+            D03942  Edatrexate (USAN/INN)
+            D05500  Piritrexim isethionate (USAN)
+            D05589  Pralatrexate (JAN/USAN/INN)
+            D05999  Talotrexin ammonium (USAN)
+            D06238  Trimetrexate (USAN/INN)
+            D06239  Trimetrexate glucuronate (USAN)
+            D06503  Pemetrexed sodium hydrate (JAN)
+            D07472  Pemetrexed (INN)
+            D10596  Pemetrexed sodium hemipentahydrate (JAN)
+            D11352  Pemetrexed tromethamine (USAN)
+            D11779  Fosdenopterin (USAN)
+            D11780  Fosdenopterin hydrobromide (USAN)
+            D12277  Ilofotase alfa (USAN)
+DBLINKS     GO: 0046656
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2643  GCH1; GTP cyclohydrolase 1 [KO:K01495] [EC:3.5.4.16]
+            249  ALPL; alkaline phosphatase, biomineralization associated [KO:K01077] [EC:3.1.3.1]
+            248  ALPI; alkaline phosphatase, intestinal [KO:K01077] [EC:3.1.3.1]
+            250  ALPP; alkaline phosphatase, placental [KO:K01077] [EC:3.1.3.1]
+            251  ALPG; alkaline phosphatase, germ cell [KO:K01077] [EC:3.1.3.1]
+            1719  DHFR; dihydrofolate reductase [KO:K00287] [EC:1.5.1.3]
+            200895  DHFR2; dihydrofolate reductase 2 [KO:K00287] [EC:1.5.1.3]
+            2356  FPGS; folylpolyglutamate synthase [KO:K01930] [EC:6.3.2.17]
+            8836  GGH; gamma-glutamyl hydrolase [KO:K01307] [EC:3.4.19.9]
+            5805  PTS; 6-pyruvoyltetrahydropterin synthase [KO:K01737] [EC:4.2.3.12 4.1.2.50]
+            6697  SPR; sepiapterin reductase [KO:K00072] [EC:1.1.1.153]
+            231  AKR1B1; aldo-keto reductase family 1 member B [KO:K00011] [EC:1.1.1.21]
+            57016  AKR1B10; aldo-keto reductase family 1 member B10 [KO:K00011] [EC:1.1.1.21]
+            873  CBR1; carbonyl reductase 1 [KO:K00079] [EC:1.1.1.184 1.1.1.189 1.1.1.197]
+            8644  AKR1C3; aldo-keto reductase family 1 member C3 [KO:K04119] [EC:1.1.1.51 1.1.1.188 1.1.1.213 1.1.1.357]
+            5860  QDPR; quinoid dihydropteridine reductase [KO:K00357] [EC:1.5.1.34]
+            84105  PCBD2; pterin-4 alpha-carbinolamine dehydratase 2 [KO:K01724] [EC:4.2.1.96]
+            5092  PCBD1; pterin-4 alpha-carbinolamine dehydratase 1 [KO:K01724] [EC:4.2.1.96]
+            5053  PAH; phenylalanine hydroxylase [KO:K00500] [EC:1.14.16.1]
+            7054  TH; tyrosine hydroxylase [KO:K00501] [EC:1.14.16.2]
+            121278  TPH2; tryptophan hydroxylase 2 [KO:K00502] [EC:1.14.16.4]
+            7166  TPH1; tryptophan hydroxylase 1 [KO:K00502] [EC:1.14.16.4]
+            4337  MOCS1; molybdenum cofactor synthesis 1 [KO:K20967] [EC:4.1.99.22 4.6.1.17]
+            4338  MOCS2; molybdenum cofactor synthesis 2 [KO:K03635] [EC:2.8.1.12]
+            10243  GPHN; gephyrin [KO:K15376] [EC:2.10.1.1 2.7.7.75]
+            55034  MOCOS; molybdenum cofactor sulfurase [KO:K15631] [EC:2.8.1.9]
+COMPOUND    C00044  GTP
+            C00101  Tetrahydrofolate
+            C00119  5-Phospho-alpha-D-ribose 1-diphosphate
+            C00156  4-Hydroxybenzoate
+            C00251  Chorismate
+            C00266  Glycolaldehyde
+            C00268  Dihydrobiopterin
+            C00272  Tetrahydrobiopterin
+            C00415  Dihydrofolate
+            C00504  Folate
+            C00568  4-Aminobenzoate
+            C00835  Sepiapterin
+            C00921  Dihydropteroate
+            C01217  5,6,7,8-Tetrahydromethanopterin
+            C01300  6-(Hydroxymethyl)-7,8-dihydropterin
+            C01304  2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one
+            C02587  Pyrimidodiazepine
+            C02953  7,8-Dihydrobiopterin
+            C03541  THF-polyglutamate
+            C03684  6-Pyruvoyltetrahydropterin
+            C04244  6-Lactoyl-5,6,7,8-tetrahydropterin
+            C04807  6-Hydroxymethyl-7,8-dihydropterin diphosphate
+            C04874  7,8-Dihydroneopterin
+            C04895  7,8-Dihydroneopterin 3'-triphosphate
+            C05922  Formamidopyrimidine nucleoside triphosphate
+            C05923  2,5-Diaminopyrimidine nucleoside triphosphate
+            C05924  Molybdopterin
+            C05925  Dihydroneopterin phosphate
+            C05926  Neopterin
+            C05927  7,8-Dihydromethanopterin
+            C06148  2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine
+            C06313  Biopterin
+            C09332  THF-L-glutamate
+            C11355  4-Amino-4-deoxychorismate
+            C15522  4a-Hydroxytetrahydrobiopterin
+            C15996  7-Cyano-7-carbaguanine
+            C16675  7-Aminomethyl-7-carbaguanine
+            C18237  Molybdoenzyme molybdenum cofactor
+            C18239  Precursor Z
+            C18802  Tetrahydrosarcinapterin
+            C19848  Adenylated molybdopterin
+            C19871  Guanylyl molybdenum cofactor
+            C20239  6-Carboxy-5,6,7,8-tetrahydropterin
+            C20248  7-Carboxy-7-carbaguanine
+            C20264  L-threo-Tetrahydrobiopterin
+            C20559  4-(beta-D-Ribofuranosyl)aniline 5'-phosphate
+            C20562  N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate
+            C20566  7,8-Dihydroneopterin 2'-phosphate
+            C20567  7,8-Dihydroneopterin 2',3'-cyclic phosphate
+            C21007  5,6,7,8-Tetrahydromonapterin
+            C21008  7,8-Dihydromonapterin
+            C21065  7,8-Dihydroxanthopterin
+            C21094  7,8-Dihydromonapterin 3'-triphosphate
+            C21107  4-(beta-D-Ribofuranosyl)phenol 5'-phosphate
+            C21310  (8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate
+            C21485  Cytidylyl molybdenum cofactor
+            C21486  Thio-molybdenum cofactor
+            C21640  6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin
+REFERENCE   
+  AUTHORS   Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).
+  TITLE     [Cellular Functions and Metabolic Maps] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (1997)
+REFERENCE   PMID:19675644
+  AUTHORS   Schwarz G, Mendel RR, Ribbe MW
+  TITLE     Molybdenum cofactors, enzymes and pathways.
+  JOURNAL   Nature 460:839-47 (2009)
+            DOI:10.1038/nature08302
+REFERENCE   PMID:16632608
+  AUTHORS   Hanzelmann P, Schindelin H
+  TITLE     Binding of 5'-GTP to the C-terminal FeS cluster of the radical S-adenosylmethionine enzyme MoaA provides insights into its mechanism.
+  JOURNAL   Proc Natl Acad Sci U S A 103:6829-34 (2006)
+            DOI:10.1073/pnas.0510711103
+REFERENCE   PMID:18092812
+  AUTHORS   Daniels JN, Wuebbens MM, Rajagopalan KV, Schindelin H
+  TITLE     Crystal structure of a molybdopterin synthase-precursor Z complex: insight into its sulfur transfer mechanism and its role in molybdenum cofactor deficiency.
+  JOURNAL   Biochemistry 47:615-26 (2008)
+            DOI:10.1021/bi701734g
+REFERENCE   PMID:12571226
+  AUTHORS   Wuebbens MM, Rajagopalan KV
+  TITLE     Mechanistic and mutational studies of Escherichia coli molybdopterin synthase clarify the final step of molybdopterin biosynthesis.
+  JOURNAL   J Biol Chem 278:14523-32 (2003)
+            DOI:10.1074/jbc.M300453200
+REFERENCE   PMID:21867484
+  AUTHORS   Werner ER, Blau N, Thony B
+  TITLE     Tetrahydrobiopterin: biochemistry and pathophysiology.
+  JOURNAL   Biochem J 438:397-414 (2011)
+            DOI:10.1042/BJ20110293
+REFERENCE   PMID:12893295
+  AUTHORS   Iino T, Tabata M, Takikawa S, Sawada H, Shintaku H, Ishikura S, Hara A
+  TITLE     Tetrahydrobiopterin is synthesized from 6-pyruvoyl-tetrahydropterin by the human aldo-keto reductase AKR1 family members.
+  JOURNAL   Arch Biochem Biophys 416:180-7 (2003)
+            DOI:10.1016/S0003-9861(03)00295-9
+REFERENCE   PMID:1902669
+  AUTHORS   Park YS, Heizmann CW, Wermuth B, Levine RA, Steinerstauch P, Guzman J, Blau N
+  TITLE     Human carbonyl and aldose reductases: new catalytic functions in tetrahydrobiopterin biosynthesis.
+  JOURNAL   Biochem Biophys Res Commun 175:738-44 (1991)
+            DOI:10.1016/0006-291X(91)91628-P
+REL_PATHWAY hsa00230  Purine metabolism
+            hsa00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+            hsa00670  One carbon pool by folate
+KO_PATHWAY  ko00790
+///

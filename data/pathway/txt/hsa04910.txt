@@ -1,0 +1,287 @@
+ENTRY       hsa04910                    Pathway
+NAME        Insulin signaling pathway - Homo sapiens (human)
+DESCRIPTION Insulin binding to its receptor results in the tyrosine phosphorylation of insulin receptor substrates (IRS) by the insulin receptor tyrosine kinase (INSR). This allows association of IRSs with the regulatory subunit of phosphoinositide 3-kinase (PI3K). PI3K activates 3-phosphoinositide-dependent protein kinase 1 (PDK1), which activates Akt, a serine kinase. Akt in turn deactivates glycogen synthase kinase 3 (GSK-3), leading to activation of glycogen synthase (GYS) and thus glycogen synthesis. Activation of Akt also results in the translocation of GLUT4 vesicles from their intracellular pool to the plasma membrane, where they allow uptake of glucose into the cell. Akt also leads to mTOR-mediated activation of protein synthesis by eIF4 and p70S6K. The translocation of GLUT4 protein is also elicited through the CAP/Cbl/TC10 pathway, once Cbl is phosphorylated by INSR.
+            Other signal transduction proteins interact with IRS including GRB2. GRB2 is part of the cascade including SOS, RAS, RAF and MEK that leads to activation of mitogen-activated protein kinase (MAPK) and mitogenic responses in the form of gene transcription. SHC is another substrate of INSR. When tyrosine phosphorylated, SHC associates with GRB2 and can thus activate the RAS/MAPK pathway independently of IRS-1.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04910  Insulin signaling pathway
+DRUG        D00085  Insulin (JAN/USP)
+            D00595  Buformin (USAN/INN)
+            D00944  Metformin hydrochloride (JP18/USP)
+            D01238  Bucladesine sodium (JAN)
+            D01896  Cilostazol (JP18/USP/INN)
+            D02206  Buformin hydrochloride (JP18)
+            D03230  Insulin human (USP/INN)
+            D03250  Insulin glargine (USAN/INN)
+            D04050  Ertiprotafib (USAN/INN)
+            D04475  Insulin aspart (USP/INN)
+            D04477  Insulin lispro (USP/INN)
+            D04537  Ingliforib (USAN/INN)
+            D04539  Insulin detemir (USAN/INN)
+            D04540  Insulin glulisine (USAN/INN)
+            D04541  Insulin human, isophane (USP)
+            D04542  Insulin human zinc (USP)
+            D04543  Insulin human zinc, extended (USP)
+            D04544  Insulin I 125 (USAN)
+            D04545  Insulin I 131 (USAN)
+            D04546  Insulin, dalanated (USAN)
+            D04547  Insulin, isophane (USP)
+            D04548  Insulin, neutral (USAN)
+            D04549  Insulin zinc, extended (USP)
+            D04550  Insulin zinc, prompt (USP)
+            D04551  Insulin zinc (USP)
+            D04966  Metformin (USAN/INN)
+            D05622  Proinsulin human (USAN)
+            D07546  Bucladesine (INN)
+            D08080  Insulin injection, biphasic isophane (BAN)
+            D08351  Phenformin (BAN)
+            D08352  Phenformin hydrochloride
+            D09727  Insulin degludec (USAN/INN)
+            D10473  Insulin peglispro (USAN/INN)
+            D11034  Insulin glargine and lixisenatide
+            D11567  Insulin degludec and liraglutide
+            D11640  Firsocostat (USAN/INN)
+            D11902  Clesacostat (USAN)
+            D11903  Clesacostat tromethamine (USAN)
+            D12304  Elraglusib (USAN)
+            D12358  Insulin icodec (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3630  INS; insulin [KO:K04526]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            8471  IRS4; insulin receptor substrate 4 [KO:K17446]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            2998  GYS2; glycogen synthase 2 [KO:K00693] [EC:2.4.1.11]
+            2997  GYS1; glycogen synthase 1 [KO:K00693] [EC:2.4.1.11]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            5506  PPP1R3A; protein phosphatase 1 regulatory subunit 3A [KO:K07189]
+            5507  PPP1R3C; protein phosphatase 1 regulatory subunit 3C [KO:K07189]
+            5509  PPP1R3D; protein phosphatase 1 regulatory subunit 3D [KO:K07189]
+            79660  PPP1R3B; protein phosphatase 1 regulatory subunit 3B [KO:K07189]
+            90673  PPP1R3E; protein phosphatase 1 regulatory subunit 3E [KO:K07189]
+            89801  PPP1R3F; protein phosphatase 1 regulatory subunit 3F [KO:K17453]
+            5260  PHKG1; phosphorylase kinase catalytic subunit gamma 1 [KO:K00871] [EC:2.7.11.19]
+            5261  PHKG2; phosphorylase kinase catalytic subunit gamma 2 [KO:K00871] [EC:2.7.11.19]
+            5257  PHKB; phosphorylase kinase regulatory subunit beta [KO:K07190]
+            5256  PHKA2; phosphorylase kinase regulatory subunit alpha 2 [KO:K07190]
+            5255  PHKA1; phosphorylase kinase regulatory subunit alpha 1 [KO:K07190]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            5836  PYGL; glycogen phosphorylase L [KO:K00688] [EC:2.4.1.1]
+            5837  PYGM; glycogen phosphorylase, muscle associated [KO:K00688] [EC:2.4.1.1]
+            5834  PYGB; glycogen phosphorylase B [KO:K00688] [EC:2.4.1.1]
+            5140  PDE3B; phosphodiesterase 3B [KO:K13296] [EC:3.1.4.17]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            5573  PRKAR1A; protein kinase cAMP-dependent type I regulatory subunit alpha [KO:K04739]
+            5576  PRKAR2A; protein kinase cAMP-dependent type II regulatory subunit alpha [KO:K04739]
+            5577  PRKAR2B; protein kinase cAMP-dependent type II regulatory subunit beta [KO:K04739]
+            5575  PRKAR1B; protein kinase cAMP-dependent type I regulatory subunit beta [KO:K04739]
+            3991  LIPE; lipase E, hormone sensitive type [KO:K07188] [EC:3.1.1.79]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            5584  PRKCI; protein kinase C iota [KO:K06069] [EC:2.7.11.13]
+            6517  SLC2A4; solute carrier family 2 member 4 [KO:K07191]
+            2319  FLOT2; flotillin 2 [KO:K07192]
+            10211  FLOT1; flotillin 1 [KO:K07192]
+            10603  SH2B2; SH2B adaptor protein 2 [KO:K07193]
+            10580  SORBS1; sorbin and SH3 domain containing 1 [KO:K06086]
+            867  CBL; Cbl proto-oncogene [KO:K04707] [EC:2.3.2.27]
+            868  CBLB; Cbl proto-oncogene B [KO:K22517] [EC:2.3.2.27]
+            1398  CRK; CRK proto-oncogene, adaptor protein [KO:K04438]
+            1399  CRKL; CRK like proto-oncogene, adaptor protein [KO:K04438]
+            2889  RAPGEF1; Rap guanine nucleotide exchange factor 1 [KO:K06277]
+            23433  RHOQ; ras homolog family member Q [KO:K07194]
+            23265  EXOC7; exocyst complex component 7 [KO:K07195]
+            9322  TRIP10; thyroid hormone receptor interactor 10 [KO:K07196]
+            6720  SREBF1; sterol regulatory element binding transcription factor 1 [KO:K07197]
+            31  ACACA; acetyl-CoA carboxylase alpha [KO:K11262] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            32  ACACB; acetyl-CoA carboxylase beta [KO:K01946] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            2194  FASN; fatty acid synthase [KO:K00665] [EC:2.3.1.85]
+            5313  PKLR; pyruvate kinase L/R [KO:K12406] [EC:2.7.1.40]
+            3101  HK3; hexokinase 3 [KO:K00844] [EC:2.7.1.1]
+            3098  HK1; hexokinase 1 [KO:K00844] [EC:2.7.1.1]
+            3099  HK2; hexokinase 2 [KO:K00844] [EC:2.7.1.1]
+            80201  HKDC1; hexokinase domain containing 1 [KO:K00844] [EC:2.7.1.1]
+            2645  GCK; glucokinase [KO:K12407] [EC:2.7.1.2]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            10891  PPARGC1A; PPARG coactivator 1 alpha [KO:K07202]
+            2538  G6PC1; glucose-6-phosphatase catalytic subunit 1 [KO:K01084] [EC:3.1.3.9]
+            57818  G6PC2; glucose-6-phosphatase catalytic subunit 2 [KO:K01084] [EC:3.1.3.9]
+            92579  G6PC3; glucose-6-phosphatase catalytic subunit 3 [KO:K01084] [EC:3.1.3.9]
+            2203  FBP1; fructose-bisphosphatase 1 [KO:K03841] [EC:3.1.3.11]
+            8789  FBP2; fructose-bisphosphatase 2 [KO:K03841] [EC:3.1.3.11]
+            5105  PCK1; phosphoenolpyruvate carboxykinase 1 [KO:K01596] [EC:4.1.1.32]
+            5106  PCK2; phosphoenolpyruvate carboxykinase 2, mitochondrial [KO:K01596] [EC:4.1.1.32]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            57521  RPTOR; regulatory associated protein of MTOR complex 1 [KO:K07204]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            6194  RPS6; ribosomal protein S6 [KO:K02991]
+            1978  EIF4EBP1; eukaryotic translation initiation factor 4E binding protein 1 [KO:K07205]
+            1977  EIF4E; eukaryotic translation initiation factor 4E [KO:K03259]
+            9470  EIF4E2; eukaryotic translation initiation factor 4E family member 2 [KO:K03259]
+            253314  EIF4E1B; eukaryotic translation initiation factor 4E family member 1B [KO:K03259]
+            7248  TSC1; TSC complex subunit 1 [KO:K07206]
+            7249  TSC2; TSC complex subunit 2 [KO:K07207]
+            6009  RHEB; Ras homolog, mTORC1 binding [KO:K07208]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            6464  SHC1; SHC adaptor protein 1 [KO:K06279]
+            25759  SHC2; SHC adaptor protein 2 [KO:K17447]
+            53358  SHC3; SHC adaptor protein 3 [KO:K17448]
+            399694  SHC4; SHC adaptor protein 4 [KO:K17449]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            8569  MKNK1; MAPK interacting serine/threonine kinase 1 [KO:K04372] [EC:2.7.11.1]
+            2872  MKNK2; MAPK interacting serine/threonine kinase 2 [KO:K04372] [EC:2.7.11.1]
+            2002  ELK1; ETS transcription factor ELK1 [KO:K04375]
+            8651  SOCS1; suppressor of cytokine signaling 1 [KO:K04694]
+            8835  SOCS2; suppressor of cytokine signaling 2 [KO:K04695]
+            9021  SOCS3; suppressor of cytokine signaling 3 [KO:K04696]
+            122809  SOCS4; suppressor of cytokine signaling 4 [KO:K04697]
+            5770  PTPN1; protein tyrosine phosphatase non-receptor type 1 [KO:K05696] [EC:3.1.3.48]
+            5792  PTPRF; protein tyrosine phosphatase receptor type F [KO:K05695] [EC:3.1.3.48]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            3636  INPPL1; inositol polyphosphate phosphatase like 1 [KO:K15909] [EC:3.1.3.86]
+            3632  INPP5A; inositol polyphosphate-5-phosphatase A [KO:K01106] [EC:3.1.3.56]
+COMPOUND    C00031  D-Glucose
+            C00369  Starch
+            C00575  3',5'-Cyclic AMP
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:14635525
+  AUTHORS   Ogawa W, Kasuga M.
+  TITLE     [Mechanism of insulin action and diabetes mellitus]
+  JOURNAL   Seikagaku 75:1332-44 (2003)
+REFERENCE   PMID:11282018
+  AUTHORS   Bevan P.
+  TITLE     Insulin signalling.
+  JOURNAL   J Cell Sci 114:1429-30 (2001)
+REFERENCE   PMID:12867054
+  AUTHORS   Kanzaki M, Pessin JE.
+  TITLE     Insulin signaling: GLUT4 vesicles exit via the exocyst.
+  JOURNAL   Curr Biol 13:R574-6 (2003)
+            DOI:10.1016/S0960-9822(03)00478-0
+REFERENCE   PMID:10196204
+  AUTHORS   Moodie SA, Alleman-Sposeto J, Gustafson TA.
+  TITLE     Identification of the APS protein as a novel insulin receptor substrate.
+  JOURNAL   J Biol Chem 274:11186-93 (1999)
+            DOI:10.1074/jbc.274.16.11186
+REFERENCE   PMID:15733744
+  AUTHORS   Gual P, Le Marchand-Brustel Y, Tanti JF.
+  TITLE     Positive and negative regulation of insulin signaling through IRS-1 phosphorylation.
+  JOURNAL   Biochimie 87:99-109 (2005)
+            DOI:10.1016/j.biochi.2004.10.019
+REFERENCE   PMID:9748166
+  AUTHORS   Le Good JA, Ziegler WH, Parekh DB, Alessi DR, Cohen P, Parker PJ.
+  TITLE     Protein kinase C isotypes controlled by phosphoinositide 3-kinase through the protein kinase PDK1.
+  JOURNAL   Science 281:2042-5 (1998)
+            DOI:10.1126/science.281.5385.2042
+REFERENCE   PMID:11742412
+  AUTHORS   Saltiel AR, Kahn CR.
+  TITLE     Insulin signalling and the regulation of glucose and lipid metabolism.
+  JOURNAL   Nature 414:799-806 (2001)
+            DOI:10.1038/414799a
+REFERENCE   PMID:15624019
+  AUTHORS   Inoki K, Corradetti MN, Guan KL.
+  TITLE     Dysregulation of the TSC-mTOR pathway in human disease.
+  JOURNAL   Nat Genet 37:19-24 (2005)
+            DOI:10.1038/ng1494
+REFERENCE   PMID:16288289
+  AUTHORS   Ruggero D, Sonenberg N.
+  TITLE     The Akt of translational control.
+  JOURNAL   Oncogene 24:7426-34 (2005)
+            DOI:10.1038/sj.onc.1209098
+REFERENCE   PMID:10567225
+  AUTHORS   Nave BT, Ouwens M, Withers DJ, Alessi DR, Shepherd PR.
+  TITLE     Mammalian target of rapamycin is a direct target for protein kinase B: identification of a convergence point for opposing effects of insulin and amino-acid deficiency on protein translation.
+  JOURNAL   Biochem J 344 Pt 2:427-31 (1999)
+            DOI:10.1042/bj3440427
+REFERENCE   PMID:9445476
+  AUTHORS   Pullen N, Dennis PB, Andjelkovic M, Dufner A, Kozma SC, Hemmings BA, Thomas G.
+  TITLE     Phosphorylation and activation of p70s6k by PDK1.
+  JOURNAL   Science 279:707-10 (1998)
+            DOI:10.1126/science.279.5351.707
+REFERENCE   PMID:9609110
+  AUTHORS   Ogawa W, Matozaki T, Kasuga M.
+  TITLE     Role of binding proteins to IRS-1 in insulin signalling.
+  JOURNAL   Mol Cell Biochem 182:13-22 (1998)
+REFERENCE   PMID:9609111
+  AUTHORS   Ceresa BP, Pessin JE.
+  TITLE     Insulin regulation of the Ras activation/inactivation cycle.
+  JOURNAL   Mol Cell Biochem 182:23-9 (1998)
+REFERENCE   PMID:15229476
+  AUTHORS   Pollak MN, Schernhammer ES, Hankinson SE.
+  TITLE     Insulin-like growth factors and neoplasia.
+  JOURNAL   Nat Rev Cancer 4:505-18 (2004)
+            DOI:10.1038/nrc1387
+REFERENCE   PMID:9346240
+  AUTHORS   Datta SR, Dudek H, Tao X, Masters S, Fu H, Gotoh Y, Greenberg ME.
+  TITLE     Akt phosphorylation of BAD couples survival signals to the cell-intrinsic death machinery.
+  JOURNAL   Cell 91:231-41 (1997)
+            DOI:10.1016/S0092-8674(00)80405-5
+REFERENCE   PMID:17344645
+  AUTHORS   Ferre P, Foufelle F
+  TITLE     SREBP-1c transcription factor and lipid homeostasis: clinical perspective.
+  JOURNAL   Horm Res 68:72-82 (2007)
+            DOI:10.1159/000100426
+REFERENCE   PMID:18291668
+  AUTHORS   Raghow R, Yellaturu C, Deng X, Park EA, Elam MB
+  TITLE     SREBPs: the crossroads of physiological and pathological lipid homeostasis.
+  JOURNAL   Trends Endocrinol Metab 19:65-73 (2008)
+            DOI:10.1016/j.tem.2007.10.009
+REFERENCE   PMID:11343120
+  AUTHORS   Clement S, Krause U, Desmedt F, Tanti JF, Behrends J, Pesesse X, Sasaki T, Penninger J, Doherty M, Malaisse W, Dumont JE, Le Marchand-Brustel Y, Erneux C, Hue L, Schurmans S
+  TITLE     The lipid phosphatase SHIP2 controls insulin sensitivity.
+  JOURNAL   Nature 409:92-7 (2001)
+            DOI:10.1038/35051094
+REFERENCE   PMID:12791379
+  AUTHORS   Backers K, Blero D, Paternotte N, Zhang J, Erneux C
+  TITLE     The termination of PI3K signalling by SHIP1 and SHIP2 inositol 5-phosphatases.
+  JOURNAL   Adv Enzyme Regul 43:15-28 (2003)
+            DOI:10.1016/S0065-2571(02)00043-2
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00061  Fatty acid biosynthesis
+            hsa00500  Starch and sucrose metabolism
+            hsa04010  MAPK signaling pathway
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04210  Apoptosis
+KO_PATHWAY  ko04910
+///

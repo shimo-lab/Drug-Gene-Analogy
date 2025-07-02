@@ -1,0 +1,117 @@
+ENTRY       hsa03050                    Pathway
+NAME        Proteasome - Homo sapiens (human)
+DESCRIPTION The proteasome is a protein-destroying apparatus involved in many essential cellular functions, such as regulation of cell cycle, cell differentiation, signal transduction pathways, antigen processing for appropriate immune responses, stress signaling, inflammatory responses, and apoptosis. It is capable of degrading a variety of cellular proteins in a rapid and timely fashion and most substrate proteins are modified by ubiquitin before their degradation by the proteasome. The proteasome is a large protein complex consisting of a proteolytic core called the 20S particle and ancillary factors that regulate its activity in various ways. The most common form is the 26S proteasome containing one 20S core particle and two 19S regulatory particles that enable the proteasome to degrade ubiquitinated proteins by an ATP-dependent mechanism. Another form is the immunoproteasome containing two 11S regulatory particles, PA28 alpha and PA28 beta, which are induced by interferon gamma under the conditions of intensified immune response. Other regulatory particles include PA28 gamma and PA200. Although PA28 gamma also belongs to a family of activators of the 20S proteasome, it is localized within the nucleus and forms a homoheptamer. PA28 gamma has been implicated in the regulation of cell cycle progression and apoptosis. PA200 has been identified as a large nuclear protein that stimulates proteasomal hydrolysis of peptides.
+CLASS       Genetic Information Processing; Folding, sorting and degradation
+PATHWAY_MAP hsa03050  Proteasome
+NETWORK     nt06420  Ubiquitin-proteasome system
+            nt06460  Alzheimer disease
+            nt06461  Huntington disease
+            nt06463  Parkinson disease
+            nt06464  Amyotrophic lateral sclerosis
+            nt06465  Prion disease
+  ELEMENT   N01029  26S proteasome-mediated protein degradation
+DRUG        D03150  Bortezomib (JAN/USAN/INN)
+            D08880  Carfilzomib (JAN/USAN/INN)
+            D09640  Marizomib (USAN/INN)
+            D10110  Delanzomib (USAN)
+            D10130  Ixazomib (USAN)
+            D10131  Ixazomib citrate (JAN/USAN)
+            D12311  Bortezomib hydrate (JAN)
+            D12512  Zetomipzomib (USAN/INN)
+            D12513  Zetomipzomib maleate (USAN)
+DBLINKS     GO: 0000502
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5709  PSMD3; proteasome 26S subunit, non-ATPase 3 [KO:K03033]
+            5715  PSMD9; proteasome 26S subunit, non-ATPase 9 [KO:K06693]
+            5718  PSMD12; proteasome 26S subunit, non-ATPase 12 [KO:K03035]
+            5717  PSMD11; proteasome 26S subunit, non-ATPase 11 [KO:K03036]
+            9861  PSMD6; proteasome 26S subunit, non-ATPase 6 [KO:K03037]
+            5713  PSMD7; proteasome 26S subunit, non-ATPase 7 [KO:K03038]
+            5719  PSMD13; proteasome 26S subunit, non-ATPase 13 [KO:K03039]
+            10213  PSMD14; proteasome 26S subunit, non-ATPase 14 [KO:K03030]
+            5714  PSMD8; proteasome 26S subunit, non-ATPase 8 [KO:K03031]
+            7979  SEM1; SEM1 26S proteasome subunit [KO:K10881]
+            5710  PSMD4; proteasome 26S subunit ubiquitin receptor, non-ATPase 4 [KO:K03029]
+            5708  PSMD2; proteasome 26S subunit ubiquitin receptor, non-ATPase 2 [KO:K03028]
+            5707  PSMD1; proteasome 26S subunit, non-ATPase 1 [KO:K03032]
+            11047  ADRM1; ADRM1 26S proteasome ubiquitin receptor [KO:K06691]
+            5701  PSMC2; proteasome 26S subunit, ATPase 2 [KO:K03061]
+            5700  PSMC1; proteasome 26S subunit, ATPase 1 [KO:K03062]
+            5705  PSMC5; proteasome 26S subunit, ATPase 5 [KO:K03066]
+            5706  PSMC6; proteasome 26S subunit, ATPase 6 [KO:K03064]
+            5702  PSMC3; proteasome 26S subunit, ATPase 3 [KO:K03065]
+            5704  PSMC4; proteasome 26S subunit, ATPase 4 [KO:K03063]
+            5720  PSME1; proteasome activator subunit 1 [KO:K06696]
+            5721  PSME2; proteasome activator subunit 2 [KO:K06697]
+            10197  PSME3; proteasome activator subunit 3 [KO:K06698]
+            23198  PSME4; proteasome activator subunit 4 [KO:K06699]
+            5687  PSMA6; proteasome 20S subunit alpha 6 [KO:K02730] [EC:3.4.25.1]
+            5683  PSMA2; proteasome 20S subunit alpha 2 [KO:K02726] [EC:3.4.25.1]
+            5685  PSMA4; proteasome 20S subunit alpha 4 [KO:K02728] [EC:3.4.25.1]
+            5688  PSMA7; proteasome 20S subunit alpha 7 [KO:K02731] [EC:3.4.25.1]
+            143471  PSMA8; proteasome 20S subunit alpha 8 [KO:K02731] [EC:3.4.25.1]
+            5686  PSMA5; proteasome 20S subunit alpha 5 [KO:K02729] [EC:3.4.25.1]
+            5682  PSMA1; proteasome 20S subunit alpha 1 [KO:K02725] [EC:3.4.25.1]
+            5684  PSMA3; proteasome 20S subunit alpha 3 [KO:K02727] [EC:3.4.25.1]
+            5694  PSMB6; proteasome 20S subunit beta 6 [KO:K02738] [EC:3.4.25.1]
+            5695  PSMB7; proteasome 20S subunit beta 7 [KO:K02739] [EC:3.4.25.1]
+            5691  PSMB3; proteasome 20S subunit beta 3 [KO:K02735] [EC:3.4.25.1]
+            5690  PSMB2; proteasome 20S subunit beta 2 [KO:K02734] [EC:3.4.25.1]
+            5693  PSMB5; proteasome 20S subunit beta 5 [KO:K02737] [EC:3.4.25.1]
+            5689  PSMB1; proteasome 20S subunit beta 1 [KO:K02732] [EC:3.4.25.1]
+            5692  PSMB4; proteasome 20S subunit beta 4 [KO:K02736] [EC:3.4.25.1]
+            5698  PSMB9; proteasome 20S subunit beta 9 [KO:K02741] [EC:3.4.25.1]
+            5699  PSMB10; proteasome 20S subunit beta 10 [KO:K02733] [EC:3.4.25.1]
+            5696  PSMB8; proteasome 20S subunit beta 8 [KO:K02740] [EC:3.4.25.1]
+            122706  PSMB11; proteasome subunit beta 11 [KO:K11598] [EC:3.4.25.1]
+            3458  IFNG; interferon gamma [KO:K04687]
+            9491  PSMF1; proteasome inhibitor subunit 1 [KO:K06700]
+            51371  POMP; proteasome maturation protein [KO:K11599]
+REFERENCE   PMID:16338359
+  AUTHORS   Hirano Y, Murata S, Tanaka K
+  TITLE     Large- and small-scale purification of mammalian 26S proteasomes.
+  JOURNAL   Methods Enzymol 399:227-40 (2005)
+            DOI:10.1016/S0076-6879(05)99015-0
+REFERENCE   PMID:18497808
+  AUTHORS   Saeki Y, Tanaka K
+  TITLE     Cell biology: two hands for degradation.
+  JOURNAL   Nature 453:460-1 (2008)
+            DOI:10.1038/453460a
+REFERENCE   PMID:16919475
+  AUTHORS   Smith DM, Benaroudj N, Goldberg A
+  TITLE     Proteasomes and their associated ATPases: a destructive combination.
+  JOURNAL   J Struct Biol 156:72-83 (2006)
+            DOI:10.1016/j.jsb.2006.04.012
+REFERENCE   PMID:16181324
+  AUTHORS   Strehl B, Seifert U, Kruger E, Heink S, Kuckelkorn U, Kloetzel PM
+  TITLE     Interferon-gamma, the functional plasticity of the ubiquitin-proteasome system, and MHC class I antigen processing.
+  JOURNAL   Immunol Rev 207:19-30 (2005)
+            DOI:10.1111/j.0105-2896.2005.00308.x
+REFERENCE   PMID:19483713
+  AUTHORS   Darwin KH
+  TITLE     Prokaryotic ubiquitin-like protein (Pup), proteasomes and pathogenesis.
+  JOURNAL   Nat Rev Microbiol 7:485-91 (2009)
+            DOI:10.1038/nrmicro2148
+REFERENCE   PMID:23495936
+  AUTHORS   Tomko RJ Jr, Hochstrasser M
+  TITLE     Molecular architecture and assembly of the eukaryotic proteasome.
+  JOURNAL   Annu Rev Biochem 82:415-45 (2013)
+            DOI:10.1146/annurev-biochem-060410-150257
+REFERENCE   PMID:28583440
+  AUTHORS   Budenholzer L, Cheng CL, Li Y, Hochstrasser M
+  TITLE     Proteasome Structure and Assembly.
+  JOURNAL   J Mol Biol 429:3500-3524 (2017)
+            DOI:10.1016/j.jmb.2017.05.027
+REFERENCE   PMID:29071527
+  AUTHORS   Cloos J, Roeten MS, Franke NE, van Meerloo J, Zweegman S, Kaspers GJ, Jansen G
+  TITLE     (Immuno)proteasomes as therapeutic target in acute leukemia.
+  JOURNAL   Cancer Metastasis Rev 36:599-615 (2017)
+            DOI:10.1007/s10555-017-9699-4
+REFERENCE   PMID:22215586
+  AUTHORS   Sakata E, Bohn S, Mihalache O, Kiss P, Beck F, Nagy I, Nickell S, Tanaka K, Saeki Y, Forster F, Baumeister W
+  TITLE     Localization of the proteasomal ubiquitin receptors Rpn10 and Rpn13 by electron cryomicroscopy.
+  JOURNAL   Proc Natl Acad Sci U S A 109:1479-84 (2012)
+            DOI:10.1073/pnas.1119394109
+REL_PATHWAY hsa04120  Ubiquitin mediated proteolysis
+KO_PATHWAY  ko03050
+///

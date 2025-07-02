@@ -1,0 +1,64 @@
+ENTRY       hsa00232                    Pathway
+NAME        Caffeine metabolism - Homo sapiens (human)
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP hsa00232  Caffeine metabolism
+DRUG        D09786  Topiroxostat (JAN/INN)
+DBLINKS     UMBBD: caf caf2
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1544  CYP1A2; cytochrome P450 family 1 subfamily A member 2 [KO:K07409] [EC:1.14.14.1]
+            10  NAT2; N-acetyltransferase 2 [KO:K00622] [EC:2.3.1.5]
+            9  NAT1; N-acetyltransferase 1 [KO:K00622] [EC:2.3.1.5]
+            1548  CYP2A6; cytochrome P450 family 2 subfamily A member 6 [KO:K17683] [EC:1.14.14.-]
+            1549  CYP2A7; cytochrome P450 family 2 subfamily A member 7 [KO:K17683] [EC:1.14.14.-]
+            7498  XDH; xanthine dehydrogenase [KO:K00106] [EC:1.17.1.4 1.17.3.2]
+COMPOUND    C00048  Glyoxylate
+            C00385  Xanthine
+            C01762  Xanthosine
+            C07130  Theophylline
+            C07480  Theobromine
+            C07481  Caffeine
+            C13747  1,7-Dimethylxanthine
+            C16352  7-Methylxanthosine
+            C16353  7-Methylxanthine
+            C16355  7-Methyluric acid
+            C16356  1,7-Dimethyluric acid
+            C16357  3-Methylxanthine
+            C16358  1-Methylxanthine
+            C16359  1-Methyluric acid
+            C16360  3,7-Dimethyluric acid
+            C16361  1,3,7-Trimethyluric acid
+            C16362  3,6,8-Trimethylallantoin
+            C16363  N-Methylurea
+            C16364  N,N'-Dimethylurea
+            C16365  5-Acetylamino-6-formylamino-3-methyluracil
+            C16366  5-Acetylamino-6-amino-3-methyluracil
+            C21144  1,3,7-Trimethyl-5-hydroxyisourate
+REFERENCE   PMID:9705852
+  AUTHORS   Madyastha KM, Sridhar GR.
+  TITLE     A novel pathway for the metabolism of caffeine by a mixed culture consortium.
+  JOURNAL   Biochem Biophys Res Commun 249:178-81 (1998)
+            DOI:10.1006/bbrc.1998.9102
+REFERENCE   PMID:14977550
+  AUTHORS   Mazzafera P.
+  TITLE     Catabolism of caffeine in plants and microorganisms.
+  JOURNAL   Front Biosci 9:1348-59 (2004)
+            DOI:10.2741/1339
+REFERENCE   PMID:11393735
+  AUTHORS   Nyeki A, Biollaz J, Kesselring UW, Decosterd LA.
+  TITLE     Extractionless method for the simultaneous high-performance liquid chromatographic determination of urinary caffeine metabolites for N-acetyltransferase 2, cytochrome P450 1A2 and xanthine oxidase activity assessment.
+  JOURNAL   J Chromatogr B Biomed Sci Appl 755:73-84 (2001)
+            DOI:10.1016/S0378-4347(00)00616-2
+REFERENCE   PMID:11544129
+  AUTHORS   Ashihara H, Crozier A.
+  TITLE     Caffeine: a well known but little mentioned compound in plant science.
+  JOURNAL   Trends Plant Sci 6:407-13 (2001)
+            DOI:10.1016/S1360-1385(01)02055-6
+REFERENCE   PMID:16333668
+  AUTHORS   Yoneyama N, Morimoto H, Ye CX, Ashihara H, Mizuno K, Kato M.
+  TITLE     Substrate specificity of N-methyltransferase involved in purine alkaloids synthesis is dependent upon one amino acid residue of the enzyme.
+  JOURNAL   Mol Genet Genomics 275:125-35 (2006)
+            DOI:10.1007/s00438-005-0070-z
+REL_PATHWAY hsa00230  Purine metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+KO_PATHWAY  ko00232
+///

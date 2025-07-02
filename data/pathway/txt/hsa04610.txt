@@ -1,0 +1,340 @@
+ENTRY       hsa04610                    Pathway
+NAME        Complement and coagulation cascades - Homo sapiens (human)
+DESCRIPTION The complement system is a proteolytic cascade in blood plasma and a mediator of innate immunity, a nonspecific defense mechanism against pathogens. There are three pathways of complement activation: the classical pathway, the lectin pathway, and the alternative pathway. All of these pathways generate a crucial enzymatic activity that, in turn, generates the effector molecules of complement. The main consequences of complement activation are the opsonization of pathogens, the recruitment of inflammatory and immunocompetent cells, and the direct killing of pathogens. Blood coagulation is another series of proenzyme-to-serine protease conversions, culminating the formation of thrombin, the enzyme responsible for the conversion of soluble fibrinogen to the insoluble fibrin clot. Protease-activated receptors, such as those activated by thrombin, are members of G protein-coupled receptors and function as a mediator of innate immunity. The kallikrein-kinin system is an endogenous metabolic cascade, triggering of which results in the release of vasoactive kinins (bradykinin-related peptides). Kinin peptides are implicated in many physiological and pathological processes including the regulation of blood pressure and sodium homeostasis, inflammatory processes, and the cardioprotective effects of preconditioning.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04610  Complement and coagulation cascades
+NETWORK     nt06164  Kaposi sarcoma-associated herpesvirus (KSHV)
+            nt06168  Herpes simplex virus 1 (HSV-1)
+            nt06171  Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+            nt06513  Complement cascade
+            nt06514  Coagulation cascade
+  ELEMENT   N01487  Classical pathway of complement cascade, C4/C2 to C3 convertase formation
+            N01489  Classical/Lectin pathway of complement cascade, C5 convertase formation
+            N01490  Common pathway of complement cascade, MAC formation
+            N01491  Lectin pathway of complement cascade, C4/C2 to C3 convertase formation
+            N01493  Alternative pathway of complement cascade, C3 convertase formation
+            N01494  Alternative pathway of complement cascade, C3/5 convertase formation
+            N01495  Classical/Lectin pathway of complement cascade, C4b breakdown
+            N01496  Alternative pathway of complement cascade, C3b breakdown
+            N01503  Extrinsic pathway of coagulation cascade, F7 activation
+            N01504  Regulation of complement cascade, CFHR
+            N01505  Regulation of complement cascade, MAC inhibition
+            N01506  Intrinsic pathway of coagulation cascade, F12 activation
+            N01507  Intrinsic pathway of coagulation cascade, F11 activation
+            N01508  Intrinsic pathway of coagulation cascade, F9 activation
+            N01509  Intrinsic pathway of coagulation cascade, F8 activation
+            N01510  Common pathway of coagulation cascade, F10 activation
+            N01511  Common pathway of coagulation cascade, F5 activation
+            N01512  Common pathway of coagulation cascade, prothrombin activation
+            N01513  Common pathway of coagulation cascade, fibrinogen to fibrin
+            N01514  Common pathway of coagulation cascade, F13 activation
+            N01515  Regulation of coagulation cascade, protein C system
+            N01516  Kallikrein-kinin system, prekallikrein activation
+            N01517  Kallikrein-kinin system, HMWK to bradykinin
+            N01518  Fibrinolytic system
+            N01519  Regulation of coagulation cascade, AT3
+            N01520  Regulation of fibrinolytic system, C1INH
+            N01521  Regulation of coagulation cascade, HCF2
+            N01522  Regulation of fibrinolytic system, AAP
+            N01523  Regulation of fibrinolytic system, AAT
+            N01524  Regulation of fibrinolytic system, PAI
+DRUG        D00160  Aminocaproic acid (USP/INN)
+            D00181  Argatroban (USP)
+            D00291  Desmopressin (INN)
+            D01136  Tranexamic acid (JP18/USP/INN)
+            D01672  Gabexate mesilate (JP18)
+            D01844  Fondaparinux sodium (JAN/USP/INN)
+            D01981  Ximelagatran (JAN/USAN/INN)
+            D02112  Heparin sodium (JP18/USP/INN)
+            D02235  Desmopressin acetate (USP)
+            D02956  Anticoagulant heparin (USP)
+            D02980  Adomiparin sodium (USAN)
+            D03136  Bivalirudin (USAN/INN)
+            D03213  Apixaban (JAN/USAN/INN)
+            D03330  Kallidinogenase (JP18/INN)
+            D03337  Reviparin sodium (JAN)
+            D03353  Dalteparin sodium (JAN/USP/INN)
+            D03644  Danaparoid sodium (JAN/USAN)
+            D03673  Deligoparin sodium (USAN/INN)
+            D03674  Enoxaparin sodium (JAN/USP/INN)
+            D03677  Deltibant (USAN/INN)
+            D03692  Desirudin (USAN/INN)
+            D03722  Efegatran sulfate (USAN)
+            D03728  Napsagatran (USAN)
+            D03766  Diaplasinin (USAN)
+            D03931  Ecallantide (USAN/INN)
+            D03940  Eculizumab (USAN/INN)
+            D04029  Razaxaban hydrochloride (USAN)
+            D04183  Fidexaban (USAN/INN)
+            D04427  Heparin calcium (JP18)
+            D04492  Icatibant acetate (JAN/USAN)
+            D04977  Parnaparin sodium (JP18)
+            D06142  Tifacogin (USAN/INN)
+            D06398  Tinzaparin sodium (USAN)
+            D06410  Thrombomodulin alfa (USAN/INN)
+            D06880  Lepirudin (INN)
+            D07082  Dabigatran etexilate mesylate (USAN)
+            D07086  Rivaroxaban (JAN/USAN/INN)
+            D07143  Melagatran (INN)
+            D07144  Dabigatran etexilate (USAN/INN)
+            D07510  Adomiparin (USAN)
+            D07568  Aminomethylbenzoic acid
+            D08004  Gabexate (INN)
+            D08547  Sulodexide (INN)
+            D08656  Aleplasinin (USAN/INN)
+            D08873  Betrixaban (USAN)
+            D08913  Eribaxaban (USAN)
+            D09546  Edoxaban tosilate hydrate (JAN)
+            D09707  Dabigatran (USAN/INN)
+            D09710  Edoxaban (USAN/INN)
+            D09765  Vorapaxar (USAN/INN)
+            D09766  Vorapaxar sulfate (JAN/USAN)
+            D09817  Darexaban maleate (JAN)
+            D09866  Atopaxar (USAN)
+            D09867  Atopaxar hydrobromide (USAN)
+            D09923  Letaxaban (USAN/INN)
+            D10150  Pegnivacogin sodium (USAN)
+            D10418  Delparantag pentahydrochloride (USAN)
+            D10471  Idraparinux sodium (USAN)
+            D10484  Pegnivacogin (USAN)
+            D10758  Turoctocog alfa pegol (genetical recombination) (JAN)
+            D10821  Emicizumab (USAN/INN)
+            D10845  Conestat alfa (INN)
+            D11029  Andexanet alfa (USAN/INN)
+            D11054  Ravulizumab (USAN)
+            D11093  Avacopan (JAN/USAN/INN)
+            D11094  Lanadelumab (USAN)
+            D11160  Caplacizumab (USAN/INN)
+            D11261  Marstacimab (USAN)
+            D11280  Bivalirudin trifluoroacetate (USAN)
+            D11331  Olendalizumab (USAN)
+            D11473  Nomacopan (USAN)
+            D11477  Pozelimab (USAN)
+            D11530  Sutimlimab (USAN/INN)
+            D11531  Narsoplimab (USAN)
+            D11568  Edoxaban tosylate (USAN)
+            D11613  Pegcetacoplan (JAN/USAN/INN)
+            D11641  Danicopan (JAN/USAN/INN)
+            D11673  Berotralstat (USAN)
+            D11674  Berotralstat hydrochloride (JAN/USAN)
+            D11696  Crovalimab (USAN/INN)
+            D11748  Avacincaptad pegol sodium (USAN)
+            D11802  Milvexian (USAN)
+            D11810  Fitusiran sodium (JAN)
+            D11813  Tisotumab (USAN)
+            D11814  Tisotumab vedotin (USAN/INN)
+            D11838  Vilobelimab (USAN)
+            D11847  Concizumab (USAN)
+            D11965  alpha 1-Antitrypsin
+            D12149  Plasminogen
+            D12208  Gefurulimab (USAN)
+            D12251  Iptacopan (USAN/INN)
+            D12252  Iptacopan hydrochloride (USAN)
+            D12356  Zilucoplan sodium (JAN)
+            D12357  Zilucoplan (USAN/INN)
+            D12396  Sebetralstat (USAN)
+            D12421  Freeze-dried activated human blood coagulation factor VII concentrate containing factor X
+            D12434  Valoctocogene roxaparvovec (USAN/INN)
+            D12481  Vemircopan (USAN/INN)
+            D12500  Etranacogene dezaparvovec (USAN/INN)
+            D12541  Gruticibart (USAN)
+            D12563  Frunexian (USAN
+            D12564  Frunexian hydrochloride (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2155  F7; coagulation factor VII [KO:K01320] [EC:3.4.21.21]
+            2152  F3; coagulation factor III, tissue factor [KO:K03901]
+            2161  F12; coagulation factor XII [KO:K01328] [EC:3.4.21.38]
+            2160  F11; coagulation factor XI [KO:K01323] [EC:3.4.21.27]
+            2158  F9; coagulation factor IX [KO:K01321] [EC:3.4.21.22]
+            7450  VWF; von Willebrand factor [KO:K03900]
+            2157  F8; coagulation factor VIII [KO:K03899]
+            2159  F10; coagulation factor X [KO:K01314] [EC:3.4.21.6]
+            2153  F5; coagulation factor V [KO:K03902]
+            2147  F2; coagulation factor II, thrombin [KO:K01313] [EC:3.4.21.5]
+            2243  FGA; fibrinogen alpha chain [KO:K03903]
+            2244  FGB; fibrinogen beta chain [KO:K03904]
+            2266  FGG; fibrinogen gamma chain [KO:K03905]
+            2162  F13A1; coagulation factor XIII A chain [KO:K03917] [EC:2.3.2.13]
+            2165  F13B; coagulation factor XIII B chain [KO:K03906]
+            2149  F2R; coagulation factor II thrombin receptor [KO:K03914]
+            2151  F2RL2; coagulation factor II thrombin receptor like 2 [KO:K04235]
+            9002  F2RL3; F2R like thrombin or trypsin receptor 3 [KO:K04236]
+            1361  CPB2; carboxypeptidase B2 [KO:K01300] [EC:3.4.17.20]
+            7056  THBD; thrombomodulin [KO:K03907]
+            10544  PROCR; protein C receptor [KO:K06557]
+            5624  PROC; protein C, inactivator of coagulation factors Va and VIIIa [KO:K01344] [EC:3.4.21.69]
+            5627  PROS1; protein S [KO:K03908]
+            5054  SERPINE1; serpin family E member 1 [KO:K03982]
+            5055  SERPINB2; serpin family B member 2 [KO:K19821]
+            5104  SERPINA5; serpin family A member 5 [KO:K03913]
+            5270  SERPINE2; serpin family E member 2 [KO:K16643]
+            5327  PLAT; plasminogen activator, tissue type [KO:K01343] [EC:3.4.21.68]
+            5328  PLAU; plasminogen activator, urokinase [KO:K01348] [EC:3.4.21.73]
+            5329  PLAUR; plasminogen activator, urokinase receptor [KO:K03985]
+            5340  PLG; plasminogen [KO:K01315] [EC:3.4.21.7]
+            3818  KLKB1; kallikrein B1 [KO:K01324] [EC:3.4.21.34]
+            3827  KNG1; kininogen 1 [KO:K03898]
+            623  BDKRB1; bradykinin receptor B1 [KO:K03915]
+            624  BDKRB2; bradykinin receptor B2 [KO:K03916]
+            7035  TFPI; tissue factor pathway inhibitor [KO:K03909]
+            5265  SERPINA1; serpin family A member 1 [KO:K03984]
+            462  SERPINC1; serpin family C member 1 [KO:K03911]
+            3053  SERPIND1; serpin family D member 1 [KO:K03912]
+            710  SERPING1; serpin family G member 1 [KO:K04001]
+            5345  SERPINF2; serpin family F member 2 [KO:K03983]
+            2  A2M; alpha-2-macroglobulin [KO:K03910]
+            712  C1QA; complement C1q A chain [KO:K03986]
+            713  C1QB; complement C1q B chain [KO:K03987]
+            714  C1QC; complement C1q C chain [KO:K03988]
+            715  C1R; complement C1r [KO:K01330] [EC:3.4.21.41]
+            716  C1S; complement C1s [KO:K01331] [EC:3.4.21.42]
+            4153  MBL2; mannose binding lectin 2 [KO:K03991]
+            5648  MASP1; MBL associated serine protease 1 [KO:K03992] [EC:3.4.21.-]
+            10747  MASP2; MBL associated serine protease 2 [KO:K03993] [EC:3.4.21.104]
+            720  C4A; complement C4A (Rodgers blood group) [KO:K03989]
+            721  C4B; complement C4B (Chido blood group) [KO:K03989]
+            717  C2; complement C2 [KO:K01332] [EC:3.4.21.43]
+            718  C3; complement C3 [KO:K03990]
+            629  CFB; complement factor B [KO:K01335] [EC:3.4.21.47]
+            1675  CFD; complement factor D [KO:K01334] [EC:3.4.21.46]
+            727  C5; complement C5 [KO:K03994]
+            729  C6; complement C6 [KO:K03995]
+            730  C7; complement C7 [KO:K03996]
+            731  C8A; complement C8 alpha chain [KO:K03997]
+            732  C8B; complement C8 beta chain [KO:K03998]
+            733  C8G; complement C8 gamma chain [KO:K03999]
+            735  C9; complement C9 [KO:K04000]
+            719  C3AR1; complement C3a receptor 1 [KO:K04009]
+            11326  VSIG4; V-set and immunoglobulin domain containing 4 [KO:K19822]
+            1378  CR1; complement C3b/C4b receptor 1 (Knops blood group) [KO:K04011]
+            1379  CR1L; complement C3b/C4b receptor 1 like [KO:K04011]
+            1380  CR2; complement C3d receptor 2 [KO:K04012]
+            3684  ITGAM; integrin subunit alpha M [KO:K06461]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            3687  ITGAX; integrin subunit alpha X [KO:K06462]
+            728  C5AR1; complement C5a receptor 1 [KO:K04010]
+            722  C4BPA; complement component 4 binding protein alpha [KO:K04002]
+            725  C4BPB; complement component 4 binding protein beta [KO:K04003]
+            3426  CFI; complement factor I [KO:K01333] [EC:3.4.21.45]
+            3075  CFH; complement factor H [KO:K04004]
+            4179  CD46; CD46 molecule [KO:K04007]
+            1604  CD55; CD55 molecule (Cromer blood group) [KO:K04006]
+            10878  CFHR3; complement factor H related 3 [KO:K23815]
+            3078  CFHR1; complement factor H related 1 [KO:K23815]
+            3080  CFHR2; complement factor H related 2 [KO:K23815]
+            10877  CFHR4; complement factor H related 4 [KO:K23816]
+            81494  CFHR5; complement factor H related 5 [KO:K23817]
+            966  CD59; CD59 molecule (CD59 blood group) [KO:K04008]
+            1191  CLU; clusterin [KO:K17252]
+            7448  VTN; vitronectin [KO:K06251]
+COMPOUND    C00290  Fibrin
+            C00306  Bradykinin
+            C00471  Plasmin
+            C00752  Thrombin
+            C01065  Coagulation factor Xa
+            C01715  Plasma kallikrein
+            C02002  C3a anaphylatoxin
+            C03259  Coagulation factor IXa
+            C03262  Coagulation factor XIa
+            C03378  Coagulation factor VIIa
+            C03379  Coagulation factor XIIa
+            C03780  Coagulation factor Va
+            C04001  Coagulation factor VIIIa
+            C16510  C5a anaphylatoxin
+            C22531  Complement component 2a
+            C22532  Complement component 2b
+            C22533  Complement component 3b
+            C22534  Complement component 3f
+            C22535  Complement iC3b
+            C22536  Complement component 3dg
+            C22537  Complement component 3c
+            C22538  Complement component 3d
+            C22539  Complement C3(H2O)
+            C22540  Complement factor Bb
+            C22541  Complement component 4a
+            C22542  Complement component 4b
+            C22543  Complement component 4c
+            C22544  Complement component 4d
+            C22545  Complement component 5b
+            C22546  Coagulation factor XIIIa
+            C22547  APC
+REFERENCE   PMID:26489954
+  AUTHORS   Bajic G, Degn SE, Thiel S, Andersen GR
+  TITLE     Complement activation, regulation, and molecular basis for complement-related diseases.
+  JOURNAL   EMBO J 34:2735-57 (2015)
+            DOI:10.15252/embj.201591881
+REFERENCE   PMID:25568220
+  AUTHORS   Mathern DR, Heeger PS
+  TITLE     Molecules Great and Small: The Complement System.
+  JOURNAL   Clin J Am Soc Nephrol 10:1636-50 (2015)
+            DOI:10.2215/CJN.06230614
+REFERENCE   PMID:26082779
+  AUTHORS   Merle NS, Church SE, Fremeaux-Bacchi V, Roumenina LT
+  TITLE     Complement System Part I - Molecular Mechanisms of Activation and Regulation.
+  JOURNAL   Front Immunol 6:262 (2015)
+            DOI:10.3389/fimmu.2015.00262
+REFERENCE   PMID:21811895
+  AUTHORS   Oikonomopoulou K, Ricklin D, Ward PA, Lambris JD
+  TITLE     Interactions between coagulation and complement--their role in inflammation.
+  JOURNAL   Semin Immunopathol 34:151-65 (2012)
+            DOI:10.1007/s00281-011-0280-x
+REFERENCE   PMID:25705421
+  AUTHORS   Kurosawa S, Stearns-Kurosawa DJ
+  TITLE     Complement, thrombotic microangiopathy and disseminated intravascular coagulation.
+  JOURNAL   J Intensive Care 2:65 (2014)
+            DOI:10.1186/s40560-014-0061-4
+REFERENCE   PMID:23110467
+  AUTHORS   Hillmeister P, Persson PB
+  TITLE     The Kallikrein-Kinin system.
+  JOURNAL   Acta Physiol (Oxf) 206:215-9 (2012)
+            DOI:10.1111/apha.12007
+REFERENCE   PMID:17635716
+  AUTHORS   Rau JC, Beaulieu LM, Huntington JA, Church FC
+  TITLE     Serpins in thrombosis, hemostasis and fibrinolysis.
+  JOURNAL   J Thromb Haemost 5 Suppl 1:102-15 (2007)
+            DOI:10.1111/j.1538-7836.2007.02516.x
+REFERENCE   PMID:26324800
+  AUTHORS   Crooks MG, Hart SP
+  TITLE     Coagulation and anticoagulation in idiopathic pulmonary fibrosis.
+  JOURNAL   Eur Respir Rev 24:392-9 (2015)
+            DOI:10.1183/16000617.00008414
+REFERENCE   PMID:23911436
+  AUTHORS   Christiaans SC, Wagener BM, Esmon CT, Pittet JF
+  TITLE     Protein C and acute inflammation: a clinical and biological perspective.
+  JOURNAL   Am J Physiol Lung Cell Mol Physiol 305:L455-66 (2013)
+            DOI:10.1152/ajplung.00093.2013
+REFERENCE   PMID:24924409
+  AUTHORS   Alberelli MA, De Candia E
+  TITLE     Functional role of protease activated receptors in vascular biology.
+  JOURNAL   Vascul Pharmacol 62:72-81 (2014)
+            DOI:10.1016/j.vph.2014.06.001
+REFERENCE   PMID:20027185
+  AUTHORS   Smith HW, Marshall CJ
+  TITLE     Regulation of cell signalling by uPAR.
+  JOURNAL   Nat Rev Mol Cell Biol 11:23-36 (2010)
+            DOI:10.1038/nrm2821
+REFERENCE   PMID:23564577
+  AUTHORS   Ricklin D, Lambris JD
+  TITLE     Complement in immune and inflammatory disorders: pathophysiological mechanisms.
+  JOURNAL   J Immunol 190:3831-8 (2013)
+            DOI:10.4049/jimmunol.1203487
+REFERENCE   PMID:23564578
+  AUTHORS   Ricklin D, Lambris JD
+  TITLE     Complement in immune and inflammatory disorders: therapeutic interventions.
+  JOURNAL   J Immunol 190:3839-47 (2013)
+            DOI:10.4049/jimmunol.1203200
+REFERENCE   PMID:25309880
+  AUTHORS   Loof TG, Deicke C, Medina E
+  TITLE     The role of coagulation/fibrinolysis during Streptococcus pyogenes infection.
+  JOURNAL   Front Cell Infect Microbiol 4:128 (2014)
+            DOI:10.3389/fcimb.2014.00128
+REFERENCE   PMID:25979655
+  AUTHORS   Jozsi M, Tortajada A, Uzonyi B, Goicoechea de Jorge E, Rodriguez de Cordoba S
+  TITLE     Factor H-related proteins determine complement-activating surfaces.
+  JOURNAL   Trends Immunol 36:374-84 (2015)
+            DOI:10.1016/j.it.2015.04.008
+REL_PATHWAY hsa04611  Platelet activation
+            hsa04662  B cell receptor signaling pathway
+            hsa04750  Inflammatory mediator regulation of TRP channels
+KO_PATHWAY  ko04610
+///

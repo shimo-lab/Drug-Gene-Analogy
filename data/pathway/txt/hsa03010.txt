@@ -1,0 +1,209 @@
+ENTRY       hsa03010                    Pathway
+NAME        Ribosome - Homo sapiens (human)
+CLASS       Genetic Information Processing; Translation
+PATHWAY_MAP hsa03010  Ribosome
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        51116  MRPS2; mitochondrial ribosomal protein S2 [KO:K02967]
+            64969  MRPS5; mitochondrial ribosomal protein S5 [KO:K02988]
+            64968  MRPS6; mitochondrial ribosomal protein S6 [KO:K02990]
+            51081  MRPS7; mitochondrial ribosomal protein S7 [KO:K02992]
+            64965  MRPS9; mitochondrial ribosomal protein S9 [KO:K02996]
+            55173  MRPS10; mitochondrial ribosomal protein S10 [KO:K02946]
+            64963  MRPS11; mitochondrial ribosomal protein S11 [KO:K02948]
+            6183  MRPS12; mitochondrial ribosomal protein S12 [KO:K02950]
+            63931  MRPS14; mitochondrial ribosomal protein S14 [KO:K02954]
+            64960  MRPS15; mitochondrial ribosomal protein S15 [KO:K02956]
+            51021  MRPS16; mitochondrial ribosomal protein S16 [KO:K02959]
+            51373  MRPS17; mitochondrial ribosomal protein S17 [KO:K02961]
+            51023  MRPS18C; mitochondrial ribosomal protein S18C [KO:K02963]
+            55168  MRPS18A; mitochondrial ribosomal protein S18A [KO:K02963]
+            54460  MRPS21; mitochondrial ribosomal protein S21 [KO:K02970]
+            6187  RPS2; ribosomal protein S2 [KO:K02981]
+            6188  RPS3; ribosomal protein S3 [KO:K02985]
+            6189  RPS3A; ribosomal protein S3A [KO:K02984]
+            6192  RPS4Y1; ribosomal protein S4 Y-linked 1 [KO:K02987]
+            6191  RPS4X; ribosomal protein S4 X-linked [KO:K02987]
+            140032  RPS4Y2; ribosomal protein S4 Y-linked 2 [KO:K02987]
+            6193  RPS5; ribosomal protein S5 [KO:K02989]
+            6194  RPS6; ribosomal protein S6 [KO:K02991]
+            6201  RPS7; ribosomal protein S7 [KO:K02993]
+            6202  RPS8; ribosomal protein S8 [KO:K02995]
+            6203  RPS9; ribosomal protein S9 [KO:K02997]
+            6204  RPS10; ribosomal protein S10 [KO:K02947]
+            100529239  RPS10-NUDT3; RPS10-NUDT3 readthrough [KO:K02947]
+            6205  RPS11; ribosomal protein S11 [KO:K02949]
+            6206  RPS12; ribosomal protein S12 [KO:K02951]
+            6207  RPS13; ribosomal protein S13 [KO:K02953]
+            6208  RPS14; ribosomal protein S14 [KO:K02955]
+            6209  RPS15; ribosomal protein S15 [KO:K02958]
+            6210  RPS15A; ribosomal protein S15a [KO:K02957]
+            6217  RPS16; ribosomal protein S16 [KO:K02960]
+            6218  RPS17; ribosomal protein S17 [KO:K02962]
+            6222  RPS18; ribosomal protein S18 [KO:K02964]
+            6223  RPS19; ribosomal protein S19 [KO:K02966]
+            6224  RPS20; ribosomal protein S20 [KO:K02969]
+            6227  RPS21; ribosomal protein S21 [KO:K02971]
+            6228  RPS23; ribosomal protein S23 [KO:K02973]
+            6229  RPS24; ribosomal protein S24 [KO:K02974]
+            6230  RPS25; ribosomal protein S25 [KO:K02975]
+            6231  RPS26; ribosomal protein S26 [KO:K02976]
+            6232  RPS27; ribosomal protein S27 [KO:K02978]
+            51065  RPS27L; ribosomal protein S27 like [KO:K02978]
+            6233  RPS27A; ribosomal protein S27a [KO:K02977]
+            6234  RPS28; ribosomal protein S28 [KO:K02979]
+            6235  RPS29; ribosomal protein S29 [KO:K02980]
+            2197  FAU; FAU ubiquitin like and ribosomal protein S30 fusion [KO:K02983]
+            3921  RPSA; ribosomal protein SA [KO:K02998]
+            65008  MRPL1; mitochondrial ribosomal protein L1 [KO:K02863]
+            51069  MRPL2; mitochondrial ribosomal protein L2 [KO:K02886]
+            11222  MRPL3; mitochondrial ribosomal protein L3 [KO:K02906]
+            51073  MRPL4; mitochondrial ribosomal protein L4 [KO:K02926]
+            6182  MRPL12; mitochondrial ribosomal protein L12 [KO:K02935]
+            65005  MRPL9; mitochondrial ribosomal protein L9 [KO:K02939]
+            124995  MRPL10; mitochondrial ribosomal protein L10 [KO:K02864]
+            65003  MRPL11; mitochondrial ribosomal protein L11 [KO:K02867]
+            28998  MRPL13; mitochondrial ribosomal protein L13 [KO:K02871]
+            64928  MRPL14; mitochondrial ribosomal protein L14 [KO:K02874]
+            29088  MRPL15; mitochondrial ribosomal protein L15 [KO:K02876]
+            54948  MRPL16; mitochondrial ribosomal protein L16 [KO:K02878]
+            63875  MRPL17; mitochondrial ribosomal protein L17 [KO:K02879]
+            29074  MRPL18; mitochondrial ribosomal protein L18 [KO:K02881]
+            9801  MRPL19; mitochondrial ribosomal protein L19 [KO:K02884]
+            55052  MRPL20; mitochondrial ribosomal protein L20 [KO:K02887]
+            219927  MRPL21; mitochondrial ribosomal protein L21 [KO:K02888]
+            29093  MRPL22; mitochondrial ribosomal protein L22 [KO:K02890]
+            6150  MRPL23; mitochondrial ribosomal protein L23 [KO:K02892]
+            79590  MRPL24; mitochondrial ribosomal protein L24 [KO:K02895]
+            51264  MRPL27; mitochondrial ribosomal protein L27 [KO:K02899]
+            10573  MRPL28; mitochondrial ribosomal protein L28 [KO:K02902]
+            51263  MRPL30; mitochondrial ribosomal protein L30 [KO:K02907]
+            64983  MRPL32; mitochondrial ribosomal protein L32 [KO:K02911]
+            9553  MRPL33; mitochondrial ribosomal protein L33 [KO:K02913]
+            64981  MRPL34; mitochondrial ribosomal protein L34 [KO:K02914]
+            51318  MRPL35; mitochondrial ribosomal protein L35 [KO:K02916]
+            64979  MRPL36; mitochondrial ribosomal protein L36 [KO:K02919]
+            6123  RPL3L; ribosomal protein L3 like [KO:K02925]
+            6122  RPL3; ribosomal protein L3 [KO:K02925]
+            6124  RPL4; ribosomal protein L4 [KO:K02930]
+            6125  RPL5; ribosomal protein L5 [KO:K02932]
+            6128  RPL6; ribosomal protein L6 [KO:K02934]
+            6129  RPL7; ribosomal protein L7 [KO:K02937]
+            6130  RPL7A; ribosomal protein L7a [KO:K02936]
+            6132  RPL8; ribosomal protein L8 [KO:K02938]
+            6133  RPL9; ribosomal protein L9 [KO:K02940]
+            140801  RPL10L; ribosomal protein L10 like [KO:K02866]
+            6134  RPL10; ribosomal protein L10 [KO:K02866]
+            4736  RPL10A; ribosomal protein L10a [KO:K02865]
+            6135  RPL11; ribosomal protein L11 [KO:K02868]
+            6136  RPL12; ribosomal protein L12 [KO:K02870]
+            6137  RPL13; ribosomal protein L13 [KO:K02873]
+            23521  RPL13A; ribosomal protein L13a [KO:K02872]
+            9045  RPL14; ribosomal protein L14 [KO:K02875]
+            6138  RPL15; ribosomal protein L15 [KO:K02877]
+            6139  RPL17; ribosomal protein L17 [KO:K02880]
+            100526842  RPL17-C18orf32; RPL17-C18orf32 readthrough [KO:K02880]
+            6141  RPL18; ribosomal protein L18 [KO:K02883]
+            6142  RPL18A; ribosomal protein L18a [KO:K02882]
+            6143  RPL19; ribosomal protein L19 [KO:K02885]
+            6144  RPL21; ribosomal protein L21 [KO:K02889]
+            200916  RPL22L1; ribosomal protein L22 like 1 [KO:K02891]
+            6146  RPL22; ribosomal protein L22 [KO:K02891]
+            9349  RPL23; ribosomal protein L23 [KO:K02894]
+            6147  RPL23A; ribosomal protein L23a [KO:K02893]
+            51187  RSL24D1; ribosomal L24 domain containing 1 [KO:K02896]
+            6152  RPL24; ribosomal protein L24 [KO:K02896]
+            6154  RPL26; ribosomal protein L26 [KO:K02898]
+            51121  RPL26L1; ribosomal protein L26 like 1 [KO:K02898]
+            6155  RPL27; ribosomal protein L27 [KO:K02901]
+            6157  RPL27A; ribosomal protein L27a [KO:K02900]
+            6158  RPL28; ribosomal protein L28 [KO:K02903]
+            6159  RPL29; ribosomal protein L29 [KO:K02905]
+            6156  RPL30; ribosomal protein L30 [KO:K02908]
+            6160  RPL31; ribosomal protein L31 [KO:K02910]
+            6161  RPL32; ribosomal protein L32 [KO:K02912]
+            6164  RPL34; ribosomal protein L34 [KO:K02915]
+            11224  RPL35; ribosomal protein L35 [KO:K02918]
+            6165  RPL35A; ribosomal protein L35a [KO:K02917]
+            25873  RPL36; ribosomal protein L36 [KO:K02920]
+            6167  RPL37; ribosomal protein L37 [KO:K02922]
+            6168  RPL37A; ribosomal protein L37a [KO:K02921]
+            6169  RPL38; ribosomal protein L38 [KO:K02923]
+            6170  RPL39; ribosomal protein L39 [KO:K02924]
+            7311  UBA52; ubiquitin A-52 residue ribosomal protein fusion product 1 [KO:K02927]
+            6171  RPL41; ribosomal protein L41 [KO:K02928]
+            6166  RPL36AL; ribosomal protein L36a like [KO:K02929]
+            6173  RPL36A; ribosomal protein L36a [KO:K02929]
+            100529097  RPL36A-HNRNPH2; RPL36A-HNRNPH2 readthrough [KO:K02929]
+            6175  RPLP0; ribosomal protein lateral stalk subunit P0 [KO:K02941]
+            6176  RPLP1; ribosomal protein lateral stalk subunit P1 [KO:K02942]
+            6181  RPLP2; ribosomal protein lateral stalk subunit P2 [KO:K02943]
+            106631781  RNA18SN1; RNA, 18S ribosomal N1 [KO:K01979]
+            109864273  RNA18SN4; RNA, 18S pre-ribosomal N4 [KO:K01979]
+            100008588  RNA18SN5; RNA, 18S ribosomal N5 [KO:K01979]
+            109864280  RNA18SN2; RNA, 18S ribosomal N2 [KO:K01979]
+            109910380  RNA18SN3; RNA, 18S ribosomal N3 [KO:K01979]
+            100008589  RNA28SN5; RNA, 28S ribosomal N5 [KO:K01982]
+            109864282  RNA28SN2; RNA, 28S ribosomal N2 [KO:K01982]
+            124907672  28S ribosomal RNA [KO:K01982]
+            109864272  RNA28SN4; RNA, 28S ribosomal N4 [KO:K01982]
+            109910382  RNA28SN3; RNA, 28S ribosomal N3 [KO:K01982]
+            106632264  RNA28SN1; RNA, 28S ribosomal N1 [KO:K01982]
+            100169751  RNA5S1; RNA, 5S ribosomal 1 [KO:K01981]
+            100169767  RNA5S16; RNA, 5S ribosomal 16 [KO:K01981]
+            100169757  RNA5S6; RNA, 5S ribosomal 6 [KO:K01981]
+            100169762  RNA5S11; RNA, 5S ribosomal 11 [KO:K01981]
+            100169756  RNA5S5; RNA, 5S ribosomal 5 [KO:K01981]
+            100169764  RNA5S13; RNA, 5S ribosomal 13 [KO:K01981]
+            100169755  RNA5S4; RNA, 5S ribosomal 4 [KO:K01981]
+            100169754  RNA5S3; RNA, 5S ribosomal 3 [KO:K01981]
+            100169753  RNA5S2; RNA, 5S ribosomal 2 [KO:K01981]
+            100169761  RNA5S10; RNA, 5S ribosomal 10 [KO:K01981]
+            100169763  RNA5S12; RNA, 5S ribosomal 12 [KO:K01981]
+            100169759  RNA5S8; RNA, 5S ribosomal 8 [KO:K01981]
+            100169758  RNA5S7; RNA, 5S ribosomal 7 [KO:K01981]
+            100169765  RNA5S14; RNA, 5S ribosomal 14 [KO:K01981]
+            100169766  RNA5S15; RNA, 5S ribosomal 15 [KO:K01981]
+            100169768  RNA5S17; RNA, 5S ribosomal 17 [KO:K01981]
+            100169760  RNA5S9; RNA, 5S ribosomal 9 [KO:K01981]
+            100008587  RNA5-8SN5; RNA, 5.8S ribosomal N5 [KO:K01986]
+            106632260  RNA5-8SN1; RNA, 5.8S ribosomal N1 [KO:K01986]
+            109864281  RNA5-8SN2; RNA, 5.8S ribosomal N2 [KO:K01986]
+            109910381  RNA5-8SN3; RNA, 5.8S ribosomal N3 [KO:K01986]
+            109864274  RNA5-8SN4; RNA, 5.8S ribosomal N4 [KO:K01986]
+REFERENCE   PMID:10476961
+  AUTHORS   Ban N, Nissen P, Hansen J, Capel M, Moore PB, Steitz TA.
+  TITLE     Placement of protein and RNA structures into a 5 A-resolution map of the 50S ribosomal subunit.
+  JOURNAL   Nature 400:841-847 (1999)
+            DOI:10.1038/23641
+REFERENCE   PMID:10476960
+  AUTHORS   Clemons WM Jr, May JL, Wimberly BT, McCutcheon JP, Capel MS, Ramakrishnan V.
+  TITLE     Structure of a bacterial 30S ribosomal subunit at 5.5 A resolution.
+  JOURNAL   Nature 400:833-840 (1999)
+            DOI:10.1038/23631
+REFERENCE   PMID:10497122
+  AUTHORS   Cate JH, Yusupov MM, Yusupova GZ, Earnest TN, Noller HF.
+  TITLE     X-ray crystal structures of 70S ribosome functional complexes.
+  JOURNAL   Science 285:2095-2104 (1999)
+            DOI:10.1126/science.285.5436.2095
+REFERENCE   PMID:10937989
+  AUTHORS   Ban N, Nissen P, Hansen J, Moore PB, Steitz TA.
+  TITLE     The complete atomic structure of the large ribosomal subunit at 2.4 A resolution.
+  JOURNAL   Science 289:905-920 (2000)
+            DOI:10.1126/science.289.5481.905
+REFERENCE   PMID:10937990
+  AUTHORS   Nissen P, Hansen J, Ban N, Moore PB, Steitz TA.
+  TITLE     The structural basis of ribosome activity in peptide bond synthesis.
+  JOURNAL   Science 289:920-930 (2000)
+            DOI:10.1126/science.289.5481.920
+REFERENCE   PMID:11014182
+  AUTHORS   Wimberly BT, Brodersen DE, Clemons WM Jr, Morgan-Warren RJ, Carter AP, Vonrhein C, Hartsch T, Ramakrishnan V.
+  TITLE     Structure of the 30S ribosomal subunit.
+  JOURNAL   Nature 407:327-339 (2000)
+            DOI:10.1038/35030006
+REFERENCE   PMID:11014183
+  AUTHORS   Carter AP, Clemons WM, Brodersen DE, Morgan-Warren RJ, Wimberly BT, Ramakrishnan V.
+  TITLE     Functional insights from the structure of the 30S ribosomal subunit and its interactions with antibiotics.
+  JOURNAL   Nature 407:340-348 (2000)
+            DOI:10.1038/35030019
+KO_PATHWAY  ko03010
+///

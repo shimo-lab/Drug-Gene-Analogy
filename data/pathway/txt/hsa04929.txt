@@ -1,0 +1,200 @@
+ENTRY       hsa04929                    Pathway
+NAME        GnRH secretion - Homo sapiens (human)
+DESCRIPTION Hypothalamic gonadotropin-releasing hormone (GnRH) neurons are key regulators of reproduction. They release GnRH into the portal circulation. In turn, GnRH stimulates the pituitary gland to secrete follicle-stimulating hormone and luteinizing hormone (LH) to regulate gonadal functions. Gonadal steroids provide feedback to regulate GnRH release. GnRH neurons express the kisspeptin receptor, GPR 54, and kisspeptins potently stimulate the release of GnRH by depolarising and inducing sustained action potential firing in GnRH neurons. It is also demonstrated that Kisspeptin-GPR54 system positively regulates the GnRH expression  with a time course consistent with activation of Akt and MAP kinase signaling pathways.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04929  GnRH secretion
+NETWORK     nt06323  KISS1-GnRH-LH/FSH-E2 signaling
+            nt06361  Hypogonadotropic hypogonadism
+  ELEMENT   N00869  KISS1-KISS1R-PLCB-PKC signaling pathway
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3814  KISS1; KiSS-1 metastasis suppressor [KO:K23140]
+            84634  KISS1R; KISS1 receptor [KO:K08374]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            348980  HCN1; hyperpolarization activated cyclic nucleotide gated potassium channel 1 [KO:K04954]
+            610  HCN2; hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2 [KO:K04955]
+            57657  HCN3; hyperpolarization activated cyclic nucleotide gated potassium channel 3 [KO:K04956]
+            8913  CACNA1G; calcium voltage-gated channel subunit alpha1 G [KO:K04854]
+            8912  CACNA1H; calcium voltage-gated channel subunit alpha1 H [KO:K04855]
+            8911  CACNA1I; calcium voltage-gated channel subunit alpha1 I [KO:K04856]
+            7220  TRPC1; transient receptor potential cation channel subfamily C member 1 [KO:K04964]
+            7223  TRPC4; transient receptor potential cation channel subfamily C member 4 [KO:K04967]
+            7224  TRPC5; transient receptor potential cation channel subfamily C member 5 [KO:K04968]
+            3767  KCNJ11; potassium inwardly rectifying channel subfamily J member 11 [KO:K05004]
+            3760  KCNJ3; potassium inwardly rectifying channel subfamily J member 3 [KO:K04997]
+            3763  KCNJ6; potassium inwardly rectifying channel subfamily J member 6 [KO:K05000]
+            3765  KCNJ9; potassium inwardly rectifying channel subfamily J member 9 [KO:K05002]
+            3762  KCNJ5; potassium inwardly rectifying channel subfamily J member 5 [KO:K04999]
+            2550  GABBR1; gamma-aminobutyric acid type B receptor subunit 1 [KO:K04615]
+            9568  GABBR2; gamma-aminobutyric acid type B receptor subunit 2 [KO:K04615]
+            3780  KCNN1; potassium calcium-activated channel subfamily N member 1 [KO:K04942]
+            3781  KCNN2; potassium calcium-activated channel subfamily N member 2 [KO:K04943]
+            3782  KCNN3; potassium calcium-activated channel subfamily N member 3 [KO:K04944]
+            3783  KCNN4; potassium calcium-activated channel subfamily N member 4 [KO:K04945]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            408  ARRB1; arrestin beta 1 [KO:K04439]
+            409  ARRB2; arrestin beta 2 [KO:K04439]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2796  GNRH1; gonadotropin releasing hormone 1 [KO:K05252]
+            2797  GNRH2; gonadotropin releasing hormone 2 [KO:K05252]
+            2100  ESR2; estrogen receptor 2 [KO:K08551]
+            2852  GPER1; G protein-coupled estrogen receptor 1 [KO:K04246]
+            3972  LHB; luteinizing hormone subunit beta [KO:K08521]
+            6696  SPP1; secreted phosphoprotein 1 [KO:K06250]
+            1081  CGA; glycoprotein hormones, alpha polypeptide [KO:K08522]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00334  4-Aminobutanoate
+            C00535  Testosterone
+            C00951  Estradiol-17beta
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C04637  1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+REFERENCE   PMID:23550004
+  AUTHORS   Ronnekleiv OK, Kelly MJ
+  TITLE     Kisspeptin excitation of GnRH neurons.
+  JOURNAL   Adv Exp Med Biol 784:113-31 (2013)
+            DOI:10.1007/978-1-4614-6199-9_6
+REFERENCE   PMID:24145132
+  AUTHORS   Beltramo M, Dardente H, Cayla X, Caraty A
+  TITLE     Cellular mechanisms and integrative timing of neuroendocrine control of GnRH secretion by kisspeptin.
+  JOURNAL   Mol Cell Endocrinol 382:387-399 (2014)
+            DOI:10.1016/j.mce.2013.10.015
+REFERENCE   PMID:19770291
+  AUTHORS   Oakley AE, Clifton DK, Steiner RA
+  TITLE     Kisspeptin signaling in the brain.
+  JOURNAL   Endocr Rev 30:713-43 (2009)
+            DOI:10.1210/er.2009-0005
+REFERENCE   PMID:22811428
+  AUTHORS   Pinilla L, Aguilar E, Dieguez C, Millar RP, Tena-Sempere M
+  TITLE     Kisspeptins and reproduction: physiological roles and regulatory mechanisms.
+  JOURNAL   Physiol Rev 92:1235-316 (2012)
+            DOI:10.1152/physrev.00037.2010
+REFERENCE   PMID:20699467
+  AUTHORS   d'Anglemont de Tassigny X, Colledge WH
+  TITLE     The role of kisspeptin signaling in reproduction.
+  JOURNAL   Physiology (Bethesda) 25:207-17 (2010)
+            DOI:10.1152/physiol.00009.2010
+REFERENCE   PMID:19464345
+  AUTHORS   Tena-Sempere M
+  TITLE     Kisspeptin signaling in the brain: recent developments and future challenges.
+  JOURNAL   Mol Cell Endocrinol 314:164-9 (2010)
+            DOI:10.1016/j.mce.2009.05.004
+REFERENCE   PMID:19097915
+  AUTHORS   Colledge WH
+  TITLE     Kisspeptins and GnRH neuronal signalling.
+  JOURNAL   Trends Endocrinol Metab 20:115-21 (2009)
+            DOI:10.1016/j.tem.2008.10.005
+REFERENCE   PMID:18793689
+  AUTHORS   Roa J, Castellano JM, Navarro VM, Handelsman DJ, Pinilla L, Tena-Sempere M
+  TITLE     Kisspeptins and the control of gonadotropin secretion in male and female rodents.
+  JOURNAL   Peptides 30:57-66 (2009)
+            DOI:10.1016/j.peptides.2008.08.009
+REFERENCE   PMID:24907402
+  AUTHORS   Piet R, de Croft S, Liu X, Herbison AE
+  TITLE     Electrical properties of kisspeptin neurons and their regulation of GnRH neurons.
+  JOURNAL   Front Neuroendocrinol 36:15-27 (2015)
+            DOI:10.1016/j.yfrne.2014.05.006
+REFERENCE   PMID:23744639
+  AUTHORS   Zhang C, Bosch MA, Ronnekleiv OK, Kelly MJ
+  TITLE     Kisspeptin activation of TRPC4 channels in female GnRH neurons requires PIP2 depletion and cSrc kinase activation.
+  JOURNAL   Endocrinology 154:2772-83 (2013)
+            DOI:10.1210/en.2013-1180
+REFERENCE   PMID:20816765
+  AUTHORS   Ronnekleiv OK, Bosch MA, Zhang C
+  TITLE     Regulation of endogenous conductances in GnRH neurons by estrogens.
+  JOURNAL   Brain Res 1364:25-34 (2010)
+            DOI:10.1016/j.brainres.2010.08.096
+REFERENCE   PMID:25612870
+  AUTHORS   Ronnekleiv OK, Zhang C, Bosch MA, Kelly MJ
+  TITLE     Kisspeptin and Gonadotropin-Releasing Hormone Neuronal Excitability: Molecular Mechanisms Driven by 17beta-Estradiol.
+  JOURNAL   Neuroendocrinology 102:184-93 (2015)
+            DOI:10.1159/000370311
+REFERENCE   PMID:22343183
+  AUTHORS   Zhang XB, Spergel DJ
+  TITLE     Kisspeptin inhibits high-voltage activated Ca2+ channels in GnRH neurons via multiple Ca2+ influx and release pathways.
+  JOURNAL   Neuroendocrinology 96:68-80 (2012)
+            DOI:10.1159/000335985
+REFERENCE   PMID:19576263
+  AUTHORS   Novaira HJ, Ng Y, Wolfe A, Radovick S
+  TITLE     Kisspeptin increases GnRH mRNA expression and secretion in GnRH secreting neuronal cell lines.
+  JOURNAL   Mol Cell Endocrinol 311:126-34 (2009)
+            DOI:10.1016/j.mce.2009.06.011
+REFERENCE   PMID:25314270
+  AUTHORS   Glanowska KM, Moenter SM
+  TITLE     Differential regulation of GnRH secretion in the preoptic area (POA) and the median eminence (ME) in male mice.
+  JOURNAL   Endocrinology 156:231-41 (2015)
+            DOI:10.1210/en.2014-1458
+REFERENCE   PMID:20886089
+  AUTHORS   Szereszewski JM, Pampillo M, Ahow MR, Offermanns S, Bhattacharya M, Babwah AV
+  TITLE     GPR54 regulates ERK1/2 activity and hypothalamic gene expression in a Galpha(q/11) and beta-arrestin-dependent manner.
+  JOURNAL   PLoS One 5:e12964 (2010)
+            DOI:10.1371/journal.pone.0012964
+REFERENCE   PMID:19710308
+  AUTHORS   Zhang C, Bosch MA, Rick EA, Kelly MJ, Ronnekleiv OK
+  TITLE     17Beta-estradiol regulation of T-type calcium channels in gonadotropin-releasing hormone neurons.
+  JOURNAL   J Neurosci 29:10552-62 (2009)
+            DOI:10.1523/JNEUROSCI.2962-09.2009
+REFERENCE   PMID:23880664
+  AUTHORS   Terasaka T, Otsuka F, Tsukamoto N, Nakamura E, Inagaki K, Toma K, Ogura-Ochi K, Glidewell-Kenney C, Lawson MA, Makino H
+  TITLE     Mutual interaction of kisspeptin, estrogen and bone morphogenetic protein-4 activity in GnRH regulation by GT1-7 cells.
+  JOURNAL   Mol Cell Endocrinol 381:8-15 (2013)
+            DOI:10.1016/j.mce.2013.07.009
+REFERENCE   PMID:22654870
+  AUTHORS   Radovick S, Levine JE, Wolfe A
+  TITLE     Estrogenic regulation of the GnRH neuron.
+  JOURNAL   Front Endocrinol (Lausanne) 3:52 (2012)
+            DOI:10.3389/fendo.2012.00052
+REFERENCE   PMID:16373418
+  AUTHORS   Dungan HM, Clifton DK, Steiner RA
+  TITLE     Minireview: kisspeptin neurons as central processors in the regulation of gonadotropin-releasing hormone secretion.
+  JOURNAL   Endocrinology 147:1154-8 (2006)
+            DOI:10.1210/en.2005-1282
+REFERENCE   PMID:16627563
+  AUTHORS   Kato M, Tanaka N, Usui S, Sakuma Y
+  TITLE     The SK channel blocker apamin inhibits slow afterhyperpolarization currents in rat gonadotropin-releasing hormone neurones.
+  JOURNAL   J Physiol 574:431-42 (2006)
+            DOI:10.1113/jphysiol.2006.110155
+REFERENCE   PMID:23548613
+  AUTHORS   Zhang C, Ronnekleiv OK, Kelly MJ
+  TITLE     Kisspeptin inhibits a slow afterhyperpolarization current via protein kinase C and reduces spike frequency adaptation in GnRH neurons.
+  JOURNAL   Am J Physiol Endocrinol Metab 304:E1237-44 (2013)
+            DOI:10.1152/ajpendo.00058.2013
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04912  GnRH signaling pathway
+            hsa04913  Ovarian steroidogenesis
+            hsa04915  Estrogen signaling pathway
+KO_PATHWAY  ko04929
+///

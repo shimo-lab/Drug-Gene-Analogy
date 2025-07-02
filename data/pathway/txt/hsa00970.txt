@@ -1,0 +1,143 @@
+ENTRY       hsa00970                    Pathway
+NAME        Aminoacyl-tRNA biosynthesis - Homo sapiens (human)
+CLASS       Genetic Information Processing; Translation
+PATHWAY_MAP hsa00970  Aminoacyl-tRNA biosynthesis
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        4553  TRNA; tRNA-Ala [KO:K14218]
+            4573  TRNR; tRNA-Arg [KO:K14219]
+            4570  TRNN; tRNA-Asn [KO:K14220]
+            4555  TRND; tRNA-Asp [KO:K14221]
+            4511  TRNC; tRNA-Cys [KO:K14222]
+            4572  TRNQ; tRNA-Gln [KO:K14223]
+            4556  TRNE; tRNA-Glu [KO:K14224]
+            4563  TRNG; tRNA-Gly [KO:K14225]
+            4564  TRNH; tRNA-His [KO:K14226]
+            4565  TRNI; tRNA-Ile [KO:K14227]
+            4568  TRNL2; tRNA-Leu [KO:K14228]
+            4567  TRNL1; tRNA-Leu [KO:K14228]
+            4566  TRNK; tRNA-Lys [KO:K14229]
+            4569  TRNM; tRNA-Met [KO:K14230]
+            4558  TRNF; tRNA-Phe [KO:K14231]
+            4571  TRNP; tRNA-Pro [KO:K14232]
+            4575  TRNS2; tRNA-Ser [KO:K14233]
+            4574  TRNS1; tRNA-Ser [KO:K14233]
+            4576  TRNT; tRNA-Thr [KO:K14234]
+            4578  TRNW; tRNA-Trp [KO:K14235]
+            4579  TRNY; tRNA-Tyr [KO:K14236]
+            4577  TRNV; tRNA-Val [KO:K14237]
+            124454  EARS2; glutamyl-tRNA synthetase 2, mitochondrial [KO:K01885] [EC:6.1.1.17]
+            2058  EPRS1; glutamyl-prolyl-tRNA synthetase 1 [KO:K14163] [EC:6.1.1.17 6.1.1.15]
+            55278  QRSL1; glutaminyl-tRNA amidotransferase subunit QRSL1 [KO:K02433] [EC:6.3.5.6 6.3.5.7]
+            5188  GATB; glutamyl-tRNA amidotransferase subunit B [KO:K02434] [EC:6.3.5.6 6.3.5.7]
+            283459  GATC; glutamyl-tRNA amidotransferase subunit C [KO:K02435] [EC:6.3.5.6 6.3.5.7]
+            5859  QARS1; glutaminyl-tRNA synthetase 1 [KO:K01886] [EC:6.1.1.18]
+            57505  AARS2; alanyl-tRNA synthetase 2, mitochondrial [KO:K01872] [EC:6.1.1.7]
+            16  AARS1; alanyl-tRNA synthetase 1 [KO:K01872] [EC:6.1.1.7]
+            1615  DARS1; aspartyl-tRNA synthetase 1 [KO:K22503] [EC:6.1.1.12]
+            55157  DARS2; aspartyl-tRNA synthetase 2, mitochondrial [KO:K01876] [EC:6.1.1.12]
+            79731  NARS2; asparaginyl-tRNA synthetase 2, mitochondrial [KO:K01893] [EC:6.1.1.22]
+            4677  NARS1; asparaginyl-tRNA synthetase 1 [KO:K01893] [EC:6.1.1.22]
+            2617  GARS1; glycyl-tRNA synthetase 1 [KO:K01880] [EC:6.1.1.14]
+            80222  TARS2; threonyl-tRNA synthetase 2, mitochondrial [KO:K01868] [EC:6.1.1.3]
+            6897  TARS1; threonyl-tRNA synthetase 1 [KO:K01868] [EC:6.1.1.3]
+            123283  TARS3; threonyl-tRNA synthetase 3 [KO:K01868] [EC:6.1.1.3]
+            54938  SARS2; seryl-tRNA synthetase 2, mitochondrial [KO:K01875] [EC:6.1.1.11]
+            6301  SARS1; seryl-tRNA synthetase 1 [KO:K01875] [EC:6.1.1.11]
+            118672  PSTK; phosphoseryl-tRNA kinase [KO:K10837] [EC:2.7.1.164]
+            51091  SEPSECS; Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase [KO:K03341] [EC:2.9.1.2]
+            833  CARS1; cysteinyl-tRNA synthetase 1 [KO:K01883] [EC:6.1.1.16]
+            79587  CARS2; cysteinyl-tRNA synthetase 2, mitochondrial [KO:K01883] [EC:6.1.1.16]
+            4141  MARS1; methionyl-tRNA synthetase 1 [KO:K01874] [EC:6.1.1.10]
+            92935  MARS2; methionyl-tRNA synthetase 2, mitochondrial [KO:K01874] [EC:6.1.1.10]
+            123263  MTFMT; mitochondrial methionyl-tRNA formyltransferase [KO:K00604] [EC:2.1.2.9]
+            57176  VARS2; valyl-tRNA synthetase 2, mitochondrial [KO:K01873] [EC:6.1.1.9]
+            7407  VARS1; valyl-tRNA synthetase 1 [KO:K01873] [EC:6.1.1.9]
+            51520  LARS1; leucyl-tRNA synthetase 1 [KO:K01869] [EC:6.1.1.4]
+            23395  LARS2; leucyl-tRNA synthetase 2, mitochondrial [KO:K01869] [EC:6.1.1.4]
+            3376  IARS1; isoleucyl-tRNA synthetase 1 [KO:K01870] [EC:6.1.1.5]
+            55699  IARS2; isoleucyl-tRNA synthetase 2, mitochondrial [KO:K01870] [EC:6.1.1.5]
+            3735  KARS1; lysyl-tRNA synthetase 1 [KO:K04567] [EC:6.1.1.6]
+            57038  RARS2; arginyl-tRNA synthetase 2, mitochondrial [KO:K01887] [EC:6.1.1.19]
+            5917  RARS1; arginyl-tRNA synthetase 1 [KO:K01887] [EC:6.1.1.19]
+            25973  PARS2; prolyl-tRNA synthetase 2, mitochondrial [KO:K01881] [EC:6.1.1.15]
+            3035  HARS1; histidyl-tRNA synthetase 1 [KO:K01892] [EC:6.1.1.21]
+            23438  HARS2; histidyl-tRNA synthetase 2, mitochondrial [KO:K01892] [EC:6.1.1.21]
+            2193  FARSA; phenylalanyl-tRNA synthetase subunit alpha [KO:K01889] [EC:6.1.1.20]
+            10667  FARS2; phenylalanyl-tRNA synthetase 2, mitochondrial [KO:K01889] [EC:6.1.1.20]
+            10056  FARSB; phenylalanyl-tRNA synthetase subunit beta [KO:K01890] [EC:6.1.1.20]
+            8565  YARS1; tyrosyl-tRNA synthetase 1 [KO:K01866] [EC:6.1.1.1]
+            51067  YARS2; tyrosyl-tRNA synthetase 2 [KO:K01866] [EC:6.1.1.1]
+            10352  WARS2; tryptophanyl tRNA synthetase 2, mitochondrial [KO:K01867] [EC:6.1.1.2]
+            7453  WARS1; tryptophanyl-tRNA synthetase 1 [KO:K01867] [EC:6.1.1.2]
+COMPOUND    C00025  L-Glutamate
+            C00037  Glycine
+            C00041  L-Alanine
+            C00047  L-Lysine
+            C00049  L-Aspartate
+            C00062  L-Arginine
+            C00064  L-Glutamine
+            C00065  L-Serine
+            C00073  L-Methionine
+            C00078  L-Tryptophan
+            C00079  L-Phenylalanine
+            C00082  L-Tyrosine
+            C00097  L-Cysteine
+            C00101  Tetrahydrofolate
+            C00123  L-Leucine
+            C00135  L-Histidine
+            C00148  L-Proline
+            C00152  L-Asparagine
+            C00183  L-Valine
+            C00188  L-Threonine
+            C00234  10-Formyltetrahydrofolate
+            C00407  L-Isoleucine
+            C00886  L-Alanyl-tRNA
+            C01005  O-Phospho-L-serine
+            C01931  L-Lysyl-tRNA
+            C02047  L-Leucyl-tRNA
+            C02163  L-Arginyl-tRNA(Arg)
+            C02282  Glutaminyl-tRNA
+            C02412  Glycyl-tRNA(Gly)
+            C02430  L-Methionyl-tRNA
+            C02553  L-Seryl-tRNA(Ser)
+            C02554  L-Valyl-tRNA(Val)
+            C02702  L-Prolyl-tRNA(Pro)
+            C02839  L-Tyrosyl-tRNA(Tyr)
+            C02984  L-Aspartyl-tRNA(Asp)
+            C02987  L-Glutamyl-tRNA(Glu)
+            C02988  L-Histidyl-tRNA(His)
+            C02992  L-Threonyl-tRNA(Thr)
+            C03125  L-Cysteinyl-tRNA(Cys)
+            C03127  L-Isoleucyl-tRNA(Ile)
+            C03294  N-Formylmethionyl-tRNA
+            C03402  L-Asparaginyl-tRNA(Asn)
+            C03511  L-Phenylalanyl-tRNA(Phe)
+            C03512  L-Tryptophanyl-tRNA(Trp)
+            C06112  L-Glutamyl-tRNA(Gln)
+            C06113  L-Aspartyl-tRNA(Asn)
+            C06481  L-Seryl-tRNA(Sec)
+            C06482  L-Selenocysteinyl-tRNA(Sec)
+            C16138  L-Pyrrolysine
+            C16638  O-Phosphoseryl-tRNA(Sec)
+            C17022  O-Phosphoseryl-tRNA(Cys)
+            C17027  L-Pyrrolysyl-tRNA(Pyl)
+REFERENCE   PMID:18252769
+  AUTHORS   Sheppard K, Yuan J, Hohn MJ, Jester B, Devine KM, Soll D
+  TITLE     From one amino acid to another: tRNA-dependent amino acid biosynthesis.
+  JOURNAL   Nucleic Acids Res 36:1813-25 (2008)
+            DOI:10.1093/nar/gkn015
+REFERENCE   PMID:15314242
+  AUTHORS   Polycarpo C, Ambrogelly A, Berube A, Winbush SM, McCloskey JA, Crain PF, Wood JL, Soll D
+  TITLE     An aminoacyl-tRNA synthetase that specifically activates pyrrolysine.
+  JOURNAL   Proc Natl Acad Sci U S A 101:12450-4 (2004)
+            DOI:10.1073/pnas.0405362101
+REL_PATHWAY hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00270  Cysteine and methionine metabolism
+            hsa00290  Valine, leucine and isoleucine biosynthesis
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+KO_PATHWAY  ko00970
+///

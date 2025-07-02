@@ -1,0 +1,455 @@
+ENTRY       hsa04725                    Pathway
+NAME        Cholinergic synapse - Homo sapiens (human)
+DESCRIPTION Acetylcholine (ACh) is a neurotransmitter widely distributed in the central (and also peripheral, autonomic and enteric) nervous system (CNS). In the CNS, ACh facilitates many functions, such as learning, memory, attention and motor control. When released in the synaptic cleft, ACh binds to two distinct types of receptors: Ionotropic nicotinic acetylcholine receptors (nAChR) and metabotropic muscarinic acetylcholine receptors (mAChRs). The activation of nAChR by ACh leads to the rapid influx of Na+ and Ca2+ and subsequent cellular depolarization. Activation of mAChRs is relatively slow (milliseconds to seconds) and, depending on the subtypes present (M1-M5), they directly alter cellular homeostasis of phospholipase C, inositol trisphosphate, cAMP, and free calcium. In the cleft, ACh may also be hydrolyzed by acetylcholinesterase (AChE) into choline and acetate. The choline derived from ACh hydrolysis is recovered by a presynaptic high-affinity choline transporter (CHT).
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP hsa04725  Cholinergic synapse
+DRUG        D00043  Isoflurophate
+            D00113  Atropine (USP)
+            D00138  Scopolamine (INN)
+            D00147  Hyoscyamine (USP)
+            D00193  Dexpanthenol (USP/INN)
+            D00196  Physostigmine (USP)
+            D00232  Anisotropine methylbromide (USAN)
+            D00270  Chlorpromazine (USP/INN)
+            D00397  Tropicamide (JP18/USP/INN)
+            D00465  Oxybutynin (USAN/INN)
+            D00469  Pralidoxime chloride (USP)
+            D00481  Propantheline bromide (JP18/USP/INN)
+            D00487  Pyridostigmine bromide (JP18/USP/INN)
+            D00524  Carbachol (JAN/USP/INN)
+            D00525  Pilocarpine (JAN/USP)
+            D00540  Glycopyrrolate (USP)
+            D00611  Mecamylamine hydrochloride (USP)
+            D00646  Tolterodine (USAN/INN)
+            D00661  Cevimeline hydrochloride (USAN)
+            D00667  Demecarium bromide (USP/INN)
+            D00670  Donepezil hydrochloride (JP18/USP)
+            D00715  Methscopolamine bromide (USP)
+            D00716  Clidinium bromide (USP/INN)
+            D00717  Dicyclomine hydrochloride (JAN/USP)
+            D00719  Hyoscyamine sulfate (USP)
+            D00720  Mepenzolate bromide (JP18/INN)
+            D00721  Methanthelinium bromide (INN)
+            D00722  Oxybutynin chloride (USP)
+            D00723  Tridihexethyl chloride (BAN)
+            D00765  Rocuronium bromide (JAN/USP/INN)
+            D00778  Benztropine mesylate (USP)
+            D00779  Biperiden (JAN/USP/INN)
+            D00782  Procyclidine hydrochloride (USP)
+            D00787  Trihexyphenidyl hydrochloride (JP18/USP)
+            D00789  Chlorpromazine hydrochloride (JP18/USP)
+            D00994  Edrophonium chloride (JP18/USP/INN)
+            D00995  Neostigmine bromide (JAN/USP/INN)
+            D00998  Neostigmine methylsulfate (JP18/USP)
+            D00999  Acetylcholine chloride (JP18/USP/INN)
+            D01000  Bethanechol chloride (JP18/USP)
+            D01001  Ambenonium chloride (JP18/INN)
+            D01002  Cyclopentolate hydrochloride (JP18/USP)
+            D01003  Hexocyclium metilsulfate (INN)
+            D01004  Homatropine hydrobromide (JP18/USP)
+            D01005  Isopropamide iodide (JAN/USP/INN)
+            D01006  Oxyphencyclimine hydrochloride (JAN)
+            D01007  Propiverine hydrochloride (JP18)
+            D01077  Methylatropine nitrate (USAN)
+            D01103  Trospium chloride (JAN/USP/INN)
+            D01118  Profenamine hydrochloride (JAN)
+            D01148  Tolterodine tartrate (JAN/USP)
+            D01165  Piperidolate hydrochloride (JAN)
+            D01175  Carpronium chloride (JAN/INN)
+            D01201  Tiemonium iodide (JAN/INN)
+            D01228  Distigmine bromide (JP18/INN)
+            D01231  Piroheptine hydrochloride (JAN)
+            D01269  Solifenacin succinate (JAN/USAN/INN)
+            D01297  Pirenzepine hydrochloride (USAN)
+            D01315  Methylbenactyzium bromide (JP18/INN)
+            D01318  Diphenidol hydrochloride (USAN)
+            D01359  Etomidoline (JAN/INN)
+            D01377  Prifinium bromide (JAN/INN)
+            D01451  Scopolamine butylbromide (JP18)
+            D01463  Diponium bromide (JAN/INN)
+            D01491  Butropium bromide (JP18/INN)
+            D01521  Pipethanate hydrochloride (JAN)
+            D01532  Bevonium methylsulfate (JAN)
+            D01538  Valethamate bromide (JAN)
+            D01572  Pralidoxime iodide (JAN/USAN)
+            D01600  Diphenylpiperidinomethyldioxolan iodide (JAN)
+            D01648  Hyoscyamine methylbromide (JAN)
+            D01699  Darifenacin hydrobromide (JAN/USAN)
+            D01815  Oxapium iodide (JP18/INN)
+            D01871  Methixene hydrochloride (USAN)
+            D01875  Tiquizium bromide (JAN/INN)
+            D01929  Tiotropium bromide hydrate (JAN)
+            D01946  Oxitropium bromide (JAN/INN)
+            D01955  Aclatonium napadisilate (JAN)
+            D01976  N-Methylscopolamine methylsulfate (JAN)
+            D01987  Pipethanate ethobromide (JAN)
+            D02064  Pridinol mesilate (JAN)
+            D02068  Tacrine hydrochloride (USP)
+            D02069  Atropine sulfate (JP18/USP)
+            D02070  Homatropine methylbromide (USP)
+            D02071  Scopolamine hydrobromide (USP)
+            D02173  Galantamine hydrobromide (JAN/USP)
+            D02193  Echothiophate iodide (USP)
+            D02200  Pilocarpine hydrochloride (JP18/USP)
+            D02202  Lobeline hydrochloride (JAN)
+            D02204  Hexamethonium bromide (JAN/INN)
+            D02212  Ipratropium bromide (USP)
+            D02246  Biperiden hydrochloride (JP18/USP)
+            D02247  Biperiden lactate (JAN/USP)
+            D02292  Gallamine triethiodide (USP)
+            D02364  Lobeline (INN)
+            D02417  Flutropium bromide (JAN)
+            D02418  Physostigmine salicylate (JAN/USP)
+            D02535  Timepidium bromide hydrate (JP18)
+            D02558  Rivastigmine tartrate
+            D02565  Dimetacrine (INN)
+            D02603  Diethazine hydrochloride
+            D02729  Itopride hydrochloride (JAN)
+            D02750  Aceclidine (USAN/INN)
+            D02839  Altinicline maleate (USAN)
+            D02876  Alvameline maleate (USAN)
+            D03011  Atropine oxide hydrochloride (USAN)
+            D03076  Benapryzine hydrochloride (USAN)
+            D03087  Benzetimide hydrochloride (USAN)
+            D03088  Benzilonium bromide (USAN/INN)
+            D03239  Ladostigil tartrate (USAN)
+            D03264  Mazaticol hydrochloride hydrate (JAN)
+            D03274  Chlorpromazine hibenzate (JAN)
+            D03276  Profenamine hibenzate (JAN)
+            D03365  Nicotine (USP)
+            D03584  Colforsin (USAN/INN)
+            D03654  Darifenacin (USAN/INN)
+            D03711  Dexetimide (USAN/INN)
+            D03751  Icopezil maleate (USAN)
+            D03814  Atropine methylbromide (JAN)
+            D03822  Rivastigmine (JAN/USP/INN)
+            D03823  Quilostigmine (USAN/INN)
+            D03824  Dihexyverine hydrochloride (USAN)
+            D03826  Physostigmine sulfate (USP)
+            D03858  Diphenidol (USAN/INN)
+            D03859  Diphenidol pamoate (USAN)
+            D03970  Elantrine (USAN)
+            D03979  Elucaine (USAN)
+            D04034  Chlorpromazine phenolphthalinate (JAN)
+            D04057  Esoxybutynin chloride (USAN)
+            D04087  Ethybenztropine (USAN)
+            D04116  Eucatropine hydrochloride (USP XXXII)
+            D04192  Flindokalner (USAN/INN)
+            D04292  Galantamine (USAN/INN)
+            D04434  Heteronium bromide (USAN/INN)
+            D04479  Hyoscyamine hydrobromide (USP)
+            D04868  Mebeverine hydrochloride (USAN)
+            D04970  Methacholine chloride (JAN/USP/INN)
+            D05012  Metoquizine (USAN/INN)
+            D05035  Milameline hydrochloride (USAN)
+            D05156  Nicotine bitartrate (USAN)
+            D05157  Nicotine polacrilex (USP)
+            D05276  Pirenzepine hydrochloride hydrate (JP18)
+            D05360  Parapenzolate bromide (USAN/INN)
+            D05418  Pentapiperium methylsulfate (USAN)
+            D05452  Phencarbamide (USAN)
+            D05478  Pilocarpine nitrate (USP)
+            D05535  Poldine methylsulfate (USAN)
+            D05590  Pralidoxime mesylate (USAN)
+            D05628  Propenzolate hydrochloride (USAN)
+            D05703  Rapacuronium bromide (USAN/INN)
+            D05779  Sabcomeline hydrochloride (USAN)
+            D05981  Suronacrine maleate (USAN)
+            D06000  Talsaclidine fumarate (USAN)
+            D06015  Tazomeline citrate (USAN)
+            D06016  Tebanicline tosylate (USAN)
+            D06061  Tematropium methylsulfate (USAN)
+            D06175  Tofenacin hydrochloride (USAN)
+            D06192  Toquizine (USAN)
+            D06217  Triampyzine sulfate (USAN)
+            D06273  Imidafenacin (JAN/INN)
+            D06282  Varenicline tartrate (JAN/USAN)
+            D06288  Velnacrine maleate (USAN)
+            D06330  Xanomeline (USAN)
+            D06331  Xanomeline tartrate (USAN)
+            D06365  Zifrosilone (USAN)
+            D06877  Oxyphenonium bromide (INN)
+            D06878  Diphemanil metilsulfate (INN)
+            D07070  Fenpiverinium bromide (INN)
+            D07078  Rociverine (INN)
+            D07079  Difemerine (INN)
+            D07081  Penthienate bromide (NF XIII)
+            D07083  Otilonium bromide (INN)
+            D07084  Pipenzolate bromide (INN)
+            D07099  Cimetropium bromide (JAN/INN)
+            D07226  Fesoterodine (INN)
+            D07301  Phenglutarimide (INN)
+            D07302  Bornaprine (INN)
+            D07303  Tropatepine (INN)
+            D07349  Choline alfoscerate (INN)
+            D07477  Atropine oxide (INN)
+            D07511  Benzatropine (INN)
+            D07513  Benzetimide (INN)
+            D07667  Cevimeline (INN)
+            D07759  Cyclopentolate (INN)
+            D07770  Cytisinicline (USAN)
+            D07804  Dexetimide hydrochloride
+            D07820  Dicycloverine (INN)
+            D07821  Dihexyverine (INN)
+            D07823  Diethazine (INN)
+            D07869  Donepezil (JAN/INN)
+            D07951  Fentonium bromide (INN)
+            D08094  Itopride (INN)
+            D08138  Lobeline sulfate
+            D08157  Mazaticol (INN)
+            D08160  Mebeverine (INN)
+            D08209  Metixene (INN)
+            D08261  Neostigmine (BAN)
+            D08325  Oxyphencyclimine (INN)
+            D08376  Pilocarpine borate
+            D08382  Piperidolate (INN)
+            D08384  Pipethanate (INN)
+            D08389  Pirenzepine (INN)
+            D08395  Piroheptine (INN)
+            D08418  Pridinol (INN)
+            D08419  Pridinol hydrochloride
+            D08425  Procyclidine (INN)
+            D08426  Profenamine (INN)
+            D08441  Propiverine (INN)
+            D08522  Solifenacin (INN)
+            D08555  Tacrine (INN)
+            D08595  Tiemonium methylsulfate
+            D08638  Trihexyphenidyl (INN)
+            D08653  Tropatepine hydrochloride
+            D08669  Varenicline (INN)
+            D08837  Aclidinium bromide (JAN/USAN/INN)
+            D08838  Acotiamide hydrochloride (USAN)
+            D08923  Fesoterodine fumarate (JAN/USAN)
+            D08935  Ispronicline (INN/USAN)
+            D08987  Rivanicline galactarate (USAN)
+            D09367  Pozanicline (USAN)
+            D09368  Pozanicline tartrate (USAN)
+            D09382  Sofinicline (USAN)
+            D09383  Sofinicline benzenesulfonate (USAN)
+            D09402  Darotropium bromide (USAN/INN)
+            D09569  Ezogabine (USAN)
+            D09750  Ipidacrine hydrochloride hydrate (JAN)
+            D09752  Carpronium chloride hydrate (JAN)
+            D09819  Chlorpromazine tannate (JAN)
+            D09835  Zanapezil fumarate (JAN)
+            D09917  Latrepirdine (USAN/INN)
+            D09918  Latrepirdine dihydrochloride (USAN)
+            D10111  Dexmecamylamine (USAN)
+            D10112  Dexmecamylamine hydrochloride (USAN)
+            D10180  Umeclidinium (USAN)
+            D10181  Umeclidinium bromide (JAN/USAN)
+            D10529  Paraoxon
+            D10613  Bradanicline (USAN/INN)
+            D10693  Bradanicline hydrochloride (USAN)
+            D10853  Desfesoterodine (INN)
+            D10938  Glycopyrronium (USAN)
+            D10939  Glycopyrronium tosylate (USAN)
+            D10978  Revefenacin (USAN/INN)
+            D10989  Sofpironium bromide (JAN/USAN/INN)
+            D11098  Telenzepine hydrochloride hydrate (JAN)
+            D11383  Blarcamesine (USAN)
+            D11549  Blarcamesine hydrochloride (USAN)
+            D12318  Buntanetap (USAN)
+            D12319  Buntanetap tartrate (USAN)
+            D12468  Emraclidine (USAN/INN)
+DBLINKS     GO: 0032222
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1103  CHAT; choline O-acetyltransferase [KO:K00623] [EC:2.3.1.6]
+            43  ACHE; acetylcholinesterase (Cartwright blood group) [KO:K01049] [EC:3.1.1.7]
+            6572  SLC18A3; solute carrier family 18 member A3 [KO:K14636]
+            1128  CHRM1; cholinergic receptor muscarinic 1 [KO:K04129]
+            1131  CHRM3; cholinergic receptor muscarinic 3 [KO:K04131]
+            1133  CHRM5; cholinergic receptor muscarinic 5 [KO:K04133]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            3784  KCNQ1; potassium voltage-gated channel subfamily Q member 1 [KO:K04926]
+            3785  KCNQ2; potassium voltage-gated channel subfamily Q member 2 [KO:K04927]
+            3786  KCNQ3; potassium voltage-gated channel subfamily Q member 3 [KO:K04928]
+            9132  KCNQ4; potassium voltage-gated channel subfamily Q member 4 [KO:K04929]
+            56479  KCNQ5; potassium voltage-gated channel subfamily Q member 5 [KO:K04930]
+            3759  KCNJ2; potassium inwardly rectifying channel subfamily J member 2 [KO:K04996]
+            3768  KCNJ12; potassium inwardly rectifying channel subfamily J member 12 [KO:K05005]
+            100134444  KCNJ18; potassium inwardly rectifying channel subfamily J member 18 [KO:K05005]
+            3761  KCNJ4; potassium inwardly rectifying channel subfamily J member 4 [KO:K04998]
+            3770  KCNJ14; potassium inwardly rectifying channel subfamily J member 14 [KO:K05007]
+            1129  CHRM2; cholinergic receptor muscarinic 2 [KO:K04130]
+            1132  CHRM4; cholinergic receptor muscarinic 4 [KO:K04132]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            3760  KCNJ3; potassium inwardly rectifying channel subfamily J member 3 [KO:K04997]
+            3763  KCNJ6; potassium inwardly rectifying channel subfamily J member 6 [KO:K05000]
+            5294  PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [KO:K21289] [EC:2.7.1.153]
+            23533  PIK3R5; phosphoinositide-3-kinase regulatory subunit 5 [KO:K21290]
+            146850  PIK3R6; phosphoinositide-3-kinase regulatory subunit 6 [KO:K21290]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            1139  CHRNA7; cholinergic receptor nicotinic alpha 7 subunit [KO:K04809]
+            1137  CHRNA4; cholinergic receptor nicotinic alpha 4 subunit [KO:K04806]
+            1141  CHRNB2; cholinergic receptor nicotinic beta 2 subunit [KO:K04813]
+            1136  CHRNA3; cholinergic receptor nicotinic alpha 3 subunit [KO:K04805]
+            1143  CHRNB4; cholinergic receptor nicotinic beta 4 subunit [KO:K04815]
+            8973  CHRNA6; cholinergic receptor nicotinic alpha 6 subunit [KO:K04808]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            814  CAMK4; calcium/calmodulin dependent protein kinase IV [KO:K05869] [EC:2.7.11.17]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            2534  FYN; FYN proto-oncogene, Src family tyrosine kinase [KO:K05703] [EC:2.7.10.2]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            774  CACNA1B; calcium voltage-gated channel subunit alpha1 B [KO:K04849]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            60482  SLC5A7; solute carrier family 5 member 7 [KO:K14387]
+COMPOUND    C00010  CoA
+            C00024  Acetyl-CoA
+            C00033  Acetate
+            C00076  Calcium cation
+            C00114  Choline
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00575  3',5'-Cyclic AMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C01996  Acetylcholine
+            C04637  1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+REFERENCE   
+  AUTHORS   Nestler EJ, Hyman SE, Malenka RC.
+  TITLE     Molecular neuropharmacology: A foundation for clinical neuroscience
+  JOURNAL   The McGraw-Hill Companies, Inc. (2001)
+REFERENCE   
+  AUTHORS   Nicholls JG, Martin AR, Wallace BG, Fuchs PA.
+  TITLE     From neuron to brain, 4th ed.
+  JOURNAL   Sunderland, MA: Sinauer associates (2001)
+REFERENCE   PMID:15165747
+  AUTHORS   Dajas-Bailador F, Wonnacott S
+  TITLE     Nicotinic acetylcholine receptors and the regulation of neuronal signalling.
+  JOURNAL   Trends Pharmacol Sci 25:317-24 (2004)
+            DOI:10.1016/j.tips.2004.04.006
+REFERENCE   PMID:19712465
+  AUTHORS   Resende RR, Adhikari A
+  TITLE     Cholinergic receptor pathways involved in apoptosis, cell proliferation and neuronal differentiation.
+  JOURNAL   Cell Commun Signal 7:20 (2009)
+            DOI:10.1186/1478-811X-7-20
+REFERENCE   PMID:19378880
+  AUTHORS   Origlia N, Kuczewski N, Pesavento E, Aztiria E, Domenici L
+  TITLE     The role of cholinergic system in neuronal plasticity: focus on visual cortex and muscarinic receptors.
+  JOURNAL   Arch Ital Biol 146:165-88 (2008)
+REFERENCE   PMID:21550798
+  AUTHORS   Oldenburg IA, Ding JB
+  TITLE     Cholinergic modulation of synaptic integration and dendritic excitability in the striatum.
+  JOURNAL   Curr Opin Neurobiol 21:425-32 (2011)
+            DOI:10.1016/j.conb.2011.04.004
+REFERENCE   PMID:12893537
+  AUTHORS   Lanzafame AA, Christopoulos A, Mitchelson F
+  TITLE     Cellular signaling mechanisms for muscarinic acetylcholine receptors.
+  JOURNAL   Receptors Channels 9:241-60 (2003)
+            DOI:10.3109/10606820308263
+REFERENCE   PMID:20446119
+  AUTHORS   Brown DA
+  TITLE     Muscarinic acetylcholine receptors (mAChRs) in the nervous system: some functions and mechanisms.
+  JOURNAL   J Mol Neurosci 41:340-6 (2010)
+            DOI:10.1007/s12031-010-9377-2
+REFERENCE   PMID:11738031
+  AUTHORS   Chang KT, Berg DK
+  TITLE     Voltage-gated channels block nicotinic regulation of CREB phosphorylation and gene expression in neurons.
+  JOURNAL   Neuron 32:855-65 (2001)
+            DOI:10.1016/S0896-6273(01)00516-5
+REFERENCE   PMID:11283752
+  AUTHORS   Soreq H, Seidman S
+  TITLE     Acetylcholinesterase--new roles for an old actor.
+  JOURNAL   Nat Rev Neurosci 2:294-302 (2001)
+            DOI:10.1038/35067589
+REFERENCE   PMID:12436417
+  AUTHORS   Sharma G, Vijayaraghavan S
+  TITLE     Nicotinic receptor signaling in nonexcitable cells.
+  JOURNAL   J Neurobiol 53:524-34 (2002)
+            DOI:10.1002/neu.10114
+REFERENCE   PMID:11923408
+  AUTHORS   Araque A, Martin ED, Perea G, Arellano JI, Buno W
+  TITLE     Synaptically released acetylcholine evokes Ca2+ elevations in astrocytes in hippocampal slices.
+  JOURNAL   J Neurosci 22:2443-50 (2002)
+            DOI:10.1523/JNEUROSCI.22-07-02443.2002
+REFERENCE   PMID:12690458
+  AUTHORS   Lucas-Meunier E, Fossier P, Baux G, Amar M
+  TITLE     Cholinergic modulation of the cortical neuronal network.
+  JOURNAL   Pflugers Arch 446:17-29 (2003)
+            DOI:10.1007/s00424-002-0999-2
+REFERENCE   PMID:20060019
+  AUTHORS   Abreu-Villaca Y, Filgueiras CC, Manhaes AC
+  TITLE     Developmental aspects of the cholinergic system.
+  JOURNAL   Behav Brain Res 221:367-78 (2011)
+            DOI:10.1016/j.bbr.2009.12.049
+REL_PATHWAY hsa00564  Glycerophospholipid metabolism
+            hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04721  Synaptic vesicle cycle
+            hsa04975  Fat digestion and absorption
+KO_PATHWAY  ko04725
+///

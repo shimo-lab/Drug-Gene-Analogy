@@ -1,0 +1,224 @@
+ENTRY       hsa05146                    Pathway
+NAME        Amoebiasis - Homo sapiens (human)
+DESCRIPTION Entamoeba histolytica, an extracellular protozoan parasite is a human pathogen that invades the intestinal epithelium. Infection occurs on ingestion of contaminated water and food. The pathogenesis of amoebiasis begins with parasite attachment and disruption of the intestinal mucus layer, followed by apoptosis of host epithelial cells. Intestinal tissue destruction causes severe dysentery and ulcerations in amoebic colitis. Several amoebic proteins such as lectins, cysteine proteineases, and amoebapores are associated with the invasion process. The parasite can cause extraintestinal infection like amoebic liver abscess by evading immune response.
+CLASS       Human Diseases; Infectious disease: parasitic
+PATHWAY_MAP hsa05146  Amoebiasis
+DISEASE     H00360  Amoebiasis
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3553  IL1B; interleukin 1 beta [KO:K04519]
+            3554  IL1R1; interleukin 1 receptor type 1 [KO:K04386]
+            7850  IL1R2; interleukin 1 receptor type 2 [KO:K04387]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            3315  HSPB1; heat shock protein family B (small) member 1 [KO:K04455]
+            4583  MUC2; mucin 2, oligomeric mucus/gel-forming [KO:K10955]
+            1277  COL1A1; collagen type I alpha 1 chain [KO:K06236]
+            1278  COL1A2; collagen type I alpha 2 chain [KO:K06236]
+            1284  COL4A2; collagen type IV alpha 2 chain [KO:K06237]
+            1286  COL4A4; collagen type IV alpha 4 chain [KO:K06237]
+            1288  COL4A6; collagen type IV alpha 6 chain [KO:K06237]
+            1282  COL4A1; collagen type IV alpha 1 chain [KO:K06237]
+            1287  COL4A5; collagen type IV alpha 5 chain [KO:K06237]
+            1285  COL4A3; collagen type IV alpha 3 chain [KO:K06237]
+            2335  FN1; fibronectin 1 [KO:K05717]
+            284217  LAMA1; laminin subunit alpha 1 [KO:K05637]
+            3908  LAMA2; laminin subunit alpha 2 [KO:K05637]
+            3909  LAMA3; laminin subunit alpha 3 [KO:K06240]
+            3911  LAMA5; laminin subunit alpha 5 [KO:K06240]
+            3910  LAMA4; laminin subunit alpha 4 [KO:K06241]
+            3912  LAMB1; laminin subunit beta 1 [KO:K05636]
+            3913  LAMB2; laminin subunit beta 2 [KO:K06243]
+            3914  LAMB3; laminin subunit beta 3 [KO:K06244]
+            22798  LAMB4; laminin subunit beta 4 [KO:K06245]
+            3915  LAMC1; laminin subunit gamma 1 [KO:K05635]
+            3918  LAMC2; laminin subunit gamma 2 [KO:K06246]
+            10319  LAMC3; laminin subunit gamma 3 [KO:K06247]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            9630  GNA14; G protein subunit alpha 14 [KO:K04636]
+            2769  GNA15; G protein subunit alpha 15 [KO:K04637]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            2774  GNAL; G protein subunit alpha L [KO:K04633]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            5868  RAB5A; RAB5A, member RAS oncogene family [KO:K07887]
+            5869  RAB5B; RAB5B, member RAS oncogene family [KO:K07888]
+            5878  RAB5C; RAB5C, member RAS oncogene family [KO:K07889]
+            7879  RAB7A; RAB7A, member RAS oncogene family [KO:K07897]
+            338382  RAB7B; RAB7B, member RAS oncogene family [KO:K07898]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            929  CD14; CD14 molecule [KO:K04391]
+            3569  IL6; interleukin 6 [KO:K05405]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            909  CD1A; CD1a molecule [KO:K06448]
+            910  CD1B; CD1b molecule [KO:K06448]
+            911  CD1C; CD1c molecule [KO:K06448]
+            912  CD1D; CD1d molecule [KO:K06448]
+            913  CD1E; CD1e molecule [KO:K06448]
+            3458  IFNG; interferon gamma [KO:K04687]
+            1281  COL3A1; collagen type III alpha 1 chain [KO:K19720]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            7414  VCL; vinculin [KO:K05700]
+            87  ACTN1; actinin alpha 1 [KO:K05699]
+            81  ACTN4; actinin alpha 4 [KO:K05699]
+            384  ARG2; arginase 2 [KO:K01476] [EC:3.5.3.1]
+            383  ARG1; arginase 1 [KO:K01476] [EC:3.5.3.1]
+            4843  NOS2; nitric oxide synthase 2 [KO:K13241] [EC:1.14.13.39]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            3684  ITGAM; integrin subunit alpha M [KO:K06461]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5052  PRDX1; peroxiredoxin 1 [KO:K13279] [EC:1.11.1.24]
+            6317  SERPINB3; serpin family B member 3 [KO:K13963]
+            6318  SERPINB4; serpin family B member 4 [KO:K13963]
+            5269  SERPINB6; serpin family B member 6 [KO:K13963]
+            5272  SERPINB9; serpin family B member 9 [KO:K13963]
+            5273  SERPINB10; serpin family B member 10 [KO:K13963]
+            5275  SERPINB13; serpin family B member 13 [KO:K13963]
+            1511  CTSG; cathepsin G [KO:K01319] [EC:3.4.21.20]
+            3586  IL10; interleukin 10 [KO:K05443]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            731  C8A; complement C8 alpha chain [KO:K03997]
+            732  C8B; complement C8 beta chain [KO:K03998]
+            733  C8G; complement C8 gamma chain [KO:K03999]
+            735  C9; complement C9 [KO:K04000]
+COMPOUND    C00027  Hydrogen peroxide
+            C00062  L-Arginine
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00219  Arachidonate
+            C00533  Nitric oxide
+            C00575  3',5'-Cyclic AMP
+            C00584  Prostaglandin E2
+            C01074  N-Acetylgalactosamine
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01498  Gelatine
+            C02737  Phosphatidylserine
+            C18287  Monocyte locomotion inhibitory factor
+REFERENCE   PMID:11378035
+  AUTHORS   Stanley SL
+  TITLE     Pathophysiology of amoebiasis.
+  JOURNAL   Trends Parasitol 17:280-5 (2001)
+            DOI:10.1016/S1471-4922(01)01903-1
+REFERENCE   PMID:10756002
+  AUTHORS   Espinosa-Cantellano M, Martinez-Palomo A
+  TITLE     Pathogenesis of intestinal amebiasis: from molecules to disease.
+  JOURNAL   Clin Microbiol Rev 13:318-31 (2000)
+            DOI:10.1128/CMR.13.2.318-331.2000
+REFERENCE   PMID:9832261
+  AUTHORS   Huston CD, Petri WA Jr
+  TITLE     Host-pathogen interaction in amebiasis and progress in vaccine development.
+  JOURNAL   Eur J Clin Microbiol Infect Dis 17:601-14 (1998)
+            DOI:10.1007/BF01708342
+REFERENCE   PMID:14700586
+  AUTHORS   Huston CD
+  TITLE     Parasite and host contributions to the pathogenesis of amebic colitis.
+  JOURNAL   Trends Parasitol 20:23-6 (2004)
+            DOI:10.1016/j.pt.2003.10.013
+REFERENCE   PMID:15813717
+  AUTHORS   Campos-Rodriguezp R, Jarillo-Luna A
+  TITLE     The pathogenicity of Entamoeba histolytica is related to the capacity of evading innate immunity.
+  JOURNAL   Parasite Immunol 27:1-8 (2005)
+            DOI:10.1111/j.1365-3024.2005.00743.x
+REFERENCE   PMID:19207103
+  AUTHORS   Lejeune M, Rybicka JM, Chadee K
+  TITLE     Recent discoveries in the pathogenesis and immune response toward Entamoeba histolytica.
+  JOURNAL   Future Microbiol 4:105-18 (2009)
+            DOI:10.2217/17460913.4.1.105
+REFERENCE   PMID:17576362
+  AUTHORS   Carrero JC, Cervantes-Rebolledo C, Aguilar-Diaz H, Diaz-Gallardo MY, Laclette JP, Morales-Montor J
+  TITLE     The role of the secretory immune response in the infection by Entamoeba histolytica.
+  JOURNAL   Parasite Immunol 29:331-8 (2007)
+            DOI:10.1111/j.1365-3024.2007.00955.x
+REFERENCE   PMID:12660071
+  AUTHORS   Stanley SL Jr
+  TITLE     Amoebiasis.
+  JOURNAL   Lancet 361:1025-34 (2003)
+            DOI:10.1016/S0140-6736(03)12830-9
+REFERENCE   PMID:14502002
+  AUTHORS   Stauffer W, Ravdin JI
+  TITLE     Entamoeba histolytica: an update.
+  JOURNAL   Curr Opin Infect Dis 16:479-85 (2003)
+            DOI:10.1097/01.qco.0000092821.42392.ca
+REFERENCE   PMID:12142490
+  AUTHORS   Petri WA Jr, Haque R, Mann BJ
+  TITLE     The bittersweet interface of parasite and host: lectin-carbohydrate interactions during human invasion by the parasite Entamoeba histolytica.
+  JOURNAL   Annu Rev Microbiol 56:39-64 (2002)
+            DOI:10.1146/annurev.micro.56.012302.160959
+REFERENCE   PMID:18725798
+  AUTHORS   Baxt LA, Singh U
+  TITLE     New insights into Entamoeba histolytica pathogenesis.
+  JOURNAL   Curr Opin Infect Dis 21:489-94 (2008)
+            DOI:10.1097/QCO.0b013e32830ce75f
+REFERENCE   PMID:12160867
+  AUTHORS   Petri WA Jr
+  TITLE     Pathogenesis of amebiasis.
+  JOURNAL   Curr Opin Microbiol 5:443-7 (2002)
+            DOI:10.1016/S1369-5274(02)00335-1
+REFERENCE   PMID:17702556
+  AUTHORS   Guo X, Houpt E, Petri WA Jr
+  TITLE     Crosstalk at the initial encounter: interplay between host defense and ameba survival strategies.
+  JOURNAL   Curr Opin Immunol 19:376-84 (2007)
+            DOI:10.1016/j.coi.2007.07.005
+REFERENCE   PMID:20303955
+  AUTHORS   Mortimer L, Chadee K
+  TITLE     The immunopathogenesis of Entamoeba histolytica.
+  JOURNAL   Exp Parasitol 126:366-80 (2010)
+            DOI:10.1016/j.exppara.2010.03.005
+REFERENCE   PMID:16380324
+  AUTHORS   Meza I, Talamas-Rohana P, Vargas MA
+  TITLE     The cytoskeleton of Entamoeba histolytica: structure, function, and regulation by signaling pathways.
+  JOURNAL   Arch Med Res 37:234-43 (2006)
+            DOI:10.1016/j.arcmed.2005.09.008
+REFERENCE   PMID:10637584
+  AUTHORS   Meza I
+  TITLE     Extracellular matrix-induced signaling in Entamoeba histolytica: its role in invasiveness.
+  JOURNAL   Parasitol Today 16:23-8 (2000)
+            DOI:10.1016/S0169-4758(99)01586-0
+REFERENCE   PMID:11352795
+  AUTHORS   Stanley SL Jr, Reed SL
+  TITLE     Microbes and microbial toxins: paradigms for microbial-mucosal interactions. VI. Entamoeba histolytica: parasite-host interactions.
+  JOURNAL   Am J Physiol Gastrointest Liver Physiol 280:G1049-54 (2001)
+            DOI:10.1152/ajpgi.2001.280.6.G1049
+REFERENCE   PMID:20145703
+  AUTHORS   Wong-Baeza I, Alcantara-Hernandez M, Mancilla-Herrera I, Ramirez-Saldivar I, Arriaga-Pizano L, Ferat-Osorio E, Lopez-Macias C, Isibasi A
+  TITLE     The role of lipopeptidophosphoglycan in the immune response to Entamoeba histolytica.
+  JOURNAL   J Biomed Biotechnol 2010:254521 (2010)
+            DOI:10.1155/2010/254521
+REL_PATHWAY hsa00330  Arginine and proline metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa04144  Endocytosis
+            hsa04210  Apoptosis
+            hsa04510  Focal adhesion
+            hsa04610  Complement and coagulation cascades
+            hsa04612  Antigen processing and presentation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04672  Intestinal immune network for IgA production
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko05146
+///

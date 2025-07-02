@@ -1,0 +1,76 @@
+ENTRY       hsa00450                    Pathway
+NAME        Selenocompound metabolism - Homo sapiens (human)
+CLASS       Metabolism; Metabolism of other amino acids
+PATHWAY_MAP hsa00450  Selenocompound metabolism
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        56267  KYAT3; kynurenine aminotransferase 3 [KO:K00816] [EC:2.6.1.7 4.4.1.13 2.6.1.64]
+            883  KYAT1; kynurenine aminotransferase 1 [KO:K00816] [EC:2.6.1.7 4.4.1.13 2.6.1.64]
+            4548  MTR; 5-methyltetrahydrofolate-homocysteine methyltransferase [KO:K00548] [EC:2.1.1.13]
+            1491  CTH; cystathionine gamma-lyase [KO:K01758] [EC:4.4.1.1]
+            51540  SCLY; selenocysteine lyase [KO:K01763] [EC:4.4.1.16]
+            7296  TXNRD1; thioredoxin reductase 1 [KO:K22182] [EC:1.8.1.9]
+            114112  TXNRD3; thioredoxin reductase 3 [KO:K22182] [EC:1.8.1.9]
+            10587  TXNRD2; thioredoxin reductase 2 [KO:K22182] [EC:1.8.1.9]
+            11185  INMT; indolethylamine N-methyltransferase [KO:K00562] [EC:2.1.1.49 2.1.1.96]
+            9060  PAPSS2; 3'-phosphoadenosine 5'-phosphosulfate synthase 2 [KO:K13811] [EC:2.7.7.4 2.7.1.25]
+            9061  PAPSS1; 3'-phosphoadenosine 5'-phosphosulfate synthase 1 [KO:K13811] [EC:2.7.7.4 2.7.1.25]
+            22928  SEPHS2; selenophosphate synthetase 2 [KO:K01008] [EC:2.7.9.3]
+            22929  SEPHS1; selenophosphate synthetase 1 [KO:K01008] [EC:2.7.9.3]
+            118672  PSTK; phosphoseryl-tRNA kinase [KO:K10837] [EC:2.7.1.164]
+            51091  SEPSECS; Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase [KO:K03341] [EC:2.9.1.2]
+            4141  MARS1; methionyl-tRNA synthetase 1 [KO:K01874] [EC:6.1.1.10]
+            92935  MARS2; methionyl-tRNA synthetase 2, mitochondrial [KO:K01874] [EC:6.1.1.10]
+COMPOUND    C00017  Protein
+            C00041  L-Alanine
+            C01528  Hydrogen selenide
+            C02535  Dimethyl selenide
+            C05172  Selenophosphoric acid
+            C05335  L-Selenomethionine
+            C05336  Selenomethionyl-tRNA(Met)
+            C05684  Selenite
+            C05686  Adenylylselenate
+            C05688  L-Selenocysteine
+            C05689  Se-Methyl-L-selenocysteine
+            C05690  Se-Methylselenomethionine
+            C05695  gamma-Glutamyl-Se-methylselenocysteine
+            C05697  Selenate
+            C05698  Selenohomocysteine
+            C05699  L-Selenocystathionine
+            C05703  Methaneselenol
+            C06481  L-Seryl-tRNA(Sec)
+            C06482  L-Selenocysteinyl-tRNA(Sec)
+            C16638  O-Phosphoseryl-tRNA(Sec)
+            C18870  Selenodiglutathione
+            C18871  Glutathioselenol
+            C18872  Trimethylselenonium
+            C18893  1-Methylseleno-N-acetyl-D-galactosamine
+            C18902  Methylselenic acid
+            C18904  Methylselenopyruvate
+            C18905  Methylselenocysteine Se-oxide
+REFERENCE   PMID:21190829
+  AUTHORS   Hoefig CS, Renko K, Kohrle J, Birringer M, Schomburg L
+  TITLE     Comparison of different selenocompounds with respect to nutritional value vs. toxicity using liver cells in culture.
+  JOURNAL   J Nutr Biochem 22:945-55 (2011)
+            DOI:10.1016/j.jnutbio.2010.08.006
+REFERENCE   PMID:19051051
+  AUTHORS   McKenzie MJ, Hunter DA, Pathirana R, Watson LM, Joyce NI, Matich AJ, Rowan DD, Brummell DA
+  TITLE     Accumulation of an organic anticancer selenium compound in a transgenic Solanaceous species shows wider applicability of the selenocysteine methyltransferase transgene from selenium hyperaccumulators.
+  JOURNAL   Transgenic Res 18:407-24 (2009)
+            DOI:10.1007/s11248-008-9233-0
+REFERENCE   PMID:20383543
+  AUTHORS   Pinto JT, Lee JI, Sinha R, MacEwan ME, Cooper AJ
+  TITLE     Chemopreventive mechanisms of alpha-keto acid metabolites of naturally occurring organoselenium compounds.
+  JOURNAL   Amino Acids 41:29-41 (2011)
+            DOI:10.1007/s00726-010-0578-3
+REFERENCE   PMID:17451884
+  AUTHORS   Suzuki KT, Kurasaki K, Suzuki N
+  TITLE     Selenocysteine beta-lyase and methylselenol demethylase in the metabolism of Se-methylated selenocompounds into selenide.
+  JOURNAL   Biochim Biophys Acta 1770:1053-61 (2007)
+            DOI:10.1016/j.bbagen.2007.03.007
+REFERENCE   PMID:11782468
+  AUTHORS   Gromer S, Gross JH
+  TITLE     Methylseleninate is a substrate rather than an inhibitor of mammalian thioredoxin reductase. Implications for the antitumor effects of selenium.
+  JOURNAL   J Biol Chem 277:9701-6 (2002)
+            DOI:10.1074/jbc.M109234200
+KO_PATHWAY  ko00450
+///

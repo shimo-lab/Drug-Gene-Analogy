@@ -1,0 +1,369 @@
+ENTRY       hsa04621                    Pathway
+NAME        NOD-like receptor signaling pathway - Homo sapiens (human)
+DESCRIPTION Specific families of pattern recognition receptors are responsible for detecting various pathogens and generating innate immune responses. The intracellular NOD-like receptor (NLR) family contains more than 20 members in mammals and plays a pivotal role in the recognition of intracellular ligands. NOD1 and NOD2, two prototypic NLRs, sense the cytosolic presence of the bacterial peptidoglycan fragments that escaped from endosomal compartments, driving the activation of NF-{kappa}B and MAPK, cytokine production and apoptosis. On the other hand, a different set of NLRs induces caspase-1 activation through the assembly of multiprotein complexes called inflammasomes. The activated of caspase-1 regulates maturation of the pro-inflammatory cytokines IL-1B, IL-18 and drives pyroptosis.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04621  NOD-like receptor signaling pathway
+NETWORK     nt06137  OAS/RNase L pathway (viruses)
+            nt06163  Hepatitis C virus (HCV)
+            nt06168  Herpes simplex virus 1 (HSV-1)
+            nt06170  Influenza A virus (IAV)
+            nt06263  Hepatocellular carcinoma
+            nt06521  NLR signaling
+  ELEMENT   N00515  Oligoadenylate synthetase (OAS)/RNase L pathway
+            N00742  NLRP3 inflammasome signaling pathway
+            N00867  NLRC4 inflammasome signaling pathway
+            N00868  Pyrin inflammasome signaling pathway
+            N00934  Non-canonical inflammasome signaling pathway
+            N00940  NOD-NFKB signaling pathway
+            N01567  NLRP1 inflammasome signaling pathway
+            N01568  Regulation of NLRP3 inflammasome signaling pathway, NLRP3 inhibition
+            N01569  NALP12 inflammasome signaling pathway
+            N01570  Regulation of Pyrin inflammasome signaling pathway, PSTPIP1
+DRUG        D03504  Cinacalcet (USAN)
+            D03505  Cinacalcet hydrochloride (JAN/USAN)
+            D06619  Mifamurtide (USAN)
+            D08978  Pralnacasan (USAN/INN)
+            D09315  Canakinumab (USAN/INN)
+            D09911  Gevokizumab (USAN/INN)
+            D10416  Belnacasan (USAN)
+            D10676  Etelcalcetide (USAN/INN)
+            D10677  Etelcalcetide hydrochloride (JAN/USAN)
+            D11063  Evocalcet (JAN/INN)
+            D11385  Inarigivir soproxil (USAN)
+            D11564  Upacicalcet sodium hydrate (JAN)
+            D11817  Deucravacitinib (JAN/USAN)
+            D12167  Zimlovisertib (USAN)
+            D12352  Eclitasertib (USAN/INN)
+            D12411  Emavusertib (USAN/INN)
+            D12412  Emavusertib hydrochloride (USAN)
+            D12422  Selnoflast (USAN/INN)
+            D12423  Selnoflast potassium (USAN)
+            D12464  Dazukibart (USAN)
+            D12532  Emavusertib mesylate (USAN)
+            D12533  Emavusertib maleate (USAN)
+            D12538  Emavusertib phosphate (USAN)
+            D12539  emavusertib tosylate (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10392  NOD1; nucleotide binding oligomerization domain containing 1 [KO:K08727]
+            8767  RIPK2; receptor interacting serine/threonine kinase 2 [KO:K08846] [EC:2.7.11.1]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3606  IL18; interleukin 18 [KO:K05482]
+            3569  IL6; interleukin 6 [KO:K05405]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            820  CAMP; cathelicidin antimicrobial peptide [KO:K13916]
+            1667  DEFA1; defensin alpha 1 [KO:K05230]
+            1668  DEFA3; defensin alpha 3 [KO:K05230]
+            1669  DEFA4; defensin alpha 4 [KO:K05230]
+            1670  DEFA5; defensin alpha 5 [KO:K05230]
+            1671  DEFA6; defensin alpha 6 [KO:K05230]
+            728358  DEFA1B; defensin alpha 1B [KO:K05230]
+            1673  DEFB4A; defensin beta 4A [KO:K21100]
+            100289462  DEFB4B; defensin beta 4B [KO:K21100]
+            414325  DEFB103A; defensin beta 103A [KO:K23126]
+            55894  DEFB103B; defensin beta 103B [KO:K23126]
+            64127  NOD2; nucleotide binding oligomerization domain containing 2 [KO:K10165]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            10454  TAB1; TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [KO:K04403]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            257397  TAB3; TGF-beta activated kinase 1 (MAP3K7) binding protein 3 [KO:K12793]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            55054  ATG16L1; autophagy related 16 like 1 [KO:K17890]
+            9474  ATG5; autophagy related 5 [KO:K08339]
+            9140  ATG12; autophagy related 12 [KO:K08336]
+            11337  GABARAP; GABA type A receptor-associated protein [KO:K08341]
+            23710  GABARAPL1; GABA type A receptor associated protein like 1 [KO:K08341]
+            11345  GABARAPL2; GABA type A receptor associated protein like 2 [KO:K08341]
+            440738  MAP1LC3C; microtubule associated protein 1 light chain 3 gamma [KO:K10435]
+            81631  MAP1LC3B; microtubule associated protein 1 light chain 3 beta [KO:K10435]
+            84557  MAP1LC3A; microtubule associated protein 1 light chain 3 alpha [KO:K10435]
+            643246  MAP1LC3B2; microtubule associated protein 1 light chain 3 beta 2 [KO:K10435]
+            10910  SUGT1; SGT1 homolog, MIS12 kinetochore complex assembly cochaperone [KO:K12795]
+            81858  SHARPIN; SHANK associated RH domain interactor [KO:K20894]
+            10616  RBCK1; RANBP2-type and C3HC4-type zinc finger containing 1 [KO:K10630] [EC:2.3.2.31]
+            55072  RNF31; ring finger protein 31 [KO:K11974] [EC:2.3.2.31]
+            331  XIAP; X-linked inhibitor of apoptosis [KO:K04725] [EC:2.3.2.27]
+            84674  CARD6; caspase recruitment domain family member 6 [KO:K12797]
+            7205  TRIP6; thyroid hormone receptor interactor 6 [KO:K12792]
+            55914  ERBIN; erbb2 interacting protein [KO:K12796]
+            329  BIRC2; baculoviral IAP repeat containing 2 [KO:K16060]
+            330  BIRC3; baculoviral IAP repeat containing 3 [KO:K16060]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            7188  TRAF5; TNF receptor associated factor 5 [KO:K09849]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            64170  CARD9; caspase recruitment domain family member 9 [KO:K12794]
+            7128  TNFAIP3; TNF alpha induced protein 3 [KO:K11859] [EC:3.4.19.12]
+            57506  MAVS; mitochondrial antiviral signaling protein [KO:K12648]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            10010  TANK; TRAF family member associated NFKB activator [KO:K12650]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            3665  IRF7; interferon regulatory factor 7 [KO:K09447]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            79671  NLRX1; NLR family member X1 [KO:K12653]
+            118429  ANTXR2; ANTXR cell adhesion molecule 2 [KO:K20909]
+            84168  ANTXR1; ANTXR cell adhesion molecule 1 [KO:K20909]
+            22861  NLRP1; NLR family pyrin domain containing 1 [KO:K12798]
+            29108  PYCARD; PYD and CARD domain containing [KO:K12799]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            1508  CTSB; cathepsin B [KO:K01363] [EC:3.4.22.1]
+            114548  NLRP3; NLR family pyrin domain containing 3 [KO:K12800]
+            24145  PANX1; pannexin 1 [KO:K03443]
+            5027  P2RX7; purinergic receptor P2X 7 [KO:K05220]
+            7226  TRPM2; transient receptor potential cation channel subfamily M member 2 [KO:K04977] [EC:3.6.1.13]
+            54822  TRPM7; transient receptor potential cation channel subfamily M member 7 [KO:K04982] [EC:2.7.11.1]
+            51393  TRPV2; transient receptor potential cation channel subfamily V member 2 [KO:K04971]
+            846  CASR; calcium sensing receptor [KO:K04612]
+            222545  GPRC6A; G protein-coupled receptor class C group 6 member A [KO:K04622]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            90550  MCU; mitochondrial calcium uniporter [KO:K20858]
+            4938  OAS1; 2'-5'-oligoadenylate synthetase 1 [KO:K14216] [EC:2.7.7.84]
+            4939  OAS2; 2'-5'-oligoadenylate synthetase 2 [KO:K14216] [EC:2.7.7.84]
+            4940  OAS3; 2'-5'-oligoadenylate synthetase 3 [KO:K14216] [EC:2.7.7.84]
+            6041  RNASEL; ribonuclease L [KO:K01165]
+            56919  DHX33; DEAH-box helicase 33 [KO:K17820] [EC:3.6.4.13]
+            55669  MFN1; mitofusin 1 [KO:K21356] [EC:3.6.5.-]
+            9927  MFN2; mitofusin 2 [KO:K06030] [EC:3.6.5.-]
+            8737  RIPK1; receptor interacting serine/threonine kinase 1 [KO:K02861] [EC:2.7.11.1]
+            11035  RIPK3; receptor interacting serine/threonine kinase 3 [KO:K08847] [EC:2.7.11.1]
+            10059  DNM1L; dynamin 1 like [KO:K17065] [EC:3.6.5.5]
+            10135  NAMPT; nicotinamide phosphoribosyltransferase [KO:K03462] [EC:2.4.2.12]
+            1536  CYBB; cytochrome b-245 beta chain [KO:K21421] [EC:1.-.-.-]
+            1535  CYBA; cytochrome b-245 alpha chain [KO:K08009]
+            10628  TXNIP; thioredoxin interacting protein [KO:K20910]
+            7295  TXN; thioredoxin [KO:K03671]
+            25828  TXN2; thioredoxin 2 [KO:K03671]
+            140609  NEK7; NIMA related kinase 7 [KO:K20876] [EC:2.7.11.34]
+            79184  BRCC3; BRCA1/BRCA2-containing complex subunit 3 [KO:K11864] [EC:3.4.19.-]
+            3320  HSP90AA1; heat shock protein 90 alpha family class A member 1 [KO:K04079]
+            3326  HSP90AB1; heat shock protein 90 alpha family class B member 1 [KO:K04079]
+            22900  CARD8; caspase recruitment domain family member 8 [KO:K12801]
+            63940  GPSM3; G protein signaling modulator 3 [KO:K15838]
+            345611  IRGM; immunity related GTPase M [KO:K14139] [EC:3.6.5.-]
+            260434  PYDC1; pyrin domain containing 1 [KO:K12802]
+            152138  PYDC2; pyrin domain containing 2 [KO:K20911]
+            4210  MEFV; MEFV innate immunity regulator, pyrin [KO:K12803]
+            9051  PSTPIP1; proline-serine-threonine phosphatase interacting protein 1 [KO:K12804]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            100506742  CASP12; caspase 12 (gene/pseudogene) [KO:K04741] [EC:3.4.22.-]
+            59082  CARD18; caspase recruitment domain family member 18 [KO:K12806]
+            114769  CARD16; caspase recruitment domain family member 16 [KO:K12806]
+            171389  NLRP6; NLR family pyrin domain containing 6 [KO:K20863]
+            199713  NLRP7; NLR family pyrin domain containing 7 [KO:K20864]
+            91662  NLRP12; NLR family pyrin domain containing 12 [KO:K20865]
+            4671  NAIP; NLR family apoptosis inhibitory protein [KO:K12807]
+            58484  NLRC4; NLR family CARD domain containing 4 [KO:K12805]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            2634  GBP2; guanylate binding protein 2 [KO:K20897]
+            115362  GBP5; guanylate binding protein 5 [KO:K20898]
+            9447  AIM2; absent in melanoma 2 [KO:K12966]
+            3428  IFI16; interferon gamma inducible protein 16 [KO:K20914]
+            7158  TP53BP1; tumor protein p53 binding protein 1 [KO:K20915]
+            107181291  PYDC5; pyrin domain containing 5 [KO:K20916]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            5585  PKN1; protein kinase N1 [KO:K06071] [EC:2.7.11.13]
+            5586  PKN2; protein kinase N2 [KO:K23691] [EC:2.7.11.13]
+            7531  YWHAE; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon [KO:K06630]
+            2633  GBP1; guanylate binding protein 1 [KO:K20899]
+            2635  GBP3; guanylate binding protein 3 [KO:K20899]
+            115361  GBP4; guanylate binding protein 4 [KO:K20899]
+            388646  GBP7; guanylate binding protein 7 [KO:K20899]
+            838  CASP5; caspase 5 [KO:K04395] [EC:3.4.22.58]
+            837  CASP4; caspase 4 [KO:K04394] [EC:3.4.22.57 3.4.22.64]
+            79792  GSDMD; gasdermin D [KO:K20917]
+            3454  IFNAR1; interferon alpha and beta receptor subunit 1 [KO:K05130]
+            3455  IFNAR2; interferon alpha and beta receptor subunit 2 [KO:K05131]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            7297  TYK2; tyrosine kinase 2 [KO:K11219] [EC:2.7.10.2]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6773  STAT2; signal transducer and activator of transcription 2 [KO:K11221]
+            10379  IRF9; interferon regulatory factor 9 [KO:K04693]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            148022  TICAM1; TIR domain containing adaptor molecule 1 [KO:K05842]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            340061  STING1; stimulator of interferon response cGAMP interactor 1 [KO:K12654]
+COMPOUND    C00002  ATP
+            C00076  Calcium cation
+            C00155  L-Homocysteine
+            C00238  Potassium cation
+            C00533  Nitric oxide
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+REFERENCE   PMID:23124073
+  AUTHORS   Vandenabeele P, Bertrand MJ
+  TITLE     The role of the IAP E3 ubiquitin ligases in regulating pattern-recognition receptor signalling.
+  JOURNAL   Nat Rev Immunol 12:833-44 (2012)
+            DOI:10.1038/nri3325
+REFERENCE   PMID:16493424
+  AUTHORS   Strober W, Murray PJ, Kitani A, Watanabe T
+  TITLE     Signalling pathways and molecular interactions of NOD1 and NOD2.
+  JOURNAL   Nat Rev Immunol 6:9-20 (2006)
+            DOI:10.1038/nri1747
+REFERENCE   PMID:24718315
+  AUTHORS   Estornes Y, Bertrand MJ
+  TITLE     IAPs, regulators of innate immunity and inflammation.
+  JOURNAL   Semin Cell Dev Biol 39:106-14 (2015)
+            DOI:10.1016/j.semcdb.2014.03.035
+REFERENCE   PMID:24707857
+  AUTHORS   Jakopin Z
+  TITLE     Nucleotide-binding oligomerization domain (NOD) inhibitors: a rational approach toward inhibition of NOD signaling pathway.
+  JOURNAL   J Med Chem 57:6897-918 (2014)
+            DOI:10.1021/jm401841p
+REFERENCE   PMID:25526305
+  AUTHORS   Caruso R, Warner N, Inohara N, Nunez G
+  TITLE     NOD1 and NOD2: signaling, host defense, and inflammatory disease.
+  JOURNAL   Immunity 41:898-908 (2014)
+            DOI:10.1016/j.immuni.2014.12.010
+REFERENCE   PMID:19767725
+  AUTHORS   Murray PJ
+  TITLE     Beyond peptidoglycan for Nod2.
+  JOURNAL   Nat Immunol 10:1053-4 (2009)
+            DOI:10.1038/ni1009-1053
+REFERENCE   PMID:20643110
+  AUTHORS   Lecat A, Piette J, Legrand-Poels S
+  TITLE     The protein Nod2: an innate receptor more complex than previously assumed.
+  JOURNAL   Biochem Pharmacol 80:2021-31 (2010)
+            DOI:10.1016/j.bcp.2010.07.016
+REFERENCE   PMID:26655628
+  AUTHORS   Man SM, Kanneganti TD
+  TITLE     Converging roles of caspases in inflammasome activation, cell death and innate immunity.
+  JOURNAL   Nat Rev Immunol 16:7-21 (2016)
+            DOI:10.1038/nri.2015.7
+REFERENCE   PMID:27291964
+  AUTHORS   Broz P, Dixit VM
+  TITLE     Inflammasomes: mechanism of assembly, regulation and signalling.
+  JOURNAL   Nat Rev Immunol 16:407-20 (2016)
+            DOI:10.1038/nri.2016.58
+REFERENCE   PMID:25879280
+  AUTHORS   Man SM, Kanneganti TD
+  TITLE     Regulation of inflammasome activation.
+  JOURNAL   Immunol Rev 265:6-21 (2015)
+            DOI:10.1111/imr.12296
+REFERENCE   PMID:26549800
+  AUTHORS   Jo EK, Kim JK, Shin DM, Sasakawa C
+  TITLE     Molecular mechanisms regulating NLRP3 inflammasome activation.
+  JOURNAL   Cell Mol Immunol 13:148-59 (2016)
+            DOI:10.1038/cmi.2015.95
+REFERENCE   PMID:23846113
+  AUTHORS   Broz P, Monack DM
+  TITLE     Newly described pattern recognition receptors team up against intracellular pathogens.
+  JOURNAL   Nat Rev Immunol 13:551-65 (2013)
+            DOI:10.1038/nri3479
+REFERENCE   PMID:22430786
+  AUTHORS   Rathinam VA, Vanaja SK, Fitzgerald KA
+  TITLE     Regulation of inflammasome signaling.
+  JOURNAL   Nat Immunol 13:333-42 (2012)
+            DOI:10.1038/ni.2237
+REFERENCE   PMID:24840700
+  AUTHORS   Sutterwala FS, Haasken S, Cassel SL
+  TITLE     Mechanism of NLRP3 inflammasome activation.
+  JOURNAL   Ann N Y Acad Sci 1319:82-95 (2014)
+            DOI:10.1111/nyas.12458
+REFERENCE   PMID:23702978
+  AUTHORS   Latz E, Xiao TS, Stutz A
+  TITLE     Activation and regulation of the inflammasomes.
+  JOURNAL   Nat Rev Immunol 13:397-411 (2013)
+            DOI:10.1038/nri3452
+REFERENCE   PMID:25145756
+  AUTHORS   Blander JM
+  TITLE     A long-awaited merger of the pathways mediating host defence and programmed cell death.
+  JOURNAL   Nat Rev Immunol 14:601-18 (2014)
+            DOI:10.1038/nri3720
+REFERENCE   PMID:23215645
+  AUTHORS   von Moltke J, Ayres JS, Kofoed EM, Chavarria-Smith J, Vance RE
+  TITLE     Recognition of bacteria by inflammasomes.
+  JOURNAL   Annu Rev Immunol 31:73-106 (2013)
+            DOI:10.1146/annurev-immunol-032712-095944
+REFERENCE   PMID:25330206
+  AUTHORS   Abais JM, Xia M, Zhang Y, Boini KM, Li PL
+  TITLE     Redox regulation of NLRP3 inflammasomes: ROS as trigger or effector?
+  JOURNAL   Antioxid Redox Signal 22:1111-29 (2015)
+            DOI:10.1089/ars.2014.5994
+REFERENCE   PMID:25879288
+  AUTHORS   Storek KM, Monack DM
+  TITLE     Bacterial recognition pathways that lead to inflammasome activation.
+  JOURNAL   Immunol Rev 265:112-29 (2015)
+            DOI:10.1111/imr.12289
+REFERENCE   PMID:27012466
+  AUTHORS   Hu H, Sun SC
+  TITLE     Ubiquitin signaling in immune responses.
+  JOURNAL   Cell Res 26:457-83 (2016)
+            DOI:10.1038/cr.2016.40
+REFERENCE   PMID:26121197
+  AUTHORS   Guo H, Callaway JB, Ting JP
+  TITLE     Inflammasomes: mechanism of action, role in disease, and therapeutics.
+  JOURNAL   Nat Med 21:677-87 (2015)
+            DOI:10.1038/nm.3893
+REFERENCE   PMID:26482951
+  AUTHORS   Man SM, Kanneganti TD
+  TITLE     Gasdermin D: the long-awaited executioner of pyroptosis.
+  JOURNAL   Cell Res 25:1183-4 (2015)
+            DOI:10.1038/cr.2015.124
+REFERENCE   PMID:22819539
+  AUTHORS   Rathinam VA, Vanaja SK, Waggoner L, Sokolovska A, Becker C, Stuart LM, Leong JM, Fitzgerald KA
+  TITLE     TRIF licenses caspase-11-dependent NLRP3 inflammasome activation by gram-negative bacteria.
+  JOURNAL   Cell 150:606-19 (2012)
+            DOI:10.1016/j.cell.2012.07.007
+REFERENCE   PMID:21575908
+  AUTHORS   Kerur N, Veettil MV, Sharma-Walia N, Bottero V, Sadagopan S, Otageri P, Chandran B
+  TITLE     IFI16 acts as a nuclear pathogen sensor to induce the inflammasome in response to Kaposi Sarcoma-associated herpesvirus infection.
+  JOURNAL   Cell Host Microbe 9:363-75 (2011)
+            DOI:10.1016/j.chom.2011.04.008
+REFERENCE   PMID:29148036
+  AUTHORS   Heilig R, Broz P
+  TITLE     Function and mechanism of the pyrin inflammasome.
+  JOURNAL   Eur J Immunol 48:230-238 (2018)
+            DOI:10.1002/eji.201746947
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04620  Toll-like receptor signaling pathway
+KO_PATHWAY  ko04621
+///

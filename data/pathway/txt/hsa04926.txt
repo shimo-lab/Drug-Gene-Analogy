@@ -1,0 +1,239 @@
+ENTRY       hsa04926                    Pathway
+NAME        Relaxin signaling pathway - Homo sapiens (human)
+DESCRIPTION Human relaxin-2 ("relaxin"), originally identified as a peptidic hormone of pregnancy, is now known to exert a range of pleiotropic effects including vasodilatory, anti-fibrotic and angiogenic effects in both males and females. It belongs to the so-called relaxin peptide family which includes the insulin-like peptides INSL3 and INSL5, and relaxin-3 (H3) as well as relaxin. INSL3 has clearly defined specialist roles in male and female reproduction, relaxin-3 is primarily a neuropeptide involved in stress and metabolic control, and INSL5 is widely distributed particularly in the gastrointestinal tract. These members of relaxin peptide family exert such effects binding to different kinds of receptors, classified as relaxin family peptide (RXFP) receptors: RXFP1, RXFP2, RXFP3, and RXFP4. These G protein-coupled receptors predominantly bind relaxin, INSL3, relaxin-3, and INSL-5, respectively. RXFP1 activates a wide spectrum of signaling pathways to generate second messengers that include cAMP and nitric oxide, whereas RXFP2 activates a subset of these pathways. Both RXFP3 and RXFP4 inhibit cAMP production, and RXFP3 activate MAP kinases.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04926  Relaxin signaling pathway
+DRUG        D03517  Cipemastat (USAN/INN)
+            D10488  Serelaxin (USAN/INN)
+            D12181  Edasalonexent (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6013  RLN1; relaxin 1 [KO:K21998]
+            6019  RLN2; relaxin 2 [KO:K21998]
+            59350  RXFP1; relaxin family peptide receptor 1 [KO:K04306]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            7423  VEGFB; vascular endothelial growth factor B [KO:K16858]
+            7424  VEGFC; vascular endothelial growth factor C [KO:K05449]
+            2277  VEGFD; vascular endothelial growth factor D [KO:K05449]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            4843  NOS2; nitric oxide synthase 2 [KO:K13241] [EC:1.14.13.39]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            4313  MMP2; matrix metallopeptidase 2 [KO:K01398] [EC:3.4.24.24]
+            4318  MMP9; matrix metallopeptidase 9 [KO:K01403] [EC:3.4.24.35]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            4842  NOS1; nitric oxide synthase 1 [KO:K13240] [EC:1.14.13.39]
+            1906  EDN1; endothelin 1 [KO:K16366]
+            1910  EDNRB; endothelin receptor type B [KO:K04198]
+            4312  MMP1; matrix metallopeptidase 1 [KO:K01388] [EC:3.4.24.7]
+            4322  MMP13; matrix metallopeptidase 13 [KO:K07994] [EC:3.4.24.-]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7046  TGFBR1; transforming growth factor beta receptor 1 [KO:K04674] [EC:2.7.11.30]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            4087  SMAD2; SMAD family member 2 [KO:K04500]
+            59  ACTA2; actin alpha 2, smooth muscle [KO:K12313]
+            1277  COL1A1; collagen type I alpha 1 chain [KO:K06236]
+            1278  COL1A2; collagen type I alpha 2 chain [KO:K06236]
+            1281  COL3A1; collagen type III alpha 1 chain [KO:K19720]
+            1284  COL4A2; collagen type IV alpha 2 chain [KO:K06237]
+            1286  COL4A4; collagen type IV alpha 4 chain [KO:K06237]
+            1288  COL4A6; collagen type IV alpha 6 chain [KO:K06237]
+            1282  COL4A1; collagen type IV alpha 1 chain [KO:K06237]
+            1287  COL4A5; collagen type IV alpha 5 chain [KO:K06237]
+            1285  COL4A3; collagen type IV alpha 3 chain [KO:K06237]
+            3640  INSL3; insulin like 3 [KO:K21999]
+            122042  RXFP2; relaxin family peptide receptor 2 [KO:K04307]
+            117579  RLN3; relaxin 3 [KO:K22000]
+            51289  RXFP3; relaxin family peptide receptor 3 [KO:K08397]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            6464  SHC1; SHC adaptor protein 1 [KO:K06279]
+            25759  SHC2; SHC adaptor protein 2 [KO:K17447]
+            53358  SHC3; SHC adaptor protein 3 [KO:K17448]
+            399694  SHC4; SHC adaptor protein 4 [KO:K17449]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            408  ARRB1; arrestin beta 1 [KO:K04439]
+            409  ARRB2; arrestin beta 2 [KO:K04439]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            10022  INSL5; insulin like 5 [KO:K22001]
+            339403  RXFP4; relaxin family peptide/INSL5 receptor 4 [KO:K08398]
+            2769  GNA15; G protein subunit alpha 15 [KO:K04637]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00533  Nitric oxide
+            C00575  3',5'-Cyclic AMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:23303914
+  AUTHORS   Bathgate RA, Halls ML, van der Westhuizen ET, Callander GE, Kocan M, Summers RJ
+  TITLE     Relaxin family peptides and their receptors.
+  JOURNAL   Physiol Rev 93:405-80 (2013)
+            DOI:10.1152/physrev.00001.2012
+REFERENCE   PMID:23401142
+  AUTHORS   Cernaro V, Lacquaniti A, Lupica R, Buemi A, Trimboli D, Giorgianni G, Bolignano D, Buemi M
+  TITLE     Relaxin: new pathophysiological aspects and pharmacological perspectives for an old protein.
+  JOURNAL   Med Res Rev 34:77-105 (2014)
+            DOI:10.1002/med.21277
+REFERENCE   PMID:18675759
+  AUTHORS   van der Westhuizen ET, Halls ML, Samuel CS, Bathgate RA, Unemori EN, Sutton SW, Summers RJ
+  TITLE     Relaxin family peptide receptors--from orphans to therapeutic targets.
+  JOURNAL   Drug Discov Today 13:640-51 (2008)
+            DOI:10.1016/j.drudis.2008.04.002
+REFERENCE   PMID:17293890
+  AUTHORS   Halls ML, van der Westhuizen ET, Bathgate RA, Summers RJ
+  TITLE     Relaxin family peptide receptors--former orphans reunite with their parent ligands to activate multiple signalling pathways.
+  JOURNAL   Br J Pharmacol 150:677-91 (2007)
+            DOI:10.1038/sj.bjp.0707140
+REFERENCE   PMID:16507880
+  AUTHORS   Bathgate RA, Ivell R, Sanborn BM, Sherwood OD, Summers RJ
+  TITLE     International Union of Pharmacology LVII: recommendations for the nomenclature of receptors for relaxin family peptides.
+  JOURNAL   Pharmacol Rev 58:7-31 (2006)
+            DOI:10.1124/pr.58.1.9
+REFERENCE   PMID:19935741
+  AUTHORS   Du XJ, Bathgate RA, Samuel CS, Dart AM, Summers RJ
+  TITLE     Cardiovascular effects of relaxin: from basic science to clinical therapy.
+  JOURNAL   Nat Rev Cardiol 7:48-58 (2010)
+            DOI:10.1038/nrcardio.2009.198
+REFERENCE   PMID:12646076
+  AUTHORS   Nistri S, Bani D
+  TITLE     Relaxin receptors and nitric oxide synthases: search for the missing link.
+  JOURNAL   Reprod Biol Endocrinol 1:5 (2003)
+            DOI:10.1186/1477-7827-1-5
+REFERENCE   PMID:17458501
+  AUTHORS   Samuel CS, Hewitson TD, Unemori EN, Tang ML
+  TITLE     Drugs of the future: the hormone relaxin.
+  JOURNAL   Cell Mol Life Sci 64:1539-57 (2007)
+            DOI:10.1007/s00018-007-6543-y
+REFERENCE   PMID:23883673
+  AUTHORS   Sasser JM
+  TITLE     The emerging role of relaxin as a novel therapeutic pathway in the treatment of chronic kidney disease.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 305:R559-65 (2013)
+            DOI:10.1152/ajpregu.00528.2012
+REFERENCE   PMID:27239943
+  AUTHORS   Sarwar M, Du XJ, Dschietzig TB, Summers RJ
+  TITLE     The actions of relaxin on the human cardiovascular system.
+  JOURNAL   Br J Pharmacol 174:933-949 (2017)
+            DOI:10.1111/bph.13523
+REFERENCE   PMID:15956688
+  AUTHORS   Bathgate RA, Ivell R, Sanborn BM, Sherwood OD, Summers RJ
+  TITLE     Receptors for relaxin family peptides.
+  JOURNAL   Ann N Y Acad Sci 1041:61-76 (2005)
+            DOI:10.1196/annals.1282.010
+REFERENCE   PMID:22936987
+  AUTHORS   Chow BS, Chew EG, Zhao C, Bathgate RA, Hewitson TD, Samuel CS
+  TITLE     Relaxin signals through a RXFP1-pERK-nNOS-NO-cGMP-dependent pathway to up-regulate matrix metalloproteinases: the additional involvement of iNOS.
+  JOURNAL   PLoS One 7:e42714 (2012)
+            DOI:10.1371/journal.pone.0042714
+REFERENCE   PMID:16814863
+  AUTHORS   Samuel CS, Du XJ, Bathgate RA, Summers RJ
+  TITLE     'Relaxin' the stiffened heart and arteries: the therapeutic potential for relaxin in the treatment of cardiovascular disease.
+  JOURNAL   Pharmacol Ther 112:529-52 (2006)
+            DOI:10.1016/j.pharmthera.2005.05.012
+REFERENCE   PMID:25759289
+  AUTHORS   Wilson SS, Ayaz SI, Levy PD
+  TITLE     Relaxin: a novel agent for the treatment of acute heart failure.
+  JOURNAL   Pharmacotherapy 35:315-27 (2015)
+            DOI:10.1002/phar.1548
+REFERENCE   PMID:16569707
+  AUTHORS   Halls ML, Bathgate RA, Summers RJ
+  TITLE     Relaxin family peptide receptors RXFP1 and RXFP2 modulate cAMP signaling by distinct mechanisms.
+  JOURNAL   Mol Pharmacol 70:214-26 (2006)
+            DOI:10.1124/mol.105.021691
+REFERENCE   PMID:26294284
+  AUTHORS   Kocan M, Ang SY, Summers RJ
+  TITLE     Orthosteric, Allosteric and Biased Signalling at the Relaxin-3 Receptor RXFP3.
+  JOURNAL   Neurochem Res 41:610-9 (2016)
+            DOI:10.1007/s11064-015-1701-3
+REFERENCE   PMID:17351017
+  AUTHORS   van der Westhuizen ET, Werry TD, Sexton PM, Summers RJ
+  TITLE     The relaxin family peptide receptor 3 activates extracellular signal-regulated kinase 1/2 through a protein kinase C-dependent mechanism.
+  JOURNAL   Mol Pharmacol 71:1618-29 (2007)
+            DOI:10.1124/mol.106.032763
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04270  Vascular smooth muscle contraction
+            hsa04350  TGF-beta signaling pathway
+            hsa04370  VEGF signaling pathway
+KO_PATHWAY  ko04926
+///

@@ -1,0 +1,146 @@
+ENTRY       hsa05110                    Pathway
+NAME        Vibrio cholerae infection - Homo sapiens (human)
+DESCRIPTION Cholera toxin (CTX) is one of the main virulence factors of Vibrio cholerae. Once secreted, CTX B-chain (CTXB) binds to ganglioside GM1 on the surface of the host's cells. After binding takes place, the entire CTX complex is carried from plasma membrane (PM) to endoplasmic reticulum (ER). In the ER, the A-chain (CTXA) is recognized by protein disulfide isomerase (PDI), unfolded, and delivered to the membrane where the membrane-associated ER-oxidase, Ero1, oxidizes PDI to release the CTXA into the protein-conducting channel, Sec61. CTXA is then retro-translocated to the cytosol and induces water and electrolyte secretion by increasing cAMP levels via adenylate cyclase (AC) to exert toxicity.
+            Other than CTX, Vibrio cholerae generates several toxins that are perilous to eukaryotic cells. Zonula occludens toxin (ZOT) causes tight junction disruption through protein kinase C-dependent actin polymerization. RTX toxin (RtxA) causes actin depolymerization by covalently cross-linking actin monomers into dimers, trimers, and higher multimers. Vibrio cholerae cytolysin (VCC) is an important pore-forming toxin. The assembly of VCC anion channels in cells cause vacuolization and lysis.
+CLASS       Human Diseases; Infectious disease: bacterial
+PATHWAY_MAP hsa05110  Vibrio cholerae infection
+DISEASE     H00110  Cholera
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        523  ATP6V1A; ATPase H+ transporting V1 subunit A [KO:K02145] [EC:7.1.2.2]
+            525  ATP6V1B1; ATPase H+ transporting V1 subunit B1 [KO:K02147]
+            526  ATP6V1B2; ATPase H+ transporting V1 subunit B2 [KO:K02147]
+            245973  ATP6V1C2; ATPase H+ transporting V1 subunit C2 [KO:K02148]
+            528  ATP6V1C1; ATPase H+ transporting V1 subunit C1 [KO:K02148]
+            51382  ATP6V1D; ATPase H+ transporting V1 subunit D [KO:K02149]
+            90423  ATP6V1E2; ATPase H+ transporting V1 subunit E2 [KO:K02150]
+            529  ATP6V1E1; ATPase H+ transporting V1 subunit E1 [KO:K02150]
+            9296  ATP6V1F; ATPase H+ transporting V1 subunit F [KO:K02151]
+            9550  ATP6V1G1; ATPase H+ transporting V1 subunit G1 [KO:K02152]
+            127124  ATP6V1G3; ATPase H+ transporting V1 subunit G3 [KO:K02152]
+            534  ATP6V1G2; ATPase H+ transporting V1 subunit G2 [KO:K02152]
+            8992  ATP6V0E1; ATPase H+ transporting V0 subunit e1 [KO:K02153]
+            155066  ATP6V0E2; ATPase H+ transporting V0 subunit e2 [KO:K02153]
+            10312  TCIRG1; T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [KO:K02154]
+            23545  ATP6V0A2; ATPase H+ transporting V0 subunit a2 [KO:K02154]
+            50617  ATP6V0A4; ATPase H+ transporting V0 subunit a4 [KO:K02154]
+            535  ATP6V0A1; ATPase H+ transporting V0 subunit a1 [KO:K02154]
+            9114  ATP6V0D1; ATPase H+ transporting V0 subunit d1 [KO:K02146]
+            245972  ATP6V0D2; ATPase H+ transporting V0 subunit d2 [KO:K02146]
+            51606  ATP6V1H; ATPase H+ transporting V1 subunit H [KO:K02144]
+            537  ATP6AP1; ATPase H+ transporting accessory protein 1 [KO:K03662]
+            527  ATP6V0C; ATPase H+ transporting V0 subunit c [KO:K02155]
+            533  ATP6V0B; ATPase H+ transporting V0 subunit b [KO:K03661]
+            10945  KDELR1; KDEL endoplasmic reticulum protein retention receptor 1 [KO:K10949]
+            11014  KDELR2; KDEL endoplasmic reticulum protein retention receptor 2 [KO:K10949]
+            11015  KDELR3; KDEL endoplasmic reticulum protein retention receptor 3 [KO:K10949]
+            9601  PDIA4; protein disulfide isomerase family A member 4 [KO:K09582] [EC:5.3.4.1]
+            30001  ERO1A; endoplasmic reticulum oxidoreductase 1 alpha [KO:K10950] [EC:1.8.4.-]
+            29927  SEC61A1; SEC61 translocon subunit alpha 1 [KO:K10956]
+            55176  SEC61A2; SEC61 translocon subunit alpha 2 [KO:K10956]
+            10952  SEC61B; SEC61 translocon subunit beta [KO:K09481]
+            23480  SEC61G; SEC61 translocon subunit gamma [KO:K07342]
+            375  ARF1; ADP ribosylation factor 1 [KO:K07937]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1080  CFTR; CF transmembrane conductance regulator [KO:K05031] [EC:5.6.1.6]
+            3784  KCNQ1; potassium voltage-gated channel subfamily Q member 1 [KO:K04926]
+            6558  SLC12A2; solute carrier family 12 member 2 [KO:K10951]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            7082  TJP1; tight junction protein 1 [KO:K05701]
+            9414  TJP2; tight junction protein 2 [KO:K06098]
+COMPOUND    C00014  Ammonia
+            C00080  H+
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00575  3',5'-Cyclic AMP
+            C00698  Cl-
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C04911  D-Galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide
+REFERENCE   PMID:10942706
+  AUTHORS   Trucksis M, Conn TL, Wasserman SS, Sears CL.
+  TITLE     Vibrio cholerae ACE stimulates Ca(2+)-dependent Cl(-)/HCO(3)(-) secretion in T84 cells in vitro.
+  JOURNAL   Am J Physiol Cell Physiol 279:C567-77 (2000)
+            DOI:10.1152/ajpcell.2000.279.3.C567
+REFERENCE   PMID:11032799
+  AUTHORS   Fullner KJ, Mekalanos JJ.
+  TITLE     In vivo covalent cross-linking of cellular actin by the Vibrio cholerae RTX toxin.
+  JOURNAL   EMBO J 19:5315-23 (2000)
+            DOI:10.1093/emboj/19.20.5315
+REFERENCE   PMID:11292584
+  AUTHORS   Lencer WI.
+  TITLE     Microbes and microbial Toxins: paradigms for microbial-mucosal toxins. V. Cholera: invasion of the intestinal epithelial barrier by a stably folded protein toxin.
+  JOURNAL   Am J Physiol Gastrointest Liver Physiol 280:G781-6 (2001)
+            DOI:10.1152/ajpgi.2001.280.5.G781
+REFERENCE   PMID:12102686
+  AUTHORS   Moschioni M, Tombola F, de Bernard M, Coelho A, Zitzer A, Zoratti M, Montecucco C.
+  TITLE     The Vibrio cholerae haemolysin anion channel is required for cell vacuolation and death.
+  JOURNAL   Cell Microbiol 4:397-409 (2002)
+            DOI:10.1046/j.1462-5822.2002.00199.x
+REFERENCE   PMID:12403808
+  AUTHORS   Tsai B, Rapoport TA.
+  TITLE     Unfolded cholera toxin is transferred to the ER membrane and released from protein disulfide isomerase upon oxidation by Ero1.
+  JOURNAL   J Cell Biol 159:207-16 (2002)
+            DOI:10.1083/jcb.200207120
+REFERENCE   PMID:13679513
+  AUTHORS   Fujinaga Y, Wolf AA, Rodighiero C, Wheeler H, Tsai B, Allen L, Jobling MG, Rapoport T, Holmes RK, Lencer WI.
+  TITLE     Gangliosides that associate with lipid rafts mediate transport of cholera and related toxins from the plasma membrane to endoplasmic reticulm.
+  JOURNAL   Mol Biol Cell 14:4783-93 (2003)
+            DOI:10.1091/mbc.E03-06-0354
+REFERENCE   PMID:11953326
+  AUTHORS   Fasano A.
+  TITLE     Toxins and the gut: role in human disease.
+  JOURNAL   Gut 50 Suppl 3:III9-14 (2002)
+            DOI:10.1136/gut.50.suppl_3.iii9
+REFERENCE   PMID:11207565
+  AUTHORS   Uzzau S, Fasano A.
+  TITLE     Cross-talk between enteric pathogens and the intestine.
+  JOURNAL   Cell Microbiol 2:83-9 (2000)
+            DOI:10.1046/j.1462-5822.2000.00041.x
+REFERENCE   PMID:11349009
+  AUTHORS   Sandkvist M.
+  TITLE     Type II secretion and pathogenesis.
+  JOURNAL   Infect Immun 69:3523-35 (2001)
+            DOI:10.1128/IAI.69.6.3523-3535.2001
+REFERENCE   PMID:12671039
+  AUTHORS   Field M.
+  TITLE     Intestinal ion transport and the pathophysiology of diarrhea.
+  JOURNAL   J Clin Invest 111:931-43 (2003)
+            DOI:10.1172/JCI18326
+REFERENCE   PMID:14659695
+  AUTHORS   Lencer WI, Tsai B.
+  TITLE     The intracellular voyage of cholera toxin: going retro.
+  JOURNAL   Trends Biochem Sci 28:639-45 (2003)
+            DOI:10.1016/j.tibs.2003.10.002
+REFERENCE   PMID:15204437
+  AUTHORS   De Haan L, Hirst TR.
+  TITLE     Cholera toxin: a paradigm for multi-functional engagement of cellular mechanisms (Review).
+  JOURNAL   Mol Membr Biol 21:77-92 (2004)
+            DOI:10.1080/09687680410001663267
+REFERENCE   PMID:17156122
+  AUTHORS   Chinnapen DJ, Chinnapen H, Saslowsky D, Lencer WI.
+  TITLE     Rafting with cholera toxin: endocytosis and trafficking from plasma membrane to ER.
+  JOURNAL   FEMS Microbiol Lett 266:129-37 (2007)
+            DOI:10.1111/j.1574-6968.2006.00545.x
+REFERENCE   PMID:17464284
+  AUTHORS   Sheahan KL, Cordero CL, Satchell KJ.
+  TITLE     Autoprocessing of the Vibrio cholerae RTX toxin by the cysteine protease domain.
+  JOURNAL   EMBO J 26:2552-61 (2007)
+            DOI:10.1038/sj.emboj.7601700
+REFERENCE   PMID:11454785
+  AUTHORS   Fasano A.
+  TITLE     Intestinal zonulin: open sesame!
+  JOURNAL   Gut 49:159-62 (2001)
+            DOI:10.1136/gut.49.2.159
+REL_PATHWAY hsa00190  Oxidative phosphorylation
+            hsa04530  Tight junction
+KO_PATHWAY  ko05110
+///

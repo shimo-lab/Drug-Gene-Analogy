@@ -1,0 +1,135 @@
+ENTRY       hsa04146                    Pathway
+NAME        Peroxisome - Homo sapiens (human)
+DESCRIPTION Peroxisomes are essential organelles that play a key role in redox signalling and lipid homeostasis. They contribute to many crucial metabolic processes such as fatty acid oxidation, biosynthesis of ether lipids and free radical detoxification. The biogenesis of peroxisomes starts with the early peroxins PEX3, PEX16 and PEX19 and proceeds via several steps. The import of membrane proteins into peroxisomes needs PEX19 for recognition, targeting and insertion via docking at PEX3. Matrix proteins in the cytosol are recognized by peroxisomal targeting signals (PTS) and transported to the docking complex at the peroxisomal membrane. Peroxisomes' deficiencies lead to severe and often fatal inherited peroxisomal disorders (PD). PDs are usually classified in two groups. The first group is disorders of peroxisome biogenesis which include Zellweger syndrome, and the second group is single peroxisomal enzyme deficiencies.
+CLASS       Cellular Processes; Transport and catabolism
+PATHWAY_MAP hsa04146  Peroxisome
+DRUG        D00224  Allopurinol (JP18/USP/INN)
+            D01206  Febuxostat (JAN/USAN/INN)
+            D02365  Oxypurinol (USAN)
+            D02896  Amflutizole (USAN/INN)
+            D07278  Tisopurine (INN)
+            D10901  Enasidenib (USAN/INN)
+            D11044  Enasidenib mesylate (USAN)
+            D11081  Febuxostat hydrate (JAN)
+            D11090  Ivosidenib (JAN/USAN/INN)
+            D11811  Tofersen (JAN/USAN/INN)
+            D11834  Vorasidenib (USAN/INN)
+            D11835  Vorasidenib citrate (USAN)
+            D11925  Lumasiran (USAN/INN)
+            D11926  Lumasiran sodium
+            D12150  Elivaldogene autotemcel (USAN/INN)
+            D12483  Olutasidenib (USAN/INN)
+DBLINKS     GO: 0005777
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        9409  PEX16; peroxisomal biogenesis factor 16 [KO:K13335]
+            8504  PEX3; peroxisomal biogenesis factor 3 [KO:K13336]
+            5824  PEX19; peroxisomal biogenesis factor 19 [KO:K13337]
+            5825  ABCD3; ATP binding cassette subfamily D member 3 [KO:K05677] [EC:7.6.2.4]
+            5189  PEX1; peroxisomal biogenesis factor 1 [KO:K13338]
+            5190  PEX6; peroxisomal biogenesis factor 6 [KO:K13339]
+            55670  PEX26; peroxisomal biogenesis factor 26 [KO:K13340]
+            5191  PEX7; peroxisomal biogenesis factor 7 [KO:K13341]
+            5830  PEX5; peroxisomal biogenesis factor 5 [KO:K13342]
+            51555  PEX5L; peroxisomal biogenesis factor 5 like [KO:K13342]
+            5195  PEX14; peroxisomal biogenesis factor 14 [KO:K13343]
+            5194  PEX13; peroxisomal biogenesis factor 13 [KO:K13344]
+            5193  PEX12; peroxisomal biogenesis factor 12 [KO:K13345]
+            5192  PEX10; peroxisomal biogenesis factor 10 [KO:K13346]
+            5828  PEX2; peroxisomal biogenesis factor 2 [KO:K06664]
+            5827  PXMP2; peroxisomal membrane protein 2 [KO:K13347]
+            4358  MPV17; mitochondrial inner membrane protein MPV17 [KO:K13348]
+            84769  MPV17L2; MPV17 mitochondrial inner membrane protein like 2 [KO:K13348]
+            255027  MPV17L; MPV17 mitochondrial inner membrane protein like [KO:K13349]
+            11264  PXMP4; peroxisomal membrane protein 4 [KO:K13350]
+            8800  PEX11A; peroxisomal biogenesis factor 11 alpha [KO:K13351]
+            8799  PEX11B; peroxisomal biogenesis factor 11 beta [KO:K13352]
+            92960  PEX11G; peroxisomal biogenesis factor 11 gamma [KO:K13353]
+            10478  SLC25A17; solute carrier family 25 member 17 [KO:K13354]
+            26061  HACL1; 2-hydroxyacyl-CoA lyase 1 [KO:K12261] [EC:4.1.2.63]
+            23600  AMACR; alpha-methylacyl-CoA racemase [KO:K01796] [EC:5.1.99.4]
+            5264  PHYH; phytanoyl-CoA 2-hydroxylase [KO:K00477] [EC:1.14.11.18]
+            8310  ACOX3; acyl-CoA oxidase 3, pristanoyl [KO:K00232] [EC:1.3.3.6]
+            51  ACOX1; acyl-CoA oxidase 1 [KO:K00232] [EC:1.3.3.6]
+            8309  ACOX2; acyl-CoA oxidase 2 [KO:K10214] [EC:1.17.99.3]
+            3295  HSD17B4; hydroxysteroid 17-beta dehydrogenase 4 [KO:K12405] [EC:1.1.1.- 4.2.1.107 4.2.1.119]
+            6342  SCP2; sterol carrier protein 2 [KO:K08764] [EC:2.3.1.176]
+            570  BAAT; bile acid-CoA:amino acid N-acyltransferase [KO:K00659] [EC:2.3.1.65 3.1.2.2]
+            1962  EHHADH; enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [KO:K07514] [EC:4.2.1.17 1.1.1.35 5.3.3.8]
+            30  ACAA1; acetyl-CoA acyltransferase 1 [KO:K07513] [EC:2.3.1.16]
+            26063  DECR2; 2,4-dienoyl-CoA reductase 2 [KO:K13237] [EC:1.3.1.124]
+            1891  ECH1; enoyl-CoA hydratase 1 [KO:K12663] [EC:5.3.3.21]
+            215  ABCD1; ATP binding cassette subfamily D member 1 [KO:K05675] [EC:7.6.2.4]
+            225  ABCD2; ATP binding cassette subfamily D member 2 [KO:K05676] [EC:7.6.2.4]
+            5826  ABCD4; ATP binding cassette subfamily D member 4 [KO:K05678] [EC:7.6.2.8]
+            11001  SLC27A2; solute carrier family 27 member 2 [KO:K08746] [EC:6.2.1.- 6.2.1.3]
+            23305  ACSL6; acyl-CoA synthetase long chain family member 6 [KO:K01897] [EC:6.2.1.3]
+            2182  ACSL4; acyl-CoA synthetase long chain family member 4 [KO:K01897] [EC:6.2.1.3]
+            2180  ACSL1; acyl-CoA synthetase long chain family member 1 [KO:K01897] [EC:6.2.1.3]
+            51703  ACSL5; acyl-CoA synthetase long chain family member 5 [KO:K01897] [EC:6.2.1.3]
+            2181  ACSL3; acyl-CoA synthetase long chain family member 3 [KO:K01897] [EC:6.2.1.3]
+            55825  PECR; peroxisomal trans-2-enoyl-CoA reductase [KO:K07753] [EC:1.3.1.38]
+            10455  ECI2; enoyl-CoA delta isomerase 2 [KO:K13239] [EC:5.3.3.8]
+            283927  NUDT7; nudix hydrolase 7 [KO:K17879] [EC:3.6.1.-]
+            83594  NUDT12; nudix hydrolase 12 [KO:K03426] [EC:3.6.1.22]
+            390916  NUDT19; nudix hydrolase 19 [KO:K13355] [EC:3.6.1.-]
+            10005  ACOT8; acyl-CoA thioesterase 8 [KO:K11992] [EC:3.1.2.27]
+            1384  CRAT; carnitine O-acetyltransferase [KO:K00624] [EC:2.3.1.7]
+            54677  CROT; carnitine O-octanoyltransferase [KO:K05940] [EC:2.3.1.137]
+            23417  MLYCD; malonyl-CoA decarboxylase [KO:K01578] [EC:4.1.1.9]
+            8443  GNPAT; glyceronephosphate O-acyltransferase [KO:K00649] [EC:2.3.1.42]
+            8540  AGPS; alkylglycerone phosphate synthase [KO:K00803] [EC:2.5.1.26]
+            55711  FAR2; fatty acyl-CoA reductase 2 [KO:K13356] [EC:1.2.1.84]
+            84188  FAR1; fatty acyl-CoA reductase 1 [KO:K13356] [EC:1.2.1.84]
+            4598  MVK; mevalonate kinase [KO:K00869] [EC:2.7.1.36]
+            10654  PMVK; phosphomevalonate kinase [KO:K13273] [EC:2.7.4.2]
+            189  AGXT; alanine--glyoxylate aminotransferase [KO:K00830] [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+            1610  DAO; D-amino acid oxidase [KO:K00273] [EC:1.4.3.3]
+            8528  DDO; D-aspartate oxidase [KO:K00272] [EC:1.4.3.1]
+            3417  IDH1; isocitrate dehydrogenase (NADP(+)) 1 [KO:K00031] [EC:1.1.1.42]
+            3418  IDH2; isocitrate dehydrogenase (NADP(+)) 2 [KO:K00031] [EC:1.1.1.42]
+            196743  PAOX; polyamine oxidase [KO:K00308] [EC:1.5.3.13]
+            51268  PIPOX; pipecolic acid and sarcosine oxidase [KO:K00306] [EC:1.5.3.1 1.5.3.7]
+            3155  HMGCL; 3-hydroxy-3-methylglutaryl-CoA lyase [KO:K01640] [EC:4.1.3.4]
+            54511  HMGCLL1; 3-hydroxymethyl-3-methylglutaryl-CoA lyase like 1 [KO:K01640] [EC:4.1.3.4]
+            51179  HAO2; hydroxyacid oxidase 2 [KO:K11517] [EC:1.1.3.15]
+            54363  HAO1; hydroxyacid oxidase 1 [KO:K11517] [EC:1.1.3.15]
+            847  CAT; catalase [KO:K03781] [EC:1.11.1.6]
+            25824  PRDX5; peroxiredoxin 5 [KO:K11187] [EC:1.11.1.24]
+            6647  SOD1; superoxide dismutase 1 [KO:K04565] [EC:1.15.1.1]
+            6648  SOD2; superoxide dismutase 2 [KO:K04564] [EC:1.15.1.1]
+            4843  NOS2; nitric oxide synthase 2 [KO:K13241] [EC:1.14.13.39]
+            5052  PRDX1; peroxiredoxin 1 [KO:K13279] [EC:1.11.1.24]
+            2053  EPHX2; epoxide hydrolase 2 [KO:K08726] [EC:3.3.2.10 3.1.3.76]
+            373156  GSTK1; glutathione S-transferase kappa 1 [KO:K13299] [EC:2.5.1.18]
+            7498  XDH; xanthine dehydrogenase [KO:K00106] [EC:1.17.1.4 1.17.3.2]
+            10901  DHRS4; dehydrogenase/reductase 4 [KO:K11147] [EC:1.1.-.-]
+REFERENCE   PMID:17055078
+  AUTHORS   Wanders RJ, Waterham HR
+  TITLE     Peroxisomal disorders: the single peroxisomal enzyme deficiencies.
+  JOURNAL   Biochim Biophys Acta 1763:1707-20 (2006)
+            DOI:10.1016/j.bbamcr.2006.08.010
+REFERENCE   PMID:17055079
+  AUTHORS   Steinberg SJ, Dodt G, Raymond GV, Braverman NE, Moser AB, Moser HW
+  TITLE     Peroxisome biogenesis disorders.
+  JOURNAL   Biochim Biophys Acta 1763:1733-48 (2006)
+            DOI:10.1016/j.bbamcr.2006.09.010
+REFERENCE   PMID:17010456
+  AUTHORS   Rottensteiner H, Theodoulou FL
+  TITLE     The ins and outs of peroxisomes: co-ordination of membrane transport and peroxisomal metabolism.
+  JOURNAL   Biochim Biophys Acta 1763:1527-40 (2006)
+            DOI:10.1016/j.bbamcr.2006.08.012
+REFERENCE   PMID:16631601
+  AUTHORS   Iida R, Yasuda T, Tsubota E, Takatsuka H, Matsuki T, Kishi K
+  TITLE     Human Mpv17-like protein is localized in peroxisomes and regulates expression of antioxidant enzymes.
+  JOURNAL   Biochem Biophys Res Commun 344:948-54 (2006)
+            DOI:10.1016/j.bbrc.2006.04.008
+REL_PATHWAY hsa00071  Fatty acid degradation
+            hsa00120  Primary bile acid biosynthesis
+            hsa00230  Purine metabolism
+            hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00830  Retinol metabolism
+            hsa00900  Terpenoid backbone biosynthesis
+            hsa03320  PPAR signaling pathway
+KO_PATHWAY  ko04146
+///

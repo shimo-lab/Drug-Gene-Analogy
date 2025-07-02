@@ -1,0 +1,43 @@
+ENTRY       hsa00290                    Pathway
+NAME        Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP hsa00290  Valine, leucine and isoleucine biosynthesis
+DBLINKS     GO: 0009097 0009098 0009099
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10993  SDS; serine dehydratase [KO:K17989] [EC:4.3.1.17 4.3.1.19]
+            113675  SDSL; serine dehydratase like [KO:K17989] [EC:4.3.1.17 4.3.1.19]
+            587  BCAT2; branched chain amino acid transaminase 2 [KO:K00826] [EC:2.6.1.42]
+            586  BCAT1; branched chain amino acid transaminase 1 [KO:K00826] [EC:2.6.1.42]
+COMPOUND    C00022  Pyruvate
+            C00024  Acetyl-CoA
+            C00109  2-Oxobutanoate
+            C00123  L-Leucine
+            C00141  3-Methyl-2-oxobutanoic acid
+            C00183  L-Valine
+            C00188  L-Threonine
+            C00233  4-Methyl-2-oxopentanoate
+            C00407  L-Isoleucine
+            C00671  (S)-3-Methyl-2-oxopentanoic acid
+            C02226  2-Methylmaleate
+            C02504  alpha-Isopropylmalate
+            C02612  (R)-2-Methylmalate
+            C02631  2-Isopropylmaleate
+            C04181  3-Hydroxy-3-methyl-2-oxobutanoic acid
+            C04236  (2S)-2-Isopropyl-3-oxosuccinate
+            C04272  (R)-2,3-Dihydroxy-3-methylbutanoate
+            C04411  (2R,3S)-3-Isopropylmalate
+            C06006  (S)-2-Aceto-2-hydroxybutanoate
+            C06007  (R)-2,3-Dihydroxy-3-methylpentanoate
+            C06010  (S)-2-Acetolactate
+            C06032  D-erythro-3-Methylmalate
+            C14463  (R)-3-Hydroxy-3-methyl-2-oxopentanoate
+REFERENCE   PMID:15292141
+  AUTHORS   Xu H, Zhang Y, Guo X, Ren S, Staempfli AA, Chiao J, Jiang W, Zhao G.
+  TITLE     Isoleucine biosynthesis in Leptospira interrogans serotype lai strain 56601 proceeds via a threonine-independent pathway.
+  JOURNAL   J Bacteriol 186:5400-9 (2004)
+            DOI:10.1128/JB.186.16.5400-5409.2004
+REL_PATHWAY hsa00260  Glycine, serine and threonine metabolism
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00620  Pyruvate metabolism
+KO_PATHWAY  ko00290
+///

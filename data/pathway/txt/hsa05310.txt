@@ -1,0 +1,111 @@
+ENTRY       hsa05310                    Pathway
+NAME        Asthma - Homo sapiens (human)
+DESCRIPTION Asthma is a complex syndrome with many clinical phenotypes in both adults and children. Its major characteristics include a variable degree of airflow obstruction, bronchial hyperresponsiveness, and airway inflammation. Inhaled allergens encounter antigen presenting cells (APC) that line the airway. Upon recognition of the antigen and activation by APC, naive T cells differentiate into TH2 cells. Activated TH2 stimulate the formation of IgE by B cells. IgE molecules bind to IgE receptors located on mast cells. The crosslinking of mast-cell-bound IgE by allergens leads to the release of biologically active mediators (histamine, leukotrienes) by means of degranulation and, so, to the immediate symptoms of allergy. Mast cells also release chemotactic factors that contribute to the recruitment of inflammatory cells, particularly eosinophils, whose proliferation and differentiation from bone marrow progenitors is promoted by IL-5. The activation of eosinophils leads to release of toxic granules and oxygen free radicals that lead to tissue damage and promote the development of chronic inflammation.
+CLASS       Human Diseases; Immune disease
+PATHWAY_MAP hsa05310  Asthma
+DISEASE     H00079  Asthma
+DRUG        D04923  Mepolizumab (USAN/INN)
+            D05251  Omalizumab (USAN/INN)
+            D09633  Lebrikizumab (USAN/INN)
+            D09897  Enokizumab (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            3565  IL4; interleukin 4 [KO:K05430]
+            959  CD40LG; CD40 ligand [KO:K03161]
+            958  CD40; CD40 molecule [KO:K03160]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            2205  FCER1A; Fc epsilon receptor Ia [KO:K08089]
+            2206  MS4A2; membrane spanning 4-domains A2 [KO:K08090]
+            2207  FCER1G; Fc epsilon receptor Ig [KO:K07983]
+            3578  IL9; interleukin 9 [KO:K05432]
+            3586  IL10; interleukin 10 [KO:K05443]
+            3596  IL13; interleukin 13 [KO:K05435]
+            3567  IL5; interleukin 5 [KO:K05428]
+            6356  CCL11; C-C motif chemokine ligand 11 [KO:K16597]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3562  IL3; interleukin 3 [KO:K04736]
+            5553  PRG2; proteoglycan 2, pro eosinophil major basic protein [KO:K10786]
+            6037  RNASE3; ribonuclease A family member 3 [KO:K10787] [EC:3.1.27.-]
+            8288  EPX; eosinophil peroxidase [KO:K10788] [EC:1.11.1.7]
+COMPOUND    C00388  Histamine
+            C00696  Prostaglandin D2
+            C02166  Leukotriene C4
+            C04598  2-Acetyl-1-alkyl-sn-glycero-3-phosphocholine
+            C05951  Leukotriene D4
+REFERENCE   PMID:11172168
+  AUTHORS   Busse WW, Lemanske RF Jr.
+  TITLE     Asthma.
+  JOURNAL   N Engl J Med 344:350-62 (2001)
+            DOI:10.1056/NEJM200102013440507
+REFERENCE   PMID:11477111
+  AUTHORS   Renauld JC.
+  TITLE     New insights into the role of cytokines in asthma.
+  JOURNAL   J Clin Pathol 54:577-89 (2001)
+            DOI:10.1136/jcp.54.8.577
+REFERENCE   PMID:10719286
+  AUTHORS   Romagnani S.
+  TITLE     The role of lymphocytes in allergic disease.
+  JOURNAL   J Allergy Clin Immunol 105:399-408 (2000)
+            DOI:10.1067/mai.2000.104575
+REFERENCE   PMID:17976144
+  AUTHORS   Averbeck M, Gebhardt C, Emmrich F, Treudler R, Simon JC.
+  TITLE     Immunologic principles of allergic disease.
+  JOURNAL   J Dtsch Dermatol Ges 5:1015-28 (2007)
+            DOI:10.1111/j.1610-0387.2007.06538.x
+REFERENCE   PMID:11686879
+  AUTHORS   Conroy DM, Williams TJ.
+  TITLE     Eotaxin and the attraction of eosinophils to the asthmatic lung.
+  JOURNAL   Respir Res 2:150-6 (2001)
+            DOI:10.1186/rr52
+REFERENCE   PMID:17133123
+  AUTHORS   Effros RM, Nagaraj H.
+  TITLE     Asthma: new developments concerning immune mechanisms, diagnosis and treatment.
+  JOURNAL   Curr Opin Pulm Med 13:37-43 (2007)
+            DOI:10.1097/MCP.0b013e3280108757
+REFERENCE   PMID:18274560
+  AUTHORS   Barnes PJ.
+  TITLE     Immunology of asthma and chronic obstructive pulmonary disease.
+  JOURNAL   Nat Rev Immunol 8:183-92 (2008)
+            DOI:10.1038/nri2254
+REFERENCE   PMID:18274559
+  AUTHORS   Holgate ST, Polosa R.
+  TITLE     Treatment strategies for allergy and asthma.
+  JOURNAL   Nat Rev Immunol 8:218-30 (2008)
+            DOI:10.1038/nri2262
+REFERENCE   PMID:12093011
+  AUTHORS   Valenta R.
+  TITLE     The future of antigen-specific immunotherapy of allergy.
+  JOURNAL   Nat Rev Immunol 2:446-53 (2002)
+            DOI:10.1038/nri824
+REFERENCE   PMID:17364144
+  AUTHORS   Trivedi SG, Lloyd CM.
+  TITLE     Eosinophils in the pathogenesis of allergic airways disease.
+  JOURNAL   Cell Mol Life Sci 64:1269-89 (2007)
+            DOI:10.1007/s00018-007-6527-y
+REFERENCE   PMID:10811837
+  AUTHORS   Heinecke JW.
+  TITLE     Eosinophil-dependent bromination in the pathogenesis of asthma.
+  JOURNAL   J Clin Invest 105:1331-2 (2000)
+            DOI:10.1172/JCI10072
+REL_PATHWAY hsa04060  Cytokine-cytokine receptor interaction
+            hsa04514  Cell adhesion molecules
+            hsa04612  Antigen processing and presentation
+            hsa04630  JAK-STAT signaling pathway
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04664  Fc epsilon RI signaling pathway
+KO_PATHWAY  ko05310
+///

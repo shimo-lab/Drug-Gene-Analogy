@@ -1,0 +1,343 @@
+ENTRY       hsa05162                    Pathway
+NAME        Measles - Homo sapiens (human)
+DESCRIPTION Measles virus (MV) is highly contagious virus that leads infant death worldwide. Humans are the unique natural reservoir for this virus. MV infection is characterized by virus-induced immune suppression that can lead to increased susceptibility to secondary bacterial and viral infections. The P, V and C proteins act as virulence factors to suppress innate immune response in host by inhibiting signaling for both type I IFN induction and JAK/STAT-mediated interferon-stimulated gene (ISG) induction. Moreover,  H protein expressed on viral particles and binding to SLAM or CD46,  as well as N protein liberated from infected cells and interacting with Fc-gamma R, causes an inhibition of IL-12 synthesis in dendritic cells. IL-12 is a key cytokine inducing cellular immune responses to protect host from the harm caused by pathogenic infections.
+CLASS       Human Diseases; Infectious disease: viral
+PATHWAY_MAP hsa05162  Measles
+NETWORK     nt06114  PI3K signaling (viruses)
+            nt06122  IFN signaling (viruses)
+            nt06138  PKR-eIF2alpha signaling (viruses)
+            nt06140  Transcription (viruses)
+            nt06169  Measles virus (MV)
+            nt06517  TLR signaling
+            nt06519  RLR signaling
+  ELEMENT   N00684  MV F/H to CD28-PI3K signaling pathway
+            N00685  MV V to RIG-I-IRF7/3 signaling pathway
+            N00686  MV N to RIG-I-IRF7/3 signaling pathway
+            N00687  MV V/C to RIG-I-IRF7/3 signaling pathway
+            N00689  MV V/P/C to RIG-I-NFKB signaling pathway
+            N00691  MV V to TLR7/9-IRF7 signaling pathway
+            N00692  MV P to TLR2/4-NFKB signaling pathway
+            N00693  MV V/P to IFN signaling pathway
+            N00694  MV V/P/C to IFN signaling pathway
+            N00695  MV V to p73-mediated transcription
+            N00696  MV C to PKR-eIF2alpha signaling pathway
+            N00697  HV P to p53-mediated transcription
+DISEASE     H00394  Measles
+DRUG        D03305  Interferon alfa (NAMALWA) (JP18)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        4179  CD46; CD46 molecule [KO:K04007]
+            4478  MSN; moesin [KO:K05763]
+            6504  SLAMF1; signaling lymphocytic activation molecule family member 1 [KO:K06536]
+            10332  CLEC4M; C-type lectin domain family 4 member M [KO:K06563]
+            30835  CD209; CD209 molecule [KO:K06563]
+            23586  RIGI; RNA sensor RIG-I [KO:K12646] [EC:3.6.4.13]
+            64135  IFIH1; interferon induced with helicase C domain 1 [KO:K12647] [EC:3.6.4.13]
+            57506  MAVS; mitochondrial antiviral signaling protein [KO:K12648]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            51284  TLR7; toll like receptor 7 [KO:K05404]
+            54106  TLR9; toll like receptor 9 [KO:K10161]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            3665  IRF7; interferon regulatory factor 7 [KO:K09447]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            1457  CSNK2A1; casein kinase 2 alpha 1 [KO:K03097] [EC:2.7.11.1]
+            1459  CSNK2A2; casein kinase 2 alpha 2 [KO:K03097] [EC:2.7.11.1]
+            283106  CSNK2A3; casein kinase 2 alpha 3 [KO:K03097] [EC:2.7.11.1]
+            1460  CSNK2B; casein kinase 2 beta [KO:K03115]
+            7128  TNFAIP3; TNF alpha induced protein 3 [KO:K11859] [EC:3.4.19.12]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3552  IL1A; interleukin 1 alpha [KO:K04383]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            3454  IFNAR1; interferon alpha and beta receptor subunit 1 [KO:K05130]
+            3455  IFNAR2; interferon alpha and beta receptor subunit 2 [KO:K05131]
+            10399  RACK1; receptor for activated C kinase 1 [KO:K14753]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            7297  TYK2; tyrosine kinase 2 [KO:K11219] [EC:2.7.10.2]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6773  STAT2; signal transducer and activator of transcription 2 [KO:K11221]
+            10379  IRF9; interferon regulatory factor 9 [KO:K04693]
+            4938  OAS1; 2'-5'-oligoadenylate synthetase 1 [KO:K14216] [EC:2.7.7.84]
+            4939  OAS2; 2'-5'-oligoadenylate synthetase 2 [KO:K14216] [EC:2.7.7.84]
+            4940  OAS3; 2'-5'-oligoadenylate synthetase 3 [KO:K14216] [EC:2.7.7.84]
+            103  ADAR; adenosine deaminase RNA specific [KO:K12968] [EC:3.5.4.37]
+            4599  MX1; MX dynamin like GTPase 1 [KO:K14754]
+            4600  MX2; MX dynamin like GTPase 2 [KO:K14754]
+            27102  EIF2AK1; eukaryotic translation initiation factor 2 alpha kinase 1 [KO:K16194] [EC:2.7.11.1]
+            5610  EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2 [KO:K16195] [EC:2.7.11.1]
+            9451  EIF2AK3; eukaryotic translation initiation factor 2 alpha kinase 3 [KO:K08860] [EC:2.7.11.1]
+            440275  EIF2AK4; eukaryotic translation initiation factor 2 alpha kinase 4 [KO:K16196] [EC:2.7.11.1]
+            9367  RAB9A; RAB9A, member RAS oncogene family [KO:K07899]
+            51209  RAB9B; RAB9B, member RAS oncogene family [KO:K07900]
+            3312  HSPA8; heat shock protein family A (Hsp70) member 8 [KO:K03283]
+            3303  HSPA1A; heat shock protein family A (Hsp70) member 1A [KO:K03283]
+            3306  HSPA2; heat shock protein family A (Hsp70) member 2 [KO:K03283]
+            3305  HSPA1L; heat shock protein family A (Hsp70) member 1 like [KO:K03283]
+            3304  HSPA1B; heat shock protein family A (Hsp70) member 1B [KO:K03283]
+            3310  HSPA6; heat shock protein family A (Hsp70) member 6 [KO:K03283]
+            8667  EIF3H; eukaryotic translation initiation factor 3 subunit H [KO:K03247]
+            1965  EIF2S1; eukaryotic translation initiation factor 2 subunit alpha [KO:K03237]
+            25898  RCHY1; ring finger and CHY zinc finger domain containing 1 [KO:K10144] [EC:2.3.2.27]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            7161  TP73; tumor protein p73 [KO:K10148]
+            27113  BBC3; BCL2 binding component 3 [KO:K10132]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            637  BID; BH3 interacting domain death agonist [KO:K04726]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            317  APAF1; apoptotic peptidase activating factor 1 [KO:K02084]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            1027  CDKN1B; cyclin dependent kinase inhibitor 1B [KO:K06624]
+            595  CCND1; cyclin D1 [KO:K04503]
+            894  CCND2; cyclin D2 [KO:K10151]
+            896  CCND3; cyclin D3 [KO:K10152]
+            898  CCNE1; cyclin E1 [KO:K06626]
+            9134  CCNE2; cyclin E2 [KO:K06626]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            1017  CDK2; cyclin dependent kinase 2 [KO:K02206] [EC:2.7.11.22]
+            915  CD3D; CD3 delta subunit of T-cell receptor complex [KO:K06450]
+            916  CD3E; CD3 epsilon subunit of T-cell receptor complex [KO:K06451]
+            917  CD3G; CD3 gamma subunit of T-cell receptor complex [KO:K06452]
+            940  CD28; CD28 molecule [KO:K06470]
+            3558  IL2; interleukin 2 [KO:K05429]
+            3559  IL2RA; interleukin 2 receptor subunit alpha [KO:K05068]
+            3560  IL2RB; interleukin 2 receptor subunit beta [KO:K05069]
+            3561  IL2RG; interleukin 2 receptor subunit gamma [KO:K05070]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            868  CBLB; Cbl proto-oncogene B [KO:K22517] [EC:2.3.2.27]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            3718  JAK3; Janus kinase 3 [KO:K11218] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            6776  STAT5A; signal transducer and activator of transcription 5A [KO:K11223]
+            6777  STAT5B; signal transducer and activator of transcription 5B [KO:K11224]
+            2213  FCGR2B; Fc gamma receptor IIb [KO:K12560]
+COMPOUND    C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:19203113
+  AUTHORS   Schneider-Schaulies S, Schneider-Schaulies J
+  TITLE     Measles virus-induced immunosuppression.
+  JOURNAL   Curr Top Microbiol Immunol 330:243-69 (2009)
+            DOI:10.1007/978-3-540-70617-5_12
+REFERENCE   PMID:19203114
+  AUTHORS   Hahm B
+  TITLE     Hostile communication of measles virus with host innate immunity and dendritic cells.
+  JOURNAL   Curr Top Microbiol Immunol 330:271-87 (2009)
+            DOI:10.1007/978-3-540-70617-5_13
+REFERENCE   PMID:19198566
+  AUTHORS   Gerlier D, Valentin H
+  TITLE     Measles virus interaction with host cells and impact on innate immunity.
+  JOURNAL   Curr Top Microbiol Immunol 329:163-91 (2009)
+            DOI:10.1007/978-3-540-70523-9_8
+REFERENCE   PMID:16690907
+  AUTHORS   Schneider-Schaulies S, Dittmer U
+  TITLE     Silencing T cells or T-cell silencing: concepts in virus-induced immunosuppression.
+  JOURNAL   J Gen Virol 87:1423-38 (2006)
+            DOI:10.1099/vir.0.81713-0
+REFERENCE   PMID:22049305
+  AUTHORS   Avota E, Gassert E, Schneider-Schaulies S
+  TITLE     Cytoskeletal dynamics: concepts in measles virus replication and immunomodulation.
+  JOURNAL   Viruses 3:102-17 (2011)
+            DOI:10.3390/v3020102
+REFERENCE   PMID:27854326
+  AUTHORS   Jiang Y, Qin Y, Chen M
+  TITLE     Host-Pathogen Interactions in Measles Virus Replication and Anti-Viral Immunity.
+  JOURNAL   Viruses 8:E308 (2016)
+            DOI:10.3390/v8110308
+REFERENCE   PMID:18922877
+  AUTHORS   Pfaller CK, Conzelmann KK
+  TITLE     Measles virus V protein is a decoy substrate for IkappaB kinase alpha and prevents Toll-like receptor 7/9-mediated interferon induction.
+  JOURNAL   J Virol 82:12365-73 (2008)
+            DOI:10.1128/JVI.01321-08
+REFERENCE   PMID:17720800
+  AUTHORS   Yokota S, Okabayashi T, Yokosawa N, Fujii N
+  TITLE     Measles virus P protein suppresses Toll-like receptor signal through up-regulation of ubiquitin-modifying enzyme A20.
+  JOURNAL   FASEB J 22:74-83 (2008)
+            DOI:10.1096/fj.07-8976com
+REFERENCE   PMID:23146309
+  AUTHORS   Delpeut S, Noyce RS, Siu RW, Richardson CD
+  TITLE     Host factors and measles virus replication.
+  JOURNAL   Curr Opin Virol 2:773-83 (2012)
+            DOI:10.1016/j.coviro.2012.10.008
+REFERENCE   PMID:26878224
+  AUTHORS   Shah M, Anwar MA, Kim JH, Choi S
+  TITLE     Advances in Antiviral Therapies Targeting Toll-like Receptors.
+  JOURNAL   Expert Opin Investig Drugs 25:437-53 (2016)
+            DOI:10.1517/13543784.2016.1154040
+REFERENCE   PMID:12620806
+  AUTHORS   Yokota S, Saito H, Kubota T, Yokosawa N, Amano K, Fujii N
+  TITLE     Measles virus suppresses interferon-alpha signaling pathway: suppression of Jak1 phosphorylation and association of viral accessory proteins, C and V, with interferon-alpha receptor complex.
+  JOURNAL   Virology 306:135-46 (2003)
+            DOI:10.1016/S0042-6822(02)00026-0
+REFERENCE   PMID:12804771
+  AUTHORS   Takeuchi K, Kadota SI, Takeda M, Miyajima N, Nagata K
+  TITLE     Measles virus V protein blocks interferon (IFN)-alpha/beta but not IFN-gamma signaling by inhibiting STAT1 and STAT2 phosphorylation.
+  JOURNAL   FEBS Lett 545:177-82 (2003)
+            DOI:10.1016/S0014-5793(03)00528-3
+REFERENCE   PMID:12805463
+  AUTHORS   Palosaari H, Parisien JP, Rodriguez JJ, Ulane CM, Horvath CM
+  TITLE     STAT protein interference and suppression of cytokine signal transduction by measles virus V protein.
+  JOURNAL   J Virol 77:7635-44 (2003)
+            DOI:10.1128/JVI.77.13.7635-7644.2003
+REFERENCE   PMID:14585342
+  AUTHORS   Shaffer JA, Bellini WJ, Rota PA
+  TITLE     The C protein of measles virus inhibits the type I interferon response.
+  JOURNAL   Virology 315:389-97 (2003)
+            DOI:10.1016/S0042-6822(03)00537-3
+REFERENCE   PMID:16971451
+  AUTHORS   Carsillo T, Traylor Z, Choi C, Niewiesk S, Oglesbee M
+  TITLE     hsp72, a host determinant of measles virus neurovirulence.
+  JOURNAL   J Virol 80:11031-9 (2006)
+            DOI:10.1128/JVI.01438-06
+REFERENCE   PMID:15914229
+  AUTHORS   Zhang X, Bourhis JM, Longhi S, Carsillo T, Buccellato M, Morin B, Canard B, Oglesbee M
+  TITLE     Hsp72 recognizes a P binding motif in the measles virus N protein C-terminus.
+  JOURNAL   Virology 337:162-74 (2005)
+            DOI:10.1016/j.virol.2005.03.035
+REFERENCE   PMID:29712906
+  AUTHORS   Ke Z, Strauss JD, Hampton CM, Brindley MA, Dillard RS, Leon F, Lamb KM, Plemper RK, Wright ER
+  TITLE     Promotion of virus assembly and organization by the measles virus matrix protein.
+  JOURNAL   Nat Commun 9:1736 (2018)
+            DOI:10.1038/s41467-018-04058-2
+REFERENCE   PMID:24155404
+  AUTHORS   Pfaller CK, Radeke MJ, Cattaneo R, Samuel CE
+  TITLE     Measles virus C protein impairs production of defective copyback double-stranded viral RNA and activation of protein kinase R.
+  JOURNAL   J Virol 88:456-68 (2014)
+            DOI:10.1128/JVI.02572-13
+REFERENCE   PMID:17686838
+  AUTHORS   Sato H, Masuda M, Kanai M, Tsukiyama-Kohara K, Yoneda M, Kai C
+  TITLE     Measles virus N protein inhibits host translation by binding to eIF3-p40.
+  JOURNAL   J Virol 81:11569-76 (2007)
+            DOI:10.1128/JVI.00570-07
+REFERENCE   PMID:19895323
+  AUTHORS   Sion-Vardy N, Lasarov I, Delgado B, Gopas J, Benharroch D, Ariad S
+  TITLE     Measles virus: evidence for association with lung cancer.
+  JOURNAL   Exp Lung Res 35:701-12 (2009)
+            DOI:10.3109/01902140902853176
+REFERENCE   PMID:16140759
+  AUTHORS   Chen M, Cortay JC, Logan IR, Sapountzi V, Robson CN, Gerlier D
+  TITLE     Inhibition of ubiquitination and stabilization of human ubiquitin E3 ligase PIRH2 by measles virus phosphoprotein.
+  JOURNAL   J Virol 79:11824-36 (2005)
+            DOI:10.1128/JVI.79.18.11824-11836.2005
+REFERENCE   PMID:16699046
+  AUTHORS   Cruz CD, Palosaari H, Parisien JP, Devaux P, Cattaneo R, Ouchi T, Horvath CM
+  TITLE     Measles virus V protein inhibits p53 family member p73.
+  JOURNAL   J Virol 80:5644-50 (2006)
+            DOI:10.1128/JVI.02400-05
+REFERENCE   PMID:10756053
+  AUTHORS   Servet-Delprat C, Vidalain PO, Azocar O, Le Deist F, Fischer A, Rabourdin-Combe C
+  TITLE     Consequences of Fas-mediated human dendritic cell apoptosis induced by measles virus.
+  JOURNAL   J Virol 74:4387-93 (2000)
+            DOI:10.1128/JVI.74.9.4387-4393.2000
+REFERENCE   PMID:20601611
+  AUTHORS   Kushwah R, Hu J
+  TITLE     Dendritic cell apoptosis: regulation of tolerance versus immunity.
+  JOURNAL   J Immunol 185:795-802 (2010)
+            DOI:10.4049/jimmunol.1000325
+REFERENCE   PMID:10590149
+  AUTHORS   Vidalain PO, Azocar O, Lamouille B, Astier A, Rabourdin-Combe C, Servet-Delprat C
+  TITLE     Measles virus induces functional TRAIL production by human dendritic cells.
+  JOURNAL   J Virol 74:556-9 (2000)
+            DOI:10.1128/JVI.74.1.556-559.2000
+REFERENCE   PMID:11846228
+  AUTHORS   Vidalain PO, Azocar O, Rabourdin-Combe C, Servet-Delprat C
+  TITLE     Measle virus-infected dendritic cells develop immunosuppressive and cytotoxic activities.
+  JOURNAL   Immunobiology 204:629-38 (2001)
+            DOI:10.1078/0171-2985-00102
+REFERENCE   PMID:10423127
+  AUTHORS   Engelking O, Fedorov LM, Lilischkis R, ter Meulen V, Schneider-Schaulies S
+  TITLE     Measles virus-induced immunosuppression in vitro is associated with deregulation of G1 cell cycle control proteins.
+  JOURNAL   J Gen Virol 80 ( Pt 7):1599-608 (1999)
+            DOI:10.1099/0022-1317-80-7-1599
+REFERENCE   PMID:30510918
+  AUTHORS   Fan Y, Sanyal S, Bruzzone R
+  TITLE     Breaking Bad: How Viruses Subvert the Cell Cycle.
+  JOURNAL   Front Cell Infect Microbiol 8:396 (2018)
+            DOI:10.3389/fcimb.2018.00396
+REFERENCE   PMID:20636817
+  AUTHORS   Griffin DE
+  TITLE     Measles virus-induced suppression of immune responses.
+  JOURNAL   Immunol Rev 236:176-89 (2010)
+            DOI:10.1111/j.1600-065X.2010.00925.x
+REFERENCE   PMID:11385511
+  AUTHORS   Avota E, Avots A, Niewiesk S, Kane LP, Bommhardt U, ter Meulen V, Schneider-Schaulies S
+  TITLE     Disruption of Akt kinase activation is important for immunosuppression induced by measles virus.
+  JOURNAL   Nat Med 7:725-31 (2001)
+            DOI:10.1038/89106
+REFERENCE   PMID:15308747
+  AUTHORS   Avota E, Muller N, Klett M, Schneider-Schaulies S
+  TITLE     Measles virus interacts with and alters signal transduction in T-cell lipid rafts.
+  JOURNAL   J Virol 78:9552-9 (2004)
+            DOI:10.1128/JVI.78.17.9552-9559.2004
+REFERENCE   PMID:16963735
+  AUTHORS   Yanagi Y, Takeda M, Ohno S
+  TITLE     Measles virus: cellular receptors, tropism and pathogenesis.
+  JOURNAL   J Gen Virol 87:2767-79 (2006)
+            DOI:10.1099/vir.0.82221-0
+REFERENCE   PMID:16237742
+  AUTHORS   Kerdiles YM, Sellin CI, Druelle J, Horvat B
+  TITLE     Immunosuppression caused by measles virus: role of viral proteins.
+  JOURNAL   Rev Med Virol 16:49-63 (2006)
+            DOI:10.1002/rmv.486
+REL_PATHWAY hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04210  Apoptosis
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04630  JAK-STAT signaling pathway
+            hsa04658  Th1 and Th2 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+KO_PATHWAY  ko05162
+///

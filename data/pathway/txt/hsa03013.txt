@@ -1,0 +1,159 @@
+ENTRY       hsa03013                    Pathway
+NAME        Nucleocytoplasmic transport - Homo sapiens (human)
+DESCRIPTION The exchange of molecules between the nucleus and cytoplasm is mediated through nuclear pore complexes (NPCs) embedded in the nuclear envelope. The NPC is composed of highly conserved, distinct structural modules: the inner pore ring, the cytoplasmic and nuclear rings as well as the cytoplasmic filaments and the nuclear basket. Nuclear transport receptors (e.g. importins and exportins) mediate translocation of cargos through the NPC. Cargo proteins harbouring a nuclear export signal (NES) bind to exportins and Ran-GTP to form an export complex in the nucleoplasm. Nuclear export of bulk mRNA is provided by the non-karyopherin transport proteins TAP-p15 in a Ran-GTP-independent manner. Several EJC factors are known to function in mRNA export.
+CLASS       Genetic Information Processing; Translation
+PATHWAY_MAP hsa03013  Nucleocytoplasmic transport
+NETWORK     nt06424  RNA processing
+            nt06464  Amyotrophic lateral sclerosis
+  ELEMENT   N01152  Nuclear export of mRNA
+            N01154  TDP-43-regulated splicing
+            N01156  FUS-regulated splicing
+DRUG        D11222  Selinexor (USAN/INN)
+            D11223  Verdinexor (USAN/INN)
+            D11406  Risdiplam (JAN/USAN/INN)
+            D11499  Eltanexor (USAN/INN)
+            D11837  Zotatifin (USAN/INN)
+            D12345  Obefazimod (USAN)
+DBLINKS     GO: 0050658
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        8086  AAAS; aladin WD repeat nucleoporin [KO:K14320]
+            11097  NUP42; nucleoporin 42 [KO:K14321]
+            2733  GLE1; GLE1 RNA export mediator [KO:K18723]
+            11269  DDX19B; DEAD-box helicase 19B [KO:K18655] [EC:3.6.4.13]
+            55308  DDX19A; DEAD-box helicase 19A [KO:K18655] [EC:3.6.4.13]
+            8480  RAE1; ribonucleic acid export 1 [KO:K14298]
+            4928  NUP98; nucleoporin 98 and 96 precursor [KO:K14297]
+            8021  NUP214; nucleoporin 214 [KO:K14317]
+            4927  NUP88; nucleoporin 88 [KO:K14318]
+            5903  RANBP2; RAN binding protein 2 [KO:K12172] [EC:2.3.2.-]
+            5905  RANGAP1; Ran GTPase activating protein 1 [KO:K14319]
+            7329  UBE2I; ubiquitin conjugating enzyme E2 I [KO:K10577]
+            6612  SUMO3; small ubiquitin like modifier 3 [KO:K12160]
+            6613  SUMO2; small ubiquitin like modifier 2 [KO:K12160]
+            7341  SUMO1; small ubiquitin like modifier 1 [KO:K12160]
+            387082  SUMO4; small ubiquitin like modifier 4 [KO:K12160]
+            23279  NUP160; nucleoporin 160 [KO:K14303]
+            79902  NUP85; nucleoporin 85 [KO:K14304]
+            6396  SEC13; SEC13 homolog, nuclear pore and COPII coat complex component [KO:K14004]
+            57122  NUP107; nucleoporin 107 [KO:K14301]
+            55746  NUP133; nucleoporin 133 [KO:K14300]
+            81929  SEH1L; SEH1 like nucleoporin [KO:K14299]
+            348995  NUP43; nucleoporin 43 [KO:K14305]
+            79023  NUP37; nucleoporin 37 [KO:K14302]
+            25909  AHCTF1; AT-hook containing transcription factor 1 [KO:K25129]
+            23636  NUP62; nucleoporin 62 [KO:K14306]
+            9818  NUP58; nucleoporin 58 [KO:K14307]
+            53371  NUP54; nucleoporin 54 [KO:K14308]
+            23165  NUP205; nucleoporin 205 [KO:K14310]
+            23511  NUP188; nucleoporin 188 [KO:K14311]
+            9631  NUP155; nucleoporin 155 [KO:K14312]
+            9688  NUP93; nucleoporin 93 [KO:K14309]
+            129401  NUP35; nucleoporin 35 [KO:K14313]
+            55706  NDC1; NDC1 transmembrane nucleoporin [KO:K14315]
+            23225  NUP210; nucleoporin 210 [KO:K14314]
+            91181  NUP210L; nucleoporin 210 like [KO:K14314]
+            100101267  POM121C; POM121 transmembrane nucleoporin C [KO:K14316]
+            9883  POM121; POM121 transmembrane nucleoporin [KO:K14316]
+            94026  POM121L2; POM121 transmembrane nucleoporin like 2 [KO:K14316]
+            55161  TMEM33; transmembrane protein 33 [KO:K20724]
+            7175  TPR; translocated promoter region, nuclear basket protein [KO:K09291]
+            10762  NUP50; nucleoporin 50 [KO:K14295]
+            9972  NUP153; nucleoporin 153 [KO:K14296]
+            59343  SENP2; SUMO specific peptidase 2 [KO:K03345] [EC:3.4.22.68]
+            3836  KPNA1; karyopherin subunit alpha 1 [KO:K23940]
+            3838  KPNA2; karyopherin subunit alpha 2 [KO:K15043]
+            402569  KPNA7; karyopherin subunit alpha 7 [KO:K15043]
+            3839  KPNA3; karyopherin subunit alpha 3 [KO:K23583]
+            3840  KPNA4; karyopherin subunit alpha 4 [KO:K23583]
+            23633  KPNA6; karyopherin subunit alpha 6 [KO:K15042]
+            3841  KPNA5; karyopherin subunit alpha 5 [KO:K15042]
+            3837  KPNB1; karyopherin subunit beta 1 [KO:K14293]
+            3842  TNPO1; transportin 1 [KO:K18752]
+            30000  TNPO2; transportin 2 [KO:K18727]
+            23534  TNPO3; transportin 3 [KO:K15436]
+            79711  IPO4; importin 4 [KO:K20221]
+            3843  IPO5; importin 5 [KO:K20222]
+            10527  IPO7; importin 7 [KO:K20223]
+            10526  IPO8; importin 8 [KO:K18755]
+            55705  IPO9; importin 9 [KO:K20224]
+            51194  IPO11; importin 11 [KO:K25201]
+            9670  IPO13; importin 13 [KO:K25202]
+            10073  SNUPN; snurportin 1 [KO:K13151]
+            7514  XPO1; exportin 1 [KO:K14290]
+            1434  CSE1L; chromosome segregation 1 like [KO:K18423]
+            11260  XPOT; exportin for tRNA [KO:K14288]
+            64328  XPO4; exportin 4 [KO:K25203]
+            57510  XPO5; exportin 5 [KO:K14289]
+            23214  XPO6; exportin 6 [KO:K25204]
+            23039  XPO7; exportin 7 [KO:K18460]
+            64901  RANBP17; RAN binding protein 17 [KO:K24115]
+            5901  RAN; RAN, member RAS oncogene family [KO:K07936]
+            1915  EEF1A1; eukaryotic translation elongation factor 1 alpha 1 [KO:K03231]
+            1917  EEF1A2; eukaryotic translation elongation factor 1 alpha 2 [KO:K03231]
+            51808  PHAX; phosphorylated adaptor for RNA export [KO:K14291]
+            4686  NCBP1; nuclear cap binding protein subunit 1 [KO:K12882]
+            22916  NCBP2; nuclear cap binding protein subunit 2 [KO:K12883]
+            392517  NCBP2L; nuclear cap binding protein subunit 2 like [KO:K12883]
+            51068  NMD3; NMD3 ribosome export adaptor [KO:K07562]
+            9939  RBM8A; RNA binding motif protein 8A [KO:K12876]
+            4116  MAGOH; mago homolog, exon junction complex subunit [KO:K12877]
+            55110  MAGOHB; mago homolog B, exon junction complex subunit [KO:K12877]
+            22794  CASC3; CASC3 exon junction complex subunit [KO:K14323]
+            9775  EIF4A3; eukaryotic translation initiation factor 4A3 [KO:K13025] [EC:3.6.4.13]
+            22985  ACIN1; apoptotic chromatin condensation inducer 1 [KO:K12875]
+            10284  SAP18; Sin3A associated protein 18 [KO:K14324]
+            10921  RNPS1; RNA binding protein with serine rich domain 1 [KO:K14325]
+            5411  PNN; pinin, desmosome associated protein [KO:K13114]
+            10189  ALYREF; Aly/REF export factor [KO:K12881]
+            5976  UPF1; UPF1 RNA helicase and ATPase [KO:K14326] [EC:3.6.4.13 5.6.2.3]
+            26019  UPF2; UPF2 regulator of nonsense mediated mRNA decay [KO:K14327]
+            65109  UPF3B; UPF3B regulator of nonsense mediated mRNA decay [KO:K14328]
+            65110  UPF3A; UPF3A regulator of nonsense mediated mRNA decay [KO:K14328]
+            10482  NXF1; nuclear RNA export factor 1 [KO:K14284]
+            56001  NXF2; nuclear RNA export factor 2 [KO:K14284]
+            728343  NXF2B; nuclear RNA export factor 2B [KO:K14284]
+            56000  NXF3; nuclear RNA export factor 3 [KO:K14284]
+            29107  NXT1; nuclear transport factor 2 like export factor 1 [KO:K14285]
+            55916  NXT2; nuclear transport factor 2 like export factor 2 [KO:K14285]
+            7919  DDX39B; DExD-box helicase 39B [KO:K12812] [EC:3.6.4.13]
+            10250  SRRM1; serine and arginine repetitive matrix 1 [KO:K13171]
+            84305  PYM1; PYM homolog 1, exon junction complex associated factor [KO:K14294]
+            9984  THOC1; THO complex subunit 1 [KO:K12878]
+            57187  THOC2; THO complex subunit 2 [KO:K12879]
+            8563  THOC5; THO complex subunit 5 [KO:K13174]
+            79228  THOC6; THO complex subunit 6 [KO:K13175]
+            80145  THOC7; THO complex subunit 7 [KO:K13176]
+            84321  THOC3; THO complex subunit 3 [KO:K12880]
+REFERENCE   PMID:16777596
+  AUTHORS   Tran EJ, Wente SR
+  TITLE     Dynamic nuclear pore complexes: life on the edge.
+  JOURNAL   Cell 125:1041-53 (2006)
+            DOI:10.1016/j.cell.2006.05.027
+REFERENCE   PMID:15519698
+  AUTHORS   Rodriguez MS, Dargemont C, Stutz F
+  TITLE     Nuclear export of RNA.
+  JOURNAL   Biol Cell 96:639-55 (2004)
+            DOI:10.1016/j.biolcel.2004.04.014
+REFERENCE   PMID:18313922
+  AUTHORS   Palancade B, Doye V
+  TITLE     Sumoylating and desumoylating enzymes at nuclear pores: underpinning their unexpected duties?
+  JOURNAL   Trends Cell Biol 18:174-83 (2008)
+            DOI:10.1016/j.tcb.2008.02.001
+REFERENCE   PMID:15901496
+  AUTHORS   Reed R, Cheng H
+  TITLE     TREX, SR proteins and export of mRNA.
+  JOURNAL   Curr Opin Cell Biol 17:269-73 (2005)
+            DOI:10.1016/j.ceb.2005.04.011
+REFERENCE   PMID:16314458
+  AUTHORS   Tange TO, Shibuya T, Jurica MS, Moore MJ
+  TITLE     Biochemical analysis of the EJC reveals two new factors and a stable tetrameric protein core.
+  JOURNAL   RNA 11:1869-83 (2005)
+            DOI:10.1261/rna.2155905
+REFERENCE   PMID:28673770
+  AUTHORS   Beck M, Schirmacher P, Singer S
+  TITLE     Alterations of the nuclear transport system in hepatocellular carcinoma - New basis for therapeutic strategies.
+  JOURNAL   J Hepatol 67:1051-1061 (2017)
+            DOI:10.1016/j.jhep.2017.06.021
+REL_PATHWAY hsa03015  mRNA surveillance pathway
+KO_PATHWAY  ko03013
+///

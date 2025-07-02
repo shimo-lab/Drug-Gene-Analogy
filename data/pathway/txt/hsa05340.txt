@@ -1,0 +1,96 @@
+ENTRY       hsa05340                    Pathway
+NAME        Primary immunodeficiency - Homo sapiens (human)
+DESCRIPTION Primary immunodeficiencies (PIs) are a heterogeneous group of disorders, which affect cellular and humoral immunity or non-specific host defense mechanisms mediated by complement proteins, and cells such as phagocytes and natural killer (NK) cells. These disorders of the immune system cause increased susceptibility to infection, autoimmune disease, and malignancy. Most of PIs are due to genetic defects that affect cell maturation or function at different levels during hematopoiesis. Disruption of the cellular immunity is observed in patients with defects in T cells or both T and B cells. These cellular immunodeficiencies comprise 20% of all PIs. Disorders of humoral immunity affect B-cell differentiation and antibody production. They account for 70% of all PIs.
+CLASS       Human Diseases; Immune disease
+PATHWAY_MAP hsa05340  Primary immunodeficiency
+DISEASE     H01725  Primary immunodeficiency disease
+DRUG        D03420  Cedelizumab (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        100  ADA; adenosine deaminase [KO:K01488] [EC:3.5.4.4]
+            3575  IL7R; interleukin 7 receptor [KO:K05072]
+            3561  IL2RG; interleukin 2 receptor subunit gamma [KO:K05070]
+            3718  JAK3; Janus kinase 3 [KO:K11218] [EC:2.7.10.2]
+            64421  DCLRE1C; DNA cross-link repair 1C [KO:K10887] [EC:3.1.-.-]
+            5896  RAG1; recombination activating 1 [KO:K10628] [EC:2.3.2.27]
+            5897  RAG2; recombination activating 2 [KO:K10988]
+            915  CD3D; CD3 delta subunit of T-cell receptor complex [KO:K06450]
+            916  CD3E; CD3 epsilon subunit of T-cell receptor complex [KO:K06451]
+            5788  PTPRC; protein tyrosine phosphatase receptor type C [KO:K06478] [EC:3.1.3.48]
+            920  CD4; CD4 molecule [KO:K06454]
+            925  CD8A; CD8 subunit alpha [KO:K06458]
+            926  CD8B; CD8 subunit beta [KO:K06459]
+            927  CD8B2; CD8B family member 2 [KO:K06459]
+            326  AIRE; autoimmune regulator [KO:K10603]
+            6890  TAP1; transporter 1, ATP binding cassette subfamily B member [KO:K05653] [EC:7.4.2.14]
+            6891  TAP2; transporter 2, ATP binding cassette subfamily B member [KO:K05654] [EC:7.4.2.14]
+            3932  LCK; LCK proto-oncogene, Src family tyrosine kinase [KO:K05856] [EC:2.7.10.2]
+            7535  ZAP70; zeta chain of T cell receptor associated protein kinase 70 [KO:K07360] [EC:2.7.10.2]
+            5993  RFX5; regulatory factor X5 [KO:K08061]
+            5994  RFXAP; regulatory factor X associated protein [KO:K08063]
+            8625  RFXANK; regulatory factor X associated ankyrin containing protein [KO:K08062]
+            4261  CIITA; class II major histocompatibility complex transactivator [KO:K08060] [EC:2.7.11.1]
+            84876  ORAI1; ORAI calcium release-activated calcium modulator 1 [KO:K16056]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            3543  IGLL1; immunoglobulin lambda like polypeptide 1 [KO:K06554]
+            973  CD79A; CD79a molecule [KO:K06506]
+            29760  BLNK; B cell linker [KO:K07371]
+            695  BTK; Bruton tyrosine kinase [KO:K07370] [EC:2.7.10.2]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            958  CD40; CD40 molecule [KO:K03160]
+            959  CD40LG; CD40 ligand [KO:K03161]
+            7374  UNG; uracil DNA glycosylase [KO:K03648] [EC:3.2.2.27]
+            57379  AICDA; activation induced cytidine deaminase [KO:K10989] [EC:3.5.4.38]
+            29851  ICOS; inducible T cell costimulator [KO:K06713]
+            115650  TNFRSF13C; TNF receptor superfamily member 13C [KO:K05151]
+            930  CD19; CD19 molecule [KO:K06465]
+            23495  TNFRSF13B; TNF receptor superfamily member 13B [KO:K05150]
+REFERENCE   PMID:16261175
+  AUTHORS   Cunningham-Rundles C, Ponda PP.
+  TITLE     Molecular defects in T- and B-cell primary immunodeficiency diseases.
+  JOURNAL   Nat Rev Immunol 5:880-92 (2005)
+            DOI:10.1038/nri1713
+REFERENCE   PMID:11941303
+  AUTHORS   Ballow M.
+  TITLE     Primary immunodeficiency disorders: antibody deficiency.
+  JOURNAL   J Allergy Clin Immunol 109:581-91 (2002)
+            DOI:10.1067/mai.2002.122466
+REFERENCE   PMID:17960151
+  AUTHORS   Marodi L, Notarangelo LD.
+  TITLE     Immunological and genetic bases of new primary immunodeficiencies.
+  JOURNAL   Nat Rev Immunol 7:851-61 (2007)
+            DOI:10.1038/nri2195
+REFERENCE   PMID:17952897
+  AUTHORS   Geha RS, Notarangelo LD, Casanova JL, Chapel H, Conley ME, Fischer A, Hammarstrom L, Nonoyama S, Ochs HD, Puck JM, Roifman C, Seger R, Wedgwood J.
+  TITLE     Primary immunodeficiency diseases: an update from the International Union of Immunological Societies Primary Immunodeficiency Diseases Classification Committee.
+  JOURNAL   J Allergy Clin Immunol 120:776-94 (2007)
+            DOI:10.1016/j.jaci.2007.08.053
+REFERENCE   PMID:18093537
+  AUTHORS   Fischer A.
+  TITLE     Human primary immunodeficiency diseases.
+  JOURNAL   Immunity 27:835-45 (2007)
+            DOI:10.1016/j.immuni.2007.11.012
+REFERENCE   PMID:14699405
+  AUTHORS   Fischer A.
+  TITLE     Human primary immunodeficiency diseases: a perspective.
+  JOURNAL   Nat Immunol 5:23-30 (2004)
+            DOI:10.1038/ni1023
+REFERENCE   PMID:11058677
+  AUTHORS   Buckley RH.
+  TITLE     Primary immunodeficiency diseases due to defects in lymphocytes.
+  JOURNAL   N Engl J Med 343:1313-24 (2000)
+            DOI:10.1056/NEJM200011023431806
+REFERENCE   PMID:15661024
+  AUTHORS   Fischer A, Le Deist F, Hacein-Bey-Abina S, Andre-Schmutz I, Basile Gde S, de Villartay JP, Cavazzana-Calvo M.
+  TITLE     Severe combined immunodeficiency. A model disease for molecular immunology and therapy.
+  JOURNAL   Immunol Rev 203:98-109 (2005)
+            DOI:10.1111/j.0105-2896.2005.00223.x
+REFERENCE   PMID:14647478
+  AUTHORS   de Villartay JP, Fischer A, Durandy A.
+  TITLE     The mechanisms of immune diversification and their disorders.
+  JOURNAL   Nat Rev Immunol 3:962-72 (2003)
+            DOI:10.1038/nri1247
+REL_PATHWAY hsa04640  Hematopoietic cell lineage
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+KO_PATHWAY  ko05340
+///

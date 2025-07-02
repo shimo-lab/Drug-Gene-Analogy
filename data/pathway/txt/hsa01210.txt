@@ -1,0 +1,16 @@
+ENTRY       hsa01210                    Pathway
+NAME        2-Oxocarboxylic acid metabolism - Homo sapiens (human)
+DESCRIPTION 2-Oxocarboxylic acids, also called 2-oxo acids and alpha-keto acids, are the most elementary set of metabolites that includes pyruvate (2-oxopropanoate), 2-oxobutanoate, oxaloacetate (2-oxosuccinate) and 2-oxoglutarate. This diagram illustrates the architecture of chain extension and modification reaction modules for 2-oxocarboxylic acids. The chain extension module RM001 is a tricarboxylic pathway where acetyl-CoA derived carbon is used to extend the chain length by one. The chain modification modules RM002 (including RM032) and RM033, together with a reductive amination step (RC00006 or RC00036), generate basic and branched-chain amino acids, respectively. The modification module RM030 is used in the biosynthesis of glucosinolates, a class of plant secondary metabolites, for conversion to oxime followed by addition of thio-glucose moiety. Furthermore, the chain extension from 2-oxoadipate to 2-oxosuberate is followed by coenzyme B biosynthesis in methonogenic archaea.
+PATHWAY_MAP hsa01210  2-Oxocarboxylic acid metabolism
+MODULE      hsa_M00010  Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate [PATH:hsa01210]
+DRUG        D10901  Enasidenib (USAN/INN)
+            D11044  Enasidenib mesylate (USAN)
+            D11090  Ivosidenib (JAN/USAN/INN)
+            D12483  Olutasidenib (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa00220  Arginine biosynthesis
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00290  Valine, leucine and isoleucine biosynthesis
+KO_PATHWAY  ko01210
+///

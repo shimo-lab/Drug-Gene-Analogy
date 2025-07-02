@@ -1,0 +1,76 @@
+ENTRY       hsa00531                    Pathway
+NAME        Glycosaminoglycan degradation - Homo sapiens (human)
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00531  Glycosaminoglycan degradation
+MODULE      hsa_M00076  Dermatan sulfate degradation [PATH:hsa00531]
+            hsa_M00077  Chondroitin sulfate degradation [PATH:hsa00531]
+            hsa_M00078  Heparan sulfate degradation [PATH:hsa00531]
+            hsa_M00079  Keratan sulfate degradation [PATH:hsa00531]
+NETWORK     nt06012  Glycosaminoglycan degradation
+  ELEMENT   N00610  Dermatan sulfate degradation
+            N00615  Heparan sulfate degradation
+            N00623  Keratan sulfate degradation
+DRUG        D11812  Pabinafusp alfa (genetical recombination) (JAN)
+DBLINKS     GO: 0006027
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        8692  HYAL2; hyaluronidase 2 [KO:K01197] [EC:3.2.1.35]
+            3373  HYAL1; hyaluronidase 1 [KO:K01197] [EC:3.2.1.35]
+            6677  SPAM1; sperm adhesion molecule 1 [KO:K01197] [EC:3.2.1.35]
+            23553  HYAL4; hyaluronidase 4 [KO:K01197] [EC:3.2.1.35]
+            8372  HYAL3; hyaluronidase 3 [KO:K01197] [EC:3.2.1.35]
+            2990  GUSB; glucuronidase beta [KO:K01195] [EC:3.2.1.31]
+            3423  IDS; iduronate 2-sulfatase [KO:K01136] [EC:3.1.6.13]
+            3425  IDUA; alpha-L-iduronidase [KO:K01217] [EC:3.2.1.76]
+            411  ARSB; arylsulfatase B [KO:K01135] [EC:3.1.6.12]
+            10855  HPSE; heparanase [KO:K07964] [EC:3.2.1.166]
+            60495  HPSE2; heparanase 2 (inactive) [KO:K07965] [EC:3.2.1.-]
+            6448  SGSH; N-sulfoglucosamine sulfohydrolase [KO:K01565] [EC:3.10.1.1]
+            138050  HGSNAT; heparan-alpha-glucosaminide N-acetyltransferase [KO:K10532] [EC:2.3.1.78]
+            4669  NAGLU; N-acetyl-alpha-glucosaminidase [KO:K01205] [EC:3.2.1.50]
+            2588  GALNS; galactosamine (N-acetyl)-6-sulfatase [KO:K01132] [EC:3.1.6.4]
+            2720  GLB1; galactosidase beta 1 [KO:K12309] [EC:3.2.1.23]
+            2799  GNS; glucosamine (N-acetyl)-6-sulfatase [KO:K01137] [EC:3.1.6.14]
+            3073  HEXA; hexosaminidase subunit alpha [KO:K12373] [EC:3.2.1.52]
+            3074  HEXB; hexosaminidase subunit beta [KO:K12373] [EC:3.2.1.52]
+COMPOUND    C00426  Dermatan sulfate
+            C00573  Keratan sulfate
+            C00634  Chondroitin 4-sulfate
+            C00925  Heparan sulfate
+            G00526
+            G00711
+            G00872  DWA-2
+            G01391
+            G01945
+            G01977
+            G02632
+            G09660
+            G10008
+            G10505  Hyaluronic acid
+            G12336
+            G13034
+            G13035
+            G13036
+            G13037
+            G13038
+            G13039
+            G13040
+            G13041
+            G13042
+            G13043
+            G13073
+            G13074
+REFERENCE   PMID:27570
+  AUTHORS   Greiling H, Stuhlsatz HW, Cantz M, Gehler J
+  TITLE     Increased urinary excretion of keratan sulfate in fucosidosis.
+  JOURNAL   J Clin Chem Clin Biochem 16:329-34 (1978)
+            DOI:10.1515/cclm.1978.16.6.329
+REFERENCE   PMID:3161730
+  AUTHORS   Fuchs W, Beck M, Kresse H
+  TITLE     Intralysosomal formation and metabolic fate of N-acetylglucosamine 6-sulfate from keratan sulfate.
+  JOURNAL   Eur J Biochem 151:551-6 (1985)
+            DOI:10.1111/j.1432-1033.1985.tb09138.x
+REL_PATHWAY hsa00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+            hsa00533  Glycosaminoglycan biosynthesis - keratan sulfate
+            hsa00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+KO_PATHWAY  ko00531
+///

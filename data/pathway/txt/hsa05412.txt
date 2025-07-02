@@ -1,0 +1,132 @@
+ENTRY       hsa05412                    Pathway
+NAME        Arrhythmogenic right ventricular cardiomyopathy - Homo sapiens (human)
+DESCRIPTION Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an inherited heart muscle disease that may result in arrhythmia, heart failure, and sudden death. The hallmark pathological findings are progressive myocyte loss and fibrofatty replacement, with a predilection for the right ventricle. A number of genetic studies have identified mutations in various components of the cardiac desmosome that have important roles in the pathogenesis of ARVC. Disruption of desmosomal function by defective proteins might lead to death of myocytes under mechanical stress. The myocardial injury may be accompanied by inflammation. Since regeneration of cardiac myocytes is limited, repair by fibrofatty replacement occurs. Several studies have implicated that desmosome dysfunction results in the delocalization and nuclear translocation of plakoglobin. As a result, competition between plakoglobin and beta-catenin will lead to the inhibition of Wnt/beta-catenin signaling, resulting in a shift from a myocyte fate towards an adipocyte fate of cells. The ryanodine receptor plays a crucial part in electromechanical coupling by control of release of calcium from the sarcoplasmic reticulum into the cytosol. Therefore, defects in this receptor could result in an imbalance of calcium homeostasis that might trigger cell death.
+CLASS       Human Diseases; Cardiovascular disease
+PATHWAY_MAP hsa05412  Arrhythmogenic right ventricular cardiomyopathy
+DISEASE     H00293  Arrhythmogenic right ventricular cardiomyopathy
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3672  ITGA1; integrin subunit alpha 1 [KO:K06480]
+            3673  ITGA2; integrin subunit alpha 2 [KO:K06481]
+            3674  ITGA2B; integrin subunit alpha 2b [KO:K06476]
+            3675  ITGA3; integrin subunit alpha 3 [KO:K06482]
+            3676  ITGA4; integrin subunit alpha 4 [KO:K06483]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            3655  ITGA6; integrin subunit alpha 6 [KO:K06485]
+            3679  ITGA7; integrin subunit alpha 7 [KO:K06583]
+            8516  ITGA8; integrin subunit alpha 8 [KO:K06584]
+            3680  ITGA9; integrin subunit alpha 9 [KO:K06585]
+            8515  ITGA10; integrin subunit alpha 10 [KO:K06586]
+            22801  ITGA11; integrin subunit alpha 11 [KO:K06587]
+            3685  ITGAV; integrin subunit alpha V [KO:K06487]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            3691  ITGB4; integrin subunit beta 4 [KO:K06525]
+            3693  ITGB5; integrin subunit beta 5 [KO:K06588]
+            3694  ITGB6; integrin subunit beta 6 [KO:K06589]
+            3695  ITGB7; integrin subunit beta 7 [KO:K06590]
+            3696  ITGB8; integrin subunit beta 8 [KO:K06591]
+            6444  SGCD; sarcoglycan delta [KO:K12563]
+            6445  SGCG; sarcoglycan gamma [KO:K12564]
+            6442  SGCA; sarcoglycan alpha [KO:K12565]
+            6443  SGCB; sarcoglycan beta [KO:K12566]
+            284217  LAMA1; laminin subunit alpha 1 [KO:K05637]
+            3908  LAMA2; laminin subunit alpha 2 [KO:K05637]
+            1605  DAG1; dystroglycan 1 [KO:K06265]
+            1756  DMD; dystrophin [KO:K10366]
+            1674  DES; desmin [KO:K07610]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            2010  EMD; emerin [KO:K12569]
+            4000  LMNA; lamin A/C [KO:K12641]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            6932  TCF7; transcription factor 7 [KO:K02620]
+            83439  TCF7L1; transcription factor 7 like 1 [KO:K04490]
+            6934  TCF7L2; transcription factor 7 like 2 [KO:K04491]
+            51176  LEF1; lymphoid enhancer binding factor 1 [KO:K04492]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            782  CACNB1; calcium voltage-gated channel auxiliary subunit beta 1 [KO:K04862]
+            783  CACNB2; calcium voltage-gated channel auxiliary subunit beta 2 [KO:K04863]
+            784  CACNB3; calcium voltage-gated channel auxiliary subunit beta 3 [KO:K04864]
+            785  CACNB4; calcium voltage-gated channel auxiliary subunit beta 4 [KO:K04865]
+            781  CACNA2D1; calcium voltage-gated channel auxiliary subunit alpha2delta 1 [KO:K04858]
+            9254  CACNA2D2; calcium voltage-gated channel auxiliary subunit alpha2delta 2 [KO:K04859]
+            55799  CACNA2D3; calcium voltage-gated channel auxiliary subunit alpha2delta 3 [KO:K04860]
+            93589  CACNA2D4; calcium voltage-gated channel auxiliary subunit alpha2delta 4 [KO:K04861]
+            786  CACNG1; calcium voltage-gated channel auxiliary subunit gamma 1 [KO:K04866]
+            10369  CACNG2; calcium voltage-gated channel auxiliary subunit gamma 2 [KO:K04867]
+            10368  CACNG3; calcium voltage-gated channel auxiliary subunit gamma 3 [KO:K04868]
+            27092  CACNG4; calcium voltage-gated channel auxiliary subunit gamma 4 [KO:K04869]
+            27091  CACNG5; calcium voltage-gated channel auxiliary subunit gamma 5 [KO:K04870]
+            59285  CACNG6; calcium voltage-gated channel auxiliary subunit gamma 6 [KO:K04871]
+            59284  CACNG7; calcium voltage-gated channel auxiliary subunit gamma 7 [KO:K04872]
+            59283  CACNG8; calcium voltage-gated channel auxiliary subunit gamma 8 [KO:K04873]
+            6262  RYR2; ryanodine receptor 2 [KO:K04962]
+            487  ATP2A1; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [KO:K05853] [EC:7.2.2.10]
+            489  ATP2A3; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [KO:K05853] [EC:7.2.2.10]
+            488  ATP2A2; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [KO:K05853] [EC:7.2.2.10]
+            6546  SLC8A1; solute carrier family 8 member A1 [KO:K05849]
+            6543  SLC8A2; solute carrier family 8 member A2 [KO:K05849]
+            6547  SLC8A3; solute carrier family 8 member A3 [KO:K05849]
+            1000  CDH2; cadherin 2 [KO:K06736]
+            3728  JUP; junction plakoglobin [KO:K10056]
+            29119  CTNNA3; catenin alpha 3 [KO:K05691]
+            1495  CTNNA1; catenin alpha 1 [KO:K05691]
+            1496  CTNNA2; catenin alpha 2 [KO:K05691]
+            89  ACTN3; actinin alpha 3 [KO:K21073]
+            88  ACTN2; actinin alpha 2 [KO:K21073]
+            1824  DSC2; desmocollin 2 [KO:K07601]
+            5318  PKP2; plakophilin 2 [KO:K12642]
+            1832  DSP; desmoplakin [KO:K10381]
+            1829  DSG2; desmoglein 2 [KO:K07597]
+            2697  GJA1; gap junction protein alpha 1 [KO:K07372]
+COMPOUND    C00076  Calcium cation
+            C01330  Sodium cation
+REFERENCE   PMID:19205777
+  AUTHORS   Herren T, Gerber PA, Duru F
+  TITLE     Arrhythmogenic right ventricular cardiomyopathy/dysplasia: a not so rare "disease of the desmosome" with multiple clinical presentations.
+  JOURNAL   Clin Res Cardiol 98:141-58 (2009)
+            DOI:10.1007/s00392-009-0751-4
+REFERENCE   PMID:17413274
+  AUTHORS   van Tintelen JP, Hofstra RM, Wiesfeld AC, van den Berg MP, Hauer RN, Jongbloed JD
+  TITLE     Molecular genetics of arrhythmogenic right ventricular cardiomyopathy: emerging horizon?
+  JOURNAL   Curr Opin Cardiol 22:185-92 (2007)
+            DOI:10.1097/HCO.0b013e3280d942c4
+REFERENCE   PMID:12270949
+  AUTHORS   Fatkin D, Graham RM
+  TITLE     Molecular mechanisms of inherited cardiomyopathies.
+  JOURNAL   Physiol Rev 82:945-80 (2002)
+            DOI:10.1152/physrev.00012.2002
+REFERENCE   PMID:11716909
+  AUTHORS   Franz WM, Muller OJ, Katus HA
+  TITLE     Cardiomyopathies: from genetics to the prospect of treatment.
+  JOURNAL   Lancet 358:1627-37 (2001)
+            DOI:10.1016/S0140-6736(01)06657-0
+REFERENCE   PMID:16823481
+  AUTHORS   MacRae CA, Birchmeier W, Thierfelder L
+  TITLE     Arrhythmogenic right ventricular cardiomyopathy: moving toward mechanism.
+  JOURNAL   J Clin Invest 116:1825-8 (2006)
+            DOI:10.1172/JCI29174
+REFERENCE   PMID:18382419
+  AUTHORS   Awad MM, Calkins H, Judge DP
+  TITLE     Mechanisms of disease: molecular genetics of arrhythmogenic right ventricular dysplasia/cardiomyopathy.
+  JOURNAL   Nat Clin Pract Cardiovasc Med 5:258-67 (2008)
+            DOI:10.1038/ncpcardio1182
+REFERENCE   PMID:16101641
+  AUTHORS   Sen-Chowdhry S, Syrris P, McKenna WJ
+  TITLE     Genetics of right ventricular cardiomyopathy.
+  JOURNAL   J Cardiovasc Electrophysiol 16:927-35 (2005)
+            DOI:10.1111/j.1540-8167.2005.40842.x
+REFERENCE   PMID:16124859
+  AUTHORS   Ahmad F, Seidman JG, Seidman CE
+  TITLE     The genetic basis for cardiac remodeling.
+  JOURNAL   Annu Rev Genomics Hum Genet 6:185-216 (2005)
+            DOI:10.1146/annurev.genom.6.080604.162132
+REL_PATHWAY hsa04260  Cardiac muscle contraction
+            hsa04310  Wnt signaling pathway
+            hsa04512  ECM-receptor interaction
+            hsa04540  Gap junction
+KO_PATHWAY  ko05412
+///

@@ -1,0 +1,202 @@
+ENTRY       hsa04623                    Pathway
+NAME        Cytosolic DNA-sensing pathway - Homo sapiens (human)
+DESCRIPTION Specific families of pattern recognition receptors are responsible for detecting foreign DNA from invading microbes or host cells and generating innate immune responses. DAI is the first identified sensor of cytosolic DNA which activates the IRF and NF-{kappa}B transcription factors, leading to production of type I interferon and other cytokines. The second type of cytoplasmic DNA sensor is AIM2. Upon sensing DNA, AIM2 triggers the assembly of the inflammasome, culminating in interleukin maturation. In addition to these receptors, there is a mechanism to sense foreign DNA, with the host RNA polymerase III converting the DNA into RNA for recognition by the RNA sensor RIG-I. These pathways provide various means to alert the cell.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04623  Cytosolic DNA-sensing pathway
+NETWORK     nt06161  Human immunodeficiency virus type 1 (HIV-1)
+            nt06167  Human cytomegalovirus (HCMV)
+            nt06168  Herpes simplex virus 1 (HSV-1)
+            nt06520  CGAS-STING signaling
+  ELEMENT   N00395  cGAS-STING signaling pathway
+            N01571  DNA degradation by extracellular/endolysosomal DNAse
+DRUG        D08978  Pralnacasan (USAN/INN)
+            D10416  Belnacasan (USAN)
+            D11449  Etokimab (USAN)
+            D12352  Eclitasertib (USAN/INN)
+            D12375  Tozorakimab (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        11128  POLR3A; RNA polymerase III subunit A [KO:K03018] [EC:2.7.7.6]
+            55703  POLR3B; RNA polymerase III subunit B [KO:K03021] [EC:2.7.7.6]
+            10623  POLR3C; RNA polymerase III subunit C [KO:K03023]
+            661  POLR3D; RNA polymerase III subunit D [KO:K03026]
+            55718  POLR3E; RNA polymerase III subunit E [KO:K14721]
+            9533  POLR1C; RNA polymerase I and III subunit C [KO:K03027]
+            51728  POLR3K; RNA polymerase III subunit K [KO:K03019]
+            51082  POLR1D; RNA polymerase I and III subunit D [KO:K03020]
+            171568  POLR3H; RNA polymerase III subunit H [KO:K03022]
+            84265  POLR3GL; RNA polymerase III subunit GL [KO:K03024]
+            10622  POLR3G; RNA polymerase III subunit G [KO:K03024]
+            10621  POLR3F; RNA polymerase III subunit F [KO:K03025]
+            5434  POLR2E; RNA polymerase II, I and III subunit E [KO:K03013]
+            5435  POLR2F; RNA polymerase II, I and III subunit F [KO:K03014]
+            5437  POLR2H; RNA polymerase II, I and III subunit H [KO:K03016]
+            5440  POLR2K; RNA polymerase II, I and III subunit K [KO:K03009]
+            5441  POLR2L; RNA polymerase II, I and III subunit L [KO:K03007]
+            23586  RIGI; RNA sensor RIG-I [KO:K12646] [EC:3.6.4.13]
+            57506  MAVS; mitochondrial antiviral signaling protein [KO:K12648]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            3569  IL6; interleukin 6 [KO:K05405]
+            115004  CGAS; cyclic GMP-AMP synthase [KO:K17834] [EC:2.7.7.86]
+            340061  STING1; stimulator of interferon response cGAMP interactor 1 [KO:K12654]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            3665  IRF7; interferon regulatory factor 7 [KO:K09447]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            81030  ZBP1; Z-DNA binding protein 1 [KO:K12965]
+            8737  RIPK1; receptor interacting serine/threonine kinase 1 [KO:K02861] [EC:2.7.11.1]
+            11035  RIPK3; receptor interacting serine/threonine kinase 3 [KO:K08847] [EC:2.7.11.1]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            6351  CCL4; C-C motif chemokine ligand 4 [KO:K12964]
+            9560  CCL4L2; C-C motif chemokine ligand 4 like 2 [KO:K12964]
+            388372  CCL4L1; C-C motif chemokine ligand 4 like 1 [KO:K12964]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            3627  CXCL10; C-X-C motif chemokine ligand 10 [KO:K12671]
+            9447  AIM2; absent in melanoma 2 [KO:K12966]
+            114548  NLRP3; NLR family pyrin domain containing 3 [KO:K12800]
+            4210  MEFV; MEFV innate immunity regulator, pyrin [KO:K12803]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            29108  PYCARD; PYD and CARD domain containing [KO:K12799]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+            197259  MLKL; mixed lineage kinase domain like pseudokinase [KO:K08849] [EC:2.7.11.1]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            840  CASP7; caspase 7 [KO:K04397] [EC:3.4.22.60]
+            1687  GSDME; gasdermin E [KO:K22146]
+            79792  GSDMD; gasdermin D [KO:K20917]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3606  IL18; interleukin 18 [KO:K05482]
+            90865  IL33; interleukin 33 [KO:K12967]
+            103  ADAR; adenosine deaminase RNA specific [KO:K12968] [EC:3.5.4.37]
+            25939  SAMHD1; SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 [KO:K22544] [EC:3.1.5.-]
+            11277  TREX1; three prime repair exonuclease 1 [KO:K10790] [EC:3.1.11.2]
+            1777  DNASE2; deoxyribonuclease 2, lysosomal [KO:K01158] [EC:3.1.22.1]
+            58511  DNASE2B; deoxyribonuclease 2 beta [KO:K01158] [EC:3.1.22.1]
+COMPOUND    C00039  DNA
+            C20640  Cyclic GMP-AMP
+REFERENCE   PMID:19362700
+  AUTHORS   Yanai H, Savitsky D, Tamura T, Taniguchi T
+  TITLE     Regulation of the cytosolic DNA-sensing system in innate immunity: a current view.
+  JOURNAL   Curr Opin Immunol 21:17-22 (2009)
+            DOI:10.1016/j.coi.2009.01.005
+REFERENCE   PMID:19497760
+  AUTHORS   Vilaysane A, Muruve DA
+  TITLE     The innate immune response to DNA.
+  JOURNAL   Semin Immunol 21:208-14 (2009)
+            DOI:10.1016/j.smim.2009.05.006
+REFERENCE   PMID:18573338
+  AUTHORS   Takeshita F, Ishii KJ
+  TITLE     Intracellular DNA sensors in immunity.
+  JOURNAL   Curr Opin Immunol 20:383-8 (2008)
+            DOI:10.1016/j.coi.2008.05.009
+REFERENCE   PMID:19122387
+  AUTHORS   Takaoka A, Shinohara S
+  TITLE     DNA sensors in innate immune system.
+  JOURNAL   Uirusu 58:37-46 (2008)
+            DOI:10.2222/jsv.58.37
+REFERENCE   PMID:18280611
+  AUTHORS   Takaoka A, Taniguchi T
+  TITLE     Cytosolic DNA recognition for triggering innate immune responses.
+  JOURNAL   Adv Drug Deliv Rev 60:847-57 (2008)
+            DOI:10.1016/j.addr.2007.12.002
+REFERENCE   PMID:18941233
+  AUTHORS   Kaiser WJ, Upton JW, Mocarski ES
+  TITLE     Receptor-interacting protein homotypic interaction motif-dependent control of NF-kappa B activation via the DNA-dependent activator of IFN regulatory factors.
+  JOURNAL   J Immunol 181:6427-34 (2008)
+            DOI:10.4049/jimmunol.181.9.6427
+REFERENCE   PMID:19590578
+  AUTHORS   Rebsamen M, Heinz LX, Meylan E, Michallet MC, Schroder K, Hofmann K, Vazquez J, Benedict CA, Tschopp J
+  TITLE     DAI/ZBP1 recruits RIP1 and RIP3 through RIP homotypic interaction motifs to activate NF-kappaB.
+  JOURNAL   EMBO Rep 10:916-22 (2009)
+            DOI:10.1038/embor.2009.109
+REFERENCE   PMID:18375758
+  AUTHORS   Wang Z, Choi MK, Ban T, Yanai H, Negishi H, Lu Y, Tamura T, Takaoka A, Nishikura K, Taniguchi T
+  TITLE     Regulation of innate immune responses by DAI (DLM-1/ZBP1) and other DNA-sensing molecules.
+  JOURNAL   Proc Natl Acad Sci U S A 105:5477-82 (2008)
+            DOI:10.1073/pnas.0801295105
+REFERENCE   PMID:18724932
+  AUTHORS   Stetson DB, Ko JS, Heidmann T, Medzhitov R
+  TITLE     Trex1 prevents cell-intrinsic initiation of autoimmunity.
+  JOURNAL   Cell 134:587-98 (2008)
+            DOI:10.1016/j.cell.2008.06.032
+REFERENCE   PMID:19321146
+  AUTHORS   Schroder K, Muruve DA, Tschopp J
+  TITLE     Innate immunity: cytoplasmic DNA sensing by the AIM2 inflammasome.
+  JOURNAL   Curr Biol 19:R262-5 (2009)
+            DOI:10.1016/j.cub.2009.02.011
+REFERENCE   PMID:19567913
+  AUTHORS   Krieg AM
+  TITLE     AIMing 2 detect foreign DNA.
+  JOURNAL   Sci Signal 2:pe39 (2009)
+            DOI:10.1126/scisignal.277pe39
+REFERENCE   PMID:19665965
+  AUTHORS   O'Neill LA
+  TITLE     DNA makes RNA makes innate immunity.
+  JOURNAL   Cell 138:428-30 (2009)
+            DOI:10.1016/j.cell.2009.07.021
+REFERENCE   PMID:16286919
+  AUTHORS   Ishii KJ, Coban C, Kato H, Takahashi K, Torii Y, Takeshita F, Ludwig H, Sutter G, Suzuki K, Hemmi H, Sato S, Yamamoto M, Uematsu S, Kawai T, Takeuchi O, Akira S
+  TITLE     A Toll-like receptor-independent antiviral response induced by double-stranded B-form DNA.
+  JOURNAL   Nat Immunol 7:40-8 (2006)
+            DOI:10.1038/ni1282
+REFERENCE   PMID:19767723
+  AUTHORS   Cao X
+  TITLE     New DNA-sensing pathway feeds RIG-I with RNA.
+  JOURNAL   Nat Immunol 10:1049-51 (2009)
+            DOI:10.1038/ni1009-1049
+REFERENCE   PMID:23258413
+  AUTHORS   Sun L, Wu J, Du F, Chen X, Chen ZJ
+  TITLE     Cyclic GMP-AMP synthase is a cytosolic DNA sensor that activates the type I interferon pathway.
+  JOURNAL   Science 339:786-91 (2013)
+            DOI:10.1126/science.1232458
+REFERENCE   PMID:35006429
+  AUTHORS   Gao M, He Y, Tang H, Chen X, Liu S, Tao Y
+  TITLE     cGAS/STING: novel perspectives of the classic pathway.
+  JOURNAL   Mol Biomed 1:7 (2020)
+            DOI:10.1186/s43556-020-00006-z
+REFERENCE   PMID:34949589
+  AUTHORS   Benjamin P, Sudhakar S, D'Arco F, Lobel U, Carney O, Roux CJ, Boddaert N, Hemingway C, Eleftheriou D, Mankad K
+  TITLE     Spectrum of Neuroradiologic Findings Associated with Monogenic Interferonopathies.
+  JOURNAL   AJNR Am J Neuroradiol 43:2-10 (2022)
+            DOI:10.3174/ajnr.A7362
+REFERENCE   PMID:32829024
+  AUTHORS   Place DE, Lee S, Kanneganti TD
+  TITLE     PANoptosis in microbial infection.
+  JOURNAL   Curr Opin Microbiol 59:42-49 (2021)
+            DOI:10.1016/j.mib.2020.07.012
+REFERENCE   PMID:34970269
+  AUTHORS   Jiang W, Deng Z, Dai X, Zhao W
+  TITLE     PANoptosis: A New Insight Into Oral Infectious Diseases.
+  JOURNAL   Front Immunol 12:789610 (2021)
+            DOI:10.3389/fimmu.2021.789610
+REFERENCE   PMID:34504660
+  AUTHORS   Wang Y, Kanneganti TD
+  TITLE     From pyroptosis, apoptosis and necroptosis to PANoptosis: A mechanistic compendium of programmed cell death pathways.
+  JOURNAL   Comput Struct Biotechnol J 19:4641-4657 (2021)
+            DOI:10.1016/j.csbj.2021.07.038
+REL_PATHWAY hsa04064  NF-kappa B signaling pathway
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04210  Apoptosis
+            hsa04217  Necroptosis
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+KO_PATHWAY  ko04623
+///

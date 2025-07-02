@@ -1,0 +1,427 @@
+ENTRY       hsa05206                    Pathway
+NAME        MicroRNAs in cancer - Homo sapiens (human)
+DESCRIPTION MicroRNA (miRNA) is a cluster of small non-encoding RNA molecules of 21 - 23 nucleotides in length, which controls gene expression post-transcriptionally either via the degradation of target mRNAs or the inhibition of protein translation. Using high-throughput profiling, dysregulation of miRNAs has been widely observed in different stages of cancer. The upregulation (overexpression) of specific miRNAs could lead to the repression of tumor suppressor gene expression, and conversely the downregulation of specific miRNAs could result in an increase of oncogene expression; both these situations induce subsequent malignant effects on cell proliferation, differentiation, and apoptosis that lead to tumor growth and progress. The miRNA signatures of cancer observed in various studies differ significantly. These inconsistencies occur due to the differences in the study populations and methodologies used. This pathway map shows the summarized results from various studies in 9 cancers, each of which is presented in a review article.
+CLASS       Human Diseases; Cancer: overview
+PATHWAY_MAP hsa05206  MicroRNAs in cancer
+DRUG        D03021  Azacitidine (JAN/USAN/INN)
+            D03665  Decitabine (USAN/INN)
+            D11163  Cobomarsen (USAN/INN)
+            D11164  Cobomarsen sodium (USAN)
+            D11444  Tazemetostat (USAN/INN)
+            D11485  Tazemetostat hydrobromide (JAN/USAN)
+            D11551  Valemetostat
+            D11662  Valemetostat tosilate (JAN)
+            D11740  Roducitabine (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        406952  MIR17; microRNA 17 [KO:K17002]
+            406953  MIR18A; microRNA 18a [KO:K17003]
+            406979  MIR19A; microRNA 19a [KO:K17005]
+            406981  MIR19B2; microRNA 19b-2 [KO:K23559]
+            406980  MIR19B1; microRNA 19b-1 [KO:K23559]
+            406982  MIR20A; microRNA 20a [KO:K17006]
+            407048  MIR92A1; microRNA 92a-1 [KO:K17008]
+            407049  MIR92A2; microRNA 92a-2 [KO:K17008]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            407006  MIR221; microRNA 221 [KO:K17010]
+            407007  MIR222; microRNA 222 [KO:K17011]
+            1027  CDKN1B; cyclin dependent kinase inhibitor 1B [KO:K06624]
+            406991  MIR21; microRNA 21 [KO:K16863]
+            7078  TIMP3; TIMP metallopeptidase inhibitor 3 [KO:K16866]
+            406881  MIRLET7A1; microRNA let-7a-1 [KO:K16980]
+            406882  MIRLET7A2; microRNA let-7a-2 [KO:K16980]
+            406883  MIRLET7A3; microRNA let-7a-3 [KO:K16980]
+            406884  MIRLET7B; microRNA let-7b [KO:K16980]
+            406886  MIRLET7D; microRNA let-7d [KO:K16980]
+            406887  MIRLET7E; microRNA let-7e [KO:K16980]
+            406888  MIRLET7F1; microRNA let-7f-1 [KO:K16980]
+            406889  MIRLET7F2; microRNA let-7f-2 [KO:K16980]
+            406890  MIRLET7G; microRNA let-7g [KO:K16980]
+            406891  MIRLET7I; microRNA let-7i [KO:K16980]
+            406885  MIRLET7C; microRNA let-7c [KO:K17397]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            993  CDC25A; cell division cycle 25A [KO:K06645] [EC:3.1.3.48]
+            994  CDC25B; cell division cycle 25B [KO:K05866] [EC:3.1.3.48]
+            995  CDC25C; cell division cycle 25C [KO:K05867] [EC:3.1.3.48]
+            8091  HMGA2; high mobility group AT-hook 2 [KO:K09283]
+            406901  MIR107; microRNA 107 [KO:K17396]
+            406948  MIR15A; microRNA 15a [KO:K16986]
+            406949  MIR15B; microRNA 15b [KO:K16987]
+            406950  MIR16-1; microRNA 16-1 [KO:K16988]
+            406951  MIR16-2; microRNA 16-2 [KO:K16988]
+            595  CCND1; cyclin D1 [KO:K04503]
+            894  CCND2; cyclin D2 [KO:K10151]
+            898  CCNE1; cyclin E1 [KO:K06626]
+            9134  CCNE2; cyclin E2 [KO:K06626]
+            406913  MIR126; microRNA 126 [KO:K16978]
+            1398  CRK; CRK proto-oncogene, adaptor protein [KO:K04438]
+            1399  CRKL; CRK like proto-oncogene, adaptor protein [KO:K04438]
+            406904  MIR1-1; microRNA 1-1 [KO:K16972]
+            406905  MIR1-2; microRNA 1-2 [KO:K16972]
+            9759  HDAC4; histone deacetylase 4 [KO:K11406] [EC:3.5.1.98]
+            10014  HDAC5; histone deacetylase 5 [KO:K11406] [EC:3.5.1.98]
+            27086  FOXP1; forkhead box P1 [KO:K23582]
+            5292  PIM1; Pim-1 proto-oncogene, serine/threonine kinase [KO:K04702] [EC:2.7.11.1]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            407021  MIR29A; microRNA 29a [KO:K16995]
+            407024  MIR29B1; microRNA 29b-1 [KO:K16996]
+            407025  MIR29B2; microRNA 29b-2 [KO:K16996]
+            407026  MIR29C; microRNA 29c [KO:K16997]
+            1788  DNMT3A; DNA methyltransferase 3 alpha [KO:K17398] [EC:2.1.1.37]
+            1789  DNMT3B; DNA methyltransferase 3 beta [KO:K17399] [EC:2.1.1.37]
+            406922  MIR133A1; microRNA 133a-1 [KO:K16970]
+            406923  MIR133A2; microRNA 133a-2 [KO:K16970]
+            442890  MIR133B; microRNA 133b [KO:K16971]
+            4170  MCL1; MCL1 apoptosis regulator, BCL2 family member [KO:K02539]
+            599  BCL2L2; BCL2 like 2 [KO:K02163]
+            406937  MIR145; microRNA 145 [KO:K16974]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            406985  MIR200C; microRNA 200c [KO:K17017]
+            6935  ZEB1; zinc finger E-box binding homeobox 1 [KO:K09299]
+            406933  MIR141; microRNA 141 [KO:K17018]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            406959  MIR183; microRNA 183 [KO:K17116]
+            7430  EZR; ezrin [KO:K08007]
+            406910  MIR125A; microRNA 125a [KO:K16993]
+            406911  MIR125B1; microRNA 125b-1 [KO:K16994]
+            406912  MIR125B2; microRNA 125b-2 [KO:K16994]
+            27250  PDCD4; programmed cell death 4 [KO:K16865]
+            406935  MIR143; microRNA 143 [KO:K17023]
+            406967  MIR192; microRNA 192 [KO:K17131]
+            406969  MIR194-1; microRNA 194-1 [KO:K17371]
+            406970  MIR194-2; microRNA 194-2 [KO:K17371]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            406997  MIR215; microRNA 215 [KO:K17167]
+            407020  MIR28; microRNA 28 [KO:K17366]
+            407034  MIR30E; microRNA 30e [KO:K17110]
+            407033  MIR30D; microRNA 30d [KO:K17110]
+            407029  MIR30A; microRNA 30a [KO:K17110]
+            407030  MIR30B; microRNA 30b [KO:K17111]
+            407031  MIR30C1; microRNA 30c-1 [KO:K17040]
+            407032  MIR30C2; microRNA 30c-2 [KO:K17040]
+            7168  TPM1; tropomyosin 1 [KO:K10373]
+            10253  SPRY2; sprouty RTK signaling antagonist 2 [KO:K17383]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            5268  SERPINB5; serpin family B member 5 [KO:K10139]
+            406947  MIR155; microRNA 155 [KO:K17009]
+            406986  MIR203A; microRNA 203a [KO:K16975]
+            100616173  MIR203B; microRNA 203b [KO:K16975]
+            406988  MIR205; microRNA 205 [KO:K17150]
+            407018  MIR27A; microRNA 27a [KO:K17112]
+            407019  MIR27B; microRNA 27b [KO:K17113]
+            6768  ST14; ST14 transmembrane serine protease matriptase [KO:K08670] [EC:3.4.21.109]
+            1545  CYP1B1; cytochrome P450 family 1 subfamily B member 1 [KO:K07410] [EC:1.14.14.1]
+            407035  MIR31; microRNA 31 [KO:K17183]
+            407055  MIR99A; microRNA 99a [KO:K17367]
+            406892  MIR100; microRNA 100 [KO:K17041]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            57521  RPTOR; regulatory associated protein of MTOR complex 1 [KO:K07204]
+            1591  CYP24A1; cytochrome P450 family 24 subfamily A member 1 [KO:K07436] [EC:1.14.15.16]
+            2064  ERBB2; erb-b2 receptor tyrosine kinase 2 [KO:K05083] [EC:2.7.10.1]
+            2065  ERBB3; erb-b2 receptor tyrosine kinase 3 [KO:K05084] [EC:2.7.10.1]
+            25  ABL1; ABL proto-oncogene 1, non-receptor tyrosine kinase [KO:K06619] [EC:2.7.10.2]
+            8626  TP63; tumor protein p63 [KO:K10149]
+            9839  ZEB2; zinc finger E-box binding homeobox 2 [KO:K23560]
+            6624  FSCN1; fascin actin-bundling protein 1 [KO:K23551]
+            494324  MIR375; microRNA 375 [KO:K16976]
+            693187  MIR602; microRNA 602 [KO:K17379]
+            11186  RASSF1; Ras association domain family member 1 [KO:K09850]
+            406903  MIR10B; microRNA 10b [KO:K17393]
+            3236  HOXD10; homeobox D10 [KO:K09295]
+            54541  DDIT4; DNA damage inducible transcript 4 [KO:K08270]
+            90427  BMF; Bcl2 modifying factor [KO:K17460]
+            407009  MIR224; microRNA 224 [KO:K17042]
+            10298  PAK4; p21 (RAC1) activated kinase 4 [KO:K05734] [EC:2.7.11.1]
+            4318  MMP9; matrix metallopeptidase 9 [KO:K01403] [EC:3.4.24.35]
+            574031  MIR363; microRNA 363 [KO:K17036]
+            574452  MIR494; microRNA 494 [KO:K17378]
+            693200  MIR615; microRNA 615 [KO:K17380]
+            693210  MIR625; microRNA 625 [KO:K17381]
+            407014  MIR25; microRNA 25 [KO:K17038]
+            407040  MIR34A; microRNA 34a [KO:K16982]
+            407053  MIR96; microRNA 96 [KO:K17114]
+            406902  MIR10A; microRNA 10a [KO:K16864]
+            407010  MIR23A; microRNA 23a [KO:K17165]
+            407011  MIR23B; microRNA 23b [KO:K17394]
+            100500809  MIR23C; microRNA 23c [KO:K17395]
+            406906  MIR122; microRNA 122 [KO:K17020]
+            6541  SLC7A1; solute carrier family 7 member 1 [KO:K13863]
+            900  CCNG1; cyclin G1 [KO:K10145]
+            3162  HMOX1; heme oxygenase 1 [KO:K00510] [EC:1.14.14.18]
+            406942  MIR150; microRNA 150 [KO:K17024]
+            407008  MIR223; microRNA 223 [KO:K17001]
+            3925  STMN1; stathmin 1 [KO:K04381]
+            442909  MIR342; microRNA 342 [KO:K17132]
+            494335  MIR423; microRNA 423 [KO:K17376]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            406978  MIR199B; microRNA 199b [KO:K17119]
+            442898  MIR324; microRNA 324 [KO:K17152]
+            619552  MIR483; microRNA 483 [KO:K17137]
+            407015  MIR26A1; microRNA 26a-1 [KO:K16984]
+            407016  MIR26A2; microRNA 26a-2 [KO:K16984]
+            407017  MIR26B; microRNA 26b [KO:K16985]
+            406943  MIR152; microRNA 152 [KO:K17370]
+            1786  DNMT1; DNA methyltransferase 1 [KO:K00558] [EC:2.1.1.37]
+            442891  MIR135B; microRNA 135b [KO:K17144]
+            406926  MIR135A2; microRNA 135a-2 [KO:K17144]
+            406925  MIR135A1; microRNA 135a-1 [KO:K17144]
+            324  APC; APC regulator of WNT signaling pathway [KO:K02085]
+            10297  APC2; APC regulator of WNT signaling pathway 2 [KO:K02085]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5598  MAPK7; mitogen-activated protein kinase 7 [KO:K04464] [EC:2.7.11.24]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            406983  MIR200A; microRNA 200a [KO:K17015]
+            406984  MIR200B; microRNA 200b [KO:K17016]
+            3190  HNRNPK; heterogeneous nuclear ribonucleoprotein K [KO:K12886]
+            8434  RECK; reversion inducing cysteine rich protein with kazal motifs [KO:K17461]
+            406907  MIR124-1; microRNA 124-1 [KO:K17126]
+            406909  MIR124-3; microRNA 124-3 [KO:K17126]
+            406908  MIR124-2; microRNA 124-2 [KO:K17126]
+            406928  MIR137; microRNA 137 [KO:K17369]
+            406915  MIR128-1; microRNA 128-1 [KO:K17130]
+            406916  MIR128-2; microRNA 128-2 [KO:K17130]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            407043  MIR7-1; microRNA 7-1 [KO:K17365]
+            407044  MIR7-2; microRNA 7-2 [KO:K17365]
+            407045  MIR7-3; microRNA 7-3 [KO:K17365]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            442900  MIR326; microRNA 326 [KO:K17372]
+            4851  NOTCH1; notch receptor 1 [KO:K02599]
+            4853  NOTCH2; notch receptor 2 [KO:K20994]
+            4854  NOTCH3; notch receptor 3 [KO:K20995]
+            4855  NOTCH4; notch receptor 4 [KO:K20996]
+            648  BMI1; BMI1 proto-oncogene, polycomb ring finger [KO:K11459]
+            100532731  COMMD3-BMI1; COMMD3-BMI1 readthrough [KO:K11459]
+            406938  MIR146A; microRNA 146a [KO:K17012]
+            4325  MMP16; matrix metallopeptidase 16 [KO:K07996] [EC:3.4.24.-]
+            406954  MIR181A2; microRNA 181a-2 [KO:K17025]
+            406995  MIR181A1; microRNA 181a-1 [KO:K17025]
+            406955  MIR181B1; microRNA 181b-1 [KO:K17026]
+            406956  MIR181B2; microRNA 181b-2 [KO:K17026]
+            406957  MIR181C; microRNA 181c [KO:K17027]
+            574457  MIR181D; microRNA 181d [KO:K17028]
+            472  ATM; ATM serine/threonine kinase [KO:K04728] [EC:2.7.11.1]
+            8651  SOCS1; suppressor of cytokine signaling 1 [KO:K04694]
+            442918  MIR373; microRNA 373 [KO:K17000]
+            574467  MIR520A; microRNA 520a [KO:K17175]
+            574484  MIR520G; microRNA 520g [KO:K17175]
+            574493  MIR520H; microRNA 520h [KO:K17175]
+            574473  MIR520B; microRNA 520b [KO:K17175]
+            574461  MIR520E; microRNA 520e [KO:K17175]
+            960  CD44; CD44 molecule (Indian blood group) [KO:K06256]
+            406895  MIR103A1; microRNA 103a-1 [KO:K16989]
+            100302282  MIR103B2; microRNA 103b-2 [KO:K16989]
+            406896  MIR103A2; microRNA 103a-2 [KO:K16989]
+            100302238  MIR103B1; microRNA 103b-1 [KO:K16989]
+            23405  DICER1; dicer 1, ribonuclease III [KO:K11592] [EC:3.1.26.-]
+            7976  FZD3; frizzled class receptor 3 [KO:K02329]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            5962  RDX; radixin [KO:K05762]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            574455  MIR193B; microRNA 193b [KO:K17148]
+            5328  PLAU; plasminogen activator, urokinase [KO:K01348] [EC:3.4.21.73]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            23414  ZFPM2; zinc finger protein, FOG family member 2 [KO:K17442]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            7329  UBE2I; ubiquitin conjugating enzyme E2 I [KO:K10577]
+            442904  MIR335; microRNA 335 [KO:K17033]
+            6659  SOX4; SRY-box transcription factor 4 [KO:K23581]
+            3371  TNC; tenascin C [KO:K06252]
+            63923  TNN; tenascin N [KO:K06252]
+            7143  TNR; tenascin R [KO:K06252]
+            7148  TNXB; tenascin XB [KO:K06252]
+            406989  MIR206; microRNA 206 [KO:K16973]
+            574411  MIR451A; microRNA 451a [KO:K17172]
+            5243  ABCB1; ATP binding cassette subfamily B member 1 [KO:K05658] [EC:7.6.2.2]
+            442910  MIR345; microRNA 345 [KO:K17375]
+            4363  ABCC1; ATP binding cassette subfamily C member 1 [KO:K05665] [EC:7.6.2.3]
+            406996  MIR214; microRNA 214 [KO:K17151]
+            672  BRCA1; BRCA1 DNA repair associated [KO:K10605] [EC:2.3.2.27]
+            406900  MIR106B; microRNA 106b [KO:K17035]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            406992  MIR210; microRNA 210 [KO:K17178]
+            1942  EFNA1; ephrin A1 [KO:K05462]
+            1943  EFNA2; ephrin A2 [KO:K05462]
+            1944  EFNA3; ephrin A3 [KO:K05462]
+            1945  EFNA4; ephrin A4 [KO:K05462]
+            1946  EFNA5; ephrin A5 [KO:K05462]
+            7057  THBS1; thrombospondin 1 [KO:K16857]
+            10642  IGF2BP1; insulin like growth factor 2 mRNA binding protein 1 [KO:K17391]
+            131405  TRIM71; tripartite motif containing 71 [KO:K12035] [EC:2.3.2.27]
+            407041  MIR34B; microRNA 34b [KO:K16983]
+            407042  MIR34C; microRNA 34c [KO:K23572]
+            407046  MIR9-1; microRNA 9-1 [KO:K16977]
+            407047  MIR9-2; microRNA 9-2 [KO:K16977]
+            407051  MIR9-3; microRNA 9-3 [KO:K16977]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            406976  MIR199A1; microRNA 199a-1 [KO:K17118]
+            406977  MIR199A2; microRNA 199a-2 [KO:K17118]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            2261  FGFR3; fibroblast growth factor receptor 3 [KO:K05094] [EC:2.7.10.1]
+            9252  RPS6KA5; ribosomal protein S6 kinase A5 [KO:K04445] [EC:2.7.11.1]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            4194  MDM4; MDM4 regulator of p53 [KO:K10127]
+            5156  PDGFRA; platelet derived growth factor receptor alpha [KO:K04363] [EC:2.7.10.1]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            406893  MIR101-1; microRNA 101-1 [KO:K17129]
+            406894  MIR101-2; microRNA 101-2 [KO:K17129]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            406971  MIR195; microRNA 195 [KO:K17029]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            6464  SHC1; SHC adaptor protein 1 [KO:K06279]
+            5154  PDGFA; platelet derived growth factor subunit A [KO:K04359]
+            406917  MIR129-1; microRNA 129-1 [KO:K17368]
+            406918  MIR129-2; microRNA 129-2 [KO:K17368]
+            399694  SHC4; SHC adaptor protein 4 [KO:K17449]
+            5155  PDGFB; platelet derived growth factor subunit B [KO:K17386]
+            5159  PDGFRB; platelet derived growth factor receptor beta [KO:K05089] [EC:2.7.10.1]
+            1029  CDKN2A; cyclin dependent kinase inhibitor 2A [KO:K06621]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            407036  MIR32; microRNA 32 [KO:K17039]
+            10018  BCL2L11; BCL2 like 11 [KO:K16341]
+            4082  MARCKS; myristoylated alanine rich protein kinase C substrate [KO:K12561]
+            659  BMPR2; bone morphogenetic protein receptor type 2 [KO:K04671] [EC:2.7.11.30]
+            554213  MIR449A; microRNA 449a [KO:K17377]
+            3065  HDAC1; histone deacetylase 1 [KO:K06067] [EC:3.5.1.98]
+            3066  HDAC2; histone deacetylase 2 [KO:K06067] [EC:3.5.1.98]
+            2146  EZH2; enhancer of zeste 2 polycomb repressive complex 2 subunit [KO:K11430] [EC:2.1.1.356]
+            27165  GLS2; glutaminase 2 [KO:K01425] [EC:3.5.1.2]
+            2744  GLS; glutaminase [KO:K01425] [EC:3.5.1.2]
+            23411  SIRT1; sirtuin 1 [KO:K11411] [EC:2.3.1.286]
+            7473  WNT3; Wnt family member 3 [KO:K00312]
+            89780  WNT3A; Wnt family member 3A [KO:K00312]
+            442902  MIR330; microRNA 330 [KO:K17373]
+            442903  MIR331; microRNA 331 [KO:K17374]
+            113130  CDCA5; cell division cycle associated 5 [KO:K17390]
+            9493  KIF23; kinesin family member 23 [KO:K17387]
+            574476  MIR520C; microRNA 520c [KO:K17389]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            5581  PRKCE; protein kinase C epsilon [KO:K18050] [EC:2.7.11.13]
+            85414  SLC45A3; solute carrier family 45 member 3 [KO:K15379]
+            7431  VIM; vimentin [KO:K07606]
+REFERENCE   PMID:18817506
+  AUTHORS   Lee YS, Dutta A
+  TITLE     MicroRNAs in cancer.
+  JOURNAL   Annu Rev Pathol 4:199-227 (2009)
+            DOI:10.1146/annurev.pathol.4.110807.092222
+REFERENCE   PMID:21402473
+  AUTHORS   Babashah S, Soleimani M
+  TITLE     The oncogenic and tumour suppressive roles of microRNAs in cancer and apoptosis.
+  JOURNAL   Eur J Cancer 47:1127-37 (2011)
+            DOI:10.1016/j.ejca.2011.02.008
+REFERENCE   PMID:19630570
+  AUTHORS   Garzon R, Calin GA, Croce CM
+  TITLE     MicroRNAs in Cancer.
+  JOURNAL   Annu Rev Med 60:167-79 (2009)
+            DOI:10.1146/annurev.med.59.053006.104707
+REFERENCE   PMID:23075324
+  AUTHORS   Chen PS, Su JL, Hung MC
+  TITLE     Dysregulation of microRNAs in cancer.
+  JOURNAL   J Biomed Sci 19:90 (2012)
+            DOI:10.1186/1423-0127-19-90
+REFERENCE   PMID:22035854
+  AUTHORS   Ling H, Zhang W, Calin GA
+  TITLE     Principles of microRNA involvement in human cancers.
+  JOURNAL   Chin J Cancer 30:739-48 (2011)
+            DOI:10.5732/cjc.011.10243
+REFERENCE   PMID:22351564
+  AUTHORS   Iorio MV, Croce CM
+  TITLE     MicroRNA dysregulation in cancer: diagnostics, monitoring and therapeutics. A comprehensive review.
+  JOURNAL   EMBO Mol Med 4:143-59 (2012)
+            DOI:10.1002/emmm.201100209
+REFERENCE   PMID:21742789
+  AUTHORS   Sayed D, Abdellatif M
+  TITLE     MicroRNAs in development and disease.
+  JOURNAL   Physiol Rev 91:827-87 (2011)
+            DOI:10.1152/physrev.00006.2010
+REFERENCE   PMID:22345301
+  AUTHORS   Wang Q, Wang S, Wang H, Li P, Ma Z
+  TITLE     MicroRNAs: novel biomarkers for lung cancer diagnosis, prediction and treatment.
+  JOURNAL   Exp Biol Med (Maywood) 237:227-35 (2012)
+            DOI:10.1258/ebm.2011.011192
+REFERENCE   PMID:22580099
+  AUTHORS   Song JH, Meltzer SJ
+  TITLE     MicroRNAs in pathogenesis, diagnosis, and treatment of gastroesophageal cancers.
+  JOURNAL   Gastroenterology 143:35-47.e2 (2012)
+            DOI:10.1053/j.gastro.2012.05.003
+REFERENCE   PMID:23462054
+  AUTHORS   Chu Y, Zhu H, Lv L, Zhou Y, Huo J
+  TITLE     MiRNA s in oesophageal squamous cancer.
+  JOURNAL   Neth J Med 71:69-75 (2013)
+REFERENCE   PMID:19773200
+  AUTHORS   Kan T, Meltzer SJ
+  TITLE     MicroRNAs in Barrett's esophagus and esophageal adenocarcinoma.
+  JOURNAL   Curr Opin Pharmacol 9:727-32 (2009)
+            DOI:10.1016/j.coph.2009.08.009
+REFERENCE   PMID:20128019
+  AUTHORS   Smith CM, Watson DI, Michael MZ, Hussey DJ
+  TITLE     MicroRNAs, development of Barrett's esophagus, and progression to esophageal adenocarcinoma.
+  JOURNAL   World J Gastroenterol 16:531-7 (2010)
+            DOI:10.3748/wjg.v16.i5.531
+REFERENCE   PMID:23165235
+  AUTHORS   Song S, Ajani JA
+  TITLE     The role of microRNAs in cancers of the upper gastrointestinal tract.
+  JOURNAL   Nat Rev Gastroenterol Hepatol 10:109-18 (2013)
+            DOI:10.1038/nrgastro.2012.210
+REFERENCE   PMID:21565290
+  AUTHORS   Liu WH, Yeh SH, Chen PJ
+  TITLE     Role of microRNAs in hepatitis B virus replication and pathogenesis.
+  JOURNAL   Biochim Biophys Acta 1809:678-85 (2011)
+            DOI:10.1016/j.bbagrm.2011.04.008
+REFERENCE   PMID:23091478
+  AUTHORS   Hrasovec S, Glavac D
+  TITLE     MicroRNAs as Novel Biomarkers in Colorectal Cancer.
+  JOURNAL   Front Genet 3:180 (2012)
+            DOI:10.3389/fgene.2012.00180
+REFERENCE   PMID:22926415
+  AUTHORS   Liu H
+  TITLE     MicroRNAs in breast cancer initiation and progression.
+  JOURNAL   Cell Mol Life Sci 69:3587-99 (2012)
+            DOI:10.1007/s00018-012-1128-9
+REFERENCE   PMID:20345848
+  AUTHORS   Li SD, Zhang JR, Wang YQ, Wan XP
+  TITLE     The role of microRNAs in ovarian cancer initiation and progression.
+  JOURNAL   J Cell Mol Med 14:2240-9 (2010)
+            DOI:10.1111/j.1582-4934.2010.01058.x
+REFERENCE   PMID:23316212
+  AUTHORS   Zabolotneva AA, Zhavoronkov A, Garazha AV, Roumiantsev SA, Buzdin AA
+  TITLE     Characteristic patterns of microRNA expression in human bladder cancer.
+  JOURNAL   Front Genet 3:310 (2012)
+            DOI:10.3389/fgene.2012.00310
+REFERENCE   PMID:20221895
+  AUTHORS   Saini S, Majid S, Dahiya R
+  TITLE     Diet, microRNAs and prostate cancer.
+  JOURNAL   Pharm Res 27:1014-26 (2010)
+            DOI:10.1007/s11095-010-0086-x
+REL_PATHWAY hsa05210  Colorectal cancer
+            hsa05214  Glioma
+            hsa05215  Prostate cancer
+            hsa05219  Bladder cancer
+            hsa05222  Small cell lung cancer
+            hsa05223  Non-small cell lung cancer
+KO_PATHWAY  ko05206
+///

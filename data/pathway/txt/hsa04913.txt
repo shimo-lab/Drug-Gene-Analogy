@@ -1,0 +1,178 @@
+ENTRY       hsa04913                    Pathway
+NAME        Ovarian steroidogenesis - Homo sapiens (human)
+DESCRIPTION The ovarian steroids, 17-beta estradiol (E2) and progesterone (P4), are critical for normal uterine function, establishment and maintenance of pregnancy, and mammary gland development. Furthermore, the local effects that are essential for normal ovarian physiology are dependent on the endocrine, paracrine, and autocrine actions of E2, P4, and androgens. In most mammals (including humans and mice), ovarian steroidogenesis occurs according to the two-cell/two-gonadotropin theory. This theory describes how granulosa and theca cells work together to make the ovarian steroids. Theca cells respond to LH signaling by increasing the expression of enzymes necessary for the conversion of cholesterol to androgens, such as androstenedione (A) and testosterone (T). Granulosa cells respond to FSH signaling by increasing the expression of enzymes necessary for the conversion of theca-derived androgens into estrogens (E2 and estrone).
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04913  Ovarian steroidogenesis
+DRUG        D02692  Menotropins (USAN)
+            D04429  Follitropin alfa (genetical recombination) (JAN)
+            D04430  Follitropin beta (genetical recombination) (JAN)
+            D04824  Lutropin alfa (USAN/INN)
+            D05258  Serum gonadotrophin (JAN)
+            D06269  Urofollitropin (USAN/INN)
+            D06400  Follitropin delta (USAN)
+            D06457  Gonadotropin, chorionic (USP)
+            D06459  Purified human menopausal gonadotrophin (JAN)
+            D08895  Corifollitropin alfa (INN/USAN)
+DBLINKS     GO: 0050810
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1081  CGA; glycoprotein hormones, alpha polypeptide [KO:K08522]
+            3972  LHB; luteinizing hormone subunit beta [KO:K08521]
+            3973  LHCGR; luteinizing hormone/choriogonadotropin receptor [KO:K04248]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            122970  ACOT4; acyl-CoA thioesterase 4 [KO:K01068] [EC:3.1.2.2]
+            10965  ACOT2; acyl-CoA thioesterase 2 [KO:K01068] [EC:3.1.2.2]
+            641371  ACOT1; acyl-CoA thioesterase 1 [KO:K01068] [EC:3.1.2.2]
+            240  ALOX5; arachidonate 5-lipoxygenase [KO:K00461] [EC:1.13.11.34]
+            1573  CYP2J2; cytochrome P450 family 2 subfamily J member 2 [KO:K07418] [EC:1.14.14.1 1.14.14.73 1.14.14.74 1.14.14.75]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            3630  INS; insulin [KO:K04526]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            3949  LDLR; low density lipoprotein receptor [KO:K12473]
+            949  SCARB1; scavenger receptor class B member 1 [KO:K13885]
+            6770  STAR; steroidogenic acute regulatory protein [KO:K16931]
+            1583  CYP11A1; cytochrome P450 family 11 subfamily A member 1 [KO:K00498] [EC:1.14.15.6]
+            1586  CYP17A1; cytochrome P450 family 17 subfamily A member 1 [KO:K00512] [EC:1.14.14.19 1.14.14.32]
+            3292  HSD17B1; hydroxysteroid 17-beta dehydrogenase 1 [KO:K00044] [EC:1.1.1.62]
+            3294  HSD17B2; hydroxysteroid 17-beta dehydrogenase 2 [KO:K13368] [EC:1.1.1.62 1.1.1.239]
+            8644  AKR1C3; aldo-keto reductase family 1 member C3 [KO:K04119] [EC:1.1.1.51 1.1.1.188 1.1.1.213 1.1.1.357]
+            51478  HSD17B7; hydroxysteroid 17-beta dehydrogenase 7 [KO:K13373] [EC:1.1.1.62 1.1.1.270]
+            3283  HSD3B1; hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1 [KO:K00070] [EC:1.1.1.145 5.3.3.1]
+            3284  HSD3B2; hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2 [KO:K00070] [EC:1.1.1.145 5.3.3.1]
+            2488  FSHB; follicle stimulating hormone subunit beta [KO:K05250]
+            2492  FSHR; follicle stimulating hormone receptor [KO:K04247]
+            1588  CYP19A1; cytochrome P450 family 19 subfamily A member 1 [KO:K07434] [EC:1.14.14.14]
+            1545  CYP1B1; cytochrome P450 family 1 subfamily B member 1 [KO:K07410] [EC:1.14.14.1]
+            1543  CYP1A1; cytochrome P450 family 1 subfamily A member 1 [KO:K07408] [EC:1.14.14.1]
+            9210  BMP15; bone morphogenetic protein 15 [KO:K05498]
+            654  BMP6; bone morphogenetic protein 6 [KO:K16620]
+COMPOUND    C00187  Cholesterol
+            C00219  Arachidonate
+            C00280  Androstenedione
+            C00410  Progesterone
+            C00468  Estrone
+            C00535  Testosterone
+            C00575  3',5'-Cyclic AMP
+            C00639  Prostaglandin F2alpha
+            C00951  Estradiol-17beta
+            C01176  17alpha-Hydroxyprogesterone
+            C01227  Dehydroepiandrosterone
+            C01953  Pregnenolone
+            C02249  Arachidonyl-CoA
+            C02530  Cholesterol ester
+            C04295  Androstenediol
+            C05138  17alpha-Hydroxypregnenolone
+            C05301  2-Hydroxyestradiol
+            C05356  5(S)-HPETE
+            C05966  15(S)-HPETE
+            C14209  4-Hydroxy-17beta-estradiol
+            C14768  5,6-EET
+            C14769  8,9-EET
+            C14770  11,12-EET
+            C14777  12(S)-HETE
+REFERENCE   PMID:15541573
+  AUTHORS   Havelock JC, Rainey WE, Carr BR
+  TITLE     Ovarian granulosa cell lines.
+  JOURNAL   Mol Cell Endocrinol 228:67-78 (2004)
+            DOI:10.1016/j.mce.2004.04.018
+REFERENCE   PMID:15831519
+  AUTHORS   Stocco DM, Wang X, Jo Y, Manna PR
+  TITLE     Multiple signaling pathways regulating steroidogenesis and steroidogenic acute regulatory protein expression: more complicated than we thought.
+  JOURNAL   Mol Endocrinol 19:2647-59 (2005)
+            DOI:10.1210/me.2004-0532
+REFERENCE   PMID:20937107
+  AUTHORS   Wen X, Li D, Tozer AJ, Docherty SM, Iles RK
+  TITLE     Estradiol, progesterone, testosterone profiles in human follicular fluid and cultured granulosa cells from luteinized pre-ovulatory follicles.
+  JOURNAL   Reprod Biol Endocrinol 8:117 (2010)
+            DOI:10.1186/1477-7827-8-117
+REFERENCE   PMID:11704115
+  AUTHORS   Erickson GF, Shimasaki S
+  TITLE     The physiology of folliculogenesis: the role of novel growth factors.
+  JOURNAL   Fertil Steril 76:943-9 (2001)
+            DOI:10.1016/S0015-0282(01)02859-X
+REFERENCE   PMID:11883103
+  AUTHORS   Wood JR, Strauss JF 3rd
+  TITLE     Multiple signal transduction pathways regulate ovarian steroidogenesis.
+  JOURNAL   Rev Endocr Metab Disord 3:33-46 (2002)
+            DOI:10.1023/A:1012748718150
+REFERENCE   PMID:16603089
+  AUTHORS   Drummond AE
+  TITLE     The role of steroids in follicular growth.
+  JOURNAL   Reprod Biol Endocrinol 4:16 (2006)
+            DOI:10.1186/1477-7827-4-16
+REFERENCE   PMID:21862696
+  AUTHORS   Craig ZR, Wang W, Flaws JA
+  TITLE     Endocrine-disrupting chemicals in ovarian function: effects on steroidogenesis, metabolism and nuclear receptor signaling.
+  JOURNAL   Reproduction 142:633-46 (2011)
+            DOI:10.1530/REP-11-0136
+REFERENCE   PMID:20628033
+  AUTHORS   Young JM, McNeilly AS
+  TITLE     Theca: the forgotten cell of the ovarian follicle.
+  JOURNAL   Reproduction 140:489-504 (2010)
+            DOI:10.1530/REP-10-0094
+REFERENCE   PMID:18440223
+  AUTHORS   Diamanti-Kandarakis E, Argyrakopoulou G, Economou F, Kandaraki E, Koutsilieris M
+  TITLE     Defects in insulin signaling pathways in ovarian steroidogenesis and other tissues in polycystic ovary syndrome (PCOS).
+  JOURNAL   J Steroid Biochem Mol Biol 109:242-6 (2008)
+            DOI:10.1016/j.jsbmb.2008.03.014
+REFERENCE   PMID:11408113
+  AUTHORS   Spicer LJ
+  TITLE     Receptors for insulin-like growth factor-I and tumor necrosis factor-alpha are hormonally regulated in bovine granulosa and thecal cells.
+  JOURNAL   Anim Reprod Sci 67:45-58 (2001)
+            DOI:10.1016/S0378-4320(01)00114-2
+REFERENCE   PMID:10630400
+  AUTHORS   Wang X, Stocco DM
+  TITLE     Cyclic AMP and arachidonic acid: a tale of two pathways.
+  JOURNAL   Mol Cell Endocrinol 158:7-12 (1999)
+            DOI:10.1016/S0303-7207(99)00130-6
+REFERENCE   PMID:17003287
+  AUTHORS   Wang X, Shen CL, Dyson MT, Yin X, Schiffer RB, Grammas P, Stocco DM
+  TITLE     The involvement of epoxygenase metabolites of arachidonic acid in cAMP-stimulated steroidogenesis and steroidogenic acute regulatory protein gene expression.
+  JOURNAL   J Endocrinol 190:871-8 (2006)
+            DOI:10.1677/joe.1.06933
+REFERENCE   PMID:17008391
+  AUTHORS   Miyoshi T, Otsuka F, Inagaki K, Otani H, Takeda M, Suzuki J, Goto J, Ogura T, Makino H
+  TITLE     Differential regulation of steroidogenesis by bone morphogenetic proteins in granulosa cells: involvement of extracellularly regulated kinase signaling and oocyte actions in follicle-stimulating hormone-induced estrogen production.
+  JOURNAL   Endocrinology 148:337-45 (2007)
+            DOI:10.1210/en.2006-0966
+REFERENCE   PMID:11447221
+  AUTHORS   Otsuka F, Moore RK, Shimasaki S
+  TITLE     Biological function and cellular mechanism of bone morphogenetic protein-6 in the ovary.
+  JOURNAL   J Biol Chem 276:32889-95 (2001)
+            DOI:10.1074/jbc.M103212200
+REFERENCE   PMID:14769828
+  AUTHORS   Shimasaki S, Moore RK, Otsuka F, Erickson GF.
+  TITLE     The bone morphogenetic protein system in mammalian reproduction.
+  JOURNAL   Endocr Rev 25:72-101 (2004)
+            DOI:10.1210/er.2003-0007
+REFERENCE   PMID:16414178
+  AUTHORS   Lukacik P, Kavanagh KL, Oppermann U
+  TITLE     Structure and function of human 17beta-hydroxysteroid dehydrogenases.
+  JOURNAL   Mol Cell Endocrinol 248:61-71 (2006)
+            DOI:10.1016/j.mce.2005.12.007
+REL_PATHWAY hsa00140  Steroid hormone biosynthesis
+            hsa04350  TGF-beta signaling pathway
+            hsa04910  Insulin signaling pathway
+            hsa04912  GnRH signaling pathway
+KO_PATHWAY  ko04913
+///

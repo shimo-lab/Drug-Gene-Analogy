@@ -1,0 +1,18 @@
+ENTRY       hsa01232                    Pathway
+NAME        Nucleotide metabolism - Homo sapiens (human)
+PATHWAY_MAP hsa01232  Nucleotide metabolism
+MODULE      hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP [PATH:hsa01232]
+            hsa_M00050  Guanine ribonucleotide biosynthesis, IMP => GDP,GTP [PATH:hsa01232]
+            hsa_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP [PATH:hsa01232]
+            hsa_M00053  Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP [PATH:hsa01232]
+            hsa_M00938  Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP [PATH:hsa01232]
+            hsa_M00958  Adenine ribonucleotide degradation, AMP => Urate [PATH:hsa01232]
+            hsa_M00959  Guanine ribonucleotide degradation, GMP => Urate [PATH:hsa01232]
+DRUG        D11447  Arfolitixorin (USAN/INN)
+            D12387  Fosgemcitabine palabenamide (USAN/INN)
+            D12388  Fosifloxuridine nafalbenamide
+            D12465  Doxecitine (USAN/INN)
+            D12466  Doxribtimine (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+KO_PATHWAY  ko01232
+///

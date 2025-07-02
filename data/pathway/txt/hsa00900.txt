@@ -1,0 +1,147 @@
+ENTRY       hsa00900                    Pathway
+NAME        Terpenoid backbone biosynthesis - Homo sapiens (human)
+DESCRIPTION Terpenoids, also known as isoprenoids, are a large class of natural products consisting of isoprene (C5) units. There are two biosynthetic pathways, the mevalonate pathway [MD:M00095] and the non-mevalonate pathway or the MEP/DOXP pathway [MD:M00096], for the terpenoid building blocks: isopentenyl diphosphate (IPP) and dimethylallyl diphosphate (DMAPP). The action of prenyltransferases then generates higher-order building blocks: geranyl diphosphate (GPP), farsenyl diphosphate (FPP), and geranylgeranyl diphosphate (GGPP), which are the precursors of monoterpenoids (C10), sesquiterpenoids (C15), and diterpenoids (C20), respectively. Condensation of these building blocks gives rise to the precursors of sterols (C30) and carotenoids (C40). The MEP/DOXP pathway is absent in higher animals and fungi, but in green plants the MEP/DOXP and mevalonate pathways co-exist in separate cellular compartments. The MEP/DOXP pathway, operating in the plastids, is responsible for the formation of essential oil monoterpenes and linalyl acetate, some sesquiterpenes, diterpenes, and carotenoids and phytol. The mevalonate pathway, operating in the cytosol, gives rise to triterpenes, sterols, and most sesquiterpenes.
+CLASS       Metabolism; Metabolism of terpenoids and polyketides
+PATHWAY_MAP hsa00900  Terpenoid backbone biosynthesis
+MODULE      hsa_M00095  C5 isoprenoid biosynthesis, mevalonate pathway [PATH:hsa00900]
+            hsa_M00367  C10-C20 isoprenoid biosynthesis, non-plant eukaryotes [PATH:hsa00900]
+NETWORK     nt06015  N-Glycan biosynthesis
+  ELEMENT   N00675  N-Glycan precursor biosynthesis, farnesy-PP to P-Dol
+DRUG        D00359  Lovastatin (USP/INN)
+            D00434  Simvastatin (JP18/USP/INN)
+            D00887  Atorvastatin calcium anhydorous
+            D00889  Cerivastatin sodium (JAN/USAN)
+            D00892  Fluvastatin sodium (JAN/USP)
+            D00893  Pravastatin sodium (JP18/USP)
+            D00939  Alendronate sodium (USP)
+            D00941  Pamidronate disodium (USP)
+            D00942  Risedronate sodium (USP)
+            D01862  Pitavastatin calcium (JAN)
+            D01915  Rosuvastatin calcium (JP18/USP)
+            D01968  Zoledronic acid (USAN)
+            D02258  Atorvastatin calcium (USP)
+            D03234  Sodium risedronate hydrate (JP18)
+            D03601  Crilvastatin (USAN/INN)
+            D03643  Dalvastatin (USAN/INN)
+            D03720  Tipifarnib (USAN/INN)
+            D03816  Tenivastatin calcium (USAN)
+            D04486  Ibandronate sodium (USAN)
+            D04768  Lonafarnib (USAN/INN)
+            D06378  Zoledronate disodium (USAN)
+            D06379  Zoledronate trisodium (USAN)
+            D07119  Alendronic acid (INN)
+            D07123  Incadronate disodium hydrate (JAN)
+            D07281  Pamidronic acid (INN)
+            D07474  Atorvastatin (INN)
+            D07661  Cerivastatin (INN)
+            D07983  Fluvastatin (INN)
+            D08056  Ibandronic acid (INN)
+            D08073  Incadronic acid (INN)
+            D08410  Pravastatin (INN)
+            D08484  Risedronic acid (INN)
+            D08492  Rosuvastatin (INN)
+            D08689  Zoledronic acid (INN)
+            D09198  Minodronic acid hydrate (JAN)
+            D10515  Zoledronic acid hemipentahydrate (JAN)
+            D10568  Pitavastatin calcium hydrate (JP18)
+            D11092  Pitavastatin magnesium
+            D11095  Atorvastatin calcium propylene glycol solvate
+            D11570  Risedronate sodium monohydrate
+DBLINKS     GO: 0009240 0016091
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        39  ACAT2; acetyl-CoA acetyltransferase 2 [KO:K00626] [EC:2.3.1.9]
+            38  ACAT1; acetyl-CoA acetyltransferase 1 [KO:K00626] [EC:2.3.1.9]
+            3157  HMGCS1; 3-hydroxy-3-methylglutaryl-CoA synthase 1 [KO:K01641] [EC:2.3.3.10]
+            3158  HMGCS2; 3-hydroxy-3-methylglutaryl-CoA synthase 2 [KO:K01641] [EC:2.3.3.10]
+            3156  HMGCR; 3-hydroxy-3-methylglutaryl-CoA reductase [KO:K00021] [EC:1.1.1.34]
+            4598  MVK; mevalonate kinase [KO:K00869] [EC:2.7.1.36]
+            10654  PMVK; phosphomevalonate kinase [KO:K13273] [EC:2.7.4.2]
+            4597  MVD; mevalonate diphosphate decarboxylase [KO:K01597] [EC:4.1.1.33]
+            3422  IDI1; isopentenyl-diphosphate delta isomerase 1 [KO:K01823] [EC:5.3.3.2]
+            91734  IDI2; isopentenyl-diphosphate delta isomerase 2 [KO:K01823] [EC:5.3.3.2]
+            2224  FDPS; farnesyl diphosphate synthase [KO:K00787] [EC:2.5.1.1 2.5.1.10]
+            9453  GGPS1; geranylgeranyl diphosphate synthase 1 [KO:K00804] [EC:2.5.1.1 2.5.1.10 2.5.1.29]
+            23590  PDSS1; decaprenyl diphosphate synthase subunit 1 [KO:K12504] [EC:2.5.1.91]
+            57107  PDSS2; decaprenyl diphosphate synthase subunit 2 [KO:K12505] [EC:2.5.1.91]
+            79947  DHDDS; dehydrodolichyl diphosphate synthase subunit [KO:K11778] [EC:2.5.1.87]
+            116150  NUS1; NUS1 dehydrodolichyl diphosphate synthase subunit [KO:K19177] [EC:2.5.1.87]
+            2339  FNTA; farnesyltransferase, CAAX box, alpha [KO:K05955] [EC:2.5.1.58 2.5.1.59]
+            2342  FNTB; farnesyltransferase, CAAX box, beta [KO:K05954] [EC:2.5.1.58]
+            100529261  CHURC1-FNTB; CHURC1-FNTB readthrough [KO:K05954] [EC:2.5.1.58]
+            9986  RCE1; Ras converting CAAX endopeptidase 1 [KO:K08658] [EC:3.4.22.-]
+            10269  ZMPSTE24; zinc metallopeptidase STE24 [KO:K06013] [EC:3.4.24.84]
+            23463  ICMT; isoprenylcysteine carboxyl methyltransferase [KO:K00587] [EC:2.1.1.100]
+            51449  PCYOX1; prenylcysteine oxidase 1 [KO:K05906] [EC:1.8.3.5 1.8.3.6]
+COMPOUND    C00022  Pyruvate
+            C00024  Acetyl-CoA
+            C00118  D-Glyceraldehyde 3-phosphate
+            C00129  Isopentenyl diphosphate
+            C00235  Dimethylallyl diphosphate
+            C00332  Acetoacetyl-CoA
+            C00341  Geranyl diphosphate
+            C00353  Geranylgeranyl diphosphate
+            C00356  (S)-3-Hydroxy-3-methylglutaryl-CoA
+            C00418  (R)-Mevalonate
+            C00448  trans,trans-Farnesyl diphosphate
+            C01107  (R)-5-Phosphomevalonate
+            C01126  (2E,6E)-Farnesol
+            C01143  (R)-5-Diphosphomevalonate
+            C01230  all-trans-Hexaprenyl diphosphate
+            C02321  cis-1,4-Polyisoprene
+            C03461  2-trans,6-trans-Farnesal
+            C04145  all-trans-Nonaprenyl diphosphate
+            C04146  all-trans-Octaprenyl diphosphate
+            C04216  all-trans-Heptaprenyl diphosphate
+            C04506  Protein C-terminal S-farnesyl-L-cysteine
+            C04574  di-trans,poly-cis-Undecaprenyl diphosphate
+            C04748  Protein C-terminal S-farnesyl-L-cysteine methyl ester
+            C05427  Phytyl diphosphate
+            C05859  ditrans,polycis-Polyprenyl diphosphate
+            C06081  Polyprenol
+            C11434  2-C-Methyl-D-erythritol 4-phosphate
+            C11435  4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+            C11436  2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+            C11437  1-Deoxy-D-xylulose 5-phosphate
+            C11453  2-C-Methyl-D-erythritol 2,4-cyclodiphosphate
+            C11811  1-Hydroxy-2-methyl-2-butenyl 4-diphosphate
+            C16521  Isoprene
+            C16826  2-cis,6-trans-Farnesyl diphosphate
+            C17432  all-trans-Decaprenyl diphosphate
+            C18321  trans,octacis-Decaprenyl diphosphate
+            C19691  Farnesylcysteine
+            C19760  2-cis,6-cis-Farnesyl diphosphate
+            C19852  tritrans,heptacis-Undecaprenyl diphosphate
+            C19853  trans,polycis-Polyprenyl diphosphate
+            C20120  S-Farnesyl protein
+            C20121  trans,trans-Farnesyl phosphate
+            C20345  Isopentenyl phosphate
+            C20847  (R)-Mevalonate 3-phosphate
+            C20848  (R)-Mevalonate 3,5-bisphosphate
+            C22453  trans-Anhydromevalonate phosphate
+REFERENCE   PMID:12777052
+  AUTHORS   Lange BM, Ghassemian M.
+  TITLE     Genome organization in Arabidopsis thaliana: a survey for genes involved in isoprenoid and chlorophyll metabolism.
+  JOURNAL   Plant Mol Biol 51:925-48 (2003)
+            DOI:10.1023/A:1023005504702
+REFERENCE   PMID:16262699
+  AUTHORS   Saiki R, Nagata A, Kainou T, Matsuda H, Kawamukai M
+  TITLE     Characterization of solanesyl and decaprenyl diphosphate synthases in mice and humans.
+  JOURNAL   FEBS J 272:5606-22 (2005)
+            DOI:10.1111/j.1742-4658.2005.04956.x
+REFERENCE   PMID:9858571
+  AUTHORS   Sato M, Sato K, Nishikawa S, Hirata A, Kato J, Nakano A
+  TITLE     The yeast RER2 gene, identified by endoplasmic reticulum protein localization mutations, encodes cis-prenyltransferase, a key enzyme in dolichol synthesis.
+  JOURNAL   Mol Cell Biol 19:471-83 (1999)
+            DOI:10.1128/MCB.19.1.471
+REFERENCE   PMID:24375100
+  AUTHORS   Vannice JC, Skaff DA, Keightley A, Addo JK, Wyckoff GJ, Miziorko HM
+  TITLE     Identification in Haloferax volcanii of phosphomevalonate decarboxylase and isopentenyl phosphate kinase as catalysts of the terminal enzyme reactions in an  archaeal alternate mevalonate pathway.
+  JOURNAL   J Bacteriol 196:1055-63 (2014)
+            DOI:10.1128/JB.01230-13
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00100  Steroid biosynthesis
+            hsa00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            hsa00270  Cysteine and methionine metabolism
+            hsa00510  N-Glycan biosynthesis
+KO_PATHWAY  ko00900
+///

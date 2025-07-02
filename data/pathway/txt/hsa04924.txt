@@ -1,0 +1,183 @@
+ENTRY       hsa04924                    Pathway
+NAME        Renin secretion - Homo sapiens (human)
+DESCRIPTION The aspartyl-protease renin is the key regulator of the renin-angiotensin-aldosterone system, which is critically involved in extracellular fluid volume and blood pressure homeostasis of the body. Renin is synthesized, stored in, and released into circulation by the juxtaglomerular (JG) cells of the kidney. Secretion of renin from JG cells at the organ level is controlled by the four main mechanisms: the sympathetic nervous system, the local JG apparatus baroreflex, the macula densa mechanism, and several hormones acting locally within the JG apparatus. Renin secretion at the level of renal JG cells appears to be controlled mainly by classic second messengers, namely cAMP, cGMP, and free cytosolic calcium concentration. While cAMP generally stimulates renin release and the intracellular calcium concentration suppresses the exocytosis of renin, the effects of cGMP in the regulation of the renin system are more complex as it both may stimulate or inhibit renin release.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04924  Renin secretion
+DRUG        D00150  Angiotensin II (INN)
+            D00624  Perindopril erbumine (JAN/USP)
+            D02014  Angiotensin II (USAN)
+            D02939  Angiotensin amide (USAN)
+            D03605  Crofelemer (USAN)
+            D03753  Perindopril (USAN/INN)
+            D04312  Gemopatrilat (USAN/INN)
+            D05801  Saprisartan potassium (USAN)
+            D05818  Selodenoson (USAN/INN)
+            D05879  Solabegron hydrochloride (USAN)
+            D06076  Teprotide (USAN/INN)
+            D07682  Clazosentan sodium (JAN)
+            D11142  Angiotensin II acetate (USAN)
+            D11580  Perindopril arginine
+            D11664  Clazosentan (USAN/INN)
+DBLINKS     GO: 0002001
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        153  ADRB1; adrenoceptor beta 1 [KO:K04141]
+            154  ADRB2; adrenoceptor beta 2 [KO:K04142]
+            155  ADRB3; adrenoceptor beta 3 [KO:K04143]
+            116  ADCYAP1; adenylate cyclase activating polypeptide 1 [KO:K05262]
+            117  ADCYAP1R1; ADCYAP receptor type I [KO:K04587]
+            358  AQP1; aquaporin 1 (Colton blood group) [KO:K09864]
+            5732  PTGER2; prostaglandin E receptor 2 [KO:K04259]
+            5734  PTGER4; prostaglandin E receptor 4 [KO:K04261]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            3778  KCNMA1; potassium calcium-activated channel subfamily M alpha 1 [KO:K04936]
+            5136  PDE1A; phosphodiesterase 1A [KO:K13755] [EC:3.1.4.17]
+            5153  PDE1B; phosphodiesterase 1B [KO:K13755] [EC:3.1.4.17]
+            5137  PDE1C; phosphodiesterase 1C [KO:K13755] [EC:3.1.4.17]
+            5139  PDE3A; phosphodiesterase 3A [KO:K19021] [EC:3.1.4.17]
+            5140  PDE3B; phosphodiesterase 3B [KO:K13296] [EC:3.1.4.17]
+            5972  REN; renin [KO:K01380] [EC:3.4.23.15]
+            134  ADORA1; adenosine A1 receptor [KO:K04265]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            84876  ORAI1; ORAI calcium release-activated calcium modulator 1 [KO:K16056]
+            1179  CLCA1; chloride channel accessory 1 [KO:K05027]
+            9635  CLCA2; chloride channel accessory 2 [KO:K05028]
+            22802  CLCA4; chloride channel accessory 4 [KO:K05030]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            3759  KCNJ2; potassium inwardly rectifying channel subfamily J member 2 [KO:K04996]
+            1906  EDN1; endothelin 1 [KO:K16366]
+            1907  EDN2; endothelin 2 [KO:K16367]
+            1908  EDN3; endothelin 3 [KO:K05227]
+            1909  EDNRA; endothelin receptor type A [KO:K04197]
+            185  AGTR1; angiotensin II receptor type 1 [KO:K04166]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            2977  GUCY1A2; guanylate cyclase 1 soluble subunit alpha 2 [KO:K12318] [EC:4.6.1.2]
+            2982  GUCY1A1; guanylate cyclase 1 soluble subunit alpha 1 [KO:K12318] [EC:4.6.1.2]
+            2983  GUCY1B1; guanylate cyclase 1 soluble subunit beta 1 [KO:K12319] [EC:4.6.1.2]
+            4878  NPPA; natriuretic peptide A [KO:K12334]
+            4881  NPR1; natriuretic peptide receptor 1 [KO:K12323] [EC:4.6.1.2]
+            5593  PRKG2; protein kinase cGMP-dependent 2 [KO:K19477] [EC:2.7.11.12]
+            1508  CTSB; cathepsin B [KO:K01363] [EC:3.4.22.1]
+            183  AGT; angiotensinogen [KO:K09821]
+            1636  ACE; angiotensin I converting enzyme [KO:K01283] [EC:3.4.15.1]
+COMPOUND    C00001  H2O
+            C00002  ATP
+            C00008  ADP
+            C00020  AMP
+            C00076  Calcium cation
+            C00212  Adenosine
+            C00238  Potassium cation
+            C00533  Nitric oxide
+            C00547  L-Noradrenaline
+            C00575  3',5'-Cyclic AMP
+            C00584  Prostaglandin E2
+            C00698  Cl-
+            C00788  L-Adrenaline
+            C00873  Angiotensin I
+            C00942  3',5'-Cyclic GMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C02135  Angiotensin II
+REFERENCE   PMID:20936939
+  AUTHORS   Kurtz A
+  TITLE     Renin release: sites, mechanisms, and control.
+  JOURNAL   Annu Rev Physiol 73:377-99 (2011)
+            DOI:10.1146/annurev-physiol-012110-142238
+REFERENCE   PMID:17928544
+  AUTHORS   Schweda F, Friis U, Wagner C, Skott O, Kurtz A
+  TITLE     Renin release.
+  JOURNAL   Physiology (Bethesda) 22:310-9 (2007)
+            DOI:10.1152/physiol.00024.2007
+REFERENCE   PMID:20393195
+  AUTHORS   Castrop H, Hocherl K, Kurtz A, Schweda F, Todorov V, Wagner C
+  TITLE     Physiology of kidney renin.
+  JOURNAL   Physiol Rev 90:607-73 (2010)
+            DOI:10.1152/physrev.00011.2009
+REFERENCE   PMID:22733355
+  AUTHORS   Friis UG, Madsen K, Stubbe J, Hansen PB, Svenningsen P, Bie P, Skott O, Jensen BL
+  TITLE     Regulation of renin secretion by renal juxtaglomerular cells.
+  JOURNAL   Pflugers Arch 465:25-37 (2013)
+            DOI:10.1007/s00424-012-1126-7
+REFERENCE   PMID:22124804
+  AUTHORS   Kim SM, Briggs JP, Schnermann J
+  TITLE     Convergence of major physiological stimuli for renin release on the Gs-alpha/cyclic adenosine monophosphate signaling pathway.
+  JOURNAL   Clin Exp Nephrol 16:17-24 (2012)
+            DOI:10.1007/s10157-011-0494-1
+REFERENCE   PMID:22237158
+  AUTHORS   Kurtz A
+  TITLE     Control of renin synthesis and secretion.
+  JOURNAL   Am J Hypertens 25:839-47 (2012)
+            DOI:10.1038/ajh.2011.246
+REFERENCE   PMID:9882634
+  AUTHORS   Kurtz A, Wagner C
+  TITLE     Cellular control of renin secretion.
+  JOURNAL   J Exp Biol 202:219-25 (1999)
+REFERENCE   PMID:12949225
+  AUTHORS   Persson PB
+  TITLE     Renin: origin, secretion and synthesis.
+  JOURNAL   J Physiol 552:667-71 (2003)
+            DOI:10.1113/jphysiol.2003.049890
+REFERENCE   PMID:15283749
+  AUTHORS   Schweda F, Kurtz A
+  TITLE     Cellular mechanism of renin release.
+  JOURNAL   Acta Physiol Scand 181:383-90 (2004)
+            DOI:10.1111/j.1365-201X.2004.01309.x
+REFERENCE   PMID:24944035
+  AUTHORS   Sparks MA, Crowley SD, Gurley SB, Mirotsou M, Coffman TM
+  TITLE     Classical Renin-Angiotensin system in kidney physiology.
+  JOURNAL   Compr Physiol 4:1201-28 (2014)
+            DOI:10.1002/cphy.c130040
+REFERENCE   PMID:19948673
+  AUTHORS   Harrison-Bernard LM
+  TITLE     The renal renin-angiotensin system.
+  JOURNAL   Adv Physiol Educ 33:270-4 (2009)
+            DOI:10.1152/advan.00049.2009
+REFERENCE   PMID:22258323
+  AUTHORS   Schnermann J, Briggs JP
+  TITLE     Synthesis and secretion of renin in mice with induced genetic mutations.
+  JOURNAL   Kidney Int 81:529-38 (2012)
+            DOI:10.1038/ki.2011.451
+REFERENCE   PMID:12388321
+  AUTHORS   Ryan MJ, Black TA, Millard SL, Gross KW, Hajduczok G
+  TITLE     Endothelin-1 increases calcium and attenuates renin gene expression in As4.1 cells.
+  JOURNAL   Am J Physiol Heart Circ Physiol 283:H2458-65 (2002)
+            DOI:10.1152/ajpheart.00295.2002
+REFERENCE   PMID:17360952
+  AUTHORS   Hautmann M, Friis UG, Desch M, Todorov V, Castrop H, Segerer F, Otto C, Schutz G, Schweda F
+  TITLE     Pituitary adenylate cyclase-activating polypeptide stimulates renin secretion via activation of PAC1 receptors.
+  JOURNAL   J Am Soc Nephrol 18:1150-6 (2007)
+            DOI:10.1681/ASN.2006060633
+REL_PATHWAY hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04614  Renin-angiotensin system
+KO_PATHWAY  ko04924
+///

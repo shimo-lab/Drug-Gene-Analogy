@@ -1,0 +1,201 @@
+ENTRY       hsa04142                    Pathway
+NAME        Lysosome - Homo sapiens (human)
+DESCRIPTION Lysosomes are membrane-delimited organelles in animal cells serving as the cell's main digestive compartment to which all sorts of macromolecules are delivered for degradation. They contain more than 40 hydrolases in an acidic environment (pH of about 5). After synthesis in the ER, lysosomal enzymes are decorated with mannose-6-phosphate residues, which are recognized by mannose-6-phosphate receptors in the trans-Golgi network. They are packaged into clathrin-coated vesicles and are transported to late endosomes. Substances for digestion are acquired by the lysosomes via a series of processes including endocytosis, phagocytosis, and autophagy.
+CLASS       Cellular Processes; Transport and catabolism
+PATHWAY_MAP hsa04142  Lysosome
+DRUG        D02784  Agalsidase alfa (USAN/INN)
+            D03228  Agalsidase beta (INN)
+            D05031  Migalastat hydrochloride (JAN/USAN)
+            D08955  Odanacatib (JAN/USAN)
+            D09605  Duvoglustat (USAN/INN)
+            D09606  Duvoglustat hydrochloride (USAN)
+            D10813  Cerliponase alfa (USAN/INN)
+            D10820  Olipudase alfa (USAN/INN)
+            D11004  Vestronidase alfa (USAN/INN)
+            D11024  Velmanase alfa (USAN/INN)
+            D11744  Avalglucosidase alfa (USAN/INN)
+            D11798  Cipaglucosidase alfa (USAN)
+            D11812  Pabinafusp alfa (genetical recombination) (JAN)
+            D11828  Clervonafusp alfa (USAN/INN)
+            D12120  Brensocatib (USAN/INN)
+            D12462  Cebsulfase alfa (USAN)
+DBLINKS     GO: 0005764
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10312  TCIRG1; T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [KO:K02154]
+            23545  ATP6V0A2; ATPase H+ transporting V0 subunit a2 [KO:K02154]
+            50617  ATP6V0A4; ATPase H+ transporting V0 subunit a4 [KO:K02154]
+            535  ATP6V0A1; ATPase H+ transporting V0 subunit a1 [KO:K02154]
+            9114  ATP6V0D1; ATPase H+ transporting V0 subunit d1 [KO:K02146]
+            245972  ATP6V0D2; ATPase H+ transporting V0 subunit d2 [KO:K02146]
+            51606  ATP6V1H; ATPase H+ transporting V1 subunit H [KO:K02144]
+            537  ATP6AP1; ATPase H+ transporting accessory protein 1 [KO:K03662]
+            527  ATP6V0C; ATPase H+ transporting V0 subunit c [KO:K02155]
+            533  ATP6V0B; ATPase H+ transporting V0 subunit b [KO:K03661]
+            1657  DMXL1; Dmx like 1 [KO:K24155]
+            23312  DMXL2; Dmx like 2 [KO:K24155]
+            23335  WDR7; WD repeat domain 7 [KO:K24738]
+            135112  NCOA7; nuclear receptor coactivator 7 [KO:K25442]
+            5476  CTSA; cathepsin A [KO:K13289] [EC:3.4.16.5]
+            1508  CTSB; cathepsin B [KO:K01363] [EC:3.4.22.1]
+            1075  CTSC; cathepsin C [KO:K01275] [EC:3.4.14.1]
+            1509  CTSD; cathepsin D [KO:K01379] [EC:3.4.23.5]
+            1510  CTSE; cathepsin E [KO:K01382] [EC:3.4.23.34]
+            8722  CTSF; cathepsin F [KO:K01373] [EC:3.4.22.41]
+            1511  CTSG; cathepsin G [KO:K01319] [EC:3.4.21.20]
+            1512  CTSH; cathepsin H [KO:K01366] [EC:3.4.22.16]
+            1513  CTSK; cathepsin K [KO:K01371] [EC:3.4.22.38]
+            1514  CTSL; cathepsin L [KO:K01365] [EC:3.4.22.15]
+            1519  CTSO; cathepsin O [KO:K01374] [EC:3.4.22.42]
+            1520  CTSS; cathepsin S [KO:K01368] [EC:3.4.22.27]
+            1515  CTSV; cathepsin V [KO:K01375] [EC:3.4.22.43]
+            1521  CTSW; cathepsin W [KO:K08569] [EC:3.4.22.-]
+            1522  CTSZ; cathepsin Z [KO:K08568] [EC:3.4.18.1]
+            9476  NAPSA; napsin A aspartic peptidase [KO:K08565] [EC:3.4.23.-]
+            5641  LGMN; legumain [KO:K01369] [EC:3.4.22.34]
+            1200  TPP1; tripeptidyl peptidase 1 [KO:K01279] [EC:3.4.14.9]
+            2717  GLA; galactosidase alpha [KO:K01189] [EC:3.2.1.22]
+            2720  GLB1; galactosidase beta 1 [KO:K12309] [EC:3.2.1.23]
+            2548  GAA; alpha glucosidase [KO:K12316] [EC:3.2.1.20]
+            2629  GBA1; glucosylceramidase beta 1 [KO:K01201] [EC:3.2.1.45]
+            3425  IDUA; alpha-L-iduronidase [KO:K01217] [EC:3.2.1.76]
+            4668  NAGA; alpha-N-acetylgalactosaminidase [KO:K01204] [EC:3.2.1.49]
+            4669  NAGLU; N-acetyl-alpha-glucosaminidase [KO:K01205] [EC:3.2.1.50]
+            2581  GALC; galactosylceramidase [KO:K01202] [EC:3.2.1.46]
+            2990  GUSB; glucuronidase beta [KO:K01195] [EC:3.2.1.31]
+            2517  FUCA1; alpha-L-fucosidase 1 [KO:K01206] [EC:3.2.1.51]
+            2519  FUCA2; alpha-L-fucosidase 2 [KO:K01206] [EC:3.2.1.51]
+            3073  HEXA; hexosaminidase subunit alpha [KO:K12373] [EC:3.2.1.52]
+            3074  HEXB; hexosaminidase subunit beta [KO:K12373] [EC:3.2.1.52]
+            4126  MANBA; mannosidase beta [KO:K01192] [EC:3.2.1.25]
+            4125  MAN2B1; mannosidase alpha class 2B member 1 [KO:K12311] [EC:3.2.1.24]
+            4758  NEU1; neuraminidase 1 [KO:K01186] [EC:3.2.1.18]
+            8692  HYAL2; hyaluronidase 2 [KO:K01197] [EC:3.2.1.35]
+            3373  HYAL1; hyaluronidase 1 [KO:K01197] [EC:3.2.1.35]
+            6677  SPAM1; sperm adhesion molecule 1 [KO:K01197] [EC:3.2.1.35]
+            23553  HYAL4; hyaluronidase 4 [KO:K01197] [EC:3.2.1.35]
+            8372  HYAL3; hyaluronidase 3 [KO:K01197] [EC:3.2.1.35]
+            410  ARSA; arylsulfatase A [KO:K01134] [EC:3.1.6.8]
+            411  ARSB; arylsulfatase B [KO:K01135] [EC:3.1.6.12]
+            22901  ARSG; arylsulfatase G [KO:K12381] [EC:3.1.6.-]
+            2588  GALNS; galactosamine (N-acetyl)-6-sulfatase [KO:K01132] [EC:3.1.6.4]
+            2799  GNS; glucosamine (N-acetyl)-6-sulfatase [KO:K01137] [EC:3.1.6.14]
+            3423  IDS; iduronate 2-sulfatase [KO:K01136] [EC:3.1.6.13]
+            6448  SGSH; N-sulfoglucosamine sulfohydrolase [KO:K01565] [EC:3.10.1.1]
+            3988  LIPA; lipase A, lysosomal acid type [KO:K01052] [EC:3.1.1.13]
+            23659  PLA2G15; phospholipase A2 group XV [KO:K06129] [EC:3.1.1.5]
+            1777  DNASE2; deoxyribonuclease 2, lysosomal [KO:K01158] [EC:3.1.22.1]
+            58511  DNASE2B; deoxyribonuclease 2 beta [KO:K01158] [EC:3.1.22.1]
+            53  ACP2; acid phosphatase 2, lysosomal [KO:K14410] [EC:3.1.3.2]
+            54  ACP5; acid phosphatase 5, tartrate resistant [KO:K14379] [EC:3.1.3.2]
+            6609  SMPD1; sphingomyelin phosphodiesterase 1 [KO:K12350] [EC:3.1.4.12]
+            427  ASAH1; N-acylsphingosine amidohydrolase 1 [KO:K12348] [EC:3.5.1.23]
+            175  AGA; aspartylglucosaminidase [KO:K01444] [EC:3.5.1.26]
+            5660  PSAP; prosaposin [KO:K12382]
+            768239  PSAPL1; prosaposin like 1 [KO:K12382]
+            2760  GM2A; ganglioside GM2 activator [KO:K12383]
+            5538  PPT1; palmitoyl-protein thioesterase 1 [KO:K01074] [EC:3.1.2.22]
+            9374  PPT2; palmitoyl-protein thioesterase 2 [KO:K01074] [EC:3.1.2.22]
+            3916  LAMP1; lysosomal associated membrane protein 1 [KO:K06528]
+            3920  LAMP2; lysosomal associated membrane protein 2 [KO:K06528]
+            27074  LAMP3; lysosomal associated membrane protein 3 [KO:K06562]
+            968  CD68; CD68 molecule [KO:K06501]
+            967  CD63; CD63 molecule [KO:K06497]
+            950  SCARB2; scavenger receptor class B member 2 [KO:K12384]
+            4864  NPC1; NPC intracellular cholesterol transporter 1 [KO:K12385]
+            10577  NPC2; NPC intracellular cholesterol transporter 2 [KO:K13443]
+            1497  CTNS; cystinosin, lysosomal cystine transporter [KO:K12386]
+            26503  SLC17A5; solute carrier family 17 member 5 [KO:K12301]
+            6556  SLC11A1; solute carrier family 11 member 1 [KO:K12347]
+            4891  SLC11A2; solute carrier family 11 member 2 [KO:K21398]
+            55353  LAPTM4B; lysosomal protein transmembrane 4 beta [KO:K12387]
+            7805  LAPTM5; lysosomal protein transmembrane 5 [KO:K12387]
+            9741  LAPTM4A; lysosomal protein transmembrane 4 alpha [KO:K12387]
+            20  ABCA2; ATP binding cassette subfamily A member 2 [KO:K05642]
+            23457  ABCB9; ATP binding cassette subfamily B member 9 [KO:K05656]
+            8763  CD164; CD164 molecule [KO:K06546]
+            9583  ENTPD4; ectonucleoside triphosphate diphosphohydrolase 4 [KO:K12305] [EC:3.6.1.6]
+            6272  SORT1; sortilin 1 [KO:K12388]
+            1201  CLN3; CLN3 lysosomal/endosomal transmembrane protein, battenin [KO:K12389]
+            1203  CLN5; CLN5 intracellular trafficking protein [KO:K12390]
+            256471  MFSD8; major facilitator superfamily domain containing 8 [KO:K12307]
+            138050  HGSNAT; heparan-alpha-glucosaminide N-acetyltransferase [KO:K10532] [EC:2.3.1.78]
+            285362  SUMF1; sulfatase modifying factor 1 [KO:K13444] [EC:1.8.3.7]
+            79158  GNPTAB; N-acetylglucosamine-1-phosphate transferase subunits alpha and beta [KO:K08239] [EC:2.7.8.17]
+            84572  GNPTG; N-acetylglucosamine-1-phosphate transferase subunit gamma [KO:K10087]
+            51172  NAGPA; N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase [KO:K01125] [EC:3.1.4.45]
+            3482  IGF2R; insulin like growth factor 2 receptor [KO:K06564]
+            4074  M6PR; mannose-6-phosphate receptor, cation dependent [KO:K10089]
+            1211  CLTA; clathrin light chain A [KO:K04644]
+            1212  CLTB; clathrin light chain B [KO:K04645]
+            1213  CLTC; clathrin heavy chain [KO:K04646]
+            8218  CLTCL1; clathrin heavy chain like 1 [KO:K04646]
+            164  AP1G1; adaptor related protein complex 1 subunit gamma 1 [KO:K12391]
+            8906  AP1G2; adaptor related protein complex 1 subunit gamma 2 [KO:K12391]
+            162  AP1B1; adaptor related protein complex 1 subunit beta 1 [KO:K12392]
+            8907  AP1M1; adaptor related protein complex 1 subunit mu 1 [KO:K12393]
+            10053  AP1M2; adaptor related protein complex 1 subunit mu 2 [KO:K12393]
+            1174  AP1S1; adaptor related protein complex 1 subunit sigma 1 [KO:K12394]
+            8905  AP1S2; adaptor related protein complex 1 subunit sigma 2 [KO:K12394]
+            130340  AP1S3; adaptor related protein complex 1 subunit sigma 3 [KO:K12395]
+            8943  AP3D1; adaptor related protein complex 3 subunit delta 1 [KO:K12396]
+            8120  AP3B2; adaptor related protein complex 3 subunit beta 2 [KO:K12397]
+            8546  AP3B1; adaptor related protein complex 3 subunit beta 1 [KO:K12397]
+            26985  AP3M1; adaptor related protein complex 3 subunit mu 1 [KO:K12398]
+            10947  AP3M2; adaptor related protein complex 3 subunit mu 2 [KO:K12398]
+            10239  AP3S2; adaptor related protein complex 3 subunit sigma 2 [KO:K12399]
+            1176  AP3S1; adaptor related protein complex 3 subunit sigma 1 [KO:K12399]
+            23431  AP4E1; adaptor related protein complex 4 subunit epsilon 1 [KO:K12400]
+            10717  AP4B1; adaptor related protein complex 4 subunit beta 1 [KO:K12401]
+            9179  AP4M1; adaptor related protein complex 4 subunit mu 1 [KO:K12402]
+            11154  AP4S1; adaptor related protein complex 4 subunit sigma 1 [KO:K12403]
+            23062  GGA2; golgi associated, gamma adaptin ear containing, ARF binding protein 2 [KO:K12404]
+            23163  GGA3; golgi associated, gamma adaptin ear containing, ARF binding protein 3 [KO:K12404]
+            26088  GGA1; golgi associated, gamma adaptin ear containing, ARF binding protein 1 [KO:K12404]
+            57192  MCOLN1; mucolipin TRP cation channel 1 [KO:K04992]
+            9516  LITAF; lipopolysaccharide induced TNF factor [KO:K19363]
+COMPOUND    C00002  ATP
+            C00008  ADP
+            C00159  D-Mannose
+            C00275  D-Mannose 6-phosphate
+REFERENCE   PMID:12628346
+  AUTHORS   Eskelinen EL, Tanaka Y, Saftig P
+  TITLE     At the acidic edge: emerging functions for lysosomal membrane proteins.
+  JOURNAL   Trends Cell Biol 13:137-45 (2003)
+            DOI:10.1016/S0962-8924(03)00005-9
+REFERENCE   PMID:1883197
+  AUTHORS   Neufeld EF
+  TITLE     Lysosomal storage diseases.
+  JOURNAL   Annu Rev Biochem 60:257-80 (1991)
+            DOI:10.1146/annurev.bi.60.070191.001353
+REFERENCE   PMID:2943218
+  AUTHORS   von Figura K, Hasilik A
+  TITLE     Lysosomal enzymes and their receptors.
+  JOURNAL   Annu Rev Biochem 55:167-93 (1986)
+            DOI:10.1146/annurev.bi.55.070186.001123
+REFERENCE   PMID:15987739
+  AUTHORS   Janvier K, Bonifacino JS
+  TITLE     Role of the endocytic machinery in the sorting of lysosome-associated membrane proteins.
+  JOURNAL   Mol Biol Cell 16:4231-42 (2005)
+            DOI:10.1091/mbc.E05-03-0213
+REFERENCE   PMID:18635948
+  AUTHORS   Vergarajauregui S, Puertollano R
+  TITLE     Mucolipidosis type IV: the importance of functional lysosomes for efficient autophagy.
+  JOURNAL   Autophagy 4:832-4 (2008)
+            DOI:10.4161/auto.6567
+REFERENCE   PMID:34249946
+  AUTHORS   Jaskolka MC, Winkley SR, Kane PM
+  TITLE     RAVE and Rabconnectin-3 Complexes as Signal Dependent Regulators of Organelle Acidification.
+  JOURNAL   Front Cell Dev Biol 9:698190 (2021)
+            DOI:10.3389/fcell.2021.698190
+REFERENCE   PMID:34646033
+  AUTHORS   Majdoul S, Compton AA
+  TITLE     Lessons in self-defence: inhibition of virus entry by intrinsic immunity.
+  JOURNAL   Nat Rev Immunol 10.1038/s41577-021-00626-8 (2021)
+            DOI:10.1038/s41577-021-00626-8
+REL_PATHWAY hsa00511  Other glycan degradation
+            hsa00531  Glycosaminoglycan degradation
+            hsa04130  SNARE interactions in vesicular transport
+            hsa04140  Autophagy - animal
+            hsa04144  Endocytosis
+KO_PATHWAY  ko04142
+///

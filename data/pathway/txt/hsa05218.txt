@@ -1,0 +1,191 @@
+ENTRY       hsa05218                    Pathway
+NAME        Melanoma - Homo sapiens (human)
+DESCRIPTION Melanoma is a form of skin cancer that has a poor prognosis and which is on the rise in Western populations. Melanoma arises from the malignant transformation of pigment-producing cells, melanocytes. The only known environmental risk factor is exposure to ultraviolet (UV) light and in people with fair skin the risk is greatly increased. Melanoma pathogenesis is also driven by genetic factors. Oncogenic NRAS mutations activate both effector pathways Raf-MEK-ERK and PI3K-Akt. The Raf-MEK-ERK pathway may also be activated via mutations in the BRAF gene. The PI3K-Akt pathway may be activated through loss or mutation of the inhibitory tumor suppressor gene PTEN. These mutations arise early during melanoma pathogenesis and are preserved throughout tumor progression. Melanoma development has been shown to be strongly associated with inactivation of the p16INK4a/cyclin dependent kinases 4 and 6/retinoblastoma protein (p16INK4a/CDK4,6/pRb) and p14ARF/human double minute 2/p53 (p14ARF/HMD2/p53) tumor suppressor pathways. MITF and TP53 are implicated in further melanoma progression.
+CLASS       Human Diseases; Cancer: specific types
+PATHWAY_MAP hsa05218  Melanoma
+NETWORK     nt06210  ERK signaling
+            nt06214  PI3K signaling
+            nt06230  Cell cycle
+            nt06240  Transcription
+            nt06260  Colorectal cancer
+            nt06261  Gastric cancer
+            nt06262  Pancreatic cancer
+            nt06263  Hepatocellular carcinoma
+            nt06265  Bladder cancer
+            nt06266  Non-small cell lung cancer
+            nt06267  Small cell lung cancer
+            nt06268  Melanoma
+            nt06269  Basal cell carcinoma
+            nt06270  Breast cancer
+            nt06271  Endometrial cancer
+            nt06272  Prostate cancer
+            nt06273  Glioma
+            nt06274  Thyroid cancer
+            nt06275  Acute myeloid leukemia
+            nt06276  Chronic myeloid leukemia
+  ELEMENT   N00012  Mutation-activated KRAS/NRAS to ERK signaling pathway
+            N00013  Mutation-activated BRAF to ERK signaling pathway
+            N00032  Mutation-activated KRAS/NRAS to PI3K signaling pathway
+            N00051  Deleted PTEN to PI3K signaling pathway
+            N00052  Mutation-inactivated PTEN to PI3K signaling pathway
+            N00067  Deleted p14(ARF) to p21-cell cycle G1/S
+            N00070  Mutation-inactivated p16(INK4a) to p16-cell cycle G1/S
+            N00071  Deleted p16(INK4a) to p16-cell cycle G1/S
+            N00073  Mutation-activated CDK4 to cell cycle G1/S
+            N00076  Mutation-inactivated p14(ARF) to p21-cell cycle G1/S
+            N00115  Mutation-inactivated TP53 to transcription
+DISEASE     H00038  Melanoma
+DRUG        D09996  Vemurafenib (JAN/USAN/INN)
+            D10104  Dabrafenib mesylate (USAN)
+            D10175  Trametinib (USAN)
+            D10176  Trametinib dimethyl sulfoxide (JAN/USAN)
+            D10405  Cobimetinib (USAN/INN)
+            D10604  Binimetinib (JAN/USAN)
+            D10615  Cobimetinib fumarate (USAN)
+            D11053  Encorafenib (JAN/USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2246  FGF1; fibroblast growth factor 1 [KO:K18496]
+            2247  FGF2; fibroblast growth factor 2 [KO:K18497]
+            2248  FGF3; fibroblast growth factor 3 [KO:K04358]
+            2249  FGF4; fibroblast growth factor 4 [KO:K04358]
+            8822  FGF17; fibroblast growth factor 17 [KO:K04358]
+            2251  FGF6; fibroblast growth factor 6 [KO:K04358]
+            2252  FGF7; fibroblast growth factor 7 [KO:K04358]
+            2253  FGF8; fibroblast growth factor 8 [KO:K04358]
+            2254  FGF9; fibroblast growth factor 9 [KO:K04358]
+            2255  FGF10; fibroblast growth factor 10 [KO:K04358]
+            8823  FGF16; fibroblast growth factor 16 [KO:K04358]
+            2250  FGF5; fibroblast growth factor 5 [KO:K04358]
+            8817  FGF18; fibroblast growth factor 18 [KO:K04358]
+            26281  FGF20; fibroblast growth factor 20 [KO:K04358]
+            27006  FGF22; fibroblast growth factor 22 [KO:K04358]
+            9965  FGF19; fibroblast growth factor 19 [KO:K22603]
+            26291  FGF21; fibroblast growth factor 21 [KO:K22429]
+            8074  FGF23; fibroblast growth factor 23 [KO:K22428]
+            3082  HGF; hepatocyte growth factor [KO:K05460]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            5154  PDGFA; platelet derived growth factor subunit A [KO:K04359]
+            5155  PDGFB; platelet derived growth factor subunit B [KO:K17386]
+            56034  PDGFC; platelet derived growth factor C [KO:K05450]
+            80310  PDGFD; platelet derived growth factor D [KO:K05450]
+            1950  EGF; epidermal growth factor [KO:K04357]
+            2260  FGFR1; fibroblast growth factor receptor 1 [KO:K04362] [EC:2.7.10.1]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            5156  PDGFRA; platelet derived growth factor receptor alpha [KO:K04363] [EC:2.7.10.1]
+            5159  PDGFRB; platelet derived growth factor receptor beta [KO:K05089] [EC:2.7.10.1]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            595  CCND1; cyclin D1 [KO:K04503]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            1029  CDKN2A; cyclin dependent kinase inhibitor 2A [KO:K06621]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            999  CDH1; cadherin 1 [KO:K05689]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+            4286  MITF; melanocyte inducing transcription factor [KO:K09455]
+COMPOUND    C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:16822996
+  AUTHORS   Miller AJ, Mihm MC Jr.
+  TITLE     Melanoma.
+  JOURNAL   N Engl J Med 355:51-65 (2006)
+            DOI:10.1056/NEJMra052166
+REFERENCE   PMID:12894244
+  AUTHORS   Chin L.
+  TITLE     The genetics of malignant melanoma: lessons from mouse and man.
+  JOURNAL   Nat Rev Cancer 3:559-70 (2003)
+            DOI:10.1038/nrc1145
+REFERENCE   PMID:16750612
+  AUTHORS   Takata M, Saida T.
+  TITLE     Genetic alterations in melanocytic tumors.
+  JOURNAL   J Dermatol Sci 43:1-10 (2006)
+            DOI:10.1016/j.jdermsci.2006.05.002
+REFERENCE   PMID:15841168
+  AUTHORS   Chudnovsky Y, Khavari PA, Adams AE.
+  TITLE     Melanoma genetics and the development of rational therapeutics.
+  JOURNAL   J Clin Invest 115:813-24 (2005)
+            DOI:10.1172/JCI24808
+REFERENCE   PMID:16001050
+  AUTHORS   Merlino G.
+  TITLE     Cancer biology: the weakest link?
+  JOURNAL   Nature 436:33-5 (2005)
+            DOI:10.1038/436033a
+REFERENCE   PMID:16001072
+  AUTHORS   Garraway LA, Widlund HR, Rubin MA, Getz G, Berger AJ, Ramaswamy S, Beroukhim R, Milner DA, Granter SR, Du J, Lee C, Wagner SN, Li C, Golub TR, Rimm DL, Meyerson ML, Fisher DE, Sellers WR.
+  TITLE     Integrative genomic analyses identify MITF as a lineage survival oncogene amplified in malignant melanoma.
+  JOURNAL   Nature 436:117-22 (2005)
+            DOI:10.1038/nature03664
+REFERENCE   PMID:16899407
+  AUTHORS   Levy C, Khaled M, Fisher DE.
+  TITLE     MITF: master regulator of melanocyte development and melanoma oncogene.
+  JOURNAL   Trends Mol Med 12:406-14 (2006)
+            DOI:10.1016/j.molmed.2006.07.008
+REFERENCE   PMID:15009714
+  AUTHORS   Tsao H, Goel V, Wu H, Yang G, Haluska FG.
+  TITLE     Genetic interaction between NRAS and BRAF mutations and PTEN/MMAC1 inactivation in melanoma.
+  JOURNAL   J Invest Dermatol 122:337-41 (2004)
+            DOI:10.1046/j.0022-202X.2004.22243.x
+REFERENCE   PMID:11224709
+  AUTHORS   Gruss C, Herlyn M.
+  TITLE     Role of cadherins and matrixins in melanoma.
+  JOURNAL   Curr Opin Oncol 13:117-23 (2001)
+            DOI:10.1097/00001622-200103000-00006
+REFERENCE   PMID:15721476
+  AUTHORS   Thompson JF, Scolyer RA, Kefford RF.
+  TITLE     Cutaneous melanoma.
+  JOURNAL   Lancet 365:687-701 (2005)
+            DOI:10.1016/S0140-6736(05)17951-3
+REFERENCE   PMID:14695152
+  AUTHORS   Omholt K, Platz A, Kanter L, Ringborg U, Hansson J.
+  TITLE     NRAS and BRAF mutations arise early during melanoma pathogenesis and are preserved throughout tumor progression.
+  JOURNAL   Clin Cancer Res 9:6483-8 (2003)
+REFERENCE   PMID:15557758
+  AUTHORS   Hussein MR.
+  TITLE     The TP53 tumor suppressor gene and melanoma tumorigenesis: is there a relationship?
+  JOURNAL   Tumour Biol 25:200-7 (2004)
+            DOI:10.1159/000081103
+REFERENCE   PMID:10843728
+  AUTHORS   Lazar-Molnar E, Hegyesi H, Toth S, Falus A.
+  TITLE     Autocrine and paracrine regulation by cytokines and growth factors in melanoma.
+  JOURNAL   Cytokine 12:547-54 (2000)
+            DOI:10.1006/cyto.1999.0614
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04520  Adherens junction
+            hsa04916  Melanogenesis
+KO_PATHWAY  ko05218
+///

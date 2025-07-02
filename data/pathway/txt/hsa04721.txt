@@ -1,0 +1,295 @@
+ENTRY       hsa04721                    Pathway
+NAME        Synaptic vesicle cycle - Homo sapiens (human)
+DESCRIPTION Communication between neurons is mediated by the release of neurotransmitter from synaptic vesicles (SVs). At the nerve terminal, SVs cycle through repetitive episodes of exocytosis and endocytosis. SVs are filled with neurotransmitters by active transport. The loaded SVs are then docked at a specialized region of the presynaptic plasma membrane known as the active zone, where they undergo a priming reaction. Upon arrival of an action potential, Ca2+ enters through voltage-gated channels and neurotransmitter is released by exocytosis, usually in less than a millisecond. After fusion, the vesicle is retrieved by endocytosis and reloaded for another round of exocytosis.
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP hsa04721  Synaptic vesicle cycle
+DRUG        D00110  Cocaine (USP)
+            D00197  Reserpine (JP18/USP/INN)
+            D00228  Amoxapine (JP18/USP/INN)
+            D00367  Mazindol (JAN/USP/INN)
+            D00394  Trimipramine (USAN/INN)
+            D00484  Protriptyline hydrochloride (USP)
+            D00783  Botulinum toxin type A (JAN)
+            D00809  Amitriptyline hydrochloride (JP18/USP)
+            D00811  Clomipramine hydrochloride (JP18/USP)
+            D00812  Desipramine hydrochloride (JAN/USP)
+            D00814  Doxepin hydrochloride (USP)
+            D00815  Imipramine hydrochloride (JP18/USP)
+            D00816  Nortriptyline hydrochloride (JP18/USP/INN)
+            D00817  Bupropion hydrochloride (JAN/USP)
+            D00818  Maprotiline hydrochloride (JP18/USP)
+            D00821  Venlafaxine hydrochloride (JAN/USP)
+            D01107  Milnacipran hydrochloride (JAN/USAN)
+            D01179  Duloxetine hydrochloride (JAN/USP)
+            D01285  Lofepramine hydrochloride (JAN/USAN)
+            D01296  Methylphenidate hydrochloride (JAN/USP)
+            D01304  Amezinium metilsulfate (JAN)
+            D01546  Dothiepin hydrochloride (USAN)
+            D02074  Amphetamine sulfate (USP)
+            D02078  Dextroamphetamine sulfate (USP)
+            D02080  Phendimetrazine tartrate (USP)
+            D02170  Indeloxazine hydrochloride (JAN/USAN)
+            D02182  Cocaine hydrochloride (JP18/USP)
+            D02237  Guanethidine sulfate (USAN)
+            D02242  Methamphetamine hydrochloride (JP18/USP)
+            D02408  Trimipramine maleate (JAN/USP)
+            D02566  Maprotiline (USAN)
+            D02570  Desvenlafaxine succinate (USAN)
+            D02571  Sibutramine hydrochloride (USP)
+            D02572  Viloxazine hydrochloride (USAN)
+            D02573  Reboxetine mesylate (USAN)
+            D02574  Atomoxetine hydrochloride (JAN/USP)
+            D02704  Tampramine fumarate (USAN)
+            D02735  Rimabotulinumtoxin B (USAN)
+            D03491  Cidoxepin hydrochloride (USAN)
+            D03721  Dexmethylphenidate hydrochloride (USAN)
+            D03740  Dextroamphetamine (USAN)
+            D03801  Diethylpropion hydrochloride (USP)
+            D04382  Guanethidine monosulfate (USP)
+            D04473  Hydroxyamphetamine hydrobromide (USP)
+            D04747  Lisdexamfetamine dimesylate (USAN)
+            D04781  Lortalamine (USAN/INN)
+            D04999  Methylphenidate (USAN/INN)
+            D05119  Napamezole hydrochloride (USAN)
+            D05120  Napitane mesylate (USAN)
+            D05173  Nisoxetine (USAN/INN)
+            D05200  Nomifensine maleate (USAN)
+            D05284  Oxaprotiline hydrochloride (USAN)
+            D05454  Phenmetrazine hydrochloride (USP)
+            D05458  Phentermine (USAN/INN)
+            D05459  Phentermine hydrochloride (USP)
+            D05663  Pyrovalerone hydrochloride (USAN)
+            D05692  Radafaxine hydrochloride (USAN)
+            D05997  Talopram hydrochloride (USAN)
+            D06004  Tandamine hydrochloride (USAN)
+            D06007  Tapentadol (USAN/INN)
+            D07334  Imipraminoxide (INN)
+            D07444  Amfepramone (INN)
+            D07445  Amfetamine (INN)
+            D07448  Amitriptyline (INN)
+            D07449  Amitriptylinoxide (INN)
+            D07473  Atomoxetine (USP/INN)
+            D07514  Benzfetamine (INN)
+            D07515  Benzfetamine hydrochloride
+            D07591  Bupropion (INN)
+            D07727  Clomipramine (INN)
+            D07791  Desipramine (INN)
+            D07793  Desvenlafaxine (INN)
+            D07806  Dexmethylphenidate (INN)
+            D07872  Dosulepin (INN)
+            D07875  Doxepin (INN)
+            D07880  Duloxetine (INN)
+            D07938  Bupropion hydrobromide (USAN)
+            D08030  Guanethidine (INN)
+            D08070  Imipramine (INN)
+            D08071  Imipramine pamoate (USP)
+            D08072  Imipraminoxide hydrochloride
+            D08077  Indeloxazine (INN)
+            D08130  Lisdexamfetamine (INN)
+            D08140  Lofepramine (INN)
+            D08187  Metamfetamine (INN)
+            D08222  Milnacipran (INN)
+            D08288  Nortriptyline (INN)
+            D08347  Phendimetrazine (INN)
+            D08348  Phendimetrazine hydrochloride
+            D08447  Protriptyline (INN)
+            D08472  Reboxetine (INN)
+            D08513  Sibutramine (INN)
+            D08575  Tetrabenazine (JAN/INN)
+            D08670  Venlafaxine (INN)
+            D08673  Viloxazine (INN)
+            D09340  Esreboxetine (USAN/INN)
+            D09341  Esreboxetine succinate (USAN)
+            D10012  Incobotulinumtoxin A (JAN/USAN)
+            D10072  Levomilnacipran (USAN/INN)
+            D10088  Amitifadine (USAN)
+            D10089  Amitifadine hydrochloride (USAN)
+            D10133  Levomilnacipran hydrochloride (USAN)
+            D10186  Bitopertin (JAN/USAN)
+            D10199  Tapentadol hydrochloride (JAN)
+            D10443  Liafensine (USAN)
+            D10675  Valbenazine (USAN/INN)
+            D10697  Centanafadine (USAN)
+            D10698  Centanafadine hydrochloride (USAN)
+            D10700  Dasotraline (USAN/INN)
+            D10701  Deutetrabenazine (USAN/INN)
+            D10870  Dasotraline hydrochloride (USAN)
+            D10921  Daxibotulinumtoxin A (USAN)
+            D10999  Valbenazine tosylate (USAN)
+            D11172  Midomafetamine (USAN/INN)
+            D11315  Solriamfetol (USAN)
+            D11328  Solriamfetol hydrochloride (USAN)
+            D11405  Prabotulinumtoxin A (USAN)
+            D11619  Desvenlafaxine succinate anhydrous
+            D11622  Amphetamine aspartate monohydrate
+            D11623  Dextroamphetamine saccharate
+            D11688  Ampreloxetine (USAN/INN)
+            D11689  Ampreloxetine hydrochloride (USAN)
+            D11940  Toludesvenlafaxine (USAN/INN)
+            D11941  Toludesvenlafaxine hydrochloride (USAN)
+            D12403  Venlafaxine besylate monohydrate
+            D12527  Iclepertin (JAN/USAN/INN)
+DBLINKS     GO: 0016079 0048488
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        140679  SLC32A1; solute carrier family 32 member 1 [KO:K15015]
+            6570  SLC18A1; solute carrier family 18 member A1 [KO:K08155]
+            6571  SLC18A2; solute carrier family 18 member A2 [KO:K08155]
+            6572  SLC18A3; solute carrier family 18 member A3 [KO:K14636]
+            57084  SLC17A6; solute carrier family 17 member 6 [KO:K12302]
+            246213  SLC17A8; solute carrier family 17 member 8 [KO:K12302]
+            57030  SLC17A7; solute carrier family 17 member 7 [KO:K12302]
+            6857  SYT1; synaptotagmin 1 [KO:K15290]
+            6844  VAMP2; vesicle associated membrane protein 2 [KO:K13504]
+            5864  RAB3A; RAB3A, member RAS oncogene family [KO:K07882]
+            22999  RIMS1; regulating synaptic membrane exocytosis 1 [KO:K15291]
+            6804  STX1A; syntaxin 1A [KO:K04560]
+            2054  STX2; syntaxin 2 [KO:K08486]
+            6809  STX3; syntaxin 3 [KO:K08486]
+            112755  STX1B; syntaxin 1B [KO:K08486]
+            6812  STXBP1; syntaxin binding protein 1 [KO:K15292]
+            23025  UNC13A; unc-13 homolog A [KO:K15293]
+            10497  UNC13B; unc-13 homolog B [KO:K15293]
+            440279  UNC13C; unc-13 homolog C [KO:K15293]
+            6616  SNAP25; synaptosome associated protein 25 [KO:K18211]
+            10815  CPLX1; complexin 1 [KO:K15294]
+            10814  CPLX2; complexin 2 [KO:K15294]
+            594855  CPLX3; complexin 3 [KO:K15295]
+            339302  CPLX4; complexin 4 [KO:K15295]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            774  CACNA1B; calcium voltage-gated channel subunit alpha1 B [KO:K04849]
+            4905  NSF; N-ethylmaleimide sensitive factor, vesicle fusing ATPase [KO:K06027] [EC:3.6.4.6]
+            8775  NAPA; NSF attachment protein alpha [KO:K15296]
+            1759  DNM1; dynamin 1 [KO:K01528] [EC:3.6.5.5]
+            26052  DNM3; dynamin 3 [KO:K01528] [EC:3.6.5.5]
+            1785  DNM2; dynamin 2 [KO:K23484] [EC:3.6.5.5]
+            1211  CLTA; clathrin light chain A [KO:K04644]
+            1212  CLTB; clathrin light chain B [KO:K04645]
+            1213  CLTC; clathrin heavy chain [KO:K04646]
+            8218  CLTCL1; clathrin heavy chain like 1 [KO:K04646]
+            161  AP2A2; adaptor related protein complex 2 subunit alpha 2 [KO:K11824]
+            160  AP2A1; adaptor related protein complex 2 subunit alpha 1 [KO:K11824]
+            163  AP2B1; adaptor related protein complex 2 subunit beta 1 [KO:K11825]
+            1173  AP2M1; adaptor related protein complex 2 subunit mu 1 [KO:K11826]
+            1175  AP2S1; adaptor related protein complex 2 subunit sigma 1 [KO:K11827]
+            523  ATP6V1A; ATPase H+ transporting V1 subunit A [KO:K02145] [EC:7.1.2.2]
+            525  ATP6V1B1; ATPase H+ transporting V1 subunit B1 [KO:K02147]
+            526  ATP6V1B2; ATPase H+ transporting V1 subunit B2 [KO:K02147]
+            245973  ATP6V1C2; ATPase H+ transporting V1 subunit C2 [KO:K02148]
+            528  ATP6V1C1; ATPase H+ transporting V1 subunit C1 [KO:K02148]
+            51382  ATP6V1D; ATPase H+ transporting V1 subunit D [KO:K02149]
+            90423  ATP6V1E2; ATPase H+ transporting V1 subunit E2 [KO:K02150]
+            529  ATP6V1E1; ATPase H+ transporting V1 subunit E1 [KO:K02150]
+            9296  ATP6V1F; ATPase H+ transporting V1 subunit F [KO:K02151]
+            9550  ATP6V1G1; ATPase H+ transporting V1 subunit G1 [KO:K02152]
+            127124  ATP6V1G3; ATPase H+ transporting V1 subunit G3 [KO:K02152]
+            534  ATP6V1G2; ATPase H+ transporting V1 subunit G2 [KO:K02152]
+            8992  ATP6V0E1; ATPase H+ transporting V0 subunit e1 [KO:K02153]
+            155066  ATP6V0E2; ATPase H+ transporting V0 subunit e2 [KO:K02153]
+            10312  TCIRG1; T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [KO:K02154]
+            23545  ATP6V0A2; ATPase H+ transporting V0 subunit a2 [KO:K02154]
+            50617  ATP6V0A4; ATPase H+ transporting V0 subunit a4 [KO:K02154]
+            535  ATP6V0A1; ATPase H+ transporting V0 subunit a1 [KO:K02154]
+            9114  ATP6V0D1; ATPase H+ transporting V0 subunit d1 [KO:K02146]
+            245972  ATP6V0D2; ATPase H+ transporting V0 subunit d2 [KO:K02146]
+            51606  ATP6V1H; ATPase H+ transporting V1 subunit H [KO:K02144]
+            527  ATP6V0C; ATPase H+ transporting V0 subunit c [KO:K02155]
+            533  ATP6V0B; ATPase H+ transporting V0 subunit b [KO:K03661]
+            6529  SLC6A1; solute carrier family 6 member 1 [KO:K05034]
+            6530  SLC6A2; solute carrier family 6 member 2 [KO:K05035]
+            6531  SLC6A3; solute carrier family 6 member 3 [KO:K05036]
+            6532  SLC6A4; solute carrier family 6 member 4 [KO:K05037]
+            9152  SLC6A5; solute carrier family 6 member 5 [KO:K05038]
+            6536  SLC6A9; solute carrier family 6 member 9 [KO:K05038]
+            6534  SLC6A7; solute carrier family 6 member 7 [KO:K05040]
+            6538  SLC6A11; solute carrier family 6 member 11 [KO:K05044]
+            6539  SLC6A12; solute carrier family 6 member 12 [KO:K05045]
+            6540  SLC6A13; solute carrier family 6 member 13 [KO:K05046]
+            6505  SLC1A1; solute carrier family 1 member 1 [KO:K05612]
+            6506  SLC1A2; solute carrier family 1 member 2 [KO:K05613]
+            6507  SLC1A3; solute carrier family 1 member 3 [KO:K05614]
+            6511  SLC1A6; solute carrier family 1 member 6 [KO:K05617]
+            6512  SLC1A7; solute carrier family 1 member 7 [KO:K05618]
+COMPOUND    C00002  ATP
+            C00025  L-Glutamate
+            C00037  Glycine
+            C00076  Calcium cation
+            C00080  H+
+            C00334  4-Aminobutanoate
+            C00388  Histamine
+            C00547  L-Noradrenaline
+            C00780  Serotonin
+            C01996  Acetylcholine
+            C03758  Dopamine
+            C16041  Leu-enkephalin
+REFERENCE   PMID:12827282
+  AUTHORS   Li L, Chin LS
+  TITLE     The molecular machinery of synaptic vesicle exocytosis.
+  JOURNAL   Cell Mol Life Sci 60:942-60 (2003)
+            DOI:10.1007/s00018-003-2240-7
+REFERENCE   
+  AUTHORS   Nestler EJ, Hyman SE, Malenka RC.
+  TITLE     Molecular neuropharmacology: A foundation for clinical neuroscience
+  JOURNAL   The McGraw-Hill Companies, Inc. (2001)
+REFERENCE   PMID:18275379
+  AUTHORS   Chapman ER
+  TITLE     How does synaptotagmin trigger neurotransmitter release?
+  JOURNAL   Annu Rev Biochem 77:615-41 (2008)
+            DOI:10.1146/annurev.biochem.77.062005.101135
+REFERENCE   PMID:10212473
+  AUTHORS   Benfenati F, Onofri F, Giovedi S
+  TITLE     Protein-protein interactions and protein modules in the control of neurotransmitter release.
+  JOURNAL   Philos Trans R Soc Lond B Biol Sci 354:243-57 (1999)
+            DOI:10.1098/rstb.1999.0376
+REFERENCE   PMID:20634814
+  AUTHORS   de Saint Basile G, Menasche G, Fischer A
+  TITLE     Molecular mechanisms of biogenesis and exocytosis of cytotoxic granules.
+  JOURNAL   Nat Rev Immunol 10:568-79 (2010)
+            DOI:10.1038/nri2803
+REFERENCE   PMID:17767192
+  AUTHORS   Carr CM, Munson M
+  TITLE     Tag team action at the synapse.
+  JOURNAL   EMBO Rep 8:834-8 (2007)
+            DOI:10.1038/sj.embor.7401051
+REFERENCE   PMID:15217342
+  AUTHORS   Sudhof TC
+  TITLE     The synaptic vesicle cycle.
+  JOURNAL   Annu Rev Neurosci 27:509-47 (2004)
+            DOI:10.1146/annurev.neuro.26.041002.131412
+REFERENCE   PMID:12563290
+  AUTHORS   Gundelfinger ED, Kessels MM, Qualmann B
+  TITLE     Temporal and spatial coordination of exocytosis and endocytosis.
+  JOURNAL   Nat Rev Mol Cell Biol 4:127-39 (2003)
+            DOI:10.1038/nrm1016
+REFERENCE   PMID:16990140
+  AUTHORS   Tang J, Maximov A, Shin OH, Dai H, Rizo J, Sudhof TC
+  TITLE     A complexin/synaptotagmin 1 switch controls fast synaptic vesicle exocytosis.
+  JOURNAL   Cell 126:1175-87 (2006)
+            DOI:10.1016/j.cell.2006.08.030
+REFERENCE   PMID:12094216
+  AUTHORS   Chapman ER
+  TITLE     Synaptotagmin: a Ca(2+) sensor that triggers exocytosis?
+  JOURNAL   Nat Rev Mol Cell Biol 3:498-508 (2002)
+            DOI:10.1038/nrm855
+REFERENCE   PMID:7791897
+  AUTHORS   Sudhof TC
+  TITLE     The synaptic vesicle cycle: a cascade of protein-protein interactions.
+  JOURNAL   Nature 375:645-53 (1995)
+            DOI:10.1038/375645a0
+REFERENCE   PMID:12154365
+  AUTHORS   Rizo J, Sudhof TC
+  TITLE     Snares and Munc18 in synaptic vesicle fusion.
+  JOURNAL   Nat Rev Neurosci 3:641-53 (2002)
+            DOI:10.1038/nrn898
+REFERENCE   PMID:18726177
+  AUTHORS   Malsam J, Kreye S, Sollner TH
+  TITLE     Membrane fusion: SNAREs and regulation.
+  JOURNAL   Cell Mol Life Sci 65:2814-32 (2008)
+            DOI:10.1007/s00018-008-8352-3
+REL_PATHWAY hsa04144  Endocytosis
+            hsa04724  Glutamatergic synapse
+            hsa04725  Cholinergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04727  GABAergic synapse
+            hsa04728  Dopaminergic synapse
+KO_PATHWAY  ko04721
+///

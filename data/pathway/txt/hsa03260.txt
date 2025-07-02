@@ -1,0 +1,20 @@
+ENTRY       hsa03260                    Pathway
+NAME        Virion - Human immunodeficiency virus - Homo sapiens (human)
+CLASS       Genetic Information Processing; Information processing in viruses
+PATHWAY_MAP hsa03260  Virion - Human immunodeficiency virus
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        920  CD4; CD4 molecule [KO:K06454]
+            1234  CCR5; C-C motif chemokine receptor 5 [KO:K04180]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            10332  CLEC4M; C-type lectin domain family 4 member M [KO:K06563]
+            30835  CD209; CD209 molecule [KO:K06563]
+COMPOUND    C00925  Heparan sulfate
+REFERENCE   PMID:23719463
+  AUTHORS   Zhao G, Perilla JR, Yufenyuy EL, Meng X, Chen B, Ning J, Ahn J, Gronenborn AM, Schulten K, Aiken C, Zhang P
+  TITLE     Mature HIV-1 capsid structure by cryo-electron microscopy and all-atom molecular dynamics.
+  JOURNAL   Nature 497:643-6 (2013)
+            DOI:10.1038/nature12162
+REL_PATHWAY hsa03250  Viral life cycle - HIV-1
+            hsa05170  Human immunodeficiency virus 1 infection
+KO_PATHWAY  ko03260
+///

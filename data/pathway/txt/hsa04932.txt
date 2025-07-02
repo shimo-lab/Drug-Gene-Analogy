@@ -1,0 +1,271 @@
+ENTRY       hsa04932                    Pathway
+NAME        Non-alcoholic fatty liver disease - Homo sapiens (human)
+DESCRIPTION Non-alcoholic fatty liver disease (NAFLD) represents a spectrum ranging from simple steatosis to more severe steatohepatitis with hepatic inflammation and fibrosis, known as nonalcoholic steatohepatitis (NASH). NASH may further lead to cirrhosis and hepatocellular carcinoma (HCC). This map shows a stage-dependent progression of NAFLD. In the first stage of NAFLD, excess lipid accumulation has been demonstrated. The main cause is the induction of insulin resistance, which leads to a defect in insulin suppression of free fatty acids (FAAs) disposal. In addition, two transcription factors, SREBP-1c and PPAR-alpha, activate key enzymes of lipogenesis and increase the synthesis of FAAs in liver. In the second stage, as a consequence of the progression to NASH, the production of reactive oxygen species (ROS) is enhanced due to oxidation stress through mitochondrial beta-oxidation of fatty acids and endoplamic reticulum (ER) stress, leading to lipid peroxidation. The lipid peroxidation can further cause the production of cytokines (Fas ligand, TNF-alpha, IL-8 and TGF), promoting cell death, inflammation and fibrosis. The activation of JNK, which is induced by ER stress, TNF-alpha and FAAs, is also associated with NAFLD progression. Increased JNK promotes cytokine production and initiation of HCC.
+CLASS       Human Diseases; Endocrine and metabolic disease
+PATHWAY_MAP hsa04932  Non-alcoholic fatty liver disease
+DISEASE     H01333  Non-alcoholic fatty liver disease
+DRUG        D10988  Selonsertib (JAN/USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3569  IL6; interleukin 6 [KO:K05405]
+            3570  IL6R; interleukin 6 receptor [KO:K05055]
+            9021  SOCS3; suppressor of cytokine signaling 3 [KO:K04696]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            3630  INS; insulin [KO:K04526]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2931  GSK3A; glycogen synthase kinase 3 alpha [KO:K08822] [EC:2.7.11.26]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            10062  NR1H3; nuclear receptor subfamily 1 group H member 3 [KO:K08536]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6720  SREBF1; sterol regulatory element binding transcription factor 1 [KO:K07197]
+            6945  MLX; MAX dimerization protein MLX [KO:K09113]
+            22877  MLXIP; MLX interacting protein [KO:K09113]
+            51085  MLXIPL; MLX interacting protein like [KO:K09113]
+            5313  PKLR; pyruvate kinase L/R [KO:K12406] [EC:2.7.1.40]
+            3952  LEP; leptin [KO:K05424]
+            3953  LEPR; leptin receptor [KO:K05062]
+            9370  ADIPOQ; adiponectin, C1Q and collagen domain containing [KO:K07296]
+            51094  ADIPOR1; adiponectin receptor 1 [KO:K07297]
+            79602  ADIPOR2; adiponectin receptor 2 [KO:K07297]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5465  PPARA; peroxisome proliferator activated receptor alpha [KO:K07294]
+            5468  PPARG; peroxisome proliferator activated receptor gamma [KO:K08530]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            4296  MAP3K11; mitogen-activated protein kinase kinase kinase 11 [KO:K04419] [EC:2.7.11.25]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            83737  ITCH; itchy E3 ubiquitin protein ligase [KO:K05632] [EC:2.3.2.26]
+            2081  ERN1; endoplasmic reticulum to nucleus signaling 1 [KO:K08852] [EC:2.7.11.1 3.1.26.-]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            3552  IL1A; interleukin 1 alpha [KO:K04383]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            7494  XBP1; X-box binding protein 1 [KO:K09027]
+            1050  CEBPA; CCAAT enhancer binding protein alpha [KO:K09055]
+            1571  CYP2E1; cytochrome P450 family 2 subfamily E member 1 [KO:K07415] [EC:1.14.14.-]
+            356  FASLG; Fas ligand [KO:K04389]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            9451  EIF2AK3; eukaryotic translation initiation factor 2 alpha kinase 3 [KO:K08860] [EC:2.7.11.1]
+            1965  EIF2S1; eukaryotic translation initiation factor 2 subunit alpha [KO:K03237]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            1649  DDIT3; DNA damage inducible transcript 3 [KO:K04452]
+            10018  BCL2L11; BCL2 like 11 [KO:K16341]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            637  BID; BH3 interacting domain death agonist [KO:K04726]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            840  CASP7; caspase 7 [KO:K04397] [EC:3.4.22.60]
+            4723  NDUFV1; NADH:ubiquinone oxidoreductase core subunit V1 [KO:K03942] [EC:7.1.1.2]
+            4729  NDUFV2; NADH:ubiquinone oxidoreductase core subunit V2 [KO:K03943] [EC:7.1.1.2]
+            4731  NDUFV3; NADH:ubiquinone oxidoreductase subunit V3 [KO:K03944]
+            4694  NDUFA1; NADH:ubiquinone oxidoreductase subunit A1 [KO:K03945]
+            4695  NDUFA2; NADH:ubiquinone oxidoreductase subunit A2 [KO:K03946]
+            4696  NDUFA3; NADH:ubiquinone oxidoreductase subunit A3 [KO:K03947]
+            4697  NDUFA4; NDUFA4 mitochondrial complex associated [KO:K03948]
+            56901  NDUFA4L2; NDUFA4 mitochondrial complex associated like 2 [KO:K03948]
+            4698  NDUFA5; NADH:ubiquinone oxidoreductase subunit A5 [KO:K03949]
+            4700  NDUFA6; NADH:ubiquinone oxidoreductase subunit A6 [KO:K03950]
+            4701  NDUFA7; NADH:ubiquinone oxidoreductase subunit A7 [KO:K03951]
+            4702  NDUFA8; NADH:ubiquinone oxidoreductase subunit A8 [KO:K03952]
+            4704  NDUFA9; NADH:ubiquinone oxidoreductase subunit A9 [KO:K03953]
+            4705  NDUFA10; NADH:ubiquinone oxidoreductase subunit A10 [KO:K03954]
+            4706  NDUFAB1; NADH:ubiquinone oxidoreductase subunit AB1 [KO:K03955]
+            126328  NDUFA11; NADH:ubiquinone oxidoreductase subunit A11 [KO:K03956]
+            55967  NDUFA12; NADH:ubiquinone oxidoreductase subunit A12 [KO:K11352]
+            51079  NDUFA13; NADH:ubiquinone oxidoreductase subunit A13 [KO:K11353]
+            4707  NDUFB1; NADH:ubiquinone oxidoreductase subunit B1 [KO:K03957]
+            4708  NDUFB2; NADH:ubiquinone oxidoreductase subunit B2 [KO:K03958]
+            4709  NDUFB3; NADH:ubiquinone oxidoreductase subunit B3 [KO:K03959]
+            4710  NDUFB4; NADH:ubiquinone oxidoreductase subunit B4 [KO:K03960]
+            4711  NDUFB5; NADH:ubiquinone oxidoreductase subunit B5 [KO:K03961]
+            4712  NDUFB6; NADH:ubiquinone oxidoreductase subunit B6 [KO:K03962]
+            4713  NDUFB7; NADH:ubiquinone oxidoreductase subunit B7 [KO:K03963]
+            4714  NDUFB8; NADH:ubiquinone oxidoreductase subunit B8 [KO:K03964]
+            4715  NDUFB9; NADH:ubiquinone oxidoreductase subunit B9 [KO:K03965]
+            4716  NDUFB10; NADH:ubiquinone oxidoreductase subunit B10 [KO:K03966]
+            54539  NDUFB11; NADH:ubiquinone oxidoreductase subunit B11 [KO:K11351]
+            4719  NDUFS1; NADH:ubiquinone oxidoreductase core subunit S1 [KO:K03934] [EC:7.1.1.2]
+            4720  NDUFS2; NADH:ubiquinone oxidoreductase core subunit S2 [KO:K03935] [EC:7.1.1.2]
+            4722  NDUFS3; NADH:ubiquinone oxidoreductase core subunit S3 [KO:K03936] [EC:7.1.1.2]
+            4724  NDUFS4; NADH:ubiquinone oxidoreductase subunit S4 [KO:K03937]
+            4725  NDUFS5; NADH:ubiquinone oxidoreductase subunit S5 [KO:K03938]
+            4726  NDUFS6; NADH:ubiquinone oxidoreductase subunit S6 [KO:K03939]
+            374291  NDUFS7; NADH:ubiquinone oxidoreductase core subunit S7 [KO:K03940] [EC:7.1.1.2]
+            4728  NDUFS8; NADH:ubiquinone oxidoreductase core subunit S8 [KO:K03941] [EC:7.1.1.2]
+            4717  NDUFC1; NADH:ubiquinone oxidoreductase subunit C1 [KO:K03967]
+            4718  NDUFC2; NADH:ubiquinone oxidoreductase subunit C2 [KO:K03968]
+            100532726  NDUFC2-KCTD14; NDUFC2-KCTD14 readthrough [KO:K03968]
+            6389  SDHA; succinate dehydrogenase complex flavoprotein subunit A [KO:K00234] [EC:1.3.5.1]
+            6390  SDHB; succinate dehydrogenase complex iron sulfur subunit B [KO:K00235] [EC:1.3.5.1]
+            6391  SDHC; succinate dehydrogenase complex subunit C [KO:K00236]
+            6392  SDHD; succinate dehydrogenase complex subunit D [KO:K00237]
+            7386  UQCRFS1; ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [KO:K00411] [EC:7.1.1.8]
+            4519  CYTB; cytochrome b [KO:K00412]
+            1537  CYC1; cytochrome c1 [KO:K00413]
+            7384  UQCRC1; ubiquinol-cytochrome c reductase core protein 1 [KO:K00414]
+            7385  UQCRC2; ubiquinol-cytochrome c reductase core protein 2 [KO:K00415]
+            7388  UQCRH; ubiquinol-cytochrome c reductase hinge protein [KO:K00416]
+            440567  UQCRHL; ubiquinol-cytochrome c reductase hinge protein like [KO:K00416]
+            7381  UQCRB; ubiquinol-cytochrome c reductase binding protein [KO:K00417]
+            27089  UQCRQ; ubiquinol-cytochrome c reductase complex III subunit VII [KO:K00418]
+            29796  UQCR10; ubiquinol-cytochrome c reductase, complex III subunit X [KO:K00419]
+            10975  UQCR11; ubiquinol-cytochrome c reductase, complex III subunit XI [KO:K00420]
+            4514  COX3; cytochrome c oxidase subunit III [KO:K02262]
+            4512  COX1; cytochrome c oxidase subunit I [KO:K02256] [EC:7.1.1.9]
+            4513  COX2; cytochrome c oxidase subunit II [KO:K02261]
+            84701  COX4I2; cytochrome c oxidase subunit 4I2 [KO:K02263]
+            1327  COX4I1; cytochrome c oxidase subunit 4I1 [KO:K02263]
+            9377  COX5A; cytochrome c oxidase subunit 5A [KO:K02264]
+            1329  COX5B; cytochrome c oxidase subunit 5B [KO:K02265]
+            1337  COX6A1; cytochrome c oxidase subunit 6A1 [KO:K02266]
+            1339  COX6A2; cytochrome c oxidase subunit 6A2 [KO:K02266]
+            1340  COX6B1; cytochrome c oxidase subunit 6B1 [KO:K02267]
+            125965  COX6B2; cytochrome c oxidase subunit 6B2 [KO:K02267]
+            1345  COX6C; cytochrome c oxidase subunit 6C [KO:K02268]
+            1346  COX7A1; cytochrome c oxidase subunit 7A1 [KO:K02270]
+            1347  COX7A2; cytochrome c oxidase subunit 7A2 [KO:K02270]
+            9167  COX7A2L; cytochrome c oxidase subunit 7A2 like [KO:K02270]
+            1349  COX7B; cytochrome c oxidase subunit 7B [KO:K02271]
+            170712  COX7B2; cytochrome c oxidase subunit 7B2 [KO:K02271]
+            1350  COX7C; cytochrome c oxidase subunit 7C [KO:K02272]
+            341947  COX8C; cytochrome c oxidase subunit 8C [KO:K02273]
+            1351  COX8A; cytochrome c oxidase subunit 8A [KO:K02273]
+COMPOUND    C00031  D-Glucose
+            C00162  Fatty acid
+REFERENCE   PMID:23545492
+  AUTHORS   Naik A, Kosir R, Rozman D
+  TITLE     Genomic aspects of NAFLD pathogenesis.
+  JOURNAL   Genomics 102:84-95 (2013)
+            DOI:10.1016/j.ygeno.2013.03.007
+REFERENCE   PMID:19352614
+  AUTHORS   Malaguarnera M, Di Rosa M, Nicoletti F, Malaguarnera L
+  TITLE     Molecular mechanisms involved in NAFLD progression.
+  JOURNAL   J Mol Med (Berl) 87:679-95 (2009)
+            DOI:10.1007/s00109-009-0464-1
+REFERENCE   PMID:22705006
+  AUTHORS   Seki E, Brenner DA, Karin M
+  TITLE     A liver full of JNK: signaling in regulation of cell function and disease pathogenesis, and clinical approaches.
+  JOURNAL   Gastroenterology 143:307-20 (2012)
+            DOI:10.1053/j.gastro.2012.06.004
+REFERENCE   PMID:21038418
+  AUTHORS   Tilg H, Moschen AR
+  TITLE     Evolution of inflammation in nonalcoholic fatty liver disease: the multiple parallel hits hypothesis.
+  JOURNAL   Hepatology 52:1836-46 (2010)
+            DOI:10.1002/hep.24001
+REFERENCE   PMID:16364488
+  AUTHORS   Larter CZ, Farrell GC
+  TITLE     Insulin resistance, adiponectin, cytokines in NASH: Which is the best target to treat?
+  JOURNAL   J Hepatol 44:253-61 (2006)
+            DOI:10.1016/j.jhep.2005.11.030
+REFERENCE   PMID:22570745
+  AUTHORS   Farrell GC, van Rooyen D, Gan L, Chitturi S
+  TITLE     NASH is an Inflammatory Disorder: Pathogenic, Prognostic and Therapeutic Implications.
+  JOURNAL   Gut Liver 6:149-71 (2012)
+            DOI:10.5009/gnl.2012.6.2.149
+REFERENCE   PMID:20619513
+  AUTHORS   Shapiro H, Tehilla M, Attal-Singer J, Bruck R, Luzzatti R, Singer P
+  TITLE     The therapeutic potential of long-chain omega-3 fatty acids in nonalcoholic fatty liver disease.
+  JOURNAL   Clin Nutr 30:6-19 (2011)
+            DOI:10.1016/j.clnu.2010.06.001
+REFERENCE   PMID:20303879
+  AUTHORS   Hotamisligil GS
+  TITLE     Endoplasmic reticulum stress and the inflammatory basis of metabolic disease.
+  JOURNAL   Cell 140:900-17 (2010)
+            DOI:10.1016/j.cell.2010.02.034
+REFERENCE   PMID:17498512
+  AUTHORS   Parekh S, Anania FA
+  TITLE     Abnormal lipid and glucose metabolism in obesity: implications for nonalcoholic fatty liver disease.
+  JOURNAL   Gastroenterology 132:2191-207 (2007)
+            DOI:10.1053/j.gastro.2007.03.055
+REFERENCE   PMID:16374858
+  AUTHORS   Schattenberg JM, Singh R, Wang Y, Lefkowitch JH, Rigoli RM, Scherer PE, Czaja MJ
+  TITLE     JNK1 but not JNK2 promotes the development of steatohepatitis in mice.
+  JOURNAL   Hepatology 43:163-72 (2006)
+            DOI:10.1002/hep.20999
+REFERENCE   PMID:22940046
+  AUTHORS   Leung TM, Nieto N
+  TITLE     CYP2E1 and oxidant stress in alcoholic and non-alcoholic fatty liver disease.
+  JOURNAL   J Hepatol 58:395-8 (2013)
+            DOI:10.1016/j.jhep.2012.08.018
+REFERENCE   PMID:14685853
+  AUTHORS   Zafrani ES
+  TITLE     Non-alcoholic fatty liver disease: an emerging pathological spectrum.
+  JOURNAL   Virchows Arch 444:3-12 (2004)
+            DOI:10.1007/s00428-003-0943-7
+REFERENCE   PMID:12891546
+  AUTHORS   Feldstein AE, Canbay A, Angulo P, Taniai M, Burgart LJ, Lindor KD, Gores GJ
+  TITLE     Hepatocyte apoptosis and fas expression are prominent features of human nonalcoholic steatohepatitis.
+  JOURNAL   Gastroenterology 125:437-43 (2003)
+            DOI:10.1016/S0016-5085(03)00907-7
+REFERENCE   PMID:16406828
+  AUTHORS   Begriche K, Igoudjil A, Pessayre D, Fromenty B
+  TITLE     Mitochondrial dysfunction in NASH: causes, consequences and possible means to prevent it.
+  JOURNAL   Mitochondrion 6:1-28 (2006)
+            DOI:10.1016/j.mito.2005.10.004
+REFERENCE   PMID:9285483
+  AUTHORS   Leonarduzzi G, Scavazza A, Biasi F, Chiarpotto E, Camandola S, Vogel S, Dargel R, Poli G
+  TITLE     The lipid peroxidation end product 4-hydroxy-2,3-nonenal up-regulates transforming growth factor beta1 expression in the macrophage lineage: a link between oxidative injury and fibrosclerosis.
+  JOURNAL   FASEB J 11:851-7 (1997)
+            DOI:10.1096/fasebj.11.11.9285483
+REFERENCE   PMID:21145844
+  AUTHORS   Malhi H, Kaufman RJ
+  TITLE     Endoplasmic reticulum stress in liver disease.
+  JOURNAL   J Hepatol 54:795-809 (2011)
+            DOI:10.1016/j.jhep.2010.11.005
+REFERENCE   PMID:18242193
+  AUTHORS   Mantena SK, King AL, Andringa KK, Eccleston HB, Bailey SM
+  TITLE     Mitochondrial dysfunction and oxidative stress in the pathogenesis of alcohol- and obesity-induced fatty liver diseases.
+  JOURNAL   Free Radic Biol Med 44:1259-72 (2008)
+            DOI:10.1016/j.freeradbiomed.2007.12.029
+REFERENCE   PMID:18061659
+  AUTHORS   Serviddio G, Sastre J, Bellanti F, Vina J, Vendemiale G, Altomare E
+  TITLE     Mitochondrial involvement in non-alcoholic steatohepatitis.
+  JOURNAL   Mol Aspects Med 29:22-35 (2008)
+            DOI:10.1016/j.mam.2007.09.014
+REFERENCE   PMID:23299992
+  AUTHORS   Begriche K, Massart J, Robin MA, Bonnet F, Fromenty B
+  TITLE     Mitochondrial adaptations and dysfunctions in nonalcoholic fatty liver disease.
+  JOURNAL   Hepatology 58:1497-507 (2013)
+            DOI:10.1002/hep.26226
+REL_PATHWAY hsa00061  Fatty acid biosynthesis
+            hsa00190  Oxidative phosphorylation
+            hsa03320  PPAR signaling pathway
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04668  TNF signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa04930  Type II diabetes mellitus
+KO_PATHWAY  ko04932
+///

@@ -1,0 +1,127 @@
+ENTRY       hsa04962                    Pathway
+NAME        Vasopressin-regulated water reabsorption - Homo sapiens (human)
+DESCRIPTION In the kidney, the antidiuretic hormone vasopressin (AVP) is a critical regulator of water homeostasis by controlling the water movement from lumen to the interstitium for water reabsorption and adjusting the urinary water excretion. In normal physiology, AVP is secreted into the circulation by the posterior pituitary gland, in response to an increase in serum osmolality or a decrease in effective circulating volume. When reaching the kidney, AVP binds to V2 receptors on the basolateral surface of the collecting duct epithelium, triggering a G-protein-linked signaling cascade, which leads to water channel aquaporin-2 (AQP2) vesicle insertion into the apical plasma membrane. This results in higher water permeability in the collecting duct and, driven by an osmotic gradient, pro-urinary water then passes the membrane through AQP2 and leaves the cell on the basolateral side via AQP3 and AQP4 water channels, which are constitutively expressed on the basolateral side of these cells. When isotonicity is restored, reduced blood AVP levels results in AQP2 internalization, leaving the apical membrane watertight again.
+CLASS       Organismal Systems; Excretory system
+PATHWAY_MAP hsa04962  Vasopressin-regulated water reabsorption
+NETWORK     nt06326  AVP signaling
+  ELEMENT   N00915  AVP-V2R-PKA signaling pathway
+DRUG        D00101  Vasopressin (JP18/USP)
+            D00291  Desmopressin (INN)
+            D00366  Lypressin (USAN/INN)
+            D01213  Tolvaptan (JAN/USAN/INN)
+            D01236  Conivaptan hydrochloride (JAN/USAN)
+            D01855  Mozavaptane hydrochloride (JAN)
+            D02235  Desmopressin acetate (USP)
+            D02983  Argipressin tannate (USAN)
+            D04752  Lixivaptan (USAN/INN)
+            D06672  Terlipressin (USAN/INN)
+            D07227  Ornipressin (INN)
+            D07748  Conivaptan (INN)
+            D08571  Terlipressin acetate (JAN)
+            D09820  Vasopressin tannate (JAN)
+            D11659  Tolvaptan sodium phosphate (JAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        551  AVP; arginine vasopressin [KO:K05242]
+            554  AVPR2; arginine vasopressin receptor 2 [KO:K04228]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            397  ARHGDIB; Rho GDP dissociation inhibitor beta [KO:K12462]
+            396  ARHGDIA; Rho GDP dissociation inhibitor alpha [KO:K12462]
+            398  ARHGDIG; Rho GDP dissociation inhibitor gamma [KO:K12462]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            359  AQP2; aquaporin 2 [KO:K09865]
+            8766  RAB11A; RAB11A, member RAS oncogene family [KO:K07904]
+            9230  RAB11B; RAB11B, member RAS oncogene family [KO:K07905]
+            1778  DYNC1H1; dynein cytoplasmic 1 heavy chain 1 [KO:K10413]
+            79659  DYNC2H1; dynein cytoplasmic 2 heavy chain 1 [KO:K10414]
+            1780  DYNC1I1; dynein cytoplasmic 1 intermediate chain 1 [KO:K10415]
+            1781  DYNC1I2; dynein cytoplasmic 1 intermediate chain 2 [KO:K10415]
+            1783  DYNC1LI2; dynein cytoplasmic 1 light intermediate chain 2 [KO:K10416]
+            51143  DYNC1LI1; dynein cytoplasmic 1 light intermediate chain 1 [KO:K10416]
+            51626  DYNC2LI1; dynein cytoplasmic 2 light intermediate chain 1 [KO:K10417]
+            8655  DYNLL1; dynein light chain LC8-type 1 [KO:K10418]
+            140735  DYNLL2; dynein light chain LC8-type 2 [KO:K10418]
+            1639  DCTN1; dynactin subunit 1 [KO:K04648]
+            10540  DCTN2; dynactin subunit 2 [KO:K10424]
+            51164  DCTN4; dynactin subunit 4 [KO:K10426]
+            84516  DCTN5; dynactin subunit 5 [KO:K10427]
+            10671  DCTN6; dynactin subunit 6 [KO:K10428]
+            6844  VAMP2; vesicle associated membrane protein 2 [KO:K13504]
+            4905  NSF; N-ethylmaleimide sensitive factor, vesicle fusing ATPase [KO:K06027] [EC:3.6.4.6]
+            6810  STX4; syntaxin 4 [KO:K13502]
+            5868  RAB5A; RAB5A, member RAS oncogene family [KO:K07887]
+            5869  RAB5B; RAB5B, member RAS oncogene family [KO:K07888]
+            5878  RAB5C; RAB5C, member RAS oncogene family [KO:K07889]
+            361  AQP4; aquaporin 4 [KO:K09866]
+            360  AQP3; aquaporin 3 (Gill blood group) [KO:K09876]
+COMPOUND    C00001  H2O
+            C00575  3',5'-Cyclic AMP
+REFERENCE   PMID:18431594
+  AUTHORS   Boone M, Deen PM
+  TITLE     Physiology and pathophysiology of the vasopressin-regulated renal water reabsorption.
+  JOURNAL   Pflugers Arch 456:1005-24 (2008)
+            DOI:10.1007/s00424-008-0498-1
+REFERENCE   PMID:18566824
+  AUTHORS   Takata K, Matsuzaki T, Tajika Y, Ablimit A, Hasegawa T
+  TITLE     Localization and trafficking of aquaporin 2 in the kidney.
+  JOURNAL   Histochem Cell Biol 130:197-209 (2008)
+            DOI:10.1007/s00418-008-0457-0
+REFERENCE   PMID:10073616
+  AUTHORS   Nielsen S, Kwon TH, Christensen BM, Promeneur D, Frokiaer J, Marples D
+  TITLE     Physiology and pathophysiology of renal aquaporins.
+  JOURNAL   J Am Soc Nephrol 10:647-63 (1999)
+REFERENCE   PMID:10070156
+  AUTHORS   Marples D, Frokiaer J, Nielsen S
+  TITLE     Long-term regulation of aquaporins in the kidney.
+  JOURNAL   Am J Physiol 276:F331-9 (1999)
+            DOI:10.1152/ajprenal.1999.276.3.F331
+REFERENCE   PMID:10099706
+  AUTHORS   Ward DT, Hammond TG, Harris HW
+  TITLE     Modulation of vasopressin-elicited water transport by trafficking of aquaporin2-containing vesicles.
+  JOURNAL   Annu Rev Physiol 61:683-97 (1999)
+            DOI:10.1146/annurev.physiol.61.1.683
+REFERENCE   PMID:18655910
+  AUTHORS   Fenton RA, Moeller HB
+  TITLE     Recent discoveries in vasopressin-regulated aquaporin-2 trafficking.
+  JOURNAL   Prog Brain Res 170:571-9 (2008)
+            DOI:10.1016/S0079-6123(08)00444-5
+REFERENCE   PMID:11773613
+  AUTHORS   Nielsen S, Frokiaer J, Marples D, Kwon TH, Agre P, Knepper MA
+  TITLE     Aquaporins in the kidney: from molecules to medicine.
+  JOURNAL   Physiol Rev 82:205-44 (2002)
+            DOI:10.1152/physrev.00024.2001
+REFERENCE   PMID:11001488
+  AUTHORS   Deen PM, van Balkom BW, Kamsteeg EJ
+  TITLE     Routing of the aquaporin-2 water channel in health and disease.
+  JOURNAL   Eur J Cell Biol 79:523-30 (2000)
+            DOI:10.1078/0171-9335-00075
+REFERENCE   PMID:15522987
+  AUTHORS   Bonilla-Felix M
+  TITLE     Development of water transport in the collecting duct.
+  JOURNAL   Am J Physiol Renal Physiol 287:F1093-101 (2004)
+            DOI:10.1152/ajprenal.00119.2004
+REFERENCE   PMID:17956998
+  AUTHORS   Uawithya P, Pisitkun T, Ruttenberg BE, Knepper MA
+  TITLE     Transcriptional profiling of native inner medullary collecting duct cells from rat kidney.
+  JOURNAL   Physiol Genomics 32:229-53 (2008)
+            DOI:10.1152/physiolgenomics.00201.2007
+REFERENCE   PMID:14586738
+  AUTHORS   Nguyen MK, Nielsen S, Kurtz I
+  TITLE     Molecular pathogenesis of nephrogenic diabetes insipidus.
+  JOURNAL   Clin Exp Nephrol 7:9-17 (2003)
+            DOI:10.1007/s101570300001
+REL_PATHWAY hsa04144  Endocytosis
+            hsa04530  Tight junction
+KO_PATHWAY  ko04962
+///

@@ -1,0 +1,180 @@
+ENTRY       hsa05217                    Pathway
+NAME        Basal cell carcinoma - Homo sapiens (human)
+DESCRIPTION Cancer of the skin is the most common cancer in Caucasians and basal cell carcinomas (BCC) account for 90% of all skin cancers. The vast majority of BCC cases are sporadic, though there is a rare familial syndrome basal cell nevus syndrome (BCNS, or Gorlin syndrome) that predisposes to development of BCC. In addition, there is strong epidemiological and genetic evidence that demonstrates UV exposure as a risk factor of prime importance. The development of basal cell carcinoma is associated with constitutive activation of sonic hedgehog signaling. The mutations in SMOH, PTCH1, and SHH in BCCs result in continuous activation of target genes. At a cellular level, sonic hedgehog signaling promotes cell proliferation. Mutations in TP53 are also found with high frequency (>50%) in sporadic BCC.
+CLASS       Human Diseases; Cancer: specific types
+PATHWAY_MAP hsa05217  Basal cell carcinoma
+NETWORK     nt06217  HH signaling
+            nt06240  Transcription
+            nt06260  Colorectal cancer
+            nt06261  Gastric cancer
+            nt06262  Pancreatic cancer
+            nt06263  Hepatocellular carcinoma
+            nt06265  Bladder cancer
+            nt06266  Non-small cell lung cancer
+            nt06267  Small cell lung cancer
+            nt06268  Melanoma
+            nt06269  Basal cell carcinoma
+            nt06270  Breast cancer
+            nt06271  Endometrial cancer
+            nt06273  Glioma
+            nt06274  Thyroid cancer
+            nt06276  Chronic myeloid leukemia
+  ELEMENT   N00010  Mutation-inactivated PTCH1 to Hedgehog signaling pathway
+            N00017  Mutation-activated SMO to Hedgehog signaling pathway
+            N00115  Mutation-inactivated TP53 to transcription
+DISEASE     H00039  Basal cell carcinoma
+DRUG        D09992  Vismodegib (USAN/INN)
+            D10119  Sonidegib (USAN/INN)
+            D10729  Sonidegib phosphate (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+            6469  SHH; sonic hedgehog signaling molecule [KO:K11988]
+            5727  PTCH1; patched 1 [KO:K06225]
+            6608  SMO; smoothened, frizzled class receptor [KO:K06226]
+            374654  KIF7; kinesin family member 7 [KO:K18806]
+            51684  SUFU; SUFU negative regulator of hedgehog signaling [KO:K06229]
+            2735  GLI1; GLI family zinc finger 1 [KO:K16797]
+            2736  GLI2; GLI family zinc finger 2 [KO:K16798]
+            2737  GLI3; GLI family zinc finger 3 [KO:K06230]
+            650  BMP2; bone morphogenetic protein 2 [KO:K21283]
+            652  BMP4; bone morphogenetic protein 4 [KO:K04662]
+            64399  HHIP; hedgehog interacting protein [KO:K06231]
+            8643  PTCH2; patched 2 [KO:K11101]
+            7471  WNT1; Wnt family member 1 [KO:K03209]
+            7472  WNT2; Wnt family member 2 [KO:K00182]
+            7482  WNT2B; Wnt family member 2B [KO:K00182]
+            7473  WNT3; Wnt family member 3 [KO:K00312]
+            89780  WNT3A; Wnt family member 3A [KO:K00312]
+            54361  WNT4; Wnt family member 4 [KO:K00408]
+            7474  WNT5A; Wnt family member 5A [KO:K00444]
+            81029  WNT5B; Wnt family member 5B [KO:K00444]
+            7475  WNT6; Wnt family member 6 [KO:K00445]
+            7476  WNT7A; Wnt family member 7A [KO:K00572]
+            7477  WNT7B; Wnt family member 7B [KO:K00572]
+            7478  WNT8A; Wnt family member 8A [KO:K00714]
+            7479  WNT8B; Wnt family member 8B [KO:K00714]
+            7483  WNT9A; Wnt family member 9A [KO:K01064]
+            7484  WNT9B; Wnt family member 9B [KO:K01064]
+            7480  WNT10B; Wnt family member 10B [KO:K01357]
+            80326  WNT10A; Wnt family member 10A [KO:K01357]
+            7481  WNT11; Wnt family member 11 [KO:K01384]
+            51384  WNT16; Wnt family member 16 [KO:K01558]
+            8321  FZD1; frizzled class receptor 1 [KO:K02432]
+            8324  FZD7; frizzled class receptor 7 [KO:K02432]
+            2535  FZD2; frizzled class receptor 2 [KO:K02235]
+            7976  FZD3; frizzled class receptor 3 [KO:K02329]
+            8322  FZD4; frizzled class receptor 4 [KO:K02354]
+            7855  FZD5; frizzled class receptor 5 [KO:K02375]
+            8325  FZD8; frizzled class receptor 8 [KO:K02375]
+            8323  FZD6; frizzled class receptor 6 [KO:K02376]
+            11211  FZD10; frizzled class receptor 10 [KO:K02842]
+            8326  FZD9; frizzled class receptor 9 [KO:K02842]
+            1857  DVL3; dishevelled segment polarity protein 3 [KO:K02353]
+            1856  DVL2; dishevelled segment polarity protein 2 [KO:K02353]
+            1855  DVL1; dishevelled segment polarity protein 1 [KO:K02353]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            8312  AXIN1; axin 1 [KO:K02157]
+            8313  AXIN2; axin 2 [KO:K04385]
+            324  APC; APC regulator of WNT signaling pathway [KO:K02085]
+            10297  APC2; APC regulator of WNT signaling pathway 2 [KO:K02085]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            6932  TCF7; transcription factor 7 [KO:K02620]
+            83439  TCF7L1; transcription factor 7 like 1 [KO:K04490]
+            6934  TCF7L2; transcription factor 7 like 2 [KO:K04491]
+            51176  LEF1; lymphoid enhancer binding factor 1 [KO:K04492]
+COMPOUND    C00187  Cholesterol
+REFERENCE   PMID:15948971
+  AUTHORS   Tilli CM, Van Steensel MA, Krekels GA, Neumann HA, Ramaekers FC.
+  TITLE     Molecular aetiology and pathogenesis of basal cell carcinoma.
+  JOURNAL   Br J Dermatol 152:1108-24 (2005)
+            DOI:10.1111/j.1365-2133.2005.06587.x
+REFERENCE   PMID:12588368
+  AUTHORS   Saldanha G, Fletcher A, Slater DN.
+  TITLE     Basal cell carcinoma: a dermatopathological and molecular biological update.
+  JOURNAL   Br J Dermatol 148:195-202 (2003)
+            DOI:10.1046/j.1365-2133.2003.05151.x
+REFERENCE   PMID:15978322
+  AUTHORS   Daya-Grosjean L, Couve-Privat S.
+  TITLE     Sonic hedgehog signaling in basal cell carcinomas.
+  JOURNAL   Cancer Lett 225:181-92 (2005)
+            DOI:10.1016/j.canlet.2004.10.003
+REFERENCE   PMID:15468170
+  AUTHORS   Tsai KY, Tsao H.
+  TITLE     The genetics of skin cancer.
+  JOURNAL   Am J Med Genet C Semin Med Genet 131C:82-92 (2004)
+            DOI:10.1002/ajmg.c.30037
+REFERENCE   PMID:16881963
+  AUTHORS   Athar M, Tang X, Lee JL, Kopelovich L, Kim AL.
+  TITLE     Hedgehog signalling in skin development and cancer.
+  JOURNAL   Exp Dermatol 15:667-77 (2006)
+            DOI:10.1111/j.1600-0625.2006.00473.x
+REFERENCE   PMID:16306523
+  AUTHORS   Rubin AI, Chen EH, Ratner D.
+  TITLE     Basal-cell carcinoma.
+  JOURNAL   N Engl J Med 353:2262-9 (2005)
+            DOI:10.1056/NEJMra044151
+REFERENCE   PMID:11276000
+  AUTHORS   Saldanha G.
+  TITLE     The Hedgehog signalling pathway and cancer.
+  JOURNAL   J Pathol 193:427-32 (2001)
+            DOI:10.1002/1096-9896(2000)9999:9999<::AID-PATH815>3.0.CO;2-N
+REFERENCE   PMID:15270885
+  AUTHORS   Saldanha G, Ghura V, Potter L, Fletcher A.
+  TITLE     Nuclear beta-catenin in basal cell carcinoma correlates with increased proliferation.
+  JOURNAL   Br J Dermatol 151:157-64 (2004)
+            DOI:10.1111/j.1365-2133.2004.06048.x
+REFERENCE   PMID:14737121
+  AUTHORS   Pasca di Magliano M, Hebrok M.
+  TITLE     Hedgehog signalling in cancer formation and maintenance.
+  JOURNAL   Nat Rev Cancer 3:903-11 (2003)
+            DOI:10.1038/nrc1229
+REFERENCE   PMID:15656799
+  AUTHORS   Reifenberger J, Wolter M, Knobbe CB, Kohler B, Schonicke A, Scharwachter C, Kumar K, Blaschke B, Ruzicka T, Reifenberger G.
+  TITLE     Somatic mutations in the PTCH, SMOH, SUFUH and TP53 genes in sporadic basal cell carcinomas.
+  JOURNAL   Br J Dermatol 152:43-51 (2005)
+            DOI:10.1111/j.1365-2133.2005.06353.x
+REFERENCE   PMID:14556242
+  AUTHORS   Cohen MM Jr.
+  TITLE     The hedgehog signaling network.
+  JOURNAL   Am J Med Genet A 123:5-28 (2003)
+            DOI:10.1002/ajmg.a.20495
+REFERENCE   PMID:11736900
+  AUTHORS   Yamazaki F, Aragane Y, Kawada A, Tezuka T.
+  TITLE     Immunohistochemical detection for nuclear beta-catenin in sporadic basal cell carcinoma.
+  JOURNAL   Br J Dermatol 145:771-7 (2001)
+            DOI:10.1046/j.1365-2133.2001.04468.x
+REFERENCE   PMID:16054233
+  AUTHORS   Erb P, Ji J, Wernli M, Kump E, Glaser A, Buchner SA.
+  TITLE     Role of apoptosis in basal cell and squamous cell carcinoma formation.
+  JOURNAL   Immunol Lett 100:68-72 (2005)
+            DOI:10.1016/j.imlet.2005.06.008
+REFERENCE   PMID:11130178
+  AUTHORS   Toftgard R.
+  TITLE     Hedgehog signalling in cancer.
+  JOURNAL   Cell Mol Life Sci 57:1720-31 (2000)
+            DOI:10.1007/PL00000654
+REFERENCE   PMID:28286127
+  AUTHORS   Wu F, Zhang Y, Sun B, McMahon AP, Wang Y
+  TITLE     Hedgehog Signaling: From Basic Biology to Cancer Therapy.
+  JOURNAL   Cell Chem Biol 24:252-280 (2017)
+            DOI:10.1016/j.chembiol.2017.02.010
+REFERENCE   PMID:25766766
+  AUTHORS   Otsuka A, Levesque MP, Dummer R, Kabashima K
+  TITLE     Hedgehog signaling in basal cell carcinoma.
+  JOURNAL   J Dermatol Sci 78:95-100 (2015)
+            DOI:10.1016/j.jdermsci.2015.02.007
+REL_PATHWAY hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04340  Hedgehog signaling pathway
+            hsa04350  TGF-beta signaling pathway
+KO_PATHWAY  ko05217
+///

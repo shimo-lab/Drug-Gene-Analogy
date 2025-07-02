@@ -1,0 +1,109 @@
+ENTRY       hsa01523                    Pathway
+NAME        Antifolate resistance - Homo sapiens (human)
+DESCRIPTION Since the 1940s, antifolates have played a pivotal role in drug treatment of malignant, microbial, parasitic and chronic inflammatory diseases. The molecular basis of the anti-proliferative activity of antifolates relies on inhibition of key enzymes in folate metabolism, which results in disruption of purine and thymidylate biosynthesis, inhibition of DNA replication and cell death. The anti-inflammatory properties of antifolate have been most strongly related to its ability to block the release of pro-inflammatory cytokines such as tumour necrosis factor (TNF)-alpha or interleukin (IL)-1beta. Cells may develop resistance to an antifolate drug by virtue of impaired drug transport into cells, augmented drug export, impaired activation of antifolates through polyglutamylation, augmented hydrolysis of antifolate polyglutamates, increased expression and mutation of target enzymes, and the augmentation of cellular tetrahydrofolate-cofactor pools in cells.
+CLASS       Human Diseases; Drug resistance: antineoplastic
+PATHWAY_MAP hsa01523  Antifolate resistance
+DRUG        D10954  Mirvetuximab soravtansine (USAN/INN)
+            D11447  Arfolitixorin (USAN/INN)
+            D12183  Farletuzumab ecteribulin (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+REFERENCE   PMID:22921318
+  AUTHORS   Gonen N, Assaraf YG
+  TITLE     Antifolates in cancer therapy: structure, activity and mechanisms of drug resistance.
+  JOURNAL   Drug Resist Updat 15:183-210 (2012)
+            DOI:10.1016/j.drup.2012.07.002
+REFERENCE   PMID:17333344
+  AUTHORS   Assaraf YG
+  TITLE     Molecular basis of antifolate resistance.
+  JOURNAL   Cancer Metastasis Rev 26:153-81 (2007)
+            DOI:10.1007/s10555-007-9049-z
+REFERENCE   PMID:26920997
+  AUTHORS   Municio C, Soler Palacios B, Estrada-Capetillo L, Benguria A, Dopazo A, Garcia-Lorenzo E, Fernandez-Arroyo S, Joven J, Miranda-Carus ME, Gonzalez-Alvaro I, Puig-Kroger A
+  TITLE     Methotrexate selectively targets human proinflammatory macrophages through a thymidylate synthase/p53 axis.
+  JOURNAL   Ann Rheum Dis 75:2157-2165 (2016)
+            DOI:10.1136/annrheumdis-2015-208736
+REFERENCE   PMID:24732946
+  AUTHORS   Wilson PM, Danenberg PV, Johnston PG, Lenz HJ, Ladner RD
+  TITLE     Standing the test of time: targeting thymidylate biosynthesis in cancer therapy.
+  JOURNAL   Nat Rev Clin Oncol 11:282-98 (2014)
+            DOI:10.1038/nrclinonc.2014.51
+REFERENCE   PMID:18297517
+  AUTHORS   Fotoohi AK, Albertioni F
+  TITLE     Mechanisms of antifolate resistance and methotrexate efficacy in leukemia cells.
+  JOURNAL   Leuk Lymphoma 49:410-26 (2008)
+            DOI:10.1080/10428190701824569
+REFERENCE   PMID:17203006
+  AUTHORS   van der Heijden JW, Dijkmans BA, Scheper RJ, Jansen G
+  TITLE     Drug Insight: resistance to methotrexate and other disease-modifying antirheumatic drugs--from bench to bedside.
+  JOURNAL   Nat Clin Pract Rheumatol 3:26-34 (2007)
+            DOI:10.1038/ncprheum0380
+REFERENCE   PMID:17092765
+  AUTHORS   Assaraf YG
+  TITLE     The role of multidrug resistance efflux transporters in antifolate resistance and folate homeostasis.
+  JOURNAL   Drug Resist Updat 9:227-46 (2006)
+            DOI:10.1016/j.drup.2006.09.001
+REFERENCE   
+  AUTHORS   Mauritz R.
+  TITLE     Determinants of antifolate and 5-fluorouracil efficacy
+  JOURNAL   Biochemistry
+REFERENCE   
+  AUTHORS   del-Campo LS, Montenegro MF, Saez-Ayala M, Fernandez-Perez MP, Cabezas-Herrera J, Rodriquez-Lopez JN.
+  TITLE     Cellular and molecular mechanisms of methotrexate resistance in melanoma
+  JOURNAL   Intech
+            DOI:10.5772/52414
+REFERENCE   PMID:16380836
+  AUTHORS   Walling J
+  TITLE     From methotrexate to pemetrexed and beyond. A review of the pharmacodynamic and clinical properties of antifolates.
+  JOURNAL   Invest New Drugs 24:37-77 (2006)
+            DOI:10.1007/s10637-005-4541-1
+REFERENCE   PMID:22954694
+  AUTHORS   Desmoulin SK, Hou Z, Gangjee A, Matherly LH
+  TITLE     The human proton-coupled folate transporter: Biology and therapeutic applications to cancer.
+  JOURNAL   Cancer Biol Ther 13:1355-73 (2012)
+            DOI:10.4161/cbt.22020
+REFERENCE   PMID:16491071
+  AUTHORS   Cheok MH, Evans WE
+  TITLE     Acute lymphoblastic leukaemia: a model for the pharmacogenomics of cancer therapy.
+  JOURNAL   Nat Rev Cancer 6:117-29 (2006)
+            DOI:10.1038/nrc1800
+REFERENCE   PMID:23987246
+  AUTHORS   van der Heijden JW, Assaraf YG, Gerards AH, Oerlemans R, Lems WF, Scheper RJ, Dijkmans BA, Jansen G
+  TITLE     Methotrexate analogues display enhanced inhibition of TNF-alpha production in whole blood from RA patients.
+  JOURNAL   Scand J Rheumatol 43:9-16 (2014)
+            DOI:10.3109/03009742.2013.797490
+REFERENCE   PMID:8793930
+  AUTHORS   Gorlick R, Goker E, Trippett T, Waltham M, Banerjee D, Bertino JR
+  TITLE     Intrinsic and acquired resistance to methotrexate in acute leukemia.
+  JOURNAL   N Engl J Med 335:1041-8 (1996)
+            DOI:10.1056/NEJM199610033351408
+REFERENCE   PMID:15117425
+  AUTHORS   Adjei AA
+  TITLE     Pharmacology and mechanism of action of pemetrexed.
+  JOURNAL   Clin Lung Cancer 5 Suppl 2:S51-5 (2004)
+            DOI:10.3816/CLC.2004.s.003
+REFERENCE   PMID:14576850
+  AUTHORS   Zhao R, Goldman ID
+  TITLE     Resistance to antifolates.
+  JOURNAL   Oncogene 22:7431-57 (2003)
+            DOI:10.1038/sj.onc.1206946
+REFERENCE   PMID:21317831
+  AUTHORS   Mikkelsen TS, Thorn CF, Yang JJ, Ulrich CM, French D, Zaza G, Dunnenberger HM, Marsh S, McLeod HL, Giacomini K, Becker ML, Gaedigk R, Leeder JS, Kager L, Relling MV, Evans W, Klein TE, Altman RB
+  TITLE     PharmGKB summary: methotrexate pathway.
+  JOURNAL   Pharmacogenet Genomics 21:679-86 (2011)
+            DOI:10.1097/FPC.0b013e328343dd93
+REFERENCE   PMID:23897011
+  AUTHORS   Blits M, Jansen G, Assaraf YG, van de Wiel MA, Lems WF, Nurmohamed MT, van Schaardenburg D, Voskuyl AE, Wolbink GJ, Vosslamber S, Verweij CL
+  TITLE     Methotrexate normalizes up-regulated folate pathway genes in rheumatoid arthritis.
+  JOURNAL   Arthritis Rheum 65:2791-802 (2013)
+            DOI:10.1002/art.38094
+REFERENCE   PMID:11509639
+  AUTHORS   Majumdar S, Aggarwal BB
+  TITLE     Methotrexate suppresses NF-kappaB activation through inhibition of IkappaBalpha phosphorylation and degradation.
+  JOURNAL   J Immunol 167:2911-20 (2001)
+            DOI:10.4049/jimmunol.167.5.2911
+REL_PATHWAY hsa00230  Purine metabolism
+            hsa00670  One carbon pool by folate
+            hsa04064  NF-kappa B signaling pathway
+            hsa04144  Endocytosis
+KO_PATHWAY  ko01523
+///

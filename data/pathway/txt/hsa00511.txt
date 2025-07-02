@@ -1,0 +1,28 @@
+ENTRY       hsa00511                    Pathway
+NAME        Other glycan degradation - Homo sapiens (human)
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00511  Other glycan degradation
+DRUG        D11024  Velmanase alfa (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        4758  NEU1; neuraminidase 1 [KO:K01186] [EC:3.2.1.18]
+            10825  NEU3; neuraminidase 3 [KO:K12357] [EC:3.2.1.18]
+            129807  NEU4; neuraminidase 4 [KO:K12357] [EC:3.2.1.18]
+            4759  NEU2; neuraminidase 2 [KO:K12357] [EC:3.2.1.18]
+            2720  GLB1; galactosidase beta 1 [KO:K12309] [EC:3.2.1.23]
+            3073  HEXA; hexosaminidase subunit alpha [KO:K12373] [EC:3.2.1.52]
+            3074  HEXB; hexosaminidase subunit beta [KO:K12373] [EC:3.2.1.52]
+            284004  HEXD; hexosaminidase D [KO:K14459] [EC:3.2.1.52]
+            4123  MAN2C1; mannosidase alpha class 2C member 1 [KO:K01191] [EC:3.2.1.24]
+            4125  MAN2B1; mannosidase alpha class 2B member 1 [KO:K12311] [EC:3.2.1.24]
+            23324  MAN2B2; mannosidase alpha class 2B member 2 [KO:K12312] [EC:3.2.1.24]
+            4126  MANBA; mannosidase beta [KO:K01192] [EC:3.2.1.25]
+            64772  ENGASE; endo-beta-N-acetylglucosaminidase [KO:K01227] [EC:3.2.1.96]
+            2517  FUCA1; alpha-L-fucosidase 1 [KO:K01206] [EC:3.2.1.51]
+            2519  FUCA2; alpha-L-fucosidase 2 [KO:K01206] [EC:3.2.1.51]
+            175  AGA; aspartylglucosaminidase [KO:K01444] [EC:3.5.1.26]
+            2629  GBA1; glucosylceramidase beta 1 [KO:K01201] [EC:3.2.1.45]
+            57704  GBA2; glucosylceramidase beta 2 [KO:K17108] [EC:3.2.1.45]
+REL_PATHWAY hsa00510  N-Glycan biosynthesis
+            hsa00604  Glycosphingolipid biosynthesis - ganglio series
+KO_PATHWAY  ko00511
+///

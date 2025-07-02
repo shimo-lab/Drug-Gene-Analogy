@@ -1,0 +1,111 @@
+ENTRY       hsa00100                    Pathway
+NAME        Steroid biosynthesis - Homo sapiens (human)
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP hsa00100  Steroid biosynthesis
+MODULE      hsa_M00101  Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol [PATH:hsa00100]
+            hsa_M00103  Cholecalciferol biosynthesis [PATH:hsa00100]
+DRUG        D01202  Melinamide (JAN)
+            D03012  Avasimibe (USAN/INN)
+            D03025  Azalanstat dihydrochloride (USAN)
+            D03447  Cetaben sodium (USAN)
+            D03734  Eldacimibe (USAN/INN)
+            D03735  Lecimibide (USAN)
+            D06609  Lapaquistat acetate (JAN/USAN)
+DBLINKS     GO: 0016126
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2222  FDFT1; farnesyl-diphosphate farnesyltransferase 1 [KO:K00801] [EC:2.5.1.21]
+            6713  SQLE; squalene epoxidase [KO:K00511] [EC:1.14.14.17]
+            4047  LSS; lanosterol synthase [KO:K01852] [EC:5.4.99.7]
+            1595  CYP51A1; cytochrome P450 family 51 subfamily A member 1 [KO:K05917] [EC:1.14.14.154 1.14.15.36]
+            7108  TM7SF2; transmembrane 7 superfamily member 2 [KO:K00222] [EC:1.3.1.70]
+            3930  LBR; lamin B receptor [KO:K19532] [EC:1.3.1.70]
+            6307  MSMO1; methylsterol monooxygenase 1 [KO:K07750] [EC:1.14.18.9]
+            50814  NSDHL; NAD(P) dependent steroid dehydrogenase-like [KO:K07748] [EC:1.1.1.170]
+            51478  HSD17B7; hydroxysteroid 17-beta dehydrogenase 7 [KO:K13373] [EC:1.1.1.62 1.1.1.270]
+            10682  EBP; EBP cholestenol delta-isomerase [KO:K01824] [EC:5.3.3.5]
+            1718  DHCR24; 24-dehydrocholesterol reductase [KO:K09828] [EC:1.3.1.72 1.3.1.-]
+            6309  SC5D; sterol-C5-desaturase [KO:K00227] [EC:1.14.19.20]
+            1717  DHCR7; 7-dehydrocholesterol reductase [KO:K00213] [EC:1.3.1.21]
+            3988  LIPA; lipase A, lysosomal acid type [KO:K01052] [EC:3.1.1.13]
+            1056  CEL; carboxyl ester lipase [KO:K12298] [EC:3.1.1.13 3.1.1.3]
+            8435  SOAT2; sterol O-acyltransferase 2 [KO:K00637] [EC:2.3.1.26]
+            6646  SOAT1; sterol O-acyltransferase 1 [KO:K00637] [EC:2.3.1.26]
+            120227  CYP2R1; cytochrome P450 family 2 subfamily R member 1 [KO:K07419] [EC:1.14.14.24]
+            1594  CYP27B1; cytochrome P450 family 27 subfamily B member 1 [KO:K07438] [EC:1.14.15.18]
+            1591  CYP24A1; cytochrome P450 family 24 subfamily A member 1 [KO:K07436] [EC:1.14.15.16]
+COMPOUND    C00187  Cholesterol
+            C00448  trans,trans-Farnesyl diphosphate
+            C00751  Squalene
+            C01054  (S)-2,3-Epoxysqualene
+            C01164  7-Dehydrocholesterol
+            C01189  Lathosterol
+            C01561  Calcidiol
+            C01673  Calcitriol
+            C01694  Ergosterol
+            C01724  Lanosterol
+            C01753  beta-Sitosterol
+            C01789  Campesterol
+            C01802  Desmosterol
+            C01902  Cycloartenol
+            C01943  Obtusifoliol
+            C02141  Cycloeucalenol
+            C02530  Cholesterol ester
+            C03428  Presqualene diphosphate
+            C03845  5alpha-Cholest-8-en-3beta-ol
+            C04525  Fecosterol
+            C05103  4alpha-Methylzymosterol
+            C05107  7-Dehydrodesmosterol
+            C05108  14-Demethyllanosterol
+            C05109  24,25-Dihydrolanosterol
+            C05437  Zymosterol
+            C05439  5alpha-Cholesta-7,24-dien-3beta-ol
+            C05440  Ergosta-5,7,22,24(28)-tetraen-3beta-ol
+            C05441  Vitamin D2
+            C05442  Stigmasterol
+            C05443  Vitamin D3
+            C07712  Secalciferol
+            C08813  Brassicasterol
+            C08821  Isofucosterol
+            C08830  24-Methylidenecycloartanol
+            C11455  4,4-Dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol
+            C11508  4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol
+            C11522  24-Methylenelophenol
+            C11523  24-Ethylidenelophenol
+            C15776  4alpha-Methylfecosterol
+            C15777  Episterol
+            C15780  5-Dehydroepisterol
+            C15781  24-Methylenecholesterol
+            C15782  Delta7-Avenasterol
+            C15783  5-Dehydroavenasterol
+            C15808  4alpha-Methylzymosterol-4-carboxylate
+            C15816  3-Keto-4-methylzymosterol
+            C15915  4,4-Dimethyl-5alpha-cholesta-8-en-3beta-ol
+            C18231  Calcitetrol
+            C21106  24-epi-Campesterol
+            C22112  4alpha-Carboxy-5alpha-cholesta-8,24-dien-3beta-ol
+            C22116  3beta-Hydroxy-4beta,14alpha-dimethyl-9beta,19-cyclo-5alpha-ergost-24(24(1))-en-4alpha-carboxylate
+            C22119  3beta-Hydroxyergosta-7,24(24(1))-dien-4alpha-carboxylate
+            C22120  4alpha-Carboxy-stigmasta-7,24(24(1))-dien-3beta-ol
+            C22121  Cycloeucalenone
+            C22122  Episterone
+            C22123  Avenastenone
+            C22136  Zymosterone
+REFERENCE   
+  AUTHORS   Koshiba K, Kamiya Y.
+  TITLE     [Atarasii Syokubutuhorumon no Kagaku] (In Japanese)
+  JOURNAL   Koudansya saientific:199-138 (2002)
+REFERENCE   PMID:16531502
+  AUTHORS   Morikawa T, Mizutani M, Aoki N, Watanabe B, Saga H, Saito S, Oikawa A, Suzuki H, Sakurai N, Shibata D, Wadano A, Sakata K, Ohta D.
+  TITLE     Cytochrome P450 CYP710A encodes the sterol C-22 desaturase in Arabidopsis and tomato.
+  JOURNAL   Plant Cell 18:1008-22 (2006)
+            DOI:10.1105/tpc.105.036012
+REFERENCE   PMID:12777052
+  AUTHORS   Lange BM, Ghassemian M.
+  TITLE     Genome organization in Arabidopsis thaliana: a survey for genes involved in isoprenoid and chlorophyll metabolism.
+  JOURNAL   Plant Mol Biol 51:925-48 (2003)
+            DOI:10.1023/A:1023005504702
+REL_PATHWAY hsa00120  Primary bile acid biosynthesis
+            hsa00140  Steroid hormone biosynthesis
+            hsa00900  Terpenoid backbone biosynthesis
+KO_PATHWAY  ko00100
+///

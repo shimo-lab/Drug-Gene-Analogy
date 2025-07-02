@@ -1,0 +1,136 @@
+ENTRY       hsa03015                    Pathway
+NAME        mRNA surveillance pathway - Homo sapiens (human)
+DESCRIPTION The mRNA surveillance pathway is a quality control mechanism that detects and degrades abnormal mRNAs. These pathways include nonsense-mediated mRNA decay (NMD), nonstop mRNA decay (NSD), and no-go decay (NGD). NMD is a mechanism that eliminates mRNAs containing premature translation-termination codons (PTCs). In vertebrates, PTCs trigger efficient NMD when located upstream of an exon junction complex (EJC). Upf3, together with Upf1 and Upf2, may signal the presence of the PTC to the 5'end of the transcript, resulting in decapping and rapid exonucleolytic digestion of the mRNA. In the NSD pathway, which targets mRNAs lacking termination codons, the ribosome is believed to translate through the 3' untranslated region and stall at the end of the poly(A) tail. NSD involves an eRF3-like protein, Ski7p, which is hypothesized to bind the empty A site of the ribosome and recruit the exosome to degrade the mRNA from the 3' end. NGD targets mRNAs with stalls in translation elongation for endonucleolytic cleavage in a process involving the Dom34 and Hbs1 proteins.
+CLASS       Genetic Information Processing; Translation
+PATHWAY_MAP hsa03015  mRNA surveillance pathway
+DRUG        D11837  Zotatifin (USAN/INN)
+            D12345  Obefazimod (USAN)
+DBLINKS     GO: 0071028
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        4686  NCBP1; nuclear cap binding protein subunit 1 [KO:K12882]
+            22916  NCBP2; nuclear cap binding protein subunit 2 [KO:K12883]
+            392517  NCBP2L; nuclear cap binding protein subunit 2 like [KO:K12883]
+            65109  UPF3B; UPF3B regulator of nonsense mediated mRNA decay [KO:K14328]
+            65110  UPF3A; UPF3A regulator of nonsense mediated mRNA decay [KO:K14328]
+            9939  RBM8A; RNA binding motif protein 8A [KO:K12876]
+            4116  MAGOH; mago homolog, exon junction complex subunit [KO:K12877]
+            55110  MAGOHB; mago homolog B, exon junction complex subunit [KO:K12877]
+            22794  CASC3; CASC3 exon junction complex subunit [KO:K14323]
+            9775  EIF4A3; eukaryotic translation initiation factor 4A3 [KO:K13025] [EC:3.6.4.13]
+            10284  SAP18; Sin3A associated protein 18 [KO:K14324]
+            5411  PNN; pinin, desmosome associated protein [KO:K13114]
+            22985  ACIN1; apoptotic chromatin condensation inducer 1 [KO:K12875]
+            10921  RNPS1; RNA binding protein with serine rich domain 1 [KO:K14325]
+            10189  ALYREF; Aly/REF export factor [KO:K12881]
+            11269  DDX19B; DEAD-box helicase 19B [KO:K18655] [EC:3.6.4.13]
+            55308  DDX19A; DEAD-box helicase 19A [KO:K18655] [EC:3.6.4.13]
+            2733  GLE1; GLE1 RNA export mediator [KO:K18723]
+            10482  NXF1; nuclear RNA export factor 1 [KO:K14284]
+            56001  NXF2; nuclear RNA export factor 2 [KO:K14284]
+            728343  NXF2B; nuclear RNA export factor 2B [KO:K14284]
+            56000  NXF3; nuclear RNA export factor 3 [KO:K14284]
+            29107  NXT1; nuclear transport factor 2 like export factor 1 [KO:K14285]
+            55916  NXT2; nuclear transport factor 2 like export factor 2 [KO:K14285]
+            7919  DDX39B; DExD-box helicase 39B [KO:K12812] [EC:3.6.4.13]
+            84305  PYM1; PYM homolog 1, exon junction complex associated factor [KO:K14294]
+            10250  SRRM1; serine and arginine repetitive matrix 1 [KO:K13171]
+            8732  RNGTT; RNA guanylyltransferase and 5'-phosphatase [KO:K13917] [EC:2.7.7.50 3.6.1.74]
+            8731  RNMT; RNA guanine-7 methyltransferase [KO:K00565] [EC:2.1.1.56]
+            2521  FUS; FUS RNA binding protein [KO:K13098]
+            23435  TARDBP; TAR DNA binding protein [KO:K23600]
+            8106  PABPN1; poly(A) binding protein nuclear 1 [KO:K14396]
+            390748  PABPN1L; PABPN1 like, cytoplasmic [KO:K14396]
+            100529063  BCL2L2-PABPN1; BCL2L2-PABPN1 readthrough [KO:K14396]
+            11051  NUDT21; nudix hydrolase 21 [KO:K14397]
+            11052  CPSF6; cleavage and polyadenylation specific factor 6 [KO:K14398]
+            79869  CPSF7; cleavage and polyadenylation specific factor 7 [KO:K14398]
+            64895  PAPOLG; poly(A) polymerase gamma [KO:K14376] [EC:2.7.7.19]
+            56903  PAPOLB; poly(A) polymerase beta [KO:K14376] [EC:2.7.7.19]
+            10914  PAPOLA; poly(A) polymerase alpha [KO:K14376] [EC:2.7.7.19]
+            10978  CLP1; cleavage factor polyribonucleotide kinase subunit 1 [KO:K14399] [EC:2.7.1.78]
+            51585  PCF11; PCF11 cleavage and polyadenylation factor subunit [KO:K14400]
+            29894  CPSF1; cleavage and polyadenylation specific factor 1 [KO:K14401]
+            53981  CPSF2; cleavage and polyadenylation specific factor 2 [KO:K14402]
+            51692  CPSF3; cleavage and polyadenylation specific factor 3 [KO:K14403] [EC:3.1.27.-]
+            10898  CPSF4; cleavage and polyadenylation specific factor 4 [KO:K14404]
+            642843  CPSF4L; cleavage and polyadenylation specific factor 4 like [KO:K14404]
+            81608  FIP1L1; factor interacting with PAPOLA and CPSF1 [KO:K14405]
+            55339  WDR33; WD repeat domain 33 [KO:K15542]
+            80335  WDR82; WD repeat domain 82 [KO:K14962]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            29101  SSU72; SSU72 homolog, RNA polymerase II CTD phosphatase [KO:K15544] [EC:3.1.3.16]
+            1477  CSTF1; cleavage stimulation factor subunit 1 [KO:K14406]
+            1478  CSTF2; cleavage stimulation factor subunit 2 [KO:K14407]
+            23283  CSTF2T; cleavage stimulation factor subunit 2 tau variant [KO:K14407]
+            1479  CSTF3; cleavage stimulation factor subunit 3 [KO:K14408]
+            8189  SYMPK; symplekin scaffold protein [KO:K06100]
+            26528  DAZAP1; DAZ associated protein 1 [KO:K14411]
+            4440  MSI1; musashi RNA binding protein 1 [KO:K14411]
+            124540  MSI2; musashi RNA binding protein 2 [KO:K14411]
+            26986  PABPC1; poly(A) binding protein cytoplasmic 1 [KO:K13126]
+            140886  PABPC5; poly(A) binding protein cytoplasmic 5 [KO:K13126]
+            5042  PABPC3; poly(A) binding protein cytoplasmic 3 [KO:K13126]
+            645974  PABPC1L2B; poly(A) binding protein cytoplasmic 1 like 2B [KO:K13126]
+            80336  PABPC1L; poly(A) binding protein cytoplasmic 1 like [KO:K13126]
+            340529  PABPC1L2A; poly(A) binding protein cytoplasmic 1 like 2A [KO:K13126]
+            8761  PABPC4; poly(A) binding protein cytoplasmic 4 [KO:K13126]
+            132430  PABPC4L; poly(A) binding protein cytoplasmic 4 like [KO:K13126]
+            2107  ETF1; eukaryotic translation termination factor 1 [KO:K03265]
+            23708  GSPT2; G1 to S phase transition 2 [KO:K03267]
+            2935  GSPT1; G1 to S phase transition 1 [KO:K03267]
+            5976  UPF1; UPF1 RNA helicase and ATPase [KO:K14326] [EC:3.6.4.13 5.6.2.3]
+            26019  UPF2; UPF2 regulator of nonsense mediated mRNA decay [KO:K14327]
+            23049  SMG1; SMG1 nonsense mediated mRNA decay associated PI3K related kinase [KO:K08873] [EC:2.7.11.1]
+            9887  SMG7; SMG7 nonsense mediated mRNA decay factor [KO:K14409]
+            23381  SMG5; SMG5 nonsense mediated mRNA decay factor [KO:K11125]
+            23293  SMG6; SMG6 nonsense mediated mRNA decay factor [KO:K11124] [EC:3.1.-.-]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            5519  PPP2R1B; protein phosphatase 2 scaffold subunit Abeta [KO:K03456]
+            5518  PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha [KO:K03456]
+            5520  PPP2R2A; protein phosphatase 2 regulatory subunit Balpha [KO:K04354]
+            5521  PPP2R2B; protein phosphatase 2 regulatory subunit Bbeta [KO:K04354]
+            5522  PPP2R2C; protein phosphatase 2 regulatory subunit Bgamma [KO:K04354]
+            55844  PPP2R2D; protein phosphatase 2 regulatory subunit Bdelta [KO:K04354]
+            28227  PPP2R3B; protein phosphatase 2 regulatory subunit B''beta [KO:K11583]
+            55012  PPP2R3C; protein phosphatase 2 regulatory subunit B''gamma [KO:K11583]
+            5523  PPP2R3A; protein phosphatase 2 regulatory subunit B''alpha [KO:K11583]
+            5526  PPP2R5B; protein phosphatase 2 regulatory subunit B'beta [KO:K11584]
+            5527  PPP2R5C; protein phosphatase 2 regulatory subunit B'gamma [KO:K11584]
+            5528  PPP2R5D; protein phosphatase 2 regulatory subunit B'delta [KO:K11584]
+            5529  PPP2R5E; protein phosphatase 2 regulatory subunit B'epsilon [KO:K11584]
+            5525  PPP2R5A; protein phosphatase 2 regulatory subunit B'alpha [KO:K11584]
+            10767  HBS1L; HBS1 like translational GTPase [KO:K14416]
+            53918  PELO; pelota mRNA surveillance and ribosome rescue factor [KO:K06965]
+REFERENCE   PMID:15040442
+  AUTHORS   Maquat LE
+  TITLE     Nonsense-mediated mRNA decay: splicing, translation and mRNP dynamics.
+  JOURNAL   Nat Rev Mol Cell Biol 5:89-99 (2004)
+            DOI:10.1038/nrm1310
+REFERENCE   PMID:16723977
+  AUTHORS   Amrani N, Sachs MS, Jacobson A
+  TITLE     Early nonsense: mRNA decay solves a translational problem.
+  JOURNAL   Nat Rev Mol Cell Biol 7:415-25 (2006)
+            DOI:10.1038/nrm1942
+REFERENCE   PMID:17183357
+  AUTHORS   Eulalio A, Behm-Ansmant I, Izaurralde E
+  TITLE     P bodies: at the crossroads of post-transcriptional pathways.
+  JOURNAL   Nat Rev Mol Cell Biol 8:9-22 (2007)
+            DOI:10.1038/nrm2080
+REFERENCE   PMID:18158581
+  AUTHORS   Mandel CR, Bai Y, Tong L
+  TITLE     Protein factors in pre-mRNA 3'-end processing.
+  JOURNAL   Cell Mol Life Sci 65:1099-122 (2008)
+            DOI:10.1007/s00018-007-7474-3
+REFERENCE   PMID:16715045
+  AUTHORS   Clement SL, Lykke-Andersen J
+  TITLE     No mercy for messages that mess with the ribosome.
+  JOURNAL   Nat Struct Mol Biol 13:299-301 (2006)
+            DOI:10.1038/nsmb0406-299
+REL_PATHWAY hsa03013  Nucleocytoplasmic transport
+            hsa03018  RNA degradation
+            hsa03040  Spliceosome
+KO_PATHWAY  ko03015
+///

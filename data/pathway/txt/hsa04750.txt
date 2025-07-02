@@ -1,0 +1,343 @@
+ENTRY       hsa04750                    Pathway
+NAME        Inflammatory mediator regulation of TRP channels - Homo sapiens (human)
+DESCRIPTION The TRP channels that exhibit a unique response to temperature have been given the name thermo-TRPs. Among all thermo- TRP channels, TRPV1-4, TRPM8, and TRPA1 are expressed in subsets of nociceptive dorsal root ganglion (DRG) neuron cell bodies including their peripheral and central projections. These channels can be modulated indirectly by inflammatory mediators such as PGE2, bradykinin, ATP, NGF, and proinflammatory cytokines that are generated during tissue injury. While the noxious heat receptor TRPV1 is sensitized (that is, their excitability can be increased) by post-translational modifications upon activation of G-protein coupled receptors (GPCRs) or tyrosine kinase receptors, the receptors for inflammatory mediators, the same action appears to mainly desensitize TRPM8, the main somatic innocuous cold sensor. This aforementioned sensitization could allow the receptor to become active at body temperature, so it not only contributes toward thermal hypersensitivity but also is possibly a substrate for ongoing persistent pain.
+CLASS       Organismal Systems; Sensory system
+PATHWAY_MAP hsa04750  Inflammatory mediator regulation of TRP channels
+DRUG        D00234  Astemizole (JAN/USP/INN)
+            D00364  Loratadine (JAN/USP/INN)
+            D00419  Misoprostol (JAN/USP/INN)
+            D00480  Promethazine hydrochloride (JP18/USP)
+            D00494  Promethazine (JAN/INN)
+            D00521  Terfenadine (JAN/USAN/INN)
+            D00662  Azatadine maleate (USP)
+            D00663  Brompheniramine maleate (USP)
+            D00664  Cetirizine hydrochloride (JP18/USP)
+            D00665  Chlorpheniramine maleate (JP18/USP)
+            D00668  Dexchlorpheniramine maleate (USP)
+            D00671  Fexofenadine hydrochloride (JP18/USP)
+            D00814  Doxepin hydrochloride (USP)
+            D01117  Mizolastine (JAN/INN)
+            D01172  Diphenylpyraline hydrochloride (JAN)
+            D01242  Promethazine teoclate (JAN/INN)
+            D01317  Meclizine hydrochloride (JAN/USP)
+            D01332  Ketotifen fumarate (JP18/USAN)
+            D01336  Carbinoxamine maleate (JAN/USP)
+            D01460  Homochlorcyclizine hydrochloride (JP18)
+            D01478  Ebastine (JP18/USAN/INN)
+            D01627  Diphenylpyraline teoclate (JAN)
+            D01701  Difeterol hydrochloride (JAN)
+            D01713  Epinastine hydrochloride (JAN)
+            D01782  Triprolidine hydrochloride (USP)
+            D01786  Mebhydrolin napadisilate (JAN)
+            D01891  Enprostil (JAN/USAN/INN)
+            D02067  Diphenylimidazole (JAN)
+            D02089  Buclizine hydrochloride (USAN)
+            D02090  Cyclizine lactate (BAN)
+            D02148  Phenindamine tartrate (USAN)
+            D02234  Cyproheptadine hydrochloride (JP18/USP)
+            D02245  Trimeprazine tartrate (USP)
+            D02249  Emedastine difumarate (JP18/USP)
+            D02327  Doxylamine succinate (USP)
+            D02760  Acrivastine (USAN/INN)
+            D02934  Anakinra (USAN/INN)
+            D02975  Arbaprostil (USAN/INN)
+            D03056  Barmastine (USAN/INN)
+            D03166  Bromodiphenhydramine hydrochloride (USP)
+            D03290  Promethazine methylenedisalicylate (JAN)
+            D03475  Chlorpheniramine polistirex (USAN)
+            D03491  Cidoxepin hydrochloride (USAN)
+            D03568  Closiramine aceturate (USAN)
+            D03620  Cycliramine maleate (USAN)
+            D03621  Cyclizine (INN)
+            D03622  Cyclizine hydrochloride (USP)
+            D03677  Deltibant (USAN/INN)
+            D03693  Desloratadine (JAN/USP/INN)
+            D03704  Dexbrompheniramine maleate (USP)
+            D03893  Dorastine hydrochloride (USAN)
+            D03963  Efletirizine dihydrochloride (USAN)
+            D04492  Icatibant acetate (JAN/USAN)
+            D04494  Icotidine (USAN)
+            D04979  Methdilazine (INN)
+            D04980  Methdilazine hydrochloride (USP)
+            D05196  Noberastine (USAN/INN)
+            D05664  Pyroxamine maleate (USAN)
+            D05742  Rocastine hydrochloride (USAN)
+            D05769  Rotoxamine (USAN/INN)
+            D06012  Tazifylline hydrochloride (USAN)
+            D06021  Tecastemizole (USAN/INN)
+            D06063  Temelastine (USAN/INN)
+            D06084  Tesmilifene hydrochloride (USAN)
+            D06240  Trimoprostil (USAN/INN)
+            D06376  Zolamine hydrochloride (USAN)
+            D06552  Alcaftadine (JAN/USAN/INN)
+            D07125  Alimemazine (INN)
+            D07194  Thenalidine (INN)
+            D07398  Chlorphenamine (INN)
+            D07400  Histapyrrodine (INN)
+            D07401  Oxomemazine (INN)
+            D07402  Levocetirizine (USAN/INN)
+            D07403  Pyrrobutamine (BAN)
+            D07404  Deptropine (INN)
+            D07406  Pimethixene (INN)
+            D07407  Rupatadine (INN)
+            D07482  Azatadine (INN)
+            D07532  Bisulepin
+            D07533  Bisulepin hydrochloride
+            D07543  Brompheniramine (INN)
+            D07547  Buclizine (INN)
+            D07617  Carbinoxamine (INN)
+            D07662  Cetirizine (INN)
+            D07765  Cyproheptadine (INN)
+            D07790  Deptropine citrate
+            D07803  Dexchlorpheniramine (INN)
+            D07860  Dioxopromethazine hydrochloride
+            D07862  Diphenylpyraline (INN)
+            D07875  Doxepin (INN)
+            D07878  Doxylamine (INN)
+            D07889  Embramine (INN)
+            D07890  Emedastine (INN)
+            D07900  Epinastine (INN)
+            D07958  Fexofenadine (INN)
+            D08041  Homochlorcyclizine (INN)
+            D08105  Ketotifen (INN)
+            D08118  Levocetirizine dihydrochloride (USP)
+            D08161  Mebhydrolin (INN)
+            D08163  Meclozine (BAN)
+            D08353  Phenindamine (INN)
+            D08432  Promethazine maleate
+            D08497  Rupatadine fumarate (JAN)
+            D08648  Triprolidine (INN)
+            D08768  Promethazine hibenzate
+            D08967  Phenyltoloxamine citrate (USP)
+            D09570  Bilastine (JAN/INN)
+            D09671  Sotrastaurin (USAN/INN)
+            D09718  Sotrastaurin acetate (USAN)
+            D09747  Difeterol phosphate (JAN)
+            D09748  Difeterol (JAN/INN)
+            D09808  Carbinoxamine diphenyldisulfonate (JAN)
+            D09838  Broizine (JAN)
+            D10230  Quifenadine (INN)
+            D10510  Sequifenadine
+            D10959  Neflamapimod (USAN)
+            D11484  Pegcantratinib (USAN/INN)
+            D11759  Isunakinra (USAN/INN)
+DBLINKS     GO: 0019233
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3827  KNG1; kininogen 1 [KO:K03898]
+            623  BDKRB1; bradykinin receptor B1 [KO:K03915]
+            624  BDKRB2; bradykinin receptor B2 [KO:K03916]
+            3356  HTR2A; 5-hydroxytryptamine receptor 2A [KO:K04157]
+            3357  HTR2B; 5-hydroxytryptamine receptor 2B [KO:K04157]
+            3358  HTR2C; 5-hydroxytryptamine receptor 2C [KO:K04157]
+            3269  HRH1; histamine receptor H1 [KO:K04149]
+            5029  P2RY2; purinergic receptor P2Y2 [KO:K04269]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            8398  PLA2G6; phospholipase A2 group VI [KO:K16343] [EC:3.1.1.4]
+            239  ALOX12; arachidonate 12-lipoxygenase, 12S type [KO:K00458] [EC:1.13.11.31]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            5581  PRKCE; protein kinase C epsilon [KO:K18050] [EC:2.7.11.13]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            8989  TRPA1; transient receptor potential cation channel subfamily A member 1 [KO:K04984]
+            7442  TRPV1; transient receptor potential cation channel subfamily V member 1 [KO:K05222]
+            41  ASIC1; acid sensing ion channel subunit 1 [KO:K04829]
+            40  ASIC2; acid sensing ion channel subunit 2 [KO:K04828]
+            9311  ASIC3; acid sensing ion channel subunit 3 [KO:K04830]
+            55515  ASIC4; acid sensing ion channel subunit family member 4 [KO:K04831]
+            51802  ASIC5; acid sensing ion channel subunit family member 5 [KO:K04832]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3554  IL1R1; interleukin 1 receptor type 1 [KO:K04386]
+            3556  IL1RAP; interleukin 1 receptor accessory protein [KO:K04723]
+            5606  MAP2K3; mitogen-activated protein kinase kinase 3 [KO:K04432] [EC:2.7.12.2]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            4803  NGF; nerve growth factor [KO:K02582]
+            4914  NTRK1; neurotrophic receptor tyrosine kinase 1 [KO:K03176] [EC:2.7.10.1]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            79054  TRPM8; transient receptor potential cation channel subfamily M member 8 [KO:K04983]
+            5732  PTGER2; prostaglandin E receptor 2 [KO:K04259]
+            5734  PTGER4; prostaglandin E receptor 4 [KO:K04261]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            59341  TRPV4; transient receptor potential cation channel subfamily V member 4 [KO:K04973]
+            2150  F2RL1; F2R like trypsin receptor 1 [KO:K04234]
+            1573  CYP2J2; cytochrome P450 family 2 subfamily J member 2 [KO:K07418] [EC:1.14.14.1 1.14.14.73 1.14.14.74 1.14.14.75]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            5583  PRKCH; protein kinase C eta [KO:K18051] [EC:2.7.11.13]
+            5588  PRKCQ; protein kinase C theta [KO:K18052] [EC:2.7.11.13]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            51393  TRPV2; transient receptor potential cation channel subfamily V member 2 [KO:K04971]
+            162514  TRPV3; transient receptor potential cation channel subfamily V member 3 [KO:K04972]
+COMPOUND    C00002  ATP
+            C00076  Calcium cation
+            C00080  H+
+            C00165  Diacylglycerol
+            C00219  Arachidonate
+            C00388  Histamine
+            C00400  (-)-Menthol
+            C00469  Ethanol
+            C00575  3',5'-Cyclic AMP
+            C00584  Prostaglandin E2
+            C00780  Serotonin
+            C00808  (+)-Camphor
+            C00809  (-)-Camphor
+            C00903  Cinnamaldehyde
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C02165  Leukotriene B4
+            C04742  (15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate
+            C04805  5(S)-HETE
+            C05965  12(S)-HPETE
+            C05966  15(S)-HPETE
+            C06254  Lysophospholipid
+            C06866  Capsaicin
+            C07600  Allicin
+            C09155  Phorbol
+            C09179  Resiniferatoxin
+            C09844  1,8-Cineole
+            C11695  Anandamide
+            C12083  (5Z,7E,9E,14Z,17Z)-Icosapentaenoate
+            C12271  N-Arachidonyldopamine
+            C14768  5,6-EET
+            C14769  8,9-EET
+            C19317  Allyl isothiocyanate
+            C20171  Icilin
+            C20698  2-Aminoethyl diphenylborinate
+REFERENCE   PMID:15820689
+  AUTHORS   Wang H, Woolf CJ
+  TITLE     Pain TRPs.
+  JOURNAL   Neuron 46:9-12 (2005)
+            DOI:10.1016/j.neuron.2005.03.011
+REFERENCE   PMID:17321113
+  AUTHORS   Levine JD, Alessandri-Haber N
+  TITLE     TRP channels: targets for the relief of pain.
+  JOURNAL   Biochim Biophys Acta 1772:989-1003 (2007)
+            DOI:10.1016/j.bbadis.2007.01.008
+REFERENCE   PMID:18427980
+  AUTHORS   Cheng JK, Ji RR
+  TITLE     Intracellular signaling in primary sensory neurons and persistent pain.
+  JOURNAL   Neurochem Res 33:1970-8 (2008)
+            DOI:10.1007/s11064-008-9711-z
+REFERENCE   PMID:24099085
+  AUTHORS   Julius D
+  TITLE     TRP channels and pain.
+  JOURNAL   Annu Rev Cell Dev Biol 29:355-84 (2013)
+            DOI:10.1146/annurev-cellbio-101011-155833
+REFERENCE   PMID:12838328
+  AUTHORS   Patapoutian A, Peier AM, Story GM, Viswanath V
+  TITLE     ThermoTRP channels and beyond: mechanisms of temperature sensation.
+  JOURNAL   Nat Rev Neurosci 4:529-39 (2003)
+            DOI:10.1038/nrn1141
+REFERENCE   PMID:16776582
+  AUTHORS   Dhaka A, Viswanath V, Patapoutian A
+  TITLE     Trp ion channels and temperature sensation.
+  JOURNAL   Annu Rev Neurosci 29:135-61 (2006)
+            DOI:10.1146/annurev.neuro.29.051605.112958
+REFERENCE   PMID:18615141
+  AUTHORS   Story GM
+  TITLE     The emerging role of TRP channels in mechanisms of temperature and pain sensation.
+  JOURNAL   Curr Neuropharmacol 4:183-96 (2006)
+            DOI:10.2174/157015906778019482
+REFERENCE   PMID:17548207
+  AUTHORS   Velazquez KT, Mohammad H, Sweitzer SM
+  TITLE     Protein kinase C in pain: involvement of multiple isoforms.
+  JOURNAL   Pharmacol Res 55:578-89 (2007)
+            DOI:10.1016/j.phrs.2007.04.006
+REFERENCE   PMID:16319926
+  AUTHORS   Zhang X, Huang J, McNaughton PA
+  TITLE     NGF rapidly increases membrane expression of TRPV1 heat-gated ion channels.
+  JOURNAL   EMBO J 24:4211-23 (2005)
+            DOI:10.1038/sj.emboj.7600893
+REFERENCE   PMID:19074743
+  AUTHORS   Bessac BF, Jordt SE
+  TITLE     Breathtaking TRP channels: TRPA1 and TRPV1 in airway chemosensation and reflex control.
+  JOURNAL   Physiology (Bethesda) 23:360-70 (2008)
+            DOI:10.1152/physiol.00026.2008
+REFERENCE   PMID:17684094
+  AUTHORS   Trevisani M, Siemens J, Materazzi S, Bautista DM, Nassini R, Campi B, Imamachi N, Andre E, Patacchini R, Cottrell GS, Gatti R, Basbaum AI, Bunnett NW, Julius D, Geppetti P
+  TITLE     4-Hydroxynonenal, an endogenous aldehyde, causes pain and neurogenic inflammation through activation of the irritant receptor TRPA1.
+  JOURNAL   Proc Natl Acad Sci U S A 104:13519-24 (2007)
+            DOI:10.1073/pnas.0705923104
+REFERENCE   PMID:21841075
+  AUTHORS   Latorre R, Brauchi S, Madrid R, Orio P
+  TITLE     A cool channel in cold transduction.
+  JOURNAL   Physiology (Bethesda) 26:273-85 (2011)
+            DOI:10.1152/physiol.00004.2011
+REFERENCE   PMID:20932256
+  AUTHORS   Babes A, Ciobanu AC, Neacsu C, Babes RM
+  TITLE     TRPM8, a sensor for mild cooling in mammalian sensory nerve endings.
+  JOURNAL   Curr Pharm Biotechnol 12:78-88 (2011)
+            DOI:10.2174/138920111793937835
+REFERENCE   PMID:23000387
+  AUTHORS   Loyd DR, Henry MA, Hargreaves KM
+  TITLE     Serotonergic neuromodulation of peripheral nociceptors.
+  JOURNAL   Semin Cell Dev Biol 24:51-7 (2013)
+            DOI:10.1016/j.semcdb.2012.09.002
+REFERENCE   PMID:17124270
+  AUTHORS   Grant AD, Cottrell GS, Amadesi S, Trevisani M, Nicoletti P, Materazzi S, Altier C, Cenac N, Zamponi GW, Bautista-Cruz F, Lopez CB, Joseph EK, Levine JD, Liedtke W, Vanner S, Vergnolle N, Geppetti P, Bunnett NW
+  TITLE     Protease-activated receptor 2 sensitizes the transient receptor potential vanilloid 4 ion channel to cause mechanical hyperalgesia in mice.
+  JOURNAL   J Physiol 578:715-33 (2007)
+            DOI:10.1113/jphysiol.2006.121111
+REFERENCE   PMID:22470230
+  AUTHORS   Mandadi S, Armati PJ, Roufogalis BD
+  TITLE     Protein kinase C modulation of thermo-sensitive transient receptor potential channels: Implications for pain signaling.
+  JOURNAL   J Nat Sci Biol Med 2:13-25 (2011)
+            DOI:10.4103/0976-9668.82311
+REL_PATHWAY hsa00590  Arachidonic acid metabolism
+            hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+KO_PATHWAY  ko04750
+///

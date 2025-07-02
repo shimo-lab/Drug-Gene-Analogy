@@ -1,0 +1,225 @@
+ENTRY       hsa04933                    Pathway
+NAME        AGE-RAGE signaling pathway in diabetic complications - Homo sapiens (human)
+DESCRIPTION Advanced glycation end products (AGEs) are a complex group of compounds produced through the non-enzymatic glycation and oxidation of proteins, lipids and nucleic acids, primarily due to aging and under certain pathologic condition such as huperglycemia. Some of the best chemically characterized AGEs include N-epsilon-carboxy-methyl-lysine (CML), N-epsilon-carboxy-ethyl-lysine (CEL), and Imidazolone. The major receptor for AGEs, known as receptor for advanced glycation end products (RAGE or AGER), belongs to the immunoglobulin superfamily and has been described as a pattern recognition receptor. AGE/RAGE signaling elicits activation of multiple intracellular signal pathways involving NADPH oxidase, protein kinase C, and MAPKs, then resulting in NF-kappaB activity. NF-kappa B promotes the expression of pro-inflammatory cytokines such as IL-1, IL-6 and TNF-alpha and a variety of atherosclerosis-related genes, including VCAM-1, tissue factor, VEGF, and RAGE. In addition, JAK-STAT-mediated and PI3K-Akt-dependent pathways are induced via RAGE, which in turn participate in cell proliferation and apoptosis respectively. Hypoxia-mediated induction of Egr-1 was also shown to require the AGE-RAGE interaction. The results of these signal transductions have been reported to be the possible mechanism that initates diabetic complications.
+CLASS       Human Diseases; Endocrine and metabolic disease
+PATHWAY_MAP hsa04933  AGE-RAGE signaling pathway in diabetic complications
+DRUG        D11814  Tisotumab vedotin (USAN/INN)
+DBLINKS     GO: 1904603
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7046  TGFBR1; transforming growth factor beta receptor 1 [KO:K04674] [EC:2.7.11.30]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            4087  SMAD2; SMAD family member 2 [KO:K04500]
+            4088  SMAD3; SMAD family member 3 [KO:K23605]
+            4089  SMAD4; SMAD family member 4 [KO:K04501]
+            1027  CDKN1B; cyclin dependent kinase inhibitor 1B [KO:K06624]
+            2335  FN1; fibronectin 1 [KO:K05717]
+            1277  COL1A1; collagen type I alpha 1 chain [KO:K06236]
+            1278  COL1A2; collagen type I alpha 2 chain [KO:K06236]
+            1281  COL3A1; collagen type III alpha 1 chain [KO:K19720]
+            1284  COL4A2; collagen type IV alpha 2 chain [KO:K06237]
+            1286  COL4A4; collagen type IV alpha 4 chain [KO:K06237]
+            1288  COL4A6; collagen type IV alpha 6 chain [KO:K06237]
+            1282  COL4A1; collagen type IV alpha 1 chain [KO:K06237]
+            1287  COL4A5; collagen type IV alpha 5 chain [KO:K06237]
+            1285  COL4A3; collagen type IV alpha 3 chain [KO:K06237]
+            183  AGT; angiotensinogen [KO:K09821]
+            185  AGTR1; angiotensin II receptor type 1 [KO:K04166]
+            177  AGER; advanced glycosylation end-product specific receptor [KO:K19722]
+            27035  NOX1; NADPH oxidase 1 [KO:K08008]
+            1536  CYBB; cytochrome b-245 beta chain [KO:K21421] [EC:1.-.-.-]
+            50507  NOX4; NADPH oxidase 4 [KO:K21423] [EC:1.6.3.-]
+            5333  PLCD1; phospholipase C delta 1 [KO:K05857] [EC:3.1.4.11]
+            113026  PLCD3; phospholipase C delta 3 [KO:K05857] [EC:3.1.4.11]
+            84812  PLCD4; phospholipase C delta 4 [KO:K05857] [EC:3.1.4.11]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            51196  PLCE1; phospholipase C epsilon 1 [KO:K05860] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            5581  PRKCE; protein kinase C epsilon [KO:K18050] [EC:2.7.11.13]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            7423  VEGFB; vascular endothelial growth factor B [KO:K16858]
+            7424  VEGFC; vascular endothelial growth factor C [KO:K05449]
+            2277  VEGFD; vascular endothelial growth factor D [KO:K05449]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            5054  SERPINE1; serpin family E member 1 [KO:K03982]
+            6401  SELE; selectin E [KO:K06494]
+            7412  VCAM1; vascular cell adhesion molecule 1 [KO:K06527]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+            4313  MMP2; matrix metallopeptidase 2 [KO:K01398] [EC:3.4.24.24]
+            3552  IL1A; interleukin 1 alpha [KO:K04383]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            2152  F3; coagulation factor III, tissue factor [KO:K03901]
+            1906  EDN1; endothelin 1 [KO:K16366]
+            7056  THBD; thrombomodulin [KO:K03907]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            1729  DIAPH1; diaphanous related formin 1 [KO:K05740]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            5292  PIM1; Pim-1 proto-oncogene, serine/threonine kinase [KO:K04702] [EC:2.7.11.1]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6776  STAT5A; signal transducer and activator of transcription 5A [KO:K11223]
+            6777  STAT5B; signal transducer and activator of transcription 5B [KO:K11224]
+            595  CCND1; cyclin D1 [KO:K04503]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1958  EGR1; early growth response 1 [KO:K09203]
+COMPOUND    C00031  D-Glucose
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00195  N-Acylsphingosine
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C21011  [Protein]-N(epsilon)-(carboxymethyl)lysine
+            C21012  [Protein]-N(epsilon)-(carboxyethyl)lysine
+            C21013  [Protein]-pyrraline
+            C21014  [Protein]-pentosidine
+REFERENCE   PMID:21261520
+  AUTHORS   Kanwar YS, Sun L, Xie P, Liu FY, Chen S
+  TITLE     A glimpse of various pathogenetic mechanisms of diabetic nephropathy.
+  JOURNAL   Annu Rev Pathol 6:395-423 (2011)
+            DOI:10.1146/annurev.pathol.4.110807.092150
+REFERENCE   PMID:21111800
+  AUTHORS   Yamagishi S
+  TITLE     Role of advanced glycation end products (AGEs) and receptor for AGEs (RAGE) in vascular damage in diabetes.
+  JOURNAL   Exp Gerontol 46:217-24 (2011)
+            DOI:10.1016/j.exger.2010.11.007
+REFERENCE   PMID:23961320
+  AUTHORS   Roy B
+  TITLE     Biomolecular basis of the role of diabetes mellitus in osteoporosis and bone fractures.
+  JOURNAL   World J Diabetes 4:101-13 (2013)
+            DOI:10.4239/wjd.v4.i4.101
+REFERENCE   PMID:22558488
+  AUTHORS   Hegab Z, Gibbons S, Neyses L, Mamas MA
+  TITLE     Role of advanced glycation end products in cardiovascular disease.
+  JOURNAL   World J Cardiol 4:90-102 (2012)
+            DOI:10.4330/wjc.v4.i4.90
+REFERENCE   PMID:19404313
+  AUTHORS   Calcutt NA, Cooper ME, Kern TS, Schmidt AM
+  TITLE     Therapies for hyperglycaemia-induced diabetic complications: from animal models to clinical trials.
+  JOURNAL   Nat Rev Drug Discov 8:417-29 (2009)
+            DOI:10.1038/nrd2476
+REFERENCE   PMID:11180401
+  AUTHORS   Huang JS, Guh JY, Chen HC, Hung WC, Lai YH, Chuang LY
+  TITLE     Role of receptor for advanced glycation end-product (RAGE) and the JAK/STAT-signaling pathway in AGE-induced collagen production in NRK-49F cells.
+  JOURNAL   J Cell Biochem 81:102-13 (2001)
+            DOI:10.1002/1097-4644(20010401)81:1<102::AID-JCB1027>3.0.CO;2-Y
+REFERENCE   PMID:21680901
+  AUTHORS   Meloche J, Paulin R, Courboulin A, Lambert C, Barrier M, Bonnet P, Bisserier M, Roy M, Sussman MA, Agharazii M, Bonnet S
+  TITLE     RAGE-dependent activation of the oncoprotein Pim1 plays a critical role in systemic vascular remodeling processes.
+  JOURNAL   Arterioscler Thromb Vasc Biol 31:2114-24 (2011)
+            DOI:10.1161/ATVBAHA.111.230573
+REFERENCE   PMID:11684565
+  AUTHORS   Guh JY, Huang JS, Chen HC, Hung WC, Lai YH, Chuang LY
+  TITLE     Advanced glycation end product-induced proliferation in NRK-49F cells is dependent on the JAK2/STAT5 pathway and cyclin D1.
+  JOURNAL   Am J Kidney Dis 38:1096-104 (2001)
+            DOI:10.1053/ajkd.2001.28616
+REFERENCE   PMID:16894049
+  AUTHORS   Goldin A, Beckman JA, Schmidt AM, Creager MA
+  TITLE     Advanced glycation end products: sparking the development of diabetic vascular injury.
+  JOURNAL   Circulation 114:597-605 (2006)
+            DOI:10.1161/CIRCULATIONAHA.106.621854
+REFERENCE   PMID:21590515
+  AUTHORS   Zong H, Ward M, Stitt AW
+  TITLE     AGEs, RAGE, and diabetic retinopathy.
+  JOURNAL   Curr Diab Rep 11:244-52 (2011)
+            DOI:10.1007/s11892-011-0198-7
+REFERENCE   PMID:21440603
+  AUTHORS   Yamagishi S, Maeda S, Matsui T, Ueda S, Fukami K, Okuda S
+  TITLE     Role of advanced glycation end products (AGEs) and oxidative stress in vascular complications in diabetes.
+  JOURNAL   Biochim Biophys Acta 1820:663-71 (2012)
+            DOI:10.1016/j.bbagen.2011.03.014
+REFERENCE   PMID:23776698
+  AUTHORS   Shi L, Yu X, Yang H, Wu X
+  TITLE     Advanced glycation end products induce human corneal epithelial cells apoptosis through generation of reactive oxygen species and activation of JNK and p38 MAPK pathways.
+  JOURNAL   PLoS One 8:e66781 (2013)
+            DOI:10.1371/journal.pone.0066781
+REFERENCE   PMID:17005604
+  AUTHORS   Alikhani M, Maclellan CM, Raptis M, Vora S, Trackman PC, Graves DT
+  TITLE     Advanced glycation end products induce apoptosis in fibroblasts through activation of ROS, MAP kinases, and the FOXO1 transcription factor.
+  JOURNAL   Am J Physiol Cell Physiol 292:C850-6 (2007)
+            DOI:10.1152/ajpcell.00356.2006
+REFERENCE   PMID:20300563
+  AUTHORS   Alikhani M, Roy S, Graves DT
+  TITLE     FOXO1 plays an essential role in apoptosis of retinal pericytes.
+  JOURNAL   Mol Vis 16:408-15 (2010)
+REFERENCE   PMID:20470857
+  AUTHORS   Sheikpranbabu S, Haribalaganesh R, Lee KJ, Gurunathan S
+  TITLE     Pigment epithelium-derived factor inhibits advanced glycation end products-induced retinal vascular permeability.
+  JOURNAL   Biochimie 92:1040-51 (2010)
+            DOI:10.1016/j.biochi.2010.05.004
+REFERENCE   PMID:18922799
+  AUTHORS   Hudson BI, Kalea AZ, Del Mar Arriero M, Harja E, Boulanger E, D'Agati V, Schmidt AM
+  TITLE     Interaction of the RAGE cytoplasmic domain with diaphanous-1 is required for ligand-stimulated cellular migration through activation of Rac1 and Cdc42.
+  JOURNAL   J Biol Chem 283:34457-68 (2008)
+            DOI:10.1074/jbc.M801465200
+REFERENCE   PMID:11375353
+  AUTHORS   Yeh CH, Sturgis L, Haidacher J, Zhang XN, Sherwood SJ, Bjercke RJ, Juhasz O, Crow MT, Tilton RG, Denner L
+  TITLE     Requirement for p38 and p44/p42 mitogen-activated protein kinases in RAGE-mediated nuclear factor-kappaB transcriptional activation and cytokine secretion.
+  JOURNAL   Diabetes 50:1495-504 (2001)
+            DOI:10.2337/diabetes.50.6.1495
+REFERENCE   PMID:12709399
+  AUTHORS   Li JH, Huang XR, Zhu HJ, Oldfield M, Cooper M, Truong LD, Johnson RJ, Lan HY
+  TITLE     Advanced glycation end products activate Smad signaling via TGF-beta-dependent and independent mechanisms: implications for diabetic renal and vascular disease.
+  JOURNAL   FASEB J 18:176-8 (2004)
+            DOI:10.1096/fj.02-1117fje
+REFERENCE   PMID:18323529
+  AUTHORS   Chang JS, Wendt T, Qu W, Kong L, Zou YS, Schmidt AM, Yan SF
+  TITLE     Oxygen deprivation triggers upregulation of early growth response-1 by the receptor for advanced glycation end products.
+  JOURNAL   Circ Res 102:905-13 (2008)
+            DOI:10.1161/CIRCRESAHA.107.165308
+REFERENCE   PMID:15569303
+  AUTHORS   Fukami K, Ueda S, Yamagishi S, Kato S, Inagaki Y, Takeuchi M, Motomiya Y, Bucala R, Iida S, Tamaki K, Imaizumi T, Cooper ME, Okuda S
+  TITLE     AGEs activate mesangial TGF-beta-Smad signaling via an angiotensin II type I receptor interaction.
+  JOURNAL   Kidney Int 66:2137-47 (2004)
+            DOI:10.1111/j.1523-1755.2004.66004.x
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04110  Cell cycle
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04350  TGF-beta signaling pathway
+            hsa04614  Renin-angiotensin system
+            hsa04630  JAK-STAT signaling pathway
+KO_PATHWAY  ko04933
+///

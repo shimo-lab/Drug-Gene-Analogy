@@ -1,0 +1,424 @@
+ENTRY       hsa04714                    Pathway
+NAME        Thermogenesis - Homo sapiens (human)
+DESCRIPTION Thermogenesis is essential for warm-blooded animals, ensuring normal cellular and physiological function under conditions of environmental challenge. Thermogenesis in brown and beige adipose tissue is mainly controlled by norepinephrine, which is released from sympathetic nervous system in response to cold or dietary stimuli. The mitochondrial uncoupling protein 1 (UCP1) is responsible for the process whereby chemical energy is converted into heat in these adipocytes. Activation of these adipocytes leads to an increase in calorie consumption and is expected to improve overweight conditions, providing a potential strategy for treating obesity and its related metabolic disorders.
+CLASS       Organismal Systems; Environmental adaptation
+PATHWAY_MAP hsa04714  Thermogenesis
+DRUG        D12263  Bomedemstat (USAN/INN)
+            D12264  Bomedemstat tosylate (USAN)
+            D12490  Fazpilodemab (USAN/INN)
+DBLINKS     GO: 1990845
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        155  ADRB3; adrenoceptor beta 3 [KO:K04143]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            55811  ADCY10; adenylate cyclase 10 [KO:K11265] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            63976  PRDM16; PR/SET domain 16 [KO:K22410] [EC:2.1.1.367]
+            9658  ZNF516; zinc finger protein 516 [KO:K22411]
+            23028  KDM1A; lysine demethylase 1A [KO:K11450] [EC:1.14.99.66]
+            7350  UCP1; uncoupling protein 1 [KO:K08769]
+            55818  KDM3A; lysine demethylase 3A [KO:K15601] [EC:1.14.11.65]
+            51780  KDM3B; lysine demethylase 3B [KO:K15601] [EC:1.14.11.65]
+            6595  SMARCA2; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2 [KO:K11647] [EC:5.6.2.-]
+            6597  SMARCA4; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 [KO:K11647] [EC:5.6.2.-]
+            6598  SMARCB1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1 [KO:K11648]
+            6599  SMARCC1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1 [KO:K11649]
+            6601  SMARCC2; SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2 [KO:K11649]
+            6602  SMARCD1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1 [KO:K11650]
+            6603  SMARCD2; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2 [KO:K11650]
+            6604  SMARCD3; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3 [KO:K11650]
+            6605  SMARCE1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 [KO:K11651]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            86  ACTL6A; actin like 6A [KO:K11340]
+            51412  ACTL6B; actin like 6B [KO:K11652]
+            57492  ARID1B; AT-rich interaction domain 1B [KO:K11653]
+            8289  ARID1A; AT-rich interaction domain 1A [KO:K11653]
+            8193  DPF1; double PHD fingers 1 [KO:K22198]
+            8110  DPF3; double PHD fingers 3 [KO:K22198]
+            5468  PPARG; peroxisome proliferator activated receptor gamma [KO:K08530]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            5606  MAP2K3; mitogen-activated protein kinase kinase 3 [KO:K04432] [EC:2.7.12.2]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            10891  PPARGC1A; PPARG coactivator 1 alpha [KO:K07202]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            51548  SIRT6; sirtuin 6 [KO:K11416] [EC:2.3.1.286]
+            26291  FGF21; fibroblast growth factor 21 [KO:K22429]
+            5346  PLIN1; perilipin 1 [KO:K08768]
+            3991  LIPE; lipase E, hormone sensitive type [KO:K07188] [EC:3.1.1.79]
+            57104  PNPLA2; patatin like phospholipase domain containing 2 [KO:K16816] [EC:3.1.1.3]
+            11343  MGLL; monoglyceride lipase [KO:K01054] [EC:3.1.1.23]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            2641  GCG; glucagon [KO:K05259]
+            656  BMP8B; bone morphogenetic protein 8b [KO:K16622]
+            353500  BMP8A; bone morphogenetic protein 8a [KO:K16622]
+            1268  CNR1; cannabinoid receptor 1 [KO:K04277]
+            4878  NPPA; natriuretic peptide A [KO:K12334]
+            4879  NPPB; natriuretic peptide B [KO:K12335]
+            4881  NPR1; natriuretic peptide receptor 1 [KO:K12323] [EC:4.6.1.2]
+            5592  PRKG1; protein kinase cGMP-dependent 1 [KO:K07376] [EC:2.7.11.12]
+            5593  PRKG2; protein kinase cGMP-dependent 2 [KO:K19477] [EC:2.7.11.12]
+            152831  KLB; klotho beta [KO:K22404]
+            2260  FGFR1; fibroblast growth factor receptor 1 [KO:K04362] [EC:2.7.10.1]
+            10818  FRS2; fibroblast growth factor receptor substrate 2 [KO:K12461]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            6197  RPS6KA3; ribosomal protein S6 kinase A3 [KO:K04373] [EC:2.7.11.1]
+            6195  RPS6KA1; ribosomal protein S6 kinase A1 [KO:K04373] [EC:2.7.11.1]
+            6196  RPS6KA2; ribosomal protein S6 kinase A2 [KO:K04373] [EC:2.7.11.1]
+            27330  RPS6KA6; ribosomal protein S6 kinase A6 [KO:K04373] [EC:2.7.11.1]
+            7248  TSC1; TSC complex subunit 1 [KO:K07206]
+            7249  TSC2; TSC complex subunit 2 [KO:K07207]
+            6009  RHEB; Ras homolog, mTORC1 binding [KO:K07208]
+            57521  RPTOR; regulatory associated protein of MTOR complex 1 [KO:K07204]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            64223  MLST8; MTOR associated protein, LST8 homolog [KO:K08266]
+            84335  AKT1S1; AKT1 substrate 1 [KO:K16184]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            6194  RPS6; ribosomal protein S6 [KO:K02991]
+            23305  ACSL6; acyl-CoA synthetase long chain family member 6 [KO:K01897] [EC:6.2.1.3]
+            2182  ACSL4; acyl-CoA synthetase long chain family member 4 [KO:K01897] [EC:6.2.1.3]
+            2180  ACSL1; acyl-CoA synthetase long chain family member 1 [KO:K01897] [EC:6.2.1.3]
+            51703  ACSL5; acyl-CoA synthetase long chain family member 5 [KO:K01897] [EC:6.2.1.3]
+            2181  ACSL3; acyl-CoA synthetase long chain family member 3 [KO:K01897] [EC:6.2.1.3]
+            4535  ND1; NADH dehydrogenase subunit 1 [KO:K03878] [EC:7.1.1.2]
+            4536  ND2; NADH dehydrogenase subunit 2 [KO:K03879] [EC:7.1.1.2]
+            4537  ND3; NADH dehydrogenase subunit 3 [KO:K03880] [EC:7.1.1.2]
+            4538  ND4; NADH dehydrogenase subunit 4 [KO:K03881] [EC:7.1.1.2]
+            4539  ND4L; NADH dehydrogenase subunit 4L [KO:K03882] [EC:7.1.1.2]
+            4540  ND5; NADH dehydrogenase subunit 5 [KO:K03883] [EC:7.1.1.2]
+            4541  ND6; NADH dehydrogenase subunit 6 [KO:K03884] [EC:7.1.1.2]
+            4719  NDUFS1; NADH:ubiquinone oxidoreductase core subunit S1 [KO:K03934] [EC:7.1.1.2]
+            4720  NDUFS2; NADH:ubiquinone oxidoreductase core subunit S2 [KO:K03935] [EC:7.1.1.2]
+            4722  NDUFS3; NADH:ubiquinone oxidoreductase core subunit S3 [KO:K03936] [EC:7.1.1.2]
+            4724  NDUFS4; NADH:ubiquinone oxidoreductase subunit S4 [KO:K03937]
+            4725  NDUFS5; NADH:ubiquinone oxidoreductase subunit S5 [KO:K03938]
+            4726  NDUFS6; NADH:ubiquinone oxidoreductase subunit S6 [KO:K03939]
+            374291  NDUFS7; NADH:ubiquinone oxidoreductase core subunit S7 [KO:K03940] [EC:7.1.1.2]
+            4728  NDUFS8; NADH:ubiquinone oxidoreductase core subunit S8 [KO:K03941] [EC:7.1.1.2]
+            4723  NDUFV1; NADH:ubiquinone oxidoreductase core subunit V1 [KO:K03942] [EC:7.1.1.2]
+            4729  NDUFV2; NADH:ubiquinone oxidoreductase core subunit V2 [KO:K03943] [EC:7.1.1.2]
+            4731  NDUFV3; NADH:ubiquinone oxidoreductase subunit V3 [KO:K03944]
+            4694  NDUFA1; NADH:ubiquinone oxidoreductase subunit A1 [KO:K03945]
+            4695  NDUFA2; NADH:ubiquinone oxidoreductase subunit A2 [KO:K03946]
+            4696  NDUFA3; NADH:ubiquinone oxidoreductase subunit A3 [KO:K03947]
+            4697  NDUFA4; NDUFA4 mitochondrial complex associated [KO:K03948]
+            56901  NDUFA4L2; NDUFA4 mitochondrial complex associated like 2 [KO:K03948]
+            4698  NDUFA5; NADH:ubiquinone oxidoreductase subunit A5 [KO:K03949]
+            4700  NDUFA6; NADH:ubiquinone oxidoreductase subunit A6 [KO:K03950]
+            4701  NDUFA7; NADH:ubiquinone oxidoreductase subunit A7 [KO:K03951]
+            4702  NDUFA8; NADH:ubiquinone oxidoreductase subunit A8 [KO:K03952]
+            4704  NDUFA9; NADH:ubiquinone oxidoreductase subunit A9 [KO:K03953]
+            4705  NDUFA10; NADH:ubiquinone oxidoreductase subunit A10 [KO:K03954]
+            4706  NDUFAB1; NADH:ubiquinone oxidoreductase subunit AB1 [KO:K03955]
+            126328  NDUFA11; NADH:ubiquinone oxidoreductase subunit A11 [KO:K03956]
+            55967  NDUFA12; NADH:ubiquinone oxidoreductase subunit A12 [KO:K11352]
+            51079  NDUFA13; NADH:ubiquinone oxidoreductase subunit A13 [KO:K11353]
+            4707  NDUFB1; NADH:ubiquinone oxidoreductase subunit B1 [KO:K03957]
+            4708  NDUFB2; NADH:ubiquinone oxidoreductase subunit B2 [KO:K03958]
+            4709  NDUFB3; NADH:ubiquinone oxidoreductase subunit B3 [KO:K03959]
+            4710  NDUFB4; NADH:ubiquinone oxidoreductase subunit B4 [KO:K03960]
+            4711  NDUFB5; NADH:ubiquinone oxidoreductase subunit B5 [KO:K03961]
+            4712  NDUFB6; NADH:ubiquinone oxidoreductase subunit B6 [KO:K03962]
+            4713  NDUFB7; NADH:ubiquinone oxidoreductase subunit B7 [KO:K03963]
+            4714  NDUFB8; NADH:ubiquinone oxidoreductase subunit B8 [KO:K03964]
+            4715  NDUFB9; NADH:ubiquinone oxidoreductase subunit B9 [KO:K03965]
+            4716  NDUFB10; NADH:ubiquinone oxidoreductase subunit B10 [KO:K03966]
+            54539  NDUFB11; NADH:ubiquinone oxidoreductase subunit B11 [KO:K11351]
+            4717  NDUFC1; NADH:ubiquinone oxidoreductase subunit C1 [KO:K03967]
+            4718  NDUFC2; NADH:ubiquinone oxidoreductase subunit C2 [KO:K03968]
+            100532726  NDUFC2-KCTD14; NDUFC2-KCTD14 readthrough [KO:K03968]
+            51103  NDUFAF1; NADH:ubiquinone oxidoreductase complex assembly factor 1 [KO:K18159]
+            91942  NDUFAF2; NADH:ubiquinone oxidoreductase complex assembly factor 2 [KO:K18160]
+            25915  NDUFAF3; NADH:ubiquinone oxidoreductase complex assembly factor 3 [KO:K09008]
+            29078  NDUFAF4; NADH:ubiquinone oxidoreductase complex assembly factor 4 [KO:K18161]
+            79133  NDUFAF5; NADH:ubiquinone oxidoreductase complex assembly factor 5 [KO:K18162] [EC:2.1.1.-]
+            137682  NDUFAF6; NADH:ubiquinone oxidoreductase complex assembly factor 6 [KO:K18163]
+            55471  NDUFAF7; NADH:ubiquinone oxidoreductase complex assembly factor 7 [KO:K18164]
+            284184  NDUFAF8; NADH:ubiquinone oxidoreductase complex assembly factor 8 [KO:K24726]
+            6389  SDHA; succinate dehydrogenase complex flavoprotein subunit A [KO:K00234] [EC:1.3.5.1]
+            6390  SDHB; succinate dehydrogenase complex iron sulfur subunit B [KO:K00235] [EC:1.3.5.1]
+            6391  SDHC; succinate dehydrogenase complex subunit C [KO:K00236]
+            6392  SDHD; succinate dehydrogenase complex subunit D [KO:K00237]
+            7386  UQCRFS1; ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [KO:K00411] [EC:7.1.1.8]
+            4519  CYTB; cytochrome b [KO:K00412]
+            1537  CYC1; cytochrome c1 [KO:K00413]
+            7384  UQCRC1; ubiquinol-cytochrome c reductase core protein 1 [KO:K00414]
+            7385  UQCRC2; ubiquinol-cytochrome c reductase core protein 2 [KO:K00415]
+            7388  UQCRH; ubiquinol-cytochrome c reductase hinge protein [KO:K00416]
+            440567  UQCRHL; ubiquinol-cytochrome c reductase hinge protein like [KO:K00416]
+            7381  UQCRB; ubiquinol-cytochrome c reductase binding protein [KO:K00417]
+            27089  UQCRQ; ubiquinol-cytochrome c reductase complex III subunit VII [KO:K00418]
+            29796  UQCR10; ubiquinol-cytochrome c reductase, complex III subunit X [KO:K00419]
+            10975  UQCR11; ubiquinol-cytochrome c reductase, complex III subunit XI [KO:K00420]
+            4512  COX1; cytochrome c oxidase subunit I [KO:K02256] [EC:7.1.1.9]
+            4513  COX2; cytochrome c oxidase subunit II [KO:K02261]
+            4514  COX3; cytochrome c oxidase subunit III [KO:K02262]
+            84701  COX4I2; cytochrome c oxidase subunit 4I2 [KO:K02263]
+            1327  COX4I1; cytochrome c oxidase subunit 4I1 [KO:K02263]
+            9377  COX5A; cytochrome c oxidase subunit 5A [KO:K02264]
+            1329  COX5B; cytochrome c oxidase subunit 5B [KO:K02265]
+            1337  COX6A1; cytochrome c oxidase subunit 6A1 [KO:K02266]
+            1339  COX6A2; cytochrome c oxidase subunit 6A2 [KO:K02266]
+            1340  COX6B1; cytochrome c oxidase subunit 6B1 [KO:K02267]
+            125965  COX6B2; cytochrome c oxidase subunit 6B2 [KO:K02267]
+            1345  COX6C; cytochrome c oxidase subunit 6C [KO:K02268]
+            1346  COX7A1; cytochrome c oxidase subunit 7A1 [KO:K02270]
+            1347  COX7A2; cytochrome c oxidase subunit 7A2 [KO:K02270]
+            9167  COX7A2L; cytochrome c oxidase subunit 7A2 like [KO:K02270]
+            1349  COX7B; cytochrome c oxidase subunit 7B [KO:K02271]
+            170712  COX7B2; cytochrome c oxidase subunit 7B2 [KO:K02271]
+            1350  COX7C; cytochrome c oxidase subunit 7C [KO:K02272]
+            341947  COX8C; cytochrome c oxidase subunit 8C [KO:K02273]
+            1351  COX8A; cytochrome c oxidase subunit 8A [KO:K02273]
+            1352  COX10; cytochrome c oxidase assembly factor heme A:farnesyltransferase COX10 [KO:K02257] [EC:2.5.1.141]
+            1353  COX11; cytochrome c oxidase copper chaperone COX11 [KO:K02258]
+            84987  COX14; cytochrome c oxidase assembly factor COX14 [KO:K18181]
+            1355  COX15; cytochrome c oxidase assembly homolog COX15 [KO:K02259] [EC:1.17.99.9]
+            51241  COX16; cytochrome c oxidase assembly factor COX16 [KO:K18182]
+            10063  COX17; cytochrome c oxidase copper chaperone COX17 [KO:K02260]
+            285521  COX18; cytochrome c oxidase assembly factor COX18 [KO:K17797]
+            90639  COX19; cytochrome c oxidase assembly factor COX19 [KO:K18183]
+            116228  COX20; cytochrome c oxidase assembly factor COX20 [KO:K18184]
+            55744  COA1; cytochrome c oxidase assembly factor 1 [KO:K18173]
+            28958  COA3; cytochrome c oxidase assembly factor 3 [KO:K18175]
+            51287  COA4; cytochrome c oxidase assembly factor 4 homolog [KO:K18177]
+            493753  COA5; cytochrome c oxidase assembly factor 5 [KO:K18178]
+            388753  COA6; cytochrome c oxidase assembly factor 6 [KO:K18179]
+            65260  COA7; cytochrome c oxidase assembly factor 7 [KO:K18180]
+            498  ATP5F1A; ATP synthase F1 subunit alpha [KO:K02132]
+            506  ATP5F1B; ATP synthase F1 subunit beta [KO:K02133] [EC:7.1.2.2]
+            509  ATP5F1C; ATP synthase F1 subunit gamma [KO:K02136]
+            513  ATP5F1D; ATP synthase F1 subunit delta [KO:K02134]
+            514  ATP5F1E; ATP synthase F1 subunit epsilon [KO:K02135]
+            539  ATP5PO; ATP synthase peripheral stalk subunit OSCP [KO:K02137]
+            4508  ATP6; ATP synthase F0 subunit 6 [KO:K02126]
+            515  ATP5PB; ATP synthase peripheral stalk-membrane subunit b [KO:K02127]
+            516  ATP5MC1; ATP synthase membrane subunit c locus 1 [KO:K02128]
+            517  ATP5MC2; ATP synthase membrane subunit c locus 2 [KO:K02128]
+            518  ATP5MC3; ATP synthase membrane subunit c locus 3 [KO:K02128]
+            10476  ATP5PD; ATP synthase peripheral stalk subunit d [KO:K02138]
+            521  ATP5ME; ATP synthase membrane subunit e [KO:K02129]
+            9551  ATP5MF; ATP synthase membrane subunit f [KO:K02130]
+            522  ATP5PF; ATP synthase peripheral stalk subunit F6 [KO:K02131]
+            4509  ATP8; ATP synthase F0 subunit 8 [KO:K02125]
+            10632  ATP5MG; ATP synthase membrane subunit g [KO:K02140]
+            1376  CPT2; carnitine palmitoyltransferase 2 [KO:K08766] [EC:2.3.1.21]
+            123096  SLC25A29; solute carrier family 25 member 29 [KO:K15109]
+            788  SLC25A20; solute carrier family 25 member 20 [KO:K15109]
+            1374  CPT1A; carnitine palmitoyltransferase 1A [KO:K08765] [EC:2.3.1.21]
+            1375  CPT1B; carnitine palmitoyltransferase 1B [KO:K19523] [EC:2.3.1.21]
+            126129  CPT1C; carnitine palmitoyltransferase 1C [KO:K19524] [EC:2.3.1.21]
+COMPOUND    C00002  ATP
+            C00004  NADH
+            C00008  ADP
+            C00010  CoA
+            C00024  Acetyl-CoA
+            C00040  Acyl-CoA
+            C00080  H+
+            C00116  Glycerol
+            C00162  Fatty acid
+            C00165  Diacylglycerol
+            C00318  L-Carnitine
+            C00422  Triacylglycerol
+            C00547  L-Noradrenaline
+            C00575  3',5'-Cyclic AMP
+            C00745  Nicotine
+            C00942  3',5'-Cyclic GMP
+            C00951  Estradiol-17beta
+            C01352  FADH2
+            C01885  1-Acylglycerol
+            C02301  O-Acylcarnitine
+            C02465  Triiodothyronine
+            C11695  Anandamide
+            C13856  2-Arachidonoylglycerol
+REFERENCE   PMID:27251423
+  AUTHORS   Inagaki T, Sakai J, Kajimura S
+  TITLE     Transcriptional and epigenetic control of brown and beige adipose cell fate and function.
+  JOURNAL   Nat Rev Mol Cell Biol 17:480-95 (2016)
+            DOI:10.1038/nrm.2016.62
+REFERENCE   PMID:24100998
+  AUTHORS   Harms M, Seale P
+  TITLE     Brown and beige fat: development, function and therapeutic potential.
+  JOURNAL   Nat Med 19:1252-63 (2013)
+            DOI:10.1038/nm.3361
+REFERENCE   PMID:25154875
+  AUTHORS   Boon MR, Kooijman S, van Dam AD, Pelgrom LR, Berbee JF, Visseren CA, van Aggele RC, van den Hoek AM, Sips HC, Lombes M, Havekes LM, Tamsma JT, Guigas B, Meijer OC, Jukema JW, Rensen PC
+  TITLE     Peripheral cannabinoid 1 receptor blockade activates brown adipose tissue and diminishes dyslipidemia and obesity.
+  JOURNAL   FASEB J 28:5361-75 (2014)
+            DOI:10.1096/fj.13-247643
+REFERENCE   PMID:26201764
+  AUTHORS   Merlin J, Evans BA, Dehvari N, Sato M, Bengtsson T, Hutchinson DS
+  TITLE     Could burning fat start with a brite spark? Pharmacological and nutritional ways to promote thermogenesis.
+  JOURNAL   Mol Nutr Food Res 60:18-42 (2016)
+            DOI:10.1002/mnfr.201500251
+REFERENCE   PMID:26271143
+  AUTHORS   van Dam AD, Kooijman S, Schilperoort M, Rensen PC, Boon MR
+  TITLE     Regulation of brown fat by AMP-activated protein kinase.
+  JOURNAL   Trends Mol Med 21:571-9 (2015)
+            DOI:10.1016/j.molmed.2015.07.003
+REFERENCE   PMID:26482876
+  AUTHORS   Kooijman S, van den Heuvel JK, Rensen PC
+  TITLE     Neuronal Control of Brown Fat Activity.
+  JOURNAL   Trends Endocrinol Metab 26:657-68 (2015)
+            DOI:10.1016/j.tem.2015.09.008
+REFERENCE   PMID:28448947
+  AUTHORS   Contreras C, Nogueiras R, Dieguez C, Rahmouni K, Lopez M
+  TITLE     Traveling from the hypothalamus to the adipose tissue: The thermogenic pathway.
+  JOURNAL   Redox Biol 12:854-863 (2017)
+            DOI:10.1016/j.redox.2017.04.019
+REFERENCE   PMID:24872083
+  AUTHORS   Fruhbeck G, Mendez-Gimenez L, Fernandez-Formoso JA, Fernandez S, Rodriguez A
+  TITLE     Regulation of adipocyte lipolysis.
+  JOURNAL   Nutr Res Rev 27:63-93 (2014)
+            DOI:10.1017/S095442241400002X
+REFERENCE   PMID:15545214
+  AUTHORS   Tansey JT, Sztalryd C, Hlavin EM, Kimmel AR, Londos C
+  TITLE     The central role of perilipin a in lipid metabolism and adipocyte lipolysis.
+  JOURNAL   IUBMB Life 56:379-85 (2004)
+            DOI:10.1080/15216540400009968
+REFERENCE   PMID:20935662
+  AUTHORS   Collins S, Yehuda-Shnaidman E, Wang H
+  TITLE     Positive and negative control of Ucp1 gene transcription and the role of beta-adrenergic signaling networks.
+  JOURNAL   Int J Obes (Lond) 34 Suppl 1:S28-33 (2010)
+            DOI:10.1038/ijo.2010.180
+REFERENCE   PMID:15964803
+  AUTHORS   Robidoux J, Cao W, Quan H, Daniel KW, Moukdar F, Bai X, Floering LM, Collins S
+  TITLE     Selective activation of mitogen-activated protein (MAP) kinase kinase 3 and p38alpha MAP kinase is essential for cyclic AMP-dependent UCP1 expression in adipocytes.
+  JOURNAL   Mol Cell Biol 25:5466-79 (2005)
+            DOI:10.1128/MCB.25.13.5466-5479.2005
+REFERENCE   PMID:27045525
+  AUTHORS   Hattori K, Naguro I, Okabe K, Funatsu T, Furutani S, Takeda K, Ichijo H
+  TITLE     ASK1 signalling regulates brown and beige adipocyte function.
+  JOURNAL   Nat Commun 7:11158 (2016)
+            DOI:10.1038/ncomms11158
+REFERENCE   PMID:25948511
+  AUTHORS   Abe Y, Rozqie R, Matsumura Y, Kawamura T, Nakaki R, Tsurutani Y, Tanimura-Inagaki K, Shiono A, Magoori K, Nakamura K, Ogi S, Kajimura S, Kimura H, Tanaka T, Fukami K, Osborne TF, Kodama T, Aburatani H, Inagaki T, Sakai J
+  TITLE     JMJD1A is a signal-sensing scaffold that regulates acute chromatin dynamics via SWI/SNF association for thermogenesis.
+  JOURNAL   Nat Commun 6:7052 (2015)
+            DOI:10.1038/ncomms8052
+REFERENCE   PMID:25578880
+  AUTHORS   Dempersmier J, Sambeat A, Gulyaeva O, Paul SM, Hudak CS, Raposo HF, Kwan HY, Kang C, Wong RH, Sul HS
+  TITLE     Cold-inducible Zfp516 activates UCP1 transcription to promote browning of white fat and development of brown fat.
+  JOURNAL   Mol Cell 57:235-46 (2015)
+            DOI:10.1016/j.molcel.2014.12.005
+REFERENCE   PMID:27264172
+  AUTHORS   Sambeat A, Gulyaeva O, Dempersmier J, Tharp KM, Stahl A, Paul SM, Sul HS
+  TITLE     LSD1 Interacts with Zfp516 to Promote UCP1 Transcription and Brown Fat Program.
+  JOURNAL   Cell Rep 15:2536-49 (2016)
+            DOI:10.1016/j.celrep.2016.05.019
+REFERENCE   PMID:27693079
+  AUTHORS   Villarroya F, Peyrou M, Giralt M
+  TITLE     Transcriptional regulation of the uncoupling protein-1 gene.
+  JOURNAL   Biochimie 134:86-92 (2017)
+            DOI:10.1016/j.biochi.2016.09.017
+REFERENCE   PMID:15024092
+  AUTHORS   Cao W, Daniel KW, Robidoux J, Puigserver P, Medvedev AV, Bai X, Floering LM, Spiegelman BM, Collins S
+  TITLE     p38 mitogen-activated protein kinase is the central regulator of cyclic AMP-dependent transcription of the brown fat uncoupling protein 1 gene.
+  JOURNAL   Mol Cell Biol 24:3057-67 (2004)
+            DOI:10.1128/MCB.24.7.3057-3067.2004
+REFERENCE   PMID:21317437
+  AUTHORS   Hondares E, Iglesias R, Giralt A, Gonzalez FJ, Giralt M, Mampel T, Villarroya F
+  TITLE     Thermogenic activation induces FGF21 expression and release in brown adipose tissue.
+  JOURNAL   J Biol Chem 286:12983-90 (2011)
+            DOI:10.1074/jbc.M110.215889
+REFERENCE   PMID:28723567
+  AUTHORS   Yao L, Cui X, Chen Q, Yang X, Fang F, Zhang J, Liu G, Jin W, Chang Y
+  TITLE     Cold-Inducible SIRT6 Regulates Thermogenesis of Brown and Beige Fat.
+  JOURNAL   Cell Rep 20:641-654 (2017)
+            DOI:10.1016/j.celrep.2017.06.069
+REFERENCE   PMID:27794497
+  AUTHORS   Klingenberg M
+  TITLE     UCP1 - A sophisticated energy valve.
+  JOURNAL   Biochimie 134:19-27 (2017)
+            DOI:10.1016/j.biochi.2016.10.012
+REFERENCE   PMID:27984203
+  AUTHORS   Bertholet AM, Kirichok Y
+  TITLE     UCP1: A transporter for H(+) and fatty acid anions.
+  JOURNAL   Biochimie 134:28-34 (2017)
+            DOI:10.1016/j.biochi.2016.10.013
+REFERENCE   PMID:29052591
+  AUTHORS   Betz MJ, Enerback S
+  TITLE     Targeting thermogenesis in brown fat and muscle to treat obesity and metabolic disease.
+  JOURNAL   Nat Rev Endocrinol 14:77-87 (2018)
+            DOI:10.1038/nrendo.2017.132
+REFERENCE   PMID:20514071
+  AUTHORS   Tseng YH, Cypess AM, Kahn CR
+  TITLE     Cellular bioenergetics as a target for obesity therapy.
+  JOURNAL   Nat Rev Drug Discov 9:465-82 (2010)
+            DOI:10.1038/nrd3138
+REFERENCE   PMID:25390014
+  AUTHORS   Fenzl A, Kiefer FW
+  TITLE     Brown adipose tissue and thermogenesis.
+  JOURNAL   Horm Mol Biol Clin Investig 19:25-37 (2014)
+            DOI:10.1515/hmbci-2014-0022
+REFERENCE   PMID:27681418
+  AUTHORS   Minard AY, Tan SX, Yang P, Fazakerley DJ, Domanova W, Parker BL, Humphrey SJ, Jothi R, Stockli J, James DE
+  TITLE     mTORC1 Is a Major Regulatory Node in the FGF21 Signaling Network in Adipocytes.
+  JOURNAL   Cell Rep 17:29-36 (2016)
+            DOI:10.1016/j.celrep.2016.08.086
+REFERENCE   PMID:22302939
+  AUTHORS   Fisher FM, Kleiner S, Douris N, Fox EC, Mepani RJ, Verdeguer F, Wu J, Kharitonenkov A, Flier JS, Maratos-Flier E, Spiegelman BM
+  TITLE     FGF21 regulates PGC-1alpha and browning of white adipose tissues in adaptive thermogenesis.
+  JOURNAL   Genes Dev 26:271-81 (2012)
+            DOI:10.1101/gad.177857.111
+REFERENCE   PMID:24820868
+  AUTHORS   Zois NE, Bartels ED, Hunter I, Kousholt BS, Olsen LH, Goetze JP
+  TITLE     Natriuretic peptides in cardiometabolic regulation and disease.
+  JOURNAL   Nat Rev Cardiol 11:403-12 (2014)
+            DOI:10.1038/nrcardio.2014.64
+REFERENCE   PMID:22020112
+  AUTHORS   Indiveri C, Iacobazzi V, Tonazzi A, Giangregorio N, Infantino V, Convertini P, Console L, Palmieri F
+  TITLE     The mitochondrial carnitine/acylcarnitine carrier: function, structure and physiopathology.
+  JOURNAL   Mol Aspects Med 32:223-33 (2011)
+            DOI:10.1016/j.mam.2011.10.008
+REFERENCE   PMID:26303601
+  AUTHORS   McCoin CS, Knotts TA, Adams SH
+  TITLE     Acylcarnitines--old actors auditioning for new roles in metabolic physiology.
+  JOURNAL   Nat Rev Endocrinol 11:617-25 (2015)
+            DOI:10.1038/nrendo.2015.129
+REFERENCE   PMID:28955734
+  AUTHORS   Ohtomo T, Ino K, Miyashita R, Chigira M, Nakamura M, Someya K, Inaba N, Fujita M, Takagi M, Yamada J
+  TITLE     Chronic high-fat feeding impairs adaptive induction of mitochondrial fatty acid combustion-associated proteins in brown adipose tissue of mice.
+  JOURNAL   Biochem Biophys Rep 10:32-38 (2017)
+            DOI:10.1016/j.bbrep.2017.02.002
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa00190  Oxidative phosphorylation
+            hsa04010  MAPK signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04923  Regulation of lipolysis in adipocytes
+KO_PATHWAY  ko04714
+///

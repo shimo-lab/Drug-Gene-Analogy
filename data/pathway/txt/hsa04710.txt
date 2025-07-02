@@ -1,0 +1,83 @@
+ENTRY       hsa04710                    Pathway
+NAME        Circadian rhythm - Homo sapiens (human)
+DESCRIPTION Circadian rhythm is an internal biological clock, which enables to sustain an approximately 24-hour rhythm in the absence of environmental cues. In mammals, the circadian clock mechanism consists of cell-autonomous transcription-translation feedback loops that drive rhythmic, 24-hour expression patterns of core clock components. The first negative feedback loop is a rhythmic transcription of period genes (PER1, PER2, and PER3) and chryptochrome genes (CRY1 and CRY2). PER and CRY proteins form a heterodimer, which acts on the CLOCK/BMAL1 heterodimer to repress its own transcription. PER and CRY proteins are phosphorylated by casein kinase epsilon (CKIepsilon), which leads to degradation and restarting of the cycle. The second loop is a positive feedback loop driven by the CLOCK/BMAL1 heterodimer, which initiates transcription of target genes containing E-box cis-regulatory enhancer sequences.
+CLASS       Organismal Systems; Environmental adaptation
+PATHWAY_MAP hsa04710  Circadian rhythm
+DBLINKS     GO: 0007623
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6095  RORA; RAR related orphan receptor A [KO:K08532]
+            6096  RORB; RAR related orphan receptor B [KO:K08533]
+            6097  RORC; RAR related orphan receptor C [KO:K08534]
+            9572  NR1D1; nuclear receptor subfamily 1 group D member 1 [KO:K03728]
+            9975  NR1D2; nuclear receptor subfamily 1 group D member 2 [KO:K08531]
+            4783  NFIL3; nuclear factor, interleukin 3 regulated [KO:K09059]
+            406  BMAL1; basic helix-loop-helix ARNT like 1 [KO:K02296]
+            1628  DBP; D-box binding PAR bZIP transcription factor [KO:K09056]
+            8553  BHLHE40; basic helix-loop-helix family member e40 [KO:K03729]
+            79365  BHLHE41; basic helix-loop-helix family member e41 [KO:K03730]
+            1453  CSNK1D; casein kinase 1 delta [KO:K08959] [EC:2.7.11.1]
+            1454  CSNK1E; casein kinase 1 epsilon [KO:K08960] [EC:2.7.11.1]
+            102800317  TPTEP2-CSNK1E; TPTEP2-CSNK1E readthrough [KO:K08960] [EC:2.7.11.1]
+            5187  PER1; period circadian regulator 1 [KO:K21944]
+            8864  PER2; period circadian regulator 2 [KO:K02633]
+            8863  PER3; period circadian regulator 3 [KO:K21945]
+            1407  CRY1; cryptochrome circadian regulator 1 [KO:K02295]
+            1408  CRY2; cryptochrome circadian regulator 2 [KO:K02295]
+            9575  CLOCK; clock circadian regulator [KO:K02223] [EC:2.3.1.48]
+            4862  NPAS2; neuronal PAS domain protein 2 [KO:K09026]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            9978  RBX1; ring-box 1 [KO:K03868] [EC:2.3.2.32]
+            8454  CUL1; cullin 1 [KO:K03347]
+            6500  SKP1; S-phase kinase associated protein 1 [KO:K03094]
+            8945  BTRC; beta-transducin repeat containing E3 ubiquitin protein ligase [KO:K03362]
+            23291  FBXW11; F-box and WD repeat domain containing 11 [KO:K03362]
+            26224  FBXL3; F-box and leucine rich repeat protein 3 [KO:K10269]
+COMPOUND    C00076  Calcium cation
+            C00575  3',5'-Cyclic AMP
+REFERENCE   PMID:27990019
+  AUTHORS   Takahashi JS
+  TITLE     Transcriptional architecture of the mammalian circadian clock.
+  JOURNAL   Nat Rev Genet 18:164-179 (2017)
+            DOI:10.1038/nrg.2016.150
+REFERENCE   PMID:32226546
+  AUTHORS   Wang S, Li F, Lin Y, Wu B
+  TITLE     Targeting REV-ERBalpha for therapeutic purposes: promises and challenges.
+  JOURNAL   Theranostics 10:4168-4182 (2020)
+            DOI:10.7150/thno.43834
+REFERENCE   PMID:12015613
+  AUTHORS   Panda S, Hogenesch JB, Kay SA.
+  TITLE     Circadian rhythms from flies to human.
+  JOURNAL   Nature 417:329-35 (2002)
+            DOI:10.1038/417329a
+REFERENCE   PMID:12397359
+  AUTHORS   Honma S, Kawamoto T, Takagi Y, Fujimoto K, Sato F, Noshiro M, Kato Y, Honma K.
+  TITLE     Dec1 and Dec2 are regulators of the mammalian molecular clock.
+  JOURNAL   Nature 419:841-4 (2002)
+            DOI:10.1038/nature01123
+REFERENCE   PMID:12724733
+  AUTHORS   Fu L, Lee CC.
+  TITLE     The circadian clock: pacemaker and tumour suppressor.
+  JOURNAL   Nat Rev Cancer 3:350-61 (2003)
+            DOI:10.1038/nrc1072
+REFERENCE   PMID:12507418
+  AUTHORS   Schibler U, Sassone-Corsi P.
+  TITLE     A web of circadian pacemakers.
+  JOURNAL   Cell 111:919-22 (2002)
+            DOI:10.1016/S0092-8674(02)01225-4
+REFERENCE   PMID:18802415
+  AUTHORS   Takahashi JS, Hong HK, Ko CH, McDearmon EL
+  TITLE     The genetics of mammalian circadian order and disorder: implications for physiology and disease.
+  JOURNAL   Nat Rev Genet 9:764-75 (2008)
+            DOI:10.1038/nrg2430
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04713  Circadian entrainment
+KO_PATHWAY  ko04710
+///

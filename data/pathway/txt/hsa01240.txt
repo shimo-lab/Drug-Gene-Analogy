@@ -1,0 +1,19 @@
+ENTRY       hsa01240                    Pathway
+NAME        Biosynthesis of cofactors - Homo sapiens (human)
+PATHWAY_MAP hsa01240  Biosynthesis of cofactors
+MODULE      hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP [PATH:hsa01240]
+            hsa_M00051  De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP [PATH:hsa01240]
+            hsa_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP [PATH:hsa01240]
+            hsa_M00118  Glutathione biosynthesis, glutamate => glutathione [PATH:hsa01240]
+            hsa_M00120  Coenzyme A biosynthesis, pantothenate => CoA [PATH:hsa01240]
+            hsa_M00128  Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol [PATH:hsa01240]
+            hsa_M00141  C1-unit interconversion, eukaryotes [PATH:hsa01240]
+            hsa_M00842  Tetrahydrobiopterin biosynthesis, GTP => BH4 [PATH:hsa01240]
+            hsa_M00868  Heme biosynthesis, animals and fungi, glycine => heme [PATH:hsa01240]
+            hsa_M00880  Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor [PATH:hsa01240]
+            hsa_M00882  Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H [PATH:hsa01240]
+            hsa_M00883  Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2 [PATH:hsa01240]
+            hsa_M00912  NAD biosynthesis, tryptophan => quinolinate => NAD [PATH:hsa01240]
+ORGANISM    Homo sapiens (human) [GN:hsa]
+KO_PATHWAY  ko01240
+///

@@ -1,0 +1,58 @@
+ENTRY       hsa03030                    Pathway
+NAME        DNA replication - Homo sapiens (human)
+DESCRIPTION A complex network of interacting proteins and enzymes is required for DNA replication. Generally, DNA replication follows a multistep enzymatic pathway. At the DNA replication fork, a DNA helicase (DnaB or MCM complex) precedes the DNA synthetic machinery and unwinds the duplex parental DNA in cooperation with the SSB or RPA. On the leading strand, replication occurs continuously in a 5 to 3 direction, whereas on the lagging strand, DNA replication occurs discontinuously by synthesis and joining of short Okazaki fragments. In prokaryotes, the leading strand replication apparatus consists of a DNA polymerase (pol III core), a sliding clamp (beta), and a clamp loader (gamma delta complex). The DNA primase (DnaG) is needed to form RNA primers. Normally, during replication of the lagging-strand DNA template, an RNA primer is removed either by an RNase H or by the 5 to 3 exonuclease activity of DNA pol I, and the DNA ligase joins the Okazaki fragments. In eukaryotes, three DNA polymerases (alpha, delta, and epsilon) have been identified. DNA primase forms a permanent complex with DNA polymerase alpha. PCNA and RFC function as a clamp and a clamp loader. FEN 1 and RNase H1 remove the RNA from the Okazaki fragments and DNA ligase I joins the DNA.
+CLASS       Genetic Information Processing; Replication and repair
+PATHWAY_MAP hsa03030  DNA replication
+NETWORK     nt06509  DNA replication
+  ELEMENT   N01471  Origin unwinding and elongation
+            N01472  Okazaki fragment maturation
+DRUG        D03546  Clofarabine (JAN/USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6742  SSBP1; single stranded DNA binding protein 1 [KO:K03111]
+            246243  RNASEH1; ribonuclease H1 [KO:K03469] [EC:3.1.26.4]
+            6117  RPA1; replication protein A1 [KO:K07466]
+            5111  PCNA; proliferating cell nuclear antigen [KO:K04802]
+            1763  DNA2; DNA replication helicase/nuclease 2 [KO:K10742] [EC:5.6.2.3 3.1.-.-]
+            2237  FEN1; flap structure-specific endonuclease 1 [KO:K04799] [EC:3.1.-.-]
+            3978  LIG1; DNA ligase 1 [KO:K10747] [EC:6.5.1.1 6.5.1.6 6.5.1.7]
+            5422  POLA1; DNA polymerase alpha 1, catalytic subunit [KO:K02320] [EC:2.7.7.7]
+            23649  POLA2; DNA polymerase alpha 2, accessory subunit [KO:K02321]
+            5557  PRIM1; DNA primase subunit 1 [KO:K02684] [EC:2.7.7.102]
+            5558  PRIM2; DNA primase subunit 2 [KO:K02685]
+            5424  POLD1; DNA polymerase delta 1, catalytic subunit [KO:K02327] [EC:2.7.7.7]
+            5425  POLD2; DNA polymerase delta 2, accessory subunit [KO:K02328]
+            10714  POLD3; DNA polymerase delta 3, accessory subunit [KO:K03504]
+            57804  POLD4; DNA polymerase delta 4, accessory subunit [KO:K03505]
+            5426  POLE; DNA polymerase epsilon, catalytic subunit [KO:K02324] [EC:2.7.7.7]
+            5427  POLE2; DNA polymerase epsilon 2, accessory subunit [KO:K02325] [EC:2.7.7.7]
+            54107  POLE3; DNA polymerase epsilon 3, accessory subunit [KO:K02326] [EC:2.7.7.7]
+            56655  POLE4; DNA polymerase epsilon 4, accessory subunit [KO:K03506] [EC:2.7.7.7]
+            4171  MCM2; minichromosome maintenance complex component 2 [KO:K02540] [EC:5.6.2.3]
+            4172  MCM3; minichromosome maintenance complex component 3 [KO:K02541] [EC:5.6.2.3]
+            4173  MCM4; minichromosome maintenance complex component 4 [KO:K02212] [EC:5.6.2.3]
+            4174  MCM5; minichromosome maintenance complex component 5 [KO:K02209] [EC:5.6.2.3]
+            4175  MCM6; minichromosome maintenance complex component 6 [KO:K02542] [EC:5.6.2.3]
+            4176  MCM7; minichromosome maintenance complex component 7 [KO:K02210] [EC:5.6.2.3]
+            6118  RPA2; replication protein A2 [KO:K10739]
+            29935  RPA4; replication protein A4 [KO:K10741]
+            6119  RPA3; replication protein A3 [KO:K10740]
+            5981  RFC1; replication factor C subunit 1 [KO:K10754]
+            5984  RFC4; replication factor C subunit 4 [KO:K10755]
+            5982  RFC2; replication factor C subunit 2 [KO:K10755]
+            5985  RFC5; replication factor C subunit 5 [KO:K10756]
+            5983  RFC3; replication factor C subunit 3 [KO:K10756]
+            10535  RNASEH2A; ribonuclease H2 subunit A [KO:K10743] [EC:3.1.26.4]
+            79621  RNASEH2B; ribonuclease H2 subunit B [KO:K10744]
+            84153  RNASEH2C; ribonuclease H2 subunit C [KO:K10745]
+REFERENCE   PMID:8087839
+  AUTHORS   Stillman B.
+  TITLE     Smart machines at the DNA replication fork.
+  JOURNAL   Cell 78:725-8 (1994)
+            DOI:10.1016/S0092-8674(94)90362-X
+REFERENCE   PMID:9759502
+  AUTHORS   Waga S, Stillman B.
+  TITLE     The DNA replication fork in eukaryotic cells.
+  JOURNAL   Annu Rev Biochem 67:721-51 (1998)
+            DOI:10.1146/annurev.biochem.67.1.721
+KO_PATHWAY  ko03030
+///

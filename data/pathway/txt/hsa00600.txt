@@ -1,0 +1,143 @@
+ENTRY       hsa00600                    Pathway
+NAME        Sphingolipid metabolism - Homo sapiens (human)
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP hsa00600  Sphingolipid metabolism
+MODULE      hsa_M00066  Lactosylceramide biosynthesis [PATH:hsa00600]
+            hsa_M00067  Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid [PATH:hsa00600]
+            hsa_M00094  Ceramide biosynthesis [PATH:hsa00600]
+            hsa_M00099  Sphingosine biosynthesis [PATH:hsa00600]
+            hsa_M00100  Sphingosine degradation [PATH:hsa00600]
+NETWORK     nt06014  Sphingolipid degradation
+  ELEMENT   N00640  Hydrolysis of lactosylceramide
+            N00642  Saposin stimulation of GBA and GALC
+            N00644  Hydrolysis of galabiosylceramide
+            N00647  Hydrolysis of galactosylceramide sulfate
+            N00649  Hydrolysis of sphingomyelin
+DRUG        D02784  Agalsidase alfa (USAN/INN)
+            D03228  Agalsidase beta (INN)
+            D05031  Migalastat hydrochloride (JAN/USAN)
+            D05032  Miglustat (JAN/USAN/INN)
+            D09893  Eliglustat (USAN/INN)
+            D09894  Eliglustat tartrate (JAN/USAN)
+            D10820  Olipudase alfa (USAN/INN)
+            D11439  Lucerastat (JAN/USAN/INN)
+            D11633  Venglustat (USAN/INN)
+            D12462  Cebsulfase alfa (USAN)
+DBLINKS     GO: 0006665
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10558  SPTLC1; serine palmitoyltransferase long chain base subunit 1 [KO:K00654] [EC:2.3.1.50]
+            9517  SPTLC2; serine palmitoyltransferase long chain base subunit 2 [KO:K00654] [EC:2.3.1.50]
+            55304  SPTLC3; serine palmitoyltransferase long chain base subunit 3 [KO:K00654] [EC:2.3.1.50]
+            2531  KDSR; 3-ketodihydrosphingosine reductase [KO:K04708] [EC:1.1.1.102]
+            10715  CERS1; ceramide synthase 1 [KO:K04710] [EC:2.3.1.299]
+            29956  CERS2; ceramide synthase 2 [KO:K24621] [EC:2.3.1.297]
+            79603  CERS4; ceramide synthase 4 [KO:K24621] [EC:2.3.1.297]
+            204219  CERS3; ceramide synthase 3 [KO:K24622] [EC:2.3.1.297 2.3.1.298]
+            253782  CERS6; ceramide synthase 6 [KO:K23727] [EC:2.3.1.291]
+            91012  CERS5; ceramide synthase 5 [KO:K23727] [EC:2.3.1.291]
+            427  ASAH1; N-acylsphingosine amidohydrolase 1 [KO:K12348] [EC:3.5.1.23]
+            56624  ASAH2; N-acylsphingosine amidohydrolase 2 [KO:K12349] [EC:3.5.1.23]
+            340485  ACER2; alkaline ceramidase 2 [KO:K01441] [EC:3.5.1.23]
+            125981  ACER1; alkaline ceramidase 1 [KO:K01441] [EC:3.5.1.23]
+            55331  ACER3; alkaline ceramidase 3 [KO:K04711] [EC:3.5.1.-]
+            8560  DEGS1; delta 4-desaturase, sphingolipid 1 [KO:K04712] [EC:1.14.19.17 1.14.18.5]
+            123099  DEGS2; delta 4-desaturase, sphingolipid 2 [KO:K04712] [EC:1.14.19.17 1.14.18.5]
+            259230  SGMS1; sphingomyelin synthase 1 [KO:K04714] [EC:2.7.8.27]
+            166929  SGMS2; sphingomyelin synthase 2 [KO:K04714] [EC:2.7.8.27]
+            6609  SMPD1; sphingomyelin phosphodiesterase 1 [KO:K12350] [EC:3.1.4.12]
+            6610  SMPD2; sphingomyelin phosphodiesterase 2 [KO:K12351] [EC:3.1.4.12]
+            55512  SMPD3; sphingomyelin phosphodiesterase 3 [KO:K12352] [EC:3.1.4.12]
+            55627  SMPD4; sphingomyelin phosphodiesterase 4 [KO:K12353] [EC:3.1.4.12]
+            339221  ENPP7; ectonucleotide pyrophosphatase/phosphodiesterase 7 [KO:K12354] [EC:3.1.4.12]
+            64781  CERK; ceramide kinase [KO:K04715] [EC:2.7.1.138]
+            8611  PLPP1; phospholipid phosphatase 1 [KO:K01080] [EC:3.1.3.4]
+            8613  PLPP3; phospholipid phosphatase 3 [KO:K01080] [EC:3.1.3.4]
+            8612  PLPP2; phospholipid phosphatase 2 [KO:K01080] [EC:3.1.3.4]
+            81537  SGPP1; sphingosine-1-phosphate phosphatase 1 [KO:K04716] [EC:3.1.3.-]
+            130367  SGPP2; sphingosine-1-phosphate phosphatase 2 [KO:K04717] [EC:3.1.3.-]
+            8877  SPHK1; sphingosine kinase 1 [KO:K04718] [EC:2.7.1.91]
+            56848  SPHK2; sphingosine kinase 2 [KO:K04718] [EC:2.7.1.91]
+            8879  SGPL1; sphingosine-1-phosphate lyase 1 [KO:K01634] [EC:4.1.2.27]
+            7357  UGCG; UDP-glucose ceramide glucosyltransferase [KO:K00720] [EC:2.4.1.80]
+            2629  GBA1; glucosylceramidase beta 1 [KO:K01201] [EC:3.2.1.45]
+            57704  GBA2; glucosylceramidase beta 2 [KO:K17108] [EC:3.2.1.45]
+            9331  B4GALT6; beta-1,4-galactosyltransferase 6 [KO:K07553] [EC:2.4.1.274]
+            9334  B4GALT5; beta-1,4-galactosyltransferase 5 [KO:K09905] [EC:2.4.1.274 2.4.1.-]
+            2720  GLB1; galactosidase beta 1 [KO:K12309] [EC:3.2.1.23]
+            7368  UGT8; UDP glycosyltransferase 8 [KO:K04628] [EC:2.4.1.47]
+            2581  GALC; galactosylceramidase [KO:K01202] [EC:3.2.1.46]
+            9514  GAL3ST1; galactose-3-O-sulfotransferase 1 [KO:K01019] [EC:2.8.2.11]
+            410  ARSA; arylsulfatase A [KO:K01134] [EC:3.1.6.8]
+            4758  NEU1; neuraminidase 1 [KO:K01186] [EC:3.2.1.18]
+            10825  NEU3; neuraminidase 3 [KO:K12357] [EC:3.2.1.18]
+            129807  NEU4; neuraminidase 4 [KO:K12357] [EC:3.2.1.18]
+            4759  NEU2; neuraminidase 2 [KO:K12357] [EC:3.2.1.18]
+            2717  GLA; galactosidase alpha [KO:K01189] [EC:3.2.1.22]
+            2583  B4GALNT1; beta-1,4-N-acetyl-galactosaminyltransferase 1 [KO:K00725] [EC:2.4.1.92]
+            3073  HEXA; hexosaminidase subunit alpha [KO:K12373] [EC:3.2.1.52]
+            3074  HEXB; hexosaminidase subunit beta [KO:K12373] [EC:3.2.1.52]
+            5660  PSAP; prosaposin [KO:K12382]
+            768239  PSAPL1; prosaposin like 1 [KO:K12382]
+COMPOUND    C00065  L-Serine
+            C00154  Palmitoyl-CoA
+            C00195  N-Acylsphingosine
+            C00319  Sphingosine
+            C00346  Ethanolamine phosphate
+            C00550  Sphingomyelin
+            C00836  Sphinganine
+            C01120  Sphinganine 1-phosphate
+            C01190  Glucosylceramide
+            C01290  Lactosylceramide
+            C01747  Psychosine
+            C02686  Galactosylceramide
+            C02934  3-Dehydrosphinganine
+            C02960  Ceramide 1-phosphate
+            C03405  Lactosylceramide sulfate
+            C03640  Sphingosyl-phosphocholine
+            C05681  Ceramide 2-aminoethylphosphonate
+            C06062  Ceramide phosphoethanolamine
+            C06124  Sphingosine 1-phosphate
+            C06125  Sulfatide
+            C06126  Digalactosylceramide
+            C06127  Digalactosylceramide sulfate
+            C06128  GM4
+            C12126  Dihydroceramide
+            C12144  Phytosphingosine
+            C12145  Phytoceramide
+            C22467  Gangliotriaosylceramide-II3 sulfate
+REFERENCE   PMID:12011104
+  AUTHORS   Merrill AH Jr.
+  TITLE     De novo sphingolipid biosynthesis: a necessary, but dangerous, pathway.
+  JOURNAL   J Biol Chem 277:25843-6 (2002)
+            DOI:10.1074/jbc.R200009200
+REFERENCE   PMID:10652340
+  AUTHORS   Tani M, Okino N, Mitsutake S, Tanigawa T, Izu H, Ito M.
+  TITLE     Purification and characterization of a neutral ceramidase from mouse liver. A single protein catalyzes the reversible reaction in which ceramide is both hydrolyzed and synthesized.
+  JOURNAL   J Biol Chem 275:3462-8 (2000)
+            DOI:10.1074/jbc.275.5.3462
+REFERENCE   PMID:11305904
+  AUTHORS   Hannun YA, Luberto C, Argraves KM.
+  TITLE     Enzymes of sphingolipid metabolism: from modular to integrative signaling.
+  JOURNAL   Biochemistry 40:4893-903 (2001)
+            DOI:10.1021/bi002836k
+REFERENCE   PMID:1495423
+  AUTHORS   Merrill AH Jr, Wang E.
+  TITLE     Enzymes of ceramide biosynthesis.
+  JOURNAL   Methods Enzymol 209:427-37 (1992)
+            DOI:10.1016/0076-6879(92)09053-6
+REFERENCE   PMID:8457204
+  AUTHORS   Hirschberg K, Rodger J, Futerman AH.
+  TITLE     The long-chain sphingoid base of sphingolipids is acylated at the cytosolic surface of the endoplasmic reticulum in rat liver.
+  JOURNAL   Biochem J 290 ( Pt 3):751-7 (1993)
+            DOI:10.1042/bj2900751
+REFERENCE   PMID:10366774
+  AUTHORS   Dickson RC, Lester RL.
+  TITLE     Metabolism and selected functions of sphingolipids in the yeast Saccharomyces cerevisiae.
+  JOURNAL   Biochim Biophys Acta 1438:305-21 (1999)
+            DOI:10.1016/S1388-1981(99)00068-2
+REL_PATHWAY hsa00260  Glycine, serine and threonine metabolism
+            hsa00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            hsa00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            hsa00604  Glycosphingolipid biosynthesis - ganglio series
+KO_PATHWAY  ko00600
+///

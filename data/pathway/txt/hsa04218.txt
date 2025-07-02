@@ -1,0 +1,294 @@
+ENTRY       hsa04218                    Pathway
+NAME        Cellular senescence - Homo sapiens (human)
+DESCRIPTION Cellular senescence is a state of irreversible cellular arrest and can be triggered by a number of factors, such as telomere shortening, oncogene activation, irradiation, DNA damage and oxidative stress. It is characterized by enlarged flattened morphology, senescence-associated beta-galactosidase (SA-b-gal) activity, secretion of inflammatory cytokines, growth factors and matrix metalloproteinases, as part of the senescence-associated secretory phenotype (SASP). Cellular senescence is functionally associated with many biological processes including aging, tumor suppression, placental biology, embryonic development, and wound healing.
+CLASS       Cellular Processes; Cell growth and death
+PATHWAY_MAP hsa04218  Cellular senescence
+DRUG        D00107  Tacrolimus (USP/INN)
+            D00184  Cyclosporine (USP)
+            D01583  Pirfenidone (JAN/USAN/INN)
+            D05480  Pimecrolimus (JAN/USAN/INN)
+            D06160  Tiplasinin (USAN)
+            D08556  Tacrolimus (INN)
+            D08656  Aleplasinin (USAN/INN)
+            D09033  Voclosporin (JAN/USAN/INN)
+            D10983  Ruclosporin (USAN/INN)
+            D11148  Berzosertib (USAN/INN)
+            D11787  Ceralasertib (USAN/INN)
+            D12181  Edasalonexent (USAN/INN)
+            D12237  Zunsemetinib (USAN)
+            D12321  Camonsertib (USAN)
+DBLINKS     GO: 0090398
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            7046  TGFBR1; transforming growth factor beta receptor 1 [KO:K04674] [EC:2.7.11.30]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            4087  SMAD2; SMAD family member 2 [KO:K04500]
+            4088  SMAD3; SMAD family member 3 [KO:K23605]
+            1030  CDKN2B; cyclin dependent kinase inhibitor 2B [KO:K04685]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            595  CCND1; cyclin D1 [KO:K04503]
+            894  CCND2; cyclin D2 [KO:K10151]
+            896  CCND3; cyclin D3 [KO:K10152]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            5933  RBL1; RB transcriptional corepressor like 1 [KO:K04681]
+            5934  RBL2; RB transcriptional corepressor like 2 [KO:K16332]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            1874  E2F4; E2F transcription factor 4 [KO:K04682]
+            1875  E2F5; E2F transcription factor 5 [KO:K04682]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1017  CDK2; cyclin dependent kinase 2 [KO:K02206] [EC:2.7.11.22]
+            898  CCNE1; cyclin E1 [KO:K06626]
+            9134  CCNE2; cyclin E2 [KO:K06626]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            3805  KIR2DL4; killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 4 [KO:K24231]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            6237  RRAS; RAS related [KO:K07829]
+            22800  RRAS2; RAS related 2 [KO:K07830]
+            22808  MRAS; muscle RAS oncogene homolog [KO:K07831]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            7248  TSC1; TSC complex subunit 1 [KO:K07206]
+            7249  TSC2; TSC complex subunit 2 [KO:K07207]
+            6009  RHEB; Ras homolog, mTORC1 binding [KO:K07208]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            23411  SIRT1; sirtuin 1 [KO:K11411] [EC:2.3.1.286]
+            890  CCNA2; cyclin A2 [KO:K06627]
+            8900  CCNA1; cyclin A1 [KO:K06627]
+            4605  MYBL2; MYB proto-oncogene like 2 [KO:K21769]
+            286826  LIN9; lin-9 DREAM MuvB core complex component [KO:K21773]
+            55957  LIN37; lin-37 DREAM MuvB core complex component [KO:K21774]
+            91750  LIN52; lin-52 DREAM MuvB core complex component [KO:K21775]
+            132660  LIN54; lin-54 DREAM MuvB core complex component [KO:K21776]
+            5928  RBBP4; RB binding protein 4, chromatin remodeling factor [KO:K10752]
+            2305  FOXM1; forkhead box M1 [KO:K09406]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            1029  CDKN2A; cyclin dependent kinase inhibitor 2A [KO:K06621]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            83593  RASSF5; Ras association domain family member 5 [KO:K08015]
+            8945  BTRC; beta-transducin repeat containing E3 ubiquitin protein ligase [KO:K03362]
+            23291  FBXW11; F-box and WD repeat domain containing 11 [KO:K03362]
+            10114  HIPK3; homeodomain interacting protein kinase 3 [KO:K08826] [EC:2.7.11.1]
+            204851  HIPK1; homeodomain interacting protein kinase 1 [KO:K08826] [EC:2.7.11.1]
+            28996  HIPK2; homeodomain interacting protein kinase 2 [KO:K08826] [EC:2.7.11.1]
+            147746  HIPK4; homeodomain interacting protein kinase 4 [KO:K08826] [EC:2.7.11.1]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2113  ETS1; ETS proto-oncogene 1, transcription factor [KO:K02678]
+            5606  MAP2K3; mitogen-activated protein kinase kinase 3 [KO:K04432] [EC:2.7.12.2]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            983  CDK1; cyclin dependent kinase 1 [KO:K02087] [EC:2.7.11.22 2.7.11.23]
+            891  CCNB1; cyclin B1 [KO:K05868]
+            9133  CCNB2; cyclin B2 [KO:K21770]
+            85417  CCNB3; cyclin B3 [KO:K21771]
+            4361  MRE11; MRE11 homolog, double strand break repair nuclease [KO:K10865]
+            10111  RAD50; RAD50 double strand break repair protein [KO:K10866] [EC:3.6.-.-]
+            4683  NBN; nibrin [KO:K10867]
+            472  ATM; ATM serine/threonine kinase [KO:K04728] [EC:2.7.11.1]
+            11200  CHEK2; checkpoint kinase 2 [KO:K06641] [EC:2.7.11.1]
+            5883  RAD9A; RAD9 checkpoint clamp component A [KO:K10994] [EC:3.1.11.2]
+            144715  RAD9B; RAD9 checkpoint clamp component B [KO:K10995]
+            5810  RAD1; RAD1 checkpoint DNA exonuclease [KO:K02830] [EC:3.1.11.2]
+            3364  HUS1; HUS1 checkpoint clamp component [KO:K10903]
+            545  ATR; ATR serine/threonine kinase [KO:K06640] [EC:2.7.11.1]
+            1111  CHEK1; checkpoint kinase 1 [KO:K02216] [EC:2.7.11.1]
+            993  CDC25A; cell division cycle 25A [KO:K06645] [EC:3.1.3.48]
+            8878  SQSTM1; sequestosome 1 [KO:K14381]
+            2626  GATA4; GATA binding protein 4 [KO:K09183]
+            10758  TRAF3IP2; TRAF3 interacting protein 2 [KO:K21124]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            3552  IL1A; interleukin 1 alpha [KO:K04383]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            3486  IGFBP3; insulin like growth factor binding protein 3 [KO:K10138]
+            5054  SERPINE1; serpin family E member 1 [KO:K03982]
+            1978  EIF4EBP1; eukaryotic translation initiation factor 4E binding protein 1 [KO:K07205]
+            9261  MAPKAPK2; MAPK activated protein kinase 2 [KO:K04443] [EC:2.7.11.1]
+            677  ZFP36L1; ZFP36 ring finger protein like 1 [KO:K18753]
+            678  ZFP36L2; ZFP36 ring finger protein like 2 [KO:K18753]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            59341  TRPV4; transient receptor potential cation channel subfamily V member 4 [KO:K04973]
+            54822  TRPM7; transient receptor potential cation channel subfamily M member 7 [KO:K04982] [EC:2.7.11.1]
+            823  CAPN1; calpain 1 [KO:K01367] [EC:3.4.22.52]
+            824  CAPN2; calpain 2 [KO:K03853] [EC:3.4.22.53]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            4776  NFATC4; nuclear factor of activated T cells 4 [KO:K17334]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            291  SLC25A4; solute carrier family 25 member 4 [KO:K05863]
+            292  SLC25A5; solute carrier family 25 member 5 [KO:K05863]
+            293  SLC25A6; solute carrier family 25 member 6 [KO:K05863]
+            83447  SLC25A31; solute carrier family 25 member 31 [KO:K05863]
+            5481  PPID; peptidylprolyl isomerase D [KO:K05864] [EC:5.2.1.8]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            90550  MCU; mitochondrial calcium uniporter [KO:K20858]
+COMPOUND    C00027  Hydrogen peroxide
+            C00076  Calcium cation
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C07909  Sirolimus
+            C16844  Hydroxyl radical
+REFERENCE   PMID:24954210
+  AUTHORS   Munoz-Espin D, Serrano M
+  TITLE     Cellular senescence: from physiology to pathology.
+  JOURNAL   Nat Rev Mol Cell Biol 15:482-96 (2014)
+            DOI:10.1038/nrm3823
+REFERENCE   PMID:26646499
+  AUTHORS   Childs BG, Durik M, Baker DJ, van Deursen JM
+  TITLE     Cellular senescence in aging and age-related disease: from mechanisms to therapy.
+  JOURNAL   Nat Med 21:1424-35 (2015)
+            DOI:10.1038/nm.4000
+REFERENCE   PMID:26105537
+  AUTHORS   Sharpless NE, Sherr CJ
+  TITLE     Forging a signature of in vivo senescence.
+  JOURNAL   Nat Rev Cancer 15:397-408 (2015)
+            DOI:10.1038/nrc3960
+REFERENCE   PMID:26435346
+  AUTHORS   Fridlyanskaya I, Alekseenko L, Nikolsky N
+  TITLE     Senescence as a general cellular response to stress: A mini-review.
+  JOURNAL   Exp Gerontol 72:124-8 (2015)
+            DOI:10.1016/j.exger.2015.09.021
+REFERENCE   PMID:27417123
+  AUTHORS   Lujambio A
+  TITLE     To clear, or not to clear (senescent cells)? That is the question.
+  JOURNAL   Bioessays 38 Suppl 1:S56-64 (2016)
+            DOI:10.1002/bies.201670910
+REFERENCE   PMID:26564316
+  AUTHORS   Di Mitri D, Alimonti A
+  TITLE     Non-Cell-Autonomous Regulation of Cellular Senescence in Cancer.
+  JOURNAL   Trends Cell Biol 26:215-26 (2016)
+            DOI:10.1016/j.tcb.2015.10.005
+REFERENCE   PMID:27574725
+  AUTHORS   Francica P, Aebersold DM, Medova M
+  TITLE     Senescence as biologic endpoint following pharmacological targeting of receptor tyrosine kinases in cancer.
+  JOURNAL   Biochem Pharmacol 126:1-12 (2017)
+            DOI:10.1016/j.bcp.2016.08.022
+REFERENCE   PMID:23982440
+  AUTHORS   Bartling B
+  TITLE     Cellular senescence in normal and premature lung aging.
+  JOURNAL   Z Gerontol Geriatr 46:613-22 (2013)
+            DOI:10.1007/s00391-013-0543-3
+REFERENCE   PMID:24238962
+  AUTHORS   Munoz-Espin D, Canamero M, Maraver A, Gomez-Lopez G, Contreras J, Murillo-Cuesta S, Rodriguez-Baeza A, Varela-Nieto I, Ruberte J, Collado M, Serrano M
+  TITLE     Programmed cell senescence during mammalian embryonic development.
+  JOURNAL   Cell 155:1104-18 (2013)
+            DOI:10.1016/j.cell.2013.10.019
+REFERENCE   PMID:26697828
+  AUTHORS   Herranz N, Gallage S, Gil J
+  TITLE     TORn about SASP regulation.
+  JOURNAL   Cell Cycle 14:3771-2 (2015)
+            DOI:10.1080/15384101.2015.1105694
+REFERENCE   PMID:28410770
+  AUTHORS   Martin N, Bernard D
+  TITLE     Calcium signaling and cellular senescence.
+  JOURNAL   Cell Calcium S0143-4160(17)30049-0 (2017)
+            DOI:10.1016/j.ceca.2017.04.001
+REFERENCE   PMID:25764980
+  AUTHORS   Farfariello V, Iamshanova O, Germain E, Fliniaux I, Prevarskaya N
+  TITLE     Calcium homeostasis in cancer: A focus on senescence.
+  JOURNAL   Biochim Biophys Acta 1853:1974-9 (2015)
+            DOI:10.1016/j.bbamcr.2015.03.005
+REFERENCE   PMID:24062309
+  AUTHORS   McCarthy DA, Clark RR, Bartling TR, Trebak M, Melendez JA
+  TITLE     Redox control of the senescence regulator interleukin-1alpha and the secretory phenotype.
+  JOURNAL   J Biol Chem 288:32149-59 (2013)
+            DOI:10.1074/jbc.M113.493841
+REFERENCE   PMID:27288568
+  AUTHORS   Donninger H, Schmidt ML, Mezzanotte J, Barnoud T, Clark GJ
+  TITLE     Ras signaling through RASSF proteins.
+  JOURNAL   Semin Cell Dev Biol 58:86-95 (2016)
+            DOI:10.1016/j.semcdb.2016.06.007
+REFERENCE   PMID:28455242
+  AUTHORS   Barnoud T, Schmidt ML, Donninger H, Clark GJ
+  TITLE     The role of the NORE1A tumor suppressor in Oncogene-Induced Senescence.
+  JOURNAL   Cancer Lett 400:30-36 (2017)
+            DOI:10.1016/j.canlet.2017.04.030
+REFERENCE   PMID:26404840
+  AUTHORS   Kang C, Xu Q, Martin TD, Li MZ, Demaria M, Aron L, Lu T, Yankner BA, Campisi J, Elledge SJ
+  TITLE     The DNA damage response induces inflammation and senescence by inhibiting autophagy of GATA4.
+  JOURNAL   Science 349:aaa5612 (2015)
+            DOI:10.1126/science.aaa5612
+REFERENCE   PMID:26777575
+  AUTHORS   Cao X, Li M
+  TITLE     A New Pathway for Senescence Regulation.
+  JOURNAL   Genomics Proteomics Bioinformatics 13:333-5 (2015)
+            DOI:10.1016/j.gpb.2015.11.002
+REFERENCE   PMID:25564883
+  AUTHORS   Gire V, Dulic V
+  TITLE     Senescence from G2 arrest, revisited.
+  JOURNAL   Cell Cycle 14:297-304 (2015)
+            DOI:10.1080/15384101.2014.1000134
+REFERENCE   PMID:24981831
+  AUTHORS   Mowla SN, Lam EW, Jat PS
+  TITLE     Cellular senescence and aging: the role of B-MYB.
+  JOURNAL   Aging Cell 13:773-9 (2014)
+            DOI:10.1111/acel.12242
+REFERENCE   PMID:22546858
+  AUTHORS   Yao H, Chung S, Hwang JW, Rajendrasozhan S, Sundar IK, Dean DA, McBurney MW, Guarente L, Gu W, Ronty M, Kinnula VL, Rahman I
+  TITLE     SIRT1 protects against emphysema via FOXO3-mediated reduction of premature senescence in mice.
+  JOURNAL   J Clin Invest 122:2032-45 (2012)
+            DOI:10.1172/JCI60132
+REFERENCE   PMID:23542362
+  AUTHORS   Hwang JW, Yao H, Caito S, Sundar IK, Rahman I
+  TITLE     Redox regulation of SIRT1 in inflammation and cellular senescence.
+  JOURNAL   Free Radic Biol Med 61:95-110 (2013)
+            DOI:10.1016/j.freeradbiomed.2013.03.015
+REL_PATHWAY hsa04020  Calcium signaling pathway
+            hsa04068  FoxO signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04150  mTOR signaling pathway
+KO_PATHWAY  ko04218
+///

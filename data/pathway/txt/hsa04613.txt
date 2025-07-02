@@ -1,0 +1,362 @@
+ENTRY       hsa04613                    Pathway
+NAME        Neutrophil extracellular trap formation - Homo sapiens (human)
+DESCRIPTION Neutrophils play a central role in innate immune defense. One of the mechanisms of neutrophil action is the formation of neutrophil extracellular traps (NETs), the extracellular structures composed of chromatin coated with histones, proteases and granular and cytosolic proteins that help catch and kill microorganisms. NETs are formed by a process known as "NETosis" that can be triggered by microorganisms and endogenous stimuli, such as damage-associated molecular patterns and immune complexes, and involves activation in most cases of nicotinamide adenine dinucleotide phosphate (NADPH)-oxidase, which produces reactive oxygen species (ROS). Recent study has reported that there are two different mechanisms of NETosis, including a lytic NETosis and a vital NETosis. Lytic NETosis begins with nuclear delobulation and the disassembly of the nuclear envelope and continues with loss of cellular polarization, chromatin decondensation and plasma membrane rupture. Vital NETosis can occur independently of cell death and involves the secreted expulsion of nuclear chromatin that is accompanied by the release of granule proteins through degranulation.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04613  Neutrophil extracellular trap formation
+DRUG        D01666  Bropirimine (JAN/USAN/INN)
+            D02500  Imiquimod (JAN/USP/INN)
+            D04619  Isatoribine (USAN)
+            D04787  Loxoribine (USAN/INN)
+            D11003  Vesatolimod (USAN/INN)
+            D11480  Crizanlizumab (USAN/INN)
+            D11871  Selgantolimod (USAN/INN)
+            D12261  Enpatoran (USAN/INN)
+            D12356  Zilucoplan sodium (JAN)
+            D12357  Zilucoplan (USAN/INN)
+            D12453  Guretolimod (USAN/INN)
+            D12521  Ruzotolimod (USAN/INN)
+            D12551  Bocodepsin (USAN)
+            D12552  Bocodepsin besylate (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2214  FCGR3A; Fc gamma receptor IIIa [KO:K06463]
+            2215  FCGR3B; Fc gamma receptor IIIb [KO:K06463]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            27180  SIGLEC9; sialic acid binding Ig like lectin 9 [KO:K06740]
+            1536  CYBB; cytochrome b-245 beta chain [KO:K21421] [EC:1.-.-.-]
+            653361  NCF1; neutrophil cytosolic factor 1 [KO:K08011]
+            1535  CYBA; cytochrome b-245 alpha chain [KO:K08009]
+            4688  NCF2; neutrophil cytosolic factor 2 [KO:K08010]
+            4689  NCF4; neutrophil cytosolic factor 4 [KO:K08012]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            51284  TLR7; toll like receptor 7 [KO:K05404]
+            51311  TLR8; toll like receptor 8 [KO:K10170]
+            1991  ELANE; elastase, neutrophil expressed [KO:K01327] [EC:3.4.21.37]
+            4353  MPO; myeloperoxidase [KO:K10789] [EC:1.11.2.2]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            291  SLC25A4; solute carrier family 25 member 4 [KO:K05863]
+            292  SLC25A5; solute carrier family 25 member 5 [KO:K05863]
+            293  SLC25A6; solute carrier family 25 member 6 [KO:K05863]
+            83447  SLC25A31; solute carrier family 25 member 31 [KO:K05863]
+            10105  PPIF; peptidylprolyl isomerase F [KO:K09565] [EC:5.2.1.8]
+            23569  PADI4; peptidyl arginine deiminase 4 [KO:K24669] [EC:3.5.3.15]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            2209  FCGR1A; Fc gamma receptor Ia [KO:K06498]
+            2212  FCGR2A; Fc gamma receptor IIa [KO:K06472]
+            3684  ITGAM; integrin subunit alpha M [KO:K06461]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            3683  ITGAL; integrin subunit alpha L [KO:K05718]
+            64581  CLEC7A; C-type lectin domain containing 7A [KO:K10074]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            10533  ATG7; autophagy related 7 [KO:K08337]
+            2357  FPR1; formyl peptide receptor 1 [KO:K04172]
+            2359  FPR3; formyl peptide receptor 3 [KO:K04173]
+            2358  FPR2; formyl peptide receptor 2 [KO:K04173]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            718  C3; complement C3 [KO:K03990]
+            1378  CR1; complement C3b/C4b receptor 1 (Knops blood group) [KO:K04011]
+            1379  CR1L; complement C3b/C4b receptor 1 like [KO:K04011]
+            727  C5; complement C5 [KO:K03994]
+            728  C5AR1; complement C5a receptor 1 [KO:K04010]
+            3146  HMGB1; high mobility group box 1 [KO:K10802]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            3674  ITGA2B; integrin subunit alpha 2b [KO:K06476]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            2243  FGA; fibrinogen alpha chain [KO:K03903]
+            2244  FGB; fibrinogen beta chain [KO:K03904]
+            2266  FGG; fibrinogen gamma chain [KO:K03905]
+            2811  GP1BA; glycoprotein Ib platelet subunit alpha [KO:K06261]
+            7450  VWF; von Willebrand factor [KO:K03900]
+            6403  SELP; selectin P [KO:K06496]
+            6404  SELPLG; selectin P ligand [KO:K06544]
+            177  AGER; advanced glycosylation end-product specific receptor [KO:K19722]
+            837  CASP4; caspase 4 [KO:K04394] [EC:3.4.22.57 3.4.22.64]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+            79792  GSDMD; gasdermin D [KO:K20917]
+            8520  HAT1; histone acetyltransferase 1 [KO:K11303] [EC:2.3.1.48]
+            3014  H2AX; H2A.X variant histone [KO:K11251]
+            8338  H2AC20; H2A clustered histone 20 [KO:K11251]
+            85235  H2AC12; H2A clustered histone 12 [KO:K11251]
+            221613  H2AC1; H2A clustered histone 1 [KO:K11251]
+            92815  H2AC25; H2A clustered histone 25 [KO:K11251]
+            83740  H2AB3; H2A.B variant histone 3 [KO:K11251]
+            3012  H2AC8; H2A clustered histone 8 [KO:K11251]
+            8335  H2AC4; H2A clustered histone 4 [KO:K11251]
+            55506  MACROH2A2; macroH2A.2 histone [KO:K11251]
+            9555  MACROH2A1; macroH2A.1 histone [KO:K11251]
+            723790  H2AC19; H2A clustered histone 19 [KO:K11251]
+            55766  H2AJ; H2A.J histone [KO:K11251]
+            474382  H2AB1; H2A.B variant histone 1 [KO:K11251]
+            8336  H2AC17; H2A clustered histone 17 [KO:K11251]
+            8337  H2AC18; H2A clustered histone 18 [KO:K11251]
+            8969  H2AC11; H2A clustered histone 11 [KO:K11251]
+            317772  H2AC21; H2A clustered histone 21 [KO:K11251]
+            94239  H2AZ2; H2A.Z variant histone 2 [KO:K11251]
+            3013  H2AC7; H2A clustered histone 7 [KO:K11251]
+            3015  H2AZ1; H2A.Z variant histone 1 [KO:K11251]
+            8330  H2AC15; H2A clustered histone 15 [KO:K11251]
+            8334  H2AC6; H2A clustered histone 6 [KO:K11251]
+            8329  H2AC13; H2A clustered histone 13 [KO:K11251]
+            8331  H2AC14; H2A clustered histone 14 [KO:K11251]
+            8332  H2AC16; H2A clustered histone 16 [KO:K11251]
+            474381  H2AB2; H2A.B variant histone 2 [KO:K11251]
+            8341  H2BC15; H2B clustered histone 15 [KO:K11252]
+            8345  H2BC9; H2B clustered histone 9 [KO:K11252]
+            8342  H2BC14; H2B clustered histone 14 [KO:K11252]
+            158983  H2BW1; H2B.W histone 1 [KO:K11252]
+            255626  H2BC1; H2B clustered histone 1 [KO:K11252]
+            440689  H2BC18; H2B clustered histone 18 [KO:K11252]
+            8348  H2BC17; H2B clustered histone 17 [KO:K11252]
+            3018  H2BC3; H2B clustered histone 3 [KO:K11252]
+            8339  H2BC8; H2B clustered histone 8 [KO:K11252]
+            8340  H2BC13; H2B clustered histone 13 [KO:K11252]
+            8347  H2BC4; H2B clustered histone 4 [KO:K11252]
+            3017  H2BC5; H2B clustered histone 5 [KO:K11252]
+            8344  H2BC6; H2B clustered histone 6 [KO:K11252]
+            8346  H2BC10; H2B clustered histone 10 [KO:K11252]
+            8349  H2BC21; H2B clustered histone 21 [KO:K11252]
+            8970  H2BC11; H2B clustered histone 11 [KO:K11252]
+            85236  H2BC12; H2B clustered histone 12 [KO:K11252]
+            128312  H2BC26; H2B clustered histone 26 [KO:K11252]
+            8343  H2BC7; H2B clustered histone 7 [KO:K11252]
+            286436  H2BW2; H2B.W histone 2 [KO:K11252]
+            102724334  histone H2B type F-S-like [KO:K11252]
+            114483833  H2BK1; H2B.K variant histone 1 [KO:K11252]
+            54145  H2BC12L; H2B clustered histone 12 like [KO:K11252]
+            121504  H4C16; H4 histone 16 [KO:K11254]
+            554313  H4C15; H4 clustered histone 15 [KO:K11254]
+            8294  H4C9; H4 clustered histone 9 [KO:K11254]
+            8360  H4C4; H4 clustered histone 4 [KO:K11254]
+            8361  H4C6; H4 clustered histone 6 [KO:K11254]
+            8362  H4C12; H4 clustered histone 12 [KO:K11254]
+            8363  H4C11; H4 clustered histone 11 [KO:K11254]
+            8364  H4C3; H4 clustered histone 3 [KO:K11254]
+            8365  H4C8; H4 clustered histone 8 [KO:K11254]
+            8366  H4C2; H4 clustered histone 2 [KO:K11254]
+            8367  H4C5; H4 clustered histone 5 [KO:K11254]
+            8368  H4C13; H4 clustered histone 13 [KO:K11254]
+            8370  H4C14; H4 clustered histone 14 [KO:K11254]
+            8359  H4C1; H4 clustered histone 1 [KO:K11254]
+            8369  H4C7; H4 clustered histone 7 [KO:K11254]
+            440093  H3-5; H3.5 histone [KO:K11253]
+            3021  H3-3B; H3.3 histone B [KO:K11253]
+            8351  H3C4; H3 clustered histone 4 [KO:K11253]
+            8352  H3C3; H3 clustered histone 3 [KO:K11253]
+            8350  H3C1; H3 clustered histone 1 [KO:K11253]
+            3020  H3-3A; H3.3 histone A [KO:K11253]
+            8290  H3-4; H3.4 histone, cluster member [KO:K11253]
+            126961  H3C14; H3 clustered histone 14 [KO:K11253]
+            333932  H3C15; H3 clustered histone 15 [KO:K11253]
+            653604  H3C13; H3 clustered histone 13 [KO:K11253]
+            8353  H3C6; H3 clustered histone 6 [KO:K11253]
+            8354  H3C11; H3 clustered histone 11 [KO:K11253]
+            8355  H3C8; H3 clustered histone 8 [KO:K11253]
+            8356  H3C12; H3 clustered histone 12 [KO:K11253]
+            8357  H3C10; H3 clustered histone 10 [KO:K11253]
+            8358  H3C2; H3 clustered histone 2 [KO:K11253]
+            8968  H3C7; H3 clustered histone 7 [KO:K11253]
+            3065  HDAC1; histone deacetylase 1 [KO:K06067] [EC:3.5.1.98]
+            3066  HDAC2; histone deacetylase 2 [KO:K06067] [EC:3.5.1.98]
+            8841  HDAC3; histone deacetylase 3 [KO:K11404] [EC:3.5.1.98]
+            9759  HDAC4; histone deacetylase 4 [KO:K11406] [EC:3.5.1.98]
+            10014  HDAC5; histone deacetylase 5 [KO:K11406] [EC:3.5.1.98]
+            10013  HDAC6; histone deacetylase 6 [KO:K11407] [EC:3.5.1.98]
+            51564  HDAC7; histone deacetylase 7 [KO:K11408] [EC:3.5.1.98]
+            55869  HDAC8; histone deacetylase 8 [KO:K11405] [EC:3.5.1.98]
+            9734  HDAC9; histone deacetylase 9 [KO:K11409] [EC:3.5.1.98]
+            83933  HDAC10; histone deacetylase 10 [KO:K18671] [EC:3.5.1.98]
+            79885  HDAC11; histone deacetylase 11 [KO:K11418] [EC:3.5.1.98]
+            566  AZU1; azurocidin 1 [KO:K24665]
+            1511  CTSG; cathepsin G [KO:K01319] [EC:3.4.21.20]
+            820  CAMP; cathelicidin antimicrobial peptide [KO:K13916]
+            1182  CLCN3; chloride voltage-gated channel 3 [KO:K05012]
+            1183  CLCN4; chloride voltage-gated channel 4 [KO:K05012]
+            1184  CLCN5; chloride voltage-gated channel 5 [KO:K05012]
+            366  AQP9; aquaporin 9 [KO:K09877]
+COMPOUND    C00027  Hydrogen peroxide
+            C00039  DNA
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00338  Lipopolysaccharide
+            C00464  Mannan
+            C00518  Hyaluronate
+            C00551  beta-D-Glucan
+            C00704  Superoxide
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05151  12-O-Tetradecanoylphorbol 13-acetate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C11221  Formylmethionyl-leucyl-phenylalanine methyl ester
+REFERENCE   PMID:29543328
+  AUTHORS   Van Avondt K, Hartl D
+  TITLE     Mechanisms and disease relevance of neutrophil extracellular trap formation.
+  JOURNAL   Eur J Clin Invest 48 Suppl 2:e12919 (2018)
+            DOI:10.1111/eci.12919
+REFERENCE   PMID:31518165
+  AUTHORS   Sorvillo N, Cherpokova D, Martinod K, Wagner DD
+  TITLE     Extracellular DNA NET-Works With Dire Consequences for Health.
+  JOURNAL   Circ Res 125:470-488 (2019)
+            DOI:10.1161/CIRCRESAHA.119.314581
+REFERENCE   PMID:28990587
+  AUTHORS   Papayannopoulos V
+  TITLE     Neutrophil extracellular traps in immunity and disease.
+  JOURNAL   Nat Rev Immunol 18:134-147 (2018)
+            DOI:10.1038/nri.2017.105
+REFERENCE   PMID:24837201
+  AUTHORS   Liu FC, Chuang YH, Tsai YF, Yu HP
+  TITLE     Role of neutrophil extracellular traps following injury.
+  JOURNAL   Shock 41:491-8 (2014)
+            DOI:10.1097/SHK.0000000000000146
+REFERENCE   PMID:27570525
+  AUTHORS   Yang H, Biermann MH, Brauner JM, Liu Y, Zhao Y, Herrmann M
+  TITLE     New Insights into Neutrophil Extracellular Traps: Mechanisms of Formation and Role in Inflammation.
+  JOURNAL   Front Immunol 7:302 (2016)
+            DOI:10.3389/fimmu.2016.00302
+REFERENCE   PMID:28983472
+  AUTHORS   Zawrotniak M, Bochenska O, Karkowska-Kuleta J, Seweryn-Ozog K, Aoki W, Ueda M, Kozik A, Rapala-Kozik M
+  TITLE     Aspartic Proteases and Major Cell Wall Components in Candida albicans Trigger the Release of Neutrophil Extracellular Traps.
+  JOURNAL   Front Cell Infect Microbiol 7:414 (2017)
+            DOI:10.3389/fcimb.2017.00414
+REFERENCE   PMID:29382950
+  AUTHORS   Honda M, Kubes P
+  TITLE     Neutrophils and neutrophil extracellular traps in the liver and gastrointestinal system.
+  JOURNAL   Nat Rev Gastroenterol Hepatol 15:206-221 (2018)
+            DOI:10.1038/nrgastro.2017.183
+REFERENCE   PMID:31416265
+  AUTHORS   Hamam HJ, Palaniyar N
+  TITLE     Post-Translational Modifications in NETosis and NETs-Mediated Diseases.
+  JOURNAL   Biomolecules 9:E369 (2019)
+            DOI:10.3390/biom9080369
+REFERENCE   PMID:31767647
+  AUTHORS   Burgener SS, Schroder K
+  TITLE     Neutrophil Extracellular Traps in Host Defense.
+  JOURNAL   Cold Spring Harb Perspect Biol 12:a037028 (2020)
+            DOI:10.1101/cshperspect.a037028
+REFERENCE   PMID:33202203
+  AUTHORS   Vorobjeva NV, Chernyak BV
+  TITLE     NETosis: Molecular Mechanisms, Role in Physiology and Pathology.
+  JOURNAL   Biochemistry (Mosc) 85:1178-1190 (2020)
+            DOI:10.1134/S0006297920100065
+REFERENCE   PMID:31416173
+  AUTHORS   Ravindran M, Khan MA, Palaniyar N
+  TITLE     Neutrophil Extracellular Trap Formation: Physiology, Pathology, and Pharmacology.
+  JOURNAL   Biomolecules 9:E365 (2019)
+            DOI:10.3390/biom9080365
+REFERENCE   PMID:28267716
+  AUTHORS   Jorch SK, Kubes P
+  TITLE     An emerging role for neutrophil extracellular traps in noninfectious disease.
+  JOURNAL   Nat Med 23:279-287 (2017)
+            DOI:10.1038/nm.4294
+REFERENCE   PMID:31342866
+  AUTHORS   Goggs R, Jeffery U, LeVine DN, Li RHL
+  TITLE     Neutrophil-Extracellular Traps, Cell-Free DNA, and Immunothrombosis in Companion Animals: A Review.
+  JOURNAL   Vet Pathol 57:6-23 (2020)
+            DOI:10.1177/0300985819861721
+REFERENCE   PMID:27876233
+  AUTHORS   Kim SJ, Jenne CN
+  TITLE     Role of platelets in neutrophil extracellular trap (NET) production and tissue injury.
+  JOURNAL   Semin Immunol 28:546-554 (2016)
+            DOI:10.1016/j.smim.2016.10.013
+REFERENCE   PMID:29572545
+  AUTHORS   de Bont CM, Boelens WC, Pruijn GJM
+  TITLE     NETosis, complement, and coagulation: a triangular relationship.
+  JOURNAL   Cell Mol Immunol 16:19-27 (2019)
+            DOI:10.1038/s41423-018-0024-0
+REFERENCE   PMID:31129510
+  AUTHORS   Zawrotniak M, Bartnicka D, Rapala-Kozik M
+  TITLE     UVA and UVB radiation induce the formation of neutrophil extracellular traps by human polymorphonuclear cells.
+  JOURNAL   J Photochem Photobiol B 196:111511 (2019)
+            DOI:10.1016/j.jphotobiol.2019.111511
+REFERENCE   PMID:21293492
+  AUTHORS   Remijsen Q, Kuijpers TW, Wirawan E, Lippens S, Vandenabeele P, Vanden Berghe T
+  TITLE     Dying for a cause: NETosis, mechanisms behind an antimicrobial cell death modality.
+  JOURNAL   Cell Death Differ 18:581-8 (2011)
+            DOI:10.1038/cdd.2011.1
+REFERENCE   PMID:23819131
+  AUTHORS   Zawrotniak M, Rapala-Kozik M
+  TITLE     Neutrophil extracellular traps (NETs) - formation and implications.
+  JOURNAL   Acta Biochim Pol 60:277-84 (2013)
+REFERENCE   PMID:28373871
+  AUTHORS   Rosales C
+  TITLE     Fcgamma Receptor Heterogeneity in Leukocyte Functional Responses.
+  JOURNAL   Front Immunol 8:280 (2017)
+            DOI:10.3389/fimmu.2017.00280
+REFERENCE   PMID:25716722
+  AUTHORS   Vorobjeva NV, Pinegin BV
+  TITLE     Neutrophil extracellular traps: mechanisms of formation and role in health and disease.
+  JOURNAL   Biochemistry (Mosc) 79:1286-96 (2014)
+            DOI:10.1134/S0006297914120025
+REFERENCE   PMID:28220120
+  AUTHORS   Delgado-Rizo V, Martinez-Guzman MA, Iniguez-Gutierrez L, Garcia-Orozco A, Alvarado-Navarro A, Fafutis-Morris M
+  TITLE     Neutrophil Extracellular Traps and Its Implications in Inflammation: An Overview.
+  JOURNAL   Front Immunol 8:81 (2017)
+            DOI:10.3389/fimmu.2017.00081
+REFERENCE   PMID:30023352
+  AUTHORS   Fonseca Z, Diaz-Godinez C, Mora N, Aleman OR, Uribe-Querol E, Carrero JC, Rosales C
+  TITLE     Entamoeba histolytica Induce Signaling via Raf/MEK/ERK for Neutrophil Extracellular Trap (NET) Formation.
+  JOURNAL   Front Cell Infect Microbiol 8:226 (2018)
+            DOI:10.3389/fcimb.2018.00226
+REFERENCE   PMID:27923601
+  AUTHORS   Agraz-Cibrian JM, Giraldo DM, Mary FM, Urcuqui-Inchima S
+  TITLE     Understanding the molecular mechanisms of NETs and their role in antiviral innate immunity.
+  JOURNAL   Virus Res 228:124-133 (2017)
+            DOI:10.1016/j.virusres.2016.11.033
+REFERENCE   PMID:27698656
+  AUTHORS   Schonrich G, Raftery MJ
+  TITLE     Neutrophil Extracellular Traps Go Viral.
+  JOURNAL   Front Immunol 7:366 (2016)
+            DOI:10.3389/fimmu.2016.00366
+REFERENCE   PMID:22817992
+  AUTHORS   Saitoh T, Komano J, Saitoh Y, Misawa T, Takahama M, Kozaki T, Uehata T, Iwasaki H, Omori H, Yamaoka S, Yamamoto N, Akira S
+  TITLE     Neutrophil extracellular traps mediate a host defense response to human immunodeficiency virus-1.
+  JOURNAL   Cell Host Microbe 12:109-16 (2012)
+            DOI:10.1016/j.chom.2012.05.015
+REFERENCE   PMID:29908538
+  AUTHORS   Kumar S, Gupta E, Kaushik S, Jyoti A
+  TITLE     Neutrophil Extracellular Traps: Formation and Involvement in Disease Progression.
+  JOURNAL   Iran J Allergy Asthma Immunol 17:208-220 (2018)
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04610  Complement and coagulation cascades
+            hsa04611  Platelet activation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04666  Fc gamma R-mediated phagocytosis
+KO_PATHWAY  ko04613
+///

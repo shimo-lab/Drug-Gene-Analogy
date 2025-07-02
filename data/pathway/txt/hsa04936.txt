@@ -1,0 +1,338 @@
+ENTRY       hsa04936                    Pathway
+NAME        Alcoholic liver disease - Homo sapiens (human)
+DESCRIPTION Alcoholic liver disease (ALD) refers to the damages to the liver and its functions due to alcohol overconsumption. It ranges from simple steatosis to steatohepatitis, cirrhosis, and even hepatocellular carcinoma. Alcohol consumption promotes liver inflammation by increasing the translocation of gut-derived endotoxins to the portal circulation and activating Kupffer cells to produce TNF-alpha through the LPS/Toll like receptor (TLR) 4 pathways. TNF-alpha induces hepatocellular damage. When alcohol intake is chronic and heavy, steatosis is caused via generation of acetaldehyde, reactive oxygen species (ROS) and ER stress. ROS inhibits key hepatic transcriptional regulators such as AMP-activated kinase (AMPK) and peroxisome proliferator-activated receptor alpha (PPAR-alpha), which are responsible for fatty acid oxidation and export via ACC and CPT-1. The blockade of AMPK also leads to overexpression of SREBP-1, resulting in an increase of de novo lipogenesis. Moreover, excessive intracellular ROS production induced by ethanol and its metabolite have a critical role in ethanol-induced apoptosis, which may be the critical process in the exacerbation of ALD. It is inferred that the apoptotic signal derived from ROS that was produced by NOX, is mainly transduced through the JNK and p38 MAPK pathways.
+CLASS       Human Diseases; Endocrine and metabolic disease
+PATHWAY_MAP hsa04936  Alcoholic liver disease
+DISEASE     H02516  Alcoholic liver disease
+DRUG        D12391  Denifanstat (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        712  C1QA; complement C1q A chain [KO:K03986]
+            713  C1QB; complement C1q B chain [KO:K03987]
+            714  C1QC; complement C1q C chain [KO:K03988]
+            717  C2; complement C2 [KO:K01332] [EC:3.4.21.43]
+            720  C4A; complement C4A (Rodgers blood group) [KO:K03989]
+            721  C4B; complement C4B (Chido blood group) [KO:K03989]
+            718  C3; complement C3 [KO:K03990]
+            719  C3AR1; complement C3a receptor 1 [KO:K04009]
+            727  C5; complement C5 [KO:K03994]
+            728  C5AR1; complement C5a receptor 1 [KO:K04010]
+            3929  LBP; lipopolysaccharide binding protein [KO:K05399]
+            929  CD14; CD14 molecule [KO:K04391]
+            23643  LY96; lymphocyte antigen 96 [KO:K05400]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            114609  TIRAP; TIR domain containing adaptor protein [KO:K05403]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            10454  TAB1; TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [KO:K04403]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            148022  TICAM1; TIR domain containing adaptor molecule 1 [KO:K05842]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            3605  IL17A; interleukin 17A [KO:K05489]
+            23765  IL17RA; interleukin 17 receptor A [KO:K05164]
+            84818  IL17RC; interleukin 17 receptor C [KO:K05166]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            8737  RIPK1; receptor interacting serine/threonine kinase 1 [KO:K02861] [EC:2.7.11.1]
+            257397  TAB3; TGF-beta activated kinase 1 (MAP3K7) binding protein 3 [KO:K12793]
+            6720  SREBF1; sterol regulatory element binding transcription factor 1 [KO:K07197]
+            2194  FASN; fatty acid synthase [KO:K00665] [EC:2.3.1.85]
+            31  ACACA; acetyl-CoA carboxylase alpha [KO:K11262] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            6319  SCD; stearoyl-CoA desaturase [KO:K00507] [EC:1.14.19.1]
+            79966  SCD5; stearoyl-CoA desaturase 5 [KO:K00507] [EC:1.14.19.1]
+            23175  LPIN1; lipin 1 [KO:K15728] [EC:3.1.3.4]
+            64900  LPIN3; lipin 3 [KO:K15728] [EC:3.1.3.4]
+            9663  LPIN2; lipin 2 [KO:K15728] [EC:3.1.3.4]
+            406999  MIR217; microRNA 217 [KO:K17125]
+            23411  SIRT1; sirtuin 1 [KO:K11411] [EC:2.3.1.286]
+            29896  TRA2A; transformer 2 alpha homolog [KO:K12897]
+            6434  TRA2B; transformer 2 beta homolog [KO:K12897]
+            9370  ADIPOQ; adiponectin, C1Q and collagen domain containing [KO:K07296]
+            51094  ADIPOR1; adiponectin receptor 1 [KO:K07297]
+            79602  ADIPOR2; adiponectin receptor 2 [KO:K07297]
+            10645  CAMKK2; calcium/calmodulin dependent protein kinase kinase 2 [KO:K07359] [EC:2.7.11.17]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            10891  PPARGC1A; PPARG coactivator 1 alpha [KO:K07202]
+            5465  PPARA; peroxisome proliferator activated receptor alpha [KO:K07294]
+            1374  CPT1A; carnitine palmitoyltransferase 1A [KO:K08765] [EC:2.3.1.21]
+            37  ACADVL; acyl-CoA dehydrogenase very long chain [KO:K09479] [EC:1.3.8.9]
+            34  ACADM; acyl-CoA dehydrogenase medium chain [KO:K00249] [EC:1.3.8.7]
+            8310  ACOX3; acyl-CoA oxidase 3, pristanoyl [KO:K00232] [EC:1.3.3.6]
+            51  ACOX1; acyl-CoA oxidase 1 [KO:K00232] [EC:1.3.3.6]
+            2168  FABP1; fatty acid binding protein 1 [KO:K08750]
+            124  ADH1A; alcohol dehydrogenase 1A (class I), alpha polypeptide [KO:K13951] [EC:1.1.1.1]
+            125  ADH1B; alcohol dehydrogenase 1B (class I), beta polypeptide [KO:K13951] [EC:1.1.1.1]
+            126  ADH1C; alcohol dehydrogenase 1C (class I), gamma polypeptide [KO:K13951] [EC:1.1.1.1]
+            131  ADH7; alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [KO:K13951] [EC:1.1.1.1]
+            127  ADH4; alcohol dehydrogenase 4 (class II), pi polypeptide [KO:K13980] [EC:1.1.1.1]
+            128  ADH5; alcohol dehydrogenase 5 (class III), chi polypeptide [KO:K00121] [EC:1.1.1.284 1.1.1.1]
+            130  ADH6; alcohol dehydrogenase 6 (class V) [KO:K13952] [EC:1.1.1.1]
+            217  ALDH2; aldehyde dehydrogenase 2 family member [KO:K00128] [EC:1.2.1.3]
+            224  ALDH3A2; aldehyde dehydrogenase 3 family member A2 [KO:K00128] [EC:1.2.1.3]
+            219  ALDH1B1; aldehyde dehydrogenase 1 family member B1 [KO:K00128] [EC:1.2.1.3]
+            501  ALDH7A1; aldehyde dehydrogenase 7 family member A1 [KO:K14085] [EC:1.2.1.31 1.2.1.8 1.2.1.3]
+            223  ALDH9A1; aldehyde dehydrogenase 9 family member A1 [KO:K00149] [EC:1.2.1.47 1.2.1.3]
+            1571  CYP2E1; cytochrome P450 family 2 subfamily E member 1 [KO:K07415] [EC:1.14.14.-]
+            32  ACACB; acetyl-CoA carboxylase beta [KO:K01946] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            23417  MLYCD; malonyl-CoA decarboxylase [KO:K01578] [EC:4.1.1.9]
+            1375  CPT1B; carnitine palmitoyltransferase 1B [KO:K19523] [EC:2.3.1.21]
+            126129  CPT1C; carnitine palmitoyltransferase 1C [KO:K19524] [EC:2.3.1.21]
+            50507  NOX4; NADPH oxidase 4 [KO:K21423] [EC:1.6.3.-]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            6932  TCF7; transcription factor 7 [KO:K02620]
+            83439  TCF7L1; transcription factor 7 like 1 [KO:K04490]
+            6934  TCF7L2; transcription factor 7 like 2 [KO:K04491]
+            51176  LEF1; lymphoid enhancer binding factor 1 [KO:K04492]
+            595  CCND1; cyclin D1 [KO:K04503]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5606  MAP2K3; mitogen-activated protein kinase kinase 3 [KO:K04432] [EC:2.7.12.2]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            9020  MAP3K14; mitogen-activated protein kinase kinase kinase 14 [KO:K04466] [EC:2.7.11.25]
+COMPOUND    C00003  NAD+
+            C00005  NADPH
+            C00006  NADP+
+            C00024  Acetyl-CoA
+            C00033  Acetate
+            C00040  Acyl-CoA
+            C00076  Calcium cation
+            C00083  Malonyl-CoA
+            C00084  Acetaldehyde
+            C00469  Ethanol
+            C22381  Reactive oxygen species
+REFERENCE   PMID:25782093
+  AUTHORS   Louvet A, Mathurin P
+  TITLE     Alcoholic liver disease: mechanisms of injury and targeted treatment.
+  JOURNAL   Nat Rev Gastroenterol Hepatol 12:231-42 (2015)
+            DOI:10.1038/nrgastro.2015.35
+REFERENCE   PMID:21920463
+  AUTHORS   Gao B, Bataller R
+  TITLE     Alcoholic liver disease: pathogenesis and new therapeutic targets.
+  JOURNAL   Gastroenterology 141:1572-85 (2011)
+            DOI:10.1053/j.gastro.2011.09.002
+REFERENCE   PMID:28134813
+  AUTHORS   Magdaleno F, Blajszczak CC, Nieto N
+  TITLE     Key Events Participating in the Pathogenesis of Alcoholic Liver Disease.
+  JOURNAL   Biomolecules 7:E9 (2017)
+            DOI:10.3390/biom7010009
+REFERENCE   PMID:19553649
+  AUTHORS   Lucey MR, Mathurin P, Morgan TR
+  TITLE     Alcoholic hepatitis.
+  JOURNAL   N Engl J Med 360:2758-69 (2009)
+            DOI:10.1056/NEJMra0805786
+REFERENCE   PMID:26919968
+  AUTHORS   Nagy LE, Ding WX, Cresci G, Saikia P, Shah VH
+  TITLE     Linking Pathogenic Mechanisms of Alcoholic Liver Disease With Clinical Phenotypes.
+  JOURNAL   Gastroenterology 150:1756-68 (2016)
+            DOI:10.1053/j.gastro.2016.02.035
+REFERENCE   PMID:25009376
+  AUTHORS   Fujii H, Kawada N
+  TITLE     Fibrogenesis in alcoholic liver disease.
+  JOURNAL   World J Gastroenterol 20:8048-54 (2014)
+            DOI:10.3748/wjg.v20.i25.8048
+REFERENCE   PMID:26755857
+  AUTHORS   Kim MS, Ong M, Qu X
+  TITLE     Optimal management for alcoholic liver disease: Conventional medications, natural therapy or combination?
+  JOURNAL   World J Gastroenterol 22:8-23 (2016)
+            DOI:10.3748/wjg.v22.i1.8
+REFERENCE   PMID:15194557
+  AUTHORS   You M, Crabb DW
+  TITLE     Recent advances in alcoholic liver disease II. Minireview: molecular mechanisms of alcoholic fatty liver.
+  JOURNAL   Am J Physiol Gastrointest Liver Physiol 287:G1-6 (2004)
+            DOI:10.1152/ajpgi.00056.2004
+REFERENCE   PMID:26695748
+  AUTHORS   Nagy LE
+  TITLE     The Role of Innate Immunity in Alcoholic Liver Disease.
+  JOURNAL   Alcohol Res 37:237-50 (2015)
+REFERENCE   PMID:21252049
+  AUTHORS   Gao B, Seki E, Brenner DA, Friedman S, Cohen JI, Nagy L, Szabo G, Zakhari S
+  TITLE     Innate immunity in alcoholic liver disease.
+  JOURNAL   Am J Physiol Gastrointest Liver Physiol 300:G516-25 (2011)
+            DOI:10.1152/ajpgi.00537.2010
+REFERENCE   PMID:22524187
+  AUTHORS   Wang HJ, Gao B, Zakhari S, Nagy LE
+  TITLE     Inflammation in alcoholic liver disease.
+  JOURNAL   Annu Rev Nutr 32:343-68 (2012)
+            DOI:10.1146/annurev-nutr-072610-145138
+REFERENCE   PMID:29597356
+  AUTHORS   McCullough RL, McMullen MR, Sheehan MM, Poulsen KL, Roychowdhury S, Chiang DJ, Pritchard MT, Caballeria J, Nagy LE
+  TITLE     Complement Factor D protects mice from ethanol-induced inflammation and liver injury.
+  JOURNAL   Am J Physiol Gastrointest Liver Physiol 315:G66-G79 (2018)
+            DOI:10.1152/ajpgi.00334.2017
+REFERENCE   PMID:24385684
+  AUTHORS   Kawaratani H, Tsujimoto T, Douhara A, Takaya H, Moriya K, Namisaki T, Noguchi R, Yoshiji H, Fujimoto M, Fukui H
+  TITLE     The effect of inflammatory cytokines in alcoholic liver disease.
+  JOURNAL   Mediators Inflamm 2013:495156 (2013)
+            DOI:10.1155/2013/495156
+REFERENCE   PMID:20238398
+  AUTHORS   Szabo G, Bala S
+  TITLE     Alcoholic liver disease and the gut-liver axis.
+  JOURNAL   World J Gastroenterol 16:1321-9 (2010)
+            DOI:10.3748/wjg.v16.i11.1321
+REFERENCE   PMID:28627645
+  AUTHORS   Kawaratani H, Moriya K, Namisaki T, Uejima M, Kitade M, Takeda K, Okura Y, Kaji K, Takaya H, Nishimura N, Sato S, Sawada Y, Seki K, Kubo T, Mitoro A, Yamao J, Yoshiji H
+  TITLE     Therapeutic strategies for alcoholic liver disease: Focusing on inflammation and fibrosis (Review).
+  JOURNAL   Int J Mol Med 40:263-270 (2017)
+            DOI:10.3892/ijmm.2017.3015
+REFERENCE   PMID:23855294
+  AUTHORS   Roh YS, Seki E
+  TITLE     Toll-like receptors in alcoholic liver disease, non-alcoholic steatohepatitis and carcinogenesis.
+  JOURNAL   J Gastroenterol Hepatol 28 Suppl 1:38-42 (2013)
+            DOI:10.1111/jgh.12019
+REFERENCE   PMID:18709650
+  AUTHORS   Rogers CQ, Ajmo JM, You M
+  TITLE     Adiponectin and alcoholic fatty liver disease.
+  JOURNAL   IUBMB Life 60:790-7 (2008)
+            DOI:10.1002/iub.124
+REFERENCE   PMID:26278388
+  AUTHORS   You M, Jogasuria A, Lee K, Wu J, Zhang Y, Lee YK, Sadana P
+  TITLE     Signal Transduction Mechanisms of Alcoholic Fatty Liver Disease: Emer ging Role of Lipin-1.
+  JOURNAL   Curr Mol Pharmacol 10:226-236 (2017)
+            DOI:10.2174/1874467208666150817112109
+REFERENCE   PMID:26005675
+  AUTHORS   You M, Jogasuria A, Taylor C, Wu J
+  TITLE     Sirtuin 1 signaling and alcoholic fatty liver disease.
+  JOURNAL   Hepatobiliary Surg Nutr 4:88-100 (2015)
+            DOI:10.3978/j.issn.2304-3881.2014.12.06
+REFERENCE   PMID:33162823
+  AUTHORS   Ren R, Wang Z, Wu M, Wang H
+  TITLE     Emerging Roles of SIRT1 in Alcoholic Liver Disease.
+  JOURNAL   Int J Biol Sci 16:3174-3183 (2020)
+            DOI:10.7150/ijbs.49535
+REFERENCE   PMID:19032584
+  AUTHORS   Purohit V, Gao B, Song BJ
+  TITLE     Molecular mechanisms of alcoholic fatty liver.
+  JOURNAL   Alcohol Clin Exp Res 33:191-205 (2009)
+            DOI:10.1111/j.1530-0277.2008.00827.x
+REFERENCE   PMID:34071962
+  AUTHORS   Hyun J, Han J, Lee C, Yoon M, Jung Y
+  TITLE     Pathophysiological Aspects of Alcohol Metabolism in the Liver.
+  JOURNAL   Int J Mol Sci 22:5717 (2021)
+            DOI:10.3390/ijms22115717
+REFERENCE   PMID:24297186
+  AUTHORS   Combs TP, Marliss EB
+  TITLE     Adiponectin signaling in the liver.
+  JOURNAL   Rev Endocr Metab Disord 15:137-47 (2014)
+            DOI:10.1007/s11154-013-9280-6
+REFERENCE   PMID:25548474
+  AUTHORS   Ceni E, Mello T, Galli A
+  TITLE     Pathogenesis of alcoholic liver disease: role of oxidative metabolism.
+  JOURNAL   World J Gastroenterol 20:17756-72 (2014)
+            DOI:10.3748/wjg.v20.i47.17756
+REFERENCE   PMID:31159489
+  AUTHORS   Kong LZ, Chandimali N, Han YH, Lee DH, Kim JS, Kim SU, Kim TD, Jeong DK, Sun HN, Lee DS, Kwon T
+  TITLE     Pathogenesis, Early Diagnosis, and Therapeutic Management of Alcoholic Liver Disease.
+  JOURNAL   Int J Mol Sci 20:E2712 (2019)
+            DOI:10.3390/ijms20112712
+REFERENCE   PMID:31214376
+  AUTHORS   Ohashi K, Pimienta M, Seki E
+  TITLE     Alcoholic liver disease: A current molecular and clinical perspective.
+  JOURNAL   Liver Res 2:161-172 (2018)
+            DOI:10.1016/j.livres.2018.11.002
+REFERENCE   PMID:30658725
+  AUTHORS   You M, Arteel GE
+  TITLE     Effect of ethanol on lipid metabolism.
+  JOURNAL   J Hepatol 70:237-248 (2019)
+            DOI:10.1016/j.jhep.2018.10.037
+REFERENCE   PMID:25595739
+  AUTHORS   Bi L, Jiang Z, Zhou J
+  TITLE     The role of lipin-1 in the pathogenesis of alcoholic fatty liver.
+  JOURNAL   Alcohol Alcohol 50:146-51 (2015)
+            DOI:10.1093/alcalc/agu102
+REFERENCE   PMID:31263795
+  AUTHORS   Ali H, Assiri MA, Shearn CT, Fritz KS
+  TITLE     Lipid peroxidation derived reactive aldehydes in alcoholic liver disease.
+  JOURNAL   Curr Opin Toxicol 13:110-117 (2019)
+            DOI:10.1016/j.cotox.2018.10.003
+REFERENCE   PMID:24262277
+  AUTHORS   Yin H, Hu M, Liang X, Ajmo JM, Li X, Bataller R, Odena G, Stevens SM Jr, You M
+  TITLE     Deletion of SIRT1 from hepatocytes in mice disrupts lipin-1 signaling and aggravates alcoholic fatty liver.
+  JOURNAL   Gastroenterology 146:801-11 (2014)
+            DOI:10.1053/j.gastro.2013.11.008
+REFERENCE   PMID:22110053
+  AUTHORS   Stickel F, Hampe J
+  TITLE     Genetic determinants of alcoholic liver disease.
+  JOURNAL   Gut 61:150-9 (2012)
+            DOI:10.1136/gutjnl-2011-301239
+REFERENCE   PMID:29336467
+  AUTHORS   Yang CF, Zhong YJ, Ma Z, Li L, Shi L, Chen L, Li C, Wu D, Chen Q, Li YW
+  TITLE     NOX4/ROS mediate ethanolinduced apoptosis via MAPK signal pathway in L02 cells.
+  JOURNAL   Int J Mol Med 41:2306-2316 (2018)
+            DOI:10.3892/ijmm.2018.3390
+REL_PATHWAY hsa00061  Fatty acid biosynthesis
+            hsa00071  Fatty acid degradation
+            hsa01040  Biosynthesis of unsaturated fatty acids
+            hsa03040  Spliceosome
+            hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04210  Apoptosis
+            hsa04310  Wnt signaling pathway
+            hsa04610  Complement and coagulation cascades
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04657  IL-17 signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04920  Adipocytokine signaling pathway
+            hsa05034  Alcoholism
+            hsa05225  Hepatocellular carcinoma
+KO_PATHWAY  ko04936
+///

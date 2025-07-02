@@ -1,0 +1,1016 @@
+hsa,kegg_id,drug_name,drug_concept,year
+hsa00010,dr:D00123,Cyanamide,chemical_mesh_d003484,1947
+hsa00010,dr:D00131,Disulfiram,chemical_mesh_d004221,1949
+hsa00071,dr:D00123,Cyanamide,chemical_mesh_d003484,1947
+hsa00071,dr:D00131,Disulfiram,chemical_mesh_d004221,1949
+hsa00130,dr:D00564,Warfarin,chemical_mesh_d014859,1950
+hsa00130,dr:D03798,Dicumarol,chemical_mesh_d001728,1942
+hsa00130,dr:D05457,Phenprocoumon,chemical_mesh_d010644,1953
+hsa00130,dr:D07064,Acenocoumarol,chemical_mesh_d000074,1955
+hsa00130,dr:D07131,Ethyl Biscoumacetate,chemical_mesh_d005017,1948
+hsa00130,dr:D08354,Phenindione,chemical_mesh_d010630,1950
+hsa00140,dr:D00152,Phloroglucinol,chemical_mesh_d010696,1930
+hsa00140,dr:D00156,Glycyrrhetinic Acid,chemical_mesh_d006034,1953
+hsa00140,dr:D00410,Metyrapone,chemical_mesh_d008797,1959
+hsa00140,dr:D00420,Mitotane,chemical_mesh_d008939,1961
+hsa00140,dr:D00574,Aminoglutethimide,chemical_mesh_d000616,1959
+hsa00140,dr:D01899,Carbenoxolone,chemical_mesh_d002229,1960
+hsa00140,dr:D02028,Glycyrrhizic Acid,chemical_mesh_d019695,1951
+hsa00230,dr:D00161,Mercaptopurine,chemical_mesh_d015122,1953
+hsa00230,dr:D00224,Allopurinol,chemical_mesh_d000493,1964
+hsa00230,dr:D00341,Hydroxyurea,chemical_mesh_d006918,1963
+hsa00230,dr:D00752,Mycophenolic Acid,chemical_mesh_d009173,1933
+hsa00230,dr:D02365,Oxypurinol,chemical_mesh_d010117,1966
+hsa00230,dr:D08603,Thioguanine,chemical_mesh_d013866,1955
+hsa00240,dr:D00341,Hydroxyurea,chemical_mesh_d006918,1963
+hsa00240,dr:D00584,Fluorouracil,chemical_mesh_d005472,1957
+hsa00240,dr:D01244,Tegafur,chemical_mesh_d005641,1971
+hsa00240,dr:D04197,Floxuridine,chemical_mesh_d005467,1959
+hsa00260,dr:D00505,Phenelzine,chemical_mesh_d010624,1959
+hsa00260,dr:D00826,Tranylcypromine,chemical_mesh_d014191,1959
+hsa00260,dr:D02579,Iproniazid,chemical_mesh_d007490,1953
+hsa00260,dr:D02580,Isocarboxazid,chemical_mesh_d007520,1959
+hsa00260,dr:D03248,Clorgyline,chemical_mesh_d003010,1969
+hsa00260,dr:D07337,Nialamide,chemical_mesh_d009526,1959
+hsa00270,dr:D03021,Azacitidine,chemical_mesh_d001374,1964
+hsa00270,dr:D07258,Mitoguazone,chemical_mesh_d008935,1955
+hsa00330,dr:D00505,Phenelzine,chemical_mesh_d010624,1959
+hsa00330,dr:D00826,Tranylcypromine,chemical_mesh_d014191,1959
+hsa00330,dr:D02579,Iproniazid,chemical_mesh_d007490,1953
+hsa00330,dr:D02580,Isocarboxazid,chemical_mesh_d007520,1959
+hsa00330,dr:D03248,Clorgyline,chemical_mesh_d003010,1969
+hsa00330,dr:D07258,Mitoguazone,chemical_mesh_d008935,1955
+hsa00330,dr:D07337,Nialamide,chemical_mesh_d009526,1959
+hsa00340,dr:D00505,Phenelzine,chemical_mesh_d010624,1959
+hsa00340,dr:D00826,Tranylcypromine,chemical_mesh_d014191,1959
+hsa00340,dr:D02579,Iproniazid,chemical_mesh_d007490,1953
+hsa00340,dr:D02580,Isocarboxazid,chemical_mesh_d007520,1959
+hsa00340,dr:D03158,Brocresine,chemical_mesh_d001958,1967
+hsa00340,dr:D03248,Clorgyline,chemical_mesh_d003010,1969
+hsa00340,dr:D07337,Nialamide,chemical_mesh_d009526,1959
+hsa00350,dr:D00152,Phloroglucinol,chemical_mesh_d010696,1930
+hsa00350,dr:D00505,Phenelzine,chemical_mesh_d010624,1959
+hsa00350,dr:D00826,Tranylcypromine,chemical_mesh_d014191,1959
+hsa00350,dr:D02579,Iproniazid,chemical_mesh_d007490,1953
+hsa00350,dr:D02580,Isocarboxazid,chemical_mesh_d007520,1959
+hsa00350,dr:D03248,Clorgyline,chemical_mesh_d003010,1969
+hsa00350,dr:D07337,Nialamide,chemical_mesh_d009526,1959
+hsa00360,dr:D00505,Phenelzine,chemical_mesh_d010624,1959
+hsa00360,dr:D00826,Tranylcypromine,chemical_mesh_d014191,1959
+hsa00360,dr:D02579,Iproniazid,chemical_mesh_d007490,1953
+hsa00360,dr:D02580,Isocarboxazid,chemical_mesh_d007520,1959
+hsa00360,dr:D03248,Clorgyline,chemical_mesh_d003010,1969
+hsa00360,dr:D07337,Nialamide,chemical_mesh_d009526,1959
+hsa00380,dr:D00505,Phenelzine,chemical_mesh_d010624,1959
+hsa00380,dr:D00826,Tranylcypromine,chemical_mesh_d014191,1959
+hsa00380,dr:D02579,Iproniazid,chemical_mesh_d007490,1953
+hsa00380,dr:D02580,Isocarboxazid,chemical_mesh_d007520,1959
+hsa00380,dr:D03248,Clorgyline,chemical_mesh_d003010,1969
+hsa00380,dr:D07337,Nialamide,chemical_mesh_d009526,1959
+hsa00480,dr:D00341,Hydroxyurea,chemical_mesh_d006918,1963
+hsa00564,dr:D00469,pralidoxime,chemical_mesh_c028797,1950
+hsa00564,dr:D00487,Pyridostigmine Bromide,chemical_mesh_d011729,1953
+hsa00564,dr:D00995,Neostigmine,chemical_mesh_d009388,1935
+hsa00564,dr:D01228,distigmine,chemical_mesh_c084645,1958
+hsa00564,dr:D02068,Tacrine,chemical_mesh_d013619,1961
+hsa00564,dr:D02173,Galantamine,chemical_mesh_d005702,1953
+hsa00564,dr:D02565,dimethacrine,chemical_mesh_c100110,1966
+hsa00590,dr:D00109,Aspirin,chemical_mesh_d001241,1885
+hsa00590,dr:D00118,Naproxen,chemical_mesh_d009288,1971
+hsa00590,dr:D00126,Ibuprofen,chemical_mesh_d007052,1961
+hsa00590,dr:D00132,Ketoprofen,chemical_mesh_d007660,1973
+hsa00590,dr:D00141,Indomethacin,chemical_mesh_d007213,1885
+hsa00590,dr:D00151,Mefenamic Acid,chemical_mesh_d008528,1962
+hsa00590,dr:D00169,Meclofenamic Acid,chemical_mesh_d008469,1965
+hsa00590,dr:D00217,Acetaminophen,chemical_mesh_d000082,1948
+hsa00590,dr:D00330,Flurbiprofen,chemical_mesh_d005480,1972
+hsa00590,dr:D00510,Phenylbutazone,chemical_mesh_d010653,1952
+hsa00590,dr:D00566,Sodium Salicylate,chemical_mesh_d012980,1879
+hsa00590,dr:D00903,Diclofenac,chemical_mesh_d004008,1971
+hsa00590,dr:D00968,Fenoprofen,chemical_mesh_d005279,1971
+hsa00590,dr:D01252,alclofenac,chemical_mesh_c084615,1969
+hsa00590,dr:D01271,Bufexamac,chemical_mesh_d002019,1965
+hsa00590,dr:D01410,Benzydamine,chemical_mesh_d001591,1965
+hsa00590,dr:D01581,Flufenamic Acid,chemical_mesh_d005439,1963
+hsa00590,dr:D01811,salicylamide,chemical_mesh_c031060,1946
+hsa00590,dr:D05319,Oxyphenbutazone,chemical_mesh_d010113,1960
+hsa00590,dr:D08275,Niflumic Acid,chemical_mesh_d009544,1967
+hsa00620,dr:D00123,Cyanamide,chemical_mesh_d003484,1947
+hsa00620,dr:D00131,Disulfiram,chemical_mesh_d004221,1949
+hsa00670,dr:D00142,Methotrexate,chemical_mesh_d008727,1949
+hsa00670,dr:D00584,Fluorouracil,chemical_mesh_d005472,1957
+hsa00670,dr:D01244,Tegafur,chemical_mesh_d005641,1971
+hsa00670,dr:D04197,Floxuridine,chemical_mesh_d005467,1959
+hsa00790,dr:D00142,Methotrexate,chemical_mesh_d008727,1949
+hsa00982,dr:D00505,Phenelzine,chemical_mesh_d010624,1959
+hsa00982,dr:D00826,Tranylcypromine,chemical_mesh_d014191,1959
+hsa00982,dr:D02579,Iproniazid,chemical_mesh_d007490,1953
+hsa00982,dr:D02580,Isocarboxazid,chemical_mesh_d007520,1959
+hsa00982,dr:D03248,Clorgyline,chemical_mesh_d003010,1969
+hsa00982,dr:D07337,Nialamide,chemical_mesh_d009526,1959
+hsa02010,dr:D00219,Acetohexamide,chemical_mesh_d000092,1961
+hsa02010,dr:D00271,Chlorpropamide,chemical_mesh_d002747,1958
+hsa02010,dr:D00335,Glipizide,chemical_mesh_d005913,1971
+hsa02010,dr:D00336,Glyburide,chemical_mesh_d005905,1968
+hsa02010,dr:D00379,Tolazamide,chemical_mesh_d014042,1962
+hsa02010,dr:D00380,Tolbutamide,chemical_mesh_d014044,1956
+hsa02010,dr:D00418,Minoxidil,chemical_mesh_d008914,1972
+hsa02010,dr:D02425,Carbutamide,chemical_mesh_d002271,1956
+hsa03320,dr:D00279,Clofibrate,chemical_mesh_d002994,1962
+hsa03320,dr:D04411,Halofenate,chemical_mesh_d006218,1970
+hsa04010,dr:D00404,methsuximide,chemical_mesh_c100286,1957
+hsa04010,dr:D00539,Ethosuximide,chemical_mesh_d005013,1960
+hsa04010,dr:D00619,Verapamil,chemical_mesh_d014700,1963
+hsa04010,dr:D02630,Penfluridol,chemical_mesh_d010395,1970
+hsa04020,dr:D00059,Levodopa,chemical_mesh_d007980,1926
+hsa04020,dr:D00076,Norepinephrine,chemical_mesh_d009638,1947
+hsa04020,dr:D00081,Dinoprost,chemical_mesh_d015237,1965
+hsa04020,dr:D00095,Epinephrine,chemical_mesh_d004837,1903
+hsa04020,dr:D00113,Atropine,chemical_mesh_d001285,1868
+hsa04020,dr:D00124,Ephedrine,chemical_mesh_d004809,1925
+hsa04020,dr:D00147,Hyoscyamine,chemical_mesh_d064692,1826
+hsa04020,dr:D00180,Alprostadil,chemical_mesh_d000527,1962
+hsa04020,dr:D00193,dexpanthenol,chemical_mesh_c007288,1945
+hsa04020,dr:D00227,Aminophylline,chemical_mesh_d000628,1925
+hsa04020,dr:D00300,Diphenhydramine,chemical_mesh_d004155,1945
+hsa04020,dr:D00304,Valproic Acid,chemical_mesh_d014635,1967
+hsa04020,dr:D00371,Theophylline,chemical_mesh_d013806,1907
+hsa04020,dr:D00378,Timolol,chemical_mesh_d013999,1972
+hsa04020,dr:D00404,methsuximide,chemical_mesh_c100286,1957
+hsa04020,dr:D00437,Nifedipine,chemical_mesh_d009543,1972
+hsa04020,dr:D00480,Promethazine,chemical_mesh_d011398,1948
+hsa04020,dr:D00481,Propantheline,chemical_mesh_d011413,1953
+hsa04020,dr:D00511,Phenylephrine,chemical_mesh_d010656,1944
+hsa04020,dr:D00520,Dimenhydrinate,chemical_mesh_d004111,1949
+hsa04020,dr:D00528,Caffeine,chemical_mesh_d002110,1860
+hsa04020,dr:D00539,Ethosuximide,chemical_mesh_d005013,1960
+hsa04020,dr:D00540,Glycopyrrolate,chemical_mesh_d006024,1962
+hsa04020,dr:D00619,Verapamil,chemical_mesh_d014700,1963
+hsa04020,dr:D00632,Dobutamine,chemical_mesh_d004280,1974
+hsa04020,dr:D00633,Dopamine,chemical_mesh_d004298,1941
+hsa04020,dr:D00636,Amiodarone,chemical_mesh_d000638,1967
+hsa04020,dr:D00672,Hydroxyzine,chemical_mesh_d006919,1956
+hsa04020,dr:D00680,Methylergonovine,chemical_mesh_d008755,1945
+hsa04020,dr:D00683,Albuterol,chemical_mesh_d000420,1969
+hsa04020,dr:D00685,Metaproterenol,chemical_mesh_d009921,1961
+hsa04020,dr:D00688,Terbutaline,chemical_mesh_d013726,1970
+hsa04020,dr:D00711,Ketamine,chemical_mesh_d007649,1965
+hsa04020,dr:D00774,Orphenadrine,chemical_mesh_d009966,1958
+hsa04020,dr:D00999,Acetylcholine,chemical_mesh_d000109,1914
+hsa04020,dr:D01005,isopropamide iodide,chemical_mesh_c084831,1957
+hsa04020,dr:D01019,Metaraminol,chemical_mesh_d008680,1952
+hsa04020,dr:D01020,Methoxamine,chemical_mesh_d008729,1949
+hsa04020,dr:D01026,Sotalol,chemical_mesh_d013015,1967
+hsa04020,dr:D01077,methylatropine,chemical_mesh_c006649,1936
+hsa04020,dr:D01163,Ergonovine,chemical_mesh_d004874,1936
+hsa04020,dr:D01174,Pheniramine,chemical_mesh_d010632,1948
+hsa04020,dr:D01238,Bucladesine,chemical_mesh_d003994,1968
+hsa04020,dr:D01263,Ritodrine,chemical_mesh_d012312,1969
+hsa04020,dr:D01295,Cinnarizine,chemical_mesh_d002936,1960
+hsa04020,dr:D01343,Dimethindene,chemical_mesh_d004115,1960
+hsa04020,dr:D01390,Isoproterenol,chemical_mesh_d007545,1946
+hsa04020,dr:D01428,Fenoterol,chemical_mesh_d005280,1968
+hsa04020,dr:D01444,bunitrolol,chemical_mesh_c084811,1971
+hsa04020,dr:D01573,Etilefrine,chemical_mesh_d005039,1950
+hsa04020,dr:D01592,Betahistine,chemical_mesh_d001621,1963
+hsa04020,dr:D01902,fonazine,chemical_mesh_c100113,1966
+hsa04020,dr:D01969,Gallopamil,chemical_mesh_d005711,1957
+hsa04020,dr:D01978,Tretoquinol,chemical_mesh_d014213,1967
+hsa04020,dr:D02017,cholinophyllin,chemical_mesh_c012839,1954
+hsa04020,dr:D02091,Tripelennamine,chemical_mesh_d014309,1946
+hsa04020,dr:D02218,Papaverine,chemical_mesh_d010208,1937
+hsa04020,dr:D02343,Carboprost,chemical_mesh_d002260,1972
+hsa04020,dr:D02396,Hexoprenaline,chemical_mesh_d006594,1970
+hsa04020,dr:D02630,Penfluridol,chemical_mesh_d010395,1970
+hsa04020,dr:D02939,Angiotensin Amide,chemical_mesh_d000802,1940
+hsa04020,dr:D02950,Antazoline,chemical_mesh_d000865,1946
+hsa04020,dr:D04970,Methacholine Chloride,chemical_mesh_d016210,1935
+hsa04020,dr:D05442,perhexiline maleate,chemical_mesh_c023470,1969
+hsa04020,dr:D05479,pimagedine,chemical_mesh_c004479,1949
+hsa04020,dr:D05660,Pyrilamine,chemical_mesh_d011738,1947
+hsa04020,dr:D06877,Oxyphenonium,chemical_mesh_d010115,1954
+hsa04020,dr:D07906,Ergotamine,chemical_mesh_d004878,1911
+hsa04020,dr:D08040,Histamine,chemical_mesh_d006632,1918
+hsa04022,dr:D00095,Epinephrine,chemical_mesh_d004837,1903
+hsa04022,dr:D00227,Aminophylline,chemical_mesh_d000628,1925
+hsa04022,dr:D00281,Clonidine,chemical_mesh_d003000,1966
+hsa04022,dr:D00302,Dipyridamole,chemical_mesh_d004176,1931
+hsa04022,dr:D00371,Theophylline,chemical_mesh_d013806,1907
+hsa04022,dr:D00378,Timolol,chemical_mesh_d013999,1972
+hsa04022,dr:D00405,Methyldopa,chemical_mesh_d008750,1946
+hsa04022,dr:D00632,Dobutamine,chemical_mesh_d004280,1974
+hsa04022,dr:D00636,Amiodarone,chemical_mesh_d000638,1967
+hsa04022,dr:D00680,Methylergonovine,chemical_mesh_d008755,1945
+hsa04022,dr:D01163,Ergonovine,chemical_mesh_d004874,1936
+hsa04022,dr:D01238,Bucladesine,chemical_mesh_d003994,1968
+hsa04022,dr:D01573,Etilefrine,chemical_mesh_d005039,1950
+hsa04022,dr:D02017,cholinophyllin,chemical_mesh_c012839,1954
+hsa04022,dr:D02218,Papaverine,chemical_mesh_d010208,1937
+hsa04022,dr:D06671,Yohimbine,chemical_mesh_d015016,1935
+hsa04022,dr:D07906,Ergotamine,chemical_mesh_d004878,1911
+hsa04024,dr:D00095,Epinephrine,chemical_mesh_d004837,1903
+hsa04024,dr:D00138,Scopolamine,chemical_mesh_d012601,1885
+hsa04024,dr:D00227,Aminophylline,chemical_mesh_d000628,1925
+hsa04024,dr:D00241,Baclofen,chemical_mesh_d001418,1971
+hsa04024,dr:D00302,Dipyridamole,chemical_mesh_d004176,1931
+hsa04024,dr:D00371,Theophylline,chemical_mesh_d013806,1907
+hsa04024,dr:D00378,Timolol,chemical_mesh_d013999,1972
+hsa04024,dr:D00481,Propantheline,chemical_mesh_d011413,1953
+hsa04024,dr:D00528,Caffeine,chemical_mesh_d002110,1860
+hsa04024,dr:D00632,Dobutamine,chemical_mesh_d004280,1974
+hsa04024,dr:D00636,Amiodarone,chemical_mesh_d000638,1967
+hsa04024,dr:D00683,Albuterol,chemical_mesh_d000420,1969
+hsa04024,dr:D00685,Metaproterenol,chemical_mesh_d009921,1961
+hsa04024,dr:D00688,Terbutaline,chemical_mesh_d013726,1970
+hsa04024,dr:D00691,Dyphylline,chemical_mesh_d004400,1946
+hsa04024,dr:D00718,Flavoxate,chemical_mesh_d005422,1968
+hsa04024,dr:D01238,Bucladesine,chemical_mesh_d003994,1968
+hsa04024,dr:D01263,Ritodrine,chemical_mesh_d012312,1969
+hsa04024,dr:D01428,Fenoterol,chemical_mesh_d005280,1968
+hsa04024,dr:D01573,Etilefrine,chemical_mesh_d005039,1950
+hsa04024,dr:D01978,Tretoquinol,chemical_mesh_d014213,1967
+hsa04024,dr:D02017,cholinophyllin,chemical_mesh_c012839,1954
+hsa04024,dr:D02212,Ipratropium,chemical_mesh_d009241,1972
+hsa04024,dr:D02218,Papaverine,chemical_mesh_d010208,1937
+hsa04024,dr:D02396,Hexoprenaline,chemical_mesh_d006594,1970
+hsa04024,dr:D06877,Oxyphenonium,chemical_mesh_d010115,1954
+hsa04060,dr:D00754,Thalidomide,chemical_mesh_d013792,1956
+hsa04064,dr:D00754,Thalidomide,chemical_mesh_d013792,1956
+hsa04080,dr:D00045,Adenosine,chemical_mesh_d000241,1931
+hsa04080,dr:D00058,gamma-Aminobutyric Acid,chemical_mesh_d005680,1950
+hsa04080,dr:D00059,Levodopa,chemical_mesh_d007980,1926
+hsa04080,dr:D00076,Norepinephrine,chemical_mesh_d009638,1947
+hsa04080,dr:D00079,Dinoprostone,chemical_mesh_d015232,1964
+hsa04080,dr:D00081,Dinoprost,chemical_mesh_d015237,1965
+hsa04080,dr:D00088,Hydrocortisone,chemical_mesh_d006854,1941
+hsa04080,dr:D00089,Oxytocin,chemical_mesh_d010121,1932
+hsa04080,dr:D00095,Epinephrine,chemical_mesh_d004837,1903
+hsa04080,dr:D00113,Atropine,chemical_mesh_d001285,1868
+hsa04080,dr:D00124,Ephedrine,chemical_mesh_d004809,1925
+hsa04080,dr:D00136,Haloperidol,chemical_mesh_d006220,1958
+hsa04080,dr:D00138,Scopolamine,chemical_mesh_d012601,1885
+hsa04080,dr:D00147,Hyoscyamine,chemical_mesh_d064692,1826
+hsa04080,dr:D00165,hydrocortisone acetate,chemical_mesh_c021650,1952
+hsa04080,dr:D00180,Alprostadil,chemical_mesh_d000527,1962
+hsa04080,dr:D00193,dexpanthenol,chemical_mesh_c007288,1945
+hsa04080,dr:D00227,Aminophylline,chemical_mesh_d000628,1925
+hsa04080,dr:D00235,Atenolol,chemical_mesh_d001262,1972
+hsa04080,dr:D00241,Baclofen,chemical_mesh_d001418,1971
+hsa04080,dr:D00244,Betamethasone,chemical_mesh_d001623,1961
+hsa04080,dr:D00250,Capsaicin,chemical_mesh_d002211,1948
+hsa04080,dr:D00267,Chlordiazepoxide,chemical_mesh_d002707,1960
+hsa04080,dr:D00270,Chlorpromazine,chemical_mesh_d002746,1952
+hsa04080,dr:D00280,Clonazepam,chemical_mesh_d002998,1969
+hsa04080,dr:D00281,Clonidine,chemical_mesh_d003000,1966
+hsa04080,dr:D00283,Clozapine,chemical_mesh_d003024,1970
+hsa04080,dr:D00292,Dexamethasone,chemical_mesh_d003907,1954
+hsa04080,dr:D00293,Diazepam,chemical_mesh_d003975,1961
+hsa04080,dr:D00300,Diphenhydramine,chemical_mesh_d004155,1945
+hsa04080,dr:D00306,Dronabinol,chemical_mesh_d013759,1942
+hsa04080,dr:D00308,Droperidol,chemical_mesh_d004329,1963
+hsa04080,dr:D00320,Fentanyl,chemical_mesh_d005283,1963
+hsa04080,dr:D00325,Fluocinonide,chemical_mesh_d005447,1971
+hsa04080,dr:D00328,Flurandrenolone,chemical_mesh_d005478,1961
+hsa04080,dr:D00329,Flurazepam,chemical_mesh_d005479,1968
+hsa04080,dr:D00365,Lorazepam,chemical_mesh_d008140,1969
+hsa04080,dr:D00371,Theophylline,chemical_mesh_d013806,1907
+hsa04080,dr:D00373,Thioridazine,chemical_mesh_d013881,1958
+hsa04080,dr:D00374,Thiothixene,chemical_mesh_d013888,1965
+hsa04080,dr:D00376,Meprobamate,chemical_mesh_d008620,1954
+hsa04080,dr:D00378,Timolol,chemical_mesh_d013999,1972
+hsa04080,dr:D00385,Triamcinolone,chemical_mesh_d014221,1958
+hsa04080,dr:D00390,Triflupromazine,chemical_mesh_d014273,1957
+hsa04080,dr:D00403,Methotrimeprazine,chemical_mesh_d008728,1957
+hsa04080,dr:D00405,Methyldopa,chemical_mesh_d008750,1946
+hsa04080,dr:D00407,Methylprednisolone,chemical_mesh_d008775,1957
+hsa04080,dr:D00430,Secobarbital,chemical_mesh_d012631,1948
+hsa04080,dr:D00464,Oxazepam,chemical_mesh_d010076,1964
+hsa04080,dr:D00472,Prednisolone,chemical_mesh_d011239,1949
+hsa04080,dr:D00479,Prochlorperazine,chemical_mesh_d011346,1957
+hsa04080,dr:D00480,Promethazine,chemical_mesh_d011398,1948
+hsa04080,dr:D00481,Propantheline,chemical_mesh_d011413,1953
+hsa04080,dr:D00482,Dextropropoxyphene,chemical_mesh_d011431,1955
+hsa04080,dr:D00483,Propranolol,chemical_mesh_d011433,1964
+hsa04080,dr:D00485,Pseudoephedrine,chemical_mesh_d054199,1929
+hsa04080,dr:D00492,Pancuronium,chemical_mesh_d010197,1967
+hsa04080,dr:D00498,Pentazocine,chemical_mesh_d010423,1964
+hsa04080,dr:D00499,Pentobarbital,chemical_mesh_d010424,1932
+hsa04080,dr:D00503,Perphenazine,chemical_mesh_d010546,1957
+hsa04080,dr:D00506,Phenobarbital,chemical_mesh_d010634,1921
+hsa04080,dr:D00507,Phenoxybenzamine,chemical_mesh_d010643,1953
+hsa04080,dr:D00509,Phentolamine,chemical_mesh_d010646,1950
+hsa04080,dr:D00511,Phenylephrine,chemical_mesh_d010656,1944
+hsa04080,dr:D00513,Pindolol,chemical_mesh_d010869,1969
+hsa04080,dr:D00520,Dimenhydrinate,chemical_mesh_d004111,1949
+hsa04080,dr:D00524,Carbachol,chemical_mesh_d002217,1940
+hsa04080,dr:D00525,Pilocarpine,chemical_mesh_d010862,1878
+hsa04080,dr:D00528,Caffeine,chemical_mesh_d002110,1860
+hsa04080,dr:D00531,Nitrazepam,chemical_mesh_d009567,1962
+hsa04080,dr:D00532,Glutethimide,chemical_mesh_d005984,1954
+hsa04080,dr:D00540,Glycopyrrolate,chemical_mesh_d006024,1962
+hsa04080,dr:D00548,Etomidate,chemical_mesh_d005045,1971
+hsa04080,dr:D00555,Amobarbital,chemical_mesh_d000654,1930
+hsa04080,dr:D00560,Pimozide,chemical_mesh_d010868,1968
+hsa04080,dr:D00597,Acebutolol,chemical_mesh_d000070,1947
+hsa04080,dr:D00601,Metoprolol,chemical_mesh_d008790,1974
+hsa04080,dr:D00609,Prazosin,chemical_mesh_d011224,1970
+hsa04080,dr:D00612,trimethaphan camsylate,chemical_mesh_c017774,1953
+hsa04080,dr:D00632,Dobutamine,chemical_mesh_d004280,1974
+hsa04080,dr:D00633,Dopamine,chemical_mesh_d004298,1941
+hsa04080,dr:D00636,Amiodarone,chemical_mesh_d000638,1967
+hsa04080,dr:D00663,Brompheniramine,chemical_mesh_d001977,1958
+hsa04080,dr:D00665,Chlorpheniramine,chemical_mesh_d002744,1879
+hsa04080,dr:D00672,Hydroxyzine,chemical_mesh_d006919,1956
+hsa04080,dr:D00680,Methylergonovine,chemical_mesh_d008755,1945
+hsa04080,dr:D00681,Methysergide,chemical_mesh_d008784,1960
+hsa04080,dr:D00683,Albuterol,chemical_mesh_d000420,1969
+hsa04080,dr:D00685,Metaproterenol,chemical_mesh_d009921,1961
+hsa04080,dr:D00688,Terbutaline,chemical_mesh_d013726,1970
+hsa04080,dr:D00689,Beclomethasone,chemical_mesh_d001507,1967
+hsa04080,dr:D00691,Dyphylline,chemical_mesh_d004400,1946
+hsa04080,dr:D00694,Clorazepate Dipotassium,chemical_mesh_d003009,1968
+hsa04080,dr:D00700,Mephobarbital,chemical_mesh_d008618,1950
+hsa04080,dr:D00711,Ketamine,chemical_mesh_d007649,1965
+hsa04080,dr:D00712,Methohexital,chemical_mesh_d008723,1958
+hsa04080,dr:D00713,Thiamylal,chemical_mesh_d013840,1947
+hsa04080,dr:D00714,Thiopental,chemical_mesh_d013874,1936
+hsa04080,dr:D00726,Metoclopramide,chemical_mesh_d008787,1964
+hsa04080,dr:D00743,Naphazoline,chemical_mesh_d009278,1947
+hsa04080,dr:D00751,Methylprednisolone Hemisuccinate,chemical_mesh_d008776,1960
+hsa04080,dr:D00766,Succinylcholine,chemical_mesh_d013390,1950
+hsa04080,dr:D00774,Orphenadrine,chemical_mesh_d009966,1958
+hsa04080,dr:D00777,Amantadine,chemical_mesh_d000547,1963
+hsa04080,dr:D00778,Benztropine,chemical_mesh_d001590,1956
+hsa04080,dr:D00780,Bromocriptine,chemical_mesh_d001971,1970
+hsa04080,dr:D00782,Procyclidine,chemical_mesh_d011352,1952
+hsa04080,dr:D00787,Trihexyphenidyl,chemical_mesh_d014282,1949
+hsa04080,dr:D00790,Chlorprothixene,chemical_mesh_d002749,1959
+hsa04080,dr:D00791,Fluphenazine,chemical_mesh_d005476,1959
+hsa04080,dr:D00792,fluphenazine enanthate,chemical_mesh_c017610,1962
+hsa04080,dr:D00793,fluphenazine depot,chemical_mesh_c011825,1968
+hsa04080,dr:D00794,Loxapine,chemical_mesh_d008152,1969
+hsa04080,dr:D00796,Molindone,chemical_mesh_d008972,1967
+hsa04080,dr:D00797,Promazine,chemical_mesh_d011395,1955
+hsa04080,dr:D00799,Trifluoperazine,chemical_mesh_d014268,1958
+hsa04080,dr:D00814,Doxepin,chemical_mesh_d004316,1964
+hsa04080,dr:D00820,Trazodone,chemical_mesh_d014196,1970
+hsa04080,dr:D00839,Hydromorphone,chemical_mesh_d004091,1937
+hsa04080,dr:D00840,Methadyl Acetate,chemical_mesh_d008692,1952
+hsa04080,dr:D00842,Morphine,chemical_mesh_d009020,1826
+hsa04080,dr:D00844,Oxymorphone,chemical_mesh_d010111,1956
+hsa04080,dr:D00848,Dextromethorphan,chemical_mesh_d003915,1954
+hsa04080,dr:D00972,betamethasone sodium phosphate,chemical_mesh_c028994,1962
+hsa04080,dr:D00973,Cortisone,chemical_mesh_d003348,1949
+hsa04080,dr:D00975,dexamethasone 21-phosphate,chemical_mesh_c004180,1959
+hsa04080,dr:D00978,hydrocortisone hemisuccinate,chemical_mesh_c007133,1956
+hsa04080,dr:D00980,prednisolone acetate,chemical_mesh_c009935,1957
+hsa04080,dr:D00983,Triamcinolone Acetonide,chemical_mesh_d014222,1958
+hsa04080,dr:D00997,Tolazoline,chemical_mesh_d014043,1945
+hsa04080,dr:D00999,Acetylcholine,chemical_mesh_d000109,1914
+hsa04080,dr:D01000,Bethanechol,chemical_mesh_d018723,1947
+hsa04080,dr:D01004,homatropine,chemical_mesh_c100236,1889
+hsa04080,dr:D01005,isopropamide iodide,chemical_mesh_c084831,1957
+hsa04080,dr:D01010,Thyroxine,chemical_mesh_d013974,1921
+hsa04080,dr:D01011,Triiodothyronine,chemical_mesh_d014284,1952
+hsa04080,dr:D01019,Metaraminol,chemical_mesh_d008680,1952
+hsa04080,dr:D01020,Methoxamine,chemical_mesh_d008729,1949
+hsa04080,dr:D01022,Oxymetazoline,chemical_mesh_d010109,1965
+hsa04080,dr:D01023,tetrahydrozoline,chemical_mesh_c005810,1954
+hsa04080,dr:D01026,Sotalol,chemical_mesh_d013015,1967
+hsa04080,dr:D01044,Flupenthixol,chemical_mesh_d005475,1964
+hsa04080,dr:D01071,Hexobarbital,chemical_mesh_d006591,1934
+hsa04080,dr:D01077,methylatropine,chemical_mesh_c006649,1936
+hsa04080,dr:D01130,Thiethylperazine,chemical_mesh_d013847,1961
+hsa04080,dr:D01150,methyprylon,chemical_mesh_c084583,1955
+hsa04080,dr:D01163,Ergonovine,chemical_mesh_d004874,1936
+hsa04080,dr:D01174,Pheniramine,chemical_mesh_d010632,1948
+hsa04080,dr:D01182,Alprenolol,chemical_mesh_d000526,1968
+hsa04080,dr:D01187,Betazole,chemical_mesh_d001625,1952
+hsa04080,dr:D01224,Phenylpropanolamine,chemical_mesh_d010665,1928
+hsa04080,dr:D01226,Sulpiride,chemical_mesh_d013469,1967
+hsa04080,dr:D01229,paramethasone acetate,chemical_mesh_c032128,1961
+hsa04080,dr:D01230,Flunitrazepam,chemical_mesh_d005445,1971
+hsa04080,dr:D01245,Bromazepam,chemical_mesh_d001960,1966
+hsa04080,dr:D01263,Ritodrine,chemical_mesh_d012312,1969
+hsa04080,dr:D01290,Nicergoline,chemical_mesh_d009530,1971
+hsa04080,dr:D01292,Medazepam,chemical_mesh_d008472,1966
+hsa04080,dr:D01295,Cinnarizine,chemical_mesh_d002936,1960
+hsa04080,dr:D01317,Meclizine,chemical_mesh_d008468,1954
+hsa04080,dr:D01340,Naloxone,chemical_mesh_d009270,1965
+hsa04080,dr:D01343,Dimethindene,chemical_mesh_d004115,1960
+hsa04080,dr:D01357,Betamethasone Valerate,chemical_mesh_d001624,1964
+hsa04080,dr:D01367,Fluorometholone,chemical_mesh_d005469,1959
+hsa04080,dr:D01383,Meperidine,chemical_mesh_d008614,1942
+hsa04080,dr:D01390,Isoproterenol,chemical_mesh_d007545,1946
+hsa04080,dr:D01428,Fenoterol,chemical_mesh_d005280,1968
+hsa04080,dr:D01444,bunitrolol,chemical_mesh_c084811,1971
+hsa04080,dr:D01445,ifenprodil,chemical_mesh_c010739,1974
+hsa04080,dr:D01447,thioproperazine,chemical_mesh_c084825,1959
+hsa04080,dr:D01464,flumethasone pivalate,chemical_mesh_c005565,1954
+hsa04080,dr:D01477,Opipramol,chemical_mesh_d009888,1961
+hsa04080,dr:D01482,pipamperone,chemical_mesh_c005569,1961
+hsa04080,dr:D01485,periciazine,chemical_mesh_c084584,1963
+hsa04080,dr:D01571,Moxisylyte,chemical_mesh_d013948,1965
+hsa04080,dr:D01573,Etilefrine,chemical_mesh_d005039,1950
+hsa04080,dr:D01592,Betahistine,chemical_mesh_d001621,1963
+hsa04080,dr:D01603,Bethanidine,chemical_mesh_d001627,1964
+hsa04080,dr:D01631,Pentagastrin,chemical_mesh_d010418,1967
+hsa04080,dr:D01740,Barbital,chemical_mesh_d001462,1929
+hsa04080,dr:D01748,Isoxsuprine,chemical_mesh_d007556,1956
+hsa04080,dr:D01782,Triprolidine,chemical_mesh_d014311,1957
+hsa04080,dr:D01806,Oxprenolol,chemical_mesh_d010096,1967
+hsa04080,dr:D01825,Fluocinolone Acetonide,chemical_mesh_d005446,1961
+hsa04080,dr:D01902,fonazine,chemical_mesh_c100113,1966
+hsa04080,dr:D01978,Tretoquinol,chemical_mesh_d014213,1967
+hsa04080,dr:D02004,Apomorphine,chemical_mesh_d001058,1872
+hsa04080,dr:D02017,cholinophyllin,chemical_mesh_c012839,1954
+hsa04080,dr:D02091,Tripelennamine,chemical_mesh_d014309,1946
+hsa04080,dr:D02095,Naltrexone,chemical_mesh_d009271,1973
+hsa04080,dr:D02101,Codeine,chemical_mesh_d003061,1888
+hsa04080,dr:D02102,Methadone,chemical_mesh_d008691,1947
+hsa04080,dr:D02204,Hexamethonium,chemical_mesh_d018738,1905
+hsa04080,dr:D02207,Tubocurarine,chemical_mesh_d014403,1943
+hsa04080,dr:D02211,Dihydroergotamine,chemical_mesh_d004087,1945
+hsa04080,dr:D02212,Ipratropium,chemical_mesh_d009241,1972
+hsa04080,dr:D02234,Cyproheptadine,chemical_mesh_d003533,1945
+hsa04080,dr:D02292,Gallamine Triethiodide,chemical_mesh_d005703,1949
+hsa04080,dr:D02343,Carboprost,chemical_mesh_d002260,1972
+hsa04080,dr:D02364,Lobeline,chemical_mesh_d008120,1927
+hsa04080,dr:D02396,Hexoprenaline,chemical_mesh_d006594,1970
+hsa04080,dr:D02604,Acepromazine,chemical_mesh_d000075,1957
+hsa04080,dr:D02625,Trifluperidol,chemical_mesh_d014272,1962
+hsa04080,dr:D02671,Mesoridazine,chemical_mesh_d008653,1966
+hsa04080,dr:D02750,aceclidine,chemical_mesh_c084650,1960
+hsa04080,dr:D02769,Adenosine Monophosphate,chemical_mesh_d000249,1935
+hsa04080,dr:D02939,Angiotensin Amide,chemical_mesh_d000802,1940
+hsa04080,dr:D02941,anileridine,chemical_mesh_c100232,1957
+hsa04080,dr:D02950,Antazoline,chemical_mesh_d000865,1946
+hsa04080,dr:D03365,Nicotine,chemical_mesh_d009538,1868
+hsa04080,dr:D03442,Ceruletide,chemical_mesh_d002108,1967
+hsa04080,dr:D03491,Tolnaftate,chemical_mesh_d014047,1950
+hsa04080,dr:D03556,Clopenthixol,chemical_mesh_d003006,1962
+hsa04080,dr:D03618,Cyclazocine,chemical_mesh_d003496,1965
+hsa04080,dr:D03621,Cyclizine,chemical_mesh_d003501,1954
+hsa04080,dr:D03750,Dextrothyroxine,chemical_mesh_d003918,1953
+hsa04080,dr:D03825,dihydrocodeine,chemical_mesh_c014481,1948
+hsa04080,dr:D03860,Diphenoxylate,chemical_mesh_d004157,1960
+hsa04080,dr:D04126,Saralasin,chemical_mesh_d012504,1974
+hsa04080,dr:D04148,Fenfluramine,chemical_mesh_d005277,1954
+hsa04080,dr:D04218,Fluocortolone,chemical_mesh_d005448,1966
+hsa04080,dr:D04227,Fluprednisolone,chemical_mesh_d005477,1961
+hsa04080,dr:D04445,histamine phosphate,chemical_mesh_c027556,1946
+hsa04080,dr:D04531,Indoramin,chemical_mesh_d007217,1970
+hsa04080,dr:D04970,Methacholine Chloride,chemical_mesh_d016210,1935
+hsa04080,dr:D05004,Metiamide,chemical_mesh_d008785,1973
+hsa04080,dr:D05107,Nafronyl,chemical_mesh_d009257,1968
+hsa04080,dr:D05453,Phencyclidine,chemical_mesh_d010622,1959
+hsa04080,dr:D05523,Pizotyline,chemical_mesh_d010918,1967
+hsa04080,dr:D05587,Practolol,chemical_mesh_d011217,1968
+hsa04080,dr:D05660,Pyrilamine,chemical_mesh_d011738,1947
+hsa04080,dr:D06147,Tilidine,chemical_mesh_d013993,1972
+hsa04080,dr:D06176,tolamolol,chemical_mesh_c100227,1973
+hsa04080,dr:D06268,Promedol,chemical_mesh_d011396,1952
+hsa04080,dr:D06344,Xylazine,chemical_mesh_d014991,1969
+hsa04080,dr:D06671,Yohimbine,chemical_mesh_d015016,1935
+hsa04080,dr:D06877,Oxyphenonium,chemical_mesh_d010115,1954
+hsa04080,dr:D07125,Trimeprazine,chemical_mesh_d014291,1957
+hsa04080,dr:D07214,"3,3',5-triiodothyroacetic acid",chemical_mesh_c010642,1954
+hsa04080,dr:D07228,deaminooxytocin,chemical_mesh_c004748,1962
+hsa04080,dr:D07273,fazadinium,chemical_mesh_c084773,1972
+hsa04080,dr:D07286,Heroin,chemical_mesh_d003932,1899
+hsa04080,dr:D07305,Piribedil,chemical_mesh_d010891,1969
+hsa04080,dr:D07330,Chlormethiazole,chemical_mesh_d002719,1961
+hsa04080,dr:D07349,Glycerylphosphorylcholine,chemical_mesh_d005997,1945
+hsa04080,dr:D07464,Paramethasone,chemical_mesh_d010248,1962
+hsa04080,dr:D07833,Dihydroergocristine,chemical_mesh_d025442,1950
+hsa04080,dr:D07906,Ergotamine,chemical_mesh_d004878,1911
+hsa04080,dr:D07929,Ethylmorphine,chemical_mesh_d005036,1904
+hsa04080,dr:D07937,Etorphine,chemical_mesh_d005048,1967
+hsa04080,dr:D07976,flupenthixol decanoate,chemical_mesh_c007761,1971
+hsa04080,dr:D08040,Histamine,chemical_mesh_d006632,1918
+hsa04080,dr:D08123,Levorphanol,chemical_mesh_d007981,1951
+hsa04080,dr:D08170,Melatonin,chemical_mesh_d008550,1958
+hsa04080,dr:D08283,Nordazepam,chemical_mesh_d003708,1971
+hsa04080,dr:D08646,Adenosine Triphosphate,chemical_mesh_d000255,1937
+hsa04080,dr:D10111,Mecamylamine,chemical_mesh_d008464,1955
+hsa04080,dr:D10915,Cannabidiol,chemical_mesh_d002185,1963
+hsa04080,dr:D11149,Pregnanolone,chemical_mesh_d011280,1947
+hsa04114,dr:D00066,Progesterone,chemical_mesh_d011374,1936
+hsa04114,dr:D00075,Testosterone,chemical_mesh_d013739,1936
+hsa04114,dr:D00182,Norethindrone,chemical_mesh_d009640,1957
+hsa04114,dr:D00289,Danazol,chemical_mesh_d003613,1950
+hsa04114,dr:D00327,Fluoxymesterone,chemical_mesh_d005474,1957
+hsa04114,dr:D00408,Methyltestosterone,chemical_mesh_d008777,1939
+hsa04114,dr:D00951,Medroxyprogesterone Acetate,chemical_mesh_d017258,1958
+hsa04114,dr:D00952,Megestrol Acetate,chemical_mesh_d019290,1964
+hsa04114,dr:D00954,Levonorgestrel,chemical_mesh_d016912,1970
+hsa04114,dr:D00959,Testosterone Propionate,chemical_mesh_d043343,1937
+hsa04114,dr:D01217,Dydrogesterone,chemical_mesh_d004394,1961
+hsa04114,dr:D01294,Ethynodiol Diacetate,chemical_mesh_d005040,1962
+hsa04114,dr:D01299,Chlormadinone Acetate,chemical_mesh_d002715,1955
+hsa04114,dr:D01368,Cyproterone Acetate,chemical_mesh_d017373,1966
+hsa04114,dr:D01374,Allylestrenol,chemical_mesh_d000500,1960
+hsa04114,dr:D01534,dromostanolone propionate,chemical_mesh_c007561,1961
+hsa04114,dr:D01580,Lynestrenol,chemical_mesh_d008234,1961
+hsa04114,dr:D04947,Mesterolone,chemical_mesh_d008655,1966
+hsa04114,dr:D05207,Norethynodrel,chemical_mesh_d009641,1957
+hsa04114,dr:D05679,quingestanol,chemical_mesh_c100039,1967
+hsa04114,dr:D07766,Cyproterone,chemical_mesh_d003534,1966
+hsa04114,dr:D08052,17-alpha-Hydroxyprogesterone,chemical_mesh_d019326,1949
+hsa04114,dr:D08166,Medroxyprogesterone,chemical_mesh_d008525,1960
+hsa04115,dr:D00341,Hydroxyurea,chemical_mesh_d006918,1963
+hsa04145,dr:D00570,Colchicine,chemical_mesh_d003078,1890
+hsa04146,dr:D00224,Allopurinol,chemical_mesh_d000493,1964
+hsa04146,dr:D02365,Oxypurinol,chemical_mesh_d010117,1966
+hsa04152,dr:D00595,Buformin,chemical_mesh_d002026,1964
+hsa04152,dr:D00944,Metformin,chemical_mesh_d008687,1958
+hsa04152,dr:D08351,Phenformin,chemical_mesh_d010629,1958
+hsa04260,dr:D00112,Ouabain,chemical_mesh_d010042,1890
+hsa04260,dr:D00297,Digitoxin,chemical_mesh_d004074,1911
+hsa04260,dr:D00298,Digoxin,chemical_mesh_d004077,1946
+hsa04260,dr:D00437,Nifedipine,chemical_mesh_d009543,1972
+hsa04260,dr:D00619,Verapamil,chemical_mesh_d014700,1963
+hsa04260,dr:D00645,Bretylium Tosylate,chemical_mesh_d001950,1960
+hsa04260,dr:D01240,Deslanoside,chemical_mesh_d003892,1957
+hsa04260,dr:D01379,Proscillaridin,chemical_mesh_d011442,1964
+hsa04260,dr:D01969,Gallopamil,chemical_mesh_d005711,1957
+hsa04260,dr:D01972,lanatoside C,chemical_mesh_c018548,1945
+hsa04260,dr:D05442,perhexiline maleate,chemical_mesh_c023470,1969
+hsa04260,dr:D06881,Acetyldigitoxins,chemical_mesh_d000112,1953
+hsa04260,dr:D07555,Acetyldigoxins,chemical_mesh_d000113,1954
+hsa04260,dr:D09847,Medigoxin,chemical_mesh_d008520,1971
+hsa04261,dr:D00076,Norepinephrine,chemical_mesh_d009638,1947
+hsa04261,dr:D00095,Epinephrine,chemical_mesh_d004837,1903
+hsa04261,dr:D00112,Ouabain,chemical_mesh_d010042,1890
+hsa04261,dr:D00124,Ephedrine,chemical_mesh_d004809,1925
+hsa04261,dr:D00235,Atenolol,chemical_mesh_d001262,1972
+hsa04261,dr:D00297,Digitoxin,chemical_mesh_d004074,1911
+hsa04261,dr:D00298,Digoxin,chemical_mesh_d004077,1946
+hsa04261,dr:D00303,Disopyramide,chemical_mesh_d004206,1962
+hsa04261,dr:D00358,Lidocaine,chemical_mesh_d008012,1948
+hsa04261,dr:D00378,Timolol,chemical_mesh_d013999,1972
+hsa04261,dr:D00437,Nifedipine,chemical_mesh_d009543,1972
+hsa04261,dr:D00477,Procainamide,chemical_mesh_d011342,1948
+hsa04261,dr:D00483,Propranolol,chemical_mesh_d011433,1964
+hsa04261,dr:D00509,Phentolamine,chemical_mesh_d010646,1950
+hsa04261,dr:D00511,Phenylephrine,chemical_mesh_d010656,1944
+hsa04261,dr:D00513,Pindolol,chemical_mesh_d010869,1969
+hsa04261,dr:D00597,Acebutolol,chemical_mesh_d000070,1947
+hsa04261,dr:D00601,Metoprolol,chemical_mesh_d008790,1974
+hsa04261,dr:D00609,Prazosin,chemical_mesh_d011224,1970
+hsa04261,dr:D00632,Dobutamine,chemical_mesh_d004280,1974
+hsa04261,dr:D00636,Amiodarone,chemical_mesh_d000638,1967
+hsa04261,dr:D00639,Mexiletine,chemical_mesh_d008801,1970
+hsa04261,dr:D00645,Bretylium Tosylate,chemical_mesh_d001950,1960
+hsa04261,dr:D00997,Tolazoline,chemical_mesh_d014043,1945
+hsa04261,dr:D01019,Metaraminol,chemical_mesh_d008680,1952
+hsa04261,dr:D01020,Methoxamine,chemical_mesh_d008729,1949
+hsa04261,dr:D01026,Sotalol,chemical_mesh_d013015,1967
+hsa04261,dr:D01182,Alprenolol,chemical_mesh_d000526,1968
+hsa04261,dr:D01240,Deslanoside,chemical_mesh_d003892,1957
+hsa04261,dr:D01326,Aprindine,chemical_mesh_d001073,1973
+hsa04261,dr:D01379,Proscillaridin,chemical_mesh_d011442,1964
+hsa04261,dr:D01390,Isoproterenol,chemical_mesh_d007545,1946
+hsa04261,dr:D01444,bunitrolol,chemical_mesh_c084811,1971
+hsa04261,dr:D01573,Etilefrine,chemical_mesh_d005039,1950
+hsa04261,dr:D01748,Isoxsuprine,chemical_mesh_d007556,1956
+hsa04261,dr:D01806,Oxprenolol,chemical_mesh_d010096,1967
+hsa04261,dr:D01969,Gallopamil,chemical_mesh_d005711,1957
+hsa04261,dr:D01972,lanatoside C,chemical_mesh_c018548,1945
+hsa04261,dr:D02939,Angiotensin Amide,chemical_mesh_d000802,1940
+hsa04261,dr:D04531,Indoramin,chemical_mesh_d007217,1970
+hsa04261,dr:D05442,perhexiline maleate,chemical_mesh_c023470,1969
+hsa04261,dr:D05587,Practolol,chemical_mesh_d011217,1968
+hsa04261,dr:D06176,tolamolol,chemical_mesh_c100227,1973
+hsa04261,dr:D06881,Acetyldigitoxins,chemical_mesh_d000112,1953
+hsa04261,dr:D07555,Acetyldigoxins,chemical_mesh_d000113,1954
+hsa04261,dr:D09847,Medigoxin,chemical_mesh_d008520,1971
+hsa04270,dr:D00045,Adenosine,chemical_mesh_d000241,1931
+hsa04270,dr:D00076,Norepinephrine,chemical_mesh_d009638,1947
+hsa04270,dr:D00095,Epinephrine,chemical_mesh_d004837,1903
+hsa04270,dr:D00124,Ephedrine,chemical_mesh_d004809,1925
+hsa04270,dr:D00227,Aminophylline,chemical_mesh_d000628,1925
+hsa04270,dr:D00371,Theophylline,chemical_mesh_d013806,1907
+hsa04270,dr:D00437,Nifedipine,chemical_mesh_d009543,1972
+hsa04270,dr:D00485,Pseudoephedrine,chemical_mesh_d054199,1929
+hsa04270,dr:D00507,Phenoxybenzamine,chemical_mesh_d010643,1953
+hsa04270,dr:D00509,Phentolamine,chemical_mesh_d010646,1950
+hsa04270,dr:D00511,Phenylephrine,chemical_mesh_d010656,1944
+hsa04270,dr:D00528,Caffeine,chemical_mesh_d002110,1860
+hsa04270,dr:D00609,Prazosin,chemical_mesh_d011224,1970
+hsa04270,dr:D00619,Verapamil,chemical_mesh_d014700,1963
+hsa04270,dr:D00636,Amiodarone,chemical_mesh_d000638,1967
+hsa04270,dr:D00680,Methylergonovine,chemical_mesh_d008755,1945
+hsa04270,dr:D00691,Dyphylline,chemical_mesh_d004400,1946
+hsa04270,dr:D00997,Tolazoline,chemical_mesh_d014043,1945
+hsa04270,dr:D01019,Metaraminol,chemical_mesh_d008680,1952
+hsa04270,dr:D01020,Methoxamine,chemical_mesh_d008729,1949
+hsa04270,dr:D01022,Oxymetazoline,chemical_mesh_d010109,1965
+hsa04270,dr:D01023,tetrahydrozoline,chemical_mesh_c005810,1954
+hsa04270,dr:D01163,Ergonovine,chemical_mesh_d004874,1936
+hsa04270,dr:D01224,Phenylpropanolamine,chemical_mesh_d010665,1928
+hsa04270,dr:D01290,Nicergoline,chemical_mesh_d009530,1971
+hsa04270,dr:D01444,bunitrolol,chemical_mesh_c084811,1971
+hsa04270,dr:D01445,ifenprodil,chemical_mesh_c010739,1974
+hsa04270,dr:D01571,Moxisylyte,chemical_mesh_d013948,1965
+hsa04270,dr:D01573,Etilefrine,chemical_mesh_d005039,1950
+hsa04270,dr:D01969,Gallopamil,chemical_mesh_d005711,1957
+hsa04270,dr:D02939,Angiotensin Amide,chemical_mesh_d000802,1940
+hsa04270,dr:D04126,Saralasin,chemical_mesh_d012504,1974
+hsa04270,dr:D04531,Indoramin,chemical_mesh_d007217,1970
+hsa04270,dr:D05442,perhexiline maleate,chemical_mesh_c023470,1969
+hsa04270,dr:D07833,Dihydroergocristine,chemical_mesh_d025442,1950
+hsa04270,dr:D07906,Ergotamine,chemical_mesh_d004878,1911
+hsa04371,dr:D01238,Bucladesine,chemical_mesh_d003994,1968
+hsa04512,dr:D01914,Piracetam,chemical_mesh_d010889,1971
+hsa04540,dr:D00570,Colchicine,chemical_mesh_d003078,1890
+hsa04540,dr:D01068,Vinblastine,chemical_mesh_d014747,1960
+hsa04540,dr:D02197,Vincristine,chemical_mesh_d014750,1962
+hsa04610,dr:D00160,Aminocaproic Acid,chemical_mesh_d015119,1952
+hsa04610,dr:D01136,Tranexamic Acid,chemical_mesh_d014148,1964
+hsa04610,dr:D07568,4-aminomethylbenzoic acid,chemical_mesh_c015668,1964
+hsa04614,dr:D02939,Angiotensin Amide,chemical_mesh_d000802,1940
+hsa04614,dr:D04126,Saralasin,chemical_mesh_d012504,1974
+hsa04640,dr:D00754,Thalidomide,chemical_mesh_d013792,1956
+hsa04659,dr:D00094,Tretinoin,chemical_mesh_d014212,1946
+hsa04668,dr:D00754,Thalidomide,chemical_mesh_d013792,1956
+hsa04713,dr:D08170,Melatonin,chemical_mesh_d008550,1958
+hsa04721,dr:D00197,Reserpine,chemical_mesh_d012110,1953
+hsa04721,dr:D00367,Mazindol,chemical_mesh_d008454,1970
+hsa04721,dr:D00394,Trimipramine,chemical_mesh_d014299,1961
+hsa04721,dr:D00484,Protriptyline,chemical_mesh_d011530,1963
+hsa04721,dr:D00809,Amitriptyline,chemical_mesh_d000639,1960
+hsa04721,dr:D00811,Clomipramine,chemical_mesh_d002997,1964
+hsa04721,dr:D00812,Desipramine,chemical_mesh_d003891,1961
+hsa04721,dr:D00814,Doxepin,chemical_mesh_d004316,1964
+hsa04721,dr:D00815,Imipramine,chemical_mesh_d007099,1958
+hsa04721,dr:D00816,Nortriptyline,chemical_mesh_d009661,1962
+hsa04721,dr:D00818,Maprotiline,chemical_mesh_d008376,1971
+hsa04721,dr:D01296,Methylphenidate,chemical_mesh_d008774,1954
+hsa04721,dr:D01546,Dothiepin,chemical_mesh_d004308,1962
+hsa04721,dr:D02074,Amphetamine,chemical_mesh_d000661,1940
+hsa04721,dr:D02078,Dextroamphetamine,chemical_mesh_d003913,1946
+hsa04721,dr:D02237,Guanethidine,chemical_mesh_d006145,1959
+hsa04721,dr:D02242,Methamphetamine,chemical_mesh_d008694,1945
+hsa04721,dr:D02572,Viloxazine,chemical_mesh_d014745,1974
+hsa04721,dr:D03491,Tolnaftate,chemical_mesh_d014047,1950
+hsa04721,dr:D03801,Diethylpropion,chemical_mesh_d004053,1959
+hsa04721,dr:D04473,p-Hydroxyamphetamine,chemical_mesh_d010136,1940
+hsa04721,dr:D05200,Nomifensine,chemical_mesh_d009627,1973
+hsa04721,dr:D05454,Phenmetrazine,chemical_mesh_d010633,1953
+hsa04721,dr:D05458,Phentermine,chemical_mesh_d010645,1960
+hsa04721,dr:D08575,Tetrabenazine,chemical_mesh_d013747,1959
+hsa04724,dr:D00711,Ketamine,chemical_mesh_d007649,1965
+hsa04724,dr:D00774,Orphenadrine,chemical_mesh_d009966,1958
+hsa04724,dr:D00777,Amantadine,chemical_mesh_d000547,1963
+hsa04724,dr:D00848,Dextromethorphan,chemical_mesh_d003915,1954
+hsa04724,dr:D02102,Methadone,chemical_mesh_d008691,1947
+hsa04724,dr:D05453,Phencyclidine,chemical_mesh_d010622,1959
+hsa04725,dr:D00043,Isoflurophate,chemical_mesh_d007531,1946
+hsa04725,dr:D00113,Atropine,chemical_mesh_d001285,1868
+hsa04725,dr:D00138,Scopolamine,chemical_mesh_d012601,1885
+hsa04725,dr:D00147,Hyoscyamine,chemical_mesh_d064692,1826
+hsa04725,dr:D00193,dexpanthenol,chemical_mesh_c007288,1945
+hsa04725,dr:D00196,Physostigmine,chemical_mesh_d010830,1878
+hsa04725,dr:D00270,Chlorpromazine,chemical_mesh_d002746,1952
+hsa04725,dr:D00469,pralidoxime,chemical_mesh_c028797,1950
+hsa04725,dr:D00481,Propantheline,chemical_mesh_d011413,1953
+hsa04725,dr:D00487,Pyridostigmine Bromide,chemical_mesh_d011729,1953
+hsa04725,dr:D00524,Carbachol,chemical_mesh_d002217,1940
+hsa04725,dr:D00525,Pilocarpine,chemical_mesh_d010862,1878
+hsa04725,dr:D00540,Glycopyrrolate,chemical_mesh_d006024,1962
+hsa04725,dr:D00778,Benztropine,chemical_mesh_d001590,1956
+hsa04725,dr:D00782,Procyclidine,chemical_mesh_d011352,1952
+hsa04725,dr:D00787,Trihexyphenidyl,chemical_mesh_d014282,1949
+hsa04725,dr:D00994,Edrophonium,chemical_mesh_d004491,1951
+hsa04725,dr:D00995,Neostigmine,chemical_mesh_d009388,1935
+hsa04725,dr:D00999,Acetylcholine,chemical_mesh_d000109,1914
+hsa04725,dr:D01000,Bethanechol,chemical_mesh_d018723,1947
+hsa04725,dr:D01004,homatropine,chemical_mesh_c100236,1889
+hsa04725,dr:D01005,isopropamide iodide,chemical_mesh_c084831,1957
+hsa04725,dr:D01077,methylatropine,chemical_mesh_c006649,1936
+hsa04725,dr:D01228,distigmine,chemical_mesh_c084645,1958
+hsa04725,dr:D02068,Tacrine,chemical_mesh_d013619,1961
+hsa04725,dr:D02173,Galantamine,chemical_mesh_d005702,1953
+hsa04725,dr:D02193,Echothiophate Iodide,chemical_mesh_d004456,1959
+hsa04725,dr:D02204,Hexamethonium,chemical_mesh_d018738,1905
+hsa04725,dr:D02212,Ipratropium,chemical_mesh_d009241,1972
+hsa04725,dr:D02292,Gallamine Triethiodide,chemical_mesh_d005703,1949
+hsa04725,dr:D02364,Lobeline,chemical_mesh_d008120,1927
+hsa04725,dr:D02565,dimethacrine,chemical_mesh_c100110,1966
+hsa04725,dr:D02750,aceclidine,chemical_mesh_c084650,1960
+hsa04725,dr:D03365,Nicotine,chemical_mesh_d009538,1868
+hsa04725,dr:D04970,Methacholine Chloride,chemical_mesh_d016210,1935
+hsa04725,dr:D06877,Oxyphenonium,chemical_mesh_d010115,1954
+hsa04725,dr:D07349,Glycerylphosphorylcholine,chemical_mesh_d005997,1945
+hsa04725,dr:D10111,Mecamylamine,chemical_mesh_d008464,1955
+hsa04725,dr:D10529,Paraoxon,chemical_mesh_d010261,1950
+hsa04726,dr:D00197,Reserpine,chemical_mesh_d012110,1953
+hsa04726,dr:D00270,Chlorpromazine,chemical_mesh_d002746,1952
+hsa04726,dr:D00283,Clozapine,chemical_mesh_d003024,1970
+hsa04726,dr:D00367,Mazindol,chemical_mesh_d008454,1970
+hsa04726,dr:D00394,Trimipramine,chemical_mesh_d014299,1961
+hsa04726,dr:D00484,Protriptyline,chemical_mesh_d011530,1963
+hsa04726,dr:D00505,Phenelzine,chemical_mesh_d010624,1959
+hsa04726,dr:D00558,Carbidopa,chemical_mesh_d002230,1970
+hsa04726,dr:D00681,Methysergide,chemical_mesh_d008784,1960
+hsa04726,dr:D00794,Loxapine,chemical_mesh_d008152,1969
+hsa04726,dr:D00809,Amitriptyline,chemical_mesh_d000639,1960
+hsa04726,dr:D00811,Clomipramine,chemical_mesh_d002997,1964
+hsa04726,dr:D00812,Desipramine,chemical_mesh_d003891,1961
+hsa04726,dr:D00814,Doxepin,chemical_mesh_d004316,1964
+hsa04726,dr:D00815,Imipramine,chemical_mesh_d007099,1958
+hsa04726,dr:D00816,Nortriptyline,chemical_mesh_d009661,1962
+hsa04726,dr:D00820,Trazodone,chemical_mesh_d014196,1970
+hsa04726,dr:D00826,Tranylcypromine,chemical_mesh_d014191,1959
+hsa04726,dr:D01477,Opipramol,chemical_mesh_d009888,1961
+hsa04726,dr:D01485,periciazine,chemical_mesh_c084584,1963
+hsa04726,dr:D01546,Dothiepin,chemical_mesh_d004308,1962
+hsa04726,dr:D02211,Dihydroergotamine,chemical_mesh_d004087,1945
+hsa04726,dr:D02234,Cyproheptadine,chemical_mesh_d003533,1945
+hsa04726,dr:D02242,Methamphetamine,chemical_mesh_d008694,1945
+hsa04726,dr:D02564,Pargyline,chemical_mesh_d010293,1961
+hsa04726,dr:D02579,Iproniazid,chemical_mesh_d007490,1953
+hsa04726,dr:D02580,Isocarboxazid,chemical_mesh_d007520,1959
+hsa04726,dr:D02671,Mesoridazine,chemical_mesh_d008653,1966
+hsa04726,dr:D03082,Benserazide,chemical_mesh_d001545,1965
+hsa04726,dr:D03248,Clorgyline,chemical_mesh_d003010,1969
+hsa04726,dr:D03491,Tolnaftate,chemical_mesh_d014047,1950
+hsa04726,dr:D04148,Fenfluramine,chemical_mesh_d005277,1954
+hsa04726,dr:D05458,Phentermine,chemical_mesh_d010645,1960
+hsa04726,dr:D05523,Pizotyline,chemical_mesh_d010918,1967
+hsa04726,dr:D07337,Nialamide,chemical_mesh_d009526,1959
+hsa04726,dr:D08575,Tetrabenazine,chemical_mesh_d013747,1959
+hsa04727,dr:D00058,gamma-Aminobutyric Acid,chemical_mesh_d005680,1950
+hsa04727,dr:D00241,Baclofen,chemical_mesh_d001418,1971
+hsa04727,dr:D00267,Chlordiazepoxide,chemical_mesh_d002707,1960
+hsa04727,dr:D00280,Clonazepam,chemical_mesh_d002998,1969
+hsa04727,dr:D00293,Diazepam,chemical_mesh_d003975,1961
+hsa04727,dr:D00304,Valproic Acid,chemical_mesh_d014635,1967
+hsa04727,dr:D00329,Flurazepam,chemical_mesh_d005479,1968
+hsa04727,dr:D00365,Lorazepam,chemical_mesh_d008140,1969
+hsa04727,dr:D00376,Meprobamate,chemical_mesh_d008620,1954
+hsa04727,dr:D00430,Secobarbital,chemical_mesh_d012631,1948
+hsa04727,dr:D00464,Oxazepam,chemical_mesh_d010076,1964
+hsa04727,dr:D00499,Pentobarbital,chemical_mesh_d010424,1932
+hsa04727,dr:D00506,Phenobarbital,chemical_mesh_d010634,1921
+hsa04727,dr:D00531,Nitrazepam,chemical_mesh_d009567,1962
+hsa04727,dr:D00532,Glutethimide,chemical_mesh_d005984,1954
+hsa04727,dr:D00555,Amobarbital,chemical_mesh_d000654,1930
+hsa04727,dr:D00694,Clorazepate Dipotassium,chemical_mesh_d003009,1968
+hsa04727,dr:D00700,Mephobarbital,chemical_mesh_d008618,1950
+hsa04727,dr:D00713,Thiamylal,chemical_mesh_d013840,1947
+hsa04727,dr:D00714,Thiopental,chemical_mesh_d013874,1936
+hsa04727,dr:D01071,Hexobarbital,chemical_mesh_d006591,1934
+hsa04727,dr:D01150,methyprylon,chemical_mesh_c084583,1955
+hsa04727,dr:D01230,Flunitrazepam,chemical_mesh_d005445,1971
+hsa04727,dr:D01245,Bromazepam,chemical_mesh_d001960,1966
+hsa04727,dr:D01292,Medazepam,chemical_mesh_d008472,1966
+hsa04727,dr:D01740,Barbital,chemical_mesh_d001462,1929
+hsa04727,dr:D07330,Chlormethiazole,chemical_mesh_d002719,1961
+hsa04727,dr:D08283,Nordazepam,chemical_mesh_d003708,1971
+hsa04727,dr:D11149,Pregnanolone,chemical_mesh_d011280,1947
+hsa04728,dr:D00059,Levodopa,chemical_mesh_d007980,1926
+hsa04728,dr:D00136,Haloperidol,chemical_mesh_d006220,1958
+hsa04728,dr:D00152,Phloroglucinol,chemical_mesh_d010696,1930
+hsa04728,dr:D00197,Reserpine,chemical_mesh_d012110,1953
+hsa04728,dr:D00252,Carbamazepine,chemical_mesh_d002220,1962
+hsa04728,dr:D00270,Chlorpromazine,chemical_mesh_d002746,1952
+hsa04728,dr:D00283,Clozapine,chemical_mesh_d003024,1970
+hsa04728,dr:D00303,Disopyramide,chemical_mesh_d004206,1962
+hsa04728,dr:D00308,Droperidol,chemical_mesh_d004329,1963
+hsa04728,dr:D00358,Lidocaine,chemical_mesh_d008012,1948
+hsa04728,dr:D00367,Mazindol,chemical_mesh_d008454,1970
+hsa04728,dr:D00373,Thioridazine,chemical_mesh_d013881,1958
+hsa04728,dr:D00374,Thiothixene,chemical_mesh_d013888,1965
+hsa04728,dr:D00375,Mephenytoin,chemical_mesh_d008617,1946
+hsa04728,dr:D00390,Triflupromazine,chemical_mesh_d014273,1957
+hsa04728,dr:D00403,Methotrimeprazine,chemical_mesh_d008728,1957
+hsa04728,dr:D00477,Procainamide,chemical_mesh_d011342,1948
+hsa04728,dr:D00479,Prochlorperazine,chemical_mesh_d011346,1957
+hsa04728,dr:D00503,Perphenazine,chemical_mesh_d010546,1957
+hsa04728,dr:D00505,Phenelzine,chemical_mesh_d010624,1959
+hsa04728,dr:D00512,Phenytoin,chemical_mesh_d010672,1939
+hsa04728,dr:D00551,Tetracaine,chemical_mesh_d013748,1933
+hsa04728,dr:D00552,Benzocaine,chemical_mesh_d001566,1946
+hsa04728,dr:D00553,Prilocaine,chemical_mesh_d011318,1960
+hsa04728,dr:D00558,Carbidopa,chemical_mesh_d002230,1970
+hsa04728,dr:D00560,Pimozide,chemical_mesh_d010868,1968
+hsa04728,dr:D00633,Dopamine,chemical_mesh_d004298,1941
+hsa04728,dr:D00639,Mexiletine,chemical_mesh_d008801,1970
+hsa04728,dr:D00726,Metoclopramide,chemical_mesh_d008787,1964
+hsa04728,dr:D00732,chloroprocaine,chemical_mesh_c004616,1951
+hsa04728,dr:D00733,Dibucaine,chemical_mesh_d003992,1931
+hsa04728,dr:D00737,Etidocaine,chemical_mesh_d005041,1972
+hsa04728,dr:D00738,Mepivacaine,chemical_mesh_d008619,1951
+hsa04728,dr:D00740,Procaine,chemical_mesh_d011343,1910
+hsa04728,dr:D00777,Amantadine,chemical_mesh_d000547,1963
+hsa04728,dr:D00780,Bromocriptine,chemical_mesh_d001971,1970
+hsa04728,dr:D00790,Chlorprothixene,chemical_mesh_d002749,1959
+hsa04728,dr:D00791,Fluphenazine,chemical_mesh_d005476,1959
+hsa04728,dr:D00792,fluphenazine enanthate,chemical_mesh_c017610,1962
+hsa04728,dr:D00793,fluphenazine depot,chemical_mesh_c011825,1968
+hsa04728,dr:D00794,Loxapine,chemical_mesh_d008152,1969
+hsa04728,dr:D00796,Molindone,chemical_mesh_d008972,1967
+hsa04728,dr:D00797,Promazine,chemical_mesh_d011395,1955
+hsa04728,dr:D00799,Trifluoperazine,chemical_mesh_d014268,1958
+hsa04728,dr:D00826,Tranylcypromine,chemical_mesh_d014191,1959
+hsa04728,dr:D01044,Flupenthixol,chemical_mesh_d005475,1964
+hsa04728,dr:D01130,Thiethylperazine,chemical_mesh_d013847,1961
+hsa04728,dr:D01226,Sulpiride,chemical_mesh_d013469,1967
+hsa04728,dr:D01296,Methylphenidate,chemical_mesh_d008774,1954
+hsa04728,dr:D01326,Aprindine,chemical_mesh_d001073,1973
+hsa04728,dr:D01447,thioproperazine,chemical_mesh_c084825,1959
+hsa04728,dr:D01450,Bupivacaine,chemical_mesh_d002045,1966
+hsa04728,dr:D01477,Opipramol,chemical_mesh_d009888,1961
+hsa04728,dr:D01482,pipamperone,chemical_mesh_c005569,1961
+hsa04728,dr:D01485,periciazine,chemical_mesh_c084584,1963
+hsa04728,dr:D02004,Apomorphine,chemical_mesh_d001058,1872
+hsa04728,dr:D02074,Amphetamine,chemical_mesh_d000661,1940
+hsa04728,dr:D02078,Dextroamphetamine,chemical_mesh_d003913,1946
+hsa04728,dr:D02102,Methadone,chemical_mesh_d008691,1947
+hsa04728,dr:D02242,Methamphetamine,chemical_mesh_d008694,1945
+hsa04728,dr:D02564,Pargyline,chemical_mesh_d010293,1961
+hsa04728,dr:D02579,Iproniazid,chemical_mesh_d007490,1953
+hsa04728,dr:D02580,Isocarboxazid,chemical_mesh_d007520,1959
+hsa04728,dr:D02604,Acepromazine,chemical_mesh_d000075,1957
+hsa04728,dr:D02625,Trifluperidol,chemical_mesh_d014272,1962
+hsa04728,dr:D02671,Mesoridazine,chemical_mesh_d008653,1966
+hsa04728,dr:D03082,Benserazide,chemical_mesh_d001545,1965
+hsa04728,dr:D03248,Clorgyline,chemical_mesh_d003010,1969
+hsa04728,dr:D03556,Clopenthixol,chemical_mesh_d003006,1962
+hsa04728,dr:D03801,Diethylpropion,chemical_mesh_d004053,1959
+hsa04728,dr:D05454,Phenmetrazine,chemical_mesh_d010633,1953
+hsa04728,dr:D05458,Phentermine,chemical_mesh_d010645,1960
+hsa04728,dr:D07305,Piribedil,chemical_mesh_d010891,1969
+hsa04728,dr:D07337,Nialamide,chemical_mesh_d009526,1959
+hsa04728,dr:D07976,flupenthixol decanoate,chemical_mesh_c007761,1971
+hsa04728,dr:D08575,Tetrabenazine,chemical_mesh_d013747,1959
+hsa04750,dr:D00480,Promethazine,chemical_mesh_d011398,1948
+hsa04750,dr:D00663,Brompheniramine,chemical_mesh_d001977,1958
+hsa04750,dr:D00665,Chlorpheniramine,chemical_mesh_d002744,1879
+hsa04750,dr:D00814,Doxepin,chemical_mesh_d004316,1964
+hsa04750,dr:D01317,Meclizine,chemical_mesh_d008468,1954
+hsa04750,dr:D01782,Triprolidine,chemical_mesh_d014311,1957
+hsa04750,dr:D02234,Cyproheptadine,chemical_mesh_d003533,1945
+hsa04750,dr:D03491,Tolnaftate,chemical_mesh_d014047,1950
+hsa04750,dr:D03621,Cyclizine,chemical_mesh_d003501,1954
+hsa04750,dr:D07125,Trimeprazine,chemical_mesh_d014291,1957
+hsa04910,dr:D00595,Buformin,chemical_mesh_d002026,1964
+hsa04910,dr:D00944,Metformin,chemical_mesh_d008687,1958
+hsa04910,dr:D01238,Bucladesine,chemical_mesh_d003994,1968
+hsa04910,dr:D08351,Phenformin,chemical_mesh_d010629,1958
+hsa04911,dr:D00219,Acetohexamide,chemical_mesh_d000092,1961
+hsa04911,dr:D00271,Chlorpropamide,chemical_mesh_d002747,1958
+hsa04911,dr:D00294,Diazoxide,chemical_mesh_d003981,1962
+hsa04911,dr:D00335,Glipizide,chemical_mesh_d005913,1971
+hsa04911,dr:D00336,Glyburide,chemical_mesh_d005905,1968
+hsa04911,dr:D00379,Tolazamide,chemical_mesh_d014042,1962
+hsa04911,dr:D00380,Tolbutamide,chemical_mesh_d014044,1956
+hsa04911,dr:D02425,Carbutamide,chemical_mesh_d002271,1956
+hsa04914,dr:D00066,Progesterone,chemical_mesh_d011374,1936
+hsa04914,dr:D00182,Norethindrone,chemical_mesh_d009640,1957
+hsa04914,dr:D00289,Danazol,chemical_mesh_d003613,1950
+hsa04914,dr:D00951,Medroxyprogesterone Acetate,chemical_mesh_d017258,1958
+hsa04914,dr:D00952,Megestrol Acetate,chemical_mesh_d019290,1964
+hsa04914,dr:D00954,Levonorgestrel,chemical_mesh_d016912,1970
+hsa04914,dr:D01217,Dydrogesterone,chemical_mesh_d004394,1961
+hsa04914,dr:D01294,Ethynodiol Diacetate,chemical_mesh_d005040,1962
+hsa04914,dr:D01299,Chlormadinone Acetate,chemical_mesh_d002715,1955
+hsa04914,dr:D01374,Allylestrenol,chemical_mesh_d000500,1960
+hsa04914,dr:D01580,Lynestrenol,chemical_mesh_d008234,1961
+hsa04914,dr:D05207,Norethynodrel,chemical_mesh_d009641,1957
+hsa04914,dr:D05679,quingestanol,chemical_mesh_c100039,1967
+hsa04914,dr:D08052,17-alpha-Hydroxyprogesterone,chemical_mesh_d019326,1949
+hsa04914,dr:D08166,Medroxyprogesterone,chemical_mesh_d008525,1960
+hsa04915,dr:D00066,Progesterone,chemical_mesh_d011374,1936
+hsa04915,dr:D00067,Estrone,chemical_mesh_d004970,1934
+hsa04915,dr:D00105,Estradiol,chemical_mesh_d004958,1937
+hsa04915,dr:D00182,Norethindrone,chemical_mesh_d009640,1957
+hsa04915,dr:D00185,Estriol,chemical_mesh_d004964,1934
+hsa04915,dr:D00269,Chlorotrianisene,chemical_mesh_d002741,1951
+hsa04915,dr:D00289,Danazol,chemical_mesh_d003613,1950
+hsa04915,dr:D00312,estrone sulfate,chemical_mesh_c017296,1945
+hsa04915,dr:D00554,Ethinyl Estradiol,chemical_mesh_d004997,1946
+hsa04915,dr:D00575,Mestranol,chemical_mesh_d008656,1963
+hsa04915,dr:D00576,Quinestrol,chemical_mesh_d011800,1966
+hsa04915,dr:D00577,Diethylstilbestrol,chemical_mesh_d004054,1939
+hsa04915,dr:D00898,Dienestrol,chemical_mesh_d004028,1944
+hsa04915,dr:D00946,fosfestrol,chemical_mesh_c004955,1955
+hsa04915,dr:D00951,Medroxyprogesterone Acetate,chemical_mesh_d017258,1958
+hsa04915,dr:D00952,Megestrol Acetate,chemical_mesh_d019290,1964
+hsa04915,dr:D00954,Levonorgestrel,chemical_mesh_d016912,1970
+hsa04915,dr:D01217,Dydrogesterone,chemical_mesh_d004394,1961
+hsa04915,dr:D01294,Ethynodiol Diacetate,chemical_mesh_d005040,1962
+hsa04915,dr:D01299,Chlormadinone Acetate,chemical_mesh_d002715,1955
+hsa04915,dr:D01374,Allylestrenol,chemical_mesh_d000500,1960
+hsa04915,dr:D01414,Ethylestrenol,chemical_mesh_d005032,1961
+hsa04915,dr:D01580,Lynestrenol,chemical_mesh_d008234,1961
+hsa04915,dr:D01617,estradiol dipropionate,chemical_mesh_c023482,1947
+hsa04915,dr:D01641,Hexestrol,chemical_mesh_d006589,1945
+hsa04915,dr:D01953,estradiol 3-benzoate,chemical_mesh_c074283,1937
+hsa04915,dr:D05106,Nafoxidine,chemical_mesh_d009256,1968
+hsa04915,dr:D05679,quingestanol,chemical_mesh_c100039,1967
+hsa04915,dr:D07920,estriol succinate,chemical_mesh_c009341,1961
+hsa04915,dr:D08052,17-alpha-Hydroxyprogesterone,chemical_mesh_d019326,1949
+hsa04915,dr:D08166,Medroxyprogesterone,chemical_mesh_d008525,1960
+hsa04915,dr:D08409,Dehydroepiandrosterone,chemical_mesh_d003687,1946
+hsa04915,dr:D08910,Clomiphene,chemical_mesh_d002996,1960
+hsa04916,dr:D00073,hydroquinone,chemical_mesh_c031927,1919
+hsa04917,dr:D00780,Bromocriptine,chemical_mesh_d001971,1970
+hsa04918,dr:D00401,Methimazole,chemical_mesh_d008713,1949
+hsa04918,dr:D00562,Propylthiouracil,chemical_mesh_d011441,1946
+hsa04918,dr:D07231,Methylthiouracil,chemical_mesh_d008779,1945
+hsa04918,dr:D07616,Carbimazole,chemical_mesh_d002231,1953
+hsa04919,dr:D00562,Propylthiouracil,chemical_mesh_d011441,1946
+hsa04919,dr:D01010,Thyroxine,chemical_mesh_d013974,1921
+hsa04919,dr:D01011,Triiodothyronine,chemical_mesh_d014284,1952
+hsa04919,dr:D03750,Dextrothyroxine,chemical_mesh_d003918,1953
+hsa04919,dr:D07214,"3,3',5-triiodothyroacetic acid",chemical_mesh_c010642,1954
+hsa04920,dr:D00279,Clofibrate,chemical_mesh_d002994,1962
+hsa04920,dr:D00595,Buformin,chemical_mesh_d002026,1964
+hsa04920,dr:D00944,Metformin,chemical_mesh_d008687,1958
+hsa04920,dr:D08351,Phenformin,chemical_mesh_d010629,1958
+hsa04921,dr:D00089,Oxytocin,chemical_mesh_d010121,1932
+hsa04921,dr:D07228,deaminooxytocin,chemical_mesh_c004748,1962
+hsa04922,dr:D01238,Bucladesine,chemical_mesh_d003994,1968
+hsa04923,dr:D01238,Bucladesine,chemical_mesh_d003994,1968
+hsa04924,dr:D02939,Angiotensin Amide,chemical_mesh_d000802,1940
+hsa04925,dr:D01238,Bucladesine,chemical_mesh_d003994,1968
+hsa04930,dr:D00219,Acetohexamide,chemical_mesh_d000092,1961
+hsa04930,dr:D00271,Chlorpropamide,chemical_mesh_d002747,1958
+hsa04930,dr:D00335,Glipizide,chemical_mesh_d005913,1971
+hsa04930,dr:D00336,Glyburide,chemical_mesh_d005905,1968
+hsa04930,dr:D00379,Tolazamide,chemical_mesh_d014042,1962
+hsa04930,dr:D00380,Tolbutamide,chemical_mesh_d014044,1956
+hsa04930,dr:D02425,Carbutamide,chemical_mesh_d002271,1956
+hsa04960,dr:D00386,Triamterene,chemical_mesh_d014223,1961
+hsa04960,dr:D00443,Spironolactone,chemical_mesh_d013148,1958
+hsa04960,dr:D00649,Amiloride,chemical_mesh_d000584,1966
+hsa04960,dr:D01943,Canrenoic Acid,chemical_mesh_d002191,1964
+hsa04960,dr:D03698,Desoxycorticosterone Acetate,chemical_mesh_d064791,1938
+hsa04960,dr:D07792,Desoxycorticosterone,chemical_mesh_d003900,1941
+hsa04960,dr:D07967,Fludrocortisone,chemical_mesh_d005438,1955
+hsa04960,dr:D10528,Aldosterone,chemical_mesh_d000450,1950
+hsa04961,dr:D00105,Estradiol,chemical_mesh_d004958,1937
+hsa04961,dr:D00122,Calcifediol,chemical_mesh_d002112,1968
+hsa04961,dr:D00129,Calcitriol,chemical_mesh_d002117,1971
+hsa04961,dr:D00185,Estriol,chemical_mesh_d004964,1934
+hsa04961,dr:D00187,Ergocalciferols,chemical_mesh_d004872,1927
+hsa04961,dr:D00188,Cholecalciferol,chemical_mesh_d002762,1946
+hsa04961,dr:D00299,Dihydrotachysterol,chemical_mesh_d004097,1938
+hsa04961,dr:D01518,alfacalcidol,chemical_mesh_c008088,1973
+hsa04964,dr:D00218,Acetazolamide,chemical_mesh_d000086,1952
+hsa04964,dr:D00518,Dichlorphenamide,chemical_mesh_d004005,1957
+hsa04970,dr:D00095,Epinephrine,chemical_mesh_d004837,1903
+hsa04970,dr:D00124,Ephedrine,chemical_mesh_d004809,1925
+hsa04970,dr:D00147,Hyoscyamine,chemical_mesh_d064692,1826
+hsa04970,dr:D00525,Pilocarpine,chemical_mesh_d010862,1878
+hsa04970,dr:D00743,Naphazoline,chemical_mesh_d009278,1947
+hsa04970,dr:D00999,Acetylcholine,chemical_mesh_d000109,1914
+hsa04970,dr:D01444,bunitrolol,chemical_mesh_c084811,1971
+hsa04970,dr:D04970,Methacholine Chloride,chemical_mesh_d016210,1935
+hsa04971,dr:D00113,Atropine,chemical_mesh_d001285,1868
+hsa04971,dr:D00147,Hyoscyamine,chemical_mesh_d064692,1826
+hsa04971,dr:D00481,Propantheline,chemical_mesh_d011413,1953
+hsa04971,dr:D00540,Glycopyrrolate,chemical_mesh_d006024,1962
+hsa04971,dr:D00999,Acetylcholine,chemical_mesh_d000109,1914
+hsa04971,dr:D01000,Bethanechol,chemical_mesh_d018723,1947
+hsa04971,dr:D01005,isopropamide iodide,chemical_mesh_c084831,1957
+hsa04971,dr:D01187,Betazole,chemical_mesh_d001625,1952
+hsa04971,dr:D01631,Pentagastrin,chemical_mesh_d010418,1967
+hsa04971,dr:D04445,histamine phosphate,chemical_mesh_c027556,1946
+hsa04971,dr:D04970,Methacholine Chloride,chemical_mesh_d016210,1935
+hsa04971,dr:D05004,Metiamide,chemical_mesh_d008785,1973
+hsa04972,dr:D03442,Ceruletide,chemical_mesh_d002108,1967
+hsa04972,dr:D04970,Methacholine Chloride,chemical_mesh_d016210,1935
+hsa04976,dr:D00163,Chenodeoxycholic Acid,chemical_mesh_d002635,1955
+hsa04978,dr:D00129,Calcitriol,chemical_mesh_d002117,1971
+hsa04978,dr:D00187,Ergocalciferols,chemical_mesh_d004872,1927
+hsa04978,dr:D00188,Cholecalciferol,chemical_mesh_d002762,1946
+hsa04978,dr:D00299,Dihydrotachysterol,chemical_mesh_d004097,1938
+hsa04978,dr:D01518,alfacalcidol,chemical_mesh_c008088,1973
+hsa05012,dr:D00059,Levodopa,chemical_mesh_d007980,1926
+hsa05012,dr:D00780,Bromocriptine,chemical_mesh_d001971,1970
+hsa05012,dr:D02004,Apomorphine,chemical_mesh_d001058,1872
+hsa05022,dr:D04148,Fenfluramine,chemical_mesh_d005277,1954
+hsa05031,dr:D02074,Amphetamine,chemical_mesh_d000661,1940
+hsa05031,dr:D02078,Dextroamphetamine,chemical_mesh_d003913,1946
+hsa05031,dr:D02242,Methamphetamine,chemical_mesh_d008694,1945
+hsa05032,dr:D01340,Naloxone,chemical_mesh_d009270,1965
+hsa05032,dr:D02095,Naltrexone,chemical_mesh_d009271,1973
+hsa05033,dr:D03365,Nicotine,chemical_mesh_d009538,1868
+hsa05200,dr:D00094,Tretinoin,chemical_mesh_d014212,1946
+hsa05200,dr:D00327,Fluoxymesterone,chemical_mesh_d005474,1957
+hsa05200,dr:D00408,Methyltestosterone,chemical_mesh_d008777,1939
+hsa05200,dr:D00554,Ethinyl Estradiol,chemical_mesh_d004997,1946
+hsa05200,dr:D00586,Flutamide,chemical_mesh_d005485,1966
+hsa05200,dr:D01534,dromostanolone propionate,chemical_mesh_c007561,1961
+hsa05202,dr:D00094,Tretinoin,chemical_mesh_d014212,1946
+hsa05206,dr:D03021,Azacitidine,chemical_mesh_d001374,1964
+hsa05215,dr:D00586,Flutamide,chemical_mesh_d005485,1966
+hsa05215,dr:D01299,Chlormadinone Acetate,chemical_mesh_d002715,1955
+hsa05221,dr:D00094,Tretinoin,chemical_mesh_d014212,1946
+hsa05224,dr:D00554,Ethinyl Estradiol,chemical_mesh_d004997,1946
+hsa05224,dr:D00951,Medroxyprogesterone Acetate,chemical_mesh_d017258,1958
+hsa05320,dr:D00562,Propylthiouracil,chemical_mesh_d011441,1946

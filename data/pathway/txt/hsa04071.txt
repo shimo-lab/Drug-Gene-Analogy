@@ -1,0 +1,248 @@
+ENTRY       hsa04071                    Pathway
+NAME        Sphingolipid signaling pathway - Homo sapiens (human)
+DESCRIPTION Sphingomyelin (SM) and its metabolic products are now known to have second messenger functions in a variety of cellular signaling pathways. Particularly, the sphingolipid metabolites, ceramide (Cer) and sphingosine-1-phosphate (S1P), have emerged as a new class of potent bioactive molecules. Ceramide can be generated de novo or by hydrolysis of membrane sphingomyelin by sphingomyelinase (SMase). Ceramide is subsequently metabolized by ceramidase to generate sphingosine (Sph) which in turn produces S1P through phosphorylation by sphingosine kinases 1 and 2 (SphK1, 2). Both ceramide and S1P regulate cellular responses to stress, with generally opposing effects. S1P functions as a growth and survival factor, acting as a ligand for a family of G protein-coupled receptors, whereas ceramide activates intrinsic and extrinsic apoptotic pathways through receptor-independent mechanisms.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP hsa04071  Sphingolipid signaling pathway
+DRUG        D04187  Fingolimod hydrochloride (JAN/USAN)
+            D10001  Fingolimod (INN)
+            D10820  Olipudase alfa (USAN/INN)
+            D10904  Amiselimod hydrochloride (USAN)
+            D10905  Amiselimod (USAN/INN)
+            D10930  Etrasimod (USAN)
+            D10967  Ozanimod hydrochloride (JAN/USAN)
+            D10968  Ozanimod (USAN/INN)
+            D11072  Siponimod fumarate (USAN)
+            D11215  Ponesimod (USAN/INN)
+            D11283  Cenerimod (USAN/INN)
+            D11460  Siponimod (USAN/INN)
+            D12376  Udifitimod (USAN)
+            D12377  Udifitimod hydrochloride (USAN)
+            D12549  Fingolimod lauryl sulfate
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10558  SPTLC1; serine palmitoyltransferase long chain base subunit 1 [KO:K00654] [EC:2.3.1.50]
+            9517  SPTLC2; serine palmitoyltransferase long chain base subunit 2 [KO:K00654] [EC:2.3.1.50]
+            55304  SPTLC3; serine palmitoyltransferase long chain base subunit 3 [KO:K00654] [EC:2.3.1.50]
+            171546  SPTSSA; serine palmitoyltransferase small subunit A [KO:K26384]
+            165679  SPTSSB; serine palmitoyltransferase small subunit B [KO:K26384]
+            10715  CERS1; ceramide synthase 1 [KO:K04710] [EC:2.3.1.299]
+            29956  CERS2; ceramide synthase 2 [KO:K24621] [EC:2.3.1.297]
+            79603  CERS4; ceramide synthase 4 [KO:K24621] [EC:2.3.1.297]
+            204219  CERS3; ceramide synthase 3 [KO:K24622] [EC:2.3.1.297 2.3.1.298]
+            253782  CERS6; ceramide synthase 6 [KO:K23727] [EC:2.3.1.291]
+            91012  CERS5; ceramide synthase 5 [KO:K23727] [EC:2.3.1.291]
+            8560  DEGS1; delta 4-desaturase, sphingolipid 1 [KO:K04712] [EC:1.14.19.17 1.14.18.5]
+            123099  DEGS2; delta 4-desaturase, sphingolipid 2 [KO:K04712] [EC:1.14.19.17 1.14.18.5]
+            6609  SMPD1; sphingomyelin phosphodiesterase 1 [KO:K12350] [EC:3.1.4.12]
+            259230  SGMS1; sphingomyelin synthase 1 [KO:K04714] [EC:2.7.8.27]
+            166929  SGMS2; sphingomyelin synthase 2 [KO:K04714] [EC:2.7.8.27]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8439  NSMAF; neutral sphingomyelinase activation associated factor [KO:K18953]
+            6610  SMPD2; sphingomyelin phosphodiesterase 2 [KO:K12351] [EC:3.1.4.12]
+            427  ASAH1; N-acylsphingosine amidohydrolase 1 [KO:K12348] [EC:3.5.1.23]
+            56624  ASAH2; N-acylsphingosine amidohydrolase 2 [KO:K12349] [EC:3.5.1.23]
+            340485  ACER2; alkaline ceramidase 2 [KO:K01441] [EC:3.5.1.23]
+            125981  ACER1; alkaline ceramidase 1 [KO:K01441] [EC:3.5.1.23]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            1509  CTSD; cathepsin D [KO:K01379] [EC:3.4.23.5]
+            637  BID; BH3 interacting domain death agonist [KO:K04726]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            5519  PPP2R1B; protein phosphatase 2 scaffold subunit Abeta [KO:K03456]
+            5518  PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha [KO:K03456]
+            5520  PPP2R2A; protein phosphatase 2 regulatory subunit Balpha [KO:K04354]
+            5521  PPP2R2B; protein phosphatase 2 regulatory subunit Bbeta [KO:K04354]
+            5522  PPP2R2C; protein phosphatase 2 regulatory subunit Bgamma [KO:K04354]
+            55844  PPP2R2D; protein phosphatase 2 regulatory subunit Bdelta [KO:K04354]
+            28227  PPP2R3B; protein phosphatase 2 regulatory subunit B''beta [KO:K11583]
+            55012  PPP2R3C; protein phosphatase 2 regulatory subunit B''gamma [KO:K11583]
+            5523  PPP2R3A; protein phosphatase 2 regulatory subunit B''alpha [KO:K11583]
+            5526  PPP2R5B; protein phosphatase 2 regulatory subunit B'beta [KO:K11584]
+            5527  PPP2R5C; protein phosphatase 2 regulatory subunit B'gamma [KO:K11584]
+            5528  PPP2R5D; protein phosphatase 2 regulatory subunit B'delta [KO:K11584]
+            5529  PPP2R5E; protein phosphatase 2 regulatory subunit B'epsilon [KO:K11584]
+            5525  PPP2R5A; protein phosphatase 2 regulatory subunit B'alpha [KO:K11584]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            2205  FCER1A; Fc epsilon receptor Ia [KO:K08089]
+            2206  MS4A2; membrane spanning 4-domains A2 [KO:K08090]
+            2207  FCER1G; Fc epsilon receptor Ig [KO:K07983]
+            2534  FYN; FYN proto-oncogene, Src family tyrosine kinase [KO:K05703] [EC:2.7.10.2]
+            9846  GAB2; GRB2 associated binding protein 2 [KO:K08091]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5337  PLD1; phospholipase D1 [KO:K01115] [EC:3.1.4.4]
+            5338  PLD2; phospholipase D2 [KO:K01115] [EC:3.1.4.4]
+            8877  SPHK1; sphingosine kinase 1 [KO:K04718] [EC:2.7.1.91]
+            56848  SPHK2; sphingosine kinase 2 [KO:K04718] [EC:2.7.1.91]
+            3827  KNG1; kininogen 1 [KO:K03898]
+            134  ADORA1; adenosine A1 receptor [KO:K04265]
+            140  ADORA3; adenosine A3 receptor [KO:K04268]
+            624  BDKRB2; bradykinin receptor B2 [KO:K03916]
+            4985  OPRD1; opioid receptor delta 1 [KO:K04213]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5581  PRKCE; protein kinase C epsilon [KO:K18050] [EC:2.7.11.13]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            81537  SGPP1; sphingosine-1-phosphate phosphatase 1 [KO:K04716] [EC:3.1.3.-]
+            130367  SGPP2; sphingosine-1-phosphate phosphatase 2 [KO:K04717] [EC:3.1.3.-]
+            4363  ABCC1; ATP binding cassette subfamily C member 1 [KO:K05665] [EC:7.6.2.3]
+            8879  SGPL1; sphingosine-1-phosphate lyase 1 [KO:K01634] [EC:4.1.2.27]
+            1901  S1PR1; sphingosine-1-phosphate receptor 1 [KO:K04288]
+            9294  S1PR2; sphingosine-1-phosphate receptor 2 [KO:K04292]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            5881  RAC3; Rac family small GTPase 3 [KO:K07861]
+            1903  S1PR3; sphingosine-1-phosphate receptor 3 [KO:K04290]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            8698  S1PR4; sphingosine-1-phosphate receptor 4 [KO:K04293]
+            53637  S1PR5; sphingosine-1-phosphate receptor 5 [KO:K04295]
+            2768  GNA12; G protein subunit alpha 12 [KO:K04346]
+            10672  GNA13; G protein subunit alpha 13 [KO:K04639]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+COMPOUND    C00065  L-Serine
+            C00154  Palmitoyl-CoA
+            C00165  Diacylglycerol
+            C00195  N-Acylsphingosine
+            C00212  Adenosine
+            C00319  Sphingosine
+            C00346  Ethanolamine phosphate
+            C00533  Nitric oxide
+            C00550  Sphingomyelin
+            C00836  Sphinganine
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C06124  Sphingosine 1-phosphate
+            C12126  Dihydroceramide
+            C16845  Peroxynitrite
+REFERENCE   PMID:18216770
+  AUTHORS   Hannun YA, Obeid LM
+  TITLE     Principles of bioactive lipid signalling: lessons from sphingolipids.
+  JOURNAL   Nat Rev Mol Cell Biol 9:139-50 (2008)
+            DOI:10.1038/nrm2329
+REFERENCE   PMID:17161984
+  AUTHORS   Taha TA, Mullen TD, Obeid LM
+  TITLE     A house divided: ceramide, sphingosine, and sphingosine-1-phosphate in programmed cell death.
+  JOURNAL   Biochim Biophys Acta 1758:2027-36 (2006)
+            DOI:10.1016/j.bbamem.2006.10.018
+REFERENCE   PMID:23919551
+  AUTHORS   Liu J, Beckman BS, Foroozesh M
+  TITLE     A review of ceramide analogs as potential anticancer agents.
+  JOURNAL   Future Med Chem 5:1405-21 (2013)
+            DOI:10.4155/fmc.13.107
+REFERENCE   PMID:18675379
+  AUTHORS   Kono M, Allende ML, Proia RL
+  TITLE     Sphingosine-1-phosphate regulation of mammalian development.
+  JOURNAL   Biochim Biophys Acta 1781:435-41 (2008)
+            DOI:10.1016/j.bbalip.2008.07.001
+REFERENCE   PMID:18403224
+  AUTHORS   Olivera A
+  TITLE     Unraveling the complexities of sphingosine-1-phosphate function: the mast cell model.
+  JOURNAL   Prostaglandins Other Lipid Mediat 86:1-11 (2008)
+            DOI:10.1016/j.prostaglandins.2008.02.005
+REFERENCE   PMID:25309325
+  AUTHORS   Brunkhorst R, Vutukuri R, Pfeilschifter W
+  TITLE     Fingolimod for the treatment of neurological diseases-state of play and future perspectives.
+  JOURNAL   Front Cell Neurosci 8:283 (2014)
+            DOI:10.3389/fncel.2014.00283
+REFERENCE   PMID:15999095
+  AUTHORS   Rosen H, Goetzl EJ
+  TITLE     Sphingosine 1-phosphate and its receptors: an autocrine and paracrine network.
+  JOURNAL   Nat Rev Immunol 5:560-70 (2005)
+            DOI:10.1038/nri1650
+REFERENCE   PMID:10880336
+  AUTHORS   Pyne S, Pyne NJ
+  TITLE     Sphingosine 1-phosphate signalling in mammalian cells.
+  JOURNAL   Biochem J 349:385-402 (2000)
+            DOI:10.1042/bj3490385
+REFERENCE   PMID:21705677
+  AUTHORS   Egom EE, Mohamed TM, Mamas MA, Shi Y, Liu W, Chirico D, Stringer SE, Ke Y, Shaheen M, Wang T, Chacko S, Wang X, Solaro RJ, Fath-Ordoubadi F, Cartwright EJ, Lei M
+  TITLE     Activation of Pak1/Akt/eNOS signaling following sphingosine-1-phosphate release as part of a mechanism protecting cardiomyocytes against ischemic cell injury.
+  JOURNAL   Am J Physiol Heart Circ Physiol 301:H1487-95 (2011)
+            DOI:10.1152/ajpheart.01003.2010
+REFERENCE   PMID:15451787
+  AUTHORS   Jin ZQ, Goetzl EJ, Karliner JS
+  TITLE     Sphingosine kinase activation mediates ischemic preconditioning in murine heart.
+  JOURNAL   Circulation 110:1980-9 (2004)
+            DOI:10.1161/01.CIR.0000143632.06471.93
+REFERENCE   PMID:17913601
+  AUTHORS   Melendez AJ
+  TITLE     Sphingosine kinase signalling in immune cells: potential as novel therapeutic targets.
+  JOURNAL   Biochim Biophys Acta 1784:66-75 (2008)
+            DOI:10.1016/j.bbapap.2007.07.013
+REFERENCE   PMID:22654878
+  AUTHORS   Halova I, Draberova L, Draber P
+  TITLE     Mast cell chemotaxis - chemoattractants and signaling pathways.
+  JOURNAL   Front Immunol 3:119 (2012)
+            DOI:10.3389/fimmu.2012.00119
+REFERENCE   PMID:17438574
+  AUTHORS   Kraft S, Kinet JP
+  TITLE     New developments in FcepsilonRI regulation, function and inhibition.
+  JOURNAL   Nat Rev Immunol 7:365-78 (2007)
+            DOI:10.1038/nri2072
+REFERENCE   PMID:16470226
+  AUTHORS   Gilfillan AM, Tkaczyk C.
+  TITLE     Integrated signalling pathways for mast-cell activation.
+  JOURNAL   Nat Rev Immunol 6:218-30 (2006)
+            DOI:10.1038/nri1782
+REFERENCE   PMID:11418646
+  AUTHORS   Osawa Y, Banno Y, Nagaki M, Brenner DA, Naiki T, Nozawa Y, Nakashima S, Moriwaki H
+  TITLE     TNF-alpha-induced sphingosine 1-phosphate inhibits apoptosis through a phosphatidylinositol 3-kinase/Akt pathway in human hepatocytes.
+  JOURNAL   J Immunol 167:173-80 (2001)
+            DOI:10.4049/jimmunol.167.1.173
+REFERENCE   PMID:20534702
+  AUTHORS   Montfort A, Martin PG, Levade T, Benoist H, Segui B
+  TITLE     FAN (factor associated with neutral sphingomyelinase activation), a moonlighting protein in TNF-R1 signaling.
+  JOURNAL   J Leukoc Biol 88:897-903 (2010)
+            DOI:10.1189/jlb.0410188
+REFERENCE   PMID:11001563
+  AUTHORS   Chatterjee S
+  TITLE     Neutral sphingomyelinase: past, present and future.
+  JOURNAL   Chem Phys Lipids 102:79-96 (1999)
+            DOI:10.1016/S0009-3084(99)00077-8
+REL_PATHWAY hsa00600  Sphingolipid metabolism
+            hsa04010  MAPK signaling pathway
+            hsa04142  Lysosome
+            hsa04151  PI3K-Akt signaling pathway
+KO_PATHWAY  ko04071
+///

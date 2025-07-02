@@ -1,0 +1,230 @@
+ENTRY       hsa04614                    Pathway
+NAME        Renin-angiotensin system - Homo sapiens (human)
+DESCRIPTION The renin-angiotensin system (RAS) is a peptidergic system with endocrine characteristics regarding to the regulation of the blood pressure and hydro-electrolytic balance. In the classical RAS, the enzyme renin cleaves its substrate angiotensinogen (Agt) forming the decapeptide angiotensin I that is in turn cleaved by angiotensin-converting enzyme (ACE) to produce the angiotensin II (Ang II), a key player of this system. Ang II activates its AT1 receptor (AT1R), the principal receptor that mediates the majority of the known actions of Ang II in the kidney, including vasoconstriction, renal sodium (Na+) reabsorption, and aldosterone secretion, increasing blood pressure and contributing to the development of hypertension. In addition to (ACE)/Ang II/AT1R and AT2R axis, other signaling pathways in the RAS, such as ACE2/angiotensin-(1-7)/Mas and Ang IV/IRAP, and other active peptide of the RAS, with physiological relevance as Ang III, Ang A and alamandine, are now widely recognized.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04614  Renin-angiotensin system
+DRUG        D00150  Angiotensin II (INN)
+            D00251  Captopril (JP18/USP/INN)
+            D00357  Losartan potassium (JP18/USP)
+            D00362  Lisinopril (USP)
+            D00383  Trandolapril (JAN/USP/INN)
+            D00400  Valsartan (JP18/USP/INN)
+            D00421  Ramipril (USP/INN)
+            D00459  Quinapril hydrochloride (JP18/USP)
+            D00522  Candesartan (USAN/INN)
+            D00523  Irbesartan (JP18/USP/INN)
+            D00620  Benazepril hydrochloride (JAN/USP)
+            D00621  Enalapril maleate (JP18/USP)
+            D00622  Fosinopril sodium (USP)
+            D00623  Moexipril hydrochloride (USP)
+            D00624  Perindopril erbumine (JAN/USP)
+            D00626  Candesartan cilexetil (JP18/USP)
+            D00627  Telmisartan (JP18/USP/INN)
+            D01069  Cilazapril (USAN)
+            D01070  Candoxatril (JAN/USAN/INN)
+            D01119  Temocapril hydrochloride (JP18/USAN)
+            D01204  Olmesartan medoxomil (JP18/USP)
+            D01549  Imidapril hydrochloride (JP18)
+            D01667  Delapril hydrochloride (JAN/USAN)
+            D01900  Alacepril (JP18/INN)
+            D01922  Pratosartan (JAN/INN)
+            D01970  Omapatrilat (JAN/USAN/INN)
+            D02014  Angiotensin II (USAN)
+            D02082  Eprosartan mesylate (USAN)
+            D02939  Angiotensin amide (USAN)
+            D03077  Benazeprilat (USAN/INN)
+            D03208  Aliskiren (USAN/INN)
+            D03349  Candoxatrilat (USAN/INN)
+            D03440  Ceronapril (USAN/INN)
+            D03738  Enalkiren (USAN/INN)
+            D03741  Ditekiren (USAN)
+            D03743  Terlakiren (USAN/INN)
+            D03745  Zankiren hydrochloride (USAN)
+            D03752  Quinapril (INN)
+            D03753  Perindopril (USAN/INN)
+            D03756  Indolapril hydrochloride (USAN)
+            D03758  Libenzapril (USAN/INN)
+            D03763  Pivopril (USAN/INN)
+            D03765  Spirapril hydrochloride (USAN)
+            D03767  Zofenopril calcium (USAN)
+            D03769  Enalaprilat (USP)
+            D03772  Fosinoprilat (USAN/INN)
+            D03773  Quinaprilat (USAN/INN)
+            D03775  Spiraprilat (USAN/INN)
+            D03776  Zofenoprilat arginine (USAN)
+            D03929  Ecadotril (USAN/INN)
+            D04040  Eprosartan (USAN/INN)
+            D04126  Saralasin acetate (USAN)
+            D04243  Forasartan (USAN/INN)
+            D04312  Gemopatrilat (USAN/INN)
+            D05246  Olmesartan (USAN/INN)
+            D05801  Saprisartan potassium (USAN)
+            D06010  Tasosartan (USAN/INN)
+            D06076  Teprotide (USAN/INN)
+            D06412  Aliskiren fumarate (JAN/USAN)
+            D07499  Benazepril (INN)
+            D07699  Cilazapril (INN)
+            D07781  Delapril (INN)
+            D07892  Enalapril (INN)
+            D07992  Fosinopril (INN)
+            D08067  Azilsartan medoxomil (USAN)
+            D08068  Imidapril (INN)
+            D08131  Lisinopril (INN)
+            D08146  Losartan (INN)
+            D08225  Moexipril (INN)
+            D08529  Spirapril (INN)
+            D08566  Temocapril (INN)
+            D08688  Zofenopril (INN)
+            D08864  Azilsartan (JAN/USAN/INN)
+            D08865  Azilsartan kamedoxomil (USAN)
+            D09038  Remikiren (INN)
+            D10225  Sacubitril (JAN/USAN/INN)
+            D10556  Fimasartan (INN)
+            D11142  Angiotensin II acetate (USAN)
+            D11580  Perindopril arginine
+DBLINKS     GO: 0002003
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        183  AGT; angiotensinogen [KO:K09821]
+            5972  REN; renin [KO:K01380] [EC:3.4.23.15]
+            1636  ACE; angiotensin I converting enzyme [KO:K01283] [EC:3.4.15.1]
+            1215  CMA1; chymase 1 [KO:K01329] [EC:3.4.21.39]
+            1511  CTSG; cathepsin G [KO:K01319] [EC:3.4.21.20]
+            3817  KLK2; kallikrein related peptidase 2 [KO:K01325] [EC:3.4.21.35]
+            3816  KLK1; kallikrein 1 [KO:K01325] [EC:3.4.21.35]
+            2028  ENPEP; glutamyl aminopeptidase [KO:K11141] [EC:3.4.11.7]
+            290  ANPEP; alanyl aminopeptidase, membrane [KO:K11140] [EC:3.4.11.2]
+            5550  PREP; prolyl endopeptidase [KO:K01322] [EC:3.4.21.26]
+            59272  ACE2; angiotensin converting enzyme 2 [KO:K09708] [EC:3.4.17.23]
+            5476  CTSA; cathepsin A [KO:K13289] [EC:3.4.16.5]
+            1359  CPA3; carboxypeptidase A3 [KO:K08780] [EC:3.4.17.1]
+            4311  MME; membrane metalloendopeptidase [KO:K01389] [EC:3.4.24.11]
+            7064  THOP1; thimet oligopeptidase 1 [KO:K01392] [EC:3.4.24.15]
+            57486  NLN; neurolysin [KO:K01393] [EC:3.4.24.16]
+            5547  PRCP; prolylcarboxypeptidase [KO:K01285] [EC:3.4.16.2]
+            4142  MAS1; MAS1 proto-oncogene, G protein-coupled receptor [KO:K04303]
+            116512  MRGPRD; MAS related GPR family member D [KO:K08392]
+            185  AGTR1; angiotensin II receptor type 1 [KO:K04166]
+            186  AGTR2; angiotensin II receptor type 2 [KO:K04167]
+            4012  LNPEP; leucyl and cystinyl aminopeptidase [KO:K01257] [EC:3.4.11.3]
+            10159  ATP6AP2; ATPase H+ transporting accessory protein 2 [KO:K19514]
+COMPOUND    C00873  Angiotensin I
+            C02135  Angiotensin II
+            C15848  Angiotensin III
+            C15849  Angiotensin IV
+            C15850  Angiotensin (1-7)
+            C15851  Angiotensin (1-9)
+            C15852  Angiotensin (1-5)
+            C20970  Angiotensin A
+            C20971  Alamandine
+            C20972  Angiotensin (5-8)
+            C20973  Angiotensin (5-7)
+REFERENCE   PMID:17229979
+  AUTHORS   Kramkowski K, Mogielnicki A, Buczko W.
+  TITLE     The physiological significance of the alternative pathways of angiotensin II production.
+  JOURNAL   J Physiol Pharmacol 57:529-39 (2006)
+REFERENCE   PMID:15549172
+  AUTHORS   Danilczyk U, Eriksson U, Oudit GY, Penninger JM.
+  TITLE     Physiological roles of angiotensin-converting enzyme 2.
+  JOURNAL   Cell Mol Life Sci 61:2714-9 (2004)
+            DOI:10.1007/s00018-004-4241-6
+REFERENCE   PMID:15549171
+  AUTHORS   Warner FJ, Smith AI, Hooper NM, Turner AJ.
+  TITLE     Angiotensin-converting enzyme-2: a molecular and cellular perspective.
+  JOURNAL   Cell Mol Life Sci 61:2704-13 (2004)
+            DOI:10.1007/s00018-004-4240-7
+REFERENCE   PMID:15833268
+  AUTHORS   Kurdi M, De Mello WC, Booz GW.
+  TITLE     Working outside the system: an update on the unconventional behavior of the renin-angiotensin system components.
+  JOURNAL   Int J Biochem Cell Biol 37:1357-67 (2005)
+            DOI:10.1016/j.biocel.2005.01.012
+REFERENCE   PMID:15109615
+  AUTHORS   Burrell LM, Johnston CI, Tikellis C, Cooper ME.
+  TITLE     ACE2, a new regulator of the renin-angiotensin system.
+  JOURNAL   Trends Endocrinol Metab 15:166-9 (2004)
+            DOI:10.1016/j.tem.2004.03.001
+REFERENCE   PMID:16555051
+  AUTHORS   von Bohlen und Halbach O, Albrecht D.
+  TITLE     The CNS renin-angiotensin system.
+  JOURNAL   Cell Tissue Res 326:599-616 (2006)
+            DOI:10.1007/s00441-006-0190-8
+REFERENCE   PMID:12793984
+  AUTHORS   Schmaier AH
+  TITLE     The kallikrein-kinin and the renin-angiotensin systems have a multilayered interaction.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 285:R1-13 (2003)
+            DOI:10.1152/ajpregu.00535.2002
+REFERENCE   PMID:12419208
+  AUTHORS   Eriksson U, Danilczyk U, Penninger JM.
+  TITLE     Just the beginning: novel functions for angiotensin-converting enzymes.
+  JOURNAL   Curr Biol 12:R745-52 (2002)
+            DOI:10.1016/S0960-9822(02)01255-1
+REFERENCE   PMID:16286563
+  AUTHORS   Dielis AW, Smid M, Spronk HM, Hamulyak K, Kroon AA, ten Cate H, de Leeuw PW.
+  TITLE     The prothrombotic paradox of hypertension: role of the renin-angiotensin and kallikrein-kinin systems.
+  JOURNAL   Hypertension 46:1236-42 (2005)
+            DOI:10.1161/01.HYP.0000193538.20705.23
+REFERENCE   PMID:16581295
+  AUTHORS   Kuba K, Imai Y, Penninger JM.
+  TITLE     Angiotensin-converting enzyme 2 in lung diseases.
+  JOURNAL   Curr Opin Pharmacol 6:271-6 (2006)
+            DOI:10.1016/j.coph.2006.03.001
+REFERENCE   PMID:12505055
+  AUTHORS   Erdos EG, Jackman HL, Brovkovych V, Tan F, Deddish PA.
+  TITLE     Products of angiotensin I hydrolysis by human cardiac enzymes potentiate bradykinin.
+  JOURNAL   J Mol Cell Cardiol 34:1569-76 (2002)
+            DOI:10.1006/jmcc.2002.2080
+REFERENCE   PMID:12372844
+  AUTHORS   Shrimpton CN, Smith AI, Lew RA.
+  TITLE     Soluble metalloendopeptidases and neuroendocrine signaling.
+  JOURNAL   Endocr Rev 23:647-64 (2002)
+            DOI:10.1210/er.2001-0032
+REFERENCE   PMID:12019279
+  AUTHORS   Jackman HL, Massad MG, Sekosan M, Tan F, Brovkovych V, Marcic BM, Erdos EG.
+  TITLE     Angiotensin 1-9 and 1-7 release in human heart: role of cathepsin A.
+  JOURNAL   Hypertension 39:976-81 (2002)
+            DOI:10.1161/01.HYP.0000017283.67962.02
+REFERENCE   PMID:15173164
+  AUTHORS   Lundequist A, Tchougounova E, Abrink M, Pejler G.
+  TITLE     Cooperation between mast cell carboxypeptidase A and the chymase mouse mast cell protease 4 in the formation and degradation of angiotensin II.
+  JOURNAL   J Biol Chem 279:32339-44 (2004)
+            DOI:10.1074/jbc.M405576200
+REFERENCE   PMID:17362841
+  AUTHORS   Kehoe PG, Wilcock GK.
+  TITLE     Is inhibition of the renin-angiotensin system a new treatment option for Alzheimer's disease?
+  JOURNAL   Lancet Neurol 6:373-8 (2007)
+            DOI:10.1016/S1474-4422(07)70077-7
+REFERENCE   PMID:25332897
+  AUTHORS   Ferrao FM, Lara LS, Lowe J
+  TITLE     Renin-angiotensin system in the kidney: What is new?
+  JOURNAL   World J Nephrol 3:64-76 (2014)
+            DOI:10.5527/wjn.v3.i3.64
+REFERENCE   PMID:24273531
+  AUTHORS   Zhuo JL, Ferrao FM, Zheng Y, Li XC
+  TITLE     New frontiers in the intrarenal Renin-Angiotensin system: a critical review of classical and new paradigms.
+  JOURNAL   Front Endocrinol (Lausanne) 4:166 (2013)
+            DOI:10.3389/fendo.2013.00166
+REFERENCE   PMID:21951628
+  AUTHORS   Unger T, Paulis L, Sica DA
+  TITLE     Therapeutic perspectives in hypertension: novel means for renin-angiotensin-aldosterone system modulation and emerging device-based approaches.
+  JOURNAL   Eur Heart J 32:2739-47 (2011)
+            DOI:10.1093/eurheartj/ehr253
+REFERENCE   PMID:18793332
+  AUTHORS   Fyhrquist F, Saijonmaa O
+  TITLE     Renin-angiotensin system revisited.
+  JOURNAL   J Intern Med 264:224-36 (2008)
+            DOI:10.1111/j.1365-2796.2008.01981.x
+REFERENCE   PMID:23692861
+  AUTHORS   Yugandhar VG, Clark MA
+  TITLE     Angiotensin III: a physiological relevant peptide of the renin angiotensin system.
+  JOURNAL   Peptides 46:26-32 (2013)
+            DOI:10.1016/j.peptides.2013.04.014
+REFERENCE   PMID:24760442
+  AUTHORS   Etelvino GM, Peluso AA, Santos RA
+  TITLE     New components of the renin-angiotensin system: alamandine and the MAS-related G protein-coupled receptor D.
+  JOURNAL   Curr Hypertens Rep 16:433 (2014)
+            DOI:10.1007/s11906-014-0433-0
+REL_PATHWAY hsa04270  Vascular smooth muscle contraction
+            hsa04610  Complement and coagulation cascades
+            hsa04924  Renin secretion
+            hsa04925  Aldosterone synthesis and secretion
+KO_PATHWAY  ko04614
+///

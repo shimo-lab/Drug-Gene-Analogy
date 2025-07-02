@@ -1,0 +1,110 @@
+ENTRY       hsa05330                    Pathway
+NAME        Allograft rejection - Homo sapiens (human)
+DESCRIPTION Allograft rejection is the consequence of the recipient's alloimmune response to nonself antigens expressed by donor tissues. After transplantation of organ allografts, there are two pathways of antigen presentation. In the direct pathway, recipient T cells react to intact allogeneic MHC molecules expressed on the surface of donor cells. This pathway would activate host CD4 or CD8 T cells. In contrast, donor MHC molecules (and all other proteins) shed from the graft can be taken up by host APCs and presented to recipient T cells in the context of self-MHC molecules - the indirect pathway. Such presentation activates predominantly CD4 T cells. A direct cytotoxic T-cell attack on graft cells can be made only by T cells that recognize the graft MHC molecules directly. Nontheless, T cells with indirect allospecificity can contribute to graft rejection by activating macrophages, which cause tissue injury and fibrosis, and are also likely to be important in the development of an alloantibody response to graft.
+CLASS       Human Diseases; Immune disease
+PATHWAY_MAP hsa05330  Allograft rejection
+DISEASE     H00083  Allograft rejection
+DRUG        D03222  Belatacept (USAN/INN)
+            D06071  Teneliximab (USAN/INN)
+            D11357  Bleselumab (USAN/INN)
+            D11610  Iscalimab (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            941  CD80; CD80 molecule [KO:K05412]
+            942  CD86; CD86 molecule [KO:K05413]
+            940  CD28; CD28 molecule [KO:K06470]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            5551  PRF1; perforin 1 [KO:K07818]
+            3002  GZMB; granzyme B [KO:K01353] [EC:3.4.21.79]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            3558  IL2; interleukin 2 [KO:K05429]
+            959  CD40LG; CD40 ligand [KO:K03161]
+            958  CD40; CD40 molecule [KO:K03160]
+            3458  IFNG; interferon gamma [KO:K04687]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3565  IL4; interleukin 4 [KO:K05430]
+            3567  IL5; interleukin 5 [KO:K05428]
+            3586  IL10; interleukin 10 [KO:K05443]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+COMPOUND    C00533  Nitric oxide
+REFERENCE   PMID:10746853
+  AUTHORS   Arakelov A, Lakkis FG.
+  TITLE     The alloimmune response and effector mechanisms of allograft rejection.
+  JOURNAL   Semin Nephrol 20:95-102 (2000)
+REFERENCE   PMID:12023610
+  AUTHORS   Le Moine A, Goldman M, Abramowicz D.
+  TITLE     Multiple pathways to allograft rejection.
+  JOURNAL   Transplantation 73:1373-81 (2002)
+            DOI:10.1097/00007890-200205150-00001
+REFERENCE   PMID:17445565
+  AUTHORS   Trivedi HL.
+  TITLE     Immunobiology of rejection and adaptation.
+  JOURNAL   Transplant Proc 39:647-52 (2007)
+            DOI:10.1016/j.transproceed.2007.01.047
+REFERENCE   PMID:14710779
+  AUTHORS   Pietra BA.
+  TITLE     Transplantation immunology 2003: simplified approach.
+  JOURNAL   Pediatr Clin North Am 50:1233-59 (2003)
+            DOI:10.1016/S0031-3955(03)00119-6
+REFERENCE   PMID:8835634
+  AUTHORS   Oka T, Yoshimura N.
+  TITLE     Immunosuppression in organ transplantation.
+  JOURNAL   Jpn J Pharmacol 71:89-100 (1996)
+            DOI:10.1254/jjp.71.89
+REFERENCE   PMID:10571983
+  AUTHORS   Sayegh MH.
+  TITLE     Why do we reject a graft? Role of indirect allorecognition in graft rejection.
+  JOURNAL   Kidney Int 56:1967-79 (1999)
+            DOI:10.1046/j.1523-1755.1999.00751.x
+REFERENCE   PMID:10331992
+  AUTHORS   Benichou G.
+  TITLE     Direct and indirect antigen recognition: the pathways to allograft immune rejection.
+  JOURNAL   Front Biosci 4:D476-80 (1999)
+            DOI:10.2741/benichou
+REFERENCE   PMID:10667806
+  AUTHORS   Turvey SE, Wood KJ.
+  TITLE     Immunobiology of solid organ transplantation.
+  JOURNAL   Int Surg 84:279-90 (1999)
+REFERENCE   
+  AUTHORS   Janeway CA, Travers P, Walport M, Shlomchik MJ.
+  TITLE     Immunobiology 6th edition
+  JOURNAL   Garland Science Publishing (2005)
+REFERENCE   PMID:12216939
+  AUTHORS   Game DS, Lechler RI.
+  TITLE     Pathways of allorecognition: implications for transplantation tolerance.
+  JOURNAL   Transpl Immunol 10:101-8 (2002)
+            DOI:10.1016/S0966-3274(02)00055-2
+REFERENCE   PMID:12563298
+  AUTHORS   Lechler RI, Garden OA, Turka LA.
+  TITLE     The complementary roles of deletion and regulation in transplantation tolerance.
+  JOURNAL   Nat Rev Immunol 3:147-58 (2003)
+            DOI:10.1038/nri1002
+REL_PATHWAY hsa04210  Apoptosis
+            hsa04514  Cell adhesion molecules
+            hsa04610  Complement and coagulation cascades
+            hsa04612  Antigen processing and presentation
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+KO_PATHWAY  ko05330
+///

@@ -1,0 +1,79 @@
+ENTRY       hsa04136                    Pathway
+NAME        Autophagy - other - Homo sapiens (human)
+DESCRIPTION Autophagy is a degradative pathway for the removal of cytoplasmic materials in eukaryotic cells, and is characterized by the formation of a double-membrane structure called the autophagosome, either in a housekeeping capacity or during stress and senescence. The process of autophagy could be divided into several stages: induction, vesicle nucleation, elongation and closure, and fusion and digestion. Most essential autophagic machineries are conserved throughout eukaryotes (see map04140 for animals and map04138 for fungi). This map is for other eukaryotes including plants and protists, where autophagy related genes (ATGs) play similar roles in the life cycle. However, autophagy has been relatively less studied in lower eukaryotes.
+CLASS       Cellular Processes; Transport and catabolism
+PATHWAY_MAP hsa04136  Autophagy - other
+DBLINKS     GO: 0006914
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        57521  RPTOR; regulatory associated protein of MTOR complex 1 [KO:K07204]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            64223  MLST8; MTOR associated protein, LST8 homolog [KO:K08266]
+            9706  ULK2; unc-51 like autophagy activating kinase 2 [KO:K08269] [EC:2.7.11.1]
+            9776  ATG13; autophagy related 13 [KO:K08331]
+            60673  ATG101; autophagy related 101 [KO:K19730]
+            3476  IGBP1; immunoglobulin binding protein 1 [KO:K17606]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            285973  ATG9B; autophagy related 9B [KO:K17907]
+            79065  ATG9A; autophagy related 9A [KO:K17907]
+            23130  ATG2A; autophagy related 2A [KO:K17906]
+            55102  ATG2B; autophagy related 2B [KO:K17906]
+            26100  WIPI2; WD repeat domain, phosphoinositide interacting 2 [KO:K17908]
+            55062  WIPI1; WD repeat domain, phosphoinositide interacting 1 [KO:K17908]
+            8678  BECN1; beclin 1 [KO:K08334]
+            441925  BECN2; beclin 2 [KO:K08334]
+            5289  PIK3C3; phosphatidylinositol 3-kinase catalytic subunit type 3 [KO:K00914] [EC:2.7.1.137]
+            30849  PIK3R4; phosphoinositide-3-kinase regulatory subunit 4 [KO:K08333] [EC:2.7.11.1]
+            9140  ATG12; autophagy related 12 [KO:K08336]
+            9474  ATG5; autophagy related 5 [KO:K08339]
+            55054  ATG16L1; autophagy related 16 like 1 [KO:K17890]
+            10533  ATG7; autophagy related 7 [KO:K08337]
+            83734  ATG10; autophagy related 10 [KO:K17888]
+            64422  ATG3; autophagy related 3 [KO:K08343]
+            11337  GABARAP; GABA type A receptor-associated protein [KO:K08341]
+            23710  GABARAPL1; GABA type A receptor associated protein like 1 [KO:K08341]
+            11345  GABARAPL2; GABA type A receptor associated protein like 2 [KO:K08341]
+            115201  ATG4A; autophagy related 4A cysteine peptidase [KO:K08342] [EC:3.4.22.-]
+            23192  ATG4B; autophagy related 4B cysteine peptidase [KO:K08342] [EC:3.4.22.-]
+            84938  ATG4C; autophagy related 4C cysteine peptidase [KO:K08342] [EC:3.4.22.-]
+            84971  ATG4D; autophagy related 4D cysteine peptidase [KO:K08342] [EC:3.4.22.-]
+COMPOUND    C00350  Phosphatidylethanolamine
+            C01194  1-Phosphatidyl-D-myo-inositol
+            C04549  1-Phosphatidyl-1D-myo-inositol 3-phosphate
+REFERENCE   PMID:20962583
+  AUTHORS   Duszenko M, Ginger ML, Brennand A, Gualdron-Lopez M, Colombo MI, Coombs GH, Coppens I, Jayabalasingham B, Langsley G, de Castro SL, Menna-Barreto R, Mottram JC, Navarro M, Rigden DJ, Romano PS, Stoka V, Turk B, Michels PA
+  TITLE     Autophagy in protists.
+  JOURNAL   Autophagy 7:127-58 (2011)
+            DOI:10.4161/auto.7.2.13310
+REFERENCE   PMID:21660427
+  AUTHORS   Avin-Wittenberg T, Honig A, Galili G
+  TITLE     Variations on a theme: plant autophagy in comparison to yeast and mammals.
+  JOURNAL   Protoplasma 249:285-99 (2012)
+            DOI:10.1007/s00709-011-0296-z
+REFERENCE   PMID:22242963
+  AUTHORS   Liu Y, Bassham DC
+  TITLE     Autophagy: pathways for self-eating in plant cells.
+  JOURNAL   Annu Rev Plant Biol 63:215-37 (2012)
+            DOI:10.1146/annurev-arplant-042811-105441
+REFERENCE   PMID:22764279
+  AUTHORS   Yoshimoto K
+  TITLE     Beginning to understand autophagy, an intracellular self-degradation system in plants.
+  JOURNAL   Plant Cell Physiol 53:1355-65 (2012)
+            DOI:10.1093/pcp/pcs099
+REFERENCE   PMID:24563201
+  AUTHORS   Li F, Chung T, Vierstra RD
+  TITLE     AUTOPHAGY-RELATED11 plays a critical role in general autophagy- and senescence-induced mitophagy in Arabidopsis.
+  JOURNAL   Plant Cell 26:788-807 (2014)
+            DOI:10.1105/tpc.113.120014
+REFERENCE   PMID:26598298
+  AUTHORS   Michaeli S, Galili G, Genschik P, Fernie AR, Avin-Wittenberg T
+  TITLE     Autophagy in Plants--What's New on the Menu?
+  JOURNAL   Trends Plant Sci 21:134-44 (2016)
+            DOI:10.1016/j.tplants.2015.10.008
+REFERENCE   PMID:26614870
+  AUTHORS   Yang X, Bassham DC
+  TITLE     New Insight into the Mechanism and Function of Autophagy in Plant Cells.
+  JOURNAL   Int Rev Cell Mol Biol 320:1-40 (2015)
+            DOI:10.1016/bs.ircmb.2015.07.005
+KO_PATHWAY  ko04136
+///

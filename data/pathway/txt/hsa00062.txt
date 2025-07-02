@@ -1,0 +1,119 @@
+ENTRY       hsa00062                    Pathway
+NAME        Fatty acid elongation - Homo sapiens (human)
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP hsa00062  Fatty acid elongation
+MODULE      hsa_M00085  Fatty acid elongation in mitochondria [PATH:hsa00062]
+            hsa_M00415  Fatty acid elongation in endoplasmic reticulum [PATH:hsa00062]
+DISEASE     H00039  Basal cell carcinoma
+DBLINKS     GO: 0030497
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10449  ACAA2; acetyl-CoA acyltransferase 2 [KO:K07508] [EC:2.3.1.16]
+            3032  HADHB; hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit beta [KO:K07509] [EC:2.3.1.16]
+            3033  HADH; hydroxyacyl-CoA dehydrogenase [KO:K00022] [EC:1.1.1.35]
+            3030  HADHA; hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [KO:K07515] [EC:4.2.1.17 1.1.1.211]
+            1892  ECHS1; enoyl-CoA hydratase, short chain 1 [KO:K07511] [EC:4.2.1.17]
+            51102  MECR; mitochondrial trans-2-enoyl-CoA reductase [KO:K07512] [EC:1.3.1.- 1.3.1.38]
+            5538  PPT1; palmitoyl-protein thioesterase 1 [KO:K01074] [EC:3.1.2.22]
+            9374  PPT2; palmitoyl-protein thioesterase 2 [KO:K01074] [EC:3.1.2.22]
+            64834  ELOVL1; ELOVL fatty acid elongase 1 [KO:K10247] [EC:2.3.1.199]
+            54898  ELOVL2; ELOVL fatty acid elongase 2 [KO:K10205] [EC:2.3.1.199]
+            83401  ELOVL3; ELOVL fatty acid elongase 3 [KO:K10248] [EC:2.3.1.199]
+            6785  ELOVL4; ELOVL fatty acid elongase 4 [KO:K10249] [EC:2.3.1.199]
+            60481  ELOVL5; ELOVL fatty acid elongase 5 [KO:K10244] [EC:2.3.1.199]
+            79071  ELOVL6; ELOVL fatty acid elongase 6 [KO:K10203] [EC:2.3.1.199]
+            79993  ELOVL7; ELOVL fatty acid elongase 7 [KO:K10250] [EC:2.3.1.199]
+            51144  HSD17B12; hydroxysteroid 17-beta dehydrogenase 12 [KO:K10251] [EC:1.1.1.62 1.1.1.330]
+            201562  HACD2; 3-hydroxyacyl-CoA dehydratase 2 [KO:K10703] [EC:4.2.1.134]
+            9200  HACD1; 3-hydroxyacyl-CoA dehydratase 1 [KO:K10703] [EC:4.2.1.134]
+            401494  HACD4; 3-hydroxyacyl-CoA dehydratase 4 [KO:K10703] [EC:4.2.1.134]
+            51495  HACD3; 3-hydroxyacyl-CoA dehydratase 3 [KO:K10703] [EC:4.2.1.134]
+            9524  TECR; trans-2,3-enoyl-CoA reductase [KO:K10258] [EC:1.3.1.93]
+            122970  ACOT4; acyl-CoA thioesterase 4 [KO:K01068] [EC:3.1.2.2]
+            10965  ACOT2; acyl-CoA thioesterase 2 [KO:K01068] [EC:3.1.2.2]
+            641371  ACOT1; acyl-CoA thioesterase 1 [KO:K01068] [EC:3.1.2.2]
+            11332  ACOT7; acyl-CoA thioesterase 7 [KO:K17360] [EC:3.1.2.2]
+            117145  THEM4; thioesterase superfamily member 4 [KO:K16339] [EC:3.1.2.2]
+            284486  THEM5; thioesterase superfamily member 5 [KO:K22554] [EC:3.1.2.2]
+COMPOUND    C00024  Acetyl-CoA
+            C00040  Acyl-CoA
+            C00083  Malonyl-CoA
+            C00136  Butanoyl-CoA
+            C00154  Palmitoyl-CoA
+            C00162  Fatty acid
+            C00249  Hexadecanoic acid
+            C00264  3-Oxoacyl-CoA
+            C00605  2,3-Dehydroacyl-CoA
+            C00638  Long-chain fatty acid
+            C00640  (3S)-3-Hydroxyacyl-CoA
+            C00658  trans-2,3-Dehydroacyl-CoA
+            C01832  Lauroyl-CoA
+            C01944  Octanoyl-CoA
+            C02593  Tetradecanoyl-CoA
+            C02843  Long-chain acyl-CoA
+            C03221  2-trans-Dodecenoyl-CoA
+            C05258  (S)-3-Hydroxyhexadecanoyl-CoA
+            C05259  3-Oxopalmitoyl-CoA
+            C05260  (S)-3-Hydroxytetradecanoyl-CoA
+            C05261  3-Oxotetradecanoyl-CoA
+            C05262  (S)-3-Hydroxydodecanoyl-CoA
+            C05263  3-Oxododecanoyl-CoA
+            C05264  (S)-Hydroxydecanoyl-CoA
+            C05265  3-Oxodecanoyl-CoA
+            C05266  (S)-3-Hydroxyoctanoyl-CoA
+            C05267  3-Oxooctanoyl-CoA
+            C05268  (S)-Hydroxyhexanoyl-CoA
+            C05269  3-Oxohexanoyl-CoA
+            C05270  Hexanoyl-CoA
+            C05271  trans-Hex-2-enoyl-CoA
+            C05272  trans-Hexadec-2-enoyl-CoA
+            C05273  trans-Tetradec-2-enoyl-CoA
+            C05274  Decanoyl-CoA
+            C05275  trans-Dec-2-enoyl-CoA
+            C05276  trans-Oct-2-enoyl-CoA
+            C20876  Very-long-chain acyl-CoA
+            C20877  Very-long-chain 3-oxoacyl-CoA
+            C20878  Very-long-chain (3R)-3-hydroxyacyl-CoA
+            C20879  Very-long-chain trans-2,3-dehydroacyl-CoA
+REFERENCE   PMID:4387390
+  AUTHORS   Seubert W, Lamberts I, Kramer R, Ohly B
+  TITLE     On the mechanism of malonyl-CoA-independent fatty acid synthesis. I. The mechanism of elongation of long-chain fatty acids by acetyl-CoA.
+  JOURNAL   Biochim Biophys Acta 164:498-517 (1968)
+            DOI:10.1016/0005-2760(68)90180-X
+REFERENCE   PMID:7150615
+  AUTHORS   El-Fakhri M, Middleton B
+  TITLE     The existence of an inner-membrane-bound, long acyl-chain-specific 3-hydroxyacyl-CoA dehydrogenase in mammalian mitochondria.
+  JOURNAL   Biochim Biophys Acta 713:270-9 (1982)
+            DOI:10.1016/0005-2760(82)90244-2
+REFERENCE   PMID:8190743
+  AUTHORS   Cassagne C, Lessire R, Bessoule JJ, Moreau P, Creach A, Schneider F, Sturbois B
+  TITLE     Biosynthesis of very long chain fatty acids in higher plants.
+  JOURNAL   Prog Lipid Res 33:55-69 (1994)
+            DOI:10.1016/0163-7827(94)90009-4
+REFERENCE   PMID:16564093
+  AUTHORS   Jakobsson A, Westerberg R, Jacobsson A.
+  TITLE     Fatty acid elongases in mammals: their regulation and roles in metabolism.
+  JOURNAL   Prog Lipid Res 45:237-49 (2006)
+            DOI:10.1016/j.plipres.2006.01.004
+REFERENCE   PMID:16765910
+  AUTHORS   Blacklock BJ, Jaworski JG
+  TITLE     Substrate specificity of Arabidopsis 3-ketoacyl-CoA synthases.
+  JOURNAL   Biochem Biophys Res Commun 346:583-90 (2006)
+            DOI:10.1016/j.bbrc.2006.05.162
+REFERENCE   PMID:16866954
+  AUTHORS   Shepherd T, Wynne Griffiths D
+  TITLE     The effects of stress on plant cuticular waxes.
+  JOURNAL   New Phytol 171:469-99 (2006)
+            DOI:10.1111/j.1469-8137.2006.01826.x
+REFERENCE   PMID:17719534
+  AUTHORS   Riezman H
+  TITLE     The long and short of fatty acid synthesis.
+  JOURNAL   Cell 130:587-8 (2007)
+            DOI:10.1016/j.cell.2007.08.008
+REFERENCE   PMID:19649180
+  AUTHORS   Raffaele S, Leger A, Roby D
+  TITLE     Very long chain fatty acid and lipid signaling in the response of plants to pathogens.
+  JOURNAL   Plant Signal Behav 4:94-9 (2009)
+            DOI:10.4161/psb.4.2.7580
+REL_PATHWAY hsa00071  Fatty acid degradation
+KO_PATHWAY  ko00062
+///

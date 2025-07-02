@@ -1,0 +1,102 @@
+ENTRY       hsa00250                    Pathway
+NAME        Alanine, aspartate and glutamate metabolism - Homo sapiens (human)
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP hsa00250  Alanine, aspartate and glutamate metabolism
+MODULE      hsa_M00027  GABA (gamma-Aminobutyrate) shunt [PATH:hsa00250]
+DRUG        D07130  Carglumic acid (JAN/USAN/INN)
+DBLINKS     GO: 0006522 0006531 0006536
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2805  GOT1; glutamic-oxaloacetic transaminase 1 [KO:K14454] [EC:2.6.1.1]
+            137362  GOT1L1; glutamic-oxaloacetic transaminase 1 like 1 [KO:K14454] [EC:2.6.1.1]
+            2806  GOT2; glutamic-oxaloacetic transaminase 2 [KO:K14455] [EC:2.6.1.1]
+            259307  IL4I1; interleukin 4 induced 1 [KO:K03334] [EC:1.4.3.2]
+            8528  DDO; D-aspartate oxidase [KO:K00272] [EC:1.4.3.1]
+            80150  ASRGL1; asparaginase and isoaspartyl peptidase 1 [KO:K13051] [EC:3.5.1.1 3.4.19.5]
+            440  ASNS; asparagine synthetase (glutamine-hydrolyzing) [KO:K01953] [EC:6.3.5.4]
+            56954  NIT2; nitrilase family member 2 [KO:K13566] [EC:3.5.1.3]
+            84706  GPT2; glutamic--pyruvic transaminase 2 [KO:K00814] [EC:2.6.1.2]
+            2875  GPT; glutamic--pyruvic transaminase [KO:K00814] [EC:2.6.1.2]
+            189  AGXT; alanine--glyoxylate aminotransferase [KO:K00830] [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+            64902  AGXT2; alanine--glyoxylate aminotransferase 2 [KO:K00827] [EC:2.6.1.44 2.6.1.40]
+            445  ASS1; argininosuccinate synthase 1 [KO:K01940] [EC:6.3.4.5]
+            435  ASL; argininosuccinate lyase [KO:K01755] [EC:4.3.2.1]
+            122622  ADSS1; adenylosuccinate synthase 1 [KO:K01939] [EC:6.3.4.4]
+            159  ADSS2; adenylosuccinate synthase 2 [KO:K01939] [EC:6.3.4.4]
+            158  ADSL; adenylosuccinate lyase [KO:K01756] [EC:4.3.2.2]
+            339983  NAT8L; N-acetyltransferase 8 like [KO:K18309] [EC:2.3.1.17]
+            57494  RIMKLB; ribosomal modification protein rimK like family member B [KO:K18310] [EC:6.3.1.17 6.3.2.41]
+            284716  RIMKLA; ribosomal modification protein rimK like family member A [KO:K18311] [EC:6.3.2.41 6.3.2.42]
+            2346  FOLH1; folate hydrolase 1 [KO:K14592] [EC:3.4.17.21]
+            443  ASPA; aspartoacylase [KO:K01437] [EC:3.5.1.15]
+            2571  GAD1; glutamate decarboxylase 1 [KO:K01580] [EC:4.1.1.15]
+            2572  GAD2; glutamate decarboxylase 2 [KO:K01580] [EC:4.1.1.15]
+            18  ABAT; 4-aminobutyrate aminotransferase [KO:K13524] [EC:2.6.1.19 2.6.1.22]
+            7915  ALDH5A1; aldehyde dehydrogenase 5 family member A1 [KO:K00139] [EC:1.2.1.24]
+            2747  GLUD2; glutamate dehydrogenase 2 [KO:K00261] [EC:1.4.1.3]
+            2746  GLUD1; glutamate dehydrogenase 1 [KO:K00261] [EC:1.4.1.3]
+            8659  ALDH4A1; aldehyde dehydrogenase 4 family member A1 [KO:K00294] [EC:1.2.1.88]
+            2752  GLUL; glutamate-ammonia ligase [KO:K01915] [EC:6.3.1.2]
+            790  CAD; carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase [KO:K11540] [EC:6.3.5.5 2.1.3.2 3.5.2.3]
+            27165  GLS2; glutaminase 2 [KO:K01425] [EC:3.5.1.2]
+            2744  GLS; glutaminase [KO:K01425] [EC:3.5.1.2]
+            1373  CPS1; carbamoyl-phosphate synthase 1 [KO:K01948] [EC:6.3.4.16]
+            9945  GFPT2; glutamine-fructose-6-phosphate transaminase 2 [KO:K00820] [EC:2.6.1.16]
+            2673  GFPT1; glutamine--fructose-6-phosphate transaminase 1 [KO:K00820] [EC:2.6.1.16]
+            5471  PPAT; phosphoribosyl pyrophosphate amidotransferase [KO:K00764] [EC:2.4.2.14]
+COMPOUND    C00014  Ammonia
+            C00022  Pyruvate
+            C00025  L-Glutamate
+            C00026  2-Oxoglutarate
+            C00036  Oxaloacetate
+            C00041  L-Alanine
+            C00042  Succinate
+            C00049  L-Aspartate
+            C00064  L-Glutamine
+            C00122  Fumarate
+            C00152  L-Asparagine
+            C00158  Citrate
+            C00169  Carbamoyl phosphate
+            C00232  Succinate semialdehyde
+            C00334  4-Aminobutanoate
+            C00352  D-Glucosamine 6-phosphate
+            C00402  D-Aspartate
+            C00438  N-Carbamoyl-L-aspartate
+            C00940  2-Oxoglutaramate
+            C01042  N-Acetyl-L-aspartate
+            C02362  2-Oxosuccinamate
+            C03090  5-Phosphoribosylamine
+            C03406  N-(L-Arginino)succinate
+            C03794  N6-(1,2-Dicarboxyethyl)-AMP
+            C03912  (S)-1-Pyrroline-5-carboxylate
+            C12270  N-Acetylaspartylglutamate
+            C20775  beta-Citryl-L-glutamate
+            C20776  N-Acetylaspartylglutamylglutamate
+REFERENCE   
+  AUTHORS   Nishizuka Y, Seyama Y, Ikai A, Ishimura Y, Kawaguchi A (eds).
+  TITLE     [Cellular Functions and Metabolic Maps] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (1997)
+REFERENCE   PMID:9687539
+  AUTHORS   Wu G
+  TITLE     Intestinal mucosal amino acid catabolism.
+  JOURNAL   J Nutr 128:1249-52 (1998)
+            DOI:10.1093/jn/128.8.1249
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00220  Arginine biosynthesis
+            hsa00230  Purine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00410  beta-Alanine metabolism
+            hsa00470  D-Amino acid metabolism
+            hsa00480  Glutathione metabolism
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00650  Butanoate metabolism
+            hsa00760  Nicotinate and nicotinamide metabolism
+            hsa00770  Pantothenate and CoA biosynthesis
+            hsa00860  Porphyrin metabolism
+            hsa00910  Nitrogen metabolism
+KO_PATHWAY  ko00250
+///

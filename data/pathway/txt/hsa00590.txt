@@ -1,0 +1,361 @@
+ENTRY       hsa00590                    Pathway
+NAME        Arachidonic acid metabolism - Homo sapiens (human)
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP hsa00590  Arachidonic acid metabolism
+DRUG        D00109  Aspirin (JP18/USP)
+            D00118  Naproxen (JP18/USP/INN)
+            D00120  Sulindac (JP18/USP/INN)
+            D00126  Ibuprofen (JP18/USP/INN)
+            D00127  Piroxicam (JP18/USP/INN)
+            D00130  Diflunisal (JAN/USP/INN)
+            D00132  Ketoprofen (JP18/USP/INN)
+            D00141  Indomethacin (USP)
+            D00151  Mefenamic acid (JP18/USP/INN)
+            D00158  Tolmetin sodium (JAN/USP)
+            D00169  Meclofenamate sodium (USP)
+            D00217  Acetaminophen (JP18/USP)
+            D00315  Etodolac (JP18/USP/INN)
+            D00330  Flurbiprofen (JP18/USP/INN)
+            D00414  Zileuton (USP/INN)
+            D00425  Nabumetone (JP18/USP/INN)
+            D00428  Salsalate (USP/INN)
+            D00463  Oxaprozin (JP18/USP/INN)
+            D00510  Phenylbutazone (JP18/USP/INN)
+            D00566  Sodium salicylate (JP18/USP)
+            D00567  Celecoxib (JP18/USP/INN)
+            D00568  Rofecoxib (JAN/USAN/INN)
+            D00810  Choline salicylate (JAN/USAN/INN)
+            D00813  Ketorolac tromethamine (USP)
+            D00827  Magnesium salicylate (USP)
+            D00903  Diclofenac potassium (USP)
+            D00904  Diclofenac sodium (JP18/USP)
+            D00968  Fenoprofen calcium (JAN/USP)
+            D00969  Meloxicam (JAN/USP/INN)
+            D00970  Naproxen sodium (USP)
+            D01049  Nimesulide (JAN/INN)
+            D01122  Ibuprofen piconol (JP18/USAN)
+            D01183  Tolfenamic acid (JAN/INN)
+            D01252  Alclofenac (JAN/USP/INN)
+            D01271  Bufexamac (JAN/INN)
+            D01325  Tiaprofenic acid (JAN/INN)
+            D01344  Fenbufen (JP18/USAN/INN)
+            D01397  Ampiroxicam (JP18/INN)
+            D01410  Benzydamine hydrochloride (JAN/USAN)
+            D01475  Flurbiprofen axetil (JAN)
+            D01513  Alminoprofen (JP18/INN)
+            D01527  Epidihydrocholesterin (JAN)
+            D01545  Aceclofenac (JAN/INN)
+            D01547  Zaltoprofen (JP18/INN)
+            D01557  Glycol salicylate (JAN)
+            D01565  Indometacin farnesil (JAN)
+            D01578  Pranoprofen (JP18/INN)
+            D01581  Flufenamic acid (JAN/USAN/INN)
+            D01582  Acemetacin (JP18/INN)
+            D01675  Felbinac (JP18/USAN/INN)
+            D01683  Ozagrel hydrochloride hydrate (JAN)
+            D01684  Ozagrel sodium (JP18)
+            D01709  Loxoprofen sodium hydrate (JP18)
+            D01718  Mofezolac (JAN/INN)
+            D01765  Proglumetacin maleate (JAN)
+            D01767  Tenoxicam (JAN/USAN/INN)
+            D01773  Oxatomide (JAN/USAN/INN)
+            D01788  Amfenac sodium (USAN)
+            D01811  Salicylamide (JAN/USP/INN)
+            D01823  Ufenamate (JAN/INN)
+            D01841  Felbinac ethyl (JAN)
+            D01866  Lornoxicam (JAN/USAN/INN)
+            D01974  Tilmacoxib (JAN/USAN/INN)
+            D02110  Indomethacin sodium (USP)
+            D02290  Flurbiprofen sodium (USP)
+            D02341  Meclofenamic acid (USAN/INN)
+            D02350  Fenoprofen (USAN/INN)
+            D02355  Tolmetin (USAN/INN)
+            D02709  Valdecoxib (USAN/INN)
+            D02755  Acivicin (USAN/INN)
+            D03010  Atreleuton (USAN/INN)
+            D03080  Benoxaprofen (USAN/INN)
+            D03163  Bromfenac sodium (USAN)
+            D03254  Flufenamate aluminum (JAN)
+            D03652  Darbufelone mesylate (USAN)
+            D03661  Dazmegrel (USAN/INN)
+            D03663  Dazoxiben hydrochloride (USAN)
+            D03689  Deracoxib (USAN)
+            D03710  Etoricoxib (USAN/INN)
+            D03712  Firocoxib (USAN/INN)
+            D03714  Lumiracoxib (USAN/INN)
+            D03715  Dexibuprofen (USAN/INN)
+            D03716  Parecoxib (USAN/INN)
+            D03717  Parecoxib sodium (USAN)
+            D03718  Dexibuprofen lysine (USAN)
+            D03882  Docebenone (USAN/INN)
+            D03938  Ecopladib (USAN/INN)
+            D03990  Enazadrem phosphate (USAN)
+            D04102  Etofenamate (USAN/INN)
+            D04151  Fenleuton (USAN/INN)
+            D04276  Furegrelate sodium (USAN)
+            D04490  Ibuprofen aluminum (USAN)
+            D04770  Lonapalene (USAN)
+            D04863  Mavacoxib (USAN)
+            D05143  Nepafenac (JAN/USAN/INN)
+            D05181  Aspirin aluminum (JP18)
+            D05275  Orpanoxin (USAN/INN)
+            D05319  Oxyphenbutazone hydrate
+            D05451  Phenbutazone sodium glycerate (USAN)
+            D05498  Piriprost (USAN/INN)
+            D05499  Piriprost potassium (USAN)
+            D05502  Pirmagrel (USAN/INN)
+            D05511  Piroxicam betadex (USAN)
+            D05512  Piroxicam cinnamate (USAN)
+            D05513  Piroxicam olamine (USAN)
+            D05598  Pravadoline maleate (USAN)
+            D05727  Ridogrel (USAN/INN)
+            D05791  Salicylate meglumine (USAN)
+            D06017  Tebufelone (USAN/INN)
+            D06072  Tenidap (USAN/INN)
+            D06073  Tenidap sodium (USAN)
+            D06075  Tepoxalin (USAN/INN)
+            D06364  Zidometacin (USAN/INN)
+            D06600  Giripladib (USAN)
+            D06606  Ibuprofen lysine (USAN)
+            D06674  Efipladib (USAN)
+            D07141  Indobufen (INN)
+            D07142  Triflusal (INN)
+            D07267  Droxicam (INN)
+            D07268  Ibuproxam (INN)
+            D07269  Dexketoprofen (INN)
+            D07294  Propacetamol (INN)
+            D07421  Aloxiprin (INN)
+            D07443  Amfenac (INN)
+            D07453  Amtolmetin guacil (INN)
+            D07516  Benzydamine (INN)
+            D07517  Benzydamine salicylate
+            D07541  Bromfenac (INN)
+            D07579  Aspirin calcium salt
+            D07580  Aspirin DL-lysine (JAN)
+            D07581  Aspirin magnesium salt
+            D07582  Aspirin sodium
+            D07816  Diclofenac (USAN/INN)
+            D07817  Diclofenac diethylamine
+            D07818  Diclofenac hydroxyethylpyrrolidine
+            D07819  Diclofenac calcium
+            D07888  Eltenac (INN)
+            D08058  Ibuprofen arginine salt
+            D08059  Ibuprofen sodium
+            D08102  Ketoprofen lysine
+            D08103  Ketoprofen sodium
+            D08104  Ketorolac (INN)
+            D08149  Loxoprofen (INN)
+            D08162  Meclofenamate sodium
+            D08275  Niflumic acid (INN)
+            D08324  Oxyphenbutazone (INN)
+            D08327  Ozagrel (INN)
+            D08363  Phenylbutazone calcium
+            D08364  Phenylbutazone sodium
+            D08374  Piketoprofen (INN)
+            D08375  Piketoprofen hydrochloride
+            D08427  Proglumetacin (INN)
+            D08434  Propacetamol hydrochloride
+            D08501  Trolamine salicylate (USP)
+            D08657  Apricoxib (USAN/INN)
+            D09568  Naproxcinod (USAN/INN)
+            D09667  Setileuton (USAN/INN)
+            D09760  Ibuprofen sodium (USAN)
+            D10017  Naproxen etemesil (USAN)
+            D10254  Esflurbiprofen (JAN)
+            D10656  Polmacoxib (USAN/INN)
+            D12510  Utreloxastat (USAN/INN)
+DBLINKS     GO: 0019369
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        8399  PLA2G10; phospholipase A2 group X [KO:K01047] [EC:3.1.1.4]
+            26279  PLA2G2D; phospholipase A2 group IID [KO:K01047] [EC:3.1.1.4]
+            30814  PLA2G2E; phospholipase A2 group IIE [KO:K01047] [EC:3.1.1.4]
+            50487  PLA2G3; phospholipase A2 group III [KO:K01047] [EC:3.1.1.4]
+            64600  PLA2G2F; phospholipase A2 group IIF [KO:K01047] [EC:3.1.1.4]
+            81579  PLA2G12A; phospholipase A2 group XIIA [KO:K01047] [EC:3.1.1.4]
+            84647  PLA2G12B; phospholipase A2 group XIIB [KO:K01047] [EC:3.1.1.4]
+            5319  PLA2G1B; phospholipase A2 group IB [KO:K01047] [EC:3.1.1.4]
+            5322  PLA2G5; phospholipase A2 group V [KO:K01047] [EC:3.1.1.4]
+            5320  PLA2G2A; phospholipase A2 group IIA [KO:K01047] [EC:3.1.1.4]
+            391013  PLA2G2C; phospholipase A2 group IIC [KO:K01047] [EC:3.1.1.4]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            8398  PLA2G6; phospholipase A2 group VI [KO:K16343] [EC:3.1.1.4]
+            151056  PLB1; phospholipase B1 [KO:K14621] [EC:3.1.1.4 3.1.1.5]
+            11145  PLAAT3; phospholipase A and acyltransferase 3 [KO:K16817] [EC:3.1.1.32 3.1.1.4]
+            54979  PLAAT2; phospholipase A and acyltransferase 2 [KO:K16817] [EC:3.1.1.32 3.1.1.4]
+            5742  PTGS1; prostaglandin-endoperoxide synthase 1 [KO:K00509] [EC:1.14.99.1]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            9536  PTGES; prostaglandin E synthase [KO:K15729] [EC:5.3.99.3]
+            80142  PTGES2; prostaglandin E synthase 2 [KO:K05309] [EC:5.3.99.3]
+            10728  PTGES3; prostaglandin E synthase 3 [KO:K15730] [EC:5.3.99.3]
+            873  CBR1; carbonyl reductase 1 [KO:K00079] [EC:1.1.1.184 1.1.1.189 1.1.1.197]
+            874  CBR3; carbonyl reductase 3 [KO:K00084] [EC:1.1.1.184]
+            127281  PRXL2B; peroxiredoxin like 2B [KO:K15717] [EC:1.11.1.20]
+            3248  HPGD; 15-hydroxyprostaglandin dehydrogenase [KO:K00069] [EC:1.1.1.141]
+            6916  TBXAS1; thromboxane A synthase 1 [KO:K01832] [EC:5.3.99.5]
+            5730  PTGDS; prostaglandin D2 synthase [KO:K01830] [EC:5.3.99.2]
+            27306  HPGDS; hematopoietic prostaglandin D synthase [KO:K04097] [EC:5.3.99.2 2.5.1.18]
+            8644  AKR1C3; aldo-keto reductase family 1 member C3 [KO:K04119] [EC:1.1.1.51 1.1.1.188 1.1.1.213 1.1.1.357]
+            5740  PTGIS; prostaglandin I2 synthase [KO:K01831] [EC:5.3.99.4]
+            240  ALOX5; arachidonate 5-lipoxygenase [KO:K00461] [EC:1.13.11.34]
+            4048  LTA4H; leukotriene A4 hydrolase [KO:K01254] [EC:3.3.2.6]
+            284273  PTGR3; prostaglandin reductase 3 [KO:K07119] [EC:1.3.1.48]
+            145482  PTGR2; prostaglandin reductase 2 [KO:K13949] [EC:1.3.1.48]
+            22949  PTGR1; prostaglandin reductase 1 [KO:K13948] [EC:1.3.1.74 1.3.1.48]
+            8529  CYP4F2; cytochrome P450 family 4 subfamily F member 2 [KO:K17726] [EC:1.14.14.78 1.14.14.79 1.14.14.94]
+            4051  CYP4F3; cytochrome P450 family 4 subfamily F member 3 [KO:K17726] [EC:1.14.14.78 1.14.14.79 1.14.14.94]
+            4056  LTC4S; leukotriene C4 synthase [KO:K00807] [EC:4.4.1.20]
+            2678  GGT1; gamma-glutamyltransferase 1 [KO:K18592] [EC:2.3.2.2 3.4.19.13 3.4.19.14]
+            2687  GGT5; gamma-glutamyltransferase 5 [KO:K18592] [EC:2.3.2.2 3.4.19.13 3.4.19.14]
+            2879  GPX4; glutathione peroxidase 4 [KO:K05361] [EC:1.11.1.12]
+            1571  CYP2E1; cytochrome P450 family 2 subfamily E member 1 [KO:K07415] [EC:1.14.14.-]
+            1573  CYP2J2; cytochrome P450 family 2 subfamily J member 2 [KO:K07418] [EC:1.14.14.1 1.14.14.73 1.14.14.74 1.14.14.75]
+            113612  CYP2U1; cytochrome P450 family 2 subfamily U member 1 [KO:K07422] [EC:1.14.14.80]
+            1557  CYP2C19; cytochrome P450 family 2 subfamily C member 19 [KO:K17721] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.75 1.14.14.-]
+            11283  CYP4F8; cytochrome P450 family 4 subfamily F member 8 [KO:K17728] [EC:1.14.14.1]
+            239  ALOX12; arachidonate 12-lipoxygenase, 12S type [KO:K00458] [EC:1.13.11.31]
+            59344  ALOXE3; arachidonate lipoxygenase 3 [KO:K18684] [EC:4.2.1.152 5.4.4.7]
+            242  ALOX12B; arachidonate 12-lipoxygenase, 12R type [KO:K08021] [EC:1.13.11.-]
+            247  ALOX15B; arachidonate 15-lipoxygenase type B [KO:K08022] [EC:1.13.11.33 1.13.11.-]
+            1555  CYP2B6; cytochrome P450 family 2 subfamily B member 6 [KO:K17709] [EC:1.14.14.-]
+            1558  CYP2C8; cytochrome P450 family 2 subfamily C member 8 [KO:K17718] [EC:1.14.14.1]
+            1559  CYP2C9; cytochrome P450 family 2 subfamily C member 9 [KO:K17719] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.-]
+            2053  EPHX2; epoxide hydrolase 2 [KO:K08726] [EC:3.3.2.10 3.1.3.76]
+            246  ALOX15; arachidonate 15-lipoxygenase [KO:K00460] [EC:1.13.11.33]
+COMPOUND    C00157  Phosphatidylcholine
+            C00219  Arachidonate
+            C00427  Prostaglandin H2
+            C00584  Prostaglandin E2
+            C00639  Prostaglandin F2alpha
+            C00696  Prostaglandin D2
+            C00909  Leukotriene A4
+            C01312  Prostaglandin I2
+            C02165  Leukotriene B4
+            C02166  Leukotriene C4
+            C02198  Thromboxane A2
+            C03577  20-Hydroxyleukotriene E4
+            C04577  15-OxoETE
+            C04671  (5Z)-11alpha-Hydroxy-9,15-dioxoprostanoate
+            C04707  (5Z,13E)-11alpha-Hydroxy-9,15-dioxoprost-5,13-dienoate
+            C04742  (15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate
+            C04758  (5Z,13E)-9alpha-Hydroxy-11,15-dioxoprosta-5,13-dienoate
+            C04805  5(S)-HETE
+            C04822  8(R)-HPETE
+            C04835  (5Z,13E)-6,9alpha-Epoxy-11alpha-hydroxy-15-oxoprosta-5,13-dienoate
+            C04853  20-OH-Leukotriene B4
+            C05356  5(S)-HPETE
+            C05949  12-Keto-leukotriene B4
+            C05950  20-COOH-Leukotriene B4
+            C05951  Leukotriene D4
+            C05952  Leukotriene E4
+            C05953  Prostaglandin A2
+            C05954  Prostaglandin B2
+            C05955  Prostaglandin C2
+            C05956  Prostaglandin G2
+            C05957  Prostaglandin J2
+            C05958  Delta-12-Prostaglandin J2
+            C05959  11-epi-Prostaglandin F2alpha
+            C05960  15-Keto-prostaglandin F2alpha
+            C05961  6-Keto-prostaglandin F1alpha
+            C05962  6-Keto-prostaglandin E1
+            C05963  Thromboxane B2
+            C05964  11-Dehydro-thromboxane B2
+            C05965  12(S)-HPETE
+            C05966  15(S)-HPETE
+            C06314  Lipoxin A4
+            C06315  Lipoxin B4
+            C06462  Leukotriene F4
+            C13809  9,11,15-Trihydroxy-prosta-5,13-dien-1-oic acid
+            C14717  15-Deoxy-Delta12,14-PGJ2
+            C14732  5-OxoETE
+            C14748  20-HETE
+            C14749  19(S)-HETE
+            C14768  5,6-EET
+            C14769  8,9-EET
+            C14770  11,12-EET
+            C14771  14,15-EET
+            C14772  5,6-DHET
+            C14773  8,9-DHET
+            C14774  11,12-DHET
+            C14775  14,15-DHET
+            C14776  8(S)-HETE
+            C14777  12(S)-HETE
+            C14778  16(R)-HETE
+            C14779  9(S)-HETE
+            C14780  11(R)-HETE
+            C14781  15H-11,12-EETA
+            C14782  11,12,15-THETA
+            C14794  2,3-Dinor-8-iso prostaglandin F2alpha
+            C14795  2,3-Dinor-8-iso prostaglandin F1alpha
+            C14807  12-OxoETE
+            C14808  Hepoxilin A3
+            C14809  Trioxilin A3
+            C14810  Hepoxilin B3
+            C14811  Trioxilin B3
+            C14812  12(R)-HPETE
+            C14813  11H-14,15-EETA
+            C14814  11,14,15-THETA
+            C14815  5,6-Epoxytetraene
+            C14820  11(R)-HPETE
+            C14821  9(S)-HPETE
+            C14822  12(R)-HETE
+            C14823  8(S)-HPETE
+            C14824  8(R)-HETE
+REFERENCE   PMID:14636671
+  AUTHORS   Spector AA, Fang X, Snyder GD, Weintraub NL.
+  TITLE     Epoxyeicosatrienoic acids (EETs): metabolism and biochemical function.
+  JOURNAL   Prog Lipid Res 43:55-90 (2004)
+            DOI:10.1016/S0163-7827(03)00049-3
+REFERENCE   PMID:15292194
+  AUTHORS   Harman CA, Rieke CJ, Garavito RM, Smith WL.
+  TITLE     Crystal structure of arachidonic acid bound to a mutant of prostaglandin endoperoxide H synthase-1 that forms predominantly 11-hydroperoxyeicosatetraenoic acid.
+  JOURNAL   J Biol Chem 279:42929-35 (2004)
+            DOI:10.1074/jbc.M403013200
+REFERENCE   PMID:15205388
+  AUTHORS   Poloyac SM, Tortorici MA, Przychodzin DI, Reynolds RB, Xie W, Frye RF, Zemaitis MA.
+  TITLE     The effect of isoniazid on CYP2E1- and CYP4A-mediated hydroxylation of arachidonic acid in the rat liver and kidney.
+  JOURNAL   Drug Metab Dispos 32:727-33 (2004)
+            DOI:10.1124/dmd.32.7.727
+REFERENCE   PMID:14660610
+  AUTHORS   Chuang SS, Helvig C, Taimi M, Ramshaw HA, Collop AH, Amad M, White JA, Petkovich M, Jones G, Korczak B.
+  TITLE     CYP2U1, a novel human thymus- and brain-specific cytochrome P450, catalyzes omega- and (omega-1)-hydroxylation of fatty acids.
+  JOURNAL   J Biol Chem 279:6305-14 (2004)
+            DOI:10.1074/jbc.M311830200
+REFERENCE   PMID:14626496
+  AUTHORS   Sacerdoti D, Gatta A, McGiff JC.
+  TITLE     Role of cytochrome P450-dependent arachidonic acid metabolites in liver physiology and pathophysiology.
+  JOURNAL   Prostaglandins Other Lipid Mediat 72:51-71 (2003)
+            DOI:10.1016/S1098-8823(03)00077-7
+REFERENCE   PMID:14622984
+  AUTHORS   Pfister SL, Spitzbarth N, Zeldin DC, Lafite P, Mansuy D, Campbell WB.
+  TITLE     Rabbit aorta converts 15-HPETE to trihydroxyeicosatrienoic acids: potential role of cytochrome P450.
+  JOURNAL   Arch Biochem Biophys 420:142-52 (2003)
+            DOI:10.1016/j.abb.2003.09.026
+REFERENCE   PMID:11679404
+  AUTHORS   Fleming I.
+  TITLE     Cytochrome p450 and vascular homeostasis.
+  JOURNAL   Circ Res 89:753-62 (2001)
+            DOI:10.1161/hh2101.099268
+REFERENCE   PMID:11328810
+  AUTHORS   Qu W, Bradbury JA, Tsao CC, Maronpot R, Harry GJ, Parker CE, Davis LS, Breyer MD, Waalkes MP, Falck JR, Chen J, Rosenberg RL, Zeldin DC.
+  TITLE     Cytochrome P450 CYP2J9, a new mouse arachidonic acid omega-1 hydroxylase predominantly expressed in brain.
+  JOURNAL   J Biol Chem 276:25467-79 (2001)
+            DOI:10.1074/jbc.M100545200
+REFERENCE   PMID:10908295
+  AUTHORS   Tsao CC, Foley J, Coulter SJ, Maronpot R, Zeldin DC, Goldstein JA.
+  TITLE     CYP2C40, a unique arachidonic acid 16-hydroxylase, is the major CYP2C in murine intestinal tract.
+  JOURNAL   Mol Pharmacol 58:279-87 (2000)
+            DOI:10.1124/mol.58.2.279
+REFERENCE   PMID:9812980
+  AUTHORS   Pfister SL, Spitzbarth N, Nithipatikom K, Edgemond WS, Falck JR, Campbell WB.
+  TITLE     Identification of the 11,14,15- and 11,12, 15-trihydroxyeicosatrienoic acids as endothelium-derived relaxing factors of rabbit aorta.
+  JOURNAL   J Biol Chem 273:30879-87 (1998)
+            DOI:10.1074/jbc.273.47.30879
+REL_PATHWAY hsa00591  Linoleic acid metabolism
+KO_PATHWAY  ko00590
+///

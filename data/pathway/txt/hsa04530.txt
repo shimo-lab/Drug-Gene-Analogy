@@ -1,0 +1,317 @@
+ENTRY       hsa04530                    Pathway
+NAME        Tight junction - Homo sapiens (human)
+DESCRIPTION Tight junctions (TJs) are essential for establishing a selectively permeable barrier to diffusion through the paracellular space between neighboring cells. TJs are composed of at least three types of transmembrane protein -occludin, claudin and junctional adhesion molecules (JAMs)- and a cytoplasmic 'plaque' consisting of many different proteins that form large complexes. These are proposed to be involved in junction assembly, barrier regulation, cell polarity, gene transcription, and other pathways.
+CLASS       Cellular Processes; Cellular community - eukaryotes
+PATHWAY_MAP hsa04530  Tight junction
+NETWORK     nt06135  Cytoskeletal regulation (viruses and bacteria)
+            nt06166  Human papillomavirus (HPV)
+  ELEMENT   N00340  The Scribble/Dlg/Lgl polarity module
+            N00344  CRB3-Pals1-PATJ complex
+            N01287  Tight junction-Actin signaling pathway
+DRUG        D11527  Zolbetuximab (USAN/INN)
+DBLINKS     GO: 0005923
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        92359  CRB3; crumbs cell polarity complex component 3 [KO:K06090]
+            1364  CLDN4; claudin 4 [KO:K06087]
+            1365  CLDN3; claudin 3 [KO:K06087]
+            1366  CLDN7; claudin 7 [KO:K06087]
+            149461  CLDN19; claudin 19 [KO:K06087]
+            10686  CLDN16; claudin 16 [KO:K06087]
+            23562  CLDN14; claudin 14 [KO:K06087]
+            24146  CLDN15; claudin 15 [KO:K06087]
+            26285  CLDN17; claudin 17 [KO:K06087]
+            49861  CLDN20; claudin 20 [KO:K06087]
+            5010  CLDN11; claudin 11 [KO:K06087]
+            51208  CLDN18; claudin 18 [KO:K06087]
+            53842  CLDN22; claudin 22 [KO:K06087]
+            7122  CLDN5; claudin 5 [KO:K06087]
+            9071  CLDN10; claudin 10 [KO:K06087]
+            9073  CLDN8; claudin 8 [KO:K06087]
+            9074  CLDN6; claudin 6 [KO:K06087]
+            9075  CLDN2; claudin 2 [KO:K06087]
+            9076  CLDN1; claudin 1 [KO:K06087]
+            9080  CLDN9; claudin 9 [KO:K06087]
+            137075  CLDN23; claudin 23 [KO:K06087]
+            100288814  CLDN34; claudin 34 [KO:K06087]
+            644672  CLDN25; claudin 25 [KO:K06087]
+            100132463  CLDN24; claudin 24 [KO:K06087]
+            100506658  OCLN; occludin [KO:K06088]
+            50848  F11R; F11 receptor [KO:K06089]
+            58494  JAM2; junctional adhesion molecule 2 [KO:K06735]
+            83700  JAM3; junctional adhesion molecule 3 [KO:K06785]
+            11149  BVES; blood vessel epicardial substance [KO:K21108]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            50855  PARD6A; par-6 family cell polarity regulator alpha [KO:K06093]
+            84552  PARD6G; par-6 family cell polarity regulator gamma [KO:K06093]
+            84612  PARD6B; par-6 family cell polarity regulator beta [KO:K06093]
+            64398  PALS1; protein associated with LIN7 1, MAGUK p55 family member [KO:K06091]
+            58538  MPP4; MAGUK p55 scaffold protein 4 [KO:K21109]
+            27134  TJP3; tight junction protein 3 [KO:K06097]
+            10207  PATJ; PATJ crumbs cell polarity complex component [KO:K06092]
+            8777  MPDZ; multiple PDZ domain crumbs cell polarity complex component [KO:K06095]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            5584  PRKCI; protein kinase C iota [KO:K06069] [EC:2.7.11.13]
+            154796  AMOT; angiomotin [KO:K16819]
+            154810  AMOTL1; angiomotin like 1 [KO:K06104]
+            51421  AMOTL2; angiomotin like 2 [KO:K06104]
+            55114  ARHGAP17; Rho GTPase activating protein 17 [KO:K20638]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            4771  NF2; NF2, moesin-ezrin-radixin like (MERLIN) tumor suppressor [KO:K16684]
+            3993  LLGL2; LLGL scribble cell polarity complex component 2 [KO:K06094]
+            3996  LLGL1; LLGL scribble cell polarity complex component 1 [KO:K06094]
+            1739  DLG1; discs large MAGUK scaffold protein 1 [KO:K12076]
+            23513  SCRIB; scribble planar cell polarity protein [KO:K16175]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            5519  PPP2R1B; protein phosphatase 2 scaffold subunit Abeta [KO:K03456]
+            5518  PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha [KO:K03456]
+            5520  PPP2R2A; protein phosphatase 2 regulatory subunit Balpha [KO:K04354]
+            5521  PPP2R2B; protein phosphatase 2 regulatory subunit Bbeta [KO:K04354]
+            5522  PPP2R2C; protein phosphatase 2 regulatory subunit Bgamma [KO:K04354]
+            55844  PPP2R2D; protein phosphatase 2 regulatory subunit Bdelta [KO:K04354]
+            56288  PARD3; par-3 family cell polarity regulator [KO:K04237]
+            7074  TIAM1; TIAM Rac1 associated GEF 1 [KO:K05731]
+            7082  TJP1; tight junction protein 1 [KO:K05701]
+            93643  TJAP1; tight junction associated protein 1 [KO:K06105]
+            1740  DLG2; discs large MAGUK scaffold protein 2 [KO:K12075]
+            1741  DLG3; discs large MAGUK scaffold protein 3 [KO:K21098]
+            4734  NEDD4; NEDD4 E3 ubiquitin protein ligase [KO:K10591] [EC:2.3.2.26]
+            23327  NEDD4L; NEDD4 like E3 ubiquitin protein ligase [KO:K13305] [EC:2.3.2.26]
+            57530  CGN; cingulin [KO:K06102]
+            84952  CGNL1; cingulin like 1 [KO:K21110]
+            9181  ARHGEF2; Rho/Rac guanine nucleotide exchange factor 2 [KO:K12791]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            2626  GATA4; GATA binding protein 4 [KO:K09183]
+            91862  MARVELD3; MARVEL domain containing 3 [KO:K21099]
+            4214  MAP3K1; mitogen-activated protein kinase kinase kinase 1 [KO:K04416] [EC:2.7.11.25]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            909  CD1A; CD1a molecule [KO:K06448]
+            910  CD1B; CD1b molecule [KO:K06448]
+            911  CD1C; CD1c molecule [KO:K06448]
+            912  CD1D; CD1d molecule [KO:K06448]
+            913  CD1E; CD1e molecule [KO:K06448]
+            1080  CFTR; CF transmembrane conductance regulator [KO:K05031] [EC:5.6.1.6]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            8531  YBX3; Y-box binding protein 3 [KO:K06099]
+            8189  SYMPK; symplekin scaffold protein [KO:K06100]
+            5111  PCNA; proliferating cell nuclear antigen [KO:K04802]
+            595  CCND1; cyclin D1 [KO:K04503]
+            2064  ERBB2; erb-b2 receptor tyrosine kinase 2 [KO:K05083] [EC:2.7.10.1]
+            861  RUNX1; RUNX family transcription factor 1 [KO:K08367]
+            3308  HSPA4; heat shock protein family A (Hsp70) member 4 [KO:K09489]
+            9368  NHERF1; NHERF family PDZ scaffold protein 1 [KO:K13365]
+            7430  EZR; ezrin [KO:K08007]
+            5962  RDX; radixin [KO:K05762]
+            4478  MSN; moesin [KO:K05763]
+            5581  PRKCE; protein kinase C epsilon [KO:K18050] [EC:2.7.11.13]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            2017  CTTN; cortactin [KO:K06106]
+            3059  HCLS1; hematopoietic cell-specific Lyn substrate 1 [KO:K06106]
+            10097  ACTR2; actin related protein 2 [KO:K17260]
+            57180  ACTR3B; actin related protein 3B [KO:K18584]
+            653857  ACTR3C; actin related protein 3C [KO:K18584]
+            10096  ACTR3; actin related protein 3 [KO:K18584]
+            10095  ARPC1B; actin related protein 2/3 complex subunit 1B [KO:K05757]
+            10552  ARPC1A; actin related protein 2/3 complex subunit 1A [KO:K05757]
+            10109  ARPC2; actin related protein 2/3 complex subunit 2 [KO:K05758]
+            10094  ARPC3; actin related protein 2/3 complex subunit 3 [KO:K05756]
+            10093  ARPC4; actin related protein 2/3 complex subunit 4 [KO:K05755]
+            10092  ARPC5; actin related protein 2/3 complex subunit 5 [KO:K05754]
+            81873  ARPC5L; actin related protein 2/3 complex subunit 5 like [KO:K05754]
+            123720  WHAMM; WASP homolog associated with actin, golgi membranes and microtubules [KO:K20479]
+            7454  WAS; WASP actin nucleation promoting factor [KO:K05747]
+            7408  VASP; vasodilator stimulated phosphoprotein [KO:K06274]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            5872  RAB13; RAB13, member RAS oncogene family [KO:K06109]
+            23370  ARHGEF18; Rho/Rac guanine nucleotide exchange factor 18 [KO:K21066]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            4633  MYL2; myosin light chain 2 [KO:K10351]
+            54566  EPB41L4B; erythrocyte membrane protein band 4.1 like 4B [KO:K21111]
+            6794  STK11; serine/threonine kinase 11 [KO:K07298] [EC:2.7.11.1]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            4627  MYH9; myosin heavy chain 9 [KO:K10352]
+            4628  MYH10; myosin heavy chain 10 [KO:K10352]
+            4629  MYH11; myosin heavy chain 11 [KO:K10352]
+            79784  MYH14; myosin heavy chain 14 [KO:K10352]
+            140465  MYL6B; myosin light chain 6B [KO:K12751]
+            4637  MYL6; myosin light chain 6 [KO:K12751]
+            10398  MYL9; myosin light chain 9 [KO:K12755]
+            103910  MYL12B; myosin light chain 12B [KO:K12757]
+            10627  MYL12A; myosin light chain 12A [KO:K12757]
+            150084  IGSF5; immunoglobulin superfamily member 5 [KO:K06786]
+            9223  MAGI1; membrane associated guanylate kinase, WW and PDZ domain containing 1 [KO:K05631]
+            11346  SYNPO; synaptopodin [KO:K21112]
+            87  ACTN1; actinin alpha 1 [KO:K05699]
+            81  ACTN4; actinin alpha 4 [KO:K05699]
+            79778  MICALL2; MICAL like 2 [KO:K21068]
+            4218  RAB8A; RAB8A, member RAS oncogene family [KO:K07901]
+            51762  RAB8B; RAB8B, member RAS oncogene family [KO:K07902]
+            51735  RAPGEF6; Rap guanine nucleotide exchange factor 6 [KO:K08020]
+            5906  RAP1A; RAP1A, member of RAS oncogene family [KO:K04353]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            4301  AFDN; afadin, adherens junction formation factor [KO:K05702]
+            9414  TJP2; tight junction protein 2 [KO:K06098]
+            9693  RAPGEF2; Rap guanine nucleotide exchange factor 2 [KO:K08018]
+            57826  RAP2C; RAP2C, member of RAS oncogene family [KO:K07839]
+            153562  MARVELD2; MARVEL domain containing 2 [KO:K17291]
+            10376  TUBA1B; tubulin alpha 1b [KO:K07374]
+            7277  TUBA4A; tubulin alpha 4a [KO:K07374]
+            7278  TUBA3C; tubulin alpha 3c [KO:K07374]
+            7846  TUBA1A; tubulin alpha 1a [KO:K07374]
+            84790  TUBA1C; tubulin alpha 1c [KO:K07374]
+            51807  TUBA8; tubulin alpha 8 [KO:K07374]
+            112714  TUBA3E; tubulin alpha 3e [KO:K07374]
+            113457  TUBA3D; tubulin alpha 3d [KO:K07374]
+            79861  TUBAL3; tubulin alpha like 3 [KO:K07374]
+COMPOUND    C00076  Calcium cation
+REFERENCE   PMID:27353478
+  AUTHORS   Zihni C, Mills C, Matter K, Balda MS
+  TITLE     Tight junctions: from simple barriers to multifunctional molecular gates.
+  JOURNAL   Nat Rev Mol Cell Biol 17:564-80 (2016)
+            DOI:10.1038/nrm.2016.80
+REFERENCE   PMID:22169974
+  AUTHORS   Martin-Belmonte F, Perez-Moreno M
+  TITLE     Epithelial cell polarity, stem cells and cancer.
+  JOURNAL   Nat Rev Cancer 12:23-38 (2011)
+            DOI:10.1038/nrc3169
+REFERENCE   PMID:17525755
+  AUTHORS   Weber C, Fraemohs L, Dejana E
+  TITLE     The role of junctional adhesion molecules in vascular inflammation.
+  JOURNAL   Nat Rev Immunol 7:467-77 (2007)
+            DOI:10.1038/nri2096
+REFERENCE   PMID:15820555
+  AUTHORS   Miyoshi J, Takai Y
+  TITLE     Molecular perspective on tight-junction assembly and epithelial polarity.
+  JOURNAL   Adv Drug Deliv Rev 57:815-55 (2005)
+            DOI:10.1016/j.addr.2005.01.008
+REFERENCE   PMID:16650994
+  AUTHORS   Mertens AE, Pegtel DM, Collard JG
+  TITLE     Tiam1 takes PARt in cell polarity.
+  JOURNAL   Trends Cell Biol 16:308-16 (2006)
+            DOI:10.1016/j.tcb.2006.04.001
+REFERENCE   PMID:16771626
+  AUTHORS   Shin K, Fogg VC, Margolis B
+  TITLE     Tight junctions and cell polarity.
+  JOURNAL   Annu Rev Cell Dev Biol 22:207-35 (2006)
+            DOI:10.1146/annurev.cellbio.22.010305.104219
+REFERENCE   PMID:17182900
+  AUTHORS   Kooistra MR, Dube N, Bos JL
+  TITLE     Rap1: a key regulator in cell-cell junction formation.
+  JOURNAL   J Cell Sci 120:17-22 (2007)
+            DOI:10.1242/jcs.03306
+REFERENCE   PMID:17950242
+  AUTHORS   Gonzalez-Mariscal L, Tapia R, Chamorro D
+  TITLE     Crosstalk of tight junction components with signaling pathways.
+  JOURNAL   Biochim Biophys Acta 1778:729-56 (2008)
+            DOI:10.1016/j.bbamem.2007.08.018
+REFERENCE   PMID:18005931
+  AUTHORS   Assemat E, Bazellieres E, Pallesi-Pocachard E, Le Bivic A, Massey-Harroche D
+  TITLE     Polarity complex proteins.
+  JOURNAL   Biochim Biophys Acta 1778:614-30 (2008)
+            DOI:10.1016/j.bbamem.2007.08.029
+REFERENCE   PMID:18946474
+  AUTHORS   Iden S, Collard JG
+  TITLE     Crosstalk between small GTPases and polarity proteins in cell polarization.
+  JOURNAL   Nat Rev Mol Cell Biol 9:846-59 (2008)
+            DOI:10.1038/nrm2521
+REFERENCE   PMID:20094051
+  AUTHORS   Rosse C, Linch M, Kermorgant S, Cameron AJ, Boeckeler K, Parker PJ
+  TITLE     PKC and the control of localized signal dynamics.
+  JOURNAL   Nat Rev Mol Cell Biol 11:103-12 (2010)
+            DOI:10.1038/nrm2847
+REFERENCE   PMID:20134025
+  AUTHORS   Terry S, Nie M, Matter K, Balda MS
+  TITLE     Rho signaling and tight junction functions.
+  JOURNAL   Physiology (Bethesda) 25:16-26 (2010)
+            DOI:10.1152/physiol.00034.2009
+REFERENCE   PMID:21283798
+  AUTHORS   Russ PK, Pino CJ, Williams CS, Bader DM, Haselton FR, Chang MS
+  TITLE     Bves modulates tight junction associated signaling.
+  JOURNAL   PLoS One 6:e14563 (2011)
+            DOI:10.1371/journal.pone.0014563
+REFERENCE   PMID:21781017
+  AUTHORS   Citi S, Spadaro D, Schneider Y, Stutz J, Pulimeno P
+  TITLE     Regulation of small GTPases at epithelial cell-cell junctions.
+  JOURNAL   Mol Membr Biol 28:427-44 (2011)
+            DOI:10.3109/09687688.2011.603101
+REFERENCE   PMID:22896795
+  AUTHORS   Lickert H, Van Campenhout CA
+  TITLE     Evolution of the Discs large gene family provides new insights into the establishment of apical epithelial polarity and the etiology of mental retardation.
+  JOURNAL   Commun Integr Biol 5:287-90 (2012)
+            DOI:10.4161/cib.19792
+REFERENCE   PMID:22928510
+  AUTHORS   Spadaro D, Tapia R, Pulimeno P, Citi S
+  TITLE     The control of gene expression and cell proliferation by the epithelial apical junctional complex.
+  JOURNAL   Essays Biochem 53:83-93 (2012)
+            DOI:10.1042/bse0530083
+REFERENCE   PMID:24548561
+  AUTHORS   Moleirinho S, Guerrant W, Kissil JL
+  TITLE     The Angiomotins--from discovery to function.
+  JOURNAL   FEBS Lett 588:2693-703 (2014)
+            DOI:10.1016/j.febslet.2014.02.006
+REFERENCE   PMID:24651541
+  AUTHORS   Rodriguez-Boulan E, Macara IG
+  TITLE     Organization and execution of the epithelial polarity programme.
+  JOURNAL   Nat Rev Mol Cell Biol 15:225-42 (2014)
+            DOI:10.1038/nrm3775
+REFERENCE   PMID:25152334
+  AUTHORS   Gonzalez-Mariscal L, Dominguez-Calderon A, Raya-Sandino A, Ortega-Olvera JM, Vargas-Sierra O, Martinez-Revollar G
+  TITLE     Tight junctions and the regulation of gene expression.
+  JOURNAL   Semin Cell Dev Biol 36:213-23 (2014)
+            DOI:10.1016/j.semcdb.2014.08.009
+REFERENCE   PMID:25469537
+  AUTHORS   Mack NA, Georgiou M
+  TITLE     The interdependence of the Rho GTPases and apicobasal cell polarity.
+  JOURNAL   Small GTPases 5:10 (2014)
+            DOI:10.4161/21541248.2014.973768
+REFERENCE   PMID:25483301
+  AUTHORS   Citi S, Guerrera D, Spadaro D, Shah J
+  TITLE     Epithelial junctions and Rho family GTPases: the zonular signalosome.
+  JOURNAL   Small GTPases 5:1-15 (2014)
+            DOI:10.4161/21541248.2014.973760
+REFERENCE   PMID:25757376
+  AUTHORS   Zihni C, Terry SJ
+  TITLE     RhoGTPase signalling at epithelial tight junctions: Bridging the GAP between polarity and cancer.
+  JOURNAL   Int J Biochem Cell Biol 64:120-5 (2015)
+            DOI:10.1016/j.biocel.2015.02.020
+REFERENCE   PMID:22892070
+  AUTHORS   Nakano A, Takashima S
+  TITLE     LKB1 and AMP-activated protein kinase: regulators of cell polarity.
+  JOURNAL   Genes Cells 17:737-47 (2012)
+            DOI:10.1111/j.1365-2443.2012.01629.x
+REFERENCE   PMID:12042308
+  AUTHORS   Patrie KM, Drescher AJ, Welihinda A, Mundel P, Margolis B
+  TITLE     Interaction of two actin-binding proteins, synaptopodin and alpha-actinin-4, with the tight junction protein MAGI-1.
+  JOURNAL   J Biol Chem 277:30183-90 (2002)
+            DOI:10.1074/jbc.M203072200
+REFERENCE   PMID:18094055
+  AUTHORS   Yamamura R, Nishimura N, Nakatsuji H, Arase S, Sasaki T
+  TITLE     The interaction of JRAB/MICAL-L2 with Rab8 and Rab13 coordinates the assembly of tight junctions and adherens junctions.
+  JOURNAL   Mol Biol Cell 19:971-83 (2008)
+            DOI:10.1091/mbc.E07-06-0551
+REFERENCE   PMID:23885123
+  AUTHORS   Monteiro AC, Sumagin R, Rankin CR, Leoni G, Mina MJ, Reiter DM, Stehle T, Dermody TS, Schaefer SA, Hall RA, Nusrat A, Parkos CA
+  TITLE     JAM-A associates with ZO-2, afadin, and PDZ-GEF1 to activate Rap2c and regulate epithelial barrier function.
+  JOURNAL   Mol Biol Cell 24:2849-60 (2013)
+            DOI:10.1091/mbc.E13-06-0298
+REL_PATHWAY hsa04520  Adherens junction
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko04530
+///

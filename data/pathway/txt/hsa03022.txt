@@ -1,0 +1,75 @@
+ENTRY       hsa03022                    Pathway
+NAME        Basal transcription factors - Homo sapiens (human)
+CLASS       Genetic Information Processing; Transcription
+PATHWAY_MAP hsa03022  Basal transcription factors
+DBLINKS     GO: 0005668 0005669 0005672 0005673 0005674 0005675
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        11036  GTF2A1L; general transcription factor IIA subunit 1 like [KO:K03122]
+            2957  GTF2A1; general transcription factor IIA subunit 1 [KO:K03122]
+            2958  GTF2A2; general transcription factor IIA subunit 2 [KO:K03123]
+            2959  GTF2B; general transcription factor IIB [KO:K03124]
+            387332  TBPL2; TATA-box binding protein like 2 [KO:K03120]
+            9519  TBPL1; TATA-box binding protein like 1 [KO:K03120]
+            6908  TBP; TATA-box binding protein [KO:K03120]
+            6872  TAF1; TATA-box binding protein associated factor 1 [KO:K03125] [EC:2.3.1.48 2.7.11.1]
+            138474  TAF1L; TATA-box binding protein associated factor 1 like [KO:K03125] [EC:2.3.1.48 2.7.11.1]
+            6873  TAF2; TATA-box binding protein associated factor 2 [KO:K03128]
+            6879  TAF7; TATA-box binding protein associated factor 7 [KO:K03132]
+            54457  TAF7L; TATA-box binding protein associated factor 7 like [KO:K03132]
+            129685  TAF8; TATA-box binding protein associated factor 8 [KO:K14649]
+            83860  TAF3; TATA-box binding protein associated factor 3 [KO:K14650]
+            6881  TAF10; TATA-box binding protein associated factor 10 [KO:K03134]
+            27097  TAF5L; TATA-box binding protein associated factor 5 like [KO:K03130]
+            6877  TAF5; TATA-box binding protein associated factor 5 [KO:K03130]
+            6875  TAF4B; TATA-box binding protein associated factor 4b [KO:K03129]
+            6874  TAF4; TATA-box binding protein associated factor 4 [KO:K03129]
+            6883  TAF12; TATA-box binding protein associated factor 12 [KO:K03126]
+            6878  TAF6; TATA-box binding protein associated factor 6 [KO:K03131]
+            10629  TAF6L; TATA-box binding protein associated factor 6 like [KO:K03131]
+            6880  TAF9; TATA-box binding protein associated factor 9 [KO:K14535]
+            51616  TAF9B; TATA-box binding protein associated factor 9b [KO:K03133]
+            6882  TAF11; TATA-box binding protein associated factor 11 [KO:K03135]
+            6884  TAF13; TATA-box binding protein associated factor 13 [KO:K03127]
+            8148  TAF15; TATA-box binding protein associated factor 15 [KO:K14651]
+            2960  GTF2E1; general transcription factor IIE subunit 1 [KO:K03136]
+            2961  GTF2E2; general transcription factor IIE subunit 2 [KO:K03137]
+            2962  GTF2F1; general transcription factor IIF subunit 1 [KO:K03138]
+            2963  GTF2F2; general transcription factor IIF subunit 2 [KO:K03139] [EC:5.6.2.-]
+            2965  GTF2H1; general transcription factor IIH subunit 1 [KO:K03141]
+            2966  GTF2H2; general transcription factor IIH subunit 2 [KO:K03142]
+            730394  GTF2H2C_2; GTF2H2 family member C, copy 2 [KO:K03142]
+            728340  GTF2H2C; GTF2H2 family member C [KO:K03142]
+            2967  GTF2H3; general transcription factor IIH subunit 3 [KO:K03143]
+            2968  GTF2H4; general transcription factor IIH subunit 4 [KO:K03144]
+            2071  ERCC3; ERCC excision repair 3, TFIIH core complex helicase subunit [KO:K10843] [EC:5.6.2.4]
+            2068  ERCC2; ERCC excision repair 2, TFIIH core complex helicase subunit [KO:K10844] [EC:5.6.2.3]
+            404672  GTF2H5; general transcription factor IIH subunit 5 [KO:K10845]
+            1022  CDK7; cyclin dependent kinase 7 [KO:K02202] [EC:2.7.11.22 2.7.11.23]
+            4331  MNAT1; MNAT1 component of CDK activating kinase [KO:K10842]
+            902  CCNH; cyclin H [KO:K06634]
+            9569  GTF2IRD1; GTF2I repeat domain containing 1 [KO:K03121]
+            2969  GTF2I; general transcription factor IIi [KO:K03121]
+REFERENCE   PMID:16858867
+  AUTHORS   Thomas MC, Chiang CM
+  TITLE     The general transcription machinery and general cofactors.
+  JOURNAL   Crit Rev Biochem Mol Biol 41:105-78 (2006)
+            DOI:10.1080/10409230600648736
+REFERENCE   PMID:12516863
+  AUTHORS   Martinez E
+  TITLE     Multi-protein complexes in eukaryotic gene transcription.
+  JOURNAL   Plant Mol Biol 50:925-47 (2002)
+            DOI:10.1023/A:1021258713850
+REFERENCE   PMID:19308322
+  AUTHORS   Cler E, Papai G, Schultz P, Davidson I
+  TITLE     Recent advances in understanding the structure and function of general transcription factor TFIID.
+  JOURNAL   Cell Mol Life Sci 66:2123-34 (2009)
+            DOI:10.1007/s00018-009-0009-3
+REFERENCE   PMID:10838567
+  AUTHORS   Malik S, Roeder RG.
+  TITLE     Transcriptional regulation through Mediator-like coactivators in yeast and metazoan cells.
+  JOURNAL   Trends Biochem Sci 25:277-283 (2000)
+            DOI:10.1016/S0968-0004(00)01596-6
+REL_PATHWAY hsa03020  RNA polymerase
+            hsa03420  Nucleotide excision repair
+KO_PATHWAY  ko03022
+///

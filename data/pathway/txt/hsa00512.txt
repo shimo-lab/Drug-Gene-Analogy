@@ -1,0 +1,104 @@
+ENTRY       hsa00512                    Pathway
+NAME        Mucin type O-glycan biosynthesis - Homo sapiens (human)
+DESCRIPTION O-glycans are a class of glycans that modify serine or threonine residues of proteins. Biosynthesis of O-glycans starts from the transfer of N-acetylgalactosamine (GalNAc) to serine or threonine. The first GalNAc may be extended with sugars including galactose, N-acetylglucosamine, fucose, or sialic acid, but not mannose, glucose, or xylose. Depending on the sugars added, there are four common O-glycan core structures, cores 1 through 4, and an additional four, cores 5 though 8. Mucins are highly O-glycosylated glycoproteins ubiquitous in mucous secretions on cell surfaces and in body fluids. Mucin O-glycans can be branched, and many sugars or groups of sugars are antigenic. Important modifications of mucin O-glycans include O-acetylation of sialic acid and O-sulfation of galactose and N-acetylglucosamine.
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00512  Mucin type O-glycan biosynthesis
+MODULE      hsa_M00056  O-glycan biosynthesis, mucin type core [PATH:hsa00512]
+DBLINKS     GO: 0006493
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        442117  GALNTL6; polypeptide N-acetylgalactosaminyltransferase like 6 [KO:K00710] [EC:2.4.1.41]
+            11227  GALNT5; polypeptide N-acetylgalactosaminyltransferase 5 [KO:K00710] [EC:2.4.1.41]
+            64409  GALNT17; polypeptide N-acetylgalactosaminyltransferase 17 [KO:K00710] [EC:2.4.1.41]
+            63917  GALNT11; polypeptide N-acetylgalactosaminyltransferase 11 [KO:K00710] [EC:2.4.1.41]
+            79695  GALNT12; polypeptide N-acetylgalactosaminyltransferase 12 [KO:K00710] [EC:2.4.1.41]
+            114805  GALNT13; polypeptide N-acetylgalactosaminyltransferase 13 [KO:K00710] [EC:2.4.1.41]
+            79623  GALNT14; polypeptide N-acetylgalactosaminyltransferase 14 [KO:K00710] [EC:2.4.1.41]
+            57452  GALNT16; polypeptide N-acetylgalactosaminyltransferase 16 [KO:K00710] [EC:2.4.1.41]
+            117248  GALNT15; polypeptide N-acetylgalactosaminyltransferase 15 [KO:K00710] [EC:2.4.1.41]
+            374378  GALNT18; polypeptide N-acetylgalactosaminyltransferase 18 [KO:K00710] [EC:2.4.1.41]
+            168391  GALNTL5; polypeptide N-acetylgalactosaminyltransferase like 5 [KO:K00710] [EC:2.4.1.41]
+            55568  GALNT10; polypeptide N-acetylgalactosaminyltransferase 10 [KO:K00710] [EC:2.4.1.41]
+            2590  GALNT2; polypeptide N-acetylgalactosaminyltransferase 2 [KO:K00710] [EC:2.4.1.41]
+            2591  GALNT3; polypeptide N-acetylgalactosaminyltransferase 3 [KO:K00710] [EC:2.4.1.41]
+            2589  GALNT1; polypeptide N-acetylgalactosaminyltransferase 1 [KO:K00710] [EC:2.4.1.41]
+            11226  GALNT6; polypeptide N-acetylgalactosaminyltransferase 6 [KO:K00710] [EC:2.4.1.41]
+            8693  GALNT4; polypeptide N-acetylgalactosaminyltransferase 4 [KO:K00710] [EC:2.4.1.41]
+            50614  GALNT9; polypeptide N-acetylgalactosaminyltransferase 9 [KO:K00710] [EC:2.4.1.41]
+            51809  GALNT7; polypeptide N-acetylgalactosaminyltransferase 7 [KO:K00710] [EC:2.4.1.41]
+            26290  GALNT8; polypeptide N-acetylgalactosaminyltransferase 8 [KO:K00710] [EC:2.4.1.41]
+            100528030  POC1B-GALNT4; POC1B-GALNT4 readthrough [KO:K00710] [EC:2.4.1.41]
+            56913  C1GALT1; core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1 [KO:K00731] [EC:2.4.1.122]
+            29071  C1GALT1C1; C1GALT1 specific chaperone 1 [KO:K09653]
+            728819  C1GALT1C1L; C1GALT1 specific chaperone 1 like [KO:K09653]
+            2650  GCNT1; glucosaminyl (N-acetyl) transferase 1 [KO:K00727] [EC:2.4.1.102]
+            9245  GCNT3; glucosaminyl (N-acetyl) transferase 3, mucin type [KO:K09662] [EC:2.4.1.-]
+            51301  GCNT4; glucosaminyl (N-acetyl) transferase 4 [KO:K09663] [EC:2.4.1.-]
+            6482  ST3GAL1; ST3 beta-galactoside alpha-2,3-sialyltransferase 1 [KO:K00780] [EC:2.4.3.2 2.4.3.4]
+            6483  ST3GAL2; ST3 beta-galactoside alpha-2,3-sialyltransferase 2 [KO:K03368] [EC:2.4.3.2 2.4.3.4]
+            55808  ST6GALNAC1; ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1 [KO:K03479] [EC:2.4.3.3]
+            10610  ST6GALNAC2; ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 2 [KO:K06616] [EC:2.4.3.3]
+            256435  ST6GALNAC3; ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 3 [KO:K03373] [EC:2.4.3.7]
+            27090  ST6GALNAC4; ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 4 [KO:K03374] [EC:2.4.3.7]
+            10331  B3GNT3; UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3 [KO:K07970] [EC:2.4.1.146 2.4.1.149]
+            192134  B3GNT6; UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 6 [KO:K00739] [EC:2.4.1.147]
+            9334  B4GALT5; beta-1,4-galactosyltransferase 5 [KO:K09905] [EC:2.4.1.274 2.4.1.-]
+COMPOUND    C02189  [Protein]-L-serine
+            G00023  Tn antigen
+            G00024  T antigen
+            G00025
+            G00026
+            G00027
+            G00028
+            G00029
+            G00030
+            G00031
+            G00032
+            G00033
+            G00034
+            G00035  Sialyl-Tn antigen
+            G10611  UDP-N-acetyl-D-galactosamine
+            G10794
+            G13153
+REFERENCE   PMID:10580130
+  AUTHORS   Brockhausen I.
+  TITLE     Pathways of O-glycan biosynthesis in cancer cells.
+  JOURNAL   Biochim Biophys Acta 1473:67-95 (1999)
+            DOI:10.1016/S0304-4165(99)00170-1
+REFERENCE   PMID:11821425
+  AUTHORS   Iwai T, Inaba N, Naundorf A, Zhang Y, Gotoh M, Iwasaki H, Kudo T, Togayachi A, Ishizuka Y, Nakanishi H, Narimatsu H.
+  TITLE     Molecular cloning and characterization of a novel UDP-GlcNAc:GalNAc-peptide beta1,3-N-acetylglucosaminyltransferase (beta 3Gn-T6), an enzyme synthesizing the core 3 structure of O-glycans.
+  JOURNAL   J Biol Chem 277:12802-9 (2002)
+            DOI:10.1074/jbc.M112457200
+REFERENCE   PMID:12626393
+  AUTHORS   Korekane H, Taguchi T, Sakamoto Y, Honke K, Dohmae N, Salminen H, Toivonen S, Helin J, Takio K, Renkonen O, Taniguchi N.
+  TITLE     Purification and cDNA cloning of UDP-GlcNAc:GlcNAcbeta1-3Galbeta1-4Glc(NAc)-R [GlcNAc to Gal]beta1,6N-acetylglucosaminyltransferase from rat small intestine: a major carrier of dIGnT activity in rat small intestine.
+  JOURNAL   Glycobiology 13:387-400 (2003)
+            DOI:10.1093/glycob/cwg044
+REFERENCE   PMID:10350056
+  AUTHORS   van Die I, van Tetering A, Schiphorst WE, Sato T, Furukawa K, van den Eijnden DH.
+  TITLE     The acceptor substrate specificity of human beta4-galactosyltransferase V indicates its potential function in O-glycosylation.
+  JOURNAL   FEBS Lett 450:52-6 (1999)
+            DOI:10.1016/S0014-5793(99)00462-7
+REFERENCE   PMID:15466199
+  AUTHORS   Marcos NT, Pinho S, Grandela C, Cruz A, Samyn-Petit B, Harduin-Lepers A, Almeida R, Silva F, Morais V, Costa J, Kihlberg J, Clausen H, Reis CA
+  TITLE     Role of the human ST6GalNAc-I and ST6GalNAc-II in the synthesis of the cancer-associated sialyl-Tn antigen.
+  JOURNAL   Cancer Res 64:7050-7 (2004)
+            DOI:10.1158/0008-5472.CAN-04-1921
+REFERENCE   PMID:10207017
+  AUTHORS   Lee YC, Kaufmann M, Kitazume-Kawaguchi S, Kono M, Takashima S, Kurosawa N, Liu H, Pircher H, Tsuji S
+  TITLE     Molecular cloning and functional expression of two members of mouse NeuAcalpha2,3Galbeta1,3GalNAc GalNAcalpha2,6-sialyltransferase family, ST6GalNAc  III and IV.
+  JOURNAL   J Biol Chem 274:11958-67 (1999)
+            DOI:10.1074/jbc.274.17.11958
+REFERENCE   PMID:25727146
+  AUTHORS   Kudelka MR, Ju T, Heimburg-Molinaro J, Cummings RD
+  TITLE     Simple sugars to complex disease--mucin-type O-glycans in cancer.
+  JOURNAL   Adv Cancer Res 126:53-135 (2015)
+            DOI:10.1016/bs.acr.2014.11.002
+REFERENCE   PMID:11439191
+  AUTHORS   Yeh JC, Hiraoka N, Petryniak B, Nakayama J, Ellies LG, Rabuka D, Hindsgaul O, Marth JD, Lowe JB, Fukuda M
+  TITLE     Novel sulfated lymphocyte homing receptors and their control by a Core1 extension beta 1,3-N-acetylglucosaminyltransferase.
+  JOURNAL   Cell 105:957-69 (2001)
+            DOI:10.1016/S0092-8674(01)00394-4
+REL_PATHWAY hsa00533  Glycosaminoglycan biosynthesis - keratan sulfate
+KO_PATHWAY  ko00512
+///

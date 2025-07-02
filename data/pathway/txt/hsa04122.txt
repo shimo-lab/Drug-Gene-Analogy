@@ -1,0 +1,46 @@
+ENTRY       hsa04122                    Pathway
+NAME        Sulfur relay system - Homo sapiens (human)
+DESCRIPTION Ubiquitin and ubiquitin-like proteins (Ubls) are signalling messengers that control many cellular functions, such as cell proliferation, apoptosis, and DNA repair. It is suggested that Ub-protein modification evolved from prokaryotic sulfurtransfer systems. Molybdenum cofactor (Moco) and thiamin are sulfur-containing cofactors whose biosynthesis includes a key sulfur transfer step that uses unique sulfur carrier proteins, MoaD and ThiS. Ubiquitin, MoaD, and ThiS are all structurally related proteins whose C-termini are activated through adenylation by homologous E1-like enzymes. s2T biosynthesis may share similar chemistry with Moco and thiamin synthesis. In Saccharomyces cerevisiae, Urm1 and Uba4 function as part of a ubl protein conjugation system, though they have sequence homology to bacterial sulfur-transfer enzymes and the ability to function in sulfur transfer.
+CLASS       Genetic Information Processing; Folding, sorting and degradation
+PATHWAY_MAP hsa04122  Sulfur relay system
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        9054  NFS1; NFS1 cysteine desulfurase [KO:K04487] [EC:2.8.1.7]
+            4357  MPST; mercaptopyruvate sulfurtransferase [KO:K01011] [EC:2.8.1.1 2.8.1.2]
+            7263  TST; thiosulfate sulfurtransferase [KO:K01011] [EC:2.8.1.1 2.8.1.2]
+            81605  URM1; ubiquitin related modifier 1 [KO:K12161]
+            27304  MOCS3; molybdenum cofactor synthesis 3 [KO:K11996] [EC:2.7.7.80 2.8.1.11]
+            90353  CTU1; cytosolic thiouridylase subunit 1 [KO:K14168] [EC:2.7.7.-]
+            348180  CTU2; cytosolic thiouridylase subunit 2 [KO:K14169]
+            4338  MOCS2; molybdenum cofactor synthesis 2 [KO:K03635] [EC:2.8.1.12]
+COMPOUND    C00019  S-Adenosyl-L-methionine
+            C00041  L-Alanine
+            C00044  GTP
+            C00097  L-Cysteine
+            C00378  Thiamine
+            C00868  tRNA uridine
+            C00979  O-Acetyl-L-serine
+            C05924  Molybdopterin
+            C17322  tRNA containing 2-thiouridine
+            C18237  Molybdoenzyme molybdenum cofactor
+            C18239  Precursor Z
+REFERENCE   PMID:19151091
+  AUTHORS   Noma A, Sakaguchi Y, Suzuki T
+  TITLE     Mechanistic characterization of the sulfur-relay system for eukaryotic 2-thiouridine biogenesis at tRNA wobble positions.
+  JOURNAL   Nucleic Acids Res 37:1335-52 (2009)
+            DOI:10.1093/nar/gkn1023
+REFERENCE   PMID:16859499
+  AUTHORS   Iyer LM, Burroughs AM, Aravind L
+  TITLE     The prokaryotic antecedents of the ubiquitin-signaling system and the early evolution of ubiquitin-like beta-grasp domains.
+  JOURNAL   Genome Biol 7:R60 (2006)
+            DOI:10.1186/gb-2006-7-7-r60
+REFERENCE   PMID:19675644
+  AUTHORS   Schwarz G, Mendel RR, Ribbe MW
+  TITLE     Molybdenum cofactors, enzymes and pathways.
+  JOURNAL   Nature 460:839-47 (2009)
+            DOI:10.1038/nature08302
+REL_PATHWAY hsa00270  Cysteine and methionine metabolism
+            hsa00730  Thiamine metabolism
+            hsa00790  Folate biosynthesis
+            hsa04120  Ubiquitin mediated proteolysis
+KO_PATHWAY  ko04122
+///

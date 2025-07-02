@@ -1,0 +1,301 @@
+ENTRY       hsa04660                    Pathway
+NAME        T cell receptor signaling pathway - Homo sapiens (human)
+DESCRIPTION Activation of T lymphocytes is a key event for an efficient response of the immune system. It requires the involvement of the T-cell receptor (TCR) as well as costimulatory molecules such as CD28. Engagement of these receptors through the interaction with a foreign antigen associated with major histocompatibility complex molecules and CD28 counter-receptors B7.1/B7.2, respectively, results in a series of signaling cascades. These cascades comprise an array of protein-tyrosine kinases, phosphatases, GTP-binding proteins and adaptor proteins that regulate generic and specialised functions, leading to T-cell proliferation, cytokine production and differentiation into effector cells.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04660  T cell receptor signaling pathway
+NETWORK     nt06114  PI3K signaling (viruses)
+            nt06120  Calcium signaling (viruses and bacteria)
+            nt06169  Measles virus (MV)
+  ELEMENT   N00683  CD80/CD86-CD28-PI3K signaling pathway
+            N01106  TCR-NFAT signaling pathway
+DRUG        D00107  Tacrolimus (USP/INN)
+            D00184  Cyclosporine (USP)
+            D03420  Cedelizumab (USAN/INN)
+            D04603  Ipilimumab (USAN/INN)
+            D05092  Muromonab-CD3 (JAN/USAN/INN)
+            D05480  Pimecrolimus (JAN/USAN/INN)
+            D05610  Priliximab (USAN/INN)
+            D05777  Ruplizumab (USAN/INN)
+            D06193  Toralizumab (USAN/INN)
+            D06314  Visilizumab (USAN/INN)
+            D06657  Tremelimumab (USAN/INN)
+            D08556  Tacrolimus (INN)
+            D08959  Otelixizumab (USAN)
+            D08976  Pomalidomide (JAN/USAN/INN)
+            D09013  Teplizumab (USAN/INN)
+            D09033  Voclosporin (JAN/USAN/INN)
+            D09190  Anti-human thymocyte immunoglobulin, rabbit (JAN)
+            D09207  Catumaxomab (INN)
+            D09325  Blinatumomab (USAN/INN)
+            D09575  Ibalizumab (USAN/INN)
+            D09671  Sotrastaurin (USAN/INN)
+            D09718  Sotrastaurin acetate (USAN)
+            D10316  Nivolumab (USAN/INN)
+            D10390  Pidilizumab (USAN)
+            D10574  Pembrolizumab (USAN)
+            D10983  Ruclosporin (USAN/INN)
+            D10993  Tucidinostat (JAN/USAN/INN)
+            D11108  Cemiplimab (USAN)
+            D11122  Letolizumab (USAN/INN)
+            D11366  Dostarlimab (USAN)
+            D11372  Duvortuxizumab (USAN)
+            D11433  Vopratelimab (USAN/INN)
+            D11487  Tislelizumab (USAN/INN)
+            D11488  Cetrelimab (USAN/INN)
+            D11489  Cibisatamab (USAN/INN)
+            D11605  Spartalizumab (USAN/INN)
+            D11820  Balstilimab (USAN/INN)
+            D11823  Zalifrelimab (USAN/INN)
+            D11827  Retifanlimab (USAN)
+            D11948  Pacmilimab (USAN/INN)
+            D11992  Pavurutamab (USAN)
+            D11996  Feladilimab (USAN/INN)
+            D12007  Ubamatamab (USAN)
+            D12058  Elranatamab (USAN)
+            D12063  Zimberelimab (USAN)
+            D12119  Sintilimab (USAN/INN)
+            D12180  Talquetamab (USAN/INN)
+            D12186  Vudalimab (USAN)
+            D12190  Cadonilimab (USAN)
+            D12195  Izuralimab (USAN)
+            D12198  Penpulimab (USAN)
+            D12202  Toripalimab (USAN/INN)
+            D12223  Rosnilimab (USAN)
+            D12231  Peresolimab (USAN)
+            D12233  Quavonlimab (USAN/INN)
+            D12296  Tebentafusp (USAN/INN)
+            D12300  Acazicolcept (USAN)
+            D12317  Bavunalimab (USAN)
+            D12332  Zeluvalimab (USAN/INN)
+            D12347  Volrustomig (USAN)
+            D12368  Epcoritamab (USAN/INN)
+            D12448  Botensilimab (USAN/INN)
+DBLINKS     GO: 0050852
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        915  CD3D; CD3 delta subunit of T-cell receptor complex [KO:K06450]
+            916  CD3E; CD3 epsilon subunit of T-cell receptor complex [KO:K06451]
+            917  CD3G; CD3 gamma subunit of T-cell receptor complex [KO:K06452]
+            919  CD247; CD247 molecule [KO:K06453]
+            920  CD4; CD4 molecule [KO:K06454]
+            925  CD8A; CD8 subunit alpha [KO:K06458]
+            926  CD8B; CD8 subunit beta [KO:K06459]
+            927  CD8B2; CD8B family member 2 [KO:K06459]
+            5788  PTPRC; protein tyrosine phosphatase receptor type C [KO:K06478] [EC:3.1.3.48]
+            3932  LCK; LCK proto-oncogene, Src family tyrosine kinase [KO:K05856] [EC:2.7.10.2]
+            2534  FYN; FYN proto-oncogene, Src family tyrosine kinase [KO:K05703] [EC:2.7.10.2]
+            7535  ZAP70; zeta chain of T cell receptor associated protein kinase 70 [KO:K07360] [EC:2.7.10.2]
+            3937  LCP2; lymphocyte cytosolic protein 2 [KO:K07361]
+            27040  LAT; linker for activation of T cells [KO:K07362]
+            3702  ITK; IL2 inducible T cell kinase [KO:K07363] [EC:2.7.10.2]
+            7006  TEC; tec protein tyrosine kinase [KO:K07364] [EC:2.7.10.2]
+            4690  NCK1; NCK adaptor protein 1 [KO:K07365]
+            8440  NCK2; NCK adaptor protein 2 [KO:K19862]
+            10451  VAV3; vav guanine nucleotide exchange factor 3 [KO:K05730]
+            7409  VAV1; vav guanine nucleotide exchange factor 1 [KO:K05730]
+            7410  VAV2; vav guanine nucleotide exchange factor 2 [KO:K05730]
+            9402  GRAP2; GRB2 related adaptor protein 2 [KO:K07366]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            5062  PAK2; p21 (RAC1) activated kinase 2 [KO:K04410] [EC:2.7.11.1]
+            5063  PAK3; p21 (RAC1) activated kinase 3 [KO:K05733] [EC:2.7.11.1]
+            10298  PAK4; p21 (RAC1) activated kinase 4 [KO:K05734] [EC:2.7.11.1]
+            57144  PAK5; p21 (RAC1) activated kinase 5 [KO:K05736] [EC:2.7.11.1]
+            56924  PAK6; p21 (RAC1) activated kinase 6 [KO:K05735] [EC:2.7.11.1]
+            106821730  BUB1B-PAK6; BUB1B-PAK6 readthrough [KO:K05735] [EC:2.7.11.1]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            1739  DLG1; discs large MAGUK scaffold protein 1 [KO:K12076]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            10125  RASGRP1; RAS guanyl releasing protein 1 [KO:K04350]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            5588  PRKCQ; protein kinase C theta [KO:K18052] [EC:2.7.11.13]
+            84433  CARD11; caspase recruitment domain family member 11 [KO:K07367]
+            8915  BCL10; BCL10 immune signaling adaptor [KO:K07368]
+            10892  MALT1; MALT1 paracaspase [KO:K07369] [EC:3.4.22.-]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4794  NFKBIE; NFKB inhibitor epsilon [KO:K05872]
+            940  CD28; CD28 molecule [KO:K06470]
+            29851  ICOS; inducible T cell costimulator [KO:K06713]
+            959  CD40LG; CD40 ligand [KO:K03161]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            1326  MAP3K8; mitogen-activated protein kinase kinase kinase 8 [KO:K04415] [EC:2.7.11.25]
+            9020  MAP3K14; mitogen-activated protein kinase kinase kinase 14 [KO:K04466] [EC:2.7.11.25]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            5133  PDCD1; programmed cell death 1 [KO:K06744]
+            1493  CTLA4; cytotoxic T-lymphocyte associated protein 4 [KO:K06538]
+            5777  PTPN6; protein tyrosine phosphatase non-receptor type 6 [KO:K05697] [EC:3.1.3.48]
+            868  CBLB; Cbl proto-oncogene B [KO:K22517] [EC:2.3.2.27]
+            3558  IL2; interleukin 2 [KO:K05429]
+            3565  IL4; interleukin 4 [KO:K05430]
+            3567  IL5; interleukin 5 [KO:K05428]
+            3586  IL10; interleukin 10 [KO:K05443]
+            3458  IFNG; interferon gamma [KO:K04687]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:15122199
+  AUTHORS   Chen L.
+  TITLE     Co-inhibitory molecules of the B7-CD28 family in the control of T-cell immunity.
+  JOURNAL   Nat Rev Immunol 4:336-47 (2004)
+            DOI:10.1038/nri1349
+REFERENCE   PMID:15928679
+  AUTHORS   Macian F.
+  TITLE     NFAT proteins: key regulators of T-cell development and function.
+  JOURNAL   Nat Rev Immunol 5:472-84 (2005)
+            DOI:10.1038/nri1632
+REFERENCE   PMID:15771581
+  AUTHORS   Berg LJ, Finkelstein LD, Lucas JA, Schwartzberg PL.
+  TITLE     Tec family kinases in T lymphocyte development and function.
+  JOURNAL   Annu Rev Immunol 23:549-600 (2005)
+            DOI:10.1146/annurev.immunol.22.012703.104743
+REFERENCE   PMID:15084594
+  AUTHORS   Huang Y, Wange RL.
+  TITLE     T cell receptor signaling: beyond complex complexes.
+  JOURNAL   J Biol Chem 279:28827-30 (2004)
+            DOI:10.1074/jbc.R400012200
+REFERENCE   PMID:14656980
+  AUTHORS   Schmitz ML, Bacher S, Dienz O.
+  TITLE     NF-kappaB activation pathways induced by T cell costimulation.
+  JOURNAL   FASEB J 17:2187-93 (2003)
+            DOI:10.1096/fj.02-1100rev
+REFERENCE   PMID:11905831
+  AUTHORS   Alegre ML, Frauwirth KA, Thompson CB.
+  TITLE     T-cell regulation by CD28 and CTLA-4.
+  JOURNAL   Nat Rev Immunol 1:220-8 (2001)
+            DOI:10.1038/35105024
+REFERENCE   PMID:15286727
+  AUTHORS   Horejsi V, Zhang W, Schraven B.
+  TITLE     Transmembrane adaptor proteins: organizers of immunoreceptor signalling.
+  JOURNAL   Nat Rev Immunol 4:603-16 (2004)
+            DOI:10.1038/nri1414
+REFERENCE   PMID:15343367
+  AUTHORS   Baniyash M.
+  TITLE     TCR zeta-chain downregulation: curtailing an excessive inflammatory immune response.
+  JOURNAL   Nat Rev Immunol 4:675-87 (2004)
+            DOI:10.1038/nri1434
+REFERENCE   PMID:15099566
+  AUTHORS   Sechi AS, Wehland J.
+  TITLE     Interplay between TCR signalling and actin cytoskeleton dynamics.
+  JOURNAL   Trends Immunol 25:257-65 (2004)
+            DOI:10.1016/j.it.2004.03.003
+REFERENCE   PMID:12669022
+  AUTHORS   Okkenhaug K, Vanhaesebroeck B.
+  TITLE     PI3K in lymphocyte development, differentiation and activation.
+  JOURNAL   Nat Rev Immunol 3:317-30 (2003)
+            DOI:10.1038/nri1056
+REFERENCE   PMID:15489916
+  AUTHORS   Palacios EH, Weiss A.
+  TITLE     Function of the Src-family kinases, Lck and Fyn, in T-cell development and activation.
+  JOURNAL   Oncogene 23:7990-8000 (2004)
+            DOI:10.1038/sj.onc.1208074
+REFERENCE   PMID:12133805
+  AUTHORS   Kane LP, Lin J, Weiss A.
+  TITLE     It's all Rel-ative: NF-kappaB and CD28 costimulation of T-cell activation.
+  JOURNAL   Trends Immunol 23:413-20 (2002)
+            DOI:10.1016/S1471-4906(02)02264-0
+REFERENCE   PMID:14647476
+  AUTHORS   Acuto O, Michel F.
+  TITLE     CD28-mediated co-stimulation: a quantitative support for TCR signalling.
+  JOURNAL   Nat Rev Immunol 3:939-51 (2003)
+            DOI:10.1038/nri1248
+REFERENCE   PMID:15308211
+  AUTHORS   Finkelstein LD, Schwartzberg PL.
+  TITLE     Tec kinases: shaping T-cell activation through actin.
+  JOURNAL   Trends Cell Biol 14:443-51 (2004)
+            DOI:10.1016/j.tcb.2003.07.001
+REFERENCE   PMID:15345216
+  AUTHORS   Duan L, Reddi AL, Ghosh A, Dimri M, Band H.
+  TITLE     The Cbl family and other ubiquitin ligases: destructive forces in control of antigen receptor signaling.
+  JOURNAL   Immunity 21:7-17 (2004)
+            DOI:10.1016/j.immuni.2004.06.012
+REFERENCE   PMID:14617194
+  AUTHORS   Schrum AG, Turka LA, Palmer E.
+  TITLE     Surface T-cell antigen receptor expression and availability for long-term antigenic signaling.
+  JOURNAL   Immunol Rev 196:7-24 (2003)
+            DOI:10.1046/j.1600-065X.2003.00083.x
+REFERENCE   PMID:19132916
+  AUTHORS   Smith-Garvin JE, Koretzky GA, Jordan MS
+  TITLE     T cell activation.
+  JOURNAL   Annu Rev Immunol 27:591-619 (2009)
+            DOI:10.1146/annurev.immunol.021908.132706
+REFERENCE   PMID:12195013
+  AUTHORS   Diehn M, Alizadeh AA, Rando OJ, Liu CL, Stankunas K, Botstein D, Crabtree GR, Brown PO
+  TITLE     Genomic expression programs and the integration of the CD28 costimulatory signal in T cell activation.
+  JOURNAL   Proc Natl Acad Sci U S A 99:11796-801 (2002)
+            DOI:10.1073/pnas.092284399
+REFERENCE   PMID:19290929
+  AUTHORS   Blonska M, Lin X
+  TITLE     CARMA1-mediated NF-kappaB and JNK activation in lymphocytes.
+  JOURNAL   Immunol Rev 228:199-211 (2009)
+            DOI:10.1111/j.1600-065X.2008.00749.x
+REFERENCE   PMID:17395537
+  AUTHORS   Rebeaud F, Hailfinger S, Thome M
+  TITLE     Dlgh1 and Carma1 MAGUK proteins contribute to signal specificity downstream of TCR activation.
+  JOURNAL   Trends Immunol 28:196-200 (2007)
+            DOI:10.1016/j.it.2007.03.004
+REFERENCE   PMID:16799472
+  AUTHORS   Ashwell JD
+  TITLE     The many paths to p38 mitogen-activated protein kinase activation in the immune system.
+  JOURNAL   Nat Rev Immunol 6:532-40 (2006)
+            DOI:10.1038/nri1865
+REFERENCE   PMID:17187070
+  AUTHORS   Round JL, Humphries LA, Tomassian T, Mittelstadt P, Zhang M, Miceli MC
+  TITLE     Scaffold protein Dlgh1 coordinates alternative p38 kinase activation, directing T cell receptor signals toward NFAT but not NF-kappaB transcription factors.
+  JOURNAL   Nat Immunol 8:154-61 (2007)
+            DOI:10.1038/ni1422
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04514  Cell adhesion molecules
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko04660
+///

@@ -1,0 +1,208 @@
+ENTRY       hsa05032                    Pathway
+NAME        Morphine addiction - Homo sapiens (human)
+DESCRIPTION Morphine is an alkaloid from the plant extracts of opium poppy. Although morphine is highly effective for the treatment of pain, it is also known to be intensely addictive. We now know that the most important brain-reward circuit involves dopamine (DA) -containing neurons in the ventral tegmental area (VTA) of the midbrain and their target areas in the limbic forebrain, in particular, the nucleus accumbens (NAc) and frontal regions of cerebral cortex. Morphine can cause indirect excitation of VTA dopamine neurons by reducing inhibitory synaptic transmission mediated by GABAergic neurons. The chronic use of morphine is characterized by adaptive changes in neurons and neuronal communication; such adaptations (e.g., 'superactivation' of adenylyl cyclase) must underlie altered behaviour associated with morphine dependence and withdrawal syndrome, as well as drug-induced craving and relapse to drug use.
+CLASS       Human Diseases; Substance dependence
+PATHWAY_MAP hsa05032  Morphine addiction
+DRUG        D01340  Naloxone hydrochloride (JP18/USP)
+            D02095  Naltrexone hydrochloride (USP)
+            D05113  Naltrexone (USAN/INN)
+            D08249  Naloxone (INN)
+            D10478  Naldemedine tosylate (JAN/USAN)
+            D10612  Benzhydrocodone (USAN/INN)
+            D10692  Benzhydrocodone hydrochloride (USAN)
+            D10812  Nalmefene hydrochloride hydrate (JAN)
+            D11620  Naloxone hydrochloride dihydrate
+DBLINKS     GO: 0043278
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        4988  OPRM1; opioid receptor mu 1 [KO:K04215]
+            1812  DRD1; dopamine receptor D1 [KO:K04144]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            140679  SLC32A1; solute carrier family 32 member 1 [KO:K15015]
+            3760  KCNJ3; potassium inwardly rectifying channel subfamily J member 3 [KO:K04997]
+            3763  KCNJ6; potassium inwardly rectifying channel subfamily J member 6 [KO:K05000]
+            3765  KCNJ9; potassium inwardly rectifying channel subfamily J member 9 [KO:K05002]
+            3762  KCNJ5; potassium inwardly rectifying channel subfamily J member 5 [KO:K04999]
+            773  CACNA1A; calcium voltage-gated channel subunit alpha1 A [KO:K04344]
+            774  CACNA1B; calcium voltage-gated channel subunit alpha1 B [KO:K04849]
+            2554  GABRA1; gamma-aminobutyric acid type A receptor subunit alpha1 [KO:K05175]
+            2555  GABRA2; gamma-aminobutyric acid type A receptor subunit alpha2 [KO:K05175]
+            2556  GABRA3; gamma-aminobutyric acid type A receptor subunit alpha3 [KO:K05175]
+            2557  GABRA4; gamma-aminobutyric acid type A receptor subunit alpha4 [KO:K05175]
+            2558  GABRA5; gamma-aminobutyric acid type A receptor subunit alpha5 [KO:K05175]
+            2559  GABRA6; gamma-aminobutyric acid type A receptor subunit alpha6 [KO:K05175]
+            2560  GABRB1; gamma-aminobutyric acid type A receptor subunit beta1 [KO:K05181]
+            2562  GABRB3; gamma-aminobutyric acid type A receptor subunit beta3 [KO:K05181]
+            2561  GABRB2; gamma-aminobutyric acid type A receptor subunit beta2 [KO:K05181]
+            2565  GABRG1; gamma-aminobutyric acid type A receptor subunit gamma1 [KO:K05186]
+            2566  GABRG2; gamma-aminobutyric acid type A receptor subunit gamma2 [KO:K05186]
+            2567  GABRG3; gamma-aminobutyric acid type A receptor subunit gamma3 [KO:K05186]
+            2563  GABRD; gamma-aminobutyric acid type A receptor subunit delta [KO:K05184]
+            2564  GABRE; gamma-aminobutyric acid type A receptor subunit epsilon [KO:K05185]
+            55879  GABRQ; gamma-aminobutyric acid type A receptor subunit theta [KO:K05192]
+            2568  GABRP; gamma-aminobutyric acid type A receptor subunit pi [KO:K05189]
+            2569  GABRR1; gamma-aminobutyric acid type A receptor subunit rho1 [KO:K05190]
+            2570  GABRR2; gamma-aminobutyric acid type A receptor subunit rho2 [KO:K05190]
+            200959  GABRR3; gamma-aminobutyric acid type A receptor subunit rho3 [KO:K05190]
+            2550  GABBR1; gamma-aminobutyric acid type B receptor subunit 1 [KO:K04615]
+            9568  GABBR2; gamma-aminobutyric acid type B receptor subunit 2 [KO:K04615]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            156  GRK2; G protein-coupled receptor kinase 2 [KO:K00910] [EC:2.7.11.15]
+            157  GRK3; G protein-coupled receptor kinase 3 [KO:K00910] [EC:2.7.11.15]
+            2868  GRK4; G protein-coupled receptor kinase 4 [KO:K08291] [EC:2.7.11.16]
+            2869  GRK5; G protein-coupled receptor kinase 5 [KO:K08291] [EC:2.7.11.16]
+            2870  GRK6; G protein-coupled receptor kinase 6 [KO:K08291] [EC:2.7.11.16]
+            408  ARRB1; arrestin beta 1 [KO:K04439]
+            409  ARRB2; arrestin beta 2 [KO:K04439]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            5136  PDE1A; phosphodiesterase 1A [KO:K13755] [EC:3.1.4.17]
+            5153  PDE1B; phosphodiesterase 1B [KO:K13755] [EC:3.1.4.17]
+            5137  PDE1C; phosphodiesterase 1C [KO:K13755] [EC:3.1.4.17]
+            5138  PDE2A; phosphodiesterase 2A [KO:K18283] [EC:3.1.4.17]
+            5139  PDE3A; phosphodiesterase 3A [KO:K19021] [EC:3.1.4.17]
+            5140  PDE3B; phosphodiesterase 3B [KO:K13296] [EC:3.1.4.17]
+            5141  PDE4A; phosphodiesterase 4A [KO:K13293] [EC:3.1.4.53]
+            5142  PDE4B; phosphodiesterase 4B [KO:K13293] [EC:3.1.4.53]
+            5143  PDE4C; phosphodiesterase 4C [KO:K13293] [EC:3.1.4.53]
+            5144  PDE4D; phosphodiesterase 4D [KO:K13293] [EC:3.1.4.53]
+            5150  PDE7A; phosphodiesterase 7A [KO:K18436] [EC:3.1.4.53]
+            27115  PDE7B; phosphodiesterase 7B [KO:K18436] [EC:3.1.4.53]
+            8622  PDE8B; phosphodiesterase 8B [KO:K18437] [EC:3.1.4.53]
+            5151  PDE8A; phosphodiesterase 8A [KO:K18437] [EC:3.1.4.53]
+            10846  PDE10A; phosphodiesterase 10A [KO:K18438] [EC:3.1.4.17 3.1.4.35]
+            50940  PDE11A; phosphodiesterase 11A [KO:K13298] [EC:3.1.4.17 3.1.4.35]
+            134  ADORA1; adenosine A1 receptor [KO:K04265]
+COMPOUND    C00020  AMP
+            C00076  Calcium cation
+            C00212  Adenosine
+            C00238  Potassium cation
+            C00334  4-Aminobutanoate
+            C00575  3',5'-Cyclic AMP
+            C00698  Cl-
+            C03758  Dopamine
+            D00842  Morphine sulfate (USP)
+            D02271  Morphine hydrochloride hydrate (JP18)
+            D08233  Morphine (BAN)
+            D08234  Morphine tartrate
+REFERENCE   PMID:15661627
+  AUTHORS   Bailey CP, Connor M
+  TITLE     Opioids: cellular mechanisms of tolerance and physical dependence.
+  JOURNAL   Curr Opin Pharmacol 5:60-8 (2005)
+            DOI:10.1016/j.coph.2004.08.012
+REFERENCE   PMID:11152760
+  AUTHORS   Williams JT, Christie MJ, Manzoni O
+  TITLE     Cellular and synaptic adaptations mediating opioid dependence.
+  JOURNAL   Physiol Rev 81:299-343 (2001)
+            DOI:10.1152/physrev.2001.81.1.299
+REFERENCE   PMID:16581089
+  AUTHORS   Gintzler AR, Chakrabarti S
+  TITLE     Post-opioid receptor adaptations to chronic morphine; altered functionality and associations of signaling molecules.
+  JOURNAL   Life Sci 79:717-22 (2006)
+            DOI:10.1016/j.lfs.2006.02.016
+REFERENCE   PMID:8785060
+  AUTHORS   Bonci A, Williams JT
+  TITLE     A common mechanism mediates long-term changes in synaptic transmission after chronic cocaine and morphine.
+  JOURNAL   Neuron 16:631-9 (1996)
+            DOI:10.1016/S0896-6273(00)80082-3
+REFERENCE   PMID:11750924
+  AUTHORS   Liu JG, Anand KJ
+  TITLE     Protein kinases modulate the cellular adaptations associated with opioid tolerance and dependence.
+  JOURNAL   Brain Res Brain Res Rev 38:1-19 (2001)
+            DOI:10.1016/S0165-0173(01)00057-1
+REFERENCE   PMID:10066284
+  AUTHORS   Shoji Y, Delfs J, Williams JT
+  TITLE     Presynaptic inhibition of GABA(B)-mediated synaptic potentials in the ventral tegmental area during morphine withdrawal.
+  JOURNAL   J Neurosci 19:2347-55 (1999)
+            DOI:10.1523/JNEUROSCI.19-06-02347.1999
+REFERENCE   PMID:18349442
+  AUTHORS   Zhang Y, Chen Q, Yu LC
+  TITLE     Morphine: a protective or destructive role in neurons?
+  JOURNAL   Neuroscientist 14:561-70 (2008)
+            DOI:10.1177/1073858408314434
+REFERENCE   PMID:12859419
+  AUTHORS   Tso PH, Wong YH
+  TITLE     Molecular basis of opioid dependence: role of signal regulation by G-proteins.
+  JOURNAL   Clin Exp Pharmacol Physiol 30:307-16 (2003)
+            DOI:10.1046/j.1440-1681.2003.03835.x
+REFERENCE   PMID:1346804
+  AUTHORS   Johnson SW, North RA
+  TITLE     Opioids excite dopamine neurons by hyperpolarization of local interneurons.
+  JOURNAL   J Neurosci 12:483-8 (1992)
+            DOI:10.1523/JNEUROSCI.12-02-00483.1992
+REFERENCE   PMID:20962224
+  AUTHORS   Madhavan A, Bonci A, Whistler JL
+  TITLE     Opioid-Induced GABA potentiation after chronic morphine attenuates the rewarding effects of opioids in the ventral tegmental area.
+  JOURNAL   J Neurosci 30:14029-35 (2010)
+            DOI:10.1523/JNEUROSCI.3366-10.2010
+REFERENCE   PMID:8987801
+  AUTHORS   Bonci A, Williams JT
+  TITLE     Increased probability of GABA release during withdrawal from morphine.
+  JOURNAL   J Neurosci 17:796-803 (1997)
+            DOI:10.1523/JNEUROSCI.17-02-00796.1997
+REFERENCE   PMID:21872647
+  AUTHORS   Morikawa H, Paladini CA
+  TITLE     Dynamic regulation of midbrain dopamine neuron activity: intrinsic, synaptic, and plasticity mechanisms.
+  JOURNAL   Neuroscience 198:95-111 (2011)
+            DOI:10.1016/j.neuroscience.2011.08.023
+REFERENCE   PMID:12217944
+  AUTHORS   Xi ZX, Stein EA
+  TITLE     GABAergic mechanisms of opiate reinforcement .
+  JOURNAL   Alcohol Alcohol 37:485-94 (2002)
+            DOI:10.1093/alcalc/37.5.485
+REFERENCE   PMID:8096779
+  AUTHORS   Kalivas PW
+  TITLE     Neurotransmitter regulation of dopamine neurons in the ventral tegmental area.
+  JOURNAL   Brain Res Brain Res Rev 18:75-113 (1993)
+            DOI:10.1016/0165-0173(93)90008-N
+REFERENCE   PMID:21930931
+  AUTHORS   Jalabert M, Bourdy R, Courtin J, Veinante P, Manzoni OJ, Barrot M, Georges F
+  TITLE     Neuronal circuits underlying acute morphine action on dopamine neurons.
+  JOURNAL   Proc Natl Acad Sci U S A 108:16446-50 (2011)
+            DOI:10.1073/pnas.1105418108
+REFERENCE   PMID:14625081
+  AUTHORS   Chakrabarti S, Gintzler AR
+  TITLE     Phosphorylation of Gbeta is augmented by chronic morphine and enhances Gbetagamma stimulation of adenylyl cyclase activity.
+  JOURNAL   Brain Res Mol Brain Res 119:144-51 (2003)
+            DOI:10.1016/j.molbrainres.2003.09.002
+REFERENCE   PMID:14969742
+  AUTHORS   Ferrer-Alcon M, La Harpe R, Garcia-Sevilla JA
+  TITLE     Decreased immunodensities of micro-opioid receptors, receptor kinases GRK 2/6 and beta-arrestin-2 in postmortem brains of opiate addicts.
+  JOURNAL   Brain Res Mol Brain Res 121:114-22 (2004)
+            DOI:10.1016/j.molbrainres.2003.11.009
+REL_PATHWAY hsa04727  GABAergic synapse
+            hsa04728  Dopaminergic synapse
+KO_PATHWAY  ko05032
+///

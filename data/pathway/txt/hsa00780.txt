@@ -1,0 +1,142 @@
+ENTRY       hsa00780                    Pathway
+NAME        Biotin metabolism - Homo sapiens (human)
+DESCRIPTION Biotin (vitamin H or vitamin B7) is the essential cofactor of biotin-dependent carboxylases, such as pyruvate carboxylase and acetyl-CoA carboxylase. Mammals cannot synthesize biotin, while in bacteria, fungi, and plants it is synthesized from pimelate thioester through different pathways. In E. coli and many organisms, pimelate thioester is derived from malonyl-ACP. The pathway starts with the methylation to malonyl-ACP methyl ester, followed by the fatty acid chain elongation cycle to form pimeloyl-ACP methyl ester, which is then demethylated to form pimeloyl-ACP [MD:M00572]. Pimeloyl-ACP is converted to biotin through the final four steps in the biotin bicyclic ring assembly, which are conserved among biotin-producing organisms [MD:M00123]. In B. subtilis, biotin is derived from pimeloyl-ACP formed by oxidative cleavage of long-chain acyl-ACPs [MD:M00573]. Some bacteria synthesize biotin from pimeloyl-CoA derived from pimelate [MD:M00577]. Biotin is covalently attached to biotin-dependent carboxylase by biotin protein ligase, also known as holocarboxylase synthase in mammals, to form an active holocarboxylase. After degradation of the biotinylated carboxylase into biocytin, it is further degraded by biotinidase to release free biotin, which is recycled in holocarboxylase synthesis. Biotin is catabolized by beta-oxidation of the valeric acid side chain or oxidation of sulfur in the heterocyclic ring.
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP hsa00780  Biotin metabolism
+DBLINKS     GO: 0006768
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        54995  OXSM; 3-oxoacyl-ACP synthase, mitochondrial [KO:K09458] [EC:2.3.1.179]
+            3141  HLCS; holocarboxylase synthetase [KO:K01942] [EC:6.3.4.9 6.3.4.10 6.3.4.11 6.3.4.15]
+            686  BTD; biotinidase [KO:K01435] [EC:3.5.1.12]
+COMPOUND    C00047  L-Lysine
+            C00086  Urea
+            C00120  Biotin
+            C01037  7,8-Diaminononanoate
+            C01063  Pimeloyl-CoA
+            C01092  8-Amino-7-oxononanoate
+            C01209  Malonyl-[acyl-carrier protein]
+            C01894  Biotinyl-CoA
+            C01909  Dethiobiotin
+            C02656  Pimelate
+            C05552  Biocytin
+            C05921  Biotinyl-5'-AMP
+            C06250  Holo-[carboxylase]
+            C19673  Malonyl-[acp] methyl ester
+            C19845  Pimeloyl-[acyl-carrier protein]
+            C19846  Pimeloyl-[acyl-carrier protein] methyl ester
+            C20372  3-Ketoglutaryl-[acp] methyl ester
+            C20373  3-Hydroxyglutaryl-[acp] methyl ester
+            C20374  Enoylglutaryl-[acp] methyl ester
+            C20375  Glutaryl-[acp] methyl ester
+            C20376  3-Ketopimeloyl-[acp] methyl ester
+            C20377  3-Hydroxypimeloyl-[acp] methyl ester
+            C20378  Enoylpimeloyl-[acp] methyl ester
+            C20384  Bisnorbiotin
+            C20385  Tetranorbiotin
+            C20386  Biotin sulfoxide
+            C20387  Biotin sulfone
+            C20683  Long-chain acyl-[acyl-carrier protein]
+            C22458  8-Amino-7-(carboxyamino)nonanoate
+REFERENCE   PMID:21437340
+  AUTHORS   Lin S, Cronan JE
+  TITLE     Closing in on complete pathways of biotin biosynthesis.
+  JOURNAL   Mol Biosyst 7:1811-21 (2011)
+            DOI:10.1039/c1mb05022b
+REFERENCE   PMID:22965231
+  AUTHORS   Lin S, Cronan JE
+  TITLE     The BioC O-methyltransferase catalyzes methyl esterification of malonyl-acyl carrier protein, an essential step in biotin synthesis.
+  JOURNAL   J Biol Chem 287:37010-20 (2012)
+            DOI:10.1074/jbc.M112.410290
+REFERENCE   PMID:20693992
+  AUTHORS   Lin S, Hanson RE, Cronan JE
+  TITLE     Biotin synthesis begins by hijacking the fatty acid synthetic pathway.
+  JOURNAL   Nat Chem Biol 6:682-8 (2010)
+            DOI:10.1038/nchembio.420
+REFERENCE   PMID:21435937
+  AUTHORS   Cronan JE, Lin S
+  TITLE     Synthesis of the alpha,omega-dicarboxylic acid precursor of biotin by the canonical fatty acid biosynthetic pathway.
+  JOURNAL   Curr Opin Chem Biol 15:407-13 (2011)
+            DOI:10.1016/j.cbpa.2011.03.001
+REFERENCE   PMID:11368323
+  AUTHORS   Stok JE, De Voss J
+  TITLE     Expression, purification, and characterization of BioI: a carbon-carbon bond cleaving cytochrome P450 involved in biotin biosynthesis in Bacillus subtilis.
+  JOURNAL   Arch Biochem Biophys 384:351-60 (2000)
+            DOI:10.1006/abbi.2000.2067
+REFERENCE   PMID:18838690
+  AUTHORS   Cryle MJ, Schlichting I
+  TITLE     Structural insights from a P450 Carrier Protein complex reveal how specificity is achieved in the P450(BioI) ACP complex.
+  JOURNAL   Proc Natl Acad Sci U S A 105:15696-701 (2008)
+            DOI:10.1073/pnas.0805983105
+REFERENCE   PMID:8763940
+  AUTHORS   Bower S, Perkins JB, Yocum RR, Howitt CL, Rahaim P, Pero J
+  TITLE     Cloning, sequencing, and characterization of the Bacillus subtilis biotin biosynthetic operon.
+  JOURNAL   J Bacteriol 178:4122-30 (1996)
+            DOI:10.1128/JB.178.14.4122-4130.1996
+REFERENCE   PMID:1445232
+  AUTHORS   Ploux O, Soularue P, Marquet A, Gloeckler R, Lemoine Y
+  TITLE     Investigation of the first step of biotin biosynthesis in Bacillus sphaericus. Purification and characterization of the pimeloyl-CoA synthase, and uptake of pimelate.
+  JOURNAL   Biochem J 287 ( Pt 3):685-90 (1992)
+            DOI:10.1042/bj2870685
+REFERENCE   PMID:12368242
+  AUTHORS   Rodionov DA, Mironov AA, Gelfand MS
+  TITLE     Conservation of the biotin regulon and the BirA regulatory signal in Eubacteria and Archaea.
+  JOURNAL   Genome Res 12:1507-16 (2002)
+            DOI:10.1101/gr.314502
+REFERENCE   PMID:11320134
+  AUTHORS   Sullivan JT, Brown SD, Yocum RR, Ronson CW
+  TITLE     The bio operon on the acquired symbiosis island of Mesorhizobium sp. strain R7A includes a novel gene involved in pimeloyl-CoA synthesis.
+  JOURNAL   Microbiology 147:1315-22 (2001)
+            DOI:10.1099/00221287-147-5-1315
+REFERENCE   PMID:12039741
+  AUTHORS   Entcheva P, Phillips DA, Streit WR
+  TITLE     Functional analysis of Sinorhizobium meliloti genes involved in biotin synthesis and transport.
+  JOURNAL   Appl Environ Microbiol 68:2843-8 (2002)
+            DOI:10.1128/AEM.68.6.2843-2848.2002
+REFERENCE   PMID:19319844
+  AUTHORS   Zempleni J, Wijeratne SS, Hassan YI
+  TITLE     Biotin.
+  JOURNAL   Biofactors 35:36-46 (2009)
+            DOI:10.1002/biof.8
+REFERENCE   PMID:9022537
+  AUTHORS   Zempleni J, McCormick DB, Mock DM
+  TITLE     Identification of biotin sulfone, bisnorbiotin methyl ketone, and tetranorbiotin-l-sulfoxide in human urine.
+  JOURNAL   Am J Clin Nutr 65:508-11 (1997)
+            DOI:10.1093/ajcn/65.2.508
+REFERENCE   PMID:5775781
+  AUTHORS   Iwahara S, McCormick DB, Wright LD, Li HC
+  TITLE     Bacterial degradation of biotin. 3. Metabolism of 14C-carbonyl-labeled biotin.
+  JOURNAL   J Biol Chem 244:1393-8 (1969)
+REFERENCE   PMID:2180922
+  AUTHORS   Pierson DE, Campbell A
+  TITLE     Cloning and nucleotide sequence of bisC, the structural gene for biotin sulfoxide reductase in Escherichia coli.
+  JOURNAL   J Bacteriol 172:2194-8 (1990)
+            DOI:10.1128/JB.172.4.2194-2198.1990
+REFERENCE   PMID:15601707
+  AUTHORS   Ezraty B, Bos J, Barras F, Aussel L
+  TITLE     Methionine sulfoxide reduction and assimilation in Escherichia coli: new role for the biotin sulfoxide reductase BisC.
+  JOURNAL   J Bacteriol 187:231-7 (2005)
+            DOI:10.1128/JB.187.1.231-237.2005
+REFERENCE   PMID:374979
+  AUTHORS   del Campillo-Campbell A, Dykhuizen D, Cleary PP
+  TITLE     Enzymic reduction of d-biotin d-sulfoxide to d-biotin.
+  JOURNAL   Methods Enzymol 62:379-85 (1979)
+            DOI:10.1016/0076-6879(79)62244-9
+REFERENCE   PMID:9013576
+  AUTHORS   Pollock VV, Barber MJ
+  TITLE     Biotin sulfoxide reductase. Heterologous expression and characterization of a functional molybdopterin guanine dinucleotide-containing enzyme.
+  JOURNAL   J Biol Chem 272:3355-62 (1997)
+            DOI:10.1074/jbc.272.6.3355
+REFERENCE   PMID:15366932
+  AUTHORS   Nelson KJ, Rajagopalan KV
+  TITLE     Studies on the interaction of NADPH with Rhodobacter sphaeroides biotin sulfoxide reductase.
+  JOURNAL   Biochemistry 43:11226-37 (2004)
+            DOI:10.1021/bi0490845
+REFERENCE   PMID:16299174
+  AUTHORS   Pinon V, Ravanel S, Douce R, Alban C
+  TITLE     Biotin synthesis in plants. The first committed step of the pathway is catalyzed by a cytosolic 7-keto-8-aminopelargonic acid synthase.
+  JOURNAL   Plant Physiol 139:1666-76 (2005)
+            DOI:10.1104/pp.105.070144
+REL_PATHWAY hsa00061  Fatty acid biosynthesis
+            hsa00310  Lysine degradation
+KO_PATHWAY  ko00780
+///

@@ -1,0 +1,247 @@
+ENTRY       hsa00983                    Pathway
+NAME        Drug metabolism - other enzymes - Homo sapiens (human)
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP hsa00983  Drug metabolism - other enzymes
+DRUG        D03998  Eniluracil (USAN/INN)
+            D12387  Fosgemcitabine palabenamide (USAN/INN)
+            D12465  Doxecitine (USAN/INN)
+            D12466  Doxribtimine (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3251  HPRT1; hypoxanthine phosphoribosyltransferase 1 [KO:K00760] [EC:2.4.2.8]
+            3614  IMPDH1; inosine monophosphate dehydrogenase 1 [KO:K00088] [EC:1.1.1.205]
+            3615  IMPDH2; inosine monophosphate dehydrogenase 2 [KO:K00088] [EC:1.1.1.205]
+            8833  GMPS; guanine monophosphate synthase [KO:K01951] [EC:6.3.5.2]
+            7172  TPMT; thiopurine S-methyltransferase [KO:K00569] [EC:2.1.1.67]
+            7498  XDH; xanthine dehydrogenase [KO:K00106] [EC:1.17.1.4 1.17.3.2]
+            3704  ITPA; inosine triphosphatase [KO:K01519] [EC:3.6.1.66]
+            1066  CES1; carboxylesterase 1 [KO:K01044] [EC:3.1.1.1]
+            8824  CES2; carboxylesterase 2 [KO:K03927] [EC:3.1.1.1 3.1.1.84 3.1.1.56]
+            10941  UGT2A1; UDP glucuronosyltransferase family 2 member A1 complex locus [KO:K00699] [EC:2.4.1.17]
+            79799  UGT2A3; UDP glucuronosyltransferase family 2 member A3 [KO:K00699] [EC:2.4.1.17]
+            7367  UGT2B17; UDP glucuronosyltransferase family 2 member B17 [KO:K00699] [EC:2.4.1.17]
+            10720  UGT2B11; UDP glucuronosyltransferase family 2 member B11 [KO:K00699] [EC:2.4.1.17]
+            54490  UGT2B28; UDP glucuronosyltransferase family 2 member B28 [KO:K00699] [EC:2.4.1.17]
+            54578  UGT1A6; UDP glucuronosyltransferase family 1 member A6 [KO:K00699] [EC:2.4.1.17]
+            54657  UGT1A4; UDP glucuronosyltransferase family 1 member A4 [KO:K00699] [EC:2.4.1.17]
+            54658  UGT1A1; UDP glucuronosyltransferase family 1 member A1 [KO:K00699] [EC:2.4.1.17]
+            54659  UGT1A3; UDP glucuronosyltransferase family 1 member A3 [KO:K00699] [EC:2.4.1.17]
+            7365  UGT2B10; UDP glucuronosyltransferase family 2 member B10 [KO:K00699] [EC:2.4.1.17]
+            54600  UGT1A9; UDP glucuronosyltransferase family 1 member A9 [KO:K00699] [EC:2.4.1.17]
+            7364  UGT2B7; UDP glucuronosyltransferase family 2 member B7 [KO:K00699] [EC:2.4.1.17]
+            54575  UGT1A10; UDP glucuronosyltransferase family 1 member A10 [KO:K00699] [EC:2.4.1.17]
+            54576  UGT1A8; UDP glucuronosyltransferase family 1 member A8 [KO:K00699] [EC:2.4.1.17]
+            54579  UGT1A5; UDP glucuronosyltransferase family 1 member A5 [KO:K00699] [EC:2.4.1.17]
+            7366  UGT2B15; UDP glucuronosyltransferase family 2 member B15 [KO:K00699] [EC:2.4.1.17]
+            54577  UGT1A7; UDP glucuronosyltransferase family 1 member A7 [KO:K00699] [EC:2.4.1.17]
+            7363  UGT2B4; UDP glucuronosyltransferase family 2 member B4 [KO:K00699] [EC:2.4.1.17]
+            574537  UGT2A2; UDP glucuronosyltransferase family 2 member A2 [KO:K00699] [EC:2.4.1.17]
+            2990  GUSB; glucuronidase beta [KO:K01195] [EC:3.2.1.31]
+            1576  CYP3A4; cytochrome P450 family 3 subfamily A member 4 [KO:K17689] [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.14.-]
+            978  CDA; cytidine deaminase [KO:K01489] [EC:3.5.4.5]
+            1890  TYMP; thymidine phosphorylase [KO:K00758] [EC:2.4.2.4]
+            1806  DPYD; dihydropyrimidine dehydrogenase [KO:K00207] [EC:1.3.1.2]
+            1807  DPYS; dihydropyrimidinase [KO:K01464] [EC:3.5.2.2]
+            51733  UPB1; beta-ureidopropionase 1 [KO:K01431] [EC:3.5.1.6]
+            1548  CYP2A6; cytochrome P450 family 2 subfamily A member 6 [KO:K17683] [EC:1.14.14.-]
+            1549  CYP2A7; cytochrome P450 family 2 subfamily A member 7 [KO:K17683] [EC:1.14.14.-]
+            151531  UPP2; uridine phosphorylase 2 [KO:K00757] [EC:2.4.2.3]
+            7378  UPP1; uridine phosphorylase 1 [KO:K00757] [EC:2.4.2.3]
+            83549  UCK1; uridine-cytidine kinase 1 [KO:K00876] [EC:2.7.1.48]
+            7371  UCK2; uridine-cytidine kinase 2 [KO:K00876] [EC:2.7.1.48]
+            54963  UCKL1; uridine-cytidine kinase 1 like 1 [KO:K00876] [EC:2.7.1.48]
+            7084  TK2; thymidine kinase 2 [KO:K00857] [EC:2.7.1.21]
+            7083  TK1; thymidine kinase 1 [KO:K00857] [EC:2.7.1.21]
+            7372  UMPS; uridine monophosphate synthetase [KO:K13421] [EC:2.4.2.10 4.1.1.23]
+            51727  CMPK1; cytidine/uridine monophosphate kinase 1 [KO:K13800] [EC:2.7.4.14]
+            6240  RRM1; ribonucleotide reductase catalytic subunit M1 [KO:K10807] [EC:1.17.4.1]
+            50484  RRM2B; ribonucleotide reductase regulatory TP53 inducible subunit M2B [KO:K10808] [EC:1.17.4.1]
+            6241  RRM2; ribonucleotide reductase regulatory subunit M2 [KO:K10808] [EC:1.17.4.1]
+            10201  NME6; NME/NM23 nucleoside diphosphate kinase 6 [KO:K00940] [EC:2.7.4.6]
+            29922  NME7; NME/NM23 family member 7 [KO:K00940] [EC:2.7.4.6]
+            4831  NME2; NME/NM23 nucleoside diphosphate kinase 2 [KO:K00940] [EC:2.7.4.6]
+            4833  NME4; NME/NM23 nucleoside diphosphate kinase 4 [KO:K00940] [EC:2.7.4.6]
+            4830  NME1; NME/NM23 nucleoside diphosphate kinase 1 [KO:K00940] [EC:2.7.4.6]
+            4832  NME3; NME/NM23 nucleoside diphosphate kinase 3 [KO:K00940] [EC:2.7.4.6]
+            654364  NME1-NME2; NME1-NME2 readthrough [KO:K00940] [EC:2.7.4.6]
+            1854  DUT; deoxyuridine triphosphatase [KO:K01520] [EC:3.6.1.23]
+            4353  MPO; myeloperoxidase [KO:K10789] [EC:1.11.2.2]
+            10  NAT2; N-acetyltransferase 2 [KO:K00622] [EC:2.3.1.5]
+            9  NAT1; N-acetyltransferase 1 [KO:K00622] [EC:2.3.1.5]
+            1571  CYP2E1; cytochrome P450 family 2 subfamily E member 1 [KO:K07415] [EC:1.14.14.-]
+            221357  GSTA5; glutathione S-transferase alpha 5 [KO:K00799] [EC:2.5.1.18]
+            2939  GSTA2; glutathione S-transferase alpha 2 [KO:K00799] [EC:2.5.1.18]
+            2941  GSTA4; glutathione S-transferase alpha 4 [KO:K00799] [EC:2.5.1.18]
+            119391  GSTO2; glutathione S-transferase omega 2 [KO:K00799] [EC:2.5.1.18]
+            2948  GSTM4; glutathione S-transferase mu 4 [KO:K00799] [EC:2.5.1.18]
+            2953  GSTT2; glutathione S-transferase theta 2 (gene/pseudogene) [KO:K00799] [EC:2.5.1.18]
+            2952  GSTT1; glutathione S-transferase theta 1 [KO:K00799] [EC:2.5.1.18]
+            2947  GSTM3; glutathione S-transferase mu 3 [KO:K00799] [EC:2.5.1.18]
+            4257  MGST1; microsomal glutathione S-transferase 1 [KO:K00799] [EC:2.5.1.18]
+            4259  MGST3; microsomal glutathione S-transferase 3 [KO:K00799] [EC:2.5.1.18]
+            2944  GSTM1; glutathione S-transferase mu 1 [KO:K00799] [EC:2.5.1.18]
+            2949  GSTM5; glutathione S-transferase mu 5 [KO:K00799] [EC:2.5.1.18]
+            4258  MGST2; microsomal glutathione S-transferase 2 [KO:K00799] [EC:2.5.1.18]
+            2938  GSTA1; glutathione S-transferase alpha 1 [KO:K00799] [EC:2.5.1.18]
+            2946  GSTM2; glutathione S-transferase mu 2 [KO:K00799] [EC:2.5.1.18]
+            2940  GSTA3; glutathione S-transferase alpha 3 [KO:K00799] [EC:2.5.1.18]
+            9446  GSTO1; glutathione S-transferase omega 1 [KO:K00799] [EC:2.5.1.18]
+            653689  GSTT2B; glutathione S-transferase theta 2B [KO:K00799] [EC:2.5.1.18]
+            2950  GSTP1; glutathione S-transferase pi 1 [KO:K23790] [EC:2.5.1.18]
+COMPOUND    C00003  NAD+
+            C00006  NADP+
+            C02320  R-S-Glutathione
+            C02380  6-Mercaptopurine
+            C04242  5-Fluorodeoxyuridine monophosphate
+            C04646  6-Thioinosine-5'-monophosphate
+            C05361  Hydrazine
+            C06108  Fluoroacetate
+            C06837  Azathioprine
+            C07054  Isoniazid
+            C07446  Isonicotinic acid
+            C07447  Acetylhydrazine
+            C07585  N-Acetylisoniazid
+            C07648  Thioguanine
+            C07649  5-FU
+            C11173  SN-38
+            C11376  SN38 glucuronide
+            C11736  5-Fluorodeoxyuridine
+            C12650  Capecitabine
+            C12673  Tegafur
+            C12739  5'-Deoxy-5-fluorouridine
+            C13252  Carmofur
+            C16542  APC
+            C16543  NPC
+            C16613  6-Thiourate
+            C16614  6-Methylmercaptopurine
+            C16615  6-Methylthiopurine 5'-monophosphate ribonucleotide
+            C16616  6-Mercaptopurine ribonucleoside 5'-diphosphate
+            C16617  6-Mercaptopurine ribonucleoside triphosphate
+            C16618  6-Thioxanthine 5'-monophosphate
+            C16619  6-Thioguanosine monophosphate
+            C16620  6-Methylthioguanosine monophosphate
+            C16621  1-Methyl-4-nitroimidazole
+            C16622  N,N'-Diacetylhydrazine
+            C16623  Isonicotinylglycine
+            C16624  Isoniazid pyruvate
+            C16625  Isoniazid alpha-ketoglutaric acid
+            C16630  5,6-Dihydro-5-fluorouracil
+            C16631  alpha-Fluoro-beta-ureidopropionic acid
+            C16632  alpha-Fluoro-beta-alanine
+            C16633  5-Fluorouridine
+            C16634  5-Fluorouridine monophosphate
+            C16635  5'-Deoxy-5-fluorocytidine
+            C16641  Irinotecan
+            C21748  5-Fluorouridine diphosphate
+            C21749  5-Fluorouridine triphosphate
+            C21750  5-Fluorodeoxyuridine diphosphate
+            C21751  5-Fluorodeoxyuridine triphosphate
+            C21754  Isonicotinoyl radical
+            C21758  Hepatotoxins
+            C21759  Isonicotinoyl-NAD adduct
+            C21760  Isonicotinoyl-NADP adduct
+            D00238  Azathioprine (JP18/USP/INN)
+            D00346  Isoniazid (JP18/USP/INN)
+            D00584  Fluorouracil (JP18/USP/INN)
+            D01223  Capecitabine (JAN/USP/INN)
+            D01244  Tegafur (JP18/USAN/INN)
+            D01309  Doxifluridine (JP18/INN)
+            D01784  Carmofur (JP18/INN)
+            D04197  Floxuridine (USP/INN)
+            D04931  Mercaptopurine (INN)
+            D08086  Irinotecan (INN)
+            D08603  Tioguanine (INN)
+REFERENCE   
+  AUTHORS   Kato R, Kamatari T (eds).
+  TITLE     [Drug Metabolism] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (2000)
+REFERENCE   PMID:15788214
+  AUTHORS   Al Hadithy AF, de Boer NK, Derijks LJ, Escher JC, Mulder CJ, Brouwers JR.
+  TITLE     Thiopurines in inflammatory bowel disease: pharmacogenetics, therapeutic drug monitoring and clinical recommendations.
+  JOURNAL   Dig Liver Dis 37:282-97 (2005)
+            DOI:10.1016/j.dld.2004.09.029
+REFERENCE   PMID:16048561
+  AUTHORS   Gearry RB, Barclay ML.
+  TITLE     Azathioprine and 6-mercaptopurine pharmacogenetics and metabolite monitoring in inflammatory bowel disease.
+  JOURNAL   J Gastroenterol Hepatol 20:1149-57 (2005)
+            DOI:10.1111/j.1440-1746.2005.03832.x
+REFERENCE   PMID:16880012
+  AUTHORS   Gilissen LP, Derijks LJ, Verhoeven HM, Bierau J, Hooymans PM, Hommes DW, Engels LG.
+  TITLE     Pancytopenia due to high 6-methylmercaptopurine levels in a 6-mercaptopurine treated patient with Crohn's disease.
+  JOURNAL   Dig Liver Dis 39:182-6 (2007)
+            DOI:10.1016/j.dld.2006.05.026
+REFERENCE   PMID:15514566
+  AUTHORS   Fischel JL, Formento P, Ciccolini J, Etienne-Grimaldi MC, Milano G.
+  TITLE     Lack of contribution of dihydrofluorouracil and alpha-fluoro-beta-alanine to the cytotoxicity of 5'-deoxy-5-fluorouridine on human keratinocytes.
+  JOURNAL   Anticancer Drugs 15:969-74 (2004)
+            DOI:10.1097/00001813-200411000-00006
+REFERENCE   PMID:10976516
+  AUTHORS   Shimma N, Umeda I, Arasaki M, Murasaki C, Masubuchi K, Kohchi Y, Miwa M, Ura M, Sawada N, Tahara H, Kuruma I, Horii I, Ishitsuka H.
+  TITLE     The design and synthesis of a new tumor-selective fluoropyrimidine carbamate, capecitabine.
+  JOURNAL   Bioorg Med Chem 8:1697-706 (2000)
+            DOI:10.1016/S0968-0896(00)00087-0
+REFERENCE   PMID:15173095
+  AUTHORS   Chung YL, Troy H, Judson IR, Leek R, Leach MO, Stubbs M, Harris AL, Griffiths JR
+  TITLE     Noninvasive measurements of capecitabine metabolism in bladder tumors overexpressing thymidine phosphorylase by fluorine-19 magnetic resonance spectroscopy.
+  JOURNAL   Clin Cancer Res 10:3863-70 (2004)
+            DOI:10.1158/1078-0432.CCR-03-0237
+REFERENCE   PMID:11489791
+  AUTHORS   Mathijssen RH, van Alphen RJ, Verweij J, Loos WJ, Nooter K, Stoter G, Sparreboom A
+  TITLE     Clinical pharmacokinetics and metabolism of irinotecan (CPT-11).
+  JOURNAL   Clin Cancer Res 7:2182-94 (2001)
+REFERENCE   PMID:11379777
+  AUTHORS   Kita T, Tanigawara Y, Chikazawa S, Hatanaka H, Sakaeda T, Komada F, Iwakawa S, Okumura K.
+  TITLE     N-Acetyltransferase2 genotype correlated with isoniazid acetylation in Japanese tuberculous patients.
+  JOURNAL   Biol Pharm Bull 24:544-9 (2001)
+            DOI:10.1248/bpb.24.544
+REFERENCE   PMID:24281184
+  AUTHORS   Miura K, Kinouchi M, Ishida K, Fujibuchi W, Naitoh T, Ogawa H, Ando T, Yazaki N, Watanabe K, Haneda S, Shibata C, Sasaki I
+  TITLE     5-fu metabolism in cancer and orally-administrable 5-fu drugs.
+  JOURNAL   Cancers (Basel) 2:1717-30 (2010)
+            DOI:10.3390/cancers2031717
+REFERENCE   PMID:27709007
+  AUTHORS   Wang P, Pradhan K, Zhong XB, Ma X
+  TITLE     Isoniazid metabolism and hepatotoxicity.
+  JOURNAL   Acta Pharm Sin B 6:384-392 (2016)
+            DOI:10.1016/j.apsb.2016.07.014
+REFERENCE   PMID:27232112
+  AUTHORS   Klein DJ, Boukouvala S, McDonagh EM, Shuldiner SR, Laurieri N, Thorn CF, Altman RB, Klein TE
+  TITLE     PharmGKB summary: isoniazid pathway, pharmacokinetics.
+  JOURNAL   Pharmacogenet Genomics 26:436-44 (2016)
+            DOI:10.1097/FPC.0000000000000232
+REFERENCE   PMID:20195289
+  AUTHORS   Yamada S, Richardson K, Tang M, Halaschek-Wiener J, Cook VJ, Fitzgerald JM, Elwood K, Marra F, Brooks-Wilson A
+  TITLE     Genetic variation in carboxylesterase genes and susceptibility to isoniazid-induced hepatotoxicity.
+  JOURNAL   Pharmacogenomics J 10:524-36 (2010)
+            DOI:10.1038/tpj.2010.5
+REFERENCE   PMID:20434429
+  AUTHORS   Vlasits J, Jakopitsch C, Bernroitner M, Zamocky M, Furtmuller PG, Obinger C
+  TITLE     Mechanisms of catalase activity of heme peroxidases.
+  JOURNAL   Arch Biochem Biophys 500:74-81 (2010)
+            DOI:10.1016/j.abb.2010.04.018
+REFERENCE   PMID:26867495
+  AUTHORS   Khan SR, Morgan AG, Michail K, Srivastava N, Whittal RM, Aljuhani N, Siraki AG
+  TITLE     Metabolism of isoniazid by neutrophil myeloperoxidase leads to isoniazid-NAD(+) adduct formation: A comparison of the reactivity of isoniazid with its known human metabolites.
+  JOURNAL   Biochem Pharmacol 106:46-55 (2016)
+            DOI:10.1016/j.bcp.2016.02.003
+REFERENCE   PMID:22846601
+  AUTHORS   Forbes LV, Furtmuller PG, Khalilova I, Turner R, Obinger C, Kettle AJ
+  TITLE     Isoniazid as a substrate and inhibitor of myeloperoxidase: identification of amine adducts and the influence of superoxide dismutase on their formation.
+  JOURNAL   Biochem Pharmacol 84:949-60 (2012)
+            DOI:10.1016/j.bcp.2012.07.020
+REFERENCE   PMID:12069966
+  AUTHORS   Nguyen M, Quemard A, Broussy S, Bernadou J, Meunier B
+  TITLE     Mn(III) pyrophosphate as an efficient tool for studying the mode of action of isoniazid on the InhA protein of Mycobacterium tuberculosis.
+  JOURNAL   Antimicrob Agents Chemother 46:2137-44 (2002)
+            DOI:10.1128/AAC.46.7.2137-2144.2002
+REFERENCE   PMID:9417034
+  AUTHORS   Rozwarski DA, Grant GA, Barton DH, Jacobs WR Jr, Sacchettini JC
+  TITLE     Modification of the NADH of the isoniazid target (InhA) from Mycobacterium tuberculosis.
+  JOURNAL   Science 279:98-102 (1998)
+            DOI:10.1126/science.279.5347.98
+REFERENCE   PMID:17636923
+  AUTHORS   Argyrou A, Vetting MW, Blanchard JS
+  TITLE     New insight into the mechanism of action of and resistance to isoniazid: interaction of Mycobacterium tuberculosis enoyl-ACP reductase with INH-NADP.
+  JOURNAL   J Am Chem Soc 129:9582-3 (2007)
+            DOI:10.1021/ja073160k
+KO_PATHWAY  ko00983
+///

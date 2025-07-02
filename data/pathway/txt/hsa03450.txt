@@ -1,0 +1,56 @@
+ENTRY       hsa03450                    Pathway
+NAME        Non-homologous end-joining - Homo sapiens (human)
+DESCRIPTION Nonhomologous end joining (NHEJ) eliminates DNA double-strand breaks (DSBs) by direct ligation. NHEJ involves binding of the KU heterodimer to double-stranded DNA ends, recruitment of DNA-PKcs (MRX complex in yeast), processing of ends, and recruitment of the DNA ligase IV (LIG4)-XRCC4 complex, which brings about ligation. A recent study shows that bacteria accomplish NHEJ using just two proteins (Ku and DNA ligase), whereas eukaryotes require many factors. NHEJ repairs DSBs at all stages of the cell cycle, bringing about the ligation of two DNA DSBs without the need for sequence homology, and so is error-prone.
+CLASS       Genetic Information Processing; Replication and repair
+PATHWAY_MAP hsa03450  Non-homologous end-joining
+NETWORK     nt06506  Double-strand break repair
+  ELEMENT   N01439  Double-strand break signaling
+            N01445  Non-homologous end-joining
+            N01467  V(D)J recombination
+DBLINKS     GO: 0006303
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2547  XRCC6; X-ray repair cross complementing 6 [KO:K10884]
+            7520  XRCC5; X-ray repair cross complementing 5 [KO:K10885]
+            64421  DCLRE1C; DNA cross-link repair 1C [KO:K10887] [EC:3.1.-.-]
+            5591  PRKDC; protein kinase, DNA-activated, catalytic subunit [KO:K06642] [EC:2.7.11.1]
+            27343  POLL; DNA polymerase lambda [KO:K03512] [EC:2.7.7.7 4.2.99.-]
+            27434  POLM; DNA polymerase mu [KO:K03513] [EC:2.7.7.7]
+            1791  DNTT; DNA nucleotidylexotransferase [KO:K00977] [EC:2.7.7.31]
+            3981  LIG4; DNA ligase 4 [KO:K10777] [EC:6.5.1.1]
+            7518  XRCC4; X-ray repair cross complementing 4 [KO:K10886]
+            79840  NHEJ1; non-homologous end joining factor 1 [KO:K10980]
+            10111  RAD50; RAD50 double strand break repair protein [KO:K10866] [EC:3.6.-.-]
+            4361  MRE11; MRE11 homolog, double strand break repair nuclease [KO:K10865]
+            2237  FEN1; flap structure-specific endonuclease 1 [KO:K04799] [EC:3.1.-.-]
+REFERENCE   PMID:16971555
+  AUTHORS   Gennery AR.
+  TITLE     Primary immunodeficiency syndromes associated with defective DNA double-strand break repair.
+  JOURNAL   Br Med Bull 77-78:71-85 (2006)
+            DOI:10.1093/bmb/ldl006
+REFERENCE   PMID:17589524
+  AUTHORS   Zhang Y, Hefferin ML, Chen L, Shim EY, Tseng HM, Kwon Y, Sung P, Lee SE, Tomkinson AE.
+  TITLE     Role of Dnl4-Lif1 in nonhomologous end-joining repair complex assembly and suppression of homologous recombination.
+  JOURNAL   Nat Struct Mol Biol 14:639-46 (2007)
+            DOI:10.1038/nsmb1261
+REFERENCE   PMID:16895466
+  AUTHORS   Wyman C, Kanaar R.
+  TITLE     DNA double-strand break repair: all's well that ends well.
+  JOURNAL   Annu Rev Genet 40:363-83 (2006)
+            DOI:10.1146/annurev.genet.40.110405.090451
+REFERENCE   PMID:15578053
+  AUTHORS   Weller GR, Brandt VL, Roth DB.
+  TITLE     Doing more with less in bacterial DNA repair.
+  JOURNAL   Nat Struct Mol Biol 11:1158-9 (2004)
+            DOI:10.1038/nsmb1204-1158
+REFERENCE   PMID:12215643
+  AUTHORS   Weller GR, Kysela B, Roy R, Tonkin LM, Scanlan E, Della M, Devine SK, Day JP, Wilkinson A, d'Adda di Fagagna F, Devine KM, Bowater RP, Jeggo PA, Jackson SP, Doherty AJ.
+  TITLE     Identification of a DNA nonhomologous end-joining complex in bacteria.
+  JOURNAL   Science 297:1686-9 (2002)
+            DOI:10.1126/science.1074584
+REFERENCE   PMID:17506672
+  AUTHORS   Pitcher RS, Brissett NC, Doherty AJ.
+  TITLE     Nonhomologous end-joining in bacteria: a microbial perspective.
+  JOURNAL   Annu Rev Microbiol 61:259-82 (2007)
+            DOI:10.1146/annurev.micro.61.080706.093354
+KO_PATHWAY  ko03450
+///

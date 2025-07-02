@@ -1,0 +1,56 @@
+ENTRY       hsa00604                    Pathway
+NAME        Glycosphingolipid biosynthesis - ganglio series - Homo sapiens (human)
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00604  Glycosphingolipid biosynthesis - ganglio series
+MODULE      hsa_M00069  Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3 [PATH:hsa00604]
+DBLINKS     GO: 0001574
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2583  B4GALNT1; beta-1,4-N-acetyl-galactosaminyltransferase 1 [KO:K00725] [EC:2.4.1.92]
+            8705  B3GALT4; beta-1,3-galactosyltransferase 4 [KO:K00715] [EC:2.4.1.62]
+            6483  ST3GAL2; ST3 beta-galactoside alpha-2,3-sialyltransferase 2 [KO:K03368] [EC:2.4.3.2 2.4.3.4]
+            6482  ST3GAL1; ST3 beta-galactoside alpha-2,3-sialyltransferase 1 [KO:K00780] [EC:2.4.3.2 2.4.3.4]
+            29906  ST8SIA5; ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 5 [KO:K03369] [EC:2.4.3.-]
+            8869  ST3GAL5; ST3 beta-galactoside alpha-2,3-sialyltransferase 5 [KO:K03370] [EC:2.4.3.9]
+            6489  ST8SIA1; ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 1 [KO:K03371] [EC:2.4.3.8]
+            9197  SLC33A1; solute carrier family 33 member 1 [KO:K03372] [EC:2.3.1.-]
+            256435  ST6GALNAC3; ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 3 [KO:K03373] [EC:2.4.3.7]
+            27090  ST6GALNAC4; ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 4 [KO:K03374] [EC:2.4.3.7]
+            81849  ST6GALNAC5; ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 5 [KO:K03375] [EC:2.4.3.-]
+            30815  ST6GALNAC6; ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 6 [KO:K03376] [EC:2.4.3.-]
+            2720  GLB1; galactosidase beta 1 [KO:K12309] [EC:3.2.1.23]
+            3073  HEXA; hexosaminidase subunit alpha [KO:K12373] [EC:3.2.1.52]
+            3074  HEXB; hexosaminidase subunit beta [KO:K12373] [EC:3.2.1.52]
+COMPOUND    G00092  Lactosylceramide
+            G00108  GM3
+            G00109  GM2
+            G00110  GM1
+            G00111  GD1a
+            G00112  GT1a
+            G00113  GD3
+            G00114  GD2
+            G00115  GD1b
+            G00116  GT1b
+            G00117  GQ1b
+            G00118  GT3
+            G00119  GT2
+            G00120  GT1c
+            G00121  GQ1c
+            G00122  GP1c
+            G00123  GA2
+            G00124  GA1
+            G00125  GM1b
+            G00126  GD1c
+            G00127  GD1a
+            G00128  GT1aalpha
+            G00129  GQ1balpha
+            G00130  GM2alpha
+            G00131  GM1alpha
+            G00132  GD1beta
+            G00166  Fucosyl-GM1
+            G00167  N-Acetylgalactosaminyl GM1b
+            G00168  N-Acetylgalactosaminyl GD1a
+            G00169  9-O-Acetylated GD3
+            G00170  9-O-Acetylated GT3
+REL_PATHWAY hsa00600  Sphingolipid metabolism
+KO_PATHWAY  ko00604
+///

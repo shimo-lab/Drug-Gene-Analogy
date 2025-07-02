@@ -1,0 +1,23 @@
+ENTRY       hsa03264                    Pathway
+NAME        Virion - Flavivirus - Homo sapiens (human)
+CLASS       Genetic Information Processing; Information processing in viruses
+PATHWAY_MAP hsa03264  Virion - Flavivirus
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7301  TYRO3; TYRO3 protein tyrosine kinase [KO:K05116] [EC:2.7.10.1]
+            10332  CLEC4M; C-type lectin domain family 4 member M [KO:K06563]
+            30835  CD209; CD209 molecule [KO:K06563]
+            26762  HAVCR1; hepatitis A virus cellular receptor 1 [KO:K20413]
+COMPOUND    C00607  Chondroitin sulfate
+            C00925  Heparan sulfate
+REFERENCE   PMID:27033547
+  AUTHORS   Sirohi D, Chen Z, Sun L, Klose T, Pierson TC, Rossmann MG, Kuhn RJ
+  TITLE     The 3.8 A resolution cryo-EM structure of Zika virus.
+  JOURNAL   Science 352:467-70 (2016)
+            DOI:10.1126/science.aaf5316
+REFERENCE   PMID:32060358
+  AUTHORS   Tan TY, Fibriansah G, Kostyuchenko VA, Ng TS, Lim XX, Zhang S, Lim XN, Wang J, Shi J, Morais MC, Corti D, Lok SM
+  TITLE     Capsid protein structure in Zika virus reveals the flavivirus assembly process.
+  JOURNAL   Nat Commun 11:895 (2020)
+            DOI:10.1038/s41467-020-14647-9
+KO_PATHWAY  ko03264
+///

@@ -1,0 +1,161 @@
+ENTRY       hsa05211                    Pathway
+NAME        Renal cell carcinoma - Homo sapiens (human)
+DESCRIPTION Renal cell cancer (RCC) accounts for ~3% of human malignancies and its incidence appears to be rising. Although most cases of RCC seem to occur sporadically, an inherited predisposition to renal cancer accounts for 1-4% of cases. RCC is not a single disease, it has several morphological subtypes. Conventional RCC (clear cell RCC) accounts for ~80% of cases, followed by papillary RCC (10-15%), chromophobe RCC (5%), and collecting duct RCC (<1%). Genes potentially involved in sporadic neoplasms of each particular type are VHL, MET, BHD, and FH respectively. In the absence of VHL, hypoxia-inducible factor alpha (HIF-alpha) accumulates, leading to production of several growth factors, including vascular endothelial growth factor and platelet-derived growth factor. Activated MET mediates a number of biological effects including motility, invasion of extracellular matrix, cellular transformation, prevention of apoptosis and metastasis formation. Loss of functional FH leads to accumulation of fumarate in the cell, triggering inhibition of HPH and preventing targeted pVHL-mediated degradation of HIF-alpha. BHD mutations cause the Birt-Hogg-Dube syndrome and its associated chromophobe, hybrid oncocytic, and conventional (clear cell) RCC.
+CLASS       Human Diseases; Cancer: specific types
+PATHWAY_MAP hsa05211  Renal cell carcinoma
+NETWORK     nt06210  ERK signaling
+            nt06214  PI3K signaling
+            nt06225  HIF-1 signaling
+            nt06263  Hepatocellular carcinoma
+            nt06264  Renal cell carcinoma
+  ELEMENT   N00005  Mutation-activated MET to RAS-ERK signaling pathway
+            N00044  Mutation-activated MET to PI3K signaling pathway
+            N00080  Loss of VHL to HIF-1 signaling pathway
+            N00081  Mutation-inactivated VHL to HIF-1 signaling pathway
+DISEASE     H00021  Renal cell carcinoma
+DRUG        D06272  Sorafenib tosylate (USAN)
+            D06409  Bevacizumab (USAN)
+            D08524  Sorafenib (USAN/INN)
+            D10095  Cabozantinib s-malate (USAN)
+            D11954  Belzutifan (JAN/USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3091  HIF1A; hypoxia inducible factor 1 subunit alpha [KO:K08268]
+            2034  EPAS1; endothelial PAS domain protein 1 [KO:K09095]
+            54583  EGLN1; egl-9 family hypoxia inducible factor 1 [KO:K09592] [EC:1.14.11.29]
+            112399  EGLN3; egl-9 family hypoxia inducible factor 3 [KO:K09592] [EC:1.14.11.29]
+            112398  EGLN2; egl-9 family hypoxia inducible factor 2 [KO:K09592] [EC:1.14.11.29]
+            7428  VHL; von Hippel-Lindau tumor suppressor [KO:K03871]
+            6921  ELOC; elongin C [KO:K03872]
+            6923  ELOB; elongin B [KO:K03873]
+            9978  RBX1; ring-box 1 [KO:K03868] [EC:2.3.2.32]
+            8453  CUL2; cullin 2 [KO:K03870]
+            405  ARNT; aryl hydrocarbon receptor nuclear translocator [KO:K09097]
+            9915  ARNT2; aryl hydrocarbon receptor nuclear translocator 2 [KO:K15589]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            6513  SLC2A1; solute carrier family 2 member 1 [KO:K07299]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            5155  PDGFB; platelet derived growth factor subunit B [KO:K17386]
+            7039  TGFA; transforming growth factor alpha [KO:K08774]
+            3082  HGF; hepatocyte growth factor [KO:K05460]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            2549  GAB1; GRB2 associated binding protein 1 [KO:K09593]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            1398  CRK; CRK proto-oncogene, adaptor protein [KO:K04438]
+            1399  CRKL; CRK like proto-oncogene, adaptor protein [KO:K04438]
+            2889  RAPGEF1; Rap guanine nucleotide exchange factor 1 [KO:K06277]
+            5906  RAP1A; RAP1A, member of RAS oncogene family [KO:K04353]
+            5908  RAP1B; RAP1B, member of RAS oncogene family [KO:K07836]
+            5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2113  ETS1; ETS proto-oncogene 1, transcription factor [KO:K02678]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            5062  PAK2; p21 (RAC1) activated kinase 2 [KO:K04410] [EC:2.7.11.1]
+            5063  PAK3; p21 (RAC1) activated kinase 3 [KO:K05733] [EC:2.7.11.1]
+            10298  PAK4; p21 (RAC1) activated kinase 4 [KO:K05734] [EC:2.7.11.1]
+            57144  PAK5; p21 (RAC1) activated kinase 5 [KO:K05736] [EC:2.7.11.1]
+            56924  PAK6; p21 (RAC1) activated kinase 6 [KO:K05735] [EC:2.7.11.1]
+            106821730  BUB1B-PAK6; BUB1B-PAK6 readthrough [KO:K05735] [EC:2.7.11.1]
+            5546  PRCC; proline rich mitotic checkpoint control factor [KO:K13105]
+            7030  TFE3; transcription factor binding to IGHM enhancer 3 [KO:K09105]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            2271  FH; fumarate hydratase [KO:K01679] [EC:4.2.1.2]
+            201163  FLCN; folliculin [KO:K09594]
+COMPOUND    C00007  Oxygen
+            C00122  Fumarate
+            C00149  (S)-Malate
+REFERENCE   PMID:16339096
+  AUTHORS   Cohen HT, McGovern FJ.
+  TITLE     Renal-cell carcinoma.
+  JOURNAL   N Engl J Med 353:2477-90 (2005)
+            DOI:10.1056/NEJMra043172
+REFERENCE   PMID:15122209
+  AUTHORS   Pavlovich CP, Schmidt LS.
+  TITLE     Searching for the hereditary causes of renal-cell carcinoma.
+  JOURNAL   Nat Rev Cancer 4:381-93 (2004)
+            DOI:10.1038/nrc1364
+REFERENCE   PMID:14634372
+  AUTHORS   Linehan WM, Walther MM, Zbar B.
+  TITLE     The genetic basis of cancer of the kidney.
+  JOURNAL   J Urol 170:2163-72 (2003)
+            DOI:10.1097/01.ju.0000096060.92397.ed
+REFERENCE   PMID:15611513
+  AUTHORS   Kim WY, Kaelin WG.
+  TITLE     Role of VHL gene mutation in human cancer.
+  JOURNAL   J Clin Oncol 22:4991-5004 (2004)
+            DOI:10.1200/JCO.2004.05.061
+REFERENCE   PMID:17211469
+  AUTHORS   Sudarshan S, Linehan WM, Neckers L.
+  TITLE     HIF and fumarate hydratase in renal cancer.
+  JOURNAL   Br J Cancer 96:403-7 (2007)
+            DOI:10.1038/sj.bjc.6603547
+REFERENCE   PMID:17287871
+  AUTHORS   Sudarshan S, Pinto PA, Neckers L, Linehan WM.
+  TITLE     Mechanisms of disease: hereditary leiomyomatosis and renal cell cancer--a distinct form of hereditary kidney cancer.
+  JOURNAL   Nat Clin Pract Urol 4:104-10 (2007)
+            DOI:10.1038/ncpuro0711
+REFERENCE   PMID:14685170
+  AUTHORS   Birchmeier C, Birchmeier W, Gherardi E, Vande Woude GF.
+  TITLE     Met, metastasis, motility and more.
+  JOURNAL   Nat Rev Mol Cell Biol 4:915-25 (2003)
+            DOI:10.1038/nrm1261
+REFERENCE   PMID:18358634
+  AUTHORS   Muller-Hocker J, Babaryka G, Schmid I, Jung A
+  TITLE     Overexpression of cyclin D1, D3, and p21 in an infantile renal carcinoma with Xp11.2 TFE3-gene fusion.
+  JOURNAL   Pathol Res Pract 204:589-97 (2008)
+            DOI:10.1016/j.prp.2008.01.010
+REFERENCE   PMID:12351585
+  AUTHORS   Bodmer D, van den Hurk W, van Groningen JJ, Eleveld MJ, Martens GJ, Weterman MA, van Kessel AG.
+  TITLE     Understanding familial and non-familial renal cell cancer.
+  JOURNAL   Hum Mol Genet 11:2489-98 (2002)
+            DOI:10.1093/hmg/11.20.2489
+REFERENCE   PMID:25048860
+  AUTHORS   Kauffman EC, Ricketts CJ, Rais-Bahrami S, Yang Y, Merino MJ, Bottaro DP, Srinivasan R, Linehan WM
+  TITLE     Molecular genetics and cellular features of TFE3 and TFEB fusion kidney cancers.
+  JOURNAL   Nat Rev Urol 11:465-75 (2014)
+            DOI:10.1038/nrurol.2014.162
+REFERENCE   PMID:11313942
+  AUTHORS   Skalsky YM, Ajuh PM, Parker C, Lamond AI, Goodwin G, Cooper CS
+  TITLE     PRCC, the commonest TFE3 fusion partner in papillary renal carcinoma is associated with pre-mRNA splicing factors.
+  JOURNAL   Oncogene 20:178-87 (2001)
+            DOI:10.1038/sj.onc.1204056
+REFERENCE   PMID:19422821
+  AUTHORS   Medendorp K, van Groningen JJ, Vreede L, Hetterschijt L, Brugmans L, van den Hurk WH, van Kessel AG
+  TITLE     The renal cell carcinoma-associated oncogenic fusion protein PRCCTFE3 provokes p21 WAF1/CIP1-mediated cell cycle delay.
+  JOURNAL   Exp Cell Res 315:2399-409 (2009)
+            DOI:10.1016/j.yexcr.2009.04.022
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa04010  MAPK signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04350  TGF-beta signaling pathway
+            hsa04370  VEGF signaling pathway
+KO_PATHWAY  ko05211
+///

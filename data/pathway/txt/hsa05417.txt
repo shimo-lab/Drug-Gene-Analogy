@@ -1,0 +1,436 @@
+ENTRY       hsa05417                    Pathway
+NAME        Lipid and atherosclerosis - Homo sapiens (human)
+DESCRIPTION Atherosclerosis is a chronic inflammatory disease marked by a narrowing of the arteries from lipid-rich plaques present within the walls of arterial blood vessels. It represents the root cause of the majority of cardiovascular diseases (CVDs) and their complications, including conditions such as coronary artery disease, myocardial infarction and stroke.  An elevated level of low density lipoprotein (LDL) cholesterol constitutes a major risk factor for genesis of atherosclerosis. LDL can accumulate within the blood vessel wall and undergo modification by oxidation. Oxidized LDL (oxLDL) leads to endothelial dysfunction leading to expression of adhesion molecules and recruitment of monocyte in subendothelial space. The monocytes proliferate, differentiate into macrophages, and take up the lipoproteins, forming cholesterol-engorged "foam cells." With the time, the foam cells die, leaving a 'necrotic core' of crystalline cholesterol and cell debris. Smooth muscle cells proliferate and migrate into the region, laying down a protective cap over the lesion. Lectin-like oxidized low-density lipoprotein receptor-1 (LOX-1), which mediates the recognition and internalization of oxLDL, is involved in all of these events critical in the pathogenesis of atherosclerosis.
+CLASS       Human Diseases; Cardiovascular disease
+PATHWAY_MAP hsa05417  Lipid and atherosclerosis
+DISEASE     H00159  Tangier disease
+            H02505  Atherosclerosis
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        338  APOB; apolipoprotein B [KO:K14462]
+            337  APOA4; apolipoprotein A4 [KO:K08760]
+            335  APOA1; apolipoprotein A1 [KO:K08757]
+            3949  LDLR; low density lipoprotein receptor [KO:K12473]
+            4973  OLR1; oxidized low density lipoprotein receptor 1 [KO:K08763]
+            9138  ARHGEF1; Rho guanine nucleotide exchange factor 1 [KO:K12330]
+            4312  MMP1; matrix metallopeptidase 1 [KO:K01388] [EC:3.4.24.7]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            6648  SOD2; superoxide dismutase 2 [KO:K04564] [EC:1.15.1.1]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5451  POU2F1; POU class 2 homeobox 1 [KO:K09364]
+            5452  POU2F2; POU class 2 homeobox 2 [KO:K09364]
+            25833  POU2F3; POU class 2 homeobox 3 [KO:K09364]
+            958  CD40; CD40 molecule [KO:K03160]
+            959  CD40LG; CD40 ligand [KO:K03161]
+            1543  CYP1A1; cytochrome P450 family 1 subfamily A member 1 [KO:K07408] [EC:1.14.14.1]
+            1548  CYP2A6; cytochrome P450 family 2 subfamily A member 6 [KO:K17683] [EC:1.14.14.-]
+            1549  CYP2A7; cytochrome P450 family 2 subfamily A member 7 [KO:K17683] [EC:1.14.14.-]
+            1555  CYP2B6; cytochrome P450 family 2 subfamily B member 6 [KO:K17709] [EC:1.14.14.-]
+            1558  CYP2C8; cytochrome P450 family 2 subfamily C member 8 [KO:K17718] [EC:1.14.14.1]
+            1559  CYP2C9; cytochrome P450 family 2 subfamily C member 9 [KO:K17719] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.-]
+            1573  CYP2J2; cytochrome P450 family 2 subfamily J member 2 [KO:K07418] [EC:1.14.14.1 1.14.14.73 1.14.14.74 1.14.14.75]
+            177  AGER; advanced glycosylation end-product specific receptor [KO:K19722]
+            27035  NOX1; NADPH oxidase 1 [KO:K08008]
+            1536  CYBB; cytochrome b-245 beta chain [KO:K21421] [EC:1.-.-.-]
+            653361  NCF1; neutrophil cytosolic factor 1 [KO:K08011]
+            1535  CYBA; cytochrome b-245 alpha chain [KO:K08009]
+            4688  NCF2; neutrophil cytosolic factor 2 [KO:K08010]
+            4689  NCF4; neutrophil cytosolic factor 4 [KO:K08012]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            5606  MAP2K3; mitogen-activated protein kinase kinase 3 [KO:K04432] [EC:2.7.12.2]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            6401  SELE; selectin E [KO:K06494]
+            6403  SELP; selectin P [KO:K06496]
+            7412  VCAM1; vascular cell adhesion molecule 1 [KO:K06527]
+            4314  MMP3; matrix metallopeptidase 3 [KO:K01394] [EC:3.4.24.17]
+            4318  MMP9; matrix metallopeptidase 9 [KO:K01403] [EC:3.4.24.35]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3569  IL6; interleukin 6 [KO:K05405]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3329  HSPD1; heat shock protein family D (Hsp60) member 1 [KO:K04077] [EC:5.6.1.7]
+            3312  HSPA8; heat shock protein family A (Hsp70) member 8 [KO:K03283]
+            3303  HSPA1A; heat shock protein family A (Hsp70) member 1A [KO:K03283]
+            3306  HSPA2; heat shock protein family A (Hsp70) member 2 [KO:K03283]
+            3305  HSPA1L; heat shock protein family A (Hsp70) member 1 like [KO:K03283]
+            3304  HSPA1B; heat shock protein family A (Hsp70) member 1B [KO:K03283]
+            3310  HSPA6; heat shock protein family A (Hsp70) member 6 [KO:K03283]
+            3308  HSPA4; heat shock protein family A (Hsp70) member 4 [KO:K09489]
+            3320  HSP90AA1; heat shock protein 90 alpha family class A member 1 [KO:K04079]
+            3326  HSP90AB1; heat shock protein 90 alpha family class B member 1 [KO:K04079]
+            7184  HSP90B1; heat shock protein 90 beta family member 1 [KO:K09487]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            3929  LBP; lipopolysaccharide binding protein [KO:K05399]
+            929  CD14; CD14 molecule [KO:K04391]
+            23643  LY96; lymphocyte antigen 96 [KO:K05400]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            114609  TIRAP; TIR domain containing adaptor protein [KO:K05403]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            10454  TAB1; TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [KO:K04403]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            353376  TICAM2; TIR domain containing adaptor molecule 2 [KO:K05409]
+            148022  TICAM1; TIR domain containing adaptor molecule 1 [KO:K05842]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            57534  MIB1; MIB E3 ubiquitin protein ligase 1 [KO:K10645] [EC:2.3.2.27]
+            142678  MIB2; MIB E3 ubiquitin protein ligase 2 [KO:K10645] [EC:2.3.2.27]
+            10010  TANK; TRAF family member associated NFKB activator [KO:K12650]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            3665  IRF7; interferon regulatory factor 7 [KO:K09447]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            948  CD36; CD36 molecule [KO:K06259]
+            5468  PPARG; peroxisome proliferator activated receptor gamma [KO:K08530]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6257  RXRB; retinoid X receptor beta [KO:K08525]
+            6258  RXRG; retinoid X receptor gamma [KO:K08526]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            10451  VAV3; vav guanine nucleotide exchange factor 3 [KO:K05730]
+            7409  VAV1; vav guanine nucleotide exchange factor 1 [KO:K05730]
+            7410  VAV2; vav guanine nucleotide exchange factor 2 [KO:K05730]
+            10333  TLR6; toll like receptor 6 [KO:K10169]
+            5906  RAP1A; RAP1A, member of RAS oncogene family [KO:K04353]
+            5908  RAP1B; RAP1B, member of RAS oncogene family [KO:K07836]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            6348  CCL3; C-C motif chemokine ligand 3 [KO:K05408]
+            6349  CCL3L1; C-C motif chemokine ligand 3 like 1 [KO:K05408]
+            414062  CCL3L3; C-C motif chemokine ligand 3 like 3 [KO:K05408]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            114548  NLRP3; NLR family pyrin domain containing 3 [KO:K12800]
+            3606  IL18; interleukin 18 [KO:K05482]
+            3309  HSPA5; heat shock protein family A (Hsp70) member 5 [KO:K09490] [EC:3.6.4.10]
+            22926  ATF6; activating transcription factor 6 [KO:K09054]
+            1649  DDIT3; DNA damage inducible transcript 3 [KO:K04452]
+            30001  ERO1A; endoplasmic reticulum oxidoreductase 1 alpha [KO:K10950] [EC:1.8.4.-]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            9451  EIF2AK3; eukaryotic translation initiation factor 2 alpha kinase 3 [KO:K08860] [EC:2.7.11.1]
+            1965  EIF2S1; eukaryotic translation initiation factor 2 subunit alpha [KO:K03237]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            2081  ERN1; endoplasmic reticulum to nucleus signaling 1 [KO:K08852] [EC:2.7.11.1 3.1.26.-]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            7494  XBP1; X-box binding protein 1 [KO:K09027]
+            19  ABCA1; ATP binding cassette subfamily A member 1 [KO:K05641]
+            9619  ABCG1; ATP binding cassette subfamily G member 1 [KO:K05679]
+            4780  NFE2L2; NFE2 like bZIP transcription factor 2 [KO:K05638]
+            29108  PYCARD; PYD and CARD domain containing [KO:K12799]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+            7436  VLDLR; very low density lipoprotein receptor [KO:K20053]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            8743  TNFSF10; TNF superfamily member 10 [KO:K04721]
+            8797  TNFRSF10A; TNF receptor superfamily member 10a [KO:K04722]
+            8795  TNFRSF10B; TNF receptor superfamily member 10b [KO:K04722]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            356  FASLG; Fas ligand [KO:K04389]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            637  BID; BH3 interacting domain death agonist [KO:K04726]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            317  APAF1; apoptotic peptidase activating factor 1 [KO:K02084]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            839  CASP6; caspase 6 [KO:K04396] [EC:3.4.22.59]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            840  CASP7; caspase 7 [KO:K04397] [EC:3.4.22.60]
+            7157  TP53; tumor protein p53 [KO:K04451]
+COMPOUND    C00027  Hydrogen peroxide
+            C00076  Calcium cation
+            C00187  Cholesterol
+            C00338  Lipopolysaccharide
+            C00422  Triacylglycerol
+            C00704  Superoxide
+            C00865  Phospholipid
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C02530  Cholesterol ester
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C21011  [Protein]-N(epsilon)-(carboxymethyl)lysine
+            C21012  [Protein]-N(epsilon)-(carboxyethyl)lysine
+            C21013  [Protein]-pyrraline
+            C21014  [Protein]-pentosidine
+REFERENCE   PMID:23899566
+  AUTHORS   Hopkins PN
+  TITLE     Molecular biology of atherosclerosis.
+  JOURNAL   Physiol Rev 93:1317-542 (2013)
+            DOI:10.1152/physrev.00004.2012
+REFERENCE   PMID:22064431
+  AUTHORS   Weber C, Noels H
+  TITLE     Atherosclerosis: current pathogenesis and therapeutic options.
+  JOURNAL   Nat Med 17:1410-22 (2011)
+            DOI:10.1038/nm.2538
+REFERENCE   PMID:25869663
+  AUTHORS   Tabas I, Garcia-Cardena G, Owens GK
+  TITLE     Recent insights into the cellular biology of atherosclerosis.
+  JOURNAL   J Cell Biol 209:13-22 (2015)
+            DOI:10.1083/jcb.201412052
+REFERENCE   PMID:25614320
+  AUTHORS   Tall AR, Yvan-Charvet L
+  TITLE     Cholesterol, inflammation and innate immunity.
+  JOURNAL   Nat Rev Immunol 15:104-16 (2015)
+            DOI:10.1038/nri3793
+REFERENCE   PMID:31336709
+  AUTHORS   Kattoor AJ, Goel A, Mehta JL
+  TITLE     LOX-1: Regulation, Signaling and Its Role in Atherosclerosis.
+  JOURNAL   Antioxidants (Basel) 8:E218 (2019)
+            DOI:10.3390/antiox8070218
+REFERENCE   PMID:11985903
+  AUTHORS   Mehta JL, Li D
+  TITLE     Identification, regulation and function of a novel lectin-like oxidized low-density lipoprotein receptor.
+  JOURNAL   J Am Coll Cardiol 39:1429-35 (2002)
+            DOI:10.1016/s0735-1097(02)01803-x
+REFERENCE   PMID:19286611
+  AUTHORS   Li D, Mehta JL
+  TITLE     Intracellular signaling of LOX-1 in endothelial cell apoptosis.
+  JOURNAL   Circ Res 104:566-8 (2009)
+            DOI:10.1161/CIRCRESAHA.109.194209
+REFERENCE   PMID:24886290
+  AUTHORS   Lubrano V, Balzan S
+  TITLE     LOX-1 and ROS, inseparable factors in the process of endothelial damage.
+  JOURNAL   Free Radic Res 48:841-8 (2014)
+            DOI:10.3109/10715762.2014.929122
+REFERENCE   PMID:23124189
+  AUTHORS   Xu S, Ogura S, Chen J, Little PJ, Moss J, Liu P
+  TITLE     LOX-1 in atherosclerosis: biological functions and pharmacological modifiers.
+  JOURNAL   Cell Mol Life Sci 70:2859-72 (2013)
+            DOI:10.1007/s00018-012-1194-z
+REFERENCE   PMID:21947818
+  AUTHORS   Mitra S, Goyal T, Mehta JL
+  TITLE     Oxidized LDL, LOX-1 and atherosclerosis.
+  JOURNAL   Cardiovasc Drugs Ther 25:419-29 (2011)
+            DOI:10.1007/s10557-011-6341-5
+REFERENCE   PMID:21338316
+  AUTHORS   Lu J, Mitra S, Wang X, Khaidakov M, Mehta JL
+  TITLE     Oxidative stress and lectin-like ox-LDL-receptor LOX-1 in atherogenesis and tumorigenesis.
+  JOURNAL   Antioxid Redox Signal 15:2301-33 (2011)
+            DOI:10.1089/ars.2010.3792
+REFERENCE   PMID:20203069
+  AUTHORS   Ou HC, Song TY, Yeh YC, Huang CY, Yang SF, Chiu TH, Tsai KL, Chen KL, Wu YJ, Tsai CS, Chang LY, Kuo WW, Lee SD
+  TITLE     EGCG protects against oxidized LDL-induced endothelial dysfunction by inhibiting LOX-1-mediated signaling.
+  JOURNAL   J Appl Physiol (1985) 108:1745-56 (2010)
+            DOI:10.1152/japplphysiol.00879.2009
+REFERENCE   PMID:17614937
+  AUTHORS   Chen XP, Zhang TT, Du GH
+  TITLE     Lectin-like oxidized low-density lipoprotein receptor-1, a new promising target for the therapy of atherosclerosis?
+  JOURNAL   Cardiovasc Drug Rev 25:146-61 (2007)
+            DOI:10.1111/j.1527-3466.2007.00009.x
+REFERENCE   PMID:20181930
+  AUTHORS   Mattaliano MD, Wooters J, Shih HH, Paulsen JE
+  TITLE     ROCK2 associates with lectin-like oxidized LDL receptor-1 and mediates oxidized LDL-induced IL-8 production.
+  JOURNAL   Am J Physiol Cell Physiol 298:C1180-7 (2010)
+            DOI:10.1152/ajpcell.00483.2009
+REFERENCE   PMID:27073018
+  AUTHORS   Salvador B, Arranz A, Francisco S, Cordoba L, Punzon C, Llamas MA, Fresno M
+  TITLE     Modulation of endothelial function by Toll like receptors.
+  JOURNAL   Pharmacol Res 108:46-56 (2016)
+            DOI:10.1016/j.phrs.2016.03.038
+REFERENCE   PMID:23995626
+  AUTHORS   Moore KJ, Sheedy FJ, Fisher EA
+  TITLE     Macrophages in atherosclerosis: a dynamic balance.
+  JOURNAL   Nat Rev Immunol 13:709-21 (2013)
+            DOI:10.1038/nri3520
+REFERENCE   PMID:25403963
+  AUTHORS   Butoi E, Gan AM, Manduteanu I
+  TITLE     Molecular and functional interactions among monocytes/macrophages and smooth muscle cells and their relevance for atherosclerosis.
+  JOURNAL   Crit Rev Eukaryot Gene Expr 24:341-55 (2014)
+            DOI:10.1615/critreveukaryotgeneexpr.2014012157
+REFERENCE   PMID:24048132
+  AUTHORS   Sheedy FJ, Moore KJ
+  TITLE     IL-1 signaling in atherosclerosis: sibling rivalry.
+  JOURNAL   Nat Immunol 14:1030-2 (2013)
+            DOI:10.1038/ni.2711
+REFERENCE   PMID:21529710
+  AUTHORS   Moore KJ, Tabas I
+  TITLE     Macrophages in the pathogenesis of atherosclerosis.
+  JOURNAL   Cell 145:341-55 (2011)
+            DOI:10.1016/j.cell.2011.04.005
+REFERENCE   PMID:22577254
+  AUTHORS   Gui T, Shimokado A, Sun Y, Akasaka T, Muragaki Y
+  TITLE     Diverse roles of macrophages in atherosclerosis: from inflammatory biology to biomarker discovery.
+  JOURNAL   Mediators Inflamm 2012:693083 (2012)
+            DOI:10.1155/2012/693083
+REFERENCE   PMID:17442283
+  AUTHORS   Collot-Teixeira S, Martin J, McDermott-Roe C, Poston R, McGregor JL
+  TITLE     CD36 and macrophages in atherosclerosis.
+  JOURNAL   Cardiovasc Res 75:468-77 (2007)
+            DOI:10.1016/j.cardiores.2007.03.010
+REFERENCE   PMID:19065049
+  AUTHORS   Park YM, Febbraio M, Silverstein RL
+  TITLE     CD36 modulates migration of mouse and human macrophages in response to oxidized LDL and may contribute to macrophage trapping in the arterial intima.
+  JOURNAL   J Clin Invest 119:136-45 (2009)
+            DOI:10.1172/JCI35535
+REFERENCE   PMID:24903227
+  AUTHORS   Park YM
+  TITLE     CD36, a scavenger receptor implicated in atherosclerosis.
+  JOURNAL   Exp Mol Med 46:e99 (2014)
+            DOI:10.1038/emm.2014.38
+REFERENCE   PMID:21035758
+  AUTHORS   Seimon TA, Nadolski MJ, Liao X, Magallon J, Nguyen M, Feric NT, Koschinsky ML, Harkewicz R, Witztum JL, Tsimikas S, Golenbock D, Moore KJ, Tabas I
+  TITLE     Atherogenic lipids and lipoproteins trigger CD36-TLR2-dependent apoptosis in macrophages undergoing endoplasmic reticulum stress.
+  JOURNAL   Cell Metab 12:467-82 (2010)
+            DOI:10.1016/j.cmet.2010.09.010
+REFERENCE   PMID:25869517
+  AUTHORS   Nimgulkar C, Ghosh S, Sankar AB, Uday KP, Surekha MV, Madhusudhanachary P, Annapurna BR, Raghu P, Bharatraj DK
+  TITLE     Combination of spices and herbal extract restores macrophage foam cell migration and abrogates the athero-inflammatory signalling cascade of atherogenesis.
+  JOURNAL   Vascul Pharmacol 72:53-63 (2015)
+            DOI:10.1016/j.vph.2015.02.014
+REFERENCE   PMID:23928573
+  AUTHORS   Canton J, Neculai D, Grinstein S
+  TITLE     Scavenger receptors in homeostasis and immunity.
+  JOURNAL   Nat Rev Immunol 13:621-34 (2013)
+            DOI:10.1038/nri3515
+REFERENCE   PMID:20375591
+  AUTHORS   Erridge C
+  TITLE     The roles of Toll-like receptors in atherosclerosis.
+  JOURNAL   J Innate Immun 1:340-9 (2009)
+            DOI:10.1159/000191413
+REFERENCE   PMID:21884686
+  AUTHORS   Seneviratne AN, Sivagurunathan B, Monaco C
+  TITLE     Toll-like receptors and macrophage activation in atherosclerosis.
+  JOURNAL   Clin Chim Acta 413:3-14 (2012)
+            DOI:10.1016/j.cca.2011.08.021
+REFERENCE   PMID:21252151
+  AUTHORS   Miller YI, Choi SH, Wiesner P, Fang L, Harkewicz R, Hartvigsen K, Boullier A, Gonen A, Diehl CJ, Que X, Montano E, Shaw PX, Tsimikas S, Binder CJ, Witztum JL
+  TITLE     Oxidation-specific epitopes are danger-associated molecular patterns recognized by pattern recognition receptors of innate immunity.
+  JOURNAL   Circ Res 108:235-48 (2011)
+            DOI:10.1161/CIRCRESAHA.110.223875
+REFERENCE   PMID:20884885
+  AUTHORS   Tabas I
+  TITLE     The role of endoplasmic reticulum stress in the progression of atherosclerosis.
+  JOURNAL   Circ Res 107:839-50 (2010)
+            DOI:10.1161/CIRCRESAHA.110.224766
+REFERENCE   PMID:29360955
+  AUTHORS   Grootaert MOJ, Moulis M, Roth L, Martinet W, Vindis C, Bennett MR, De Meyer GRY
+  TITLE     Vascular smooth muscle cell death, autophagy and senescence in atherosclerosis.
+  JOURNAL   Cardiovasc Res 114:622-634 (2018)
+            DOI:10.1093/cvr/cvy007
+REFERENCE   PMID:12730091
+  AUTHORS   Lipskaia L, Pourci ML, Delomenie C, Combettes L, Goudouneche D, Paul JL, Capiod T, Lompre AM
+  TITLE     Phosphatidylinositol 3-kinase and calcium-activated transcription pathways are required for VLDL-induced smooth muscle cell proliferation.
+  JOURNAL   Circ Res 92:1115-22 (2003)
+            DOI:10.1161/01.RES.0000074880.25540.D0
+REFERENCE   PMID:28230726
+  AUTHORS   Cervantes Gracia K, Llanas-Cornejo D, Husi H
+  TITLE     CVD and Oxidative Stress.
+  JOURNAL   J Clin Med 6:E22 (2017)
+            DOI:10.3390/jcm6020022
+REFERENCE   PMID:21321594
+  AUTHORS   Hansson GK, Hermansson A
+  TITLE     The immune system in atherosclerosis.
+  JOURNAL   Nat Immunol 12:204-12 (2011)
+            DOI:10.1038/ni.2001
+REFERENCE   PMID:19301036
+  AUTHORS   Roy H, Bhardwaj S, Yla-Herttuala S
+  TITLE     Molecular genetics of atherosclerosis.
+  JOURNAL   Hum Genet 125:467-91 (2009)
+            DOI:10.1007/s00439-009-0654-5
+REFERENCE   PMID:15451808
+  AUTHORS   Lusis AJ, Fogelman AM, Fonarow GC
+  TITLE     Genetic basis of atherosclerosis: part I: new genes and pathways.
+  JOURNAL   Circulation 110:1868-73 (2004)
+            DOI:10.1161/01.CIR.0000143041.58692.CC
+REFERENCE   PMID:15485348
+  AUTHORS   Lusis AJ, Mar R, Pajukanta P
+  TITLE     Genetics of atherosclerosis.
+  JOURNAL   Annu Rev Genomics Hum Genet 5:189-218 (2004)
+            DOI:10.1146/annurev.genom.5.061903.175930
+REL_PATHWAY hsa04020  Calcium signaling pathway
+            hsa04115  p53 signaling pathway
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04668  TNF signaling pathway
+            hsa04670  Leukocyte transendothelial migration
+            hsa04975  Fat digestion and absorption
+            hsa04979  Cholesterol metabolism
+            hsa05418  Fluid shear stress and atherosclerosis
+KO_PATHWAY  ko05417
+///

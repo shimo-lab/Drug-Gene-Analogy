@@ -1,0 +1,373 @@
+ENTRY       hsa04061                    Pathway
+NAME        Viral protein interaction with cytokine and cytokine receptor - Homo sapiens (human)
+DESCRIPTION Viruses have evolved diverse mechanisms to evade detection and destruction by the immune system, including copying and repurposing host cytokine and cytokine receptor genes. Viral cytokines and cytokine receptors, together with a group of structurally unique, soluble, cytokine-binding or cytokine receptor-binding proteins, represent the three major molecular strategies for subversion and modulation of the host cytokine networks mainly in large DNA viruses. Viral cytokines and cytokine receptor homologs, including other binding proteins, may activate or inhibit cytokine signaling and possibly affect different aspects of immunity.
+CLASS       Environmental Information Processing; Signaling molecules and interaction
+PATHWAY_MAP hsa04061  Viral protein interaction with cytokine and cytokine receptor
+NETWORK     nt06124  Chemokine signaling (viruses)
+            nt06131  Apoptosis (viruses and bacteria)
+            nt06150  Cytokine-cytokine receptor interaction (viruses)
+            nt06160  Human T-cell leukemia virus 1 (HTLV-1)
+            nt06166  Human papillomavirus (HPV)
+            nt06167  Human cytomegalovirus (HCMV)
+            nt06168  Herpes simplex virus 1 (HSV-1)
+            nt06219  JAK-STAT signaling
+            nt06516  TNF signaling
+            nt06518  JAK-STAT signaling
+  ELEMENT   N00350  HPV E6 to extrinsic apoptotic pathway
+            N00416  HCMV vIL10 to IL10-JAK-STAT signaling pathway
+            N00427  HCMV vCXCL to CXCR-GNB/G-PI3K-AKT signaling pathway
+            N00429  HCMV UL22A to CCR5-GNB/G-PLCB/G-PKC signaling pathway
+            N00491  HTLV-1 p12 to Jak-STAT signaling pathway
+            N00560  HSV gD to HVEM-NFKB signaling pathway
+            N01167  VAV vCCI to CCR signaling
+            N01168  CCL3/7 to HCMV US28 signaling
+            N01169  CCL3 to HHV6 U12 signaling
+            N01170  KSHV vCCL2 to CCR1 signaling
+            N01171  MOCV1 MC148 to CCR1 signaling
+            N01172  HHV6A vCCL4a to CCR1 signaling
+            N01174  VAV vCCI to CCR signaling
+            N01175  CCL2 to HCMV US28 signaling
+            N01176  CCL2 to HHV6 U12 signaling
+            N01177  CCL2 to HHV6 U51 signaling
+            N01178  KSHV vCCL2 to CCR2 signaling
+            N01179  MOCV1 MC148 to CCR2 signaling
+            N01180  HHV6B vCCL4b to CCR2 signaling
+            N01182  VAV vCCI to CCR signaling
+            N01183  CCL5/11/13/26/28 to HCMV US28 signaling
+            N01184  CCL5 to HHV6 U12 signaling
+            N01185  CCL5/11 to HHV6 U51 signaling
+            N01186  HSV1 SgG1 to CCR signaling
+            N01187  HSV2 SgG2 to CCR signaling
+            N01188  VAV CrmB to CCR signaling
+            N01189  KSHV vCCL2 to CCR3 signaling
+            N01191  HHV6A vCCL4a to CCR4 signaling
+            N01192  HSV2 SgG2 to CCR signaling
+            N01193  CCL17/22 to HHV7 U12 signaling
+            N01194  CCL17/22 to HHV7 U51 signaling
+            N01195  KSHV vCCL3 to CCR4 signaling
+            N01206  KSHV vCCL2 to CCR5 signaling
+            N01207  CCL4 to HHV6 U12 signaling
+            N01208  MOCV1 MC148 to CCR5 signaling
+            N01209  HHV6A vCCL4a to CCR5 signaling
+            N01210  KSHV vCCL1 to CCR5 signaling
+            N01211  HIV gp120 to CCR5 signaling
+            N01212  CCL4 to HCMV US28 signaling
+            N01214  HHV6A vCCL4a to CCR6 signaling
+            N01216  MOCV1 MC148 to CCR8 signaling
+            N01217  HHV6A vCCL4a to CCR8 signaling
+            N01218  CCL1 to KSHV vGPCR signaling
+            N01219  CCL1 to YLDV 7L signaling
+            N01220  KSHV vCCL1/2 to CCR8 signaling
+            N01222  HSV1 SgG1 to CCR signaling
+            N01223  HSV2 SgG2 to CCR signaling
+            N01224  VAV CrmB to CCR signaling
+            N01226  KSHV vCCL2 to CCR10 signaling
+            N01227  HSV1 SgG1 to CCR signaling
+            N01228  HSV2 SgG2 to CCR signaling
+            N01230  CCL19 to HHV6 U51 signaling
+            N01231  CCL19/21 to HHV7 U12 signaling
+            N01232  CCL19/21 to HHV7 U51 signaling
+            N01234  CXCL1/5/8 to KSHV vGPCR signaling
+            N01235  CXCL6 to KSHV vGPCR signaling
+            N01236  MOCV1 MC148 to CXCR1 signaling
+            N01237  HCMV vCXCL1 to CXCR1 signaling
+            N01239  CXCL2/3/7 to KSHV vGPCR signaling
+            N01240  MOCV1 MC148 to CXCR2 signaling
+            N01242  CXCL4 to KSHV vGPCR signaling
+            N01243  CXCL10 to KSHV vGPCR signaling
+            N01244  HSV1 SgG1 to CXCR signaling
+            N01245  HSV2 SgG2 to CXCR signaling
+            N01246  VAV CrmB to CXCR signaling
+            N01248  VAV CrmB to CXCR signaling
+            N01249  HSV1 SgG1 to CXCR signaling
+            N01250  HSV2 SgG2 to CXCR signaling
+            N01251  CXCL12 to KSHV vGPCR signaling
+            N01252  KSHV vCCL2 to CXCR4 signaling
+            N01253  MOCV1 MC148 to CXCR4 signaling
+            N01254  HIV gp120 to CXCR4 signaling
+            N01255  VAV CrmB to CXCR signaling
+            N01256  HSV1 SgG1 to CXCR signaling
+            N01257  HSV2 SgG2 to CXCR signaling
+            N01259  XCL1 to HHV6 U51 signaling
+            N01260  KSHV vCCL2 to XCR1 signaling
+            N01261  KSHV vCCL3 to XCR1 signaling
+            N01262  CX3CL1 to HCMV US28 signaling
+            N01263  KSHV vCCL2 to CX3CR1 signaling
+            N01264  HCMV vCXCL1 to CX3CR1 signaling
+            N01265  EBV vIL10 to IL10R signaling
+            N01267  KSHV vIL6 to IL6R signaling
+            N01270  MOCV1 MC53L/54L to IL18R signaling
+            N01272  YLDV 134R to IL20R signaling
+            N01274  YLDV 134R to IL20R/22R signaling
+            N01276  VAV CrmB to TNFR signaling
+            N01277  TPV 2L to TNFR1/2 signaling
+            N01279  HCMV UL141 to DR5 signaling
+            N01281  EBV BARF1 to CSF1R sigaling
+DRUG        D03210  Ancriviroc (USAN/INN)
+            D06297  Vicriviroc maleate (USAN)
+            D06557  Aplaviroc hydrochloride (USAN)
+            D06670  Maraviroc (JAN/INN)
+            D09878  Cenicriviroc (USAN/INN)
+            D11399  Leronlimab (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            6348  CCL3; C-C motif chemokine ligand 3 [KO:K05408]
+            6349  CCL3L1; C-C motif chemokine ligand 3 like 1 [KO:K05408]
+            414062  CCL3L3; C-C motif chemokine ligand 3 like 3 [KO:K05408]
+            6355  CCL8; C-C motif chemokine ligand 8 [KO:K16596]
+            6358  CCL14; C-C motif chemokine ligand 14 [KO:K21092]
+            6360  CCL16; C-C motif chemokine ligand 16 [KO:K21093]
+            6359  CCL15; C-C motif chemokine ligand 15 [KO:K05511]
+            6368  CCL23; C-C motif chemokine ligand 23 [KO:K05511]
+            6357  CCL13; C-C motif chemokine ligand 13 [KO:K16595]
+            6354  CCL7; C-C motif chemokine ligand 7 [KO:K05509]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            10850  CCL27; C-C motif chemokine ligand 27 [KO:K16598]
+            6356  CCL11; C-C motif chemokine ligand 11 [KO:K16597]
+            6369  CCL24; C-C motif chemokine ligand 24 [KO:K21097]
+            10344  CCL26; C-C motif chemokine ligand 26 [KO:K21096]
+            56477  CCL28; C-C motif chemokine ligand 28 [KO:K05513]
+            6361  CCL17; C-C motif chemokine ligand 17 [KO:K21083]
+            6367  CCL22; C-C motif chemokine ligand 22 [KO:K21095]
+            6351  CCL4; C-C motif chemokine ligand 4 [KO:K12964]
+            9560  CCL4L2; C-C motif chemokine ligand 4 like 2 [KO:K12964]
+            388372  CCL4L1; C-C motif chemokine ligand 4 like 1 [KO:K12964]
+            6364  CCL20; C-C motif chemokine ligand 20 [KO:K14625]
+            6346  CCL1; C-C motif chemokine ligand 1 [KO:K05514]
+            6370  CCL25; C-C motif chemokine ligand 25 [KO:K13072]
+            6362  CCL18; C-C motif chemokine ligand 18 [KO:K21094]
+            6363  CCL19; C-C motif chemokine ligand 19 [KO:K05512]
+            6366  CCL21; C-C motif chemokine ligand 21 [KO:K16062]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            6374  CXCL5; C-X-C motif chemokine ligand 5 [KO:K05506]
+            6372  CXCL6; C-X-C motif chemokine ligand 6 [KO:K05506]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            5473  PPBP; pro-platelet basic protein [KO:K10029]
+            5196  PF4; platelet factor 4 [KO:K05407]
+            5197  PF4V1; platelet factor 4 variant 1 [KO:K05407]
+            4283  CXCL9; C-X-C motif chemokine ligand 9 [KO:K05416]
+            3627  CXCL10; C-X-C motif chemokine ligand 10 [KO:K12671]
+            6373  CXCL11; C-X-C motif chemokine ligand 11 [KO:K12672]
+            10563  CXCL13; C-X-C motif chemokine ligand 13 [KO:K10032]
+            6387  CXCL12; C-X-C motif chemokine ligand 12 [KO:K10031]
+            9547  CXCL14; C-X-C motif chemokine ligand 14 [KO:K10033]
+            6375  XCL1; X-C motif chemokine ligand 1 [KO:K05507]
+            6846  XCL2; X-C motif chemokine ligand 2 [KO:K22675]
+            6376  CX3CL1; C-X3-C motif chemokine ligand 1 [KO:K05508]
+            3586  IL10; interleukin 10 [KO:K05443]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3558  IL2; interleukin 2 [KO:K05429]
+            3606  IL18; interleukin 18 [KO:K05482]
+            27178  IL37; interleukin 37 [KO:K05485]
+            29949  IL19; interleukin 19 [KO:K05444]
+            50604  IL20; interleukin 20 [KO:K22667]
+            11009  IL24; interleukin 24 [KO:K22668]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            4049  LTA; lymphotoxin alpha [KO:K05468]
+            8740  TNFSF14; TNF superfamily member 14 [KO:K05477]
+            8743  TNFSF10; TNF superfamily member 10 [KO:K04721]
+            146433  IL34; interleukin 34 [KO:K22633]
+            1435  CSF1; colony stimulating factor 1 [KO:K05453]
+            1230  CCR1; C-C motif chemokine receptor 1 [KO:K04176]
+            729230  CCR2; C-C motif chemokine receptor 2 [KO:K04177]
+            1232  CCR3; C-C motif chemokine receptor 3 [KO:K04178]
+            1233  CCR4; C-C motif chemokine receptor 4 [KO:K04179]
+            1234  CCR5; C-C motif chemokine receptor 5 [KO:K04180]
+            1235  CCR6; C-C motif chemokine receptor 6 [KO:K04181]
+            1237  CCR8; C-C motif chemokine receptor 8 [KO:K04183]
+            10803  CCR9; C-C motif chemokine receptor 9 [KO:K04184]
+            51554  ACKR4; atypical chemokine receptor 4 [KO:K04186]
+            2826  CCR10; C-C motif chemokine receptor 10 [KO:K04185]
+            1236  CCR7; C-C motif chemokine receptor 7 [KO:K04182]
+            3577  CXCR1; C-X-C motif chemokine receptor 1 [KO:K04175]
+            3579  CXCR2; C-X-C motif chemokine receptor 2 [KO:K05050]
+            2833  CXCR3; C-X-C motif chemokine receptor 3 [KO:K04188]
+            643  CXCR5; C-X-C motif chemokine receptor 5 [KO:K04190]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            57007  ACKR3; atypical chemokine receptor 3 [KO:K04304]
+            2829  XCR1; X-C motif chemokine receptor 1 [KO:K04193]
+            1524  CX3CR1; C-X3-C motif chemokine receptor 1 [KO:K04192]
+            3587  IL10RA; interleukin 10 receptor subunit alpha [KO:K05134]
+            3588  IL10RB; interleukin 10 receptor subunit beta [KO:K05135]
+            3570  IL6R; interleukin 6 receptor [KO:K05055]
+            3572  IL6ST; interleukin 6 cytokine family signal transducer [KO:K05060]
+            3559  IL2RA; interleukin 2 receptor subunit alpha [KO:K05068]
+            3560  IL2RB; interleukin 2 receptor subunit beta [KO:K05069]
+            3561  IL2RG; interleukin 2 receptor subunit gamma [KO:K05070]
+            8809  IL18R1; interleukin 18 receptor 1 [KO:K05173]
+            8807  IL18RAP; interleukin 18 receptor accessory protein [KO:K05174]
+            53832  IL20RA; interleukin 20 receptor subunit alpha [KO:K05136]
+            53833  IL20RB; interleukin 20 receptor subunit beta [KO:K05137]
+            58985  IL22RA1; interleukin 22 receptor subunit alpha 1 [KO:K05138]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            7133  TNFRSF1B; TNF receptor superfamily member 1B [KO:K05141]
+            4055  LTBR; lymphotoxin beta receptor [KO:K03159]
+            8764  TNFRSF14; TNF receptor superfamily member 14 [KO:K05152]
+            8797  TNFRSF10A; TNF receptor superfamily member 10a [KO:K04722]
+            8795  TNFRSF10B; TNF receptor superfamily member 10b [KO:K04722]
+            8794  TNFRSF10C; TNF receptor superfamily member 10c [KO:K22701]
+            8793  TNFRSF10D; TNF receptor superfamily member 10d [KO:K22702]
+            1436  CSF1R; colony stimulating factor 1 receptor [KO:K05090] [EC:2.7.10.1]
+REFERENCE   PMID:12511874
+  AUTHORS   Alcami A
+  TITLE     Viral mimicry of cytokines, chemokines and their receptors.
+  JOURNAL   Nat Rev Immunol 3:36-50 (2003)
+            DOI:10.1038/nri980
+REFERENCE   PMID:28848041
+  AUTHORS   Pontejo SM, Murphy PM
+  TITLE     Chemokines encoded by herpesviruses.
+  JOURNAL   J Leukoc Biol 102:1199-1217 (2017)
+            DOI:10.1189/jlb.4RU0417-145RR
+REFERENCE   PMID:25805993
+  AUTHORS   de Munnik SM, Smit MJ, Leurs R, Vischer HF
+  TITLE     Modulation of cellular signaling by herpesvirus-encoded G protein-coupled receptors.
+  JOURNAL   Front Pharmacol 6:40 (2015)
+            DOI:10.3389/fphar.2015.00040
+REFERENCE   PMID:24445563
+  AUTHORS   Vischer HF, Siderius M, Leurs R, Smit MJ
+  TITLE     Herpesvirus-encoded GPCRs: neglected players in inflammatory and proliferative diseases?
+  JOURNAL   Nat Rev Drug Discov 13:123-39 (2014)
+            DOI:10.1038/nrd4189
+REFERENCE   PMID:9325239
+  AUTHORS   Smith CA, Smith TD, Smolak PJ, Friend D, Hagen H, Gerhart M, Park L, Pickup DJ, Torrance D, Mohler K, Schooley K, Goodwin RG
+  TITLE     Poxvirus genomes encode a secreted, soluble protein that preferentially inhibits beta chemokine activity yet lacks sequence homology to known chemokine receptors.
+  JOURNAL   Virology 236:316-27 (1997)
+            DOI:10.1006/viro.1997.8730
+REFERENCE   PMID:9621074
+  AUTHORS   Isegawa Y, Ping Z, Nakano K, Sugimoto N, Yamanishi K
+  TITLE     Human herpesvirus 6 open reading frame U12 encodes a functional beta-chemokine receptor.
+  JOURNAL   J Virol 72:6104-12 (1998)
+            DOI:10.1128/JVI.72.7.6104-6112.1998
+REFERENCE   PMID:9600978
+  AUTHORS   Damon I, Murphy PM, Moss B
+  TITLE     Broad spectrum chemokine antagonistic activity of a human poxvirus chemokine homolog.
+  JOURNAL   Proc Natl Acad Sci U S A 95:6403-7 (1998)
+            DOI:10.1073/pnas.95.11.6403
+REFERENCE   PMID:16365449
+  AUTHORS   Dewin DR, Catusse J, Gompels UA
+  TITLE     Identification and characterization of U83A viral chemokine, a broad and potent beta-chemokine agonist for human CCRs with unique selectivity and inhibition by spliced isoform.
+  JOURNAL   J Immunol 176:544-56 (2006)
+            DOI:10.4049/jimmunol.176.1.544
+REFERENCE   PMID:16332987
+  AUTHORS   Fitzsimons CP, Gompels UA, Verzijl D, Vischer HF, Mattick C, Leurs R, Smit MJ
+  TITLE     Chemokine-directed trafficking of receptor stimulus to different g proteins: selective inducible and constitutive signaling by human herpesvirus 6-encoded chemokine receptor U51.
+  JOURNAL   Mol Pharmacol 69:888-98 (2006)
+            DOI:10.1124/mol.105.015222
+REFERENCE   PMID:15536129
+  AUTHORS   Wang D, Bresnahan W, Shenk T
+  TITLE     Human cytomegalovirus encodes a highly specific RANTES decoy receptor.
+  JOURNAL   Proc Natl Acad Sci U S A 101:16642-7 (2004)
+            DOI:10.1073/pnas.0407233101
+REFERENCE   PMID:22319442
+  AUTHORS   Viejo-Borbolla A, Martinez-Martin N, Nel HJ, Rueda P, Martin R, Blanco S, Arenzana-Seisdedos F, Thelen M, Fallon PG, Alcami A
+  TITLE     Enhancement of chemokine function as an immunomodulatory strategy employed by human herpesviruses.
+  JOURNAL   PLoS Pathog 8:e1002497 (2012)
+            DOI:10.1371/journal.ppat.1002497
+REFERENCE   PMID:16581912
+  AUTHORS   Alejo A, Ruiz-Arguello MB, Ho Y, Smith VP, Saraiva M, Alcami A
+  TITLE     A chemokine-binding domain in the tumor necrosis factor receptor from variola (smallpox) virus.
+  JOURNAL   Proc Natl Acad Sci U S A 103:5995-6000 (2006)
+            DOI:10.1073/pnas.0510462103
+REFERENCE   PMID:15890946
+  AUTHORS   Tadagaki K, Nakano K, Yamanishi K
+  TITLE     Human herpesvirus 7 open reading frames U12 and U51 encode functional beta-chemokine receptors.
+  JOURNAL   J Virol 79:7068-76 (2005)
+            DOI:10.1128/JVI.79.11.7068-7076.2005
+REFERENCE   PMID:12960231
+  AUTHORS   Lee C, Liu QH, Tomkowicz B, Yi Y, Freedman BD, Collman RG
+  TITLE     Macrophage activation through CCR5- and CXCR4-mediated gp120-elicited signaling pathways.
+  JOURNAL   J Leukoc Biol 74:676-82 (2003)
+            DOI:10.1189/jlb.0503206
+REFERENCE   PMID:14645913
+  AUTHORS   Najarro P, Lee HJ, Fox J, Pease J, Smith GL
+  TITLE     Yaba-like disease virus protein 7L is a cell-surface receptor for chemokine CCL1.
+  JOURNAL   J Gen Virol 84:3325-36 (2003)
+            DOI:10.1099/vir.0.19591-0
+REFERENCE   PMID:16528029
+  AUTHORS   Najarro P, Gubser C, Hollinshead M, Fox J, Pease J, Smith GL
+  TITLE     Yaba-like disease virus chemokine receptor 7L, a CCR8 orthologue.
+  JOURNAL   J Gen Virol 87:809-16 (2006)
+            DOI:10.1099/vir.0.81427-0
+REFERENCE   PMID:18286574
+  AUTHORS   Catusse J, Spinks J, Mattick C, Dyer A, Laing K, Fitzsimons C, Smit MJ, Gompels UA
+  TITLE     Immunomodulation by herpesvirus U51A chemokine receptor via CCL5 and FOG-2 down-regulation plus XCR1 and CCR7 mimicry in human leukocytes.
+  JOURNAL   Eur J Immunol 38:763-77 (2008)
+            DOI:10.1002/eji.200737618
+REFERENCE   PMID:8992974
+  AUTHORS   Liu Y, de Waal Malefyt R, Briere F, Parham C, Bridon JM, Banchereau J, Moore KW, Xu J
+  TITLE     The EBV IL-10 homologue is a selective agonist with impaired binding to the IL-10 receptor.
+  JOURNAL   J Immunol 158:604-13 (1997)
+REFERENCE   PMID:15837194
+  AUTHORS   Yoon SI, Jones BC, Logsdon NJ, Walter MR
+  TITLE     Same structure, different function crystal structure of the Epstein-Barr virus IL-10 bound to the soluble IL-10R1 chain.
+  JOURNAL   Structure 13:551-64 (2005)
+            DOI:10.1016/j.str.2005.01.016
+REFERENCE   PMID:10677520
+  AUTHORS   Kotenko SV, Saccani S, Izotova LS, Mirochnitchenko OV, Pestka S
+  TITLE     Human cytomegalovirus harbors its own unique IL-10 homolog (cmvIL-10).
+  JOURNAL   Proc Natl Acad Sci U S A 97:1695-700 (2000)
+            DOI:10.1073/pnas.97.4.1695
+REFERENCE   PMID:15280480
+  AUTHORS   Chang WL, Baumgarth N, Yu D, Barry PA
+  TITLE     Human cytomegalovirus-encoded interleukin-10 homolog inhibits maturation of dendritic cells and alters their functionality.
+  JOURNAL   J Virol 78:8720-31 (2004)
+            DOI:10.1128/JVI.78.16.8720-8731.2004
+REFERENCE   PMID:11238858
+  AUTHORS   Li H, Wang H, Nicholas J
+  TITLE     Detection of direct binding of human herpesvirus 8-encoded interleukin-6 (vIL-6) to both gp130 and IL-6 receptor (IL-6R) and identification of amino acid residues of vIL-6 important for IL-6R-dependent and -independent signaling.
+  JOURNAL   J Virol 75:3325-34 (2001)
+            DOI:10.1128/JVI.75.7.3325-3334.2001
+REFERENCE   PMID:11468184
+  AUTHORS   Nicot C, Mulloy JC, Ferrari MG, Johnson JM, Fu K, Fukumoto R, Trovato R, Fullen J, Leonard WJ, Franchini G
+  TITLE     HTLV-1 p12(I) protein enhances STAT5 activation and decreases the interleukin-2 requirement for proliferation of primary human peripheral blood mononuclear cells.
+  JOURNAL   Blood 98:823-9 (2001)
+            DOI:10.1182/blood.v98.3.823
+REFERENCE   PMID:10500212
+  AUTHORS   Xiang Y, Moss B
+  TITLE     IL-18 binding and inhibition of interferon gamma induction by human poxvirus-encoded proteins.
+  JOURNAL   Proc Natl Acad Sci U S A 96:11537-42 (1999)
+            DOI:10.1073/pnas.96.20.11537
+REFERENCE   PMID:15166422
+  AUTHORS   Bartlett NW, Dumoutier L, Renauld JC, Kotenko SV, McVey CE, Lee HJ, Smith GL
+  TITLE     A new member of the interleukin 10-related cytokine family encoded by a poxvirus.
+  JOURNAL   J Gen Virol 85:1401-12 (2004)
+            DOI:10.1099/vir.0.79980-0
+REFERENCE   PMID:9557689
+  AUTHORS   Strockbine LD, Cohen JI, Farrah T, Lyman SD, Wagener F, DuBose RF, Armitage RJ, Spriggs MK
+  TITLE     The Epstein-Barr virus BARF1 gene encodes a novel, soluble colony-stimulating factor-1 receptor.
+  JOURNAL   J Virol 72:4015-21 (1998)
+            DOI:10.1128/JVI.72.5.4015-4021.1998
+REFERENCE   PMID:17229074
+  AUTHORS   Snow AL, Martinez OM
+  TITLE     Epstein-Barr virus: evasive maneuvers in the development of PTLD.
+  JOURNAL   Am J Transplant 7:271-7 (2007)
+            DOI:10.1111/j.1600-6143.2006.01650.x
+REFERENCE   PMID:22826234
+  AUTHORS   Shim AH, Chang RA, Chen X, Longnecker R, He X
+  TITLE     Multipronged attenuation of macrophage-colony stimulating factor signaling by Epstein-Barr virus BARF1.
+  JOURNAL   Proc Natl Acad Sci U S A 109:12962-7 (2012)
+            DOI:10.1073/pnas.1205309109
+REFERENCE   PMID:11934887
+  AUTHORS   Filippova M, Song H, Connolly JL, Dermody TS, Duerksen-Hughes PJ
+  TITLE     The human papillomavirus 16 E6 protein binds to tumor necrosis factor (TNF) R1 and protects cells from TNF-induced apoptosis.
+  JOURNAL   J Biol Chem 277:21730-9 (2002)
+            DOI:10.1074/jbc.M200113200
+REFERENCE   PMID:12676996
+  AUTHORS   Brunetti CR, Paulose-Murphy M, Singh R, Qin J, Barrett JW, Tardivel A, Schneider P, Essani K, McFadden G
+  TITLE     A secreted high-affinity inhibitor of human TNF from Tanapox virus.
+  JOURNAL   Proc Natl Acad Sci U S A 100:4831-6 (2003)
+            DOI:10.1073/pnas.0737244100
+REFERENCE   PMID:18723002
+  AUTHORS   Sciortino MT, Medici MA, Marino-Merlo F, Zaccaria D, Giuffre-Cuculletto M, Venuti A, Grelli S, Bramanti P, Mastino A
+  TITLE     Involvement of gD/HVEM interaction in NF-kB-dependent inhibition of apoptosis by HSV-1 gD.
+  JOURNAL   Biochem Pharmacol 76:1522-32 (2008)
+            DOI:10.1016/j.bcp.2008.07.030
+REFERENCE   PMID:23498957
+  AUTHORS   Smith W, Tomasec P, Aicheler R, Loewendorf A, Nemcovicova I, Wang EC, Stanton RJ, Macauley M, Norris P, Willen L, Ruckova E, Nomoto A, Schneider P, Hahn G, Zajonc DM, Ware CF, Wilkinson GW, Benedict CA
+  TITLE     Human cytomegalovirus glycoprotein UL141 targets the TRAIL death receptors to thwart host innate antiviral defenses.
+  JOURNAL   Cell Host Microbe 13:324-35 (2013)
+            DOI:10.1016/j.chom.2013.02.003
+KO_PATHWAY  ko04061
+///

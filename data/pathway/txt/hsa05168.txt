@@ -1,0 +1,711 @@
+ENTRY       hsa05168                    Pathway
+NAME        Herpes simplex virus 1 infection - Homo sapiens (human)
+DESCRIPTION Herpes simplex virus 1(HSV-1) is a common human pathogen, which initially infects orofacial mucosal surfaces. The virus replicates in epithelial cells at these sites, causing clinically overt disease characterized by vesicular lesions. HSV-1 then penetrates to the nervous system and establishes latency in sensory neurons. Throughout the lifetime of the host, HSV-1 may reactivate from its latent state and reinitiate a lytic infection cycle. HSV-1 has developed various mechanisms to escape its host innate immune responses and increased its capacity to replicate and to persist. ICP34.5, ICP0, ICP27, Us11 and Vhs (UL41) are the proteins involved in viral interference.
+CLASS       Human Diseases; Infectious disease: viral
+PATHWAY_MAP hsa05168  Herpes simplex virus 1 infection
+NETWORK     nt06114  PI3K signaling (viruses)
+            nt06122  IFN signaling (viruses)
+            nt06129  MHC presentation (viruses)
+            nt06131  Apoptosis (viruses and bacteria)
+            nt06137  OAS/RNase L pathway (viruses)
+            nt06138  PKR-eIF2alpha signaling (viruses)
+            nt06140  Transcription (viruses)
+            nt06150  Cytokine-cytokine receptor interaction (viruses)
+            nt06168  Herpes simplex virus 1 (HSV-1)
+            nt06513  Complement cascade
+            nt06516  TNF signaling
+            nt06517  TLR signaling
+            nt06519  RLR signaling
+            nt06520  CGAS-STING signaling
+  ELEMENT   N00560  HSV gD to HVEM-NFKB signaling pathway
+            N00561  HSV ICP0 to TLR2/4-NFKB signaling pathway
+            N00562  HSV US3 to TLR2/4-NFKB signaling pathway
+            N00564  HSV US3 to TLR3-NFKB signaling pathway
+            N00565  HSV US11 to RIG-I-like receptor signaling pathway
+            N00566  HSV UL36USP to RIG-I-like receptor signaling pathway
+            N00567  HSV ICP34.5 to TBK1 signaling pathway
+            N00568  HSV US3 to IRF3 signaling pathway
+            N00569  HSV UL41 to cGAS-STING signaling pathway
+            N00570  HSV ICP0 to cGAS-STING signaling pathway
+            N00572  HSV ICP34.5 to PKR-eIF2alpha signaling pathway
+            N00573  HSV US11 to PKR-eIF2alpha signaling pathway
+            N00574  HSV US11 to oligoadenylate synthetase (OAS)/RNase L pathway
+            N00575  HSV ICP27 to IFN signaling pathway
+            N00576  HSV UL41/UL13 to IFN signaling pathway
+            N00577  HSV UL41 to IFN signaling pathway
+            N00578  HSV UL41 to IFN signaling pathway
+            N00579  HSV ICP6 to extrinsic apoptotic pathway
+            N00580  HSV ICP0 to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00581  HSV ICP47 to antigen processing and presentation by MHC class I molecules
+            N00583  HSV VP11/12 to PI3K signaling pathway
+            N00584  HSV US3 to MTOR signaling pathway
+            N00585  HSV US3 to intrinsic apoptotic pathway
+            N00587  HSV ICP27 to Nuclear export of mRNA
+            N00588  HSV VP16 to Oct-1-mediated transcription
+            N00589  HSV gC to alternative pathway of complement cascade
+            N00591  HSV gB to antigen processing and presentation by MHC class II molecules
+            N00592  HSV ICP0 to p53-mediated transcription
+DISEASE     H00365  Herpes simplex virus infection
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        4049  LTA; lymphotoxin alpha [KO:K05468]
+            8740  TNFSF14; TNF superfamily member 14 [KO:K05477]
+            8764  TNFRSF14; TNF receptor superfamily member 14 [KO:K05152]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            7188  TRAF5; TNF receptor associated factor 5 [KO:K09849]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            329  BIRC2; baculoviral IAP repeat containing 2 [KO:K16060]
+            330  BIRC3; baculoviral IAP repeat containing 3 [KO:K16060]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            5818  NECTIN1; nectin cell adhesion molecule 1 [KO:K06081]
+            5819  NECTIN2; nectin cell adhesion molecule 2 [KO:K06531]
+            29992  PILRA; paired immunoglobin like type 2 receptor alpha [KO:K15411]
+            29990  PILRB; paired immunoglobin like type 2 receptor beta [KO:K15411]
+            5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            64170  CARD9; caspase recruitment domain family member 9 [KO:K12794]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            718  C3; complement C3 [KO:K03990]
+            727  C5; complement C5 [KO:K03994]
+            5199  CFP; complement factor properdin [KO:K15412]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            54106  TLR9; toll like receptor 9 [KO:K10161]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            3665  IRF7; interferon regulatory factor 7 [KO:K09447]
+            7098  TLR3; toll like receptor 3 [KO:K05401]
+            148022  TICAM1; TIR domain containing adaptor molecule 1 [KO:K05842]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            10454  TAB1; TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [KO:K04403]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            3569  IL6; interleukin 6 [KO:K05405]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            23586  RIGI; RNA sensor RIG-I [KO:K12646] [EC:3.6.4.13]
+            64135  IFIH1; interferon induced with helicase C domain 1 [KO:K12647] [EC:3.6.4.13]
+            57506  MAVS; mitochondrial antiviral signaling protein [KO:K12648]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            115004  CGAS; cyclic GMP-AMP synthase [KO:K17834] [EC:2.7.7.86]
+            340061  STING1; stimulator of interferon response cGAMP interactor 1 [KO:K12654]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            27102  EIF2AK1; eukaryotic translation initiation factor 2 alpha kinase 1 [KO:K16194] [EC:2.7.11.1]
+            5610  EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2 [KO:K16195] [EC:2.7.11.1]
+            9451  EIF2AK3; eukaryotic translation initiation factor 2 alpha kinase 3 [KO:K08860] [EC:2.7.11.1]
+            440275  EIF2AK4; eukaryotic translation initiation factor 2 alpha kinase 4 [KO:K16196] [EC:2.7.11.1]
+            1965  EIF2S1; eukaryotic translation initiation factor 2 subunit alpha [KO:K03237]
+            1967  EIF2B1; eukaryotic translation initiation factor 2B subunit alpha [KO:K03239]
+            8892  EIF2B2; eukaryotic translation initiation factor 2B subunit beta [KO:K03754]
+            8891  EIF2B3; eukaryotic translation initiation factor 2B subunit gamma [KO:K03241]
+            8890  EIF2B4; eukaryotic translation initiation factor 2B subunit delta [KO:K03680]
+            8893  EIF2B5; eukaryotic translation initiation factor 2B subunit epsilon [KO:K03240]
+            4938  OAS1; 2'-5'-oligoadenylate synthetase 1 [KO:K14216] [EC:2.7.7.84]
+            4939  OAS2; 2'-5'-oligoadenylate synthetase 2 [KO:K14216] [EC:2.7.7.84]
+            4940  OAS3; 2'-5'-oligoadenylate synthetase 3 [KO:K14216] [EC:2.7.7.84]
+            6041  RNASEL; ribonuclease L [KO:K01165]
+            29915  HCFC2; host cell factor C2 [KO:K14966]
+            3054  HCFC1; host cell factor C1 [KO:K14966]
+            5451  POU2F1; POU class 2 homeobox 1 [KO:K09364]
+            5452  POU2F2; POU class 2 homeobox 2 [KO:K09364]
+            25833  POU2F3; POU class 2 homeobox 3 [KO:K09364]
+            3454  IFNAR1; interferon alpha and beta receptor subunit 1 [KO:K05130]
+            3455  IFNAR2; interferon alpha and beta receptor subunit 2 [KO:K05131]
+            9021  SOCS3; suppressor of cytokine signaling 3 [KO:K04696]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            7297  TYK2; tyrosine kinase 2 [KO:K11219] [EC:2.7.10.2]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6773  STAT2; signal transducer and activator of transcription 2 [KO:K11221]
+            10379  IRF9; interferon regulatory factor 9 [KO:K04693]
+            147949  ZNF583; zinc finger protein 583 [KO:K09228]
+            148156  ZNF558; zinc finger protein 558 [KO:K09228]
+            148198  ZNF98; zinc finger protein 98 [KO:K09228]
+            148254  ZNF555; zinc finger protein 555 [KO:K09228]
+            148266  ZNF569; zinc finger protein 569 [KO:K09228]
+            148268  ZNF570; zinc finger protein 570 [KO:K09228]
+            152687  ZNF595; zinc finger protein 595 [KO:K09228]
+            155054  ZNF425; zinc finger protein 425 [KO:K09228]
+            155061  ZNF746; zinc finger protein 746 [KO:K09228]
+            158431  ZNF782; zinc finger protein 782 [KO:K09228]
+            162655  ZNF519; zinc finger protein 519 [KO:K09228]
+            162962  ZNF836; zinc finger protein 836 [KO:K09228]
+            162963  ZNF610; zinc finger protein 610 [KO:K09228]
+            162967  ZNF320; zinc finger protein 320 [KO:K09228]
+            162972  ZNF550; zinc finger protein 550 [KO:K09228]
+            162993  ZNF846; zinc finger protein 846 [KO:K09228]
+            163049  ZNF791; zinc finger protein 791 [KO:K09228]
+            163050  ZNF564; zinc finger protein 564 [KO:K09228]
+            163051  ZNF709; zinc finger protein 709 [KO:K09228]
+            163059  ZNF433; zinc finger protein 433 [KO:K09228]
+            163087  ZNF383; zinc finger protein 383 [KO:K09228]
+            163131  ZNF780B; zinc finger protein 780B [KO:K09228]
+            163227  ZNF100; zinc finger protein 100 [KO:K09228]
+            163255  ZNF540; zinc finger protein 540 [KO:K09228]
+            169270  ZNF596; zinc finger protein 596 [KO:K09228]
+            169841  ZNF169; zinc finger protein 169 [KO:K09228]
+            170959  ZNF431; zinc finger protein 431 [KO:K09228]
+            171392  ZNF675; zinc finger protein 675 [KO:K09228]
+            199692  ZNF627; zinc finger protein 627 [KO:K09228]
+            201514  ZNF584; zinc finger protein 584 [KO:K09228]
+            219749  ZNF25; zinc finger protein 25 [KO:K09228]
+            22835  ZFP30; ZFP30 zinc finger protein [KO:K09228]
+            22869  ZNF510; zinc finger protein 510 [KO:K09228]
+            253639  ZNF620; zinc finger protein 620 [KO:K09228]
+            255403  ZNF718; zinc finger protein 718 [KO:K09228]
+            256051  ZNF549; zinc finger protein 549 [KO:K09228]
+            25799  ZNF324; zinc finger protein 324 [KO:K09228]
+            25888  ZNF473; zinc finger protein 473 [KO:K09228]
+            26149  ZNF658; zinc finger protein 658 [KO:K09228]
+            26152  ZNF337; zinc finger protein 337 [KO:K09228]
+            26974  ZNF285; zinc finger protein 285 [KO:K09228]
+            27153  ZNF777; zinc finger protein 777 [KO:K09228]
+            27300  ZNF544; zinc finger protein 544 [KO:K09228]
+            282890  ZNF311; zinc finger protein 311 [KO:K09228]
+            284306  ZNF547; zinc finger protein 547 [KO:K09228]
+            284307  ZIK1; zinc finger protein interacting with K protein 1 [KO:K09228]
+            284370  ZNF615; zinc finger protein 615 [KO:K09228]
+            284390  ZNF763; zinc finger protein 763 [KO:K09228]
+            284406  ZFP82; ZFP82 zinc finger protein [KO:K09228]
+            284459  ZNF875; zinc finger protein 875 [KO:K09228]
+            10172  ZNF256; zinc finger protein 256 [KO:K09228]
+            10224  ZNF443; zinc finger protein 443 [KO:K09228]
+            10308  ZNF267; zinc finger protein 267 [KO:K09228]
+            10520  ZNF211; zinc finger protein 211 [KO:K09228]
+            10780  ZNF234; zinc finger protein 234 [KO:K09228]
+            10793  ZNF273; zinc finger protein 273 [KO:K09228]
+            10794  ZNF460; zinc finger protein 460 [KO:K09228]
+            10795  ZNF268; zinc finger protein 268 [KO:K09228]
+            10838  ZNF275; zinc finger protein 275 [KO:K09228]
+            113835  ZNF257; zinc finger protein 257 [KO:K09228]
+            114026  ZIM3; zinc finger imprinted 3 [KO:K09228]
+            115196  ZNF554; zinc finger protein 554 [KO:K09228]
+            115509  ZNF689; zinc finger protein 689 [KO:K09228]
+            117608  ZNF354B; zinc finger protein 354B [KO:K09228]
+            121274  ZNF641; zinc finger protein 641 [KO:K09228]
+            125893  ZNF816; zinc finger protein 816 [KO:K09228]
+            125919  ZNF543; zinc finger protein 543 [KO:K09228]
+            126017  ZNF813; zinc finger protein 813 [KO:K09228]
+            7559  ZNF12; zinc finger protein 12 [KO:K09228]
+            7561  ZNF14; zinc finger protein 14 [KO:K09228]
+            7562  ZNF708; zinc finger protein 708 [KO:K09228]
+            7565  ZNF17; zinc finger protein 17 [KO:K09228]
+            7567  ZNF19; zinc finger protein 19 [KO:K09228]
+            7568  ZNF20; zinc finger protein 20 [KO:K09228]
+            7569  ZNF182; zinc finger protein 182 [KO:K09228]
+            7574  ZNF26; zinc finger protein 26 [KO:K09228]
+            7581  ZNF33A; zinc finger protein 33A [KO:K09228]
+            7582  ZNF33B; zinc finger protein 33B [KO:K09228]
+            7587  ZNF37A; zinc finger protein 37A [KO:K09228]
+            7592  ZNF41; zinc finger protein 41 [KO:K09228]
+            7594  ZNF43; zinc finger protein 43 [KO:K09228]
+            7596  ZNF45; zinc finger protein 45 [KO:K09228]
+            7633  ZNF79; zinc finger protein 79 [KO:K09228]
+            7637  ZNF84; zinc finger protein 84 [KO:K09228]
+            7638  ZNF221; zinc finger protein 221 [KO:K09228]
+            7639  ZNF85; zinc finger protein 85 [KO:K09228]
+            7644  ZNF91; zinc finger protein 91 [KO:K09228]
+            7652  ZNF99; zinc finger protein 99 [KO:K09228]
+            7673  ZNF222; zinc finger protein 222 [KO:K09228]
+            7678  ZNF124; zinc finger protein 124 [KO:K09228]
+            7691  ZNF132; zinc finger protein 132 [KO:K09228]
+            7692  ZNF133; zinc finger protein 133 [KO:K09228]
+            7694  ZNF135; zinc finger protein 135 [KO:K09228]
+            7695  ZNF136; zinc finger protein 136 [KO:K09228]
+            7699  ZNF140; zinc finger protein 140 [KO:K09228]
+            7700  ZNF141; zinc finger protein 141 [KO:K09228]
+            7710  ZNF154; zinc finger protein 154 [KO:K09228]
+            7711  ZNF155; zinc finger protein 155 [KO:K09228]
+            7712  ZNF157; zinc finger protein 157 [KO:K09228]
+            7728  ZNF175; zinc finger protein 175 [KO:K09228]
+            7730  ZNF177; zinc finger protein 177 [KO:K09228]
+            7733  ZNF180; zinc finger protein 180 [KO:K09228]
+            7738  ZNF184; zinc finger protein 184 [KO:K09228]
+            7743  ZNF189; zinc finger protein 189 [KO:K09228]
+            7748  ZNF195; zinc finger protein 195 [KO:K09228]
+            7755  ZNF205; zinc finger protein 205 [KO:K09228]
+            7757  ZNF208; zinc finger protein 208 [KO:K09228]
+            7761  ZNF214; zinc finger protein 214 [KO:K09228]
+            7766  ZNF223; zinc finger protein 223 [KO:K09228]
+            7767  ZNF224; zinc finger protein 224 [KO:K09228]
+            7768  ZNF225; zinc finger protein 225 [KO:K09228]
+            7769  ZNF226; zinc finger protein 226 [KO:K09228]
+            7770  ZNF227; zinc finger protein 227 [KO:K09228]
+            7771  ZNF112; zinc finger protein 112 [KO:K09228]
+            7772  ZNF229; zinc finger protein 229 [KO:K09228]
+            7773  ZNF230; zinc finger protein 230 [KO:K09228]
+            79088  ZNF426; zinc finger protein 426 [KO:K09228]
+            79175  ZNF343; zinc finger protein 343 [KO:K09228]
+            79230  ZNF557; zinc finger protein 557 [KO:K09228]
+            79744  ZNF419; zinc finger protein 419 [KO:K09228]
+            79788  ZNF665; zinc finger protein 665 [KO:K09228]
+            79818  ZNF552; zinc finger protein 552 [KO:K09228]
+            79862  ZNF669; zinc finger protein 669 [KO:K09228]
+            7988  ZNF212; zinc finger protein 212 [KO:K09228]
+            79891  ZNF671; zinc finger protein 671 [KO:K09228]
+            79898  ZNF613; zinc finger protein 613 [KO:K09228]
+            79973  ZNF442; zinc finger protein 442 [KO:K09228]
+            80032  ZNF556; zinc finger protein 556 [KO:K09228]
+            80095  ZNF606; zinc finger protein 606 [KO:K09228]
+            80110  ZNF614; zinc finger protein 614 [KO:K09228]
+            80264  ZNF430; zinc finger protein 430 [KO:K09228]
+            80778  ZNF34; zinc finger protein 34 [KO:K09228]
+            80818  ZNF436; zinc finger protein 436 [KO:K09228]
+            81856  ZNF611; zinc finger protein 611 [KO:K09228]
+            81931  ZNF93; zinc finger protein 93 [KO:K09228]
+            8427  ZNF282; zinc finger protein 282 [KO:K09228]
+            84436  ZNF528; zinc finger protein 528 [KO:K09228]
+            84449  ZNF333; zinc finger protein 333 [KO:K09228]
+            84503  ZNF527; zinc finger protein 527 [KO:K09228]
+            84527  ZNF559; zinc finger protein 559 [KO:K09228]
+            84671  ZNF347; zinc finger protein 347 [KO:K09228]
+            84765  ZNF577; zinc finger protein 577 [KO:K09228]
+            84775  ZNF607; zinc finger protein 607 [KO:K09228]
+            84874  ZNF514; zinc finger protein 514 [KO:K09228]
+            84911  ZNF382; zinc finger protein 382 [KO:K09228]
+            84914  ZNF587; zinc finger protein 587 [KO:K09228]
+            84924  ZNF566; zinc finger protein 566 [KO:K09228]
+            90233  ZNF551; zinc finger protein 551 [KO:K09228]
+            90317  ZNF616; zinc finger protein 616 [KO:K09228]
+            90321  ZNF766; zinc finger protein 766 [KO:K09228]
+            90333  ZNF468; zinc finger protein 468 [KO:K09228]
+            90338  ZNF160; zinc finger protein 160 [KO:K09228]
+            90576  ZNF799; zinc finger protein 799 [KO:K09228]
+            90592  ZNF700; zinc finger protein 700 [KO:K09228]
+            90594  ZNF439; zinc finger protein 439 [KO:K09228]
+            90649  ZNF486; zinc finger protein 486 [KO:K09228]
+            90827  ZNF479; zinc finger protein 479 [KO:K09228]
+            91120  ZNF682; zinc finger protein 682 [KO:K09228]
+            91661  ZNF765; zinc finger protein 765 [KO:K09228]
+            91975  ZNF300; zinc finger protein 300 [KO:K09228]
+            92283  ZNF461; zinc finger protein 461 [KO:K09228]
+            92285  ZNF585B; zinc finger protein 585B [KO:K09228]
+            92595  ZNF764; zinc finger protein 764 [KO:K09228]
+            9310  ZNF235; zinc finger protein 235 [KO:K09228]
+            93474  ZNF670; zinc finger protein 670 [KO:K09228]
+            94039  ZNF101; zinc finger protein 101 [KO:K09228]
+            9534  ZNF254; zinc finger protein 254 [KO:K09228]
+            9668  ZNF432; zinc finger protein 432 [KO:K09228]
+            163071  ZNF114; zinc finger protein 114 [KO:K09228]
+            126070  ZNF440; zinc finger protein 440 [KO:K09228]
+            126295  ZNF57; zinc finger protein 57 [KO:K09228]
+            127396  ZNF684; zinc finger protein 684 [KO:K09228]
+            136051  ZNF786; zinc finger protein 786 [KO:K09228]
+            139735  ZFP92; ZFP92 zinc finger protein [KO:K09228]
+            140612  ZFP28; ZFP28 zinc finger protein [KO:K09228]
+            146198  ZFP90; ZFP90 zinc finger protein [KO:K09228]
+            146434  ZNF597; zinc finger protein 597 [KO:K09228]
+            146540  ZNF785; zinc finger protein 785 [KO:K09228]
+            147657  ZNF480; zinc finger protein 480 [KO:K09228]
+            147658  ZNF534; zinc finger protein 534 [KO:K09228]
+            147686  ZNF418; zinc finger protein 418 [KO:K09228]
+            147687  ZNF417; zinc finger protein 417 [KO:K09228]
+            147694  ZNF548; zinc finger protein 548 [KO:K09228]
+            147741  ZNF560; zinc finger protein 560 [KO:K09228]
+            147837  ZNF563; zinc finger protein 563 [KO:K09228]
+            147923  ZNF420; zinc finger protein 420 [KO:K09228]
+            147929  ZNF565; zinc finger protein 565 [KO:K09228]
+            147948  ZNF582; zinc finger protein 582 [KO:K09228]
+            285268  ZNF621; zinc finger protein 621 [KO:K09228]
+            285676  ZNF454; zinc finger protein 454 [KO:K09228]
+            286075  ZNF707; zinc finger protein 707 [KO:K09228]
+            30832  ZNF354C; zinc finger protein 354C [KO:K09228]
+            339327  ZNF546; zinc finger protein 546 [KO:K09228]
+            339559  ZFP69; ZFP69 zinc finger protein [KO:K09228]
+            340252  ZNF680; zinc finger protein 680 [KO:K09228]
+            340385  ZNF517; zinc finger protein 517 [KO:K09228]
+            342908  ZNF404; zinc finger protein 404 [KO:K09228]
+            342909  ZNF284; zinc finger protein 284 [KO:K09228]
+            342926  ZNF677; zinc finger protein 677 [KO:K09228]
+            344787  ZNF860; zinc finger protein 860 [KO:K09228]
+            346171  ZFP57; ZFP57 zinc finger protein [KO:K09228]
+            348327  ZNF530; zinc finger protein 530 [KO:K09228]
+            349075  ZNF713; zinc finger protein 713 [KO:K09228]
+            353088  ZNF429; zinc finger protein 429 [KO:K09228]
+            353355  ZNF233; zinc finger protein 233 [KO:K09228]
+            374879  ZNF699; zinc finger protein 699 [KO:K09228]
+            374900  ZNF568; zinc finger protein 568 [KO:K09228]
+            374928  ZNF773; zinc finger protein 773 [KO:K09228]
+            388536  ZNF790; zinc finger protein 790 [KO:K09228]
+            388566  ZNF470; zinc finger protein 470 [KO:K09228]
+            388569  ZNF324B; zinc finger protein 324B [KO:K09228]
+            390927  ZNF793; zinc finger protein 793 [KO:K09228]
+            400720  ZNF772; zinc finger protein 772 [KO:K09228]
+            440077  ZNF705A; zinc finger protein 705A [KO:K09228]
+            440515  ZNF506; zinc finger protein 506 [KO:K09228]
+            441234  ZNF716; zinc finger protein 716 [KO:K09228]
+            51276  ZNF571; zinc finger protein 571 [KO:K09228]
+            51385  ZNF589; zinc finger protein 589 [KO:K09228]
+            51710  ZNF44; zinc finger protein 44 [KO:K09228]
+            54753  ZNF853; zinc finger protein 853 [KO:K09228]
+            54925  ZSCAN32; zinc finger and SCAN domain containing 32 [KO:K09228]
+            55422  ZNF331; zinc finger protein 331 [KO:K09228]
+            55552  ZNF823; zinc finger protein 823 [KO:K09228]
+            55659  ZNF416; zinc finger protein 416 [KO:K09228]
+            55713  ZNF334; zinc finger protein 334 [KO:K09228]
+            55762  ZNF701; zinc finger protein 701 [KO:K09228]
+            55786  ZNF415; zinc finger protein 415 [KO:K09228]
+            55900  ZNF302; zinc finger protein 302 [KO:K09228]
+            56242  ZNF253; zinc finger protein 253 [KO:K09228]
+            57209  ZNF248; zinc finger protein 248 [KO:K09228]
+            57335  ZNF286A; zinc finger protein 286A [KO:K09228]
+            57343  ZNF304; zinc finger protein 304 [KO:K09228]
+            57474  ZNF490; zinc finger protein 490 [KO:K09228]
+            57547  ZNF624; zinc finger protein 624 [KO:K09228]
+            57573  ZNF471; zinc finger protein 471 [KO:K09228]
+            57615  ZNF492; zinc finger protein 492 [KO:K09228]
+            57677  ZFP14; ZFP14 zinc finger protein [KO:K09228]
+            57693  ZNF317; zinc finger protein 317 [KO:K09228]
+            57786  RBAK; RB associated KRAB zinc finger [KO:K09228]
+            58492  ZNF77; zinc finger protein 77 [KO:K09228]
+            58500  ZNF250; zinc finger protein 250 [KO:K09228]
+            59348  ZNF350; zinc finger protein 350 [KO:K09228]
+            63934  ZNF667; zinc finger protein 667 [KO:K09228]
+            641339  ZNF674; zinc finger protein 674 [KO:K09228]
+            65251  ZNF649; zinc finger protein 649 [KO:K09228]
+            6940  ZNF354A; zinc finger protein 354A [KO:K09228]
+            728927  ZNF736; zinc finger protein 736 [KO:K09228]
+            728957  ZNF705D; zinc finger protein 705D [KO:K09228]
+            729747  ZNF878; zinc finger protein 878 [KO:K09228]
+            7539  ZFP37; ZFP37 zinc finger protein [KO:K09228]
+            7551  ZNF3; zinc finger protein 3 [KO:K09228]
+            7553  ZNF7; zinc finger protein 7 [KO:K09228]
+            7554  ZNF8; zinc finger protein 8 [KO:K09228]
+            7556  ZNF10; zinc finger protein 10 [KO:K09228]
+            83744  ZNF484; zinc finger protein 484 [KO:K09228]
+            162239  ZFP1; ZFP1 zinc finger protein [KO:K09228]
+            163081  ZNF567; zinc finger protein 567 [KO:K09228]
+            126375  ZNF792; zinc finger protein 792 [KO:K09228]
+            374899  ZNF829; zinc finger protein 829 [KO:K09228]
+            7643  ZNF90; zinc finger protein 90 [KO:K09228]
+            347344  ZNF81; zinc finger protein 81 [KO:K09228]
+            90075  ZNF30; zinc finger protein 30 [KO:K09228]
+            90987  ZNF251; zinc finger protein 251 [KO:K09228]
+            146542  ZNF688; zinc finger protein 688 [KO:K09228]
+            7549  ZNF2; zinc finger protein 2 [KO:K09228]
+            7571  ZNF23; zinc finger protein 23 [KO:K09228]
+            93134  ZNF561; zinc finger protein 561 [KO:K09228]
+            100129543  ZNF730; zinc finger protein 730 [KO:K09228]
+            148103  ZNF599; zinc finger protein 599 [KO:K09228]
+            100289678  ZNF783; zinc finger protein 783 [KO:K09228]
+            57541  ZNF398; zinc finger protein 398 [KO:K09228]
+            284349  ZNF283; zinc finger protein 283 [KO:K09228]
+            345462  ZNF879; zinc finger protein 879 [KO:K09228]
+            389114  ZNF662; zinc finger protein 662 [KO:K09228]
+            54811  ZNF562; zinc finger protein 562 [KO:K09228]
+            57232  ZNF630; zinc finger protein 630 [KO:K09228]
+            7752  ZNF200; zinc finger protein 200 [KO:K09228]
+            197320  ZNF778; zinc finger protein 778 [KO:K09228]
+            9831  ZNF623; zinc finger protein 623 [KO:K09228]
+            442319  ZNF727; zinc finger protein 727 [KO:K09228]
+            168417  ZNF679; zinc finger protein 679 [KO:K09228]
+            79724  ZNF768; zinc finger protein 768 [KO:K09228]
+            65243  ZFP69B; ZFP69 zinc finger protein B [KO:K09228]
+            339318  ZNF181; zinc finger protein 181 [KO:K09228]
+            100287226  ZNF729; zinc finger protein 729 [KO:K09228]
+            342892  ZNF850; zinc finger protein 850 [KO:K09228]
+            100289635  ZNF605; zinc finger protein 605 [KO:K09228]
+            100529215  ZNF559-ZNF177; ZNF559-ZNF177 readthrough [KO:K09228]
+            101060200  ZNF891; zinc finger protein 891 [KO:K09228]
+            148206  ZNF714; zinc finger protein 714 [KO:K09228]
+            163223  ZNF676; zinc finger protein 676 [KO:K09228]
+            170960  ZNF721; zinc finger protein 721 [KO:K09228]
+            199704  ZNF585A; zinc finger protein 585A [KO:K09228]
+            285267  ZNF619; zinc finger protein 619 [KO:K09228]
+            388561  ZNF761; zinc finger protein 761 [KO:K09228]
+            51427  ZNF107; zinc finger protein 107 [KO:K09228]
+            55769  ZNF83; zinc finger protein 83 [KO:K09228]
+            57711  ZNF529; zinc finger protein 529 [KO:K09228]
+            730051  ZNF814; zinc finger protein 814 [KO:K09228]
+            730291  ZNF735; zinc finger protein 735 [KO:K09228]
+            91664  ZNF845; zinc finger protein 845 [KO:K09228]
+            388567  ZNF749; zinc finger protein 749 [KO:K09228]
+            284371  ZNF841; zinc finger protein 841 [KO:K09228]
+            100131017  ZNF316; zinc finger protein 316 [KO:K09228]
+            100131827  ZNF717; zinc finger protein 717 [KO:K09228]
+            284323  ZNF780A; zinc finger protein 780A [KO:K09228]
+            7625  ZNF74; zinc finger protein 74 [KO:K09228]
+            730087  ZNF726; zinc finger protein 726 [KO:K09228]
+            162966  ZNF600; zinc finger protein 600 [KO:K09228]
+            100129842  ZNF737; zinc finger protein 737 [KO:K09228]
+            388558  ZNF808; zinc finger protein 808 [KO:K09228]
+            388559  ZNF888; zinc finger protein 888 [KO:K09228]
+            390980  ZNF805; zinc finger protein 805 [KO:K09228]
+            126068  ZNF441; zinc finger protein 441 [KO:K09228]
+            126231  ZNF573; zinc finger protein 573 [KO:K09228]
+            147660  ZNF578; zinc finger protein 578 [KO:K09228]
+            9422  ZNF264; zinc finger protein 264 [KO:K09228]
+            170958  ZNF525; zinc finger protein 525 [KO:K09228]
+            110116772  ZNF765-ZNF761; ZNF765-ZNF761 readthrough [KO:K09228]
+            7576  ZNF28; zinc finger protein 28 [KO:K09228]
+            440519  ZNF724; zinc finger protein 724 [KO:K09228]
+            7617  ZNF66; zinc finger protein 66 [KO:K09228]
+            388523  ZNF728; zinc finger protein 728 [KO:K09228]
+            148213  ZNF681; zinc finger protein 681 [KO:K09228]
+            122539214  Zinc finger protein LOC122539214 [KO:K09228]
+            168374  ZNF92; zinc finger protein 92 [KO:K09228]
+            654254  ZNF732; zinc finger protein 732 [KO:K09228]
+            400713  ZNF880; zinc finger protein 880 [KO:K09228]
+            148203  ZNF738; zinc finger protein 738 [KO:K09228]
+            199777  ZNF626; zinc finger protein 626 [KO:K09228]
+            220992  ZNF485; zinc finger protein 485 [KO:K09228]
+            284309  ZNF776; zinc finger protein 776 [KO:K09228]
+            54807  ZNF586; zinc finger protein 586 [KO:K09228]
+            684  BST2; bone marrow stromal cell antigen 2 [KO:K06731]
+            3458  IFNG; interferon gamma [KO:K04687]
+            3459  IFNGR1; interferon gamma receptor 1 [KO:K05132]
+            3460  IFNGR2; interferon gamma receptor 2 [KO:K05133]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            1616  DAXX; death domain associated protein [KO:K02308]
+            6672  SP100; SP100 nuclear antigen [KO:K15413]
+            5371  PML; PML nuclear body scaffold [KO:K10054] [EC:2.3.2.-]
+            6890  TAP1; transporter 1, ATP binding cassette subfamily B member [KO:K05653] [EC:7.4.2.14]
+            6891  TAP2; transporter 2, ATP binding cassette subfamily B member [KO:K05654] [EC:7.4.2.14]
+            6892  TAPBP; TAP binding protein [KO:K08058]
+            2923  PDIA3; protein disulfide isomerase family A member 3 [KO:K08056] [EC:5.3.4.1]
+            811  CALR; calreticulin [KO:K08057]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            567  B2M; beta-2-microglobulin [KO:K08055]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            972  CD74; CD74 molecule [KO:K06505]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            7248  TSC1; TSC complex subunit 1 [KO:K07206]
+            7249  TSC2; TSC complex subunit 2 [KO:K07207]
+            6009  RHEB; Ras homolog, mTORC1 binding [KO:K07208]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            1978  EIF4EBP1; eukaryotic translation initiation factor 4E binding protein 1 [KO:K07205]
+            6732  SRPK1; SRSF protein kinase 1 [KO:K15409] [EC:2.7.11.1]
+            6426  SRSF1; serine and arginine rich splicing factor 1 [KO:K12890]
+            6427  SRSF2; serine and arginine rich splicing factor 2 [KO:K12891]
+            10929  SRSF8; serine and arginine rich splicing factor 8 [KO:K12891]
+            6428  SRSF3; serine and arginine rich splicing factor 3 [KO:K12892]
+            6429  SRSF4; serine and arginine rich splicing factor 4 [KO:K12893]
+            6430  SRSF5; serine and arginine rich splicing factor 5 [KO:K12893]
+            6431  SRSF6; serine and arginine rich splicing factor 6 [KO:K12893]
+            6432  SRSF7; serine and arginine rich splicing factor 7 [KO:K12896]
+            8683  SRSF9; serine and arginine rich splicing factor 9 [KO:K21123]
+            10482  NXF1; nuclear RNA export factor 1 [KO:K14284]
+            56001  NXF2; nuclear RNA export factor 2 [KO:K14284]
+            728343  NXF2B; nuclear RNA export factor 2B [KO:K14284]
+            56000  NXF3; nuclear RNA export factor 3 [KO:K14284]
+            10189  ALYREF; Aly/REF export factor [KO:K12881]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            637  BID; BH3 interacting domain death agonist [KO:K04726]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            317  APAF1; apoptotic peptidase activating factor 1 [KO:K02084]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+COMPOUND    C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C20640  Cyclic GMP-AMP
+            C20935  2-5A
+REFERENCE   PMID:12787566
+  AUTHORS   Granger SW, Rickert S
+  TITLE     LIGHT-HVEM signaling and the regulation of T cell-mediated immunity.
+  JOURNAL   Cytokine Growth Factor Rev 14:289-96 (2003)
+            DOI:10.1016/S1359-6101(03)00031-5
+REFERENCE   PMID:19495760
+  AUTHORS   Steinberg MW, Shui JW, Ware CF, Kronenberg M
+  TITLE     Regulating the mucosal immune system: the contrasting roles of LIGHT, HVEM, and their various partners.
+  JOURNAL   Semin Immunopathol 31:207-21 (2009)
+            DOI:10.1007/s00281-009-0157-4
+REFERENCE   PMID:20221426
+  AUTHORS   MacLeod IJ, Minson T
+  TITLE     Binding of herpes simplex virus type-1 virions leads to the induction of intracellular signalling in the absence of virus entry.
+  JOURNAL   PLoS One 5:e9560 (2010)
+            DOI:10.1371/journal.pone.0009560
+REFERENCE   PMID:23150579
+  AUTHORS   Gianni T, Leoni V, Chesnokova LS, Hutt-Fletcher LM, Campadelli-Fiume G
+  TITLE     alphavbeta3-integrin is a major sensor and activator of innate immunity to herpes simplex virus-1.
+  JOURNAL   Proc Natl Acad Sci U S A 109:19792-7 (2012)
+            DOI:10.1073/pnas.1212597109
+REFERENCE   PMID:25375272
+  AUTHORS   Gianni T, Campadelli-Fiume G
+  TITLE     The epithelial alphavbeta3-integrin boosts the MYD88-dependent TLR2 signaling in response to viral and bacterial components.
+  JOURNAL   PLoS Pathog 10:e1004477 (2014)
+            DOI:10.1371/journal.ppat.1004477
+REFERENCE   PMID:15056211
+  AUTHORS   Spear PG
+  TITLE     Herpes simplex virus: receptors and ligands for cell entry.
+  JOURNAL   Cell Microbiol 6:401-10 (2004)
+            DOI:10.1111/j.1462-5822.2004.00389.x
+REFERENCE   PMID:12855695
+  AUTHORS   Boutell C, Everett RD
+  TITLE     The herpes simplex virus type 1 (HSV-1) regulatory protein ICP0 interacts with and Ubiquitinates p53.
+  JOURNAL   J Biol Chem 278:36596-602 (2003)
+            DOI:10.1074/jbc.M300776200
+REFERENCE   PMID:24262390
+  AUTHORS   Ma Y, He B
+  TITLE     Recognition of herpes simplex viruses: toll-like receptors and beyond.
+  JOURNAL   J Mol Biol 426:1133-47 (2014)
+            DOI:10.1016/j.jmb.2013.11.012
+REFERENCE   PMID:26952111
+  AUTHORS   Su C, Zhan G, Zheng C
+  TITLE     Evasion of host antiviral innate immunity by HSV-1, an update.
+  JOURNAL   Virol J 13:38 (2016)
+            DOI:10.1186/s12985-016-0495-5
+REFERENCE   PMID:21994567
+  AUTHORS   Melchjorsen J, Matikainen S, Paludan SR
+  TITLE     Activation and evasion of innate antiviral immunity by herpes simplex virus.
+  JOURNAL   Viruses 1:737-59 (2009)
+            DOI:10.3390/v1030737
+REFERENCE   PMID:15276609
+  AUTHORS   Morrison LA
+  TITLE     The Toll of herpes simplex virus infection.
+  JOURNAL   Trends Microbiol 12:353-6 (2004)
+            DOI:10.1016/j.tim.2004.06.001
+REFERENCE   PMID:29298887
+  AUTHORS   Zheng C
+  TITLE     Evasion of Cytosolic DNA-Stimulated Innate Immune Responses by Herpes Simplex Virus 1.
+  JOURNAL   J Virol 92:e00099-17 (2018)
+            DOI:10.1128/JVI.00099-17
+REFERENCE   PMID:19344302
+  AUTHORS   Grandi P, Peruzzi P, Reinhart B, Cohen JB, Chiocca EA, Glorioso JC
+  TITLE     Design and application of oncolytic HSV vectors for glioblastoma therapy.
+  JOURNAL   Expert Rev Neurother 9:505-17 (2009)
+            DOI:10.1586/ern.09.9
+REFERENCE   PMID:23115300
+  AUTHORS   Lussignol M, Queval C, Bernet-Camard MF, Cotte-Laffitte J, Beau I, Codogno P, Esclatine A
+  TITLE     The herpes simplex virus 1 Us11 protein inhibits autophagy through its interaction with the protein kinase PKR.
+  JOURNAL   J Virol 87:859-71 (2013)
+            DOI:10.1128/JVI.01158-12
+REFERENCE   PMID:17229694
+  AUTHORS   Sanchez R, Mohr I
+  TITLE     Inhibition of cellular 2'-5' oligoadenylate synthetase by the herpes simplex virus type 1 Us11 protein.
+  JOURNAL   J Virol 81:3455-64 (2007)
+            DOI:10.1128/JVI.02520-06
+REFERENCE   PMID:12826401
+  AUTHORS   Wysocka J, Herr W
+  TITLE     The herpes simplex virus VP16-induced complex: the makings of a regulatory switch.
+  JOURNAL   Trends Biochem Sci 28:294-304 (2003)
+            DOI:10.1016/S0968-0004(03)00088-4
+REFERENCE   PMID:27367734
+  AUTHORS   Fleming SB
+  TITLE     Viral Inhibition of the IFN-Induced JAK/STAT Signalling Pathway: Development of Live Attenuated Vaccines by Mutation of Viral-Encoded IFN-Antagonists.
+  JOURNAL   Vaccines (Basel) 4:E23 (2016)
+            DOI:10.3390/vaccines4030023
+REFERENCE   PMID:15163721
+  AUTHORS   Yokota S, Yokosawa N, Okabayashi T, Suzutani T, Miura S, Jimbow K, Fujii N
+  TITLE     Induction of suppressor of cytokine signaling-3 by herpes simplex virus type 1 contributes to inhibition of the interferon signaling pathway.
+  JOURNAL   J Virol 78:6282-6 (2004)
+            DOI:10.1128/JVI.78.12.6282-6286.2004
+REFERENCE   PMID:23864622
+  AUTHORS   Gu H, Zheng Y, Roizman B
+  TITLE     Interaction of herpes simplex virus ICP0 with ND10 bodies: a sequential process of adhesion, fusion, and retention.
+  JOURNAL   J Virol 87:10244-54 (2013)
+            DOI:10.1128/JVI.01487-13
+REFERENCE   PMID:21994592
+  AUTHORS   Tavalai N, Stamminger T
+  TITLE     Interplay between Herpesvirus Infection and Host Defense by PML Nuclear Bodies.
+  JOURNAL   Viruses 1:1240-64 (2009)
+            DOI:10.3390/v1031240
+REFERENCE   PMID:21146386
+  AUTHORS   Horst D, Verweij MC, Davison AJ, Ressing ME, Wiertz EJ
+  TITLE     Viral evasion of T cell immunity: ancient mechanisms offering new applications.
+  JOURNAL   Curr Opin Immunol 23:96-103 (2011)
+            DOI:10.1016/j.coi.2010.11.005
+REFERENCE   PMID:12960333
+  AUTHORS   Neumann J, Eis-Hubinger AM, Koch N
+  TITLE     Herpes simplex virus type 1 targets the MHC class II processing pathway for immune evasion.
+  JOURNAL   J Immunol 171:3075-83 (2003)
+            DOI:10.4049/jimmunol.171.6.3075
+REFERENCE   PMID:25798530
+  AUTHORS   Liu X, Cohen JI
+  TITLE     The role of PI3K/Akt in human herpesvirus infection: From the bench to the bedside.
+  JOURNAL   Virology 479-480:568-77 (2015)
+            DOI:10.1016/j.virol.2015.02.040
+REFERENCE   PMID:28468873
+  AUTHORS   Vink EI, Smiley JR, Mohr I
+  TITLE     Subversion of Host Responses to Energy Insufficiency by Us3 Supports Herpes Simplex Virus 1 Replication during Stress.
+  JOURNAL   J Virol 91:e00295-17 (2017)
+            DOI:10.1128/JVI.00295-17
+REFERENCE   PMID:18508584
+  AUTHORS   Sandri-Goldin RM
+  TITLE     The many roles of the regulatory protein ICP27 during herpes simplex virus infection.
+  JOURNAL   Front Biosci 13:5241-56 (2008)
+            DOI:10.2741/3078
+REFERENCE   PMID:15078920
+  AUTHORS   Sandri-Goldin RM
+  TITLE     Viral regulation of mRNA export.
+  JOURNAL   J Virol 78:4389-96 (2004)
+            DOI:10.1128/JVI.78.9.4389-4396.2004
+REFERENCE   PMID:27154074
+  AUTHORS   Yu X, He S
+  TITLE     The interplay between human herpes simplex virus infection and the apoptosis and necroptosis cell death pathways.
+  JOURNAL   Virol J 13:77 (2016)
+            DOI:10.1186/s12985-016-0528-0
+REL_PATHWAY hsa03040  Spliceosome
+            hsa03050  Proteasome
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04610  Complement and coagulation cascades
+            hsa04612  Antigen processing and presentation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04630  JAK-STAT signaling pathway
+KO_PATHWAY  ko05168
+///

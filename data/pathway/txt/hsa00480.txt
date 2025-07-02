@@ -1,0 +1,238 @@
+ENTRY       hsa00480                    Pathway
+NAME        Glutathione metabolism - Homo sapiens (human)
+CLASS       Metabolism; Metabolism of other amino acids
+PATHWAY_MAP hsa00480  Glutathione metabolism
+MODULE      hsa_M00118  Glutathione biosynthesis, glutamate => glutathione [PATH:hsa00480]
+NETWORK     nt06026  Glutathione biosynthesis
+  ELEMENT   N00899  5-Oxoproline metabolism
+            N00904  Glutathione reduction
+            N00905  NADP+ reduction
+            N01589  Glutathione biosynthesis
+DRUG        D00341  Hydroxyurea (USP)
+            D00829  Eflornithine hydrochloride (USAN)
+            D02755  Acivicin (USAN/INN)
+            D07883  Eflornithine (INN)
+            D08917  Ezatiostat hydrochloride (USAN)
+DBLINKS     GO: 0006749
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2686  GGT7; gamma-glutamyltransferase 7 [KO:K00681] [EC:2.3.2.2 3.4.19.13]
+            124975  GGT6; gamma-glutamyltransferase 6 [KO:K00681] [EC:2.3.2.2 3.4.19.13]
+            2678  GGT1; gamma-glutamyltransferase 1 [KO:K18592] [EC:2.3.2.2 3.4.19.13 3.4.19.14]
+            2687  GGT5; gamma-glutamyltransferase 5 [KO:K18592] [EC:2.3.2.2 3.4.19.13 3.4.19.14]
+            79017  GGCT; gamma-glutamylcyclotransferase [KO:K00682] [EC:4.3.2.9]
+            79094  CHAC1; ChaC glutathione specific gamma-glutamylcyclotransferase 1 [KO:K07232] [EC:4.3.2.7]
+            494143  CHAC2; ChaC glutathione specific gamma-glutamylcyclotransferase 2 [KO:K07232] [EC:4.3.2.7]
+            26873  OPLAH; 5-oxoprolinase, ATP-hydrolysing [KO:K01469] [EC:3.5.2.9]
+            2729  GCLC; glutamate-cysteine ligase catalytic subunit [KO:K11204] [EC:6.3.2.2]
+            2730  GCLM; glutamate-cysteine ligase modifier subunit [KO:K11205]
+            2937  GSS; glutathione synthetase [KO:K21456] [EC:6.3.2.3]
+            51056  LAP3; leucine aminopeptidase 3 [KO:K11142] [EC:3.4.11.1 3.4.11.5]
+            290  ANPEP; alanyl aminopeptidase, membrane [KO:K11140] [EC:3.4.11.2]
+            221357  GSTA5; glutathione S-transferase alpha 5 [KO:K00799] [EC:2.5.1.18]
+            2939  GSTA2; glutathione S-transferase alpha 2 [KO:K00799] [EC:2.5.1.18]
+            2941  GSTA4; glutathione S-transferase alpha 4 [KO:K00799] [EC:2.5.1.18]
+            119391  GSTO2; glutathione S-transferase omega 2 [KO:K00799] [EC:2.5.1.18]
+            2948  GSTM4; glutathione S-transferase mu 4 [KO:K00799] [EC:2.5.1.18]
+            2953  GSTT2; glutathione S-transferase theta 2 (gene/pseudogene) [KO:K00799] [EC:2.5.1.18]
+            2952  GSTT1; glutathione S-transferase theta 1 [KO:K00799] [EC:2.5.1.18]
+            2947  GSTM3; glutathione S-transferase mu 3 [KO:K00799] [EC:2.5.1.18]
+            4257  MGST1; microsomal glutathione S-transferase 1 [KO:K00799] [EC:2.5.1.18]
+            4259  MGST3; microsomal glutathione S-transferase 3 [KO:K00799] [EC:2.5.1.18]
+            2944  GSTM1; glutathione S-transferase mu 1 [KO:K00799] [EC:2.5.1.18]
+            2949  GSTM5; glutathione S-transferase mu 5 [KO:K00799] [EC:2.5.1.18]
+            4258  MGST2; microsomal glutathione S-transferase 2 [KO:K00799] [EC:2.5.1.18]
+            2938  GSTA1; glutathione S-transferase alpha 1 [KO:K00799] [EC:2.5.1.18]
+            2946  GSTM2; glutathione S-transferase mu 2 [KO:K00799] [EC:2.5.1.18]
+            2940  GSTA3; glutathione S-transferase alpha 3 [KO:K00799] [EC:2.5.1.18]
+            9446  GSTO1; glutathione S-transferase omega 1 [KO:K00799] [EC:2.5.1.18]
+            653689  GSTT2B; glutathione S-transferase theta 2B [KO:K00799] [EC:2.5.1.18]
+            2950  GSTP1; glutathione S-transferase pi 1 [KO:K23790] [EC:2.5.1.18]
+            373156  GSTK1; glutathione S-transferase kappa 1 [KO:K13299] [EC:2.5.1.18]
+            27306  HPGDS; hematopoietic prostaglandin D synthase [KO:K04097] [EC:5.3.99.2 2.5.1.18]
+            10314  LANCL1; LanC like glutathione S-transferase 1 [KO:K25210] [EC:2.5.1.18]
+            9027  NAT8; N-acetyltransferase 8 (putative) [KO:K20838] [EC:2.3.1.80 2.3.1.-]
+            2936  GSR; glutathione-disulfide reductase [KO:K00383] [EC:1.8.1.7]
+            3417  IDH1; isocitrate dehydrogenase (NADP(+)) 1 [KO:K00031] [EC:1.1.1.42]
+            3418  IDH2; isocitrate dehydrogenase (NADP(+)) 2 [KO:K00031] [EC:1.1.1.42]
+            5226  PGD; phosphogluconate dehydrogenase [KO:K00033] [EC:1.1.1.44 1.1.1.343]
+            2539  G6PD; glucose-6-phosphate dehydrogenase [KO:K00036] [EC:1.1.1.49 1.1.1.363]
+            51060  TXNDC12; thioredoxin domain containing 12 [KO:K05360] [EC:1.8.4.2]
+            2879  GPX4; glutathione peroxidase 4 [KO:K05361] [EC:1.11.1.12]
+            257202  GPX6; glutathione peroxidase 6 [KO:K00432] [EC:1.11.1.9]
+            2882  GPX7; glutathione peroxidase 7 [KO:K00432] [EC:1.11.1.9]
+            2877  GPX2; glutathione peroxidase 2 [KO:K00432] [EC:1.11.1.9]
+            2878  GPX3; glutathione peroxidase 3 [KO:K00432] [EC:1.11.1.9]
+            2876  GPX1; glutathione peroxidase 1 [KO:K00432] [EC:1.11.1.9]
+            2880  GPX5; glutathione peroxidase 5 [KO:K00432] [EC:1.11.1.9]
+            493869  GPX8; glutathione peroxidase 8 (putative) [KO:K00432] [EC:1.11.1.9]
+            9588  PRDX6; peroxiredoxin 6 [KO:K11188] [EC:1.11.1.7 1.11.1.27 3.1.1.-]
+            4953  ODC1; ornithine decarboxylase 1 [KO:K01581] [EC:4.1.1.17]
+            6723  SRM; spermidine synthase [KO:K00797] [EC:2.5.1.16]
+            6611  SMS; spermine synthase [KO:K00802] [EC:2.5.1.22]
+            6240  RRM1; ribonucleotide reductase catalytic subunit M1 [KO:K10807] [EC:1.17.4.1]
+            50484  RRM2B; ribonucleotide reductase regulatory TP53 inducible subunit M2B [KO:K10808] [EC:1.17.4.1]
+            6241  RRM2; ribonucleotide reductase regulatory subunit M2 [KO:K10808] [EC:1.17.4.1]
+COMPOUND    C00005  NADPH
+            C00006  NADP+
+            C00024  Acetyl-CoA
+            C00025  L-Glutamate
+            C00037  Glycine
+            C00051  Glutathione
+            C00072  Ascorbate
+            C00077  L-Ornithine
+            C00097  L-Cysteine
+            C00127  Glutathione disulfide
+            C00134  Putrescine
+            C00151  L-Amino acid
+            C00315  Spermidine
+            C00669  gamma-L-Glutamyl-L-cysteine
+            C00750  Spermine
+            C01322  RX
+            C01419  Cys-Gly
+            C01672  Cadaverine
+            C01879  5-Oxoproline
+            C02090  Trypanothione
+            C02320  R-S-Glutathione
+            C03170  Trypanothione disulfide
+            C03646  Bis-gamma-glutamylcystine
+            C03740  (5-L-Glutamyl)-L-amino acid
+            C05422  Dehydroascorbate
+            C05726  S-Substituted L-cysteine
+            C05727  S-Substituted N-acetyl-L-cysteine
+            C05729  R-S-Cysteinylglycine
+            C05730  Glutathionylspermidine
+            C16562  Glutathionylspermine
+            C16563  Bis(glutathionyl)spermine
+            C16564  Bis(glutathionyl)spermine disulfide
+            C16565  Aminopropylcadaverine
+            C16566  Glutathionylaminopropylcadaverine
+            C16567  Homotrypanothione
+            C16568  Homotrypanothione disulfide
+            C16663  Tryparedoxin
+            C16664  Tryparedoxin disulfide
+REFERENCE   PMID:12675513
+  AUTHORS   Josch C, Klotz LO, Sies H.
+  TITLE     Identification of cytosolic leucyl aminopeptidase (EC 3.4.11.1) as the major cysteinylglycine-hydrolysing activity in rat liver.
+  JOURNAL   Biol Chem 384:213-8 (2003)
+            DOI:10.1515/BC.2003.023
+REFERENCE   PMID:18482986
+  AUTHORS   Chu L, Lai Y, Xu X, Eddy S, Yang S, Song L, Kolodrubetz D.
+  TITLE     A 52-kDa leucyl aminopeptidase from treponema denticola is a cysteinylglycinase that mediates the second step of glutathione metabolism.
+  JOURNAL   J Biol Chem 283:19351-8 (2008)
+            DOI:10.1074/jbc.M801034200
+REFERENCE   PMID:14583094
+  AUTHORS   Cappiello M, Lazzarotti A, Buono F, Scaloni A, D'Ambrosio C, Amodeo P, Mendez BL, Pelosi P, Del Corso A, Mura U.
+  TITLE     New role for leucyl aminopeptidase in glutathione turnover.
+  JOURNAL   Biochem J 378:35-44 (2004)
+            DOI:10.1042/BJ20031336
+REFERENCE   PMID:11157967
+  AUTHORS   Suzuki H, Kamatani S, Kim ES, Kumagai H.
+  TITLE     Aminopeptidases A, B, and N and dipeptidase D are the four cysteinylglycinases of Escherichia coli K-12.
+  JOURNAL   J Bacteriol 183:1489-90 (2001)
+            DOI:10.1128/JB.183.4.1489-1490.2001
+REFERENCE   PMID:15610825
+  AUTHORS   Oza SL, Shaw MP, Wyllie S, Fairlamb AH.
+  TITLE     Trypanothione biosynthesis in Leishmania major.
+  JOURNAL   Mol Biochem Parasitol 139:107-16 (2005)
+            DOI:10.1016/j.molbiopara.2004.10.004
+REFERENCE   PMID:12049631
+  AUTHORS   Oza SL, Ariyanayagam MR, Fairlamb AH.
+  TITLE     Characterization of recombinant glutathionylspermidine synthetase/amidase from Crithidia fasciculata.
+  JOURNAL   Biochem J 364:679-86 (2002)
+            DOI:10.1042/BJ20011370
+REFERENCE   PMID:9677355
+  AUTHORS   Tetaud E, Manai F, Barrett MP, Nadeau K, Walsh CT, Fairlamb AH.
+  TITLE     Cloning and characterization of the two enzymes responsible for trypanothione biosynthesis in Crithidia fasciculata.
+  JOURNAL   J Biol Chem 273:19383-90 (1998)
+            DOI:10.1074/jbc.273.31.19383
+REFERENCE   PMID:12750367
+  AUTHORS   Ariyanayagam MR, Oza SL, Mehlert A, Fairlamb AH.
+  TITLE     Bis(glutathionyl)spermine and other novel trypanothione analogues in Trypanosoma cruzi.
+  JOURNAL   J Biol Chem 278:27612-9 (2003)
+            DOI:10.1074/jbc.M302750200
+REFERENCE   PMID:12967709
+  AUTHORS   Oza SL, Ariyanayagam MR, Aitcheson N, Fairlamb AH.
+  TITLE     Properties of trypanothione synthetase from Trypanosoma brucei.
+  JOURNAL   Mol Biochem Parasitol 131:25-33 (2003)
+            DOI:10.1016/S0166-6851(03)00176-2
+REFERENCE   PMID:12121990
+  AUTHORS   Oza SL, Tetaud E, Ariyanayagam MR, Warnon SS, Fairlamb AH.
+  TITLE     A single enzyme catalyses formation of Trypanothione from glutathione and spermidine in Trypanosoma cruzi.
+  JOURNAL   J Biol Chem 277:35853-61 (2002)
+            DOI:10.1074/jbc.M204403200
+REFERENCE   PMID:15537651
+  AUTHORS   Comini M, Menge U, Wissing J, Flohe L.
+  TITLE     Trypanothione synthesis in crithidia revisited.
+  JOURNAL   J Biol Chem 280:6850-60 (2005)
+            DOI:10.1074/jbc.M404486200
+REFERENCE   PMID:7813456
+  AUTHORS   Hunter KJ, Le Quesne SA, Fairlamb AH.
+  TITLE     Identification and biosynthesis of N1,N9-bis(glutathionyl)aminopropylcadaverine (homotrypanothione) in Trypanosoma cruzi.
+  JOURNAL   Eur J Biochem 226:1019-27 (1994)
+            DOI:10.1111/j.1432-1033.1994.t01-1-01019.x
+REFERENCE   PMID:12751784
+  AUTHORS   Krauth-Siegel RL, Meiering SK, Schmidt H.
+  TITLE     The parasite-specific trypanothione metabolism of trypanosoma and leishmania.
+  JOURNAL   Biol Chem 384:539-49 (2003)
+            DOI:10.1515/BC.2003.062
+REFERENCE   PMID:18395526
+  AUTHORS   Krauth-Siegel RL, Comini MA.
+  TITLE     Redox control in trypanosomatids, parasitic protozoa with trypanothione-based thiol metabolism.
+  JOURNAL   Biochim Biophys Acta 1780:1236-48 (2008)
+            DOI:10.1016/j.bbagen.2008.03.006
+REFERENCE   PMID:8892297
+  AUTHORS   Krauth-Siegel RL, Ludemann H.
+  TITLE     Reduction of dehydroascorbate by trypanothione.
+  JOURNAL   Mol Biochem Parasitol 80:203-8 (1996)
+            DOI:10.1016/0166-6851(96)02689-8
+REFERENCE   PMID:11150302
+  AUTHORS   Dormeyer M, Reckenfelderbaumer N, Ludemann H, Krauth-Siegel RL.
+  TITLE     Trypanothione-dependent synthesis of deoxyribonucleotides by Trypanosoma brucei ribonucleotide reductase.
+  JOURNAL   J Biol Chem 276:10602-6 (2001)
+            DOI:10.1074/jbc.M010352200
+REFERENCE   PMID:12949079
+  AUTHORS   Schmidt H, Krauth-Siegel RL.
+  TITLE     Functional and physicochemical characterization of the thioredoxin system in Trypanosoma brucei.
+  JOURNAL   J Biol Chem 278:46329-36 (2003)
+            DOI:10.1074/jbc.M305338200
+REFERENCE   PMID:9851611
+  AUTHORS   Tetaud E, Fairlamb AH.
+  TITLE     Cloning, expression and reconstitution of the trypanothione-dependent peroxidase system of Crithidia fasciculata.
+  JOURNAL   Mol Biochem Parasitol 96:111-23 (1998)
+            DOI:10.1016/S0166-6851(98)00120-0
+REFERENCE   PMID:12446213
+  AUTHORS   Castro H, Sousa C, Santos M, Cordeiro-da-Silva A, Flohe L, Tomas AM.
+  TITLE     Complementary antioxidant defense by cytoplasmic and mitochondrial peroxiredoxins in Leishmania infantum.
+  JOURNAL   Free Radic Biol Med 33:1552-62 (2002)
+            DOI:10.1016/S0891-5849(02)01089-4
+REFERENCE   PMID:10713147
+  AUTHORS   Wilkinson SR, Temperton NJ, Mondragon A, Kelly JM.
+  TITLE     Distinct mitochondrial and cytosolic enzymes mediate trypanothione-dependent peroxide metabolism in Trypanosoma cruzi.
+  JOURNAL   J Biol Chem 275:8220-5 (2000)
+            DOI:10.1074/jbc.275.11.8220
+REFERENCE   PMID:17922848
+  AUTHORS   Konig J, Fairlamb AH.
+  TITLE     A comparative study of type I and type II tryparedoxin peroxidases in Leishmania major.
+  JOURNAL   FEBS J 274:5643-58 (2007)
+            DOI:10.1111/j.1742-4658.2007.06087.x
+REFERENCE   PMID:12466271
+  AUTHORS   Hillebrand H, Schmidt A, Krauth-Siegel RL.
+  TITLE     A second class of peroxidases linked to the trypanothione metabolism.
+  JOURNAL   J Biol Chem 278:6809-15 (2003)
+            DOI:10.1074/jbc.M210392200
+REFERENCE   PMID:14982633
+  AUTHORS   Soksawatmaekhin W, Kuraishi A, Sakata K, Kashiwagi K, Igarashi K.
+  TITLE     Excretion and uptake of cadaverine by CadB and its physiological functions in Escherichia coli.
+  JOURNAL   Mol Microbiol 51:1401-12 (2004)
+            DOI:10.1046/j.1365-2958.2003.03913.x
+REFERENCE   PMID:6798961
+  AUTHORS   Pegg AE, Shuttleworth K, Hibasami H.
+  TITLE     Specificity of mammalian spermidine synthase and spermine synthase.
+  JOURNAL   Biochem J 197:315-20 (1981)
+            DOI:10.1042/bj1970315
+REL_PATHWAY hsa00220  Arginine biosynthesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00270  Cysteine and methionine metabolism
+            hsa00430  Taurine and hypotaurine metabolism
+KO_PATHWAY  ko00480
+///

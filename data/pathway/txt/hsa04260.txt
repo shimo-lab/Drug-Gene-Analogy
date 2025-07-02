@@ -1,0 +1,247 @@
+ENTRY       hsa04260                    Pathway
+NAME        Cardiac muscle contraction - Homo sapiens (human)
+DESCRIPTION Contraction of the heart is a complex process initiated by the electrical excitation of cardiac myocytes (excitation-contraction coupling, ECC). In cardiac myocytes, Ca2+ influx induced by activation of voltage-dependent L-type Ca channels (DHP receptors) upon membrane depolarization triggers the release of Ca2+ via Ca2+ release channels (ryanodine receptors) of sarcoplasmic reticulum (SR) through a Ca2+ -induced Ca release (CICR) mechanism. Ca2+ ions released via the CICR mechanism diffuse through the cytosolic space to contractile proteins to bind to troponinC resulting in the release of inhibition induced by troponinI. The Ca2+ binding to troponinC thereby triggers the sliding of thin and thick filaments, that is, the activation of a crossbridge and subsequent cardiac force development and/or cell shortening. Recovery occurs as Ca2+ is pumped out of the cell by the Na+/Ca2+ exchanger (NCX) or is returned to the sarcoplasmic reticulum (SR) by sarco(endo)plasmic Ca2+ -ATPase (SERCA) pumps on the non-junctional region of the SR.
+CLASS       Organismal Systems; Circulatory system
+PATHWAY_MAP hsa04260  Cardiac muscle contraction
+DRUG        D00112  G-Strophanthin (JAN)
+            D00297  Digitoxin (JAN/USP/INN)
+            D00298  Digoxin (JP18/USP)
+            D00319  Felodipine (JP18/USP/INN)
+            D00349  Isradipine (USP/INN)
+            D00437  Nifedipine (JP18/USP/INN)
+            D00438  Nimodipine (USP/INN)
+            D00615  Amlodipine besylate (USP)
+            D00616  Diltiazem hydrochloride (JP18/USP)
+            D00617  Nicardipine hydrochloride (JP18/USAN)
+            D00618  Nisoldipine (JAN/USAN/INN)
+            D00619  Verapamil hydrochloride (JP18/USP)
+            D00629  Nitrendipine (JP18/USAN/INN)
+            D00631  Bepridil hydrochloride (USAN)
+            D00645  Bretylium tosylate (USP)
+            D01104  Barnidipine hydrochloride (JAN)
+            D01145  Azelnidipine (JP18/INN)
+            D01151  Lemildipine (JAN/INN)
+            D01171  Monatepil maleate (JAN/USAN)
+            D01173  Cilnidipine (JP18/INN)
+            D01240  Deslanoside (JP18/USP/INN)
+            D01369  Bevantolol hydrochloride (JAN/USAN)
+            D01379  Proscillaridin (JAN/USAN/INN)
+            D01553  Manidipine hydrochloride (JP18)
+            D01562  Aranidipine (JAN/INN)
+            D01604  Efonidipine hydrochloride ethanolate (JAN)
+            D01849  Lercanidipine hydrochloride (JAN/USAN)
+            D01908  Nilvadipine (JP18/USAN/INN)
+            D01933  Vatanidipine hydrochloride (JAN)
+            D01969  Gallopamil hydrochloride (JAN)
+            D01972  Lanatoside C (JAN/INN)
+            D02045  Benidipine hydrochloride (JP18)
+            D02356  Verapamil (USAN/INN)
+            D02537  Dronedarone (INN)
+            D02587  Metildigoxin (JP18)
+            D02914  Amlodipine maleate (USAN)
+            D03067  Belfosdil (USAN/INN)
+            D03406  Cariporide mesylate (USAN)
+            D03536  Clentiazem maleate (JAN/USAN)
+            D03655  Darodipine (USAN/INN)
+            D03830  Diltiazem malate (USAN)
+            D03914  Dronedarone hydrochloride (USP)
+            D04193  Flordipine (USAN/INN)
+            D04510  Imciromab pentetate (USAN)
+            D04657  Lacidipine (USAN/INN)
+            D05024  Mibefradil dihydrochloride (USAN)
+            D05442  Perhexiline maleate (USAN)
+            D06129  Tiapamil hydrochloride (USAN)
+            D06881  Acetyldigitoxin (INN)
+            D07147  Gitoformate (INN)
+            D07185  Fendiline (INN)
+            D07450  Amlodipine (USP/INN)
+            D07494  Barnidipine (INN)
+            D07509  Benidipine (INN)
+            D07520  Bepridil (INN)
+            D07555  Acetyldigoxin
+            D07556  beta-Acetyldigoxin
+            D07845  Diltiazem (INN)
+            D07886  Efonidipine (INN)
+            D07943  Fendiline hydrochloride
+            D08009  Gallopamil (INN)
+            D08111  Lercanidipine (INN)
+            D08155  Manidipine (INN)
+            D08217  Mibefradil (INN)
+            D08270  Nicardipine (INN)
+            D08340  Perhexiline (INN)
+            D08892  Clevidipine (USAN/INN)
+            D08941  Levamlodipine malate (USAN)
+            D09036  Zoniporide mesylate (INN/USAN)
+            D09789  Kirenidipine hydrochloride (JAN)
+            D09833  Levosemotiadil fumarate (JAN)
+            D09847  Metildigoxin (INN)
+            D10932  Etripamil (USAN/INN)
+            D11723  Levamlodipine maleate (USAN)
+            D11881  Amlodipine benzoate
+            D12253  Aficamten (USAN)
+            D12265  Mavacamten (USAN/INN)
+DBLINKS     GO: 0060048
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            782  CACNB1; calcium voltage-gated channel auxiliary subunit beta 1 [KO:K04862]
+            783  CACNB2; calcium voltage-gated channel auxiliary subunit beta 2 [KO:K04863]
+            784  CACNB3; calcium voltage-gated channel auxiliary subunit beta 3 [KO:K04864]
+            785  CACNB4; calcium voltage-gated channel auxiliary subunit beta 4 [KO:K04865]
+            781  CACNA2D1; calcium voltage-gated channel auxiliary subunit alpha2delta 1 [KO:K04858]
+            9254  CACNA2D2; calcium voltage-gated channel auxiliary subunit alpha2delta 2 [KO:K04859]
+            55799  CACNA2D3; calcium voltage-gated channel auxiliary subunit alpha2delta 3 [KO:K04860]
+            93589  CACNA2D4; calcium voltage-gated channel auxiliary subunit alpha2delta 4 [KO:K04861]
+            786  CACNG1; calcium voltage-gated channel auxiliary subunit gamma 1 [KO:K04866]
+            10369  CACNG2; calcium voltage-gated channel auxiliary subunit gamma 2 [KO:K04867]
+            10368  CACNG3; calcium voltage-gated channel auxiliary subunit gamma 3 [KO:K04868]
+            27092  CACNG4; calcium voltage-gated channel auxiliary subunit gamma 4 [KO:K04869]
+            27091  CACNG5; calcium voltage-gated channel auxiliary subunit gamma 5 [KO:K04870]
+            59285  CACNG6; calcium voltage-gated channel auxiliary subunit gamma 6 [KO:K04871]
+            59284  CACNG7; calcium voltage-gated channel auxiliary subunit gamma 7 [KO:K04872]
+            59283  CACNG8; calcium voltage-gated channel auxiliary subunit gamma 8 [KO:K04873]
+            6262  RYR2; ryanodine receptor 2 [KO:K04962]
+            444  ASPH; aspartate beta-hydroxylase [KO:K00476] [EC:1.14.11.16]
+            845  CASQ2; calsequestrin 2 [KO:K23445]
+            10345  TRDN; triadin [KO:K23449]
+            3270  HRC; histidine rich calcium binding protein [KO:K23450]
+            487  ATP2A1; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [KO:K05853] [EC:7.2.2.10]
+            489  ATP2A3; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [KO:K05853] [EC:7.2.2.10]
+            488  ATP2A2; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [KO:K05853] [EC:7.2.2.10]
+            7134  TNNC1; troponin C1, slow skeletal and cardiac type [KO:K05865]
+            7137  TNNI3; troponin I3, cardiac type [KO:K12044]
+            7139  TNNT2; troponin T2, cardiac type [KO:K12045]
+            7168  TPM1; tropomyosin 1 [KO:K10373]
+            7169  TPM2; tropomyosin 2 [KO:K10374]
+            7170  TPM3; tropomyosin 3 [KO:K09290]
+            7171  TPM4; tropomyosin 4 [KO:K10375]
+            70  ACTC1; actin alpha cardiac muscle 1 [KO:K12314]
+            4625  MYH7; myosin heavy chain 7 [KO:K17751]
+            4624  MYH6; myosin heavy chain 6 [KO:K17751]
+            4633  MYL2; myosin light chain 2 [KO:K10351]
+            4634  MYL3; myosin light chain 3 [KO:K12749]
+            4635  MYL4; myosin light chain 4 [KO:K12750]
+            7386  UQCRFS1; ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [KO:K00411] [EC:7.1.1.8]
+            4519  CYTB; cytochrome b [KO:K00412]
+            1537  CYC1; cytochrome c1 [KO:K00413]
+            7384  UQCRC1; ubiquinol-cytochrome c reductase core protein 1 [KO:K00414]
+            7385  UQCRC2; ubiquinol-cytochrome c reductase core protein 2 [KO:K00415]
+            7388  UQCRH; ubiquinol-cytochrome c reductase hinge protein [KO:K00416]
+            440567  UQCRHL; ubiquinol-cytochrome c reductase hinge protein like [KO:K00416]
+            7381  UQCRB; ubiquinol-cytochrome c reductase binding protein [KO:K00417]
+            27089  UQCRQ; ubiquinol-cytochrome c reductase complex III subunit VII [KO:K00418]
+            29796  UQCR10; ubiquinol-cytochrome c reductase, complex III subunit X [KO:K00419]
+            10975  UQCR11; ubiquinol-cytochrome c reductase, complex III subunit XI [KO:K00420]
+            4514  COX3; cytochrome c oxidase subunit III [KO:K02262]
+            4512  COX1; cytochrome c oxidase subunit I [KO:K02256] [EC:7.1.1.9]
+            4513  COX2; cytochrome c oxidase subunit II [KO:K02261]
+            84701  COX4I2; cytochrome c oxidase subunit 4I2 [KO:K02263]
+            1327  COX4I1; cytochrome c oxidase subunit 4I1 [KO:K02263]
+            9377  COX5A; cytochrome c oxidase subunit 5A [KO:K02264]
+            1329  COX5B; cytochrome c oxidase subunit 5B [KO:K02265]
+            1337  COX6A1; cytochrome c oxidase subunit 6A1 [KO:K02266]
+            1339  COX6A2; cytochrome c oxidase subunit 6A2 [KO:K02266]
+            1340  COX6B1; cytochrome c oxidase subunit 6B1 [KO:K02267]
+            125965  COX6B2; cytochrome c oxidase subunit 6B2 [KO:K02267]
+            1345  COX6C; cytochrome c oxidase subunit 6C [KO:K02268]
+            1346  COX7A1; cytochrome c oxidase subunit 7A1 [KO:K02270]
+            1347  COX7A2; cytochrome c oxidase subunit 7A2 [KO:K02270]
+            9167  COX7A2L; cytochrome c oxidase subunit 7A2 like [KO:K02270]
+            1349  COX7B; cytochrome c oxidase subunit 7B [KO:K02271]
+            170712  COX7B2; cytochrome c oxidase subunit 7B2 [KO:K02271]
+            1350  COX7C; cytochrome c oxidase subunit 7C [KO:K02272]
+            341947  COX8C; cytochrome c oxidase subunit 8C [KO:K02273]
+            1351  COX8A; cytochrome c oxidase subunit 8A [KO:K02273]
+            6546  SLC8A1; solute carrier family 8 member A1 [KO:K05849]
+            6543  SLC8A2; solute carrier family 8 member A2 [KO:K05849]
+            6547  SLC8A3; solute carrier family 8 member A3 [KO:K05849]
+            10479  SLC9A6; solute carrier family 9 member A6 [KO:K12041]
+            84679  SLC9A7; solute carrier family 9 member A7 [KO:K12041]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            6548  SLC9A1; solute carrier family 9 member A1 [KO:K05742]
+COMPOUND    C00076  Calcium cation
+            C00080  H+
+            C00238  Potassium cation
+            C01330  Sodium cation
+REFERENCE   PMID:17988210
+  AUTHORS   Bers DM
+  TITLE     Calcium cycling and signaling in cardiac myocytes.
+  JOURNAL   Annu Rev Physiol 70:23-49 (2008)
+            DOI:10.1146/annurev.physiol.70.113006.100455
+REFERENCE   PMID:11805843
+  AUTHORS   Bers DM
+  TITLE     Cardiac excitation-contraction coupling.
+  JOURNAL   Nature 415:198-205 (2002)
+            DOI:10.1038/415198a
+REFERENCE   PMID:16799263
+  AUTHORS   Endoh M
+  TITLE     Signal transduction and Ca2+ signaling in intact myocardium.
+  JOURNAL   J Pharmacol Sci 100:525-37 (2006)
+            DOI:10.1254/jphs.CPJ06009X
+REFERENCE   PMID:18981594
+  AUTHORS   Endoh M
+  TITLE     Cardiac Ca2+ signaling and Ca2+ sensitizers.
+  JOURNAL   Circ J 72:1915-25 (2008)
+            DOI:10.1253/circj.CJ-08-0838
+REFERENCE   PMID:16552170
+  AUTHORS   Bers DM, Despa S
+  TITLE     Cardiac myocytes Ca2+ and Na+ regulation in normal and failing hearts.
+  JOURNAL   J Pharmacol Sci 100:315-22 (2006)
+            DOI:10.1254/jphs.CPJ06001X
+REFERENCE   PMID:10747208
+  AUTHORS   Gordon AM, Homsher E, Regnier M
+  TITLE     Regulation of contraction in striated muscle.
+  JOURNAL   Physiol Rev 80:853-924 (2000)
+            DOI:10.1152/physrev.2000.80.2.853
+REFERENCE   PMID:16701909
+  AUTHORS   Phrommintikul A, Chattipakorn N
+  TITLE     Roles of cardiac ryanodine receptor in heart failure and sudden cardiac death.
+  JOURNAL   Int J Cardiol 112:142-52 (2006)
+            DOI:10.1016/j.ijcard.2005.11.106
+REFERENCE   PMID:16096350
+  AUTHORS   Lacinova L
+  TITLE     Voltage-dependent calcium channels.
+  JOURNAL   Gen Physiol Biophys 24 Suppl 1:1-78 (2005)
+REFERENCE   PMID:12763850
+  AUTHORS   Lingrel J, Moseley A, Dostanic I, Cougnon M, He S, James P, Woo A, O'Connor K, Neumann J
+  TITLE     Functional roles of the alpha isoforms of the Na,K-ATPase.
+  JOURNAL   Ann N Y Acad Sci 986:354-9 (2003)
+            DOI:10.1111/j.1749-6632.2003.tb07214.x
+REFERENCE   PMID:11294886
+  AUTHORS   Berg JS, Powell BC, Cheney RE
+  TITLE     A millennial myosin census.
+  JOURNAL   Mol Biol Cell 12:780-94 (2001)
+            DOI:10.1091/mbc.12.4.780
+REFERENCE   PMID:15736582
+  AUTHORS   Parmacek MS, Solaro RJ
+  TITLE     Biology of the troponin complex in cardiac myocytes.
+  JOURNAL   Prog Cardiovasc Dis 47:159-76 (2004)
+            DOI:10.1016/j.pcad.2004.07.003
+REFERENCE   PMID:14659803
+  AUTHORS   Yamashita H, Sugiura S, Fujita H, Yasuda S, Nagai R, Saeki Y, Sunagawa K, Sugi H
+  TITLE     Myosin light chain isoforms modify force-generating ability of cardiac myosin by changing the kinetics of actin-myosin interaction.
+  JOURNAL   Cardiovasc Res 60:580-8 (2003)
+            DOI:10.1016/j.cardiores.2003.09.011
+REFERENCE   PMID:19403607
+  AUTHORS   Pritchard TJ, Kranias EG
+  TITLE     Junctin and the histidine-rich Ca2+ binding protein: potential roles in heart failure and arrhythmogenesis.
+  JOURNAL   J Physiol 587:3125-33 (2009)
+            DOI:10.1113/jphysiol.2009.172171
+REFERENCE   PMID:28596175
+  AUTHORS   Landstrom AP, Dobrev D, Wehrens XHT
+  TITLE     Calcium Signaling and Cardiac Arrhythmias.
+  JOURNAL   Circ Res 120:1969-1993 (2017)
+            DOI:10.1161/CIRCRESAHA.117.310083
+REL_PATHWAY hsa04020  Calcium signaling pathway
+KO_PATHWAY  ko04260
+///

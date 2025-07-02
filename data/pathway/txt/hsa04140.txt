@@ -1,0 +1,247 @@
+ENTRY       hsa04140                    Pathway
+NAME        Autophagy - animal - Homo sapiens (human)
+DESCRIPTION Autophagy (or macroautophagy) is a cellular catabolic pathway involving in protein degradation, organelle turnover, and non-selective breakdown of cytoplasmic components, which is evolutionarily conserved among eukaryotes and exquisitely regulated. This progress initiates with production of the autophagosome, a double-membrane intracellular structure of reticular origin that engulfs cytoplasmic contents and ultimately fuses with lysosomes for cargo degradation. Autophagy is regulated in response to extra- or intracellular stress and signals such as starvation, growth factor deprivation and ER stress. Constitutive level of autophagy plays an important role in cellular homeostasis and maintains quality control of essential cellular components.
+CLASS       Cellular Processes; Transport and catabolism
+PATHWAY_MAP hsa04140  Autophagy - animal
+NETWORK     nt06128  Autophagy (viruses and bacteria)
+            nt06164  Kaposi sarcoma-associated herpesvirus (KSHV)
+            nt06228  Autophagy
+            nt06413  Autophagy
+            nt06461  Huntington disease
+            nt06462  Spinocerebellar ataxia
+            nt06464  Amyotrophic lateral sclerosis
+  ELEMENT   N00155  Autophagy-vesicle nucleation
+            N00156  Autophagy-vesicle elongation
+            N01142  C9orf72-mediated autophagy initiation
+DBLINKS     GO: 0006914
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3630  INS; insulin [KO:K04526]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            8471  IRS4; insulin receptor substrate 4 [KO:K17446]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            22808  MRAS; muscle RAS oncogene homolog [KO:K07831]
+            6237  RRAS; RAS related [KO:K07829]
+            22800  RRAS2; RAS related 2 [KO:K07830]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            3091  HIF1A; hypoxia inducible factor 1 subunit alpha [KO:K08268]
+            54541  DDIT4; DNA damage inducible transcript 4 [KO:K08270]
+            7249  TSC2; TSC complex subunit 2 [KO:K07207]
+            7248  TSC1; TSC complex subunit 1 [KO:K07206]
+            664  BNIP3; BCL2 interacting protein 3 [KO:K15464]
+            6009  RHEB; Ras homolog, mTORC1 binding [KO:K07208]
+            57521  RPTOR; regulatory associated protein of MTOR complex 1 [KO:K07204]
+            64798  DEPTOR; DEP domain containing MTOR interacting protein [KO:K20402]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            84335  AKT1S1; AKT1 substrate 1 [KO:K16184]
+            64223  MLST8; MTOR associated protein, LST8 homolog [KO:K08266]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            3476  IGBP1; immunoglobulin binding protein 1 [KO:K17606]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            8408  ULK1; unc-51 like autophagy activating kinase 1 [KO:K21357] [EC:2.7.11.1]
+            9706  ULK2; unc-51 like autophagy activating kinase 2 [KO:K08269] [EC:2.7.11.1]
+            9776  ATG13; autophagy related 13 [KO:K08331]
+            60673  ATG101; autophagy related 101 [KO:K19730]
+            9821  RB1CC1; RB1 inducible coiled-coil 1 [KO:K17589]
+            23130  ATG2A; autophagy related 2A [KO:K17906]
+            55102  ATG2B; autophagy related 2B [KO:K17906]
+            26100  WIPI2; WD repeat domain, phosphoinositide interacting 2 [KO:K17908]
+            55062  WIPI1; WD repeat domain, phosphoinositide interacting 1 [KO:K17908]
+            285973  ATG9B; autophagy related 9B [KO:K17907]
+            79065  ATG9A; autophagy related 9A [KO:K17907]
+            55578  SUPT20H; SPT20 homolog, SAGA complex component [KO:K21245]
+            140775  SMCR8; SMCR8-C9orf72 complex subunit [KO:K23611]
+            55255  WDR41; WD repeat domain 41 [KO:K23610]
+            203228  C9orf72; C9orf72-SMCR8 complex subunit [KO:K23609]
+            4218  RAB8A; RAB8A, member RAS oncogene family [KO:K07901]
+            116442  RAB39B; RAB39B, member RAS oncogene family [KO:K07925]
+            8878  SQSTM1; sequestosome 1 [KO:K14381]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            10010  TANK; TRAF family member associated NFKB activator [KO:K12650]
+            5861  RAB1A; RAB1A, member RAS oncogene family [KO:K07874]
+            10670  RRAGA; Ras related GTP binding A [KO:K16185]
+            10325  RRAGB; Ras related GTP binding B [KO:K16185]
+            64121  RRAGC; Ras related GTP binding C [KO:K16186]
+            58528  RRAGD; Ras related GTP binding D [KO:K16186]
+            6794  STK11; serine/threonine kinase 11 [KO:K07298] [EC:2.7.11.1]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            8678  BECN1; beclin 1 [KO:K08334]
+            441925  BECN2; beclin 2 [KO:K08334]
+            29982  NRBF2; nuclear receptor binding factor 2 [KO:K21246]
+            30849  PIK3R4; phosphoinositide-3-kinase regulatory subunit 4 [KO:K08333] [EC:2.7.11.1]
+            5289  PIK3C3; phosphatidylinositol 3-kinase catalytic subunit type 3 [KO:K00914] [EC:2.7.1.137]
+            22863  ATG14; autophagy related 14 [KO:K17889]
+            55626  AMBRA1; autophagy and beclin 1 regulator 1 [KO:K17985]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            58476  TP53INP2; tumor protein p53 inducible nuclear protein 2 [KO:K21247]
+            81671  VMP1; vacuole membrane protein 1 [KO:K21248]
+            55014  STX17; syntaxin 17 [KO:K08491]
+            7405  UVRAG; UV radiation resistance associated [KO:K21249]
+            51100  SH3GLB1; SH3 domain containing GRB2 like, endophilin B1 [KO:K11248]
+            9711  RUBCN; rubicon autophagy regulator [KO:K19330]
+            10645  CAMKK2; calcium/calmodulin dependent protein kinase kinase 2 [KO:K07359] [EC:2.7.11.17]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            2081  ERN1; endoplasmic reticulum to nucleus signaling 1 [KO:K08852] [EC:2.7.11.1 3.1.26.-]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            1612  DAPK1; death associated protein kinase 1 [KO:K08803] [EC:2.7.11.1]
+            1613  DAPK3; death associated protein kinase 3 [KO:K08803] [EC:2.7.11.1]
+            23604  DAPK2; death associated protein kinase 2 [KO:K08803] [EC:2.7.11.1]
+            3146  HMGB1; high mobility group box 1 [KO:K10802]
+            118471  PRAP1; proline rich acidic protein 1 [KO:K21250]
+            9451  EIF2AK3; eukaryotic translation initiation factor 2 alpha kinase 3 [KO:K08860] [EC:2.7.11.1]
+            440275  EIF2AK4; eukaryotic translation initiation factor 2 alpha kinase 4 [KO:K16196] [EC:2.7.11.1]
+            1965  EIF2S1; eukaryotic translation initiation factor 2 subunit alpha [KO:K03237]
+            8897  MTMR3; myotubularin related protein 3 [KO:K18082] [EC:3.1.3.48 3.1.3.64 3.1.3.95]
+            9110  MTMR4; myotubularin related protein 4 [KO:K18082] [EC:3.1.3.48 3.1.3.64 3.1.3.95]
+            64419  MTMR14; myotubularin related protein 14 [KO:K18086] [EC:3.1.3.64 3.1.3.95]
+            53349  ZFYVE1; zinc finger FYVE-type containing 1 [KO:K17603]
+            9140  ATG12; autophagy related 12 [KO:K08336]
+            9474  ATG5; autophagy related 5 [KO:K08339]
+            55054  ATG16L1; autophagy related 16 like 1 [KO:K17890]
+            89849  ATG16L2; autophagy related 16 like 2 [KO:K20868]
+            10533  ATG7; autophagy related 7 [KO:K08337]
+            83734  ATG10; autophagy related 10 [KO:K17888]
+            64422  ATG3; autophagy related 3 [KO:K08343]
+            8837  CFLAR; CASP8 and FADD like apoptosis regulator [KO:K04724]
+            83452  RAB33B; RAB33B, member RAS oncogene family [KO:K07920]
+            5588  PRKCQ; protein kinase C theta [KO:K18052] [EC:2.7.11.13]
+            11337  GABARAP; GABA type A receptor-associated protein [KO:K08341]
+            23710  GABARAPL1; GABA type A receptor associated protein like 1 [KO:K08341]
+            11345  GABARAPL2; GABA type A receptor associated protein like 2 [KO:K08341]
+            440738  MAP1LC3C; microtubule associated protein 1 light chain 3 gamma [KO:K10435]
+            81631  MAP1LC3B; microtubule associated protein 1 light chain 3 beta [KO:K10435]
+            84557  MAP1LC3A; microtubule associated protein 1 light chain 3 alpha [KO:K10435]
+            643246  MAP1LC3B2; microtubule associated protein 1 light chain 3 beta 2 [KO:K10435]
+            115201  ATG4A; autophagy related 4A cysteine peptidase [KO:K08342] [EC:3.4.22.-]
+            23192  ATG4B; autophagy related 4B cysteine peptidase [KO:K08342] [EC:3.4.22.-]
+            84938  ATG4C; autophagy related 4C cysteine peptidase [KO:K08342] [EC:3.4.22.-]
+            84971  ATG4D; autophagy related 4D cysteine peptidase [KO:K08342] [EC:3.4.22.-]
+            3916  LAMP1; lysosomal associated membrane protein 1 [KO:K06528]
+            3920  LAMP2; lysosomal associated membrane protein 2 [KO:K06528]
+            7879  RAB7A; RAB7A, member RAS oncogene family [KO:K07897]
+            338382  RAB7B; RAB7B, member RAS oncogene family [KO:K07898]
+            8673  VAMP8; vesicle associated membrane protein 8 [KO:K08512]
+            9342  SNAP29; synaptosome associated protein 29 [KO:K08509]
+            1509  CTSD; cathepsin D [KO:K01379] [EC:3.4.23.5]
+            1514  CTSL; cathepsin L [KO:K01365] [EC:3.4.22.15]
+            1508  CTSB; cathepsin B [KO:K01363] [EC:3.4.22.1]
+COMPOUND    C00035  GDP
+            C00044  GTP
+            C00350  Phosphatidylethanolamine
+            C01194  1-Phosphatidyl-D-myo-inositol
+            C04549  1-Phosphatidyl-1D-myo-inositol 3-phosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:15325584
+  AUTHORS   Meijer AJ, Codogno P.
+  TITLE     Regulation and role of autophagy in mammalian cells.
+  JOURNAL   Int J Biochem Cell Biol 36:2445-62 (2004)
+            DOI:10.1016/j.biocel.2004.02.002
+REFERENCE   PMID:16099218
+  AUTHORS   Deretic V.
+  TITLE     Autophagy in innate and adaptive immunity.
+  JOURNAL   Trends Immunol 26:523-8 (2005)
+            DOI:10.1016/j.it.2005.08.003
+REFERENCE   PMID:16200202
+  AUTHORS   Levine B, Yuan J.
+  TITLE     Autophagy in cell death: an innocent convict?
+  JOURNAL   J Clin Invest 115:2679-88 (2005)
+            DOI:10.1172/JCI26390
+REFERENCE   PMID:15325588
+  AUTHORS   Tanida I, Ueno T, Kominami E.
+  TITLE     LC3 conjugation system in mammalian autophagy.
+  JOURNAL   Int J Biochem Cell Biol 36:2503-18 (2004)
+            DOI:10.1016/j.biocel.2004.05.009
+REFERENCE   PMID:15928708
+  AUTHORS   Lum JJ, DeBerardinis RJ, Thompson CB.
+  TITLE     Autophagy in metazoans: cell survival in the land of plenty.
+  JOURNAL   Nat Rev Mol Cell Biol 6:439-48 (2005)
+            DOI:10.1038/nrm1660
+REFERENCE   PMID:15978794
+  AUTHORS   Reggiori F, Klionsky DJ.
+  TITLE     Autophagosomes: biogenesis from scratch?
+  JOURNAL   Curr Opin Cell Biol 17:415-22 (2005)
+            DOI:10.1016/j.ceb.2005.06.007
+REFERENCE   PMID:11099404
+  AUTHORS   Klionsky DJ, Emr SD.
+  TITLE     Autophagy as a regulated pathway of cellular degradation.
+  JOURNAL   Science 290:1717-21 (2000)
+            DOI:10.1126/science.290.5497.1717
+REFERENCE   PMID:16125113
+  AUTHORS   Bechet D, Tassa A, Taillandier D, Combaret L, Attaix D.
+  TITLE     Lysosomal proteolysis in skeletal muscle.
+  JOURNAL   Int J Biochem Cell Biol 37:2098-114 (2005)
+            DOI:10.1016/j.biocel.2005.02.029
+REFERENCE   PMID:19653858
+  AUTHORS   He C, Klionsky DJ
+  TITLE     Regulation mechanisms and signaling pathways of autophagy.
+  JOURNAL   Annu Rev Genet 43:67-93 (2009)
+            DOI:10.1146/annurev-genet-102808-114910
+REFERENCE   PMID:19802558
+  AUTHORS   Yang Z, Klionsky DJ
+  TITLE     An overview of the molecular mechanism of autophagy.
+  JOURNAL   Curr Top Microbiol Immunol 335:1-32 (2009)
+            DOI:10.1007/978-3-642-00302-8_1
+REFERENCE   PMID:20034776
+  AUTHORS   Yang Z, Klionsky DJ
+  TITLE     Mammalian autophagy: core molecular machinery and signaling regulation.
+  JOURNAL   Curr Opin Cell Biol 22:124-31 (2010)
+            DOI:10.1016/j.ceb.2009.11.014
+REFERENCE   PMID:21187343
+  AUTHORS   Chen Y, Klionsky DJ
+  TITLE     The regulation of autophagy - unanswered questions.
+  JOURNAL   J Cell Sci 124:161-70 (2011)
+            DOI:10.1242/jcs.064576
+REFERENCE   PMID:21801009
+  AUTHORS   Mizushima N, Yoshimori T, Ohsumi Y
+  TITLE     The role of Atg proteins in autophagosome formation.
+  JOURNAL   Annu Rev Cell Dev Biol 27:107-32 (2011)
+            DOI:10.1146/annurev-cellbio-092910-154005
+REFERENCE   PMID:24343578
+  AUTHORS   Russell RC, Yuan HX, Guan KL
+  TITLE     Autophagy regulation by nutrient signaling.
+  JOURNAL   Cell Res 24:42-57 (2014)
+            DOI:10.1038/cr.2013.166
+REFERENCE   PMID:25948417
+  AUTHORS   Noda NN, Fujioka Y
+  TITLE     Atg1 family kinases in autophagy initiation.
+  JOURNAL   Cell Mol Life Sci 72:3083-96 (2015)
+            DOI:10.1007/s00018-015-1917-z
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04142  Lysosome
+            hsa04150  mTOR signaling pathway
+            hsa04152  AMPK signaling pathway
+            hsa04910  Insulin signaling pathway
+KO_PATHWAY  ko04140
+///

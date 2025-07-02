@@ -1,0 +1,417 @@
+ENTRY       hsa05415                    Pathway
+NAME        Diabetic cardiomyopathy - Homo sapiens (human)
+DESCRIPTION Diabetic cardiomyopathy has been defined as left ventricular dysfunction that occurs among patients with diabetes mellitus independent of a recognized cause such as coronary artery disease or hypertension. The pathogenesis of diabetic cardiomyopathy broadly involves hyperglycemia, increased circulating fatty acids, and insulin resistance contributing to reactive oxygen species (ROS) generation, mitochondrial dysfunction, impaired calcium metabolism, Renin-Angiotensin System (RAS) activation, and altered substrate metabolism. These effects result in cardiac fibrosis, hypertrophy, cardiomyocyte death, contractile dysfunction, endothelial cell damage and eventually heart failure. In the process of cardiac fibrosis, cardiac fibroblasts are the final effector cell.
+CLASS       Human Diseases; Cardiovascular disease
+PATHWAY_MAP hsa05415  Diabetic cardiomyopathy
+DISEASE     H02498  Diabetic cardiomyopathy
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6513  SLC2A1; solute carrier family 2 member 1 [KO:K07299]
+            6517  SLC2A4; solute carrier family 2 member 4 [KO:K07191]
+            9945  GFPT2; glutamine-fructose-6-phosphate transaminase 2 [KO:K00820] [EC:2.6.1.16]
+            2673  GFPT1; glutamine--fructose-6-phosphate transaminase 1 [KO:K00820] [EC:2.6.1.16]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            7137  TNNI3; troponin I3, cardiac type [KO:K12044]
+            6262  RYR2; ryanodine receptor 2 [KO:K04962]
+            5350  PLN; phospholamban [KO:K05852]
+            487  ATP2A1; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [KO:K05853] [EC:7.2.2.10]
+            489  ATP2A3; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [KO:K05853] [EC:7.2.2.10]
+            488  ATP2A2; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [KO:K05853] [EC:7.2.2.10]
+            6667  SP1; Sp1 transcription factor [KO:K04684]
+            183  AGT; angiotensinogen [KO:K09821]
+            5972  REN; renin [KO:K01380] [EC:3.4.23.15]
+            1215  CMA1; chymase 1 [KO:K01329] [EC:3.4.21.39]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            177  AGER; advanced glycosylation end-product specific receptor [KO:K19722]
+            1536  CYBB; cytochrome b-245 beta chain [KO:K21421] [EC:1.-.-.-]
+            653361  NCF1; neutrophil cytosolic factor 1 [KO:K08011]
+            1535  CYBA; cytochrome b-245 alpha chain [KO:K08009]
+            4688  NCF2; neutrophil cytosolic factor 2 [KO:K08010]
+            4689  NCF4; neutrophil cytosolic factor 4 [KO:K08012]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            185  AGTR1; angiotensin II receptor type 1 [KO:K04166]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            4313  MMP2; matrix metallopeptidase 2 [KO:K01398] [EC:3.4.24.24]
+            4318  MMP9; matrix metallopeptidase 9 [KO:K01403] [EC:3.4.24.35]
+            1277  COL1A1; collagen type I alpha 1 chain [KO:K06236]
+            1278  COL1A2; collagen type I alpha 2 chain [KO:K06236]
+            1281  COL3A1; collagen type III alpha 1 chain [KO:K19720]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            948  CD36; CD36 molecule [KO:K06259]
+            5465  PPARA; peroxisome proliferator activated receptor alpha [KO:K07294]
+            1375  CPT1B; carnitine palmitoyltransferase 1B [KO:K19523] [EC:2.3.1.21]
+            5164  PDK2; pyruvate dehydrogenase kinase 2 [KO:K00898] [EC:2.7.11.2]
+            5165  PDK3; pyruvate dehydrogenase kinase 3 [KO:K00898] [EC:2.7.11.2]
+            5166  PDK4; pyruvate dehydrogenase kinase 4 [KO:K00898] [EC:2.7.11.2]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            5524  PTPA; protein phosphatase 2 phosphatase activator [KO:K17605]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            1509  CTSD; cathepsin D [KO:K01379] [EC:3.4.23.5]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            1376  CPT2; carnitine palmitoyltransferase 2 [KO:K08766] [EC:2.3.1.21]
+            3630  INS; insulin [KO:K04526]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            2998  GYS2; glycogen synthase 2 [KO:K00693] [EC:2.4.1.11]
+            2997  GYS1; glycogen synthase 1 [KO:K00693] [EC:2.4.1.11]
+            9882  TBC1D4; TBC1 domain family member 4 [KO:K17902]
+            347411  MPC1L; mitochondrial pyruvate carrier 1 like [KO:K22138]
+            51660  MPC1; mitochondrial pyruvate carrier 1 [KO:K22138]
+            25874  MPC2; mitochondrial pyruvate carrier 2 [KO:K22139]
+            5161  PDHA2; pyruvate dehydrogenase E1 subunit alpha 2 [KO:K00161] [EC:1.2.4.1]
+            5160  PDHA1; pyruvate dehydrogenase E1 subunit alpha 1 [KO:K00161] [EC:1.2.4.1]
+            5162  PDHB; pyruvate dehydrogenase E1 subunit beta [KO:K00162] [EC:1.2.4.1]
+            4535  ND1; NADH dehydrogenase subunit 1 [KO:K03878] [EC:7.1.1.2]
+            4536  ND2; NADH dehydrogenase subunit 2 [KO:K03879] [EC:7.1.1.2]
+            4537  ND3; NADH dehydrogenase subunit 3 [KO:K03880] [EC:7.1.1.2]
+            4538  ND4; NADH dehydrogenase subunit 4 [KO:K03881] [EC:7.1.1.2]
+            4539  ND4L; NADH dehydrogenase subunit 4L [KO:K03882] [EC:7.1.1.2]
+            4540  ND5; NADH dehydrogenase subunit 5 [KO:K03883] [EC:7.1.1.2]
+            4541  ND6; NADH dehydrogenase subunit 6 [KO:K03884] [EC:7.1.1.2]
+            4723  NDUFV1; NADH:ubiquinone oxidoreductase core subunit V1 [KO:K03942] [EC:7.1.1.2]
+            4729  NDUFV2; NADH:ubiquinone oxidoreductase core subunit V2 [KO:K03943] [EC:7.1.1.2]
+            4731  NDUFV3; NADH:ubiquinone oxidoreductase subunit V3 [KO:K03944]
+            4694  NDUFA1; NADH:ubiquinone oxidoreductase subunit A1 [KO:K03945]
+            4695  NDUFA2; NADH:ubiquinone oxidoreductase subunit A2 [KO:K03946]
+            4696  NDUFA3; NADH:ubiquinone oxidoreductase subunit A3 [KO:K03947]
+            4697  NDUFA4; NDUFA4 mitochondrial complex associated [KO:K03948]
+            56901  NDUFA4L2; NDUFA4 mitochondrial complex associated like 2 [KO:K03948]
+            4698  NDUFA5; NADH:ubiquinone oxidoreductase subunit A5 [KO:K03949]
+            4700  NDUFA6; NADH:ubiquinone oxidoreductase subunit A6 [KO:K03950]
+            4701  NDUFA7; NADH:ubiquinone oxidoreductase subunit A7 [KO:K03951]
+            4702  NDUFA8; NADH:ubiquinone oxidoreductase subunit A8 [KO:K03952]
+            4704  NDUFA9; NADH:ubiquinone oxidoreductase subunit A9 [KO:K03953]
+            4705  NDUFA10; NADH:ubiquinone oxidoreductase subunit A10 [KO:K03954]
+            4706  NDUFAB1; NADH:ubiquinone oxidoreductase subunit AB1 [KO:K03955]
+            126328  NDUFA11; NADH:ubiquinone oxidoreductase subunit A11 [KO:K03956]
+            55967  NDUFA12; NADH:ubiquinone oxidoreductase subunit A12 [KO:K11352]
+            51079  NDUFA13; NADH:ubiquinone oxidoreductase subunit A13 [KO:K11353]
+            4707  NDUFB1; NADH:ubiquinone oxidoreductase subunit B1 [KO:K03957]
+            4708  NDUFB2; NADH:ubiquinone oxidoreductase subunit B2 [KO:K03958]
+            4709  NDUFB3; NADH:ubiquinone oxidoreductase subunit B3 [KO:K03959]
+            4710  NDUFB4; NADH:ubiquinone oxidoreductase subunit B4 [KO:K03960]
+            4711  NDUFB5; NADH:ubiquinone oxidoreductase subunit B5 [KO:K03961]
+            4712  NDUFB6; NADH:ubiquinone oxidoreductase subunit B6 [KO:K03962]
+            4713  NDUFB7; NADH:ubiquinone oxidoreductase subunit B7 [KO:K03963]
+            4714  NDUFB8; NADH:ubiquinone oxidoreductase subunit B8 [KO:K03964]
+            4715  NDUFB9; NADH:ubiquinone oxidoreductase subunit B9 [KO:K03965]
+            4716  NDUFB10; NADH:ubiquinone oxidoreductase subunit B10 [KO:K03966]
+            54539  NDUFB11; NADH:ubiquinone oxidoreductase subunit B11 [KO:K11351]
+            4719  NDUFS1; NADH:ubiquinone oxidoreductase core subunit S1 [KO:K03934] [EC:7.1.1.2]
+            4720  NDUFS2; NADH:ubiquinone oxidoreductase core subunit S2 [KO:K03935] [EC:7.1.1.2]
+            4722  NDUFS3; NADH:ubiquinone oxidoreductase core subunit S3 [KO:K03936] [EC:7.1.1.2]
+            4724  NDUFS4; NADH:ubiquinone oxidoreductase subunit S4 [KO:K03937]
+            4725  NDUFS5; NADH:ubiquinone oxidoreductase subunit S5 [KO:K03938]
+            4726  NDUFS6; NADH:ubiquinone oxidoreductase subunit S6 [KO:K03939]
+            374291  NDUFS7; NADH:ubiquinone oxidoreductase core subunit S7 [KO:K03940] [EC:7.1.1.2]
+            4728  NDUFS8; NADH:ubiquinone oxidoreductase core subunit S8 [KO:K03941] [EC:7.1.1.2]
+            4717  NDUFC1; NADH:ubiquinone oxidoreductase subunit C1 [KO:K03967]
+            4718  NDUFC2; NADH:ubiquinone oxidoreductase subunit C2 [KO:K03968]
+            100532726  NDUFC2-KCTD14; NDUFC2-KCTD14 readthrough [KO:K03968]
+            6389  SDHA; succinate dehydrogenase complex flavoprotein subunit A [KO:K00234] [EC:1.3.5.1]
+            6390  SDHB; succinate dehydrogenase complex iron sulfur subunit B [KO:K00235] [EC:1.3.5.1]
+            6391  SDHC; succinate dehydrogenase complex subunit C [KO:K00236]
+            6392  SDHD; succinate dehydrogenase complex subunit D [KO:K00237]
+            7386  UQCRFS1; ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [KO:K00411] [EC:7.1.1.8]
+            4519  CYTB; cytochrome b [KO:K00412]
+            1537  CYC1; cytochrome c1 [KO:K00413]
+            7384  UQCRC1; ubiquinol-cytochrome c reductase core protein 1 [KO:K00414]
+            7385  UQCRC2; ubiquinol-cytochrome c reductase core protein 2 [KO:K00415]
+            7388  UQCRH; ubiquinol-cytochrome c reductase hinge protein [KO:K00416]
+            440567  UQCRHL; ubiquinol-cytochrome c reductase hinge protein like [KO:K00416]
+            7381  UQCRB; ubiquinol-cytochrome c reductase binding protein [KO:K00417]
+            27089  UQCRQ; ubiquinol-cytochrome c reductase complex III subunit VII [KO:K00418]
+            29796  UQCR10; ubiquinol-cytochrome c reductase, complex III subunit X [KO:K00419]
+            10975  UQCR11; ubiquinol-cytochrome c reductase, complex III subunit XI [KO:K00420]
+            4514  COX3; cytochrome c oxidase subunit III [KO:K02262]
+            4512  COX1; cytochrome c oxidase subunit I [KO:K02256] [EC:7.1.1.9]
+            4513  COX2; cytochrome c oxidase subunit II [KO:K02261]
+            84701  COX4I2; cytochrome c oxidase subunit 4I2 [KO:K02263]
+            1327  COX4I1; cytochrome c oxidase subunit 4I1 [KO:K02263]
+            9377  COX5A; cytochrome c oxidase subunit 5A [KO:K02264]
+            1329  COX5B; cytochrome c oxidase subunit 5B [KO:K02265]
+            1337  COX6A1; cytochrome c oxidase subunit 6A1 [KO:K02266]
+            1339  COX6A2; cytochrome c oxidase subunit 6A2 [KO:K02266]
+            1340  COX6B1; cytochrome c oxidase subunit 6B1 [KO:K02267]
+            125965  COX6B2; cytochrome c oxidase subunit 6B2 [KO:K02267]
+            1345  COX6C; cytochrome c oxidase subunit 6C [KO:K02268]
+            1346  COX7A1; cytochrome c oxidase subunit 7A1 [KO:K02270]
+            1347  COX7A2; cytochrome c oxidase subunit 7A2 [KO:K02270]
+            9167  COX7A2L; cytochrome c oxidase subunit 7A2 like [KO:K02270]
+            1349  COX7B; cytochrome c oxidase subunit 7B [KO:K02271]
+            170712  COX7B2; cytochrome c oxidase subunit 7B2 [KO:K02271]
+            1350  COX7C; cytochrome c oxidase subunit 7C [KO:K02272]
+            341947  COX8C; cytochrome c oxidase subunit 8C [KO:K02273]
+            1351  COX8A; cytochrome c oxidase subunit 8A [KO:K02273]
+            498  ATP5F1A; ATP synthase F1 subunit alpha [KO:K02132]
+            506  ATP5F1B; ATP synthase F1 subunit beta [KO:K02133] [EC:7.1.2.2]
+            509  ATP5F1C; ATP synthase F1 subunit gamma [KO:K02136]
+            513  ATP5F1D; ATP synthase F1 subunit delta [KO:K02134]
+            514  ATP5F1E; ATP synthase F1 subunit epsilon [KO:K02135]
+            4508  ATP6; ATP synthase F0 subunit 6 [KO:K02126]
+            515  ATP5PB; ATP synthase peripheral stalk-membrane subunit b [KO:K02127]
+            516  ATP5MC1; ATP synthase membrane subunit c locus 1 [KO:K02128]
+            517  ATP5MC2; ATP synthase membrane subunit c locus 2 [KO:K02128]
+            518  ATP5MC3; ATP synthase membrane subunit c locus 3 [KO:K02128]
+            10476  ATP5PD; ATP synthase peripheral stalk subunit d [KO:K02138]
+            539  ATP5PO; ATP synthase peripheral stalk subunit OSCP [KO:K02137]
+            522  ATP5PF; ATP synthase peripheral stalk subunit F6 [KO:K02131]
+            4509  ATP8; ATP synthase F0 subunit 8 [KO:K02125]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            291  SLC25A4; solute carrier family 25 member 4 [KO:K05863]
+            292  SLC25A5; solute carrier family 25 member 5 [KO:K05863]
+            293  SLC25A6; solute carrier family 25 member 6 [KO:K05863]
+            83447  SLC25A31; solute carrier family 25 member 31 [KO:K05863]
+            10105  PPIF; peptidylprolyl isomerase F [KO:K09565] [EC:5.2.1.8]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            2597  GAPDH; glyceraldehyde-3-phosphate dehydrogenase [KO:K00134] [EC:1.2.1.12]
+            142  PARP1; poly(ADP-ribose) polymerase 1 [KO:K24070] [EC:2.4.2.30]
+            2539  G6PD; glucose-6-phosphate dehydrogenase [KO:K00036] [EC:1.1.1.49 1.1.1.363]
+            2936  GSR; glutathione-disulfide reductase [KO:K00383] [EC:1.8.1.7]
+            7046  TGFBR1; transforming growth factor beta receptor 1 [KO:K04674] [EC:2.7.11.30]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            4087  SMAD2; SMAD family member 2 [KO:K04500]
+            4088  SMAD3; SMAD family member 3 [KO:K23605]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            1636  ACE; angiotensin I converting enzyme [KO:K01283] [EC:3.4.15.1]
+COMPOUND    C00001  H2O
+            C00002  ATP
+            C00005  NADPH
+            C00006  NADP+
+            C00022  Pyruvate
+            C00024  Acetyl-CoA
+            C00027  Hydrogen peroxide
+            C00031  D-Glucose
+            C00043  UDP-N-acetyl-alpha-D-glucosamine
+            C00051  Glutathione
+            C00076  Calcium cation
+            C00085  D-Fructose 6-phosphate
+            C00092  D-Glucose 6-phosphate
+            C00095  D-Fructose
+            C00118  D-Glyceraldehyde 3-phosphate
+            C00127  Glutathione disulfide
+            C00162  Fatty acid
+            C00165  Diacylglycerol
+            C00195  N-Acylsphingosine
+            C00236  3-Phospho-D-glyceroyl phosphate
+            C00318  L-Carnitine
+            C00352  D-Glucosamine 6-phosphate
+            C00369  Starch
+            C00533  Nitric oxide
+            C00546  Methylglyoxal
+            C00704  Superoxide
+            C00794  D-Sorbitol
+            C00873  Angiotensin I
+            C02135  Angiotensin II
+            C02843  Long-chain acyl-CoA
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C06156  alpha-D-Glucosamine 1-phosphate
+            C16844  Hydroxyl radical
+            C21011  [Protein]-N(epsilon)-(carboxymethyl)lysine
+            C21012  [Protein]-N(epsilon)-(carboxyethyl)lysine
+            C21013  [Protein]-pyrraline
+            C21014  [Protein]-pentosidine
+            C22310  Fructose 3-phosphate
+            C22311  3-Deoxyglucosone
+REFERENCE   PMID:30443826
+  AUTHORS   Riehle C, Bauersachs J
+  TITLE     Of mice and men: models and mechanisms of diabetic cardiomyopathy.
+  JOURNAL   Basic Res Cardiol 114:2 (2018)
+            DOI:10.1007/s00395-018-0711-0
+REFERENCE   PMID:24462787
+  AUTHORS   Huynh K, Bernardo BC, McMullen JR, Ritchie RH
+  TITLE     Diabetic cardiomyopathy: mechanisms and new treatment strategies targeting antioxidant signaling pathways.
+  JOURNAL   Pharmacol Ther 142:375-415 (2014)
+            DOI:10.1016/j.pharmthera.2014.01.003
+REFERENCE   PMID:28231848
+  AUTHORS   Lorenzo-Almoros A, Tunon J, Orejas M, Cortes M, Egido J, Lorenzo O
+  TITLE     Diagnostic approaches for diabetic cardiomyopathy.
+  JOURNAL   Cardiovasc Diabetol 16:28 (2017)
+            DOI:10.1186/s12933-017-0506-x
+REFERENCE   PMID:32080423
+  AUTHORS   Tan Y, Zhang Z, Zheng C, Wintergerst KA, Keller BB, Cai L
+  TITLE     Mechanisms of diabetic cardiomyopathy and potential therapeutic strategies: preclinical and clinical evidence.
+  JOURNAL   Nat Rev Cardiol 17:585-607 (2020)
+            DOI:10.1038/s41569-020-0339-2
+REFERENCE   PMID:31212580
+  AUTHORS   Zamora M, Villena JA
+  TITLE     Contribution of Impaired Insulin Signaling to the Pathogenesis of Diabetic Cardiomyopathy.
+  JOURNAL   Int J Mol Sci 20:E2833 (2019)
+            DOI:10.3390/ijms20112833
+REFERENCE   PMID:29605388
+  AUTHORS   Palomer X, Pizarro-Delgado J, Vazquez-Carrera M
+  TITLE     Emerging Actors in Diabetic Cardiomyopathy: Heartbreaker Biomarkers or Therapeutic Targets?
+  JOURNAL   Trends Pharmacol Sci 39:452-467 (2018)
+            DOI:10.1016/j.tips.2018.02.010
+REFERENCE   PMID:28439258
+  AUTHORS   Mishra PK, Ying W, Nandi SS, Bandyopadhyay GK, Patel KK, Mahata SK
+  TITLE     Diabetic Cardiomyopathy: An Immunometabolic Perspective.
+  JOURNAL   Front Endocrinol (Lausanne) 8:72 (2017)
+            DOI:10.3389/fendo.2017.00072
+REFERENCE   PMID:28177068
+  AUTHORS   Chong CR, Clarke K, Levelt E
+  TITLE     Metabolic Remodeling in Diabetic Cardiomyopathy.
+  JOURNAL   Cardiovasc Res 113:422-430 (2017)
+            DOI:10.1093/cvr/cvx018
+REFERENCE   PMID:11742414
+  AUTHORS   Brownlee M
+  TITLE     Biochemistry and molecular cell biology of diabetic complications.
+  JOURNAL   Nature 414:813-20 (2001)
+            DOI:10.1038/414813a
+REFERENCE   PMID:32821697
+  AUTHORS   Gollmer J, Zirlik A, Bugger H
+  TITLE     Established and Emerging Mechanisms of Diabetic Cardiomyopathy.
+  JOURNAL   J Lipid Atheroscler 8:26-47 (2019)
+            DOI:10.12997/jla.2019.8.1.26
+REFERENCE   PMID:17592090
+  AUTHORS   Boudina S, Abel ED
+  TITLE     Diabetic cardiomyopathy revisited.
+  JOURNAL   Circulation 115:3213-23 (2007)
+            DOI:10.1161/CIRCULATIONAHA.106.679597
+REFERENCE   PMID:29109032
+  AUTHORS   Varma U, Koutsifeli P, Benson VL, Mellor KM, Delbridge LMD
+  TITLE     Molecular mechanisms of cardiac pathology in diabetes - Experimental insights.
+  JOURNAL   Biochim Biophys Acta Mol Basis Dis 1864:1949-1959 (2018)
+            DOI:10.1016/j.bbadis.2017.10.035
+REFERENCE   PMID:23147391
+  AUTHORS   Mandavia CH, Aroor AR, Demarco VG, Sowers JR
+  TITLE     Molecular and metabolic mechanisms of cardiac dysfunction in diabetes.
+  JOURNAL   Life Sci 92:601-8 (2013)
+            DOI:10.1016/j.lfs.2012.10.028
+REFERENCE   PMID:21626163
+  AUTHORS   Falcao-Pires I, Leite-Moreira AF
+  TITLE     Diabetic cardiomyopathy: understanding the molecular and cellular basis to progress in diagnosis and treatment.
+  JOURNAL   Heart Fail Rev 17:325-44 (2012)
+            DOI:10.1007/s10741-011-9257-z
+REFERENCE   PMID:27148064
+  AUTHORS   Westermeier F, Riquelme JA, Pavez M, Garrido V, Diaz A, Verdejo HE, Castro PF, Garcia L, Lavandero S
+  TITLE     New Molecular Insights of Insulin in Diabetic Cardiomyopathy.
+  JOURNAL   Front Physiol 7:125 (2016)
+            DOI:10.3389/fphys.2016.00125
+REFERENCE   PMID:33276047
+  AUTHORS   Randhawa VK, Dhanvantari S, Connelly K
+  TITLE     How Diabetes and Heart Failure Modulate Each Other and Condition Management.
+  JOURNAL   Can J Cardiol S0828-282X(20)31115-6 (2020)
+            DOI:10.1016/j.cjca.2020.11.014
+REFERENCE   PMID:31641426
+  AUTHORS   Athithan L, Gulsin GS, McCann GP, Levelt E
+  TITLE     Diabetic cardiomyopathy: Pathophysiology, theories and evidence to date.
+  JOURNAL   World J Diabetes 10:490-510 (2019)
+            DOI:10.4239/wjd.v10.i10.490
+REFERENCE   PMID:21111987
+  AUTHORS   Murarka S, Movahed MR
+  TITLE     Diabetic cardiomyopathy.
+  JOURNAL   J Card Fail 16:971-9 (2010)
+            DOI:10.1016/j.cardfail.2010.07.249
+REFERENCE   PMID:25085967
+  AUTHORS   Thomas CM, Yong QC, Rosa RM, Seqqat R, Gopal S, Casarini DE, Jones WK, Gupta S, Baker KM, Kumar R
+  TITLE     Cardiac-specific suppression of NF-kappaB signaling prevents diabetic cardiomyopathy via inhibition of the renin-angiotensin system.
+  JOURNAL   Am J Physiol Heart Circ Physiol 307:H1036-45 (2014)
+            DOI:10.1152/ajpheart.00340.2014
+REFERENCE   PMID:28236380
+  AUTHORS   Brahma MK, Pepin ME, Wende AR
+  TITLE     My Sweetheart Is Broken: Role of Glucose in Diabetic Cardiomyopathy.
+  JOURNAL   Diabetes Metab J 41:1-9 (2017)
+            DOI:10.4093/dmj.2017.41.1.1
+REFERENCE   PMID:18829990
+  AUTHORS   Singh VP, Le B, Khode R, Baker KM, Kumar R
+  TITLE     Intracellular angiotensin II production in diabetic rats is correlated with cardiomyocyte apoptosis, oxidative stress, and cardiac fibrosis.
+  JOURNAL   Diabetes 57:3297-306 (2008)
+            DOI:10.2337/db08-0805
+REFERENCE   PMID:18296558
+  AUTHORS   Singh VP, Baker KM, Kumar R
+  TITLE     Activation of the intracellular renin-angiotensin system in cardiac fibroblasts by high glucose: role in extracellular matrix production.
+  JOURNAL   Am J Physiol Heart Circ Physiol 294:H1675-84 (2008)
+            DOI:10.1152/ajpheart.91493.2007
+REFERENCE   PMID:26678809
+  AUTHORS   Jia G, DeMarco VG, Sowers JR
+  TITLE     Insulin resistance and hyperinsulinaemia in diabetic cardiomyopathy.
+  JOURNAL   Nat Rev Endocrinol 12:144-53 (2016)
+            DOI:10.1038/nrendo.2015.216
+REFERENCE   PMID:18309108
+  AUTHORS   Kim JA, Wei Y, Sowers JR
+  TITLE     Role of mitochondrial dysfunction in insulin resistance.
+  JOURNAL   Circ Res 102:401-14 (2008)
+            DOI:10.1161/CIRCRESAHA.107.165472
+REFERENCE   PMID:30170598
+  AUTHORS   Ormazabal V, Nair S, Elfeky O, Aguayo C, Salomon C, Zuniga FA
+  TITLE     Association between insulin resistance and the development of cardiovascular disease.
+  JOURNAL   Cardiovasc Diabetol 17:122 (2018)
+            DOI:10.1186/s12933-018-0762-4
+REFERENCE   PMID:31269778
+  AUTHORS   Evangelista I, Nuti R, Picchioni T, Dotta F, Palazzuoli A
+  TITLE     Molecular Dysfunction and Phenotypic Derangement in Diabetic Cardiomyopathy.
+  JOURNAL   Int J Mol Sci 20:E3264 (2019)
+            DOI:10.3390/ijms20133264
+REFERENCE   PMID:24307101
+  AUTHORS   Joshi M, Kotha SR, Malireddy S, Selvaraju V, Satoskar AR, Palesty A, McFadden DW, Parinandi NL, Maulik N
+  TITLE     Conundrum of pathogenesis of diabetic cardiomyopathy: role of vascular endothelial dysfunction, reactive oxygen species, and mitochondria.
+  JOURNAL   Mol Cell Biochem 386:233-49 (2014)
+            DOI:10.1007/s11010-013-1861-x
+REFERENCE   PMID:29867137
+  AUTHORS   Knapp M, Tu X, Wu R
+  TITLE     Vascular endothelial dysfunction, a major mediator in diabetic cardiomyopathy.
+  JOURNAL   Acta Pharmacol Sin 40:1-8 (2019)
+            DOI:10.1038/s41401-018-0042-6
+REFERENCE   PMID:16487830
+  AUTHORS   Asbun J, Villarreal FJ
+  TITLE     The pathogenesis of myocardial fibrosis in the setting of diabetic cardiomyopathy.
+  JOURNAL   J Am Coll Cardiol 47:693-700 (2006)
+            DOI:10.1016/j.jacc.2005.09.050
+REFERENCE   PMID:32024054
+  AUTHORS   Levick SP, Widiapradja A
+  TITLE     The Diabetic Cardiac Fibroblast: Mechanisms Underlying Phenotype and Function.
+  JOURNAL   Int J Mol Sci 21:E970 (2020)
+            DOI:10.3390/ijms21030970
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00190  Oxidative phosphorylation
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa03320  PPAR signaling pathway
+            hsa04071  Sphingolipid signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04210  Apoptosis
+            hsa04260  Cardiac muscle contraction
+            hsa04350  TGF-beta signaling pathway
+            hsa04614  Renin-angiotensin system
+            hsa04910  Insulin signaling pathway
+            hsa04930  Type II diabetes mellitus
+            hsa04931  Insulin resistance
+            hsa04933  AGE-RAGE signaling pathway in diabetic complications
+            hsa04940  Type I diabetes mellitus
+KO_PATHWAY  ko05415
+///

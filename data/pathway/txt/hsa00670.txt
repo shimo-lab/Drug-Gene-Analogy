@@ -1,0 +1,65 @@
+ENTRY       hsa00670                    Pathway
+NAME        One carbon pool by folate - Homo sapiens (human)
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP hsa00670  One carbon pool by folate
+MODULE      hsa_M00141  C1-unit interconversion, eukaryotes [PATH:hsa00670]
+DRUG        D00142  Methotrexate (JP18/USP/INN)
+            D00584  Fluorouracil (JP18/USP/INN)
+            D01064  Raltitrexed (JAN/USAN/INN)
+            D01223  Capecitabine (JAN/USP/INN)
+            D01244  Tegafur (JP18/USAN/INN)
+            D01309  Doxifluridine (JP18/INN)
+            D01784  Carmofur (JP18/INN)
+            D02115  Methotrexate sodium
+            D03828  Pemetrexed disodium (USAN)
+            D03942  Edatrexate (USAN/INN)
+            D04197  Floxuridine (USP/INN)
+            D04766  Lometrexol sodium (USAN)
+            D04964  Metesind glucuronate (USAN)
+            D05500  Piritrexim isethionate (USAN)
+            D05589  Pralatrexate (JAN/USAN/INN)
+            D05999  Talotrexin ammonium (USAN)
+            D06238  Trimetrexate (USAN/INN)
+            D06239  Trimetrexate glucuronate (USAN)
+            D06503  Pemetrexed sodium hydrate (JAN)
+            D07472  Pemetrexed (INN)
+            D07974  Fluorouracil sodium salt
+            D10596  Pemetrexed sodium hemipentahydrate (JAN)
+            D10803  Plevitrexed (INN)
+            D11352  Pemetrexed tromethamine (USAN)
+            D11447  Arfolitixorin (USAN/INN)
+            D12388  Fosifloxuridine nafalbenamide
+DBLINKS     GO: 0035999
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1719  DHFR; dihydrofolate reductase [KO:K00287] [EC:1.5.1.3]
+            200895  DHFR2; dihydrofolate reductase 2 [KO:K00287] [EC:1.5.1.3]
+            25902  MTHFD1L; methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1 like [KO:K13402] [EC:6.3.4.3]
+            4522  MTHFD1; methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1 [KO:K00288] [EC:1.5.1.5 3.5.4.9 6.3.4.3]
+            10797  MTHFD2; methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase [KO:K13403] [EC:1.5.1.15 3.5.4.9]
+            441024  MTHFD2L; methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2 like [KO:K13403] [EC:1.5.1.15 3.5.4.9]
+            6472  SHMT2; serine hydroxymethyltransferase 2 [KO:K00600] [EC:2.1.2.1]
+            6470  SHMT1; serine hydroxymethyltransferase 1 [KO:K00600] [EC:2.1.2.1]
+            2618  GART; phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase [KO:K11787] [EC:6.3.4.13 2.1.2.2 6.3.3.1]
+            471  ATIC; 5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase [KO:K00602] [EC:2.1.2.3 3.5.4.10]
+            10841  FTCD; formimidoyltransferase cyclodeaminase [KO:K13990] [EC:2.1.2.5 4.3.1.4]
+            123263  MTFMT; mitochondrial methionyl-tRNA formyltransferase [KO:K00604] [EC:2.1.2.9]
+            275  AMT; aminomethyltransferase [KO:K00605] [EC:2.1.2.10]
+            4548  MTR; 5-methyltetrahydrofolate-homocysteine methyltransferase [KO:K00548] [EC:2.1.1.13]
+            7298  TYMS; thymidylate synthetase [KO:K00560] [EC:2.1.1.45]
+            10840  ALDH1L1; aldehyde dehydrogenase 1 family member L1 [KO:K00289] [EC:1.5.1.6]
+            160428  ALDH1L2; aldehyde dehydrogenase 1 family member L2 [KO:K00289] [EC:1.5.1.6]
+            4524  MTHFR; methylenetetrahydrofolate reductase [KO:K25004] [EC:1.5.1.53]
+            10588  MTHFS; methenyltetrahydrofolate synthetase [KO:K01934] [EC:6.3.3.2]
+            100528021  ST20-MTHFS; ST20-MTHFS readthrough [KO:K01934] [EC:6.3.3.2]
+COMPOUND    C00101  Tetrahydrofolate
+            C00143  5,10-Methylenetetrahydrofolate
+            C00234  10-Formyltetrahydrofolate
+            C00415  Dihydrofolate
+            C00440  5-Methyltetrahydrofolate
+            C00445  5,10-Methenyltetrahydrofolate
+            C00504  Folate
+            C00664  5-Formiminotetrahydrofolate
+            C03479  Folinic acid
+REL_PATHWAY hsa00790  Folate biosynthesis
+KO_PATHWAY  ko00670
+///

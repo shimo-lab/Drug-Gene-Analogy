@@ -1,0 +1,58 @@
+ENTRY       hsa04950                    Pathway
+NAME        Maturity onset diabetes of the young - Homo sapiens (human)
+DESCRIPTION About 2-5% of type II diabetic patients suffer from a monogenic disease with autosomal dominant inheritance. This monogenic form of type II diabetes is called maturity onset diabetes of the young (MODY).
+            We now know that MODY is caused by heterozygous mutations in at least five genes encoding transcription factors: HNF4alpha (MODY1), HNF1alpha (MODY3), PDX1 (MODY4), HNF1beta (MODY5) and NEUROD1 (MODY6). MODY2, which is so far the only subtype not related to a transcription factor, is caused by mutations in the glucokinase gene. Mutations of MODY transcription factor genes lead to abnormal expression of genes involved in pancreatic islet development and metabolism.
+CLASS       Human Diseases; Endocrine and metabolic disease
+PATHWAY_MAP hsa04950  Maturity onset diabetes of the young
+DISEASE     H00410  Maturity onset diabetes of the young (MODY)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3087  HHEX; hematopoietically expressed homeobox [KO:K08024]
+            3110  MNX1; motor neuron and pancreas homeobox 1 [KO:K08025]
+            3175  ONECUT1; one cut homeobox 1 [KO:K08026]
+            3651  PDX1; pancreatic and duodenal homeobox 1 [KO:K07594]
+            2494  NR5A2; nuclear receptor subfamily 5 group A member 2 [KO:K08027]
+            50674  NEUROG3; neurogenin 3 [KO:K08028]
+            4821  NKX2-2; NK2 homeobox 2 [KO:K08029]
+            4825  NKX6-1; NK6 homeobox 1 [KO:K08030]
+            5080  PAX6; paired box 6 [KO:K08031]
+            5078  PAX4; paired box 4 [KO:K08032]
+            4760  NEUROD1; neuronal differentiation 1 [KO:K08033]
+            222546  RFX6; regulatory factor X6 [KO:K19521]
+            3280  HES1; hes family bHLH transcription factor 1 [KO:K06054]
+            6928  HNF1B; HNF1 homeobox B [KO:K08034]
+            3170  FOXA2; forkhead box A2 [KO:K08035]
+            389692  MAFA; MAF bZIP transcription factor A [KO:K07595]
+            3172  HNF4A; hepatocyte nuclear factor 4 alpha [KO:K07292]
+            6927  HNF1A; HNF1 homeobox A [KO:K08036]
+            3174  HNF4G; hepatocyte nuclear factor 4 gamma [KO:K08037]
+            3171  FOXA3; forkhead box A3 [KO:K08038]
+            5313  PKLR; pyruvate kinase L/R [KO:K12406] [EC:2.7.1.40]
+            6514  SLC2A2; solute carrier family 2 member 2 [KO:K07593]
+            3630  INS; insulin [KO:K04526]
+            3375  IAPP; islet amyloid polypeptide [KO:K08039]
+            2645  GCK; glucokinase [KO:K12407] [EC:2.7.1.2]
+            168620  BHLHA15; basic helix-loop-helix family member a15 [KO:K08040]
+REFERENCE   PMID:15298336
+  AUTHORS   Servitja JM, Ferrer J.
+  TITLE     Transcriptional networks controlling pancreatic development and beta cell function.
+  JOURNAL   Diabetologia 47:597-613 (2004)
+            DOI:10.1007/s00125-004-1368-9
+REFERENCE   PMID:15604203
+  AUTHORS   Habener JF, Kemp DM, Thomas MK.
+  TITLE     Minireview: transcriptional regulation in pancreatic development.
+  JOURNAL   Endocrinology 146:1025-34 (2005)
+            DOI:10.1210/en.2004-1576
+REFERENCE   PMID:15028942
+  AUTHORS   Ashizawa S, Brunicardi FC, Wang XP.
+  TITLE     PDX-1 and the pancreas.
+  JOURNAL   Pancreas 28:109-20 (2004)
+            DOI:10.1097/00006676-200403000-00001
+REFERENCE   PMID:14614204
+  AUTHORS   Yamagata K.
+  TITLE     Regulation of pancreatic beta-cell function by the HNF transcription network: lessons from maturity-onset diabetes of the young (MODY).
+  JOURNAL   Endocr J 50:491-9 (2003)
+            DOI:10.1507/endocrj.50.491
+REL_PATHWAY hsa04910  Insulin signaling pathway
+            hsa04930  Type II diabetes mellitus
+KO_PATHWAY  ko04950
+///

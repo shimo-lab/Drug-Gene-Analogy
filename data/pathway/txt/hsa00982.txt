@@ -1,0 +1,272 @@
+ENTRY       hsa00982                    Pathway
+NAME        Drug metabolism - cytochrome P450 - Homo sapiens (human)
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP hsa00982  Drug metabolism - cytochrome P450
+DRUG        D00505  Phenelzine sulfate (USP)
+            D00826  Tranylcypromine sulfate (USP)
+            D01888  Safrazine hydrochloride (JAN)
+            D02559  Toloxatone (INN)
+            D02560  Brofaromine (INN)
+            D02561  Moclobemide (USAN/INN)
+            D02563  Befloxatone (INN)
+            D02579  Iproniazid (INN)
+            D02580  Isocarboxazid (INN)
+            D03248  Clorgiline (INN)
+            D03409  Caroxazone (USAN/INN)
+            D04092  Etryptamine acetate (USAN)
+            D07337  Nialamide (INN)
+            D07338  Iproclozide (INN)
+            D08085  Iproniazid phosphate
+            D08349  Phenelzine (BAN)
+            D08392  Pirlindole (INN)
+            D08393  Pirlindole hydrochloride
+            D08625  Tranylcypromine (INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1565  CYP2D6; cytochrome P450 family 2 subfamily D member 6 [KO:K17712] [EC:1.14.14.1]
+            107987478  cytochrome P450 2D6-like [KO:K17712] [EC:1.14.14.1]
+            1564  CYP2D7; cytochrome P450 family 2 subfamily D member 7 (gene/pseudogene) [KO:K17712] [EC:1.14.14.1]
+            107987479  CYP2D6; cytochrome P450 2D6 [KO:K17712] [EC:1.14.14.1]
+            1559  CYP2C9; cytochrome P450 family 2 subfamily C member 9 [KO:K17719] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.-]
+            1576  CYP3A4; cytochrome P450 family 3 subfamily A member 4 [KO:K17689] [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.14.-]
+            2326  FMO1; flavin containing dimethylaniline monoxygenase 1 [KO:K00485] [EC:1.14.13.8 1.8.1.-]
+            2327  FMO2; flavin containing dimethylaniline monoxygenase 2 [KO:K00485] [EC:1.14.13.8 1.8.1.-]
+            2330  FMO5; flavin containing dimethylaniline monoxygenase 5 [KO:K00485] [EC:1.14.13.8 1.8.1.-]
+            2328  FMO3; flavin containing dimethylaniline monoxygenase 3 [KO:K00485] [EC:1.14.13.8 1.8.1.-]
+            2329  FMO4; flavin containing dimethylaniline monoxygenase 4 [KO:K00485] [EC:1.14.13.8 1.8.1.-]
+            1557  CYP2C19; cytochrome P450 family 2 subfamily C member 19 [KO:K17721] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.75 1.14.14.-]
+            1555  CYP2B6; cytochrome P450 family 2 subfamily B member 6 [KO:K17709] [EC:1.14.14.-]
+            1577  CYP3A5; cytochrome P450 family 3 subfamily A member 5 [KO:K17690] [EC:1.14.14.1]
+            221357  GSTA5; glutathione S-transferase alpha 5 [KO:K00799] [EC:2.5.1.18]
+            2939  GSTA2; glutathione S-transferase alpha 2 [KO:K00799] [EC:2.5.1.18]
+            2941  GSTA4; glutathione S-transferase alpha 4 [KO:K00799] [EC:2.5.1.18]
+            119391  GSTO2; glutathione S-transferase omega 2 [KO:K00799] [EC:2.5.1.18]
+            2948  GSTM4; glutathione S-transferase mu 4 [KO:K00799] [EC:2.5.1.18]
+            2953  GSTT2; glutathione S-transferase theta 2 (gene/pseudogene) [KO:K00799] [EC:2.5.1.18]
+            2952  GSTT1; glutathione S-transferase theta 1 [KO:K00799] [EC:2.5.1.18]
+            2947  GSTM3; glutathione S-transferase mu 3 [KO:K00799] [EC:2.5.1.18]
+            4257  MGST1; microsomal glutathione S-transferase 1 [KO:K00799] [EC:2.5.1.18]
+            4259  MGST3; microsomal glutathione S-transferase 3 [KO:K00799] [EC:2.5.1.18]
+            2944  GSTM1; glutathione S-transferase mu 1 [KO:K00799] [EC:2.5.1.18]
+            2949  GSTM5; glutathione S-transferase mu 5 [KO:K00799] [EC:2.5.1.18]
+            4258  MGST2; microsomal glutathione S-transferase 2 [KO:K00799] [EC:2.5.1.18]
+            2938  GSTA1; glutathione S-transferase alpha 1 [KO:K00799] [EC:2.5.1.18]
+            2946  GSTM2; glutathione S-transferase mu 2 [KO:K00799] [EC:2.5.1.18]
+            2940  GSTA3; glutathione S-transferase alpha 3 [KO:K00799] [EC:2.5.1.18]
+            9446  GSTO1; glutathione S-transferase omega 1 [KO:K00799] [EC:2.5.1.18]
+            653689  GSTT2B; glutathione S-transferase theta 2B [KO:K00799] [EC:2.5.1.18]
+            2950  GSTP1; glutathione S-transferase pi 1 [KO:K23790] [EC:2.5.1.18]
+            373156  GSTK1; glutathione S-transferase kappa 1 [KO:K13299] [EC:2.5.1.18]
+            27306  HPGDS; hematopoietic prostaglandin D synthase [KO:K04097] [EC:5.3.99.2 2.5.1.18]
+            124  ADH1A; alcohol dehydrogenase 1A (class I), alpha polypeptide [KO:K13951] [EC:1.1.1.1]
+            125  ADH1B; alcohol dehydrogenase 1B (class I), beta polypeptide [KO:K13951] [EC:1.1.1.1]
+            126  ADH1C; alcohol dehydrogenase 1C (class I), gamma polypeptide [KO:K13951] [EC:1.1.1.1]
+            131  ADH7; alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [KO:K13951] [EC:1.1.1.1]
+            127  ADH4; alcohol dehydrogenase 4 (class II), pi polypeptide [KO:K13980] [EC:1.1.1.1]
+            128  ADH5; alcohol dehydrogenase 5 (class III), chi polypeptide [KO:K00121] [EC:1.1.1.284 1.1.1.1]
+            130  ADH6; alcohol dehydrogenase 6 (class V) [KO:K13952] [EC:1.1.1.1]
+            221  ALDH3B1; aldehyde dehydrogenase 3 family member B1 [KO:K00129] [EC:1.2.1.5]
+            222  ALDH3B2; aldehyde dehydrogenase 3 family member B2 [KO:K00129] [EC:1.2.1.5]
+            218  ALDH3A1; aldehyde dehydrogenase 3 family member A1 [KO:K00129] [EC:1.2.1.5]
+            4129  MAOB; monoamine oxidase B [KO:K00274] [EC:1.4.3.4]
+            4128  MAOA; monoamine oxidase A [KO:K00274] [EC:1.4.3.4]
+            316  AOX1; aldehyde oxidase 1 [KO:K00157] [EC:1.2.3.1]
+            10941  UGT2A1; UDP glucuronosyltransferase family 2 member A1 complex locus [KO:K00699] [EC:2.4.1.17]
+            79799  UGT2A3; UDP glucuronosyltransferase family 2 member A3 [KO:K00699] [EC:2.4.1.17]
+            7367  UGT2B17; UDP glucuronosyltransferase family 2 member B17 [KO:K00699] [EC:2.4.1.17]
+            10720  UGT2B11; UDP glucuronosyltransferase family 2 member B11 [KO:K00699] [EC:2.4.1.17]
+            54490  UGT2B28; UDP glucuronosyltransferase family 2 member B28 [KO:K00699] [EC:2.4.1.17]
+            54578  UGT1A6; UDP glucuronosyltransferase family 1 member A6 [KO:K00699] [EC:2.4.1.17]
+            54657  UGT1A4; UDP glucuronosyltransferase family 1 member A4 [KO:K00699] [EC:2.4.1.17]
+            54658  UGT1A1; UDP glucuronosyltransferase family 1 member A1 [KO:K00699] [EC:2.4.1.17]
+            54659  UGT1A3; UDP glucuronosyltransferase family 1 member A3 [KO:K00699] [EC:2.4.1.17]
+            7365  UGT2B10; UDP glucuronosyltransferase family 2 member B10 [KO:K00699] [EC:2.4.1.17]
+            54600  UGT1A9; UDP glucuronosyltransferase family 1 member A9 [KO:K00699] [EC:2.4.1.17]
+            7364  UGT2B7; UDP glucuronosyltransferase family 2 member B7 [KO:K00699] [EC:2.4.1.17]
+            54575  UGT1A10; UDP glucuronosyltransferase family 1 member A10 [KO:K00699] [EC:2.4.1.17]
+            54576  UGT1A8; UDP glucuronosyltransferase family 1 member A8 [KO:K00699] [EC:2.4.1.17]
+            54579  UGT1A5; UDP glucuronosyltransferase family 1 member A5 [KO:K00699] [EC:2.4.1.17]
+            7366  UGT2B15; UDP glucuronosyltransferase family 2 member B15 [KO:K00699] [EC:2.4.1.17]
+            54577  UGT1A7; UDP glucuronosyltransferase family 1 member A7 [KO:K00699] [EC:2.4.1.17]
+            7363  UGT2B4; UDP glucuronosyltransferase family 2 member B4 [KO:K00699] [EC:2.4.1.17]
+            574537  UGT2A2; UDP glucuronosyltransferase family 2 member A2 [KO:K00699] [EC:2.4.1.17]
+            1544  CYP1A2; cytochrome P450 family 1 subfamily A member 2 [KO:K07409] [EC:1.14.14.1]
+            1571  CYP2E1; cytochrome P450 family 2 subfamily E member 1 [KO:K07415] [EC:1.14.14.-]
+            1558  CYP2C8; cytochrome P450 family 2 subfamily C member 8 [KO:K17718] [EC:1.14.14.1]
+            1548  CYP2A6; cytochrome P450 family 2 subfamily A member 6 [KO:K17683] [EC:1.14.14.-]
+            1549  CYP2A7; cytochrome P450 family 2 subfamily A member 7 [KO:K17683] [EC:1.14.14.-]
+COMPOUND    C01471  Acrolein
+            C01516  Morphine
+            C05011  Hydroxytamoxifen
+            C06174  Codeine
+            C06754  Chloroacetaldehyde
+            C06868  Carbamazepine
+            C07047  Ifosfamide
+            C07073  Lidocaine
+            C07108  Tamoxifen
+            C07163  Methadone
+            C07185  Valproic acid
+            C07492  Oxcarbazepine
+            C07493  10-Hydroxycarbazepine
+            C07495  Dihydroxycarbazepine
+            C07496  Carbamazepine-10,11-epoxide
+            C07501  Felbamate
+            C07572  Citalopram
+            C07643  4-Hydroxycyclophosphamide
+            C07644  4-Ketocyclophosphamide
+            C07645  Aldophosphamide
+            C07646  Carboxyphosphamide
+            C07647  Phosphoramide mustard
+            C07888  Cyclophosphamide
+            C08012  Levomethadyl acetate
+            C11004  2,6-Dimethylaniline
+            C11583  4-Glutathionyl cyclophosphamide
+            C11785  Normorphine
+            C16544  alpha-Hydroxytamoxifen
+            C16545  Tamoxifen N-oxide
+            C16546  N-Desmethyltamoxifen
+            C16547  Endoxifen
+            C16548  N,N-Didesmethyltamoxifen
+            C16549  alpha-Hydroxy-N-desmethyltamoxifen
+            C16550  Dechloroethylcyclophosphamide
+            C16551  Alcophosphamide
+            C16552  Nornitrogen mustard
+            C16553  4-Hydroxyifosfamide
+            C16554  4-Ketoifosfamide
+            C16555  2-Dechloroethylifosfamide
+            C16556  Aldoifosfamide
+            C16557  Carboxyifosfamide
+            C16558  Alcoifosfamide
+            C16559  Isophosphoramide mustard
+            C16560  3-Hydroxylidocaine
+            C16561  Monoethylglycinexylidide
+            C16569  Glycinexylidide
+            C16570  4-Hydroxy-2,6-dimethylaniline
+            C16571  2-Amino-3-methylbenzoate
+            C16572  3-Hydroxymonoethylglycinexylidide
+            C16576  Norcodeine
+            C16577  Codeine-6-glucuronide
+            C16578  Morphine-6-glucuronide
+            C16582  2-Hydroxyfelbamate
+            C16584  p-Hydroxyfelbamate
+            C16586  2-Phenyl-1,3-propanediol monocarbamate
+            C16587  3-Carbamoyl-2-phenylpropionaldehyde
+            C16591  3-Carbamoyl-2-phenylpropionic acid
+            C16592  Atropaldehyde
+            C16595  4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one
+            C16596  5-Phenyl-1,3-oxazinane-2,4-dione
+            C16601  2-Hydroxycarbamazepine
+            C16602  3-Hydroxycarbamazepine
+            C16603  2,3-Dihydroxycarbamazepine
+            C16604  2-Hydroxyiminostilbene
+            C16605  2H-Dibenz[b,f]azepin-2-one
+            C16606  Carbamazepine-o-quinone
+            C16607  Citalopram N-oxide
+            C16608  Demethylcitalopram
+            C16609  Didemethylcitalopram
+            C16610  Citalopram propionic acid
+            C16612  Citalopram aldehyde
+            C16643  Morphine-3-glucuronide
+            C16648  2-n-Propyl-4-pentenoic acid
+            C16649  4-Hydroxyvalproic acid
+            C16650  5-Hydroxyvalproic acid
+            C16651  3-Hydroxyvalproic acid
+            C16652  3-Oxovalproic acid
+            C16653  2-n-Propyl-2-pentenoic acid
+            C16654  2-n-Propyl-3-pentenoic acid
+            C16655  2-n-Propyl-4-oxopentanoic acid
+            C16656  2-Propyl-2,4-pentadienoic acid
+            C16657  2-Propylsuccinic acid
+            C16658  2-Propylglutaric acid
+            C16659  2-Ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidine
+            C16660  2-Ethyl-5-methyl-3,3-diphenyl-1-pyrroline
+            C16661  L-alpha-Acetyl-N-normethadol
+            C16662  L-alpha-Acetyl-N,N-dinormethadol
+            D00195  Codeine (USP)
+            D00252  Carbamazepine (JP18/USP/INN)
+            D00343  Ifosfamide (JAN/USP/INN)
+            D00358  Lidocaine (JP18/USP/INN)
+            D00399  Valproic acid (USP)
+            D00533  Oxcarbazepine (JAN/USP/INN)
+            D00536  Felbamate (USPINN)
+            D04716  Levomethadyl acetate (USAN)
+            D07704  Citalopram (USP/INN)
+            D07760  Cyclophosphamide (INN)
+            D08195  Methadone (BAN)
+            D08233  Morphine (BAN)
+            D08559  Tamoxifen (INN)
+REFERENCE   
+  AUTHORS   Kato R, Kamatari T (eds).
+  TITLE     [Drug Metabolism] (In Japanese)
+  JOURNAL   Tokyo Kagaku Dojin (2000)
+REFERENCE   PMID:16038189
+  AUTHORS   Gjerde J, Kisanga ER, Hauglid M, Holm PI, Mellgren G, Lien EA.
+  TITLE     Identification and quantification of tamoxifen and four metabolites in serum by liquid chromatography-tandem mass spectrometry.
+  JOURNAL   J Chromatogr A 1082:6-14 (2005)
+            DOI:10.1016/j.chroma.2005.01.004
+REFERENCE   PMID:18043895
+  AUTHORS   Buck MB, Coller JK, Murdter TE, Eichelbaum M, Knabbe C.
+  TITLE     TGFbeta2 and TbetaRII are valid molecular biomarkers for the antiproliferative effects of tamoxifen and tamoxifen metabolites in breast cancer cells.
+  JOURNAL   Breast Cancer Res Treat 107:15-24 (2008)
+            DOI:10.1007/s10549-007-9526-7
+REFERENCE   PMID:16550168
+  AUTHORS   Rodriguez-Antona C, Ingelman-Sundberg M.
+  TITLE     Cytochrome P450 pharmacogenetics and cancer.
+  JOURNAL   Oncogene 25:1679-91 (2006)
+            DOI:10.1038/sj.onc.1209377
+REFERENCE   PMID:16393888
+  AUTHORS   Zhang J, Tian Q, Yung Chan S, Chuen Li S, Zhou S, Duan W, Zhu YZ.
+  TITLE     Metabolism and transport of oxazaphosphorines and the clinical implications.
+  JOURNAL   Drug Metab Rev 37:611-703 (2005)
+            DOI:10.1080/03602530500364023
+REFERENCE   PMID:11226815
+  AUTHORS   Kosel M, Amey M, Aubert AC, Baumann P.
+  TITLE     In vitro metabolism of citalopram by monoamine oxidase B in human blood.
+  JOURNAL   Eur Neuropsychopharmacol 11:75-8 (2001)
+            DOI:10.1016/S0924-977X(00)00128-0
+REFERENCE   PMID:10575324
+  AUTHORS   Olesen OV, Linnet K.
+  TITLE     Studies on the stereoselective metabolism of citalopram by human liver microsomes and cDNA-expressed cytochrome P450 enzymes.
+  JOURNAL   Pharmacology 59:298-309 (1999)
+            DOI:10.1159/000028333
+REFERENCE   PMID:9698084
+  AUTHORS   Rochat B, Kosel M, Boss G, Testa B, Gillet M, Baumann P.
+  TITLE     Stereoselective biotransformation of the selective serotonin reuptake inhibitor citalopram and its demethylated metabolites by monoamine oxidases in human liver.
+  JOURNAL   Biochem Pharmacol 56:15-23 (1998)
+            DOI:10.1016/S0006-2952(98)00008-2
+REFERENCE   
+  AUTHORS   David AW, Thomas LL, William OF.
+  TITLE     Foye's Principles of Medicinal Chemistry (5th ed)
+  JOURNAL   Lippincott Williams & Wilkins (2002)
+REFERENCE   PMID:11504799
+  AUTHORS   Oda Y, Kharasch ED.
+  TITLE     Metabolism of methadone and levo-alpha-acetylmethadol (LAAM) by human intestinal cytochrome P450 3A4 (CYP3A4): potential contribution of intestinal metabolism to presystemic clearance and bioactivation.
+  JOURNAL   J Pharmacol Exp Ther 298:1021-32 (2001)
+REFERENCE   PMID:10901707
+  AUTHORS   Wang JS, Backman JT, Taavitsainen P, Neuvonen PJ, Kivisto KT.
+  TITLE     Involvement of CYP1A2 and CYP3A4 in lidocaine N-deethylation and 3-hydroxylation in humans.
+  JOURNAL   Drug Metab Dispos 28:959-65 (2000)
+REFERENCE   PMID:12399158
+  AUTHORS   Dieckhaus CM, Thompson CD, Roller SG, Macdonald TL.
+  TITLE     Mechanisms of idiosyncratic drug reactions: the case of felbamate.
+  JOURNAL   Chem Biol Interact 142:99-117 (2002)
+            DOI:10.1016/S0009-2797(02)00057-1
+REFERENCE   PMID:18463198
+  AUTHORS   Pearce RE, Lu W, Wang Y, Uetrecht JP, Correia MA, Leeder JS
+  TITLE     Pathways of carbamazepine bioactivation in vitro. III. The role of human cytochrome P450 enzymes in the formation of 2,3-dihydroxycarbamazepine.
+  JOURNAL   Drug Metab Dispos 36:1637-49 (2008)
+            DOI:10.1124/dmd.107.019562
+REFERENCE   PMID:12386121
+  AUTHORS   Pearce RE, Vakkalagadda GR, Leeder JS.
+  TITLE     Pathways of carbamazepine bioactivation in vitro I. Characterization of human cytochromes P450 responsible for the formation of 2- and 3-hydroxylated metabolites.
+  JOURNAL   Drug Metab Dispos 30:1170-9 (2002)
+            DOI:10.1124/dmd.30.11.1170
+REFERENCE   PMID:10859160
+  AUTHORS   Kumar S, Wong H, Yeung SA, Riggs KW, Abbott FS, Rurak DW.
+  TITLE     Disposition of valproic acid in maternal, fetal, and newborn sheep. II: metabolism and renal elimination.
+  JOURNAL   Drug Metab Dispos 28:857-64 (2000)
+REFERENCE   
+  AUTHORS   Bernad T, Joachim M.
+  TITLE     Hydrolysis in Drug and Prodrug Metabolism: Chemistry, Biochemistry, and Enzymology
+  JOURNAL   Wiley-VCH (2003)
+KO_PATHWAY  ko00982
+///

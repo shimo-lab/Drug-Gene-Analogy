@@ -1,0 +1,256 @@
+ENTRY       hsa04068                    Pathway
+NAME        FoxO signaling pathway - Homo sapiens (human)
+DESCRIPTION The forkhead box O (FOXO) family of transcription factors regulates the expression of genes in cellular physiological events including apoptosis, cell-cycle control, glucose metabolism, oxidative stress resistance, and longevity. A central regulatory mechanism of FOXO proteins is phosphorylation by the serine-threonine kinase Akt/protein kinase B (Akt/PKB), downstream of phosphatidylinositol 3-kinase (PI3K), in response to insulin or several growth factors. Phosphorylation at three conserved residues results in the export of FOXO proteins from the nucleus to the cytoplasm, thereby decreasing expression of FOXO target genes. In contrast, the stress-activated c-Jun N-terminal kinase (JNK) and the energy sensing AMP-activated protein kinase (AMPK), upon oxidative and nutrient stress stimuli phosphorylate and activate FoxOs. Aside from PKB, JNK and AMPK, FOXOs are regulated by multiple players through several post-translational modifications, including phosphorylation, but also acetylation, methylation and ubiquitylation.
+CLASS       Environmental Information Processing; Signal transduction
+PATHWAY_MAP hsa04068  FoxO signaling pathway
+DRUG        D11322  Umbralisib (USAN/INN)
+            D11323  Umbralisib tosylate (USAN)
+            D12291  Tovorafenib (USAN/INN)
+            D12394  Inobrodib (USAN)
+DBLINKS     GO: 0009267
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            7046  TGFBR1; transforming growth factor beta receptor 1 [KO:K04674] [EC:2.7.11.30]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            4089  SMAD4; SMAD family member 4 [KO:K04501]
+            4088  SMAD3; SMAD family member 3 [KO:K23605]
+            6794  STK11; serine/threonine kinase 11 [KO:K07298] [EC:2.7.11.1]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            51701  NLK; nemo like kinase [KO:K04468] [EC:2.7.11.24]
+            6502  SKP2; S-phase kinase associated protein 2 [KO:K03875]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            80854  SETD7; SET domain containing 7, histone lysine methyltransferase [KO:K11431] [EC:2.1.1.364]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            23411  SIRT1; sirtuin 1 [KO:K11411] [EC:2.3.1.286]
+            7874  USP7; ubiquitin specific peptidase 7 [KO:K11838] [EC:3.4.19.12]
+            6517  SLC2A4; solute carrier family 2 member 4 [KO:K07191]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            6789  STK4; serine/threonine kinase 4 [KO:K04411]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            3630  INS; insulin [KO:K04526]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            8471  IRS4; insulin receptor substrate 4 [KO:K17446]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            6446  SGK1; serum/glucocorticoid regulated kinase 1 [KO:K13302] [EC:2.7.11.1]
+            10110  SGK2; serum/glucocorticoid regulated kinase 2 [KO:K13303] [EC:2.7.11.1]
+            23678  SGK3; serum/glucocorticoid regulated kinase family member 3 [KO:K13304] [EC:2.7.11.1]
+            100533105  C8orf44-SGK3; C8orf44-SGK3 readthrough [KO:K13304] [EC:2.7.11.1]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            4303  FOXO4; forkhead box O4 [KO:K12358]
+            100132074  FOXO6; forkhead box O6 [KO:K17847]
+            2911  GRM1; glutamate metabotropic receptor 1 [KO:K04603]
+            9456  HOMER1; homer scaffold protein 1 [KO:K15010]
+            9455  HOMER2; homer scaffold protein 2 [KO:K15010]
+            9454  HOMER3; homer scaffold protein 3 [KO:K15010]
+            116986  AGAP2; ArfGAP with GTPase domain, ankyrin repeat and PH domain 2 [KO:K17848]
+            1454  CSNK1E; casein kinase 1 epsilon [KO:K08960] [EC:2.7.11.1]
+            102800317  TPTEP2-CSNK1E; TPTEP2-CSNK1E readthrough [KO:K08960] [EC:2.7.11.1]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3586  IL10; interleukin 10 [KO:K05443]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            1950  EGF; epidermal growth factor [KO:K04357]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            1017  CDK2; cyclin dependent kinase 2 [KO:K02206] [EC:2.7.11.22]
+            3276  PRMT1; protein arginine methyltransferase 1 [KO:K11434] [EC:2.1.1.319]
+            2290  FOXG1; forkhead box G1 [KO:K09385]
+            891  CCNB1; cyclin B1 [KO:K05868]
+            9133  CCNB2; cyclin B2 [KO:K21770]
+            85417  CCNB3; cyclin B3 [KO:K21771]
+            595  CCND1; cyclin D1 [KO:K04503]
+            894  CCND2; cyclin D2 [KO:K10151]
+            901  CCNG2; cyclin G2 [KO:K10146]
+            1030  CDKN2B; cyclin dependent kinase inhibitor 2B [KO:K04685]
+            1032  CDKN2D; cyclin dependent kinase inhibitor 2D [KO:K06623]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1027  CDKN1B; cyclin dependent kinase inhibitor 1B [KO:K06624]
+            5934  RBL2; RB transcriptional corepressor like 2 [KO:K16332]
+            5347  PLK1; polo like kinase 1 [KO:K06631] [EC:2.7.11.21]
+            10769  PLK2; polo like kinase 2 [KO:K08861] [EC:2.7.11.21]
+            1263  PLK3; polo like kinase 3 [KO:K08862] [EC:2.7.11.21]
+            10733  PLK4; polo like kinase 4 [KO:K08863] [EC:2.7.11.21]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            356  FASLG; Fas ligand [KO:K04389]
+            10018  BCL2L11; BCL2 like 11 [KO:K16341]
+            8743  TNFSF10; TNF superfamily member 10 [KO:K04721]
+            604  BCL6; BCL6 transcription repressor [KO:K15618]
+            664  BNIP3; BCL2 interacting protein 3 [KO:K15464]
+            9140  ATG12; autophagy related 12 [KO:K08336]
+            11337  GABARAP; GABA type A receptor-associated protein [KO:K08341]
+            23710  GABARAPL1; GABA type A receptor associated protein like 1 [KO:K08341]
+            11345  GABARAPL2; GABA type A receptor associated protein like 2 [KO:K08341]
+            847  CAT; catalase [KO:K03781] [EC:1.11.1.6]
+            6648  SOD2; superoxide dismutase 2 [KO:K04564] [EC:1.15.1.1]
+            472  ATM; ATM serine/threonine kinase [KO:K04728] [EC:2.7.11.1]
+            5105  PCK1; phosphoenolpyruvate carboxykinase 1 [KO:K01596] [EC:4.1.1.32]
+            5106  PCK2; phosphoenolpyruvate carboxykinase 2, mitochondrial [KO:K01596] [EC:4.1.1.32]
+            2538  G6PC1; glucose-6-phosphatase catalytic subunit 1 [KO:K01084] [EC:3.1.3.9]
+            57818  G6PC2; glucose-6-phosphatase catalytic subunit 2 [KO:K01084] [EC:3.1.3.9]
+            92579  G6PC3; glucose-6-phosphatase catalytic subunit 3 [KO:K01084] [EC:3.1.3.9]
+            3575  IL7R; interleukin 7 receptor [KO:K05072]
+            10365  KLF2; KLF transcription factor 2 [KO:K17845]
+            1901  S1PR1; sphingosine-1-phosphate receptor 1 [KO:K04288]
+            8698  S1PR4; sphingosine-1-phosphate receptor 4 [KO:K04293]
+            5896  RAG1; recombination activating 1 [KO:K10628] [EC:2.3.2.27]
+            5897  RAG2; recombination activating 2 [KO:K10988]
+            26260  FBXO25; F-box protein 25 [KO:K10305]
+            114907  FBXO32; F-box protein 32 [KO:K10305]
+COMPOUND    C00008  ADP
+            C00020  AMP
+            C00025  L-Glutamate
+            C00031  D-Glucose
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:17470511
+  AUTHORS   Glauser DA, Schlegel W
+  TITLE     The emerging role of FOXO transcription factors in pancreatic beta cells.
+  JOURNAL   J Endocrinol 193:195-207 (2007)
+            DOI:10.1677/JOE-06-0191
+REFERENCE   PMID:17522590
+  AUTHORS   van der Horst A, Burgering BM
+  TITLE     Stressing the role of FoxO proteins in lifespan and disease.
+  JOURNAL   Nat Rev Mol Cell Biol 8:440-50 (2007)
+            DOI:10.1038/nrm2190
+REFERENCE   PMID:21440011
+  AUTHORS   Zhang X, Tang N, Hadden TJ, Rishi AK
+  TITLE     Akt, FoxO and regulation of apoptosis.
+  JOURNAL   Biochim Biophys Acta 1813:1978-86 (2011)
+            DOI:10.1016/j.bbamcr.2011.03.010
+REFERENCE   PMID:23325358
+  AUTHORS   Eijkelenboom A, Burgering BM
+  TITLE     FOXOs: signalling integrators for homeostasis maintenance.
+  JOURNAL   Nat Rev Mol Cell Biol 14:83-97 (2013)
+            DOI:10.1038/nrm3507
+REFERENCE   PMID:17569704
+  AUTHORS   Daitoku H, Fukamizu A
+  TITLE     FOXO transcription factors in the regulatory networks of longevity.
+  JOURNAL   J Biochem 141:769-74 (2007)
+            DOI:10.1093/jb/mvm104
+REFERENCE   PMID:19701188
+  AUTHORS   Hedrick SM
+  TITLE     The cunning little vixen: Foxo and the cycle of life and death.
+  JOURNAL   Nat Immunol 10:1057-63 (2009)
+            DOI:10.1038/ni.1784
+REFERENCE   PMID:15516968
+  AUTHORS   Coffer PJ, Burgering BM
+  TITLE     Forkhead-box transcription factors and their role in the immune system.
+  JOURNAL   Nat Rev Immunol 4:889-99 (2004)
+            DOI:10.1038/nri1488
+REFERENCE   PMID:22902436
+  AUTHORS   Ro SH, Liu D, Yeo H, Paik JH
+  TITLE     FoxOs in neural stem cell fate decision.
+  JOURNAL   Arch Biochem Biophys 534:55-63 (2013)
+            DOI:10.1016/j.abb.2012.07.017
+REFERENCE   PMID:18403263
+  AUTHORS   Maiese K, Chong ZZ, Shang YC
+  TITLE     OutFOXOing disease and disability: the therapeutic potential of targeting FoxO proteins.
+  JOURNAL   Trends Mol Med 14:219-27 (2008)
+            DOI:10.1016/j.molmed.2008.03.002
+REFERENCE   PMID:23801966
+  AUTHORS   Hagenbuchner J, Ausserlechner MJ
+  TITLE     Mitochondria and FOXO3: breath or die.
+  JOURNAL   Front Physiol 4:147 (2013)
+            DOI:10.3389/fphys.2013.00147
+REFERENCE   PMID:18045156
+  AUTHORS   Maiese K, Chong ZZ, Shang YC
+  TITLE     "Sly as a FOXO": new paths with Forkhead signaling in the brain.
+  JOURNAL   Curr Neurovasc Res 4:295-302 (2007)
+            DOI:10.2174/156720207782446306
+REFERENCE   PMID:22761423
+  AUTHORS   Oh HM, Yu CR, Dambuza I, Marrero B, Egwuagu CE
+  TITLE     STAT3 protein interacts with Class O Forkhead transcription factors in the cytoplasm and regulates nuclear/cytoplasmic localization of FoxO1 and FoxO3a proteins in CD4(+) T cells.
+  JOURNAL   J Biol Chem 287:30436-43 (2012)
+            DOI:10.1074/jbc.M112.359661
+REFERENCE   PMID:21238503
+  AUTHORS   Huang H, Tindall DJ
+  TITLE     Regulation of FOXO protein stability via ubiquitination and proteasome degradation.
+  JOURNAL   Biochim Biophys Acta 1813:1961-4 (2011)
+            DOI:10.1016/j.bbamcr.2011.01.007
+REFERENCE   PMID:16288288
+  AUTHORS   Greer EL, Brunet A
+  TITLE     FOXO transcription factors at the interface between longevity and tumor suppression.
+  JOURNAL   Oncogene 24:7410-25 (2005)
+            DOI:10.1038/sj.onc.1209086
+REFERENCE   PMID:15084259
+  AUTHORS   Seoane J, Le HV, Shen L, Anderson SA, Massague J
+  TITLE     Integration of Smad and forkhead pathways in the control of neuroepithelial and glioblastoma cell proliferation.
+  JOURNAL   Cell 117:211-23 (2004)
+            DOI:10.1016/S0092-8674(04)00298-3
+REFERENCE   PMID:18951090
+  AUTHORS   Yamagata K, Daitoku H, Takahashi Y, Namiki K, Hisatake K, Kako K, Mukai H, Kasuya Y, Fukamizu A
+  TITLE     Arginine methylation of FOXO transcription factors inhibits their phosphorylation by Akt.
+  JOURNAL   Mol Cell 32:221-31 (2008)
+            DOI:10.1016/j.molcel.2008.09.013
+REFERENCE   PMID:16964248
+  AUTHORS   van der Horst A, de Vries-Smits AM, Brenkman AB, van Triest MH, van den Broek N, Colland F, Maurice MM, Burgering BM
+  TITLE     FOXO4 transcriptional activity is regulated by monoubiquitination and USP7/HAUSP.
+  JOURNAL   Nat Cell Biol 8:1064-73 (2006)
+            DOI:10.1038/ncb1469
+REFERENCE   PMID:21613825
+  AUTHORS   Zhang Y, Gan B, Liu D, Paik JH
+  TITLE     FoxO family members in cancer.
+  JOURNAL   Cancer Biol Ther 12:253-9 (2011)
+            DOI:10.4161/cbt.12.4.15954
+REFERENCE   PMID:15005655
+  AUTHORS   Van Der Heide LP, Hoekman MF, Smidt MP
+  TITLE     The ins and outs of FoxO shuttling: mechanisms of FoxO translocation and transcriptional regulation.
+  JOURNAL   Biochem J 380:297-309 (2004)
+            DOI:10.1042/BJ20040167
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00190  Oxidative phosphorylation
+            hsa04010  MAPK signaling pathway
+            hsa04110  Cell cycle
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04140  Autophagy - animal
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04350  TGF-beta signaling pathway
+            hsa04630  JAK-STAT signaling pathway
+            hsa04910  Insulin signaling pathway
+KO_PATHWAY  ko04068
+///

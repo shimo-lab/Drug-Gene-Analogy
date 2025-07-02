@@ -1,0 +1,312 @@
+ENTRY       hsa04611                    Pathway
+NAME        Platelet activation - Homo sapiens (human)
+DESCRIPTION Platelets play a key and beneficial role for primary hemostasis on the disruption of the integrity of vessel wall. Platelet adhesion and activation at sites of vascular wall injury is initiated by adhesion to adhesive macromolecules, such as collagen and von Willebrand factor (vWF), or by soluble platelet agonists, such as ADP, thrombin, and thromboxane A2. Different receptors are stimulated by various agonists, almost converging in increasing intracellular Ca2+ concentration that stimulate platelet shape change and granule secretion and ultimately induce the "inside-out" signaling process leading to activation of the ligand-binding function of integrin alpha IIb beta 3. Binding of alpha IIb beta 3 to its ligands, mainly fibrinogen, mediates platelet adhesion and aggregation and triggers "outside-in" signaling, resulting in platelet spreading, additional granule secretion, stabilization of platelet adhesion and aggregation, and clot retraction.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04611  Platelet activation
+DRUG        D00106  Epoprostenol (USAN/INN)
+            D01028  Ticlopidine hydrochloride (JP18/USP)
+            D01029  Tirofiban hydrochloride (USAN)
+            D01188  Pimilprost (JAN/INN)
+            D01220  Trapidil (JP18/INN)
+            D01337  Epoprostenol sodium (JAN/USAN)
+            D01551  Beraprost sodium (JP18/USAN)
+            D01683  Ozagrel hydrochloride hydrate (JAN)
+            D01684  Ozagrel sodium (JP18)
+            D01896  Cilostazol (JP18/USP/INN)
+            D02048  Clinprost (JAN/INN)
+            D02720  Beraprost (USAN)
+            D02721  Iloprost (USAN/INN)
+            D02778  Abciximab (USAN/INN)
+            D03359  Cangrelor (USAN/INN)
+            D03361  Cangrelor tetrasodium (USAN)
+            D03522  Ciprostene calcium (USAN)
+            D03642  Daltroban (USAN/INN)
+            D03661  Dazmegrel (USAN/INN)
+            D03663  Dazoxiben hydrochloride (USAN)
+            D03971  Elarofiban (USAN)
+            D04276  Furegrelate sodium (USAN)
+            D04500  Ifetroban (USAN/INN)
+            D04501  Ifetroban sodium (USAN)
+            D04659  Lamifiban (USAN/INN)
+            D04785  Lotrafiban hydrochloride (USAN)
+            D05267  Orbofiban acetate (USAN)
+            D05502  Pirmagrel (USAN/INN)
+            D05597  Prasugrel hydrochloride (JAN/USAN)
+            D05727  Ridogrel (USAN/INN)
+            D05772  Roxifiban acetate (USAN)
+            D05834  Sibrafiban (USAN/INN)
+            D05970  Sulotroban (USAN/INN)
+            D06077  Terbogrel (USAN/INN)
+            D06213  Treprostinil (JAN/USAN/INN)
+            D06280  Vapiprost hydrochloride (JAN/USAN)
+            D06335  Xemilofiban hydrochloride (USAN)
+            D06600  Giripladib (USAN)
+            D06649  Tadocizumab (USAN)
+            D06888  Eptifibatide (INN)
+            D07140  Picotamide (BAN)
+            D07141  Indobufen (INN)
+            D07577  Cinaciguat (JAN/INN)
+            D08065  Iloprost tromethamine
+            D08327  Ozagrel (INN)
+            D08594  Ticlopidine (INN)
+            D08607  Tirofiban (INN)
+            D08628  Treprostinil monosodium salt
+            D08983  Regrelor disodium (USAN)
+            D09017  Ticagrelor (JAN/USAN/INN)
+            D09348  Fostamatinib disodium (USAN)
+            D09572  Riociguat (JAN/USAN/INN)
+            D09765  Vorapaxar (USAN/INN)
+            D09766  Vorapaxar sulfate (JAN/USAN)
+            D09994  Selexipag (JAN/USAN/INN)
+            D10430  Treprostinil diolamine (USAN)
+            D10758  Turoctocog alfa pegol (genetical recombination) (JAN)
+            D10893  Acalabrutinib (JAN/USAN/INN)
+            D11051  Vericiguat (JAN/USAN/INN)
+            D11070  Tirabrutinib hydrochloride (JAN)
+            D11160  Caplacizumab (USAN/INN)
+            D11209  Entospletinib (USAN/INN)
+            D11274  Praliciguat (USAN/INN)
+            D11428  Vecabrutinib (USAN/INN)
+            D11457  Fenebrutinib (USAN/INN)
+            D11475  Olinciguat (USAN/INN)
+            D11478  Branebrutinib (USAN)
+            D11502  Vecabrutinib succinate (USAN)
+            D11720  Acalabrutinib maleate (USAN)
+            D11789  Mivavotinib (USAN/INN)
+            D11790  Mivavotinib citrate (USAN)
+            D12050  Pirtobrutinib (JAN/USAN)
+            D12051  Zalunfiban (USAN)
+            D12052  Luxeptinib (USAN)
+            D12160  Orelabrutinib (USAN/INN)
+            D12163  Zalunfiban acetate (USAN)
+            D12383  Edralbrutinib (USAN/INN)
+            D12413  Glenzocimab (USAN/INN)
+            D12504  Nemtabrutinib (USAN/INN)
+DBLINKS     GO: 0030168
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6915  TBXA2R; thromboxane A2 receptor [KO:K04264]
+            2147  F2; coagulation factor II, thrombin [KO:K01313] [EC:3.4.21.5]
+            2149  F2R; coagulation factor II thrombin receptor [KO:K03914]
+            9002  F2RL3; F2R like thrombin or trypsin receptor 3 [KO:K04236]
+            10672  GNA13; G protein subunit alpha 13 [KO:K04639]
+            9138  ARHGEF1; Rho guanine nucleotide exchange factor 1 [KO:K12330]
+            23365  ARHGEF12; Rho guanine nucleotide exchange factor 12 [KO:K07532]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            4659  PPP1R12A; protein phosphatase 1 regulatory subunit 12A [KO:K06270]
+            103910  MYL12B; myosin light chain 12B [KO:K12757]
+            10627  MYL12A; myosin light chain 12A [KO:K12757]
+            5023  P2RX1; purinergic receptor P2X 1 [KO:K05215]
+            84876  ORAI1; ORAI calcium release-activated calcium modulator 1 [KO:K16056]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            6786  STIM1; stromal interaction molecule 1 [KO:K16059]
+            4638  MYLK; myosin light chain kinase [KO:K00907] [EC:2.7.11.18]
+            85366  MYLK2; myosin light chain kinase 2 [KO:K00907] [EC:2.7.11.18]
+            91807  MYLK3; myosin light chain kinase 3 [KO:K00907] [EC:2.7.11.18]
+            340156  MYLK4; myosin light chain kinase family member 4 [KO:K00907] [EC:2.7.11.18]
+            5028  P2RY1; purinergic receptor P2Y1 [KO:K04270]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            5584  PRKCI; protein kinase C iota [KO:K06069] [EC:2.7.11.13]
+            10125  RASGRP1; RAS guanyl releasing protein 1 [KO:K04350]
+            10235  RASGRP2; RAS guanyl releasing protein 2 [KO:K12361]
+            5906  RAP1A; RAP1A, member of RAS oncogene family [KO:K04353]
+            5908  RAP1B; RAP1B, member of RAS oncogene family [KO:K07836]
+            54518  APBB1IP; amyloid beta precursor protein binding family B member 1 interacting protein [KO:K17704]
+            7094  TLN1; talin 1 [KO:K06271]
+            83660  TLN2; talin 2 [KO:K06271]
+            3674  ITGA2B; integrin subunit alpha 2b [KO:K06476]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            83706  FERMT3; FERM domain containing kindlin 3 [KO:K17084]
+            2243  FGA; fibrinogen alpha chain [KO:K03903]
+            2244  FGB; fibrinogen beta chain [KO:K03904]
+            2266  FGG; fibrinogen gamma chain [KO:K03905]
+            64805  P2RY12; purinergic receptor P2Y12 [KO:K04298]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5739  PTGIR; prostaglandin I2 receptor [KO:K04263]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            5294  PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [KO:K21289] [EC:2.7.1.153]
+            23533  PIK3R5; phosphoinositide-3-kinase regulatory subunit 5 [KO:K21290]
+            146850  PIK3R6; phosphoinositide-3-kinase regulatory subunit 6 [KO:K21290]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            7408  VASP; vasodilator stimulated phosphoprotein [KO:K06274]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            2909  ARHGAP35; Rho GTPase activating protein 35 [KO:K05732]
+            2212  FCGR2A; Fc gamma receptor IIa [KO:K06472]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            1277  COL1A1; collagen type I alpha 1 chain [KO:K06236]
+            1278  COL1A2; collagen type I alpha 2 chain [KO:K06236]
+            1281  COL3A1; collagen type III alpha 1 chain [KO:K19720]
+            51206  GP6; glycoprotein VI platelet [KO:K06264]
+            2207  FCER1G; Fc epsilon receptor Ig [KO:K07983]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            2534  FYN; FYN proto-oncogene, Src family tyrosine kinase [KO:K05703] [EC:2.7.10.2]
+            3673  ITGA2; integrin subunit alpha 2 [KO:K06481]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            3937  LCP2; lymphocyte cytosolic protein 2 [KO:K07361]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            695  BTK; Bruton tyrosine kinase [KO:K07370] [EC:2.7.10.2]
+            7450  VWF; von Willebrand factor [KO:K03900]
+            2814  GP5; glycoprotein V platelet [KO:K06260]
+            2811  GP1BA; glycoprotein Ib platelet subunit alpha [KO:K06261]
+            2812  GP1BB; glycoprotein Ib platelet subunit beta [KO:K06262]
+            2815  GP9; glycoprotein IX platelet [KO:K06263]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            2977  GUCY1A2; guanylate cyclase 1 soluble subunit alpha 2 [KO:K12318] [EC:4.6.1.2]
+            2982  GUCY1A1; guanylate cyclase 1 soluble subunit alpha 1 [KO:K12318] [EC:4.6.1.2]
+            2983  GUCY1B1; guanylate cyclase 1 soluble subunit beta 1 [KO:K12319] [EC:4.6.1.2]
+            5592  PRKG1; protein kinase cGMP-dependent 1 [KO:K07376] [EC:2.7.11.12]
+            5593  PRKG2; protein kinase cGMP-dependent 2 [KO:K19477] [EC:2.7.11.12]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            5742  PTGS1; prostaglandin-endoperoxide synthase 1 [KO:K00509] [EC:1.14.99.1]
+            6916  TBXAS1; thromboxane A synthase 1 [KO:K01832] [EC:5.3.99.5]
+            8773  SNAP23; synaptosome associated protein 23 [KO:K08508]
+            8673  VAMP8; vesicle associated membrane protein 8 [KO:K08512]
+COMPOUND    C00002  ATP
+            C00008  ADP
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00219  Arachidonate
+            C00427  Prostaglandin H2
+            C00533  Nitric oxide
+            C00575  3',5'-Cyclic AMP
+            C00942  3',5'-Cyclic GMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01312  Prostaglandin I2
+            C02198  Thromboxane A2
+            C05956  Prostaglandin G2
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:21071698
+  AUTHORS   Li Z, Delaney MK, O'Brien KA, Du X
+  TITLE     Signaling during platelet adhesion and activation.
+  JOURNAL   Arterioscler Thromb Vasc Biol 30:2341-9 (2010)
+            DOI:10.1161/ATVBAHA.110.207522
+REFERENCE   PMID:22119499
+  AUTHORS   Broos K, De Meyer SF, Feys HB, Vanhoorelbeke K, Deckmyn H
+  TITLE     Blood platelet biochemistry.
+  JOURNAL   Thromb Res 129:245-9 (2012)
+            DOI:10.1016/j.thromres.2011.11.002
+REFERENCE   PMID:16149014
+  AUTHORS   Jurk K, Kehrel BE
+  TITLE     Platelets: physiology and biochemistry.
+  JOURNAL   Semin Thromb Hemost 31:381-92 (2005)
+            DOI:10.1055/s-2005-916671
+REFERENCE   PMID:17158345
+  AUTHORS   Offermanns S
+  TITLE     Activation of platelet function through G protein-coupled receptors.
+  JOURNAL   Circ Res 99:1293-304 (2006)
+            DOI:10.1161/01.RES.0000251742.71301.16
+REFERENCE   PMID:18174460
+  AUTHORS   Varga-Szabo D, Pleines I, Nieswandt B
+  TITLE     Cell adhesion mechanisms in platelets.
+  JOURNAL   Arterioscler Thromb Vasc Biol 28:403-12 (2008)
+            DOI:10.1161/ATVBAHA.107.150474
+REFERENCE   PMID:18550847
+  AUTHORS   Yin H, Liu J, Li Z, Berndt MC, Lowell CA, Du X
+  TITLE     Src family tyrosine kinase Lyn mediates VWF/GPIb-IX-induced platelet activation via the cGMP signaling pathway.
+  JOURNAL   Blood 112:1139-46 (2008)
+            DOI:10.1182/blood-2008-02-140970
+REFERENCE   PMID:19630797
+  AUTHORS   Bergmeier W, Stefanini L
+  TITLE     Novel molecules in calcium signaling in platelets.
+  JOURNAL   J Thromb Haemost 7 Suppl 1:187-90 (2009)
+            DOI:10.1111/j.1538-7836.2009.03379.x
+REFERENCE   PMID:18544684
+  AUTHORS   Cifuni SM, Wagner DD, Bergmeier W
+  TITLE     CalDAG-GEFI and protein kinase C represent alternative pathways leading to activation of integrin alphaIIbbeta3 in platelets.
+  JOURNAL   Blood 112:1696-703 (2008)
+            DOI:10.1182/blood-2008-02-139733
+REFERENCE   PMID:23106920
+  AUTHORS   Heemskerk JW, Mattheij NJ, Cosemans JM
+  TITLE     Platelet-based coagulation: different populations, different functions.
+  JOURNAL   J Thromb Haemost 11:2-16 (2013)
+            DOI:10.1111/jth.12045
+REFERENCE   PMID:19286885
+  AUTHORS   Rivera J, Lozano ML, Navarro-Nunez L, Vicente V
+  TITLE     Platelet receptors and signaling in the dynamics of thrombus formation.
+  JOURNAL   Haematologica 94:700-11 (2009)
+            DOI:10.3324/haematol.2008.003178
+REFERENCE   PMID:18363565
+  AUTHORS   Banno A, Ginsberg MH
+  TITLE     Integrin activation.
+  JOURNAL   Biochem Soc Trans 36:229-34 (2008)
+            DOI:10.1042/BST0360229
+REFERENCE   PMID:20089227
+  AUTHORS   Angiolillo DJ, Ferreiro JL
+  TITLE     Platelet adenosine diphosphate P2Y12 receptor antagonism: benefits and limitations of current treatment strategies and future directions.
+  JOURNAL   Rev Esp Cardiol 63:60-76 (2010)
+            DOI:10.1016/s1885-5857(10)70010-4
+REFERENCE   PMID:22701130
+  AUTHORS   Joo SJ
+  TITLE     Mechanisms of Platelet Activation and Integrin alphaIIbeta3.
+  JOURNAL   Korean Circ J 42:295-301 (2012)
+            DOI:10.4070/kcj.2012.42.5.295
+REFERENCE   PMID:20002545
+  AUTHORS   Harper MT, Poole AW
+  TITLE     Diverse functions of protein kinase C isoforms in platelet activation and thrombus formation.
+  JOURNAL   J Thromb Haemost 8:454-62 (2010)
+            DOI:10.1111/j.1538-7836.2009.03722.x
+REFERENCE   PMID:23805129
+  AUTHORS   Fitch-Tewfik JL, Flaumenhaft R
+  TITLE     Platelet granule exocytosis: a comparison with chromaffin cells.
+  JOURNAL   Front Endocrinol (Lausanne) 4:77 (2013)
+            DOI:10.3389/fendo.2013.00077
+REFERENCE   PMID:18641368
+  AUTHORS   Boylan B, Gao C, Rathore V, Gill JC, Newman DK, Newman PJ
+  TITLE     Identification of FcgammaRIIa as the ITAM-bearing receptor mediating alphaIIbbeta3 outside-in integrin signaling in human platelets.
+  JOURNAL   Blood 112:2780-6 (2008)
+            DOI:10.1182/blood-2008-02-142125
+REL_PATHWAY hsa00590  Arachidonic acid metabolism
+            hsa04015  Rap1 signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04610  Complement and coagulation cascades
+            hsa05211  Renal cell carcinoma
+KO_PATHWAY  ko04611
+///

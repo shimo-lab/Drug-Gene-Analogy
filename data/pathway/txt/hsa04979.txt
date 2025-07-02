@@ -1,0 +1,228 @@
+ENTRY       hsa04979                    Pathway
+NAME        Cholesterol metabolism - Homo sapiens (human)
+DESCRIPTION Cholesterol is an essential component of mammalian cell membranes as well as a precursor of bile acids, vitamin D and steroid hormones. Cholesterol homeostasis in humans is regulated by well-balanced mechanisms of intestinal uptake, endogenous synthesis, transport in lipoprotein particles, and biliary excretion. Its abnormal metabolism can lead to increased risk for various endocrine disorders and cardiovascular diseases.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP hsa04979  Cholesterol metabolism
+NETWORK     nt06320  APOB-LDLR signaling
+  ELEMENT   N00332  Vesicular uptake of lipoproteins
+            N00336  PCSK9-mediated LDLR degradation
+DRUG        D01202  Melinamide (JAN)
+            D02047  Dextran sulfate sodium (JAN)
+            D03012  Avasimibe (USAN/INN)
+            D03343  Dextran sulfate sodium sulfur 5 (JP18)
+            D03447  Cetaben sodium (USAN)
+            D03734  Eldacimibe (USAN/INN)
+            D03735  Lecimibide (USAN)
+            D03747  Ibrolipim (USAN/INN)
+            D04268  Elastase ES
+            D05255  Omega-3-acid ethyl esters (USP)
+            D06195  Torcetrapib (USAN/INN)
+            D10335  Alirocumab (USAN)
+            D10557  Evolocumab (USAN/INN)
+            D10621  Bococizumab (USAN/INN)
+            D11398  Frovocimab (USAN)
+            D11648  Volanesorsen (USAN/INN)
+            D11650  Volanesorsen sodium (USAN)
+            D11753  Evinacumab (USAN/INN)
+            D11931  Inclisiran (USAN/INN)
+            D12293  Inclisiran sodium (JAN)
+            D12460  Muvalaplin (USAN)
+DBLINKS     GO: 0008203
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        19  ABCA1; ATP binding cassette subfamily A member 1 [KO:K05641]
+            335  APOA1; apolipoprotein A1 [KO:K08757]
+            4023  LPL; lipoprotein lipase [KO:K01059] [EC:3.1.1.34]
+            3931  LCAT; lecithin-cholesterol acyltransferase [KO:K00650] [EC:2.3.1.43]
+            9388  LIPG; lipase G, endothelial type [KO:K22284] [EC:3.1.1.3]
+            5360  PLTP; phospholipid transfer protein [KO:K08761]
+            1071  CETP; cholesteryl ester transfer protein [KO:K16835]
+            3990  LIPC; lipase C, hepatic type [KO:K22283] [EC:3.1.1.3]
+            4018  LPA; lipoprotein(a) [KO:K09644] [EC:3.4.21.-]
+            948  CD36; CD36 molecule [KO:K06259]
+            3949  LDLR; low density lipoprotein receptor [KO:K12473]
+            57552  NCEH1; neutral cholesterol ester hydrolase 1 [KO:K14349] [EC:3.1.1.-]
+            8435  SOAT2; sterol O-acyltransferase 2 [KO:K00637] [EC:2.3.1.26]
+            6646  SOAT1; sterol O-acyltransferase 1 [KO:K00637] [EC:2.3.1.26]
+            341  APOC1; apolipoprotein C1 [KO:K22286]
+            344  APOC2; apolipoprotein C2 [KO:K22287]
+            350  APOH; apolipoprotein H [KO:K17305]
+            27329  ANGPTL3; angiopoietin like 3 [KO:K22288]
+            51129  ANGPTL4; angiopoietin like 4 [KO:K08767]
+            55908  ANGPTL8; angiopoietin like 8 [KO:K22289]
+            949  SCARB1; scavenger receptor class B member 1 [KO:K13885]
+            6272  SORT1; sortilin 1 [KO:K12388]
+            338  APOB; apolipoprotein B [KO:K14462]
+            255738  PCSK9; proprotein convertase subtilisin/kexin type 9 [KO:K13050] [EC:3.4.21.-]
+            26119  LDLRAP1; low density lipoprotein receptor adaptor protein 1 [KO:K12474]
+            29116  MYLIP; myosin regulatory light chain interacting protein [KO:K10637] [EC:2.3.2.27]
+            348  APOE; apolipoprotein E [KO:K04524]
+            4035  LRP1; LDL receptor related protein 1 [KO:K04550]
+            4036  LRP2; LDL receptor related protein 2 [KO:K06233]
+            4043  LRPAP1; LDL receptor related protein associated protein 1 [KO:K22290]
+            3988  LIPA; lipase A, lysosomal acid type [KO:K01052] [EC:3.1.1.13]
+            10948  STARD3; StAR related lipid transfer domain containing 3 [KO:K22291]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            706  TSPO; translocator protein [KO:K05770]
+            1593  CYP27A1; cytochrome P450 family 27 subfamily A member 1 [KO:K00488] [EC:1.14.15.15]
+            9218  VAPA; VAMP associated protein A [KO:K06096]
+            9217  VAPB; VAMP associated protein B and C [KO:K10707]
+            4864  NPC1; NPC intracellular cholesterol transporter 1 [KO:K12385]
+            114879  OSBPL5; oxysterol binding protein like 5 [KO:K20464]
+            10577  NPC2; NPC intracellular cholesterol transporter 2 [KO:K13443]
+            6770  STAR; steroidogenic acute regulatory protein [KO:K16931]
+            27141  CIDEB; cell death inducing DFFA like effector b [KO:K25914]
+            1581  CYP7A1; cytochrome P450 family 7 subfamily A member 1 [KO:K00489] [EC:1.14.14.23]
+            8647  ABCB11; ATP binding cassette subfamily B member 11 [KO:K05664]
+            64240  ABCG5; ATP binding cassette subfamily G member 5 [KO:K05683]
+            64241  ABCG8; ATP binding cassette subfamily G member 8 [KO:K05684]
+            336  APOA2; apolipoprotein A2 [KO:K08758]
+            345  APOC3; apolipoprotein C3 [KO:K08759]
+            337  APOA4; apolipoprotein A4 [KO:K08760]
+COMPOUND    C00162  Fatty acid
+            C00187  Cholesterol
+            C00422  Triacylglycerol
+            C00865  Phospholipid
+            C01921  Glycocholate
+            C02530  Cholesterol ester
+            C05122  Taurocholate
+            C05465  Taurochenodeoxycholate
+            C05466  Glycochenodeoxycholate
+            C15610  Cholest-5-ene-3beta,26-diol
+REFERENCE   PMID:28577571
+  AUTHORS   Paththinige CS, Sirisena ND, Dissanayake V
+  TITLE     Genetic determinants of inherited susceptibility to hypercholesterolemia - a comprehensive literature review.
+  JOURNAL   Lipids Health Dis 16:103 (2017)
+            DOI:10.1186/s12944-017-0488-4
+REFERENCE   PMID:24385507
+  AUTHORS   Oldoni F, Sinke RJ, Kuivenhoven JA
+  TITLE     Mendelian disorders of high-density lipoprotein metabolism.
+  JOURNAL   Circ Res 114:124-42 (2014)
+            DOI:10.1161/CIRCRESAHA.113.300634
+REFERENCE   PMID:15451808
+  AUTHORS   Lusis AJ, Fogelman AM, Fonarow GC
+  TITLE     Genetic basis of atherosclerosis: part I: new genes and pathways.
+  JOURNAL   Circulation 110:1868-73 (2004)
+            DOI:10.1161/01.CIR.0000143041.58692.CC
+REFERENCE   PMID:18079757
+  AUTHORS   Wasan KM, Brocks DR, Lee SD, Sachs-Barrable K, Thornton SJ
+  TITLE     Impact of lipoproteins on the biological activity and disposition of hydrophobic drugs: implications for drug discovery.
+  JOURNAL   Nat Rev Drug Discov 7:84-99 (2008)
+            DOI:10.1038/nrd2353
+REFERENCE   PMID:18216769
+  AUTHORS   Ikonen E
+  TITLE     Cellular cholesterol trafficking and compartmentalization.
+  JOURNAL   Nat Rev Mol Cell Biol 9:125-38 (2008)
+            DOI:10.1038/nrm2336
+REFERENCE   PMID:26568191
+  AUTHORS   Vaziri ND
+  TITLE     HDL abnormalities in nephrotic syndrome and chronic kidney disease.
+  JOURNAL   Nat Rev Nephrol 12:37-47 (2016)
+            DOI:10.1038/nrneph.2015.180
+REFERENCE   PMID:24854407
+  AUTHORS   Kingwell BA, Chapman MJ, Kontush A, Miller NE
+  TITLE     HDL-targeted therapies: progress, failures and future.
+  JOURNAL   Nat Rev Drug Discov 13:445-64 (2014)
+            DOI:10.1038/nrd4279
+REFERENCE   PMID:25172365
+  AUTHORS   Do RQ, Nicholls SJ, Schwartz GG
+  TITLE     Evolving targets for lipid-modifying therapy.
+  JOURNAL   EMBO Mol Med 6:1215-30 (2014)
+            DOI:10.15252/emmm.201404000
+REFERENCE   PMID:26247089
+  AUTHORS   Feingold KR, Grunfeld C
+  TITLE     Introduction to Lipids and Lipoproteins
+  JOURNAL   Endotext (2000)
+REFERENCE   PMID:25551803
+  AUTHORS   Sacks FM
+  TITLE     The crucial roles of apolipoproteins E and C-III in apoB lipoprotein metabolism in normolipidemia and hypertriglyceridemia.
+  JOURNAL   Curr Opin Lipidol 26:56-63 (2015)
+            DOI:10.1097/MOL.0000000000000146
+REFERENCE   PMID:20962428
+  AUTHORS   Yasuda T, Ishida T, Rader DJ
+  TITLE     Update on the role of endothelial lipase in high-density lipoprotein metabolism, reverse cholesterol transport, and atherosclerosis.
+  JOURNAL   Circ J 74:2263-70 (2010)
+            DOI:10.1253/circj.CJ-10-0934
+REFERENCE   PMID:25359426
+  AUTHORS   Wang S, Smith JD
+  TITLE     ABCA1 and nascent HDL biogenesis.
+  JOURNAL   Biofactors 40:547-54 (2014)
+            DOI:10.1002/biof.1187
+REFERENCE   PMID:28971105
+  AUTHORS   Hassan M
+  TITLE     ANGPLT3: A novel modulator of lipid metabolism.
+  JOURNAL   Glob Cardiol Sci Pract 2017:e201706 (2017)
+            DOI:10.21542/gcsp.2017.6
+REFERENCE   PMID:24397894
+  AUTHORS   Dijk W, Kersten S
+  TITLE     Regulation of lipoprotein lipase by Angptl4.
+  JOURNAL   Trends Endocrinol Metab 25:146-55 (2014)
+            DOI:10.1016/j.tem.2013.12.005
+REFERENCE   PMID:11254896
+  AUTHORS   Huuskonen J, Olkkonen VM, Jauhiainen M, Ehnholm C
+  TITLE     The impact of phospholipid transfer protein (PLTP) on HDL metabolism.
+  JOURNAL   Atherosclerosis 155:269-81 (2001)
+            DOI:10.1016/S0021-9150(01)00447-6
+REFERENCE   PMID:22661899
+  AUTHORS   Shinkai H
+  TITLE     Cholesteryl ester transfer-protein modulator and inhibitors and their potential for the treatment of cardiovascular diseases.
+  JOURNAL   Vasc Health Risk Manag 8:323-31 (2012)
+            DOI:10.2147/VHRM.S25238
+REFERENCE   PMID:26435212
+  AUTHORS   Norata GD, Tsimikas S, Pirillo A, Catapano AL
+  TITLE     Apolipoprotein C-III: From Pathophysiology to Pharmacology.
+  JOURNAL   Trends Pharmacol Sci 36:675-87 (2015)
+            DOI:10.1016/j.tips.2015.07.001
+REFERENCE   PMID:27312323
+  AUTHORS   Zhong LY, Cayabyab FS, Tang CK, Zheng XL, Peng TH, Lv YC
+  TITLE     Sortilin: A novel regulator in lipid metabolism and atherogenesis.
+  JOURNAL   Clin Chim Acta 460:11-7 (2016)
+            DOI:10.1016/j.cca.2016.06.013
+REFERENCE   PMID:22510808
+  AUTHORS   Sorrentino V, Zelcer N
+  TITLE     Post-transcriptional regulation of lipoprotein receptors by the E3-ubiquitin ligase inducible degrader of the low-density lipoprotein receptor.
+  JOURNAL   Curr Opin Lipidol 23:213-9 (2012)
+            DOI:10.1097/MOL.0b013e3283532947
+REFERENCE   PMID:25003069
+  AUTHORS   Jiang W, Song BL
+  TITLE     Ubiquitin ligases in cholesterol metabolism.
+  JOURNAL   Diabetes Metab J 38:171-80 (2014)
+            DOI:10.4093/dmj.2014.38.3.171
+REFERENCE   PMID:22811413
+  AUTHORS   Lambert G, Sjouke B, Choque B, Kastelein JJ, Hovingh GK
+  TITLE     The PCSK9 decade.
+  JOURNAL   J Lipid Res 53:2515-24 (2012)
+            DOI:10.1194/jlr.R026658
+REFERENCE   PMID:26015858
+  AUTHORS   Graham A, Allen AM
+  TITLE     Mitochondrial function and regulation of macrophage sterol metabolism and inflammatory responses.
+  JOURNAL   World J Cardiol 7:277-86 (2015)
+            DOI:10.4330/wjc.v7.i5.277
+REFERENCE   PMID:27565112
+  AUTHORS   Elustondo P, Martin LA, Karten B
+  TITLE     Mitochondrial cholesterol import.
+  JOURNAL   Biochim Biophys Acta 1862:90-101 (2017)
+            DOI:10.1016/j.bbalip.2016.08.012
+REFERENCE   PMID:26041457
+  AUTHORS   Raiborg C, Wenzel EM, Stenmark H
+  TITLE     ER-endosome contact sites: molecular compositions and functions.
+  JOURNAL   EMBO J 34:1848-58 (2015)
+            DOI:10.15252/embj.201591481
+REFERENCE   PMID:24554437
+  AUTHORS   van der Kant R, Neefjes J
+  TITLE     Small regulators, major consequences - Ca(2)(+) and cholesterol at the endosome-ER interface.
+  JOURNAL   J Cell Sci 127:929-38 (2014)
+            DOI:10.1242/jcs.137539
+REFERENCE   PMID:20816088
+  AUTHORS   Kjolby M, Andersen OM, Breiderhoff T, Fjorback AW, Pedersen KM, Madsen P, Jansen P, Heeren J, Willnow TE, Nykjaer A
+  TITLE     Sort1, encoded by the cardiovascular risk locus 1p13.3, is a regulator of hepatic lipoprotein export.
+  JOURNAL   Cell Metab 12:213-23 (2010)
+            DOI:10.1016/j.cmet.2010.08.006
+REL_PATHWAY hsa00100  Steroid biosynthesis
+            hsa00120  Primary bile acid biosynthesis
+            hsa00900  Terpenoid backbone biosynthesis
+            hsa04975  Fat digestion and absorption
+            hsa04976  Bile secretion
+KO_PATHWAY  ko04979
+///

@@ -1,0 +1,122 @@
+ENTRY       hsa05216                    Pathway
+NAME        Thyroid cancer - Homo sapiens (human)
+DESCRIPTION Thyroid cancer is the most common endocrine malignancy and accounts for the majority of endocrine cancer- related deaths each year. More than 95% of thyroid carcinomas are derived from follicular cells. Their behavior varies from the indolent growing, well-differentiated papillary and follicular carcinomas (PTC and FTC, respectively) to the extremely aggressive undifferentiated carcinoma (UC). Somatic rearrangements of RET and TRK are almost exclusively found in PTC and may be found in early stages. The most distinctive molecular features of FTC are the prominence of aneuploidy and the high prevalence of RAS mutations and PAX8-PPAR{gamma} rearrangements. p53 seems to play a crucial role in the dedifferentiation process of thyroid carcinoma.
+CLASS       Human Diseases; Cancer: specific types
+PATHWAY_MAP hsa05216  Thyroid cancer
+NETWORK     nt06210  ERK signaling
+            nt06215  WNT signaling
+            nt06240  Transcription
+            nt06260  Colorectal cancer
+            nt06261  Gastric cancer
+            nt06262  Pancreatic cancer
+            nt06263  Hepatocellular carcinoma
+            nt06265  Bladder cancer
+            nt06266  Non-small cell lung cancer
+            nt06267  Small cell lung cancer
+            nt06268  Melanoma
+            nt06269  Basal cell carcinoma
+            nt06270  Breast cancer
+            nt06271  Endometrial cancer
+            nt06273  Glioma
+            nt06274  Thyroid cancer
+            nt06275  Acute myeloid leukemia
+            nt06276  Chronic myeloid leukemia
+  ELEMENT   N00008  RET fusion kinase to RAS-ERK signaling pathway
+            N00009  TRK fusion kinase to RAS-ERK signaling pathway
+            N00012  Mutation-activated KRAS/NRAS to ERK signaling pathway
+            N00013  Mutation-activated BRAF to ERK signaling pathway
+            N00061  CDH1-reduced expression to beta-catenin signaling pathway
+            N00115  Mutation-inactivated TP53 to transcription
+            N00126  PAX8-PPARG fusion to PPARG-mediated transcription
+DISEASE     H00032  Thyroid cancer
+DRUG        D06272  Sorafenib tosylate (USAN)
+            D06407  Vandetanib (JAN/USAN/INN)
+            D08524  Sorafenib (USAN/INN)
+            D09919  Lenvatinib (USAN/INN)
+            D09920  Lenvatinib mesylate (USAN)
+            D11713  Selpercatinib (JAN/USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5979  RET; ret proto-oncogene [KO:K05126] [EC:2.7.10.1]
+            8030  CCDC6; coiled-coil domain containing 6 [KO:K09288]
+            8031  NCOA4; nuclear receptor coactivator 4 [KO:K09289]
+            4914  NTRK1; neurotrophic receptor tyrosine kinase 1 [KO:K03176] [EC:2.7.10.1]
+            7170  TPM3; tropomyosin 3 [KO:K09290]
+            7175  TPR; translocated promoter region, nuclear basket protein [KO:K09291]
+            10342  TFG; trafficking from ER to golgi regulator [KO:K09292]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            7849  PAX8; paired box 8 [KO:K09293]
+            5468  PPARG; peroxisome proliferator activated receptor gamma [KO:K08530]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6257  RXRB; retinoid X receptor beta [KO:K08525]
+            6258  RXRG; retinoid X receptor gamma [KO:K08526]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+            999  CDH1; cadherin 1 [KO:K05689]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            6932  TCF7; transcription factor 7 [KO:K02620]
+            83439  TCF7L1; transcription factor 7 like 1 [KO:K04490]
+            6934  TCF7L2; transcription factor 7 like 2 [KO:K04491]
+            51176  LEF1; lymphoid enhancer binding factor 1 [KO:K04492]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            595  CCND1; cyclin D1 [KO:K04503]
+REFERENCE   PMID:16557281
+  AUTHORS   Kondo T, Ezzat S, Asa SL.
+  TITLE     Pathogenetic mechanisms in thyroid follicular-cell neoplasia.
+  JOURNAL   Nat Rev Cancer 6:292-306 (2006)
+            DOI:10.1038/nrc1836
+REFERENCE   PMID:16551846
+  AUTHORS   Chiloeches A, Marais R.
+  TITLE     Is BRAF the Achilles' Heel of thyroid cancer?
+  JOURNAL   Clin Cancer Res 12:1661-4 (2006)
+            DOI:10.1158/1078-0432.CCR-06-0051
+REFERENCE   PMID:16946003
+  AUTHORS   Reddi HV, McIver B, Grebe SK, Eberhardt NL
+  TITLE     The paired box-8/peroxisome proliferator-activated receptor-gamma oncogene in thyroid tumorigenesis.
+  JOURNAL   Endocrinology 148:932-5 (2007)
+            DOI:10.1210/en.2006-0926
+REFERENCE   PMID:17062879
+  AUTHORS   Santoro M, Melillo RM, Fusco A.
+  TITLE     RET/PTC activation in papillary thyroid carcinoma: European Journal of Endocrinology Prize Lecture.
+  JOURNAL   Eur J Endocrinol 155:645-653 (2006)
+            DOI:10.1530/eje.1.02289
+REFERENCE   PMID:16242838
+  AUTHORS   Pierotti MA, Greco A.
+  TITLE     Oncogenic rearrangements of the NTRK1/NGF receptor.
+  JOURNAL   Cancer Lett 232:90-8 (2006)
+            DOI:10.1016/j.canlet.2005.07.043
+REFERENCE   PMID:16189702
+  AUTHORS   Sobrinho-Simoes M, Preto A, Rocha AS, Castro P, Maximo V, Fonseca E, Soares P.
+  TITLE     Molecular pathology of well-differentiated thyroid carcinomas.
+  JOURNAL   Virchows Arch 447:787-93 (2005)
+            DOI:10.1007/s00428-005-0065-5
+REFERENCE   PMID:11165748
+  AUTHORS   Gimm O.
+  TITLE     Thyroid cancer.
+  JOURNAL   Cancer Lett 163:143-56 (2001)
+            DOI:10.1016/S0304-3835(00)00697-2
+REFERENCE   PMID:12094241
+  AUTHORS   Williams D.
+  TITLE     Cancer after nuclear fallout: lessons from the Chernobyl accident.
+  JOURNAL   Nat Rev Cancer 2:543-9 (2002)
+            DOI:10.1038/nrc845
+REL_PATHWAY hsa03320  PPAR signaling pathway
+            hsa04010  MAPK signaling pathway
+            hsa04115  p53 signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04520  Adherens junction
+KO_PATHWAY  ko05216
+///

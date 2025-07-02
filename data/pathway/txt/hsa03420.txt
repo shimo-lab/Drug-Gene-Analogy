@@ -1,0 +1,92 @@
+ENTRY       hsa03420                    Pathway
+NAME        Nucleotide excision repair - Homo sapiens (human)
+DESCRIPTION Nucleotide excision repair (NER) is a mechanism to recognize and repair bulky DNA damage caused by compounds, environmental carcinogens, and exposure to UV-light. In humans hereditary defects in the NER pathway are linked to at least three diseases: xeroderma pigmentosum (XP), Cockayne syndrome (CS), and trichothiodystrophy (TTD). The repair of damaged DNA involves at least 30 polypeptides within two different sub-pathways of NER known as transcription-coupled repair (TCR-NER) and global genome repair (GGR-NER). TCR refers to the expedited repair of lesions located in the actively transcribed strand of genes by RNA polymerase II (RNAP II). In GGR-NER the first step of damage recognition involves XPC-hHR23B complex together with XPE complex (in prokaryotes, uvrAB complex). The following steps of GGR-NER and TCR-NER are similar.
+CLASS       Genetic Information Processing; Replication and repair
+PATHWAY_MAP hsa03420  Nucleotide excision repair
+NETWORK     nt06502  Nucleotide excision repair
+  ELEMENT   N01425  Global genome NER
+            N01430  Transcription-coupled NER
+            N01431  Core NER reaction
+DBLINKS     GO: 0006289
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        9978  RBX1; ring-box 1 [KO:K03868] [EC:2.3.2.32]
+            8450  CUL4B; cullin 4B [KO:K10609]
+            8451  CUL4A; cullin 4A [KO:K10609]
+            1642  DDB1; damage specific DNA binding protein 1 [KO:K10610]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            7508  XPC; XPC complex subunit, DNA damage recognition and repair factor [KO:K10838]
+            5887  RAD23B; RAD23 homolog B, nucleotide excision repair protein [KO:K10839]
+            5886  RAD23A; RAD23 homolog A, nucleotide excision repair protein [KO:K10839]
+            1069  CETN2; centrin 2 [KO:K10840]
+            1161  ERCC8; ERCC excision repair 8, CSA ubiquitin ligase complex subunit [KO:K10570]
+            2074  ERCC6; ERCC excision repair 6, chromatin remodeling factor [KO:K10841]
+            1022  CDK7; cyclin dependent kinase 7 [KO:K02202] [EC:2.7.11.22 2.7.11.23]
+            4331  MNAT1; MNAT1 component of CDK activating kinase [KO:K10842]
+            902  CCNH; cyclin H [KO:K06634]
+            2071  ERCC3; ERCC excision repair 3, TFIIH core complex helicase subunit [KO:K10843] [EC:5.6.2.4]
+            2068  ERCC2; ERCC excision repair 2, TFIIH core complex helicase subunit [KO:K10844] [EC:5.6.2.3]
+            404672  GTF2H5; general transcription factor IIH subunit 5 [KO:K10845]
+            2965  GTF2H1; general transcription factor IIH subunit 1 [KO:K03141]
+            2966  GTF2H2; general transcription factor IIH subunit 2 [KO:K03142]
+            730394  GTF2H2C_2; GTF2H2 family member C, copy 2 [KO:K03142]
+            728340  GTF2H2C; GTF2H2 family member C [KO:K03142]
+            2967  GTF2H3; general transcription factor IIH subunit 3 [KO:K03143]
+            2968  GTF2H4; general transcription factor IIH subunit 4 [KO:K03144]
+            2073  ERCC5; ERCC excision repair 5, endonuclease [KO:K10846]
+            100533467  BIVM-ERCC5; BIVM-ERCC5 readthrough [KO:K10846]
+            7507  XPA; XPA, DNA damage recognition and repair factor [KO:K10847]
+            6117  RPA1; replication protein A1 [KO:K07466]
+            6118  RPA2; replication protein A2 [KO:K10739]
+            6119  RPA3; replication protein A3 [KO:K10740]
+            29935  RPA4; replication protein A4 [KO:K10741]
+            2072  ERCC4; ERCC excision repair 4, endonuclease catalytic subunit [KO:K10848] [EC:3.1.-.-]
+            2067  ERCC1; ERCC excision repair 1, endonuclease non-catalytic subunit [KO:K10849]
+            5424  POLD1; DNA polymerase delta 1, catalytic subunit [KO:K02327] [EC:2.7.7.7]
+            5425  POLD2; DNA polymerase delta 2, accessory subunit [KO:K02328]
+            10714  POLD3; DNA polymerase delta 3, accessory subunit [KO:K03504]
+            57804  POLD4; DNA polymerase delta 4, accessory subunit [KO:K03505]
+            5426  POLE; DNA polymerase epsilon, catalytic subunit [KO:K02324] [EC:2.7.7.7]
+            5427  POLE2; DNA polymerase epsilon 2, accessory subunit [KO:K02325] [EC:2.7.7.7]
+            54107  POLE3; DNA polymerase epsilon 3, accessory subunit [KO:K02326] [EC:2.7.7.7]
+            56655  POLE4; DNA polymerase epsilon 4, accessory subunit [KO:K03506] [EC:2.7.7.7]
+            5111  PCNA; proliferating cell nuclear antigen [KO:K04802]
+            5981  RFC1; replication factor C subunit 1 [KO:K10754]
+            5984  RFC4; replication factor C subunit 4 [KO:K10755]
+            5982  RFC2; replication factor C subunit 2 [KO:K10755]
+            5985  RFC5; replication factor C subunit 5 [KO:K10756]
+            5983  RFC3; replication factor C subunit 3 [KO:K10756]
+            3978  LIG1; DNA ligase 1 [KO:K10747] [EC:6.5.1.1 6.5.1.6 6.5.1.7]
+REFERENCE   PMID:11436314
+  AUTHORS   Sugasawa K.
+  TITLE     [Molecular mechanism of mammalian nucleotide excision repair]
+  JOURNAL   Tanpakushitsu Kakusan Koso 46:893-901 (2001)
+REFERENCE   PMID:11436316
+  AUTHORS   Nakatsu Y.
+  TITLE     [Transcription-coupled repair and Cockayne syndrome]
+  JOURNAL   Tanpakushitsu Kakusan Koso 46:908-15 (2001)
+REFERENCE   PMID:11436323
+  AUTHORS   Nakagawa N, Masui R, Kuramitsu S.
+  TITLE     [Structure and function of DNA repair enzyme UvrB from Thermus thermophilus HB8]
+  JOURNAL   Tanpakushitsu Kakusan Koso 46:968-75 (2001)
+REFERENCE   PMID:17276014
+  AUTHORS   Kraemer KH, Patronas NJ, Schiffmann R, Brooks BP, Tamura D, DiGiovanna JJ.
+  TITLE     Xeroderma pigmentosum, trichothiodystrophy and Cockayne syndrome: a complex genotype-phenotype relationship.
+  JOURNAL   Neuroscience 145:1388-96 (2007)
+            DOI:10.1016/j.neuroscience.2006.12.020
+REFERENCE   PMID:17884153
+  AUTHORS   Saldivar JS, Wu X, Follen M, Gershenson D.
+  TITLE     Nucleotide excision repair pathway review I: implications in ovarian cancer and platinum sensitivity.
+  JOURNAL   Gynecol Oncol 107:S56-71 (2007)
+            DOI:10.1016/j.ygyno.2007.07.043
+REFERENCE   PMID:16922398
+  AUTHORS   Sugasawa K.
+  TITLE     [DNA repair pathways involving Cul4A ubiquitin ligases]
+  JOURNAL   Tanpakushitsu Kakusan Koso 51:1339-44 (2006)
+REFERENCE   PMID:18018633
+  AUTHORS   Ito S, Ando D, Tanaka K.
+  TITLE     [Cross-talk between DNA repair and transcription: molecular mechanism and disorders]
+  JOURNAL   Tanpakushitsu Kakusan Koso 52:1823-31 (2007)
+REL_PATHWAY hsa03020  RNA polymerase
+            hsa04120  Ubiquitin mediated proteolysis
+KO_PATHWAY  ko03420
+///

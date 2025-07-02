@@ -1,0 +1,248 @@
+ENTRY       hsa04935                    Pathway
+NAME        Growth hormone synthesis, secretion and action - Homo sapiens (human)
+DESCRIPTION Growth hormone (GH) is a peptide hormone secreted from the anterior pituitary and plays a critical role in cell growth, development, and metabolism throughout the body. GH secretion occurs episodically and is primarily under the control of two hypothalamic neuroendocrine hormones: GH-releasing hormone (GHRH), which stimulates GH secretion, and somatostatin, which inhibits GH secretion. GHRH interacts with a G protein-coupled receptor (GHRHR) in somatotroph cells to activate the cAMP signaling pathway, which leads to increased GH mRNA transcription and release. Once released into the circulation, GH binds to cell-surface GHR in target tissues such as liver, muscle, bone, and adipose tissue. Binding leads to activation of JAK2 that in turn triggers an array of signaling cascade including Raf-MEK-ERK, PI3K-Akt, and STAT5. ERK, Akt, and STAT5 all promote growth via the synthesis and secretion of IGF-1.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04935  Growth hormone synthesis, secretion and action
+NETWORK     nt06324  GHRH-GH-IGF signaling
+  ELEMENT   N00907  GH-Jak-STAT signaling pathway
+            N00910  GHRHR-PKA-GH signaling pathway
+DRUG        D11651  Edotreotide gallium Ga-68
+            D11882  Copper Cu 64 dotatate
+            D12431  Lutetium Lu177 edotreotide (USAN)
+            D12477  Paltusotine (USAN/INN)
+            D12478  Paltusotine hydrochloride (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2691  GHRH; growth hormone releasing hormone [KO:K05260]
+            2692  GHRHR; growth hormone releasing hormone receptor [KO:K04584]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            55811  ADCY10; adenylate cyclase 10 [KO:K11265] [EC:4.6.1.1]
+            6750  SST; somatostatin [KO:K05237]
+            6751  SSTR1; somatostatin receptor 1 [KO:K04217]
+            6752  SSTR2; somatostatin receptor 2 [KO:K04218]
+            6753  SSTR3; somatostatin receptor 3 [KO:K04219]
+            6755  SSTR5; somatostatin receptor 5 [KO:K04221]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            5449  POU1F1; POU class 1 homeobox 1 [KO:K09363]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            2688  GH1; growth hormone 1 [KO:K05438]
+            2689  GH2; growth hormone 2 [KO:K05438]
+            1442  CSH1; chorionic somatomammotropin hormone 1 [KO:K05438]
+            1443  CSH2; chorionic somatomammotropin hormone 2 [KO:K05438]
+            51738  GHRL; ghrelin and obestatin prepropeptide [KO:K05254]
+            2693  GHSR; growth hormone secretagogue receptor [KO:K04284]
+            112609  MRAP2; melanocortin 2 receptor accessory protein 2 [KO:K25968]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            2690  GHR; growth hormone receptor [KO:K05080]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            6464  SHC1; SHC adaptor protein 1 [KO:K06279]
+            25759  SHC2; SHC adaptor protein 2 [KO:K17447]
+            53358  SHC3; SHC adaptor protein 3 [KO:K17448]
+            399694  SHC4; SHC adaptor protein 4 [KO:K17449]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            6776  STAT5A; signal transducer and activator of transcription 5A [KO:K11223]
+            6777  STAT5B; signal transducer and activator of transcription 5B [KO:K11224]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            8471  IRS4; insulin receptor substrate 4 [KO:K17446]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            3726  JUNB; JunB proto-oncogene, AP-1 transcription factor subunit [KO:K09028]
+            8651  SOCS1; suppressor of cytokine signaling 1 [KO:K04694]
+            8835  SOCS2; suppressor of cytokine signaling 2 [KO:K04695]
+            9021  SOCS3; suppressor of cytokine signaling 3 [KO:K04696]
+            3483  IGFALS; insulin like growth factor binding protein acid labile subunit [KO:K17256]
+            3486  IGFBP3; insulin like growth factor binding protein 3 [KO:K10138]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            9564  BCAR1; BCAR1 scaffold protein, Cas family member [KO:K05726]
+            1398  CRK; CRK proto-oncogene, adaptor protein [KO:K04438]
+            1399  CRKL; CRK like proto-oncogene, adaptor protein [KO:K04438]
+            4214  MAP3K1; mitogen-activated protein kinase kinase kinase 1 [KO:K04416] [EC:2.7.11.25]
+            5606  MAP2K3; mitogen-activated protein kinase kinase 3 [KO:K04432] [EC:2.7.12.2]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00575  3',5'-Cyclic AMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+REFERENCE   
+  AUTHORS   Nishad R, Mukhi D, Menon R K, Pasupulati A.
+  TITLE     Growth Hormone and Metabolic Homeostasis
+  JOURNAL   Eur Med J 6:78-87 (2018)
+REFERENCE   PMID:30775002
+  AUTHORS   Lu M, Flanagan JU, Langley RJ, Hay MP, Perry JK
+  TITLE     Targeting growth hormone function: strategies and therapeutic applications.
+  JOURNAL   Signal Transduct Target Ther 4:3 (2019)
+            DOI:10.1038/s41392-019-0036-y
+REFERENCE   PMID:8874495
+  AUTHORS   Argetsinger LS, Carter-Su C
+  TITLE     Mechanism of signaling by growth hormone receptor.
+  JOURNAL   Physiol Rev 76:1089-107 (1996)
+            DOI:10.1152/physrev.1996.76.4.1089
+REFERENCE   PMID:8815791
+  AUTHORS   Carter-Su C, Schwartz J, Smit LS
+  TITLE     Molecular mechanism of growth hormone action.
+  JOURNAL   Annu Rev Physiol 58:187-207 (1996)
+            DOI:10.1146/annurev.ph.58.030196.001155
+REFERENCE   PMID:10912517
+  AUTHORS   Carter-Su C, Rui L, Herrington J
+  TITLE     Role of the tyrosine kinase JAK2 in signal transduction by growth hormone.
+  JOURNAL   Pediatr Nephrol 14:550-7 (2000)
+            DOI:10.1007/s004670000366
+REFERENCE   PMID:29487568
+  AUTHORS   Dehkhoda F, Lee CMM, Medina J, Brooks AJ
+  TITLE     The Growth Hormone Receptor: Mechanism of Receptor Activation, Cell Signaling, and Physiological Aspects.
+  JOURNAL   Front Endocrinol (Lausanne) 9:35 (2018)
+            DOI:10.3389/fendo.2018.00035
+REFERENCE   PMID:26421979
+  AUTHORS   Carter-Su C, Schwartz J, Argetsinger LS
+  TITLE     Growth hormone signaling pathways.
+  JOURNAL   Growth Horm IGF Res 28:11-5 (2016)
+            DOI:10.1016/j.ghir.2015.09.002
+REFERENCE   PMID:28435436
+  AUTHORS   Berryman DE, Henry B, Hjortebjerg R, List EO, Kopchick JJ
+  TITLE     Developments in our understanding of the effects of growth hormone on white adipose tissue from mice: implications to the clinic.
+  JOURNAL   Expert Rev Endocrinol Metab 11:197-207 (2016)
+            DOI:10.1586/17446651.2016.1147950
+REFERENCE   PMID:9837978
+  AUTHORS   Zhu T, Goh EL, LeRoith D, Lobie PE
+  TITLE     Growth hormone stimulates the formation of a multiprotein signaling complex involving p130(Cas) and CrkII. Resultant activation of c-Jun N-terminal kinase/stress-activated protein kinase (JNK/SAPK).
+  JOURNAL   J Biol Chem 273:33864-75 (1998)
+            DOI:10.1074/jbc.273.50.33864
+REFERENCE   
+  AUTHORS   Choi S (ed).
+  TITLE     Encyclopedia of Signaling Molecules
+  JOURNAL   Springer International Publishing
+            DOI:10.1007/978-1-4614-6438-9_101674-1
+REFERENCE   PMID:11997217
+  AUTHORS   Gracia-Navarro F, Castano JP, Malagon MM, Sanchez-Hormigo A, Luque RM, Hickey GJ, Peinado JR, Delgado E, Martinez-Fuentes AJ
+  TITLE     Research progress in the stimulatory inputs regulating growth hormone (GH) secretion.
+  JOURNAL   Comp Biochem Physiol B Biochem Mol Biol 132:141-50 (2002)
+            DOI:10.1016/s1096-4959(01)00544-9
+REFERENCE   PMID:9167959
+  AUTHORS   Bertherat J
+  TITLE     Nuclear effects of the cAMP pathway activation in somatotrophs.
+  JOURNAL   Horm Res 47:245-50 (1997)
+            DOI:10.1159/000185471
+REFERENCE   PMID:8625613
+  AUTHORS   Tuggle CK, Trenkle A
+  TITLE     Control of growth hormone synthesis.
+  JOURNAL   Domest Anim Endocrinol 13:1-33 (1996)
+            DOI:10.1016/0739-7240(95)00059-3
+REFERENCE   PMID:10525051
+  AUTHORS   Cohen LE, Hashimoto Y, Zanger K, Wondisford F, Radovick S
+  TITLE     CREB-independent regulation by CBP is a novel mechanism of human growth hormone gene expression.
+  JOURNAL   J Clin Invest 104:1123-30 (1999)
+            DOI:10.1172/JCI7308
+REFERENCE   PMID:25302229
+  AUTHORS   Khatib N, Gaidhane S, Gaidhane AM, Khatib M, Simkhada P, Gode D, Zahiruddin QS
+  TITLE     Ghrelin: ghrelin as a regulatory Peptide in growth hormone secretion.
+  JOURNAL   J Clin Diagn Res 8:MC13-7 (2014)
+            DOI:10.7860/JCDR/2014/9863.4767
+REFERENCE   PMID:16628271
+  AUTHORS   Lengyel AM
+  TITLE     From growth hormone-releasing peptides to ghrelin: discovery of new modulators of GH secretion.
+  JOURNAL   Arq Bras Endocrinol Metabol 50:17-24 (2006)
+            DOI:10.1590/s0004-27302006000100004
+REFERENCE   PMID:15927771
+  AUTHORS   Anderson LL, Jeftinija S, Scanes CG, Stromer MH, Lee JS, Jeftinija K, Glavaski-Joksimovic A
+  TITLE     Physiology of ghrelin and related peptides.
+  JOURNAL   Domest Anim Endocrinol 29:111-44 (2005)
+            DOI:10.1016/j.domaniend.2005.02.033
+REFERENCE   PMID:14610293
+  AUTHORS   Camina JP, Carreira MC, Micic D, Pombo M, Kelestimur F, Dieguez C, Casanueva FF
+  TITLE     Regulation of ghrelin secretion and action.
+  JOURNAL   Endocrine 22:5-12 (2003)
+            DOI:10.1385/ENDO:22:1:5
+REFERENCE   PMID:22243899
+  AUTHORS   Yang SK, Steyn F, Chen C
+  TITLE     Influence of membrane ion channel in pituitary somatotrophs by hypothalamic regulators.
+  JOURNAL   Cell Calcium 51:231-9 (2012)
+            DOI:10.1016/j.ceca.2011.12.005
+REFERENCE   PMID:19884662
+  AUTHORS   Melmed S
+  TITLE     Acromegaly pathogenesis and treatment.
+  JOURNAL   J Clin Invest 119:3189-202 (2009)
+            DOI:10.1172/JCI39375
+REFERENCE   PMID:31911434
+  AUTHORS   Rouault AAJ, Rosselli-Murai LK, Hernandez CC, Gimenez LE, Tall GG, Sebag JA
+  TITLE     The GPCR accessory protein MRAP2 regulates both biased signaling and constitutive activity of the ghrelin receptor GHSR1a.
+  JOURNAL   Sci Signal 13:eaax4569 (2020)
+            DOI:10.1126/scisignal.aax4569
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04630  JAK-STAT signaling pathway
+KO_PATHWAY  ko04935
+///

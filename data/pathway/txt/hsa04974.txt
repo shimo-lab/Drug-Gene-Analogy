@@ -1,0 +1,258 @@
+ENTRY       hsa04974                    Pathway
+NAME        Protein digestion and absorption - Homo sapiens (human)
+DESCRIPTION Protein is a dietary component essential for nutritional homeostasis in humans. Normally, ingested protein undergoes a complex series of degradative processes following the action of gastric, pancreatic and small intestinal enzymes. The result of this proteolytic activity is a mixture of amino acids and small peptides. Amino acids (AAs) are transported into the enterocyte (intestinal epithelial cell) by a variety of AA transporters that are specific for cationic (basic) AA, neutral AA, and anionic (acidic) AA. Small peptides are absorbed into enterocytes by the PEPT1 transporter. Inside enterocytes peptides are hydrolyzed, and the resulting amino acids are released together with those absorbed by AA transporters into blood via multiple, basolateral, AA transporters. Hydrolysis-resistant peptides, however, are transported out of the cells by a basolateral peptide transporter that has not been identified molecularly.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP hsa04974  Protein digestion and absorption
+DRUG        D05183  Ulinastatin (JP18)
+            D06553  Alogliptin benzoate (JAN/USAN)
+            D06578  Denagliptin tosylate (USAN)
+            D06645  Sitagliptin phosphate (USAN)
+            D07080  Vildagliptin (JAN/USAN/INN)
+            D08464  Racecadotril (INN)
+            D08516  Sitagliptin (USAN)
+            D08616  Teneligliptin (INN)
+            D08631  Carmegliptin (USAN/INN)
+            D08996  Saxagliptin (USAN/INN)
+            D09326  Carmegliptin dihydrochloride (USAN)
+            D09333  Dutogliptin (USAN)
+            D09334  Dutogliptin tartrate (USAN)
+            D09566  Linagliptin (JAN/USAN/INN)
+            D09625  Gosogliptin (USAN/INN)
+            D09753  Saxagliptin hydrate (JAN)
+            D09756  Teneligliptin hydrobromide hydrate (JAN)
+            D09780  Anagliptin (JAN/INN)
+            D10178  Trelagliptin (USAN)
+            D10179  Trelagliptin succinate (JAN/USAN)
+            D10262  Saxagliptin hydrochloride
+            D10317  Omarigliptin (JAN/USAN/INN)
+            D10502  Gemigliptin (prop.INN)
+            D11023  Evogliptin (INN)
+            D11968  Teneligliptin hydrobromide (JAN)
+            D12294  Sitagliptin phosphate (JAN)
+DBLINKS     GO: 0044256 0050892
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5222  PGA5; pepsinogen A5 [KO:K06002] [EC:3.4.23.1]
+            643847  PGA4; pepsinogen A4 [KO:K06002] [EC:3.4.23.1]
+            643834  PGA3; pepsinogen A3 [KO:K06002] [EC:3.4.23.1]
+            5646  PRSS3; serine protease 3 [KO:K01312] [EC:3.4.21.4]
+            5645  PRSS2; serine protease 2 [KO:K01312] [EC:3.4.21.4]
+            5644  PRSS1; serine protease 1 [KO:K01312] [EC:3.4.21.4]
+            440387  CTRB2; chymotrypsinogen B2 [KO:K01310] [EC:3.4.21.1]
+            1504  CTRB1; chymotrypsinogen B1 [KO:K01310] [EC:3.4.21.1]
+            1506  CTRL; chymotrypsin like [KO:K09632] [EC:3.4.21.-]
+            63036  CELA2A; chymotrypsin like elastase 2A [KO:K01346] [EC:3.4.21.71]
+            51032  CELA2B; chymotrypsin like elastase 2B [KO:K01346] [EC:3.4.21.71]
+            10136  CELA3A; chymotrypsin like elastase 3A [KO:K01345] [EC:3.4.21.70]
+            23436  CELA3B; chymotrypsin like elastase 3B [KO:K01345] [EC:3.4.21.70]
+            1357  CPA1; carboxypeptidase A1 [KO:K08779] [EC:3.4.17.1]
+            1358  CPA2; carboxypeptidase A2 [KO:K01298] [EC:3.4.17.15]
+            1359  CPA3; carboxypeptidase A3 [KO:K08780] [EC:3.4.17.1]
+            1360  CPB1; carboxypeptidase B1 [KO:K01291] [EC:3.4.17.2]
+            1361  CPB2; carboxypeptidase B2 [KO:K01300] [EC:3.4.17.20]
+            6550  SLC9A3; solute carrier family 9 member A3 [KO:K12040]
+            6564  SLC15A1; solute carrier family 15 member 1 [KO:K14206]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            3783  KCNN4; potassium calcium-activated channel subfamily N member 4 [KO:K04945]
+            8645  KCNK5; potassium two pore domain channel subfamily K member 5 [KO:K04916]
+            10008  KCNE3; potassium voltage-gated channel subfamily E regulatory subunit 3 [KO:K04897]
+            3784  KCNQ1; potassium voltage-gated channel subfamily Q member 1 [KO:K04926]
+            3769  KCNJ13; potassium inwardly rectifying channel subfamily J member 13 [KO:K05006]
+            54407  SLC38A2; solute carrier family 38 member 2 [KO:K14207]
+            4311  MME; membrane metalloendopeptidase [KO:K01389] [EC:3.4.24.11]
+            4224  MEP1A; meprin A subunit alpha [KO:K01395] [EC:3.4.24.18]
+            4225  MEP1B; meprin A subunit beta [KO:K08606] [EC:3.4.24.63]
+            59272  ACE2; angiotensin converting enzyme 2 [KO:K09708] [EC:3.4.17.23]
+            5547  PRCP; prolylcarboxypeptidase [KO:K01285] [EC:3.4.16.2]
+            1803  DPP4; dipeptidyl peptidase 4 [KO:K01278] [EC:3.4.14.5]
+            7512  XPNPEP2; X-prolyl aminopeptidase 2 [KO:K14208] [EC:3.4.11.9]
+            6505  SLC1A1; solute carrier family 1 member 1 [KO:K05612]
+            6510  SLC1A5; solute carrier family 1 member 5 [KO:K05616]
+            6546  SLC8A1; solute carrier family 8 member A1 [KO:K05849]
+            6543  SLC8A2; solute carrier family 8 member A2 [KO:K05849]
+            6547  SLC8A3; solute carrier family 8 member A3 [KO:K05849]
+            340024  SLC6A19; solute carrier family 6 member 19 [KO:K05334]
+            6520  SLC3A2; solute carrier family 3 member 2 [KO:K06519]
+            23428  SLC7A8; solute carrier family 7 member 8 [KO:K13781]
+            206358  SLC36A1; solute carrier family 36 member 1 [KO:K14209]
+            153201  SLC36A2; solute carrier family 36 member 2 [KO:K14209]
+            120103  SLC36A4; solute carrier family 36 member 4 [KO:K14209]
+            285641  SLC36A3; solute carrier family 36 member 3 [KO:K14209]
+            117247  SLC16A10; solute carrier family 16 member 10 [KO:K08187]
+            6519  SLC3A1; solute carrier family 3 member 1 [KO:K14210]
+            11136  SLC7A9; solute carrier family 7 member 9 [KO:K13868]
+            9056  SLC7A7; solute carrier family 7 member 7 [KO:K13867]
+            2006  ELN; elastin [KO:K14211]
+            1277  COL1A1; collagen type I alpha 1 chain [KO:K06236]
+            1278  COL1A2; collagen type I alpha 2 chain [KO:K06236]
+            1280  COL2A1; collagen type II alpha 1 chain [KO:K19719]
+            1281  COL3A1; collagen type III alpha 1 chain [KO:K19720]
+            1284  COL4A2; collagen type IV alpha 2 chain [KO:K06237]
+            1286  COL4A4; collagen type IV alpha 4 chain [KO:K06237]
+            1288  COL4A6; collagen type IV alpha 6 chain [KO:K06237]
+            1282  COL4A1; collagen type IV alpha 1 chain [KO:K06237]
+            1287  COL4A5; collagen type IV alpha 5 chain [KO:K06237]
+            1285  COL4A3; collagen type IV alpha 3 chain [KO:K06237]
+            1289  COL5A1; collagen type V alpha 1 chain [KO:K19721]
+            1290  COL5A2; collagen type V alpha 2 chain [KO:K19721]
+            50509  COL5A3; collagen type V alpha 3 chain [KO:K19721]
+            1301  COL11A1; collagen type XI alpha 1 chain [KO:K19721]
+            255631  COL24A1; collagen type XXIV alpha 1 chain [KO:K19721]
+            85301  COL27A1; collagen type XXVII alpha 1 chain [KO:K19721]
+            1302  COL11A2; collagen type XI alpha 2 chain [KO:K19721]
+            1291  COL6A1; collagen type VI alpha 1 chain [KO:K06238]
+            1292  COL6A2; collagen type VI alpha 2 chain [KO:K06238]
+            1293  COL6A3; collagen type VI alpha 3 chain [KO:K06238]
+            131873  COL6A6; collagen type VI alpha 6 chain [KO:K06238]
+            256076  COL6A5; collagen type VI alpha 5 chain [KO:K06238]
+            1294  COL7A1; collagen type VII alpha 1 chain [KO:K16628]
+            1295  COL8A1; collagen type VIII alpha 1 chain [KO:K23455]
+            1296  COL8A2; collagen type VIII alpha 2 chain [KO:K23455]
+            1297  COL9A1; collagen type IX alpha 1 chain [KO:K08131]
+            1298  COL9A2; collagen type IX alpha 2 chain [KO:K08131]
+            1299  COL9A3; collagen type IX alpha 3 chain [KO:K08131]
+            1300  COL10A1; collagen type X alpha 1 chain [KO:K19479]
+            1303  COL12A1; collagen type XII alpha 1 chain [KO:K08132]
+            1305  COL13A1; collagen type XIII alpha 1 chain [KO:K16617]
+            7373  COL14A1; collagen type XIV alpha 1 chain [KO:K08133]
+            1306  COL15A1; collagen type XV alpha 1 chain [KO:K08135]
+            1307  COL16A1; collagen type XVI alpha 1 chain [KO:K24339]
+            1308  COL17A1; collagen type XVII alpha 1 chain [KO:K07603]
+            80781  COL18A1; collagen type XVIII alpha 1 chain [KO:K06823]
+            1310  COL19A1; collagen type XIX alpha 1 chain [KO:K24340]
+            57642  COL20A1; collagen type XX alpha 1 chain [KO:K24357]
+            81578  COL21A1; collagen type XXI alpha 1 chain [KO:K16629]
+            169044  COL22A1; collagen type XXII alpha 1 chain [KO:K16630]
+            91522  COL23A1; collagen type XXIII alpha 1 chain [KO:K24355]
+            84570  COL25A1; collagen type XXV alpha 1 chain [KO:K24356]
+            136227  COL26A1; collagen type XXVI alpha 1 chain [KO:K24358]
+            340267  COL28A1; collagen type XXVIII alpha 1 chain [KO:K23619]
+COMPOUND    C00011  CO2
+            C00014  Ammonia
+            C00025  L-Glutamate
+            C00033  Acetate
+            C00037  Glycine
+            C00041  L-Alanine
+            C00047  L-Lysine
+            C00049  L-Aspartate
+            C00062  L-Arginine
+            C00064  L-Glutamine
+            C00065  L-Serine
+            C00073  L-Methionine
+            C00076  Calcium cation
+            C00078  L-Tryptophan
+            C00079  L-Phenylalanine
+            C00080  H+
+            C00082  L-Tyrosine
+            C00097  L-Cysteine
+            C00099  beta-Alanine
+            C00123  L-Leucine
+            C00134  Putrescine
+            C00135  L-Histidine
+            C00146  Phenol
+            C00148  L-Proline
+            C00152  L-Asparagine
+            C00163  Propanoate
+            C00183  L-Valine
+            C00188  L-Threonine
+            C00238  Potassium cation
+            C00246  Butanoic acid
+            C00282  Hydrogen
+            C00388  Histamine
+            C00407  L-Isoleucine
+            C00463  Indole
+            C00483  Tyramine
+            C00491  L-Cystine
+            C01327  Hydrochloric acid
+            C01330  Sodium cation
+            C01438  Methane
+            C01468  4-Cresol
+            C01672  Cadaverine
+            C01746  Piperidine
+            C02632  2-Methylpropanoate
+            C05996  Branched chain fatty acid
+            C08262  3-Methylbutanoic acid
+            C16138  L-Pyrrolysine
+            C18319  2-Methylbutyrate
+REFERENCE   PMID:18195088
+  AUTHORS   Broer S
+  TITLE     Amino acid transport across mammalian intestinal and renal epithelia.
+  JOURNAL   Physiol Rev 88:249-86 (2008)
+            DOI:10.1152/physrev.00018.2006
+REFERENCE   PMID:15772300
+  AUTHORS   Palacin M, Nunes V, Font-Llitjos M, Jimenez-Vidal M, Fort J, Gasol E, Pineda M, Feliubadalo L, Chillaron J, Zorzano A
+  TITLE     The genetics of heteromeric amino acid transporters.
+  JOURNAL   Physiology (Bethesda) 20:112-24 (2005)
+            DOI:10.1152/physiol.00051.2004
+REFERENCE   PMID:20522896
+  AUTHORS   Goodman BE
+  TITLE     Insights into digestion and absorption of major nutrients in humans.
+  JOURNAL   Adv Physiol Educ 34:44-53 (2010)
+            DOI:10.1152/advan.00094.2009
+REFERENCE   PMID:11546643
+  AUTHORS   Wagner CA, Lang F, Broer S
+  TITLE     Function and structure of heterodimeric amino acid transporters.
+  JOURNAL   Am J Physiol Cell Physiol 281:C1077-93 (2001)
+            DOI:10.1152/ajpcell.2001.281.4.C1077
+REFERENCE   PMID:18400692
+  AUTHORS   Broer S
+  TITLE     Apical transporters for neutral amino acids: physiology and pathophysiology.
+  JOURNAL   Physiology (Bethesda) 23:95-103 (2008)
+            DOI:10.1152/physiol.00045.2007
+REFERENCE   PMID:9687539
+  AUTHORS   Wu G
+  TITLE     Intestinal mucosal amino acid catabolism.
+  JOURNAL   J Nutr 128:1249-52 (1998)
+            DOI:10.1093/jn/128.8.1249
+REFERENCE   PMID:14977407
+  AUTHORS   Daniel H
+  TITLE     Molecular and integrative physiology of intestinal peptide transport.
+  JOURNAL   Annu Rev Physiol 66:361-84 (2004)
+            DOI:10.1146/annurev.physiol.66.032102.144149
+REFERENCE   PMID:12237156
+  AUTHORS   Rubio-Aliaga I, Daniel H
+  TITLE     Mammalian peptide transporters as targets for drug delivery.
+  JOURNAL   Trends Pharmacol Sci 23:434-40 (2002)
+            DOI:10.1016/S0165-6147(02)02072-2
+REFERENCE   PMID:7937532
+  AUTHORS   Bai JP
+  TITLE     Distribution of brush-border membrane peptidases along the rat intestine.
+  JOURNAL   Pharm Res 11:897-900 (1994)
+            DOI:10.1023/a:1018946228432
+REFERENCE   PMID:12583961
+  AUTHORS   Guarner F, Malagelada JR
+  TITLE     Gut flora in health and disease.
+  JOURNAL   Lancet 361:512-9 (2003)
+            DOI:10.1016/S0140-6736(03)12489-0
+REFERENCE   PMID:16887608
+  AUTHORS   Smith EA, Macfarlane GT
+  TITLE     Dissimilatory amino Acid metabolism in human colonic bacteria.
+  JOURNAL   Anaerobe 3:327-37 (1997)
+            DOI:10.1006/anae.1997.0121
+REFERENCE   PMID:20093818
+  AUTHORS   Schepers E, Glorieux G, Vanholder R
+  TITLE     The gut: the forgotten organ in uremia?
+  JOURNAL   Blood Purif 29:130-6 (2010)
+            DOI:10.1159/000245639
+REFERENCE   
+  AUTHORS   John H.Cummings
+  TITLE     The large intestine in nutrition and disease
+  JOURNAL   Institut Danone
+REFERENCE   PMID:18626068
+  AUTHORS   Heitzmann D, Warth R
+  TITLE     Physiology and pathophysiology of potassium channels in gastrointestinal epithelia.
+  JOURNAL   Physiol Rev 88:1119-82 (2008)
+            DOI:10.1152/physrev.00020.2007
+REL_PATHWAY hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa04530  Tight junction
+            hsa04971  Gastric acid secretion
+            hsa04972  Pancreatic secretion
+KO_PATHWAY  ko04974
+///

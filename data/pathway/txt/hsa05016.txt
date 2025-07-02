@@ -1,0 +1,472 @@
+ENTRY       hsa05016                    Pathway
+NAME        Huntington disease - Homo sapiens (human)
+DESCRIPTION Huntington disease (HD) is an autosomal-dominant neurodegenerative disorder that primarily affects medium spiny striatal neurons (MSN). The symptoms are choreiform, involuntary movements, personality changes and dementia. HD is caused by a CAG repeat expansion in the IT15 gene, which results in a long stretch of polyglutamine (polyQ) close to the amino-terminus of the HD protein huntingtin (Htt). Mutant Htt (mHtt) has effects both in the cytoplasm and in the nucleus. Full-length huntingtin is cleaved by proteases in the cytoplasm, leading to the formation of cytoplasmic and neuritic aggregates. mHtt also alters vesicular transport and recycling, causes cytosolic and mitochondrial Ca2+  overload, triggers endoplasmic reticulum stress through proteasomal dysfunction, and impairs autophagy function, increasing neuronal death susceptibility. N-terminal fragments containing the polyQ strech translocate to the nucleus where they impair transcription and induce neuronal death.
+CLASS       Human Diseases; Neurodegenerative disease
+PATHWAY_MAP hsa05016  Huntington disease
+NETWORK     nt06410  Calcium signaling
+            nt06413  Autophagy
+            nt06414  Apoptosis
+            nt06416  TNF signaling
+            nt06418  Oxidative phosphorylation
+            nt06419  Microtubule-based transport
+            nt06420  Ubiquitin-proteasome system
+            nt06440  Transcription
+            nt06461  Huntington disease
+  ELEMENT   N00977  Mutation-caused aberrant Htt to retrograde axonal transport
+            N00979  Mutation-caused aberrant Htt to anterograde axonal transport
+            N00980  Mutation-caused aberrant Htt to REST-mediated transcriptional repression
+            N00981  Mutation-caused aberrant Htt to CREB-mediated transcription
+            N00982  Mutation-caused aberrant Htt to p53-mediated transcription
+            N00983  Mutation-caused aberrant Htt to extrinsic apoptotic pathway
+            N00985  Mutation-caused aberrant Htt to mGluR5-Ca2+ -apoptotic pathway
+            N00986  Mutation-caused aberrant Htt to VGCC-Ca2+ -apoptotic pathway
+            N00987  Mutation-caused aberrant Htt to transport of calcium
+            N00989  Mutation-caused aberrant Htt to electron transfer in Complex II
+            N00991  Mutation-caused aberrant Htt to electron transfer in Complex III
+            N00992  Mutation-caused aberrant Htt to TNF-JNK signaling pathway
+            N00993  Mutation-caused aberrant Htt to autophagy-vesicle nucleation
+            N01061  Mutation-caused aberrant Htt to 26S proteasome-mediated protein degradation
+DISEASE     H00059  Huntington disease
+DRUG        D12012  Tominersen sodium (JAN)
+            D12013  Tominersen (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1211  CLTA; clathrin light chain A [KO:K04644]
+            1212  CLTB; clathrin light chain B [KO:K04645]
+            1213  CLTC; clathrin heavy chain [KO:K04646]
+            8218  CLTCL1; clathrin heavy chain like 1 [KO:K04646]
+            3092  HIP1; huntingtin interacting protein 1 [KO:K04559]
+            161  AP2A2; adaptor related protein complex 2 subunit alpha 2 [KO:K11824]
+            160  AP2A1; adaptor related protein complex 2 subunit alpha 1 [KO:K11824]
+            163  AP2B1; adaptor related protein complex 2 subunit beta 1 [KO:K11825]
+            1173  AP2M1; adaptor related protein complex 2 subunit mu 1 [KO:K11826]
+            1175  AP2S1; adaptor related protein complex 2 subunit sigma 1 [KO:K11827]
+            3064  HTT; huntingtin [KO:K04533]
+            1639  DCTN1; dynactin subunit 1 [KO:K04648]
+            10540  DCTN2; dynactin subunit 2 [KO:K10424]
+            11258  DCTN3; dynactin subunit 3 [KO:K10425]
+            51164  DCTN4; dynactin subunit 4 [KO:K10426]
+            84516  DCTN5; dynactin subunit 5 [KO:K10427]
+            10671  DCTN6; dynactin subunit 6 [KO:K10428]
+            10121  ACTR1A; actin related protein 1A [KO:K16575]
+            10120  ACTR1B; actin related protein 1B [KO:K16575]
+            55860  ACTR10; actin related protein 10 [KO:K16576]
+            9001  HAP1; huntingtin associated protein 1 [KO:K04647]
+            25981  DNAH1; dynein axonemal heavy chain 1 [KO:K10408]
+            55567  DNAH3; dynein axonemal heavy chain 3 [KO:K10408]
+            146754  DNAH2; dynein axonemal heavy chain 2 [KO:K10408]
+            56171  DNAH7; dynein axonemal heavy chain 7 [KO:K10408]
+            1767  DNAH5; dynein axonemal heavy chain 5 [KO:K10408]
+            1768  DNAH6; dynein axonemal heavy chain 6 [KO:K10408]
+            1770  DNAH9; dynein axonemal heavy chain 9 [KO:K10408]
+            8701  DNAH11; dynein axonemal heavy chain 11 [KO:K10408]
+            201625  DNAH12; dynein axonemal heavy chain 12 [KO:K10408]
+            127602  DNAH14; dynein axonemal heavy chain 14 [KO:K10408]
+            1769  DNAH8; dynein axonemal heavy chain 8 [KO:K10408]
+            196385  DNAH10; dynein axonemal heavy chain 10 [KO:K10408]
+            8632  DNAH17; dynein axonemal heavy chain 17 [KO:K10408]
+            7802  DNALI1; dynein axonemal light intermediate chain 1 [KO:K10410]
+            27019  DNAI1; dynein axonemal intermediate chain 1 [KO:K10409]
+            64446  DNAI2; dynein axonemal intermediate chain 2 [KO:K11143]
+            83544  DNAL1; dynein axonemal light chain 1 [KO:K10411]
+            10126  DNAL4; dynein axonemal light chain 4 [KO:K10412]
+            10376  TUBA1B; tubulin alpha 1b [KO:K07374]
+            7277  TUBA4A; tubulin alpha 4a [KO:K07374]
+            7278  TUBA3C; tubulin alpha 3c [KO:K07374]
+            7846  TUBA1A; tubulin alpha 1a [KO:K07374]
+            84790  TUBA1C; tubulin alpha 1c [KO:K07374]
+            51807  TUBA8; tubulin alpha 8 [KO:K07374]
+            112714  TUBA3E; tubulin alpha 3e [KO:K07374]
+            113457  TUBA3D; tubulin alpha 3d [KO:K07374]
+            79861  TUBAL3; tubulin alpha like 3 [KO:K07374]
+            84617  TUBB6; tubulin beta 6 class V [KO:K07375]
+            203068  TUBB; tubulin beta class I [KO:K07375]
+            81027  TUBB1; tubulin beta 1 class VI [KO:K07375]
+            7280  TUBB2A; tubulin beta 2A class IIa [KO:K07375]
+            10381  TUBB3; tubulin beta 3 class III [KO:K07375]
+            10382  TUBB4A; tubulin beta 4A class IVa [KO:K07375]
+            347688  TUBB8; tubulin beta 8 class VIII [KO:K07375]
+            347733  TUBB2B; tubulin beta 2B class IIb [KO:K07375]
+            10383  TUBB4B; tubulin beta 4B class IVb [KO:K07375]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3798  KIF5A; kinesin family member 5A [KO:K10396]
+            3799  KIF5B; kinesin family member 5B [KO:K10396]
+            3800  KIF5C; kinesin family member 5C [KO:K10396]
+            147700  KLC3; kinesin light chain 3 [KO:K10407]
+            3831  KLC1; kinesin light chain 1 [KO:K10407]
+            64837  KLC2; kinesin light chain 2 [KO:K10407]
+            89953  KLC4; kinesin light chain 4 [KO:K10407]
+            55081  IFT57; intraflagellar transport 57 [KO:K04638]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            2915  GRM5; glutamate metabotropic receptor 5 [KO:K04604]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            6804  STX1A; syntaxin 1A [KO:K04560]
+            774  CACNA1B; calcium voltage-gated channel subunit alpha1 B [KO:K04849]
+            2902  GRIN1; glutamate ionotropic receptor NMDA type subunit 1 [KO:K05208]
+            2904  GRIN2B; glutamate ionotropic receptor NMDA type subunit 2B [KO:K05210]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            1742  DLG4; discs large MAGUK scaffold protein 4 [KO:K11828]
+            2890  GRIA1; glutamate ionotropic receptor AMPA type subunit 1 [KO:K05197]
+            2891  GRIA2; glutamate ionotropic receptor AMPA type subunit 2 [KO:K05198]
+            2892  GRIA3; glutamate ionotropic receptor AMPA type subunit 3 [KO:K05199]
+            2893  GRIA4; glutamate ionotropic receptor AMPA type subunit 4 [KO:K05200]
+            7052  TGM2; transglutaminase 2 [KO:K05625] [EC:2.3.2.13]
+            6507  SLC1A3; solute carrier family 1 member 3 [KO:K05614]
+            6506  SLC1A2; solute carrier family 1 member 2 [KO:K05613]
+            3766  KCNJ10; potassium inwardly rectifying channel subfamily J member 10 [KO:K05003]
+            5978  REST; RE1 silencing transcription factor [KO:K09222]
+            25942  SIN3A; SIN3 transcription regulator family member A [KO:K11644]
+            23186  RCOR1; REST corepressor 1 [KO:K11829]
+            3065  HDAC1; histone deacetylase 1 [KO:K06067] [EC:3.5.1.98]
+            3066  HDAC2; histone deacetylase 2 [KO:K06067] [EC:3.5.1.98]
+            5430  POLR2A; RNA polymerase II subunit A [KO:K03006] [EC:2.7.7.6]
+            5431  POLR2B; RNA polymerase II subunit B [KO:K03010] [EC:2.7.7.6]
+            5432  POLR2C; RNA polymerase II subunit C [KO:K03011]
+            5433  POLR2D; RNA polymerase II subunit D [KO:K03012]
+            5434  POLR2E; RNA polymerase II, I and III subunit E [KO:K03013]
+            5435  POLR2F; RNA polymerase II, I and III subunit F [KO:K03014]
+            5436  POLR2G; RNA polymerase II subunit G [KO:K03015]
+            5437  POLR2H; RNA polymerase II, I and III subunit H [KO:K03016]
+            5438  POLR2I; RNA polymerase II subunit I [KO:K03017]
+            5441  POLR2L; RNA polymerase II, I and III subunit L [KO:K03007]
+            5439  POLR2J; RNA polymerase II subunit J [KO:K03008]
+            548644  POLR2J3; RNA polymerase II subunit J3 [KO:K03008]
+            246721  POLR2J2; RNA polymerase II subunit J2 [KO:K03008]
+            5440  POLR2K; RNA polymerase II, I and III subunit K [KO:K03009]
+            627  BDNF; brain derived neurotrophic factor [KO:K04355]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            6875  TAF4B; TATA-box binding protein associated factor 4b [KO:K03129]
+            6874  TAF4; TATA-box binding protein associated factor 4 [KO:K03129]
+            387332  TBPL2; TATA-box binding protein like 2 [KO:K03120]
+            9519  TBPL1; TATA-box binding protein like 1 [KO:K03120]
+            6908  TBP; TATA-box binding protein [KO:K03120]
+            6667  SP1; Sp1 transcription factor [KO:K04684]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            10891  PPARGC1A; PPARG coactivator 1 alpha [KO:K07202]
+            5468  PPARG; peroxisome proliferator activated receptor gamma [KO:K08530]
+            7019  TFAM; transcription factor A, mitochondrial [KO:K11830]
+            4899  NRF1; nuclear respiratory factor 1 [KO:K11831]
+            6647  SOD1; superoxide dismutase 1 [KO:K04565] [EC:1.15.1.1]
+            6648  SOD2; superoxide dismutase 2 [KO:K04564] [EC:1.15.1.1]
+            257202  GPX6; glutathione peroxidase 6 [KO:K00432] [EC:1.11.1.9]
+            2882  GPX7; glutathione peroxidase 7 [KO:K00432] [EC:1.11.1.9]
+            2877  GPX2; glutathione peroxidase 2 [KO:K00432] [EC:1.11.1.9]
+            2878  GPX3; glutathione peroxidase 3 [KO:K00432] [EC:1.11.1.9]
+            2876  GPX1; glutathione peroxidase 1 [KO:K00432] [EC:1.11.1.9]
+            2880  GPX5; glutathione peroxidase 5 [KO:K00432] [EC:1.11.1.9]
+            493869  GPX8; glutathione peroxidase 8 (putative) [KO:K00432] [EC:1.11.1.9]
+            7350  UCP1; uncoupling protein 1 [KO:K08769]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            27113  BBC3; BCL2 binding component 3 [KO:K10132]
+            4535  ND1; NADH dehydrogenase subunit 1 [KO:K03878] [EC:7.1.1.2]
+            4536  ND2; NADH dehydrogenase subunit 2 [KO:K03879] [EC:7.1.1.2]
+            4537  ND3; NADH dehydrogenase subunit 3 [KO:K03880] [EC:7.1.1.2]
+            4538  ND4; NADH dehydrogenase subunit 4 [KO:K03881] [EC:7.1.1.2]
+            4539  ND4L; NADH dehydrogenase subunit 4L [KO:K03882] [EC:7.1.1.2]
+            4540  ND5; NADH dehydrogenase subunit 5 [KO:K03883] [EC:7.1.1.2]
+            4541  ND6; NADH dehydrogenase subunit 6 [KO:K03884] [EC:7.1.1.2]
+            4723  NDUFV1; NADH:ubiquinone oxidoreductase core subunit V1 [KO:K03942] [EC:7.1.1.2]
+            4729  NDUFV2; NADH:ubiquinone oxidoreductase core subunit V2 [KO:K03943] [EC:7.1.1.2]
+            4731  NDUFV3; NADH:ubiquinone oxidoreductase subunit V3 [KO:K03944]
+            4694  NDUFA1; NADH:ubiquinone oxidoreductase subunit A1 [KO:K03945]
+            4695  NDUFA2; NADH:ubiquinone oxidoreductase subunit A2 [KO:K03946]
+            4696  NDUFA3; NADH:ubiquinone oxidoreductase subunit A3 [KO:K03947]
+            4697  NDUFA4; NDUFA4 mitochondrial complex associated [KO:K03948]
+            56901  NDUFA4L2; NDUFA4 mitochondrial complex associated like 2 [KO:K03948]
+            4698  NDUFA5; NADH:ubiquinone oxidoreductase subunit A5 [KO:K03949]
+            4700  NDUFA6; NADH:ubiquinone oxidoreductase subunit A6 [KO:K03950]
+            4701  NDUFA7; NADH:ubiquinone oxidoreductase subunit A7 [KO:K03951]
+            4702  NDUFA8; NADH:ubiquinone oxidoreductase subunit A8 [KO:K03952]
+            4704  NDUFA9; NADH:ubiquinone oxidoreductase subunit A9 [KO:K03953]
+            4705  NDUFA10; NADH:ubiquinone oxidoreductase subunit A10 [KO:K03954]
+            4706  NDUFAB1; NADH:ubiquinone oxidoreductase subunit AB1 [KO:K03955]
+            126328  NDUFA11; NADH:ubiquinone oxidoreductase subunit A11 [KO:K03956]
+            55967  NDUFA12; NADH:ubiquinone oxidoreductase subunit A12 [KO:K11352]
+            51079  NDUFA13; NADH:ubiquinone oxidoreductase subunit A13 [KO:K11353]
+            4707  NDUFB1; NADH:ubiquinone oxidoreductase subunit B1 [KO:K03957]
+            4708  NDUFB2; NADH:ubiquinone oxidoreductase subunit B2 [KO:K03958]
+            4709  NDUFB3; NADH:ubiquinone oxidoreductase subunit B3 [KO:K03959]
+            4710  NDUFB4; NADH:ubiquinone oxidoreductase subunit B4 [KO:K03960]
+            4711  NDUFB5; NADH:ubiquinone oxidoreductase subunit B5 [KO:K03961]
+            4712  NDUFB6; NADH:ubiquinone oxidoreductase subunit B6 [KO:K03962]
+            4713  NDUFB7; NADH:ubiquinone oxidoreductase subunit B7 [KO:K03963]
+            4714  NDUFB8; NADH:ubiquinone oxidoreductase subunit B8 [KO:K03964]
+            4715  NDUFB9; NADH:ubiquinone oxidoreductase subunit B9 [KO:K03965]
+            4716  NDUFB10; NADH:ubiquinone oxidoreductase subunit B10 [KO:K03966]
+            54539  NDUFB11; NADH:ubiquinone oxidoreductase subunit B11 [KO:K11351]
+            4719  NDUFS1; NADH:ubiquinone oxidoreductase core subunit S1 [KO:K03934] [EC:7.1.1.2]
+            4720  NDUFS2; NADH:ubiquinone oxidoreductase core subunit S2 [KO:K03935] [EC:7.1.1.2]
+            4722  NDUFS3; NADH:ubiquinone oxidoreductase core subunit S3 [KO:K03936] [EC:7.1.1.2]
+            4724  NDUFS4; NADH:ubiquinone oxidoreductase subunit S4 [KO:K03937]
+            4725  NDUFS5; NADH:ubiquinone oxidoreductase subunit S5 [KO:K03938]
+            4726  NDUFS6; NADH:ubiquinone oxidoreductase subunit S6 [KO:K03939]
+            374291  NDUFS7; NADH:ubiquinone oxidoreductase core subunit S7 [KO:K03940] [EC:7.1.1.2]
+            4728  NDUFS8; NADH:ubiquinone oxidoreductase core subunit S8 [KO:K03941] [EC:7.1.1.2]
+            4717  NDUFC1; NADH:ubiquinone oxidoreductase subunit C1 [KO:K03967]
+            4718  NDUFC2; NADH:ubiquinone oxidoreductase subunit C2 [KO:K03968]
+            100532726  NDUFC2-KCTD14; NDUFC2-KCTD14 readthrough [KO:K03968]
+            6389  SDHA; succinate dehydrogenase complex flavoprotein subunit A [KO:K00234] [EC:1.3.5.1]
+            6390  SDHB; succinate dehydrogenase complex iron sulfur subunit B [KO:K00235] [EC:1.3.5.1]
+            6391  SDHC; succinate dehydrogenase complex subunit C [KO:K00236]
+            6392  SDHD; succinate dehydrogenase complex subunit D [KO:K00237]
+            7386  UQCRFS1; ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [KO:K00411] [EC:7.1.1.8]
+            4519  CYTB; cytochrome b [KO:K00412]
+            1537  CYC1; cytochrome c1 [KO:K00413]
+            7384  UQCRC1; ubiquinol-cytochrome c reductase core protein 1 [KO:K00414]
+            7385  UQCRC2; ubiquinol-cytochrome c reductase core protein 2 [KO:K00415]
+            7388  UQCRH; ubiquinol-cytochrome c reductase hinge protein [KO:K00416]
+            440567  UQCRHL; ubiquinol-cytochrome c reductase hinge protein like [KO:K00416]
+            7381  UQCRB; ubiquinol-cytochrome c reductase binding protein [KO:K00417]
+            27089  UQCRQ; ubiquinol-cytochrome c reductase complex III subunit VII [KO:K00418]
+            29796  UQCR10; ubiquinol-cytochrome c reductase, complex III subunit X [KO:K00419]
+            10975  UQCR11; ubiquinol-cytochrome c reductase, complex III subunit XI [KO:K00420]
+            4514  COX3; cytochrome c oxidase subunit III [KO:K02262]
+            4512  COX1; cytochrome c oxidase subunit I [KO:K02256] [EC:7.1.1.9]
+            4513  COX2; cytochrome c oxidase subunit II [KO:K02261]
+            84701  COX4I2; cytochrome c oxidase subunit 4I2 [KO:K02263]
+            1327  COX4I1; cytochrome c oxidase subunit 4I1 [KO:K02263]
+            9377  COX5A; cytochrome c oxidase subunit 5A [KO:K02264]
+            1329  COX5B; cytochrome c oxidase subunit 5B [KO:K02265]
+            1337  COX6A1; cytochrome c oxidase subunit 6A1 [KO:K02266]
+            1339  COX6A2; cytochrome c oxidase subunit 6A2 [KO:K02266]
+            1340  COX6B1; cytochrome c oxidase subunit 6B1 [KO:K02267]
+            125965  COX6B2; cytochrome c oxidase subunit 6B2 [KO:K02267]
+            1345  COX6C; cytochrome c oxidase subunit 6C [KO:K02268]
+            1346  COX7A1; cytochrome c oxidase subunit 7A1 [KO:K02270]
+            1347  COX7A2; cytochrome c oxidase subunit 7A2 [KO:K02270]
+            9167  COX7A2L; cytochrome c oxidase subunit 7A2 like [KO:K02270]
+            1349  COX7B; cytochrome c oxidase subunit 7B [KO:K02271]
+            170712  COX7B2; cytochrome c oxidase subunit 7B2 [KO:K02271]
+            1350  COX7C; cytochrome c oxidase subunit 7C [KO:K02272]
+            341947  COX8C; cytochrome c oxidase subunit 8C [KO:K02273]
+            1351  COX8A; cytochrome c oxidase subunit 8A [KO:K02273]
+            498  ATP5F1A; ATP synthase F1 subunit alpha [KO:K02132]
+            506  ATP5F1B; ATP synthase F1 subunit beta [KO:K02133] [EC:7.1.2.2]
+            509  ATP5F1C; ATP synthase F1 subunit gamma [KO:K02136]
+            513  ATP5F1D; ATP synthase F1 subunit delta [KO:K02134]
+            514  ATP5F1E; ATP synthase F1 subunit epsilon [KO:K02135]
+            4508  ATP6; ATP synthase F0 subunit 6 [KO:K02126]
+            515  ATP5PB; ATP synthase peripheral stalk-membrane subunit b [KO:K02127]
+            516  ATP5MC1; ATP synthase membrane subunit c locus 1 [KO:K02128]
+            517  ATP5MC2; ATP synthase membrane subunit c locus 2 [KO:K02128]
+            518  ATP5MC3; ATP synthase membrane subunit c locus 3 [KO:K02128]
+            10476  ATP5PD; ATP synthase peripheral stalk subunit d [KO:K02138]
+            539  ATP5PO; ATP synthase peripheral stalk subunit OSCP [KO:K02137]
+            522  ATP5PF; ATP synthase peripheral stalk subunit F6 [KO:K02131]
+            4509  ATP8; ATP synthase F0 subunit 8 [KO:K02125]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            291  SLC25A4; solute carrier family 25 member 4 [KO:K05863]
+            292  SLC25A5; solute carrier family 25 member 5 [KO:K05863]
+            293  SLC25A6; solute carrier family 25 member 6 [KO:K05863]
+            83447  SLC25A31; solute carrier family 25 member 31 [KO:K05863]
+            10105  PPIF; peptidylprolyl isomerase F [KO:K09565] [EC:5.2.1.8]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            317  APAF1; apoptotic peptidase activating factor 1 [KO:K02084]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            5687  PSMA6; proteasome 20S subunit alpha 6 [KO:K02730] [EC:3.4.25.1]
+            5683  PSMA2; proteasome 20S subunit alpha 2 [KO:K02726] [EC:3.4.25.1]
+            5685  PSMA4; proteasome 20S subunit alpha 4 [KO:K02728] [EC:3.4.25.1]
+            5688  PSMA7; proteasome 20S subunit alpha 7 [KO:K02731] [EC:3.4.25.1]
+            143471  PSMA8; proteasome 20S subunit alpha 8 [KO:K02731] [EC:3.4.25.1]
+            5686  PSMA5; proteasome 20S subunit alpha 5 [KO:K02729] [EC:3.4.25.1]
+            5682  PSMA1; proteasome 20S subunit alpha 1 [KO:K02725] [EC:3.4.25.1]
+            5684  PSMA3; proteasome 20S subunit alpha 3 [KO:K02727] [EC:3.4.25.1]
+            5694  PSMB6; proteasome 20S subunit beta 6 [KO:K02738] [EC:3.4.25.1]
+            5695  PSMB7; proteasome 20S subunit beta 7 [KO:K02739] [EC:3.4.25.1]
+            5691  PSMB3; proteasome 20S subunit beta 3 [KO:K02735] [EC:3.4.25.1]
+            5690  PSMB2; proteasome 20S subunit beta 2 [KO:K02734] [EC:3.4.25.1]
+            5693  PSMB5; proteasome 20S subunit beta 5 [KO:K02737] [EC:3.4.25.1]
+            5689  PSMB1; proteasome 20S subunit beta 1 [KO:K02732] [EC:3.4.25.1]
+            5692  PSMB4; proteasome 20S subunit beta 4 [KO:K02736] [EC:3.4.25.1]
+            5701  PSMC2; proteasome 26S subunit, ATPase 2 [KO:K03061]
+            5700  PSMC1; proteasome 26S subunit, ATPase 1 [KO:K03062]
+            5704  PSMC4; proteasome 26S subunit, ATPase 4 [KO:K03063]
+            5706  PSMC6; proteasome 26S subunit, ATPase 6 [KO:K03064]
+            5702  PSMC3; proteasome 26S subunit, ATPase 3 [KO:K03065]
+            5705  PSMC5; proteasome 26S subunit, ATPase 5 [KO:K03066]
+            5708  PSMD2; proteasome 26S subunit ubiquitin receptor, non-ATPase 2 [KO:K03028]
+            5707  PSMD1; proteasome 26S subunit, non-ATPase 1 [KO:K03032]
+            5709  PSMD3; proteasome 26S subunit, non-ATPase 3 [KO:K03033]
+            5715  PSMD9; proteasome 26S subunit, non-ATPase 9 [KO:K06693]
+            5718  PSMD12; proteasome 26S subunit, non-ATPase 12 [KO:K03035]
+            5717  PSMD11; proteasome 26S subunit, non-ATPase 11 [KO:K03036]
+            9861  PSMD6; proteasome 26S subunit, non-ATPase 6 [KO:K03037]
+            5713  PSMD7; proteasome 26S subunit, non-ATPase 7 [KO:K03038]
+            5719  PSMD13; proteasome 26S subunit, non-ATPase 13 [KO:K03039]
+            5710  PSMD4; proteasome 26S subunit ubiquitin receptor, non-ATPase 4 [KO:K03029]
+            10213  PSMD14; proteasome 26S subunit, non-ATPase 14 [KO:K03030]
+            5714  PSMD8; proteasome 26S subunit, non-ATPase 8 [KO:K03031]
+            11047  ADRM1; ADRM1 26S proteasome ubiquitin receptor [KO:K06691]
+            7979  SEM1; SEM1 26S proteasome subunit [KO:K10881]
+            4294  MAP3K10; mitogen-activated protein kinase kinase kinase 10 [KO:K04418] [EC:2.7.11.25]
+            2081  ERN1; endoplasmic reticulum to nucleus signaling 1 [KO:K08852] [EC:2.7.11.1 3.1.26.-]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            8408  ULK1; unc-51 like autophagy activating kinase 1 [KO:K21357] [EC:2.7.11.1]
+            9706  ULK2; unc-51 like autophagy activating kinase 2 [KO:K08269] [EC:2.7.11.1]
+            60673  ATG101; autophagy related 101 [KO:K19730]
+            9776  ATG13; autophagy related 13 [KO:K08331]
+            9821  RB1CC1; RB1 inducible coiled-coil 1 [KO:K17589]
+            55626  AMBRA1; autophagy and beclin 1 regulator 1 [KO:K17985]
+            8678  BECN1; beclin 1 [KO:K08334]
+            441925  BECN2; beclin 2 [KO:K08334]
+            30849  PIK3R4; phosphoinositide-3-kinase regulatory subunit 4 [KO:K08333] [EC:2.7.11.1]
+            22863  ATG14; autophagy related 14 [KO:K17889]
+            29982  NRBF2; nuclear receptor binding factor 2 [KO:K21246]
+            5289  PIK3C3; phosphatidylinositol 3-kinase catalytic subunit type 3 [KO:K00914] [EC:2.7.1.137]
+            23130  ATG2A; autophagy related 2A [KO:K17906]
+            55102  ATG2B; autophagy related 2B [KO:K17906]
+            26100  WIPI2; WD repeat domain, phosphoinositide interacting 2 [KO:K17908]
+            55062  WIPI1; WD repeat domain, phosphoinositide interacting 1 [KO:K17908]
+COMPOUND    C00025  L-Glutamate
+            C00076  Calcium cation
+            C00238  Potassium cation
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C04549  1-Phosphatidyl-1D-myo-inositol 3-phosphate
+REFERENCE   PMID:15459747
+  AUTHORS   Landles C, Bates GP
+  TITLE     Huntingtin and the molecular pathogenesis of Huntington's disease. Fourth in molecular medicine review series.
+  JOURNAL   EMBO Rep 5:958-63 (2004)
+            DOI:10.1038/sj.embor.7400250
+REFERENCE   PMID:17041811
+  AUTHORS   Borrell-Pages M, Zala D, Humbert S, Saudou F
+  TITLE     Huntington's disease: from huntingtin function and dysfunction to therapeutic strategies.
+  JOURNAL   Cell Mol Life Sci 63:2642-60 (2006)
+            DOI:10.1007/s00018-006-6242-0
+REFERENCE   PMID:18951640
+  AUTHORS   Bossy-Wetzel E, Petrilli A, Knott AB
+  TITLE     Mutant huntingtin and mitochondrial dysfunction.
+  JOURNAL   Trends Neurosci 31:609-16 (2008)
+            DOI:10.1016/j.tins.2008.09.004
+REFERENCE   PMID:16288298
+  AUTHORS   Cattaneo E, Zuccato C, Tartari M
+  TITLE     Normal huntingtin function: an alternative approach to Huntington's disease.
+  JOURNAL   Nat Rev Neurosci 6:919-30 (2005)
+            DOI:10.1038/nrn1806
+REFERENCE   PMID:15336977
+  AUTHORS   Bezprozvanny I, Hayden MR
+  TITLE     Deranged neuronal calcium signaling and Huntington disease.
+  JOURNAL   Biochem Biophys Res Commun 322:1310-7 (2004)
+            DOI:10.1016/j.bbrc.2004.08.035
+REFERENCE   PMID:14526190
+  AUTHORS   Sawa A, Tomoda T, Bae BI
+  TITLE     Mechanisms of neuronal cell death in Huntington's disease.
+  JOURNAL   Cytogenet Genome Res 100:287-95 (2003)
+            DOI:10.1159/000072864
+REFERENCE   PMID:12372277
+  AUTHORS   Ross CA.
+  TITLE     Polyglutamine pathogenesis: emergence of unifying mechanisms for Huntington's disease and related disorders.
+  JOURNAL   Neuron 35:819-22 (2002)
+            DOI:10.1016/S0896-6273(02)00872-3
+REFERENCE   PMID:15242639
+  AUTHORS   Ross CA
+  TITLE     Huntington's disease: new paths to pathogenesis.
+  JOURNAL   Cell 118:4-7 (2004)
+            DOI:10.1016/j.cell.2004.06.022
+REFERENCE   PMID:24739785
+  AUTHORS   Coffey ET
+  TITLE     Nuclear and cytosolic JNK signalling in neurons.
+  JOURNAL   Nat Rev Neurosci 15:285-99 (2014)
+            DOI:10.1038/nrn3729
+REFERENCE   PMID:19525941
+  AUTHORS   Morfini GA, You YM, Pollema SL, Kaminska A, Liu K, Yoshioka K, Bjorkblom B, Coffey ET, Bagnato C, Han D, Huang CF, Banker G, Pigino G, Brady ST
+  TITLE     Pathogenic huntingtin inhibits fast axonal transport by activating JNK3 and phosphorylating kinesin.
+  JOURNAL   Nat Neurosci 12:864-71 (2009)
+            DOI:10.1038/nn.2346
+REFERENCE   PMID:26920688
+  AUTHORS   Kumar P, Kumar D, Jha SK, Jha NK, Ambasta RK
+  TITLE     Ion Channels in Neurological Disorders.
+  JOURNAL   Adv Protein Chem Struct Biol 103:97-136 (2016)
+            DOI:10.1016/bs.apcsb.2015.10.006
+REFERENCE   PMID:25191533
+  AUTHORS   Proft J, Weiss N
+  TITLE     Rectifying rectifier channels in Huntington disease.
+  JOURNAL   Commun Integr Biol 7:e29410 (2014)
+            DOI:10.4161/cib.29410
+REFERENCE   PMID:15695335
+  AUTHORS   Tang TS, Slow E, Lupu V, Stavrovskaya IG, Sugimori M, Llinas R, Kristal BS, Hayden MR, Bezprozvanny I
+  TITLE     Disturbed Ca2+ signaling and apoptosis of medium spiny neurons in Huntington's disease.
+  JOURNAL   Proc Natl Acad Sci U S A 102:2602-7 (2005)
+            DOI:10.1073/pnas.0409402102
+REFERENCE   PMID:29427371
+  AUTHORS   Mackay JP, Nassrallah WB, Raymond LA
+  TITLE     Cause or compensation?-Altered neuronal Ca(2+) handling in Huntington's disease.
+  JOURNAL   CNS Neurosci Ther 24:301-310 (2018)
+            DOI:10.1111/cns.12817
+REFERENCE   PMID:11807533
+  AUTHORS   Mattson MP.
+  TITLE     Accomplices to neuronal death.
+  JOURNAL   Nature 415:377-9 (2002)
+            DOI:10.1038/415377a
+REFERENCE   PMID:17081970
+  AUTHORS   McGill JK, Beal MF
+  TITLE     PGC-1alpha, a new therapeutic target in Huntington's disease?
+  JOURNAL   Cell 127:465-8 (2006)
+            DOI:10.1016/j.cell.2006.10.023
+REFERENCE   PMID:30941017
+  AUTHORS   Intihar TA, Martinez EA, Gomez-Pastor R
+  TITLE     Mitochondrial Dysfunction in Huntington's Disease; Interplay Between HSF1, p53 and PGC-1alpha Transcription Factors.
+  JOURNAL   Front Cell Neurosci 13:103 (2019)
+            DOI:10.3389/fncel.2019.00103
+REFERENCE   PMID:15996541
+  AUTHORS   La Spada AR, Morrison RS
+  TITLE     The power of the dark side: Huntington's disease protein and p53 form a deadly alliance.
+  JOURNAL   Neuron 47:1-3 (2005)
+            DOI:10.1016/j.neuron.2005.06.023
+REFERENCE   PMID:11738471
+  AUTHORS   Lesort M, Chun W, Tucholski J, Johnson GV
+  TITLE     Does tissue transglutaminase play a role in Huntington's disease?
+  JOURNAL   Neurochem Int 40:37-52 (2002)
+            DOI:10.1016/S0197-0186(01)00059-6
+REFERENCE   PMID:15996546
+  AUTHORS   Bae BI, Xu H, Igarashi S, Fujimuro M, Agrawal N, Taya Y, Hayward SD, Moran TH, Montell C, Ross CA, Snyder SH, Sawa A
+  TITLE     p53 mediates cellular dysfunction and behavioral abnormalities in Huntington's disease.
+  JOURNAL   Neuron 47:29-41 (2005)
+            DOI:10.1016/j.neuron.2005.06.005
+REFERENCE   PMID:11839795
+  AUTHORS   Li SH, Cheng AL, Zhou H, Lam S, Rao M, Li H, Li XJ
+  TITLE     Interaction of Huntington disease protein with transcriptional activator Sp1.
+  JOURNAL   Mol Cell Biol 22:1277-87 (2002)
+            DOI:10.1128/MCB.22.5.1277-1287.2002
+REFERENCE   PMID:25270767
+  AUTHORS   Vidal RL, Matus S, Bargsted L, Hetz C
+  TITLE     Targeting autophagy in neurodegenerative diseases.
+  JOURNAL   Trends Pharmacol Sci 35:583-91 (2014)
+            DOI:10.1016/j.tips.2014.09.002
+REFERENCE   PMID:16522639
+  AUTHORS   Shibata M, Lu T, Furuya T, Degterev A, Mizushima N, Yoshimori T, MacDonald M, Yankner B, Yuan J
+  TITLE     Regulation of intracellular accumulation of mutant Huntingtin by Beclin 1.
+  JOURNAL   J Biol Chem 281:14474-85 (2006)
+            DOI:10.1074/jbc.M600364200
+REL_PATHWAY hsa00190  Oxidative phosphorylation
+            hsa03020  RNA polymerase
+            hsa03022  Basal transcription factors
+            hsa03050  Proteasome
+            hsa04020  Calcium signaling pathway
+            hsa04115  p53 signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04144  Endocytosis
+            hsa04210  Apoptosis
+            hsa04724  Glutamatergic synapse
+KO_PATHWAY  ko05016
+///

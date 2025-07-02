@@ -1,0 +1,92 @@
+ENTRY       hsa03060                    Pathway
+NAME        Protein export - Homo sapiens (human)
+DESCRIPTION The protein export is the active transport of proteins from the cytoplasm to the exterior of the cell, or to the periplasmic compartment in Gram-negative bacteria. The sec dependent pathway is the general protein export system that transports newly synthesized proteins into or across the cell membrane. The translocation channel is formed from a conserved trimeric membrane protein complex, called the Sec61/SecY complex. The twin-arginine translocation (Tat) pathway is another protein transport system that transports folded proteins in bacteria, archaea, and chloroplasts. Many Tat systems comprise three functionally different membrane proteins, TatA, TatB, and TatC, but TatA and TatE seem to have overlapping functions, with TatA having by far the more important role.
+CLASS       Genetic Information Processing; Folding, sorting and degradation
+PATHWAY_MAP hsa03060  Protein export
+DBLINKS     GO: 0043952 0043953
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5018  OXA1L; OXA1L mitochondrial inner membrane protein [KO:K03217]
+            6729  SRP54; signal recognition particle 54 [KO:K03106] [EC:3.6.5.4]
+            29927  SEC61A1; SEC61 translocon subunit alpha 1 [KO:K10956]
+            55176  SEC61A2; SEC61 translocon subunit alpha 2 [KO:K10956]
+            10952  SEC61B; SEC61 translocon subunit beta [KO:K09481]
+            23480  SEC61G; SEC61 translocon subunit gamma [KO:K07342]
+            7095  SEC62; SEC62 homolog, preprotein translocation factor [KO:K12275]
+            11231  SEC63; SEC63 homolog, protein translocation regulator [KO:K09540]
+            3309  HSPA5; heat shock protein family A (Hsp70) member 5 [KO:K09490] [EC:3.6.4.10]
+            6726  SRP9; signal recognition particle 9 [KO:K03109]
+            6727  SRP14; signal recognition particle 14 [KO:K03104]
+            6731  SRP72; signal recognition particle 72 [KO:K03108]
+            6730  SRP68; signal recognition particle 68 [KO:K03107]
+            6728  SRP19; signal recognition particle 19 [KO:K03105]
+            6734  SRPRA; SRP receptor subunit alpha [KO:K13431]
+            58477  SRPRB; SRP receptor subunit beta [KO:K12272]
+            28972  SPCS1; signal peptidase complex subunit 1 [KO:K12946] [EC:3.4.-.-]
+            9789  SPCS2; signal peptidase complex subunit 2 [KO:K12947] [EC:3.4.-.-]
+            60559  SPCS3; signal peptidase complex subunit 3 [KO:K12948] [EC:3.4.-.-]
+            90701  SEC11C; SEC11 homolog C, signal peptidase complex subunit [KO:K13280] [EC:3.4.21.89]
+            23478  SEC11A; SEC11 homolog A, signal peptidase complex subunit [KO:K13280] [EC:3.4.21.89]
+            196294  IMMP1L; inner mitochondrial membrane peptidase subunit 1 [KO:K09647] [EC:3.4.21.-]
+            83943  IMMP2L; inner mitochondrial membrane peptidase subunit 2 [KO:K09648] [EC:3.4.21.-]
+REFERENCE   PMID:10087917
+  AUTHORS   Dalbey RE, Robinson C.
+  TITLE     Protein translocation into and across the bacterial plasma membrane and the plant thylakoid membrane.
+  JOURNAL   Trends Biochem Sci 24:17-22 (1999)
+            DOI:10.1016/S0968-0004(98)01333-4
+REFERENCE   PMID:10652088
+  AUTHORS   Berks BC, Sargent F, Palmer T.
+  TITLE     The Tat protein export pathway.
+  JOURNAL   Mol Microbiol 35:260-74 (2000)
+            DOI:10.1046/j.1365-2958.2000.01719.x
+REFERENCE   PMID:10747959
+  AUTHORS   Wexler M, Sargent F, Jack RL, Stanley NR, Bogsch EG, Robinson C, Berks BC, Palmer T.
+  TITLE     TatD is a cytoplasmic protein with DNase activity. No requirement for TatD family proteins in sec-independent protein export.
+  JOURNAL   J Biol Chem 275:16717-22 (2000)
+            DOI:10.1074/jbc.M000800200
+REFERENCE   PMID:11007775
+  AUTHORS   Jongbloed JD, Martin U, Antelmann H, Hecker M, Tjalsma H, Venema G, Bron S, van Dijl JM, Muller J.
+  TITLE     TatC is a specificity determinant for protein secretion via the twin-arginine translocation pathway.
+  JOURNAL   J Biol Chem 275:41350-7 (2000)
+            DOI:10.1074/jbc.M004887200
+REFERENCE   PMID:18046402
+  AUTHORS   Rapoport TA
+  TITLE     Protein translocation across the eukaryotic endoplasmic reticulum and bacterial plasma membranes.
+  JOURNAL   Nature 450:663-9 (2007)
+            DOI:10.1038/nature06384
+REFERENCE   PMID:17368028
+  AUTHORS   Flower AM
+  TITLE     The SecY translocation complex: convergence of genetics and structure.
+  JOURNAL   Trends Microbiol 15:203-10 (2007)
+            DOI:10.1016/j.tim.2007.03.001
+REFERENCE   PMID:16212506
+  AUTHORS   Osborne AR, Rapoport TA, van den Berg B
+  TITLE     Protein translocation by the Sec61/SecY channel.
+  JOURNAL   Annu Rev Cell Dev Biol 21:529-50 (2005)
+            DOI:10.1146/annurev.cellbio.21.012704.133214
+REFERENCE   PMID:12475201
+  AUTHORS   Paetzel M, Karla A, Strynadka NC, Dalbey RE
+  TITLE     Signal peptidases.
+  JOURNAL   Chem Rev 102:4549-80 (2002)
+            DOI:10.1021/cr010166y
+REFERENCE   PMID:10924740
+  AUTHORS   Paetzel M, Dalbey RE, Strynadka NC
+  TITLE     The structure and mechanism of bacterial type I signal peptidases. A novel antibiotic target.
+  JOURNAL   Pharmacol Ther 87:27-49 (2000)
+            DOI:10.1016/S0163-7258(00)00064-4
+REFERENCE   PMID:17259602
+  AUTHORS   Ng SY, Chaban B, VanDyke DJ, Jarrell KF
+  TITLE     Archaeal signal peptidases.
+  JOURNAL   Microbiology 153:305-14 (2007)
+            DOI:10.1099/mic.0.2006/003087-0
+REFERENCE   PMID:19299134
+  AUTHORS   Desvaux M, Hebraud M, Talon R, Henderson IR
+  TITLE     Secretion and subcellular localizations of bacterial proteins: a semantic awareness issue.
+  JOURNAL   Trends Microbiol 17:139-45 (2009)
+            DOI:10.1016/j.tim.2009.01.004
+REFERENCE   PMID:15063851
+  AUTHORS   Nakatogawa H, Murakami A, Ito K
+  TITLE     Control of SecA and SecM translation by protein secretion.
+  JOURNAL   Curr Opin Microbiol 7:145-50 (2004)
+            DOI:10.1016/j.mib.2004.01.001
+KO_PATHWAY  ko03060
+///

@@ -1,0 +1,244 @@
+ENTRY       hsa04919                    Pathway
+NAME        Thyroid hormone signaling pathway - Homo sapiens (human)
+DESCRIPTION The thyroid hormones (THs) are important regulators of growth, development and metabolism. The action of TH is mainly mediated by T3 (3,5,3'-triiodo-L-thyronine). Thyroid hormones, L-thyroxine (T4) and T3 enter the cell through transporter proteins. Although the major form of TH in the blood is T4, it is converted to the more active hormone T3 within cells. T3 binds to nuclear thyroid hormone receptors (TRs), which functions as a ligand-dependent transcription factor and controls the expression of target genes (genomic action). Nongenomic mechanisms of action is initiated at the integrin receptor. The plasma membrane alpha(v)beta(3)-integrin has distinct binding sites for T3 and T4. One binding site binds only T3 and activates the phosphatidylinositol 3-kinase (PI3K) pathway. The other binding site binds both T3 and T4 and activates the ERK1/2 MAP kinase pathway.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04919  Thyroid hormone signaling pathway
+NETWORK     nt06322  TRH-TSH-TH signaling
+  ELEMENT   N00798  Thyroid hormone signaling pathway
+DRUG        D00562  Propylthiouracil (JP18/USP/INN)
+            D01010  Levothyroxine sodium (USP)
+            D01011  Liothyronine sodium (JP18/USP)
+            D01012  Dried thyroid (JP18)
+            D03750  Dextrothyroxine sodium (USAN)
+            D06482  Thyroid (USP)
+            D07214  Tiratricol (INN)
+            D08125  Levothyroxine (BAN)
+            D11113  Levothyroxine sodium (INN)
+            D11602  Resmetirom (USAN/INN)
+DBLINKS     GO: 0002154
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            3685  ITGAV; integrin subunit alpha V [KO:K06487]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            2099  ESR1; estrogen receptor 1 [KO:K08550]
+            7068  THRB; thyroid hormone receptor beta [KO:K08362]
+            9611  NCOR1; nuclear receptor corepressor 1 [KO:K04650]
+            25942  SIN3A; SIN3 transcription regulator family member A [KO:K11644]
+            3065  HDAC1; histone deacetylase 1 [KO:K06067] [EC:3.5.1.98]
+            3066  HDAC2; histone deacetylase 2 [KO:K06067] [EC:3.5.1.98]
+            8841  HDAC3; histone deacetylase 3 [KO:K11404] [EC:3.5.1.98]
+            7067  THRA; thyroid hormone receptor alpha [KO:K05547]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6257  RXRB; retinoid X receptor beta [KO:K08525]
+            6258  RXRG; retinoid X receptor gamma [KO:K08526]
+            8850  KAT2B; lysine acetyltransferase 2B [KO:K06062] [EC:2.3.1.48]
+            2648  KAT2A; lysine acetyltransferase 2A [KO:K06062] [EC:2.3.1.48]
+            8648  NCOA1; nuclear receptor coactivator 1 [KO:K09101] [EC:2.3.1.48]
+            10499  NCOA2; nuclear receptor coactivator 2 [KO:K11255]
+            8202  NCOA3; nuclear receptor coactivator 3 [KO:K11256] [EC:2.3.1.48]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            29079  MED4; mediator complex subunit 4 [KO:K15146]
+            116931  MED12L; mediator complex subunit 12L [KO:K15162]
+            9968  MED12; mediator complex subunit 12 [KO:K15162]
+            23389  MED13L; mediator complex subunit 13L [KO:K15164]
+            9969  MED13; mediator complex subunit 13 [KO:K15164]
+            9282  MED14; mediator complex subunit 14 [KO:K15156]
+            10025  MED16; mediator complex subunit 16 [KO:K15159]
+            9440  MED17; mediator complex subunit 17 [KO:K15133]
+            9862  MED24; mediator complex subunit 24 [KO:K15167]
+            9442  MED27; mediator complex subunit 27 [KO:K15170]
+            90390  MED30; mediator complex subunit 30 [KO:K15143]
+            5469  MED1; mediator complex subunit 1 [KO:K15144]
+            595  CCND1; cyclin D1 [KO:K04503]
+            2626  GATA4; GATA binding protein 4 [KO:K09183]
+            1827  RCAN1; regulator of calcineurin 1 [KO:K17901]
+            3091  HIF1A; hypoxia inducible factor 1 subunit alpha [KO:K08268]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            4625  MYH7; myosin heavy chain 7 [KO:K17751]
+            4624  MYH6; myosin heavy chain 6 [KO:K17751]
+            487  ATP2A1; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [KO:K05853] [EC:7.2.2.10]
+            489  ATP2A3; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [KO:K05853] [EC:7.2.2.10]
+            488  ATP2A2; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [KO:K05853] [EC:7.2.2.10]
+            5350  PLN; phospholamban [KO:K05852]
+            54361  WNT4; Wnt family member 4 [KO:K00408]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            4851  NOTCH1; notch receptor 1 [KO:K02599]
+            4853  NOTCH2; notch receptor 2 [KO:K20994]
+            4854  NOTCH3; notch receptor 3 [KO:K20995]
+            4855  NOTCH4; notch receptor 4 [KO:K20996]
+            652  BMP4; bone morphogenetic protein 4 [KO:K04662]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5333  PLCD1; phospholipase C delta 1 [KO:K05857] [EC:3.1.4.11]
+            113026  PLCD3; phospholipase C delta 3 [KO:K05857] [EC:3.1.4.11]
+            84812  PLCD4; phospholipase C delta 4 [KO:K05857] [EC:3.1.4.11]
+            51196  PLCE1; phospholipase C epsilon 1 [KO:K05860] [EC:3.1.4.11]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            89869  PLCZ1; phospholipase C zeta 1 [KO:K05861] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            6548  SLC9A1; solute carrier family 9 member A1 [KO:K05742]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            6567  SLC16A2; solute carrier family 16 member 2 [KO:K08231]
+            117247  SLC16A10; solute carrier family 16 member 10 [KO:K08187]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5170  PDPK1; 3-phosphoinositide dependent protein kinase 1 [KO:K06276] [EC:2.7.11.1]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            7249  TSC2; TSC complex subunit 2 [KO:K07207]
+            6009  RHEB; Ras homolog, mTORC1 binding [KO:K07208]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            9882  TBC1D4; TBC1 domain family member 4 [KO:K17902]
+            5208  PFKFB2; 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2 [KO:K19029] [EC:2.7.1.105 3.1.3.46]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            10231  RCAN2; regulator of calcineurin 2 [KO:K17903]
+            6513  SLC2A1; solute carrier family 2 member 1 [KO:K07299]
+            5213  PFKM; phosphofructokinase, muscle [KO:K00850] [EC:2.7.1.11]
+            5214  PFKP; phosphofructokinase, platelet [KO:K00850] [EC:2.7.1.11]
+            5211  PFKL; phosphofructokinase, liver type [KO:K00850] [EC:2.7.1.11]
+            53919  SLCO1C1; solute carrier organic anion transporter family member 1C1 [KO:K08747]
+            1733  DIO1; iodothyronine deiodinase 1 [KO:K01562] [EC:1.21.99.4]
+            1734  DIO2; iodothyronine deiodinase 2 [KO:K17904] [EC:1.21.99.4]
+            1735  DIO3; iodothyronine deiodinase 3 [KO:K07754] [EC:1.21.99.3]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+COMPOUND    C00076  Calcium cation
+            C00080  H+
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00575  3',5'-Cyclic AMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C01829  Thyroxine
+            C02465  Triiodothyronine
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C07639  3,3',5'-Triiodo-L-thyronine
+REFERENCE   PMID:20051527
+  AUTHORS   Cheng SY, Leonard JL, Davis PJ
+  TITLE     Molecular aspects of thyroid hormone actions.
+  JOURNAL   Endocr Rev 31:139-70 (2010)
+            DOI:10.1210/er.2009-0007
+REFERENCE   PMID:16214361
+  AUTHORS   Davis PJ, Davis FB, Cody V
+  TITLE     Membrane receptors mediating thyroid hormone action.
+  JOURNAL   Trends Endocrinol Metab 16:429-35 (2005)
+            DOI:10.1016/j.tem.2005.09.007
+REFERENCE   PMID:18329679
+  AUTHORS   Davis PJ, Davis FB, Lin HY
+  TITLE     Promotion by thyroid hormone of cytoplasm-to-nucleus shuttling of thyroid hormone receptors.
+  JOURNAL   Steroids 73:1013-7 (2008)
+            DOI:10.1016/j.steroids.2007.12.030
+REFERENCE   PMID:22484490
+  AUTHORS   Pascual A, Aranda A
+  TITLE     Thyroid hormone receptors, cell growth and differentiation.
+  JOURNAL   Biochim Biophys Acta 1830:3908-16 (2013)
+            DOI:10.1016/j.bbagen.2012.03.012
+REFERENCE   PMID:17983645
+  AUTHORS   Davis PJ, Leonard JL, Davis FB
+  TITLE     Mechanisms of nongenomic actions of thyroid hormone.
+  JOURNAL   Front Neuroendocrinol 29:211-8 (2008)
+            DOI:10.1016/j.yfrne.2007.09.003
+REFERENCE   PMID:19755667
+  AUTHORS   Davis PJ, Davis FB, Lin HY, Mousa SA, Zhou M, Luidens MK
+  TITLE     Translational implications of nongenomic actions of thyroid hormone initiated at its integrin receptor.
+  JOURNAL   Am J Physiol Endocrinol Metab 297:E1238-46 (2009)
+            DOI:10.1152/ajpendo.00480.2009
+REFERENCE   PMID:20868274
+  AUTHORS   Davis PJ, Davis FB, Mousa SA, Luidens MK, Lin HY
+  TITLE     Membrane receptor for thyroid hormone: physiologic and pharmacologic implications.
+  JOURNAL   Annu Rev Pharmacol Toxicol 51:99-115 (2011)
+            DOI:10.1146/annurev-pharmtox-010510-100512
+REFERENCE   PMID:23021374
+  AUTHORS   Lin HY, Tang HY, Davis FB, Mousa SA, Incerpi S, Luidens MK, Meng R, Davis PJ
+  TITLE     Nongenomic regulation by thyroid hormone of plasma membrane ion and small molecule pumps.
+  JOURNAL   Discov Med 14:199-206 (2012)
+REFERENCE   PMID:21835053
+  AUTHORS   Moeller LC, Broecker-Preuss M
+  TITLE     Transcriptional regulation by nonclassical action of thyroid hormone.
+  JOURNAL   Thyroid Res 4 Suppl 1:S6 (2011)
+            DOI:10.1186/1756-6614-4-S1-S6
+REFERENCE   PMID:19295177
+  AUTHORS   Bhargava M, Lei J, Ingbar DH
+  TITLE     Nongenomic actions of L-thyroxine and 3,5,3'-triiodo-L-thyronine. Focus on "L-Thyroxine vs. 3,5,3'-triiodo-L-thyronine and cell proliferation: activation of mitogen-activated protein kinase and phosphatidylinositol 3-kinase".
+  JOURNAL   Am J Physiol Cell Physiol 296:C977-9 (2009)
+            DOI:10.1152/ajpcell.00116.2009
+REFERENCE   PMID:17574003
+  AUTHORS   Oetting A, Yen PM
+  TITLE     New insights into thyroid hormone action.
+  JOURNAL   Best Pract Res Clin Endocrinol Metab 21:193-208 (2007)
+            DOI:10.1016/j.beem.2007.04.004
+REFERENCE   PMID:20005976
+  AUTHORS   Ojamaa K
+  TITLE     Signaling mechanisms in thyroid hormone-induced cardiac hypertrophy.
+  JOURNAL   Vascul Pharmacol 52:113-9 (2010)
+            DOI:10.1016/j.vph.2009.11.008
+REFERENCE   PMID:19716314
+  AUTHORS   Aranda A, Martinez-Iglesias O, Ruiz-Llorente L, Garcia-Carpizo V, Zambrano A
+  TITLE     Thyroid receptor: roles in cancer.
+  JOURNAL   Trends Endocrinol Metab 20:318-24 (2009)
+            DOI:10.1016/j.tem.2009.03.011
+REFERENCE   PMID:16951130
+  AUTHORS   Otulakowski G, O'Brodovich H
+  TITLE     Thyroid hormone and Na+-K+-ATPase: more than simple transcription.
+  JOURNAL   Am J Physiol Lung Cell Mol Physiol 292:L4-5 (2007)
+            DOI:10.1152/ajplung.00332.2006
+REFERENCE   PMID:16051672
+  AUTHORS   Moeller LC, Dumitrescu AM, Refetoff S
+  TITLE     Cytosolic action of thyroid hormone leads to induction of hypoxia-inducible factor-1alpha and glycolytic genes.
+  JOURNAL   Mol Endocrinol 19:2955-63 (2005)
+            DOI:10.1210/me.2004-0542
+REFERENCE   PMID:15345678
+  AUTHORS   D'Arezzo S, Incerpi S, Davis FB, Acconcia F, Marino M, Farias RN, Davis PJ
+  TITLE     Rapid nongenomic effects of 3,5,3'-triiodo-L-thyronine on the intracellular pH of L-6 myoblasts are mediated by intracellular calcium mobilization and kinase pathways.
+  JOURNAL   Endocrinology 145:5694-703 (2004)
+            DOI:10.1210/en.2004-0890
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04066  HIF-1 signaling pathway
+            hsa04115  p53 signaling pathway
+            hsa04150  mTOR signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04260  Cardiac muscle contraction
+            hsa04310  Wnt signaling pathway
+            hsa04330  Notch signaling pathway
+            hsa04810  Regulation of actin cytoskeleton
+            hsa04918  Thyroid hormone synthesis
+KO_PATHWAY  ko04919
+///

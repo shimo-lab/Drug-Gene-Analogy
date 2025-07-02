@@ -1,0 +1,185 @@
+ENTRY       hsa04920                    Pathway
+NAME        Adipocytokine signaling pathway - Homo sapiens (human)
+DESCRIPTION Increased adipocyte volume and number are positively correlated with leptin production, and negatively correlated with production of adiponectin.
+            Leptin is an important regulator of energy intake and metabolic rate primarily by acting at hypothalamic nuclei. Leptin exerts its anorectic effects by modulating the levels of neuropeptides such as NPY, AGRP, and alpha-MSH. This leptin action is through the JAK kinase, STAT3 phosphorylation, and nuclear transcriptional effect.
+            Adiponectin lowers plasma glucose and FFAs. These effects are partly accounted for by adiponectin-induced AMPK activation, which in turn stimulates skeletal muscle fatty acid oxidation and glucose uptake. Furthermore, activation of AMPK by adiponectin suppresses endogenous glucose production, concomitantly with inhibition of PEPCK and G6Pase expression.
+            The proinflammatory cytokine TNFalpha has been implicated as a link between obesity and insulin resistance. TNFalpha interferes with early steps of insulin signaling. Several data have shown that TNFalpha inhibits IRS1 tyrosine phosphorylation by promoting its serine phosphorylation. Among the serine/threonine kinases activated by TNFalpha, JNK, mTOR and IKK have been shown to be involved in this phosphorylation.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04920  Adipocytokine signaling pathway
+DRUG        D00279  Clofibrate (JP18/USP/INN)
+            D00334  Gemfibrozil (JAN/USP/INN)
+            D00565  Fenofibrate (JP18/USP/INN)
+            D00595  Buformin (USAN/INN)
+            D00742  Etanercept (USAN/INN)
+            D00944  Metformin hydrochloride (JP18/USP)
+            D01208  Aluminum clofibrate (JAN/INN)
+            D01366  Bezafibrate (JP18/USAN/INN)
+            D02206  Buformin hydrochloride (JP18)
+            D02598  Infliximab (USAN/INN)
+            D03106  Bexarotene (JAN/USAN/INN)
+            D03441  Certolizumab pegol (USAN/INN)
+            D03521  Ciprofibrate (USAN/INN)
+            D04358  Golimumab (USAN/INN)
+            D04966  Metformin (USAN/INN)
+            D05014  Metreleptin (USAN/INN)
+            D05292  Oxfenicine (USAN/INN)
+            D07187  Etofibrate (INN)
+            D07436  Afelimomab (INN)
+            D07724  Magnesium clofibrate (INN)
+            D08351  Phenformin (BAN)
+            D08352  Phenformin hydrochloride
+            D08890  Choline fenofibrate (USAN/INN)
+            D11186  Olumacostat glasaretil (USAN/INN)
+            D11208  Elafibranor (USAN)
+            D11579  Fenofibric acid
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7124  TNF; tumor necrosis factor [KO:K03156]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            7133  TNFRSF1B; TNF receptor superfamily member 1B [KO:K05141]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4794  NFKBIE; NFKB inhibitor epsilon [KO:K05872]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            9021  SOCS3; suppressor of cytokine signaling 3 [KO:K04696]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            8471  IRS4; insulin receptor substrate 4 [KO:K17446]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            948  CD36; CD36 molecule [KO:K06259]
+            23305  ACSL6; acyl-CoA synthetase long chain family member 6 [KO:K01897] [EC:6.2.1.3]
+            2182  ACSL4; acyl-CoA synthetase long chain family member 4 [KO:K01897] [EC:6.2.1.3]
+            2180  ACSL1; acyl-CoA synthetase long chain family member 1 [KO:K01897] [EC:6.2.1.3]
+            51703  ACSL5; acyl-CoA synthetase long chain family member 5 [KO:K01897] [EC:6.2.1.3]
+            2181  ACSL3; acyl-CoA synthetase long chain family member 3 [KO:K01897] [EC:6.2.1.3]
+            23205  ACSBG1; acyl-CoA synthetase bubblegum family member 1 [KO:K15013] [EC:6.2.1.3]
+            81616  ACSBG2; acyl-CoA synthetase bubblegum family member 2 [KO:K15013] [EC:6.2.1.3]
+            5588  PRKCQ; protein kinase C theta [KO:K18052] [EC:2.7.11.13]
+            3952  LEP; leptin [KO:K05424]
+            3953  LEPR; leptin receptor [KO:K05062]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            5443  POMC; proopiomelanocortin [KO:K05228]
+            181  AGRP; agouti related neuropeptide [KO:K05231]
+            4852  NPY; neuropeptide Y [KO:K05232]
+            10891  PPARGC1A; PPARG coactivator 1 alpha [KO:K07202]
+            5105  PCK1; phosphoenolpyruvate carboxykinase 1 [KO:K01596] [EC:4.1.1.32]
+            5106  PCK2; phosphoenolpyruvate carboxykinase 2, mitochondrial [KO:K01596] [EC:4.1.1.32]
+            2538  G6PC1; glucose-6-phosphatase catalytic subunit 1 [KO:K01084] [EC:3.1.3.9]
+            57818  G6PC2; glucose-6-phosphatase catalytic subunit 2 [KO:K01084] [EC:3.1.3.9]
+            92579  G6PC3; glucose-6-phosphatase catalytic subunit 3 [KO:K01084] [EC:3.1.3.9]
+            5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            5465  PPARA; peroxisome proliferator activated receptor alpha [KO:K07294]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6257  RXRB; retinoid X receptor beta [KO:K08525]
+            6258  RXRG; retinoid X receptor gamma [KO:K08526]
+            9370  ADIPOQ; adiponectin, C1Q and collagen domain containing [KO:K07296]
+            51094  ADIPOR1; adiponectin receptor 1 [KO:K07297]
+            79602  ADIPOR2; adiponectin receptor 2 [KO:K07297]
+            6794  STK11; serine/threonine kinase 11 [KO:K07298] [EC:2.7.11.1]
+            10645  CAMKK2; calcium/calmodulin dependent protein kinase kinase 2 [KO:K07359] [EC:2.7.11.17]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            32  ACACB; acetyl-CoA carboxylase beta [KO:K01946] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            1374  CPT1A; carnitine palmitoyltransferase 1A [KO:K08765] [EC:2.3.1.21]
+            1375  CPT1B; carnitine palmitoyltransferase 1B [KO:K19523] [EC:2.3.1.21]
+            126129  CPT1C; carnitine palmitoyltransferase 1C [KO:K19524] [EC:2.3.1.21]
+            6513  SLC2A1; solute carrier family 2 member 1 [KO:K07299]
+            6517  SLC2A4; solute carrier family 2 member 4 [KO:K07191]
+COMPOUND    C00040  Acyl-CoA
+            C00083  Malonyl-CoA
+            C00162  Fatty acid
+            C00165  Diacylglycerol
+            C00195  N-Acylsphingosine
+            C00638  Long-chain fatty acid
+            C15493  9-cis-Retinoic acid
+REFERENCE   PMID:15733744
+  AUTHORS   Gual P, Le Marchand-Brustel Y, Tanti JF.
+  TITLE     Positive and negative regulation of insulin signaling through IRS-1 phosphorylation.
+  JOURNAL   Biochimie 87:99-109 (2005)
+            DOI:10.1016/j.biochi.2004.10.019
+REFERENCE   PMID:12829246
+  AUTHORS   Hardie DG, Scott JW, Pan DA, Hudson ER.
+  TITLE     Management of cellular energy by the AMP-activated protein kinase system.
+  JOURNAL   FEBS Lett 546:113-20 (2003)
+            DOI:10.1016/S0014-5793(03)00560-X
+REFERENCE   PMID:15980064
+  AUTHORS   Hurley RL, Anderson KA, Franzone JM, Kemp BE, Means AR, Witters LA.
+  TITLE     The Ca2+/calmodulin-dependent protein kinase kinases are AMP-activated protein kinase kinases.
+  JOURNAL   J Biol Chem 280:29060-6 (2005)
+            DOI:10.1074/jbc.M503824200
+REFERENCE   PMID:10766253
+  AUTHORS   Schwartz MW, Woods SC, Porte D Jr, Seeley RJ, Baskin DG.
+  TITLE     Central nervous system control of food intake.
+  JOURNAL   Nature 404:661-71 (2000)
+            DOI:10.1038/35007534
+REFERENCE   PMID:15856064
+  AUTHORS   Munzberg H, Myers MG Jr.
+  TITLE     Molecular and anatomical determinants of central leptin resistance.
+  JOURNAL   Nat Neurosci 8:566-70 (2005)
+            DOI:10.1038/nn1454
+REFERENCE   PMID:12754525
+  AUTHORS   Puigserver P, Rhee J, Donovan J, Walkey CJ, Yoon JC, Oriente F, Kitamura Y, Altomonte J, Dong H, Accili D, Spiegelman BM.
+  TITLE     Insulin-regulated hepatic gluconeogenesis through FOXO1-PGC-1alpha interaction.
+  JOURNAL   Nature 423:550-5 (2003)
+            DOI:10.1038/nature01667
+REFERENCE   PMID:11557972
+  AUTHORS   Yoon JC, Puigserver P, Chen G, Donovan J, Wu Z, Rhee J, Adelmant G, Stafford J, Kahn CR, Granner DK, Newgard CB, Spiegelman BM.
+  TITLE     Control of hepatic gluconeogenesis through the transcriptional coactivator PGC-1.
+  JOURNAL   Nature 413:131-8 (2001)
+            DOI:10.1038/35093050
+REFERENCE   PMID:14716305
+  AUTHORS   Inoue H, Ogawa W, Ozaki M, Haga S, Matsumoto M, Furukawa K, Hashimoto N, Kido Y, Mori T, Sakaue H, Teshigawara K, Jin S, Iguchi H, Hiramatsu R, LeRoith D, Takeda K, Akira S, Kasuga M.
+  TITLE     Role of STAT-3 in regulation of hepatic gluconeogenic genes and carbohydrate metabolism in vivo.
+  JOURNAL   Nat Med 10:168-74 (2004)
+            DOI:10.1038/nm980
+REFERENCE   PMID:9671776
+  AUTHORS   Zhou YT, Shimabukuro M, Wang MY, Lee Y, Higa M, Milburn JL, Newgard CB, Unger RH.
+  TITLE     Role of peroxisome proliferator-activated receptor alpha in disease of pancreatic beta cells.
+  JOURNAL   Proc Natl Acad Sci U S A 95:8898-903 (1998)
+            DOI:10.1073/pnas.95.15.8898
+REFERENCE   PMID:10905472
+  AUTHORS   Kelley DE, Mandarino LJ.
+  TITLE     Fuel selection in human skeletal muscle in insulin resistance: a reexamination.
+  JOURNAL   Diabetes 49:677-83 (2000)
+            DOI:10.2337/diabetes.49.5.677
+REFERENCE   PMID:12368907
+  AUTHORS   Yamauchi T, Kamon J, Minokoshi Y, Ito Y, Waki H, Uchida S, Yamashita S, Noda M, Kita S, Ueki K, Eto K, Akanuma Y, Froguel P, Foufelle F, Ferre P, Carling D, Kimura S, Nagai R, Kahn BB, Kadowaki T.
+  TITLE     Adiponectin stimulates glucose utilization and fatty-acid oxidation by activating AMP-activated protein kinase.
+  JOURNAL   Nat Med 8:1288-95 (2002)
+            DOI:10.1038/nm788
+REFERENCE   PMID:11479627
+  AUTHORS   Yamauchi T, Kamon J, Waki H, Terauchi Y, Kubota N, Hara K, Mori Y, Ide T, Murakami K, Tsuboyama-Kasaoka N, Ezaki O, Akanuma Y, Gavrilova O, Vinson C, Reitman ML, Kagechika H, Shudo K, Yoda M, Nakano Y, Tobe K, Nagai R, Kimura S, Tomita M, Froguel P, Kadowaki T.
+  TITLE     The fat-derived hormone adiponectin reverses insulin resistance associated with both lipoatrophy and obesity.
+  JOURNAL   Nat Med 7:941-6 (2001)
+            DOI:10.1038/90984
+REFERENCE   PMID:15058305
+  AUTHORS   Minokoshi Y, Alquier T, Furukawa N, Kim YB, Lee A, Xue B, Mu J, Foufelle F, Ferre P, Birnbaum MJ, Stuck BJ, Kahn BB.
+  TITLE     AMP-kinase regulates food intake by responding to hormonal and nutrient signals in the hypothalamus.
+  JOURNAL   Nature 428:569-74 (2004)
+            DOI:10.1038/nature02440
+REFERENCE   PMID:14679176
+  AUTHORS   Weisberg SP, McCann D, Desai M, Rosenbaum M, Leibel RL, Ferrante AW Jr.
+  TITLE     Obesity is associated with macrophage accumulation in adipose tissue.
+  JOURNAL   J Clin Invest 112:1796-808 (2003)
+            DOI:10.1172/JCI19246
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04910  Insulin signaling pathway
+KO_PATHWAY  ko04920
+///

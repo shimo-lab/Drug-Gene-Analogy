@@ -1,0 +1,12 @@
+adjustText==1.1.1
+gensim==3.8.3
+isort==5.10.1
+jupyterlab==3.3.2
+matplotlib==3.7.5
+pandas==1.4.2
+protobuf==3.20.0
+scikit-learn==1.0.2
+scipy==1.8.0
+seaborn==0.13.2
+fire==0.4.0
+openai>=1.35.3

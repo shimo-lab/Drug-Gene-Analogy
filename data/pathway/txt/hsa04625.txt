@@ -1,0 +1,219 @@
+ENTRY       hsa04625                    Pathway
+NAME        C-type lectin receptor signaling pathway - Homo sapiens (human)
+DESCRIPTION C-type lectin receptors (CLRs) are a large superfamily of proteins characterized by the presence of one or more C-type lectin-like domains (CTLDs). CLRs function as pattern-recognition receptors (PRRs) for pathogen-derived ligands in dendric cells, macrophages, neutrophils, etc., such as Dectin-1 and Dectin-2 for recognition of fungi-derived B-glucan and high mannose-type carbohydrates. Upon ligand binding, CLRs stimulate intracellular signaling cascades that induce the production of inflammatory cytokines and chemokines, consequently triggering innate and adaptive immunity to pathogens.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04625  C-type lectin receptor signaling pathway
+DRUG        D12237  Zunsemetinib (USAN)
+            D12422  Selnoflast (USAN/INN)
+            D12423  Selnoflast potassium (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        64581  CLEC7A; C-type lectin domain containing 7A [KO:K10074]
+            4046  LSP1; lymphocyte specific protein 1 [KO:K14957]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            22808  MRAS; muscle RAS oncogene homolog [KO:K07831]
+            6237  RRAS; RAS related [KO:K07829]
+            22800  RRAS2; RAS related 2 [KO:K07830]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            5971  RELB; RELB proto-oncogene, NF-kB subunit [KO:K09253]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            5781  PTPN11; protein tyrosine phosphatase non-receptor type 11 [KO:K07293] [EC:3.1.3.48]
+            9020  MAP3K14; mitogen-activated protein kinase kinase kinase 14 [KO:K04466] [EC:2.7.11.25]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            4791  NFKB2; nuclear factor kappa B subunit 2 [KO:K04469]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            4776  NFATC4; nuclear factor of activated T cells 4 [KO:K17334]
+            3558  IL2; interleukin 2 [KO:K05429]
+            3586  IL10; interleukin 10 [KO:K05443]
+            1959  EGR2; early growth response 2 [KO:K12496]
+            1960  EGR3; early growth response 3 [KO:K12497]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            114548  NLRP3; NLR family pyrin domain containing 3 [KO:K12800]
+            29108  PYCARD; PYD and CARD domain containing [KO:K12799]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+            64170  CARD9; caspase recruitment domain family member 9 [KO:K12794]
+            8915  BCL10; BCL10 immune signaling adaptor [KO:K07368]
+            10892  MALT1; MALT1 paracaspase [KO:K07369] [EC:3.4.22.-]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3569  IL6; interleukin 6 [KO:K05405]
+            51561  IL23A; interleukin 23 subunit alpha [KO:K05426]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            868  CBLB; Cbl proto-oncogene B [KO:K22517] [EC:2.3.2.27]
+            93978  CLEC6A; C-type lectin domain containing 6A [KO:K17514]
+            2207  FCER1G; Fc epsilon receptor Ig [KO:K07983]
+            10332  CLEC4M; C-type lectin domain family 4 member M [KO:K06563]
+            30835  CD209; CD209 molecule [KO:K06563]
+            23365  ARHGEF12; Rho guanine nucleotide exchange factor 12 [KO:K07532]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            8844  KSR1; kinase suppressor of ras 1 [KO:K14958]
+            1263  PLK3; polo like kinase 3 [KO:K08862] [EC:2.7.11.21]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            10379  IRF9; interferon regulatory factor 9 [KO:K04693]
+            6773  STAT2; signal transducer and activator of transcription 2 [KO:K11221]
+            53342  IL17D; interleukin 17D [KO:K05492]
+            1540  CYLD; CYLD lysine 63 deubiquitinase [KO:K08601] [EC:3.4.19.12]
+            602  BCL3; BCL3 transcription coactivator [KO:K09258]
+            6361  CCL17; C-C motif chemokine ligand 17 [KO:K21083]
+            6367  CCL22; C-C motif chemokine ligand 22 [KO:K21095]
+            9261  MAPKAPK2; MAPK activated protein kinase 2 [KO:K04443] [EC:2.7.11.1]
+            26253  CLEC4E; C-type lectin domain family 4 member E [KO:K10059]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            3659  IRF1; interferon regulatory factor 1 [KO:K09444]
+            338339  CLEC4D; C-type lectin domain family 4 member D [KO:K10058]
+            51266  CLEC1B; C-type lectin domain family 1 member B [KO:K10070]
+COMPOUND    C00027  Hydrogen peroxide
+            C00076  Calcium cation
+            C00159  D-Mannose
+            C00165  Diacylglycerol
+            C00584  Prostaglandin E2
+            C00965  1,3-beta-D-Glucan
+            C01019  L-Fucose
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C16844  Hydroxyl radical
+            C21790  Trehalose dimycolate
+            C21791  Rhodocytin
+            G13115  Mannose-capped lipoarabinomannan
+REFERENCE   PMID:27291962
+  AUTHORS   Geijtenbeek TB, Gringhuis SI
+  TITLE     C-type lectin receptors in the control of T helper cell differentiation.
+  JOURNAL   Nat Rev Immunol 16:433-48 (2016)
+            DOI:10.1038/nri.2016.55
+REFERENCE   PMID:21350579
+  AUTHORS   Hajishengallis G, Lambris JD
+  TITLE     Microbial manipulation of receptor crosstalk in innate immunity.
+  JOURNAL   Nat Rev Immunol 11:187-200 (2011)
+            DOI:10.1038/nri2918
+REFERENCE   PMID:28604735
+  AUTHORS   Iliev ID, Leonardi I
+  TITLE     Fungal dysbiosis: immunity and interactions at mucosal barriers.
+  JOURNAL   Nat Rev Immunol 17:635-646 (2017)
+            DOI:10.1038/nri.2017.55
+REFERENCE   PMID:25002863
+  AUTHORS   Richardson MB, Williams SJ
+  TITLE     MCL and Mincle: C-Type Lectin Receptors That Sense Damaged Self and Pathogen-Associated Molecular Patterns.
+  JOURNAL   Front Immunol 5:288 (2014)
+            DOI:10.3389/fimmu.2014.00288
+REFERENCE   PMID:21924922
+  AUTHORS   Vautier S, MacCallum DM, Brown GD
+  TITLE     C-type lectin receptors and cytokines in fungal immunity.
+  JOURNAL   Cytokine 58:89-99 (2012)
+            DOI:10.1016/j.cyto.2011.08.031
+REFERENCE   PMID:22170181
+  AUTHORS   Gauglitz GG, Callenberg H, Weindl G, Korting HC
+  TITLE     Host defence against Candida albicans and the role of pattern-recognition receptors.
+  JOURNAL   Acta Derm Venereol 92:291-8 (2012)
+            DOI:10.2340/00015555-1250
+REFERENCE   PMID:22973279
+  AUTHORS   Cunha C, Carvalho A, Esposito A, Bistoni F, Romani L
+  TITLE     DAMP signaling in fungal infections and diseases.
+  JOURNAL   Front Immunol 3:286 (2012)
+            DOI:10.3389/fimmu.2012.00286
+REFERENCE   PMID:29449845
+  AUTHORS   Tang J, Lin G, Langdon WY, Tao L, Zhang J
+  TITLE     Regulation of C-Type Lectin Receptor-Mediated Antifungal Immunity.
+  JOURNAL   Front Immunol 9:123 (2018)
+            DOI:10.3389/fimmu.2018.00123
+REFERENCE   PMID:27999992
+  AUTHORS   Mayer S, Raulf MK, Lepenies B
+  TITLE     C-type lectins: their network and roles in pathogen recognition and immunity.
+  JOURNAL   Histochem Cell Biol 147:223-237 (2017)
+            DOI:10.1007/s00418-016-1523-7
+REFERENCE   PMID:23570314
+  AUTHORS   Plato A, Willment JA, Brown GD
+  TITLE     C-type lectin-like receptors of the dectin-1 cluster: ligands and signaling pathways.
+  JOURNAL   Int Rev Immunol 32:134-56 (2013)
+            DOI:10.3109/08830185.2013.777065
+REFERENCE   PMID:22344277
+  AUTHORS   Dupaul-Chicoine J, Saleh M
+  TITLE     A new path to IL-1beta production controlled by caspase-8.
+  JOURNAL   Nat Immunol 13:211-2 (2012)
+            DOI:10.1038/ni.2241
+REFERENCE   PMID:24009832
+  AUTHORS   Batbayar S, Lee DH, Kim HW
+  TITLE     Immunomodulation of Fungal beta-Glucan in Host Defense Signaling by Dectin-1.
+  JOURNAL   Biomol Ther (Seoul) 20:433-45 (2012)
+            DOI:10.4062/biomolther.2012.20.5.433
+REFERENCE   PMID:28606994
+  AUTHORS   Bendickova K, Tidu F, Fric J
+  TITLE     Calcineurin-NFAT signalling in myeloid leucocytes: new prospects and pitfalls in immunosuppressive therapy.
+  JOURNAL   EMBO Mol Med 9:990-999 (2017)
+            DOI:10.15252/emmm.201707698
+REFERENCE   PMID:18998127
+  AUTHORS   den Dunnen J, Gringhuis SI, Geijtenbeek TB
+  TITLE     Innate signaling by the C-type lectin DC-SIGN dictates immune responses.
+  JOURNAL   Cancer Immunol Immunother 58:1149-57 (2009)
+            DOI:10.1007/s00262-008-0615-1
+REFERENCE   PMID:28640912
+  AUTHORS   Marakalala MJ, Ndlovu H
+  TITLE     Signaling C-type lectin receptors in antimycobacterial immunity.
+  JOURNAL   PLoS Pathog 13:e1006333 (2017)
+            DOI:10.1371/journal.ppat.1006333
+REFERENCE   PMID:24867235
+  AUTHORS   Gringhuis SI, Kaptein TM, Wevers BA, Mesman AW, Geijtenbeek TB
+  TITLE     Fucose-specific DC-SIGN signalling directs T helper cell type-2 responses via IKKepsilon- and CYLD-dependent Bcl3 activation.
+  JOURNAL   Nat Commun 5:3898 (2014)
+            DOI:10.1038/ncomms4898
+REFERENCE   PMID:19521399
+  AUTHORS   Geijtenbeek TB, Gringhuis SI
+  TITLE     Signalling through C-type lectin receptors: shaping immune responses.
+  JOURNAL   Nat Rev Immunol 9:465-79 (2009)
+            DOI:10.1038/nri2569
+REFERENCE   PMID:19122653
+  AUTHORS   Gringhuis SI, den Dunnen J, Litjens M, van der Vlist M, Wevers B, Bruijns SC, Geijtenbeek TB
+  TITLE     Dectin-1 directs T helper cell differentiation by controlling noncanonical NF-kappaB activation through Raf-1 and Syk.
+  JOURNAL   Nat Immunol 10:203-13 (2009)
+            DOI:10.1038/ni.1692
+REL_PATHWAY hsa04658  Th1 and Th2 cell differentiation
+            hsa04659  Th17 cell differentiation
+KO_PATHWAY  ko04625
+///

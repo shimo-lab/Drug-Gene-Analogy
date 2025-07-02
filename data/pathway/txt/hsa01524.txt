@@ -1,0 +1,104 @@
+ENTRY       hsa01524                    Pathway
+NAME        Platinum drug resistance - Homo sapiens (human)
+DESCRIPTION Platinum-based drugs cisplatin, carboplatin and oxaliplatin are widely used in the therapy of solid malignancies, including testicular, ovarian, head and neck, colorectal, bladder and lung cancers. The mechanism of action of Platinum-based drugs involves covalent binding to purine DNA bases, which primarily leads to cellular apoptosis. Their clinical success is, however, limited due to severe side effects and intrinsic or acquired resistance to the treatment. Platinum resistance could arise from decreased drug influx, increased drug efflux, intracellular detoxification by glutathione, etc., decreased binding (e.g., due to high intracellular pH), increased DNA repair, decreased mismatch repair, defective apoptosis, and altered oncogene expression.
+CLASS       Human Diseases; Drug resistance: antineoplastic
+PATHWAY_MAP hsa01524  Platinum drug resistance
+ORGANISM    Homo sapiens (human) [GN:hsa]
+REFERENCE   PMID:14576837
+  AUTHORS   Siddik ZH
+  TITLE     Cisplatin: mode of cytotoxic action and molecular basis of resistance.
+  JOURNAL   Oncogene 22:7265-79 (2003)
+            DOI:10.1038/sj.onc.1206933
+REFERENCE   PMID:26184483
+  AUTHORS   Martinez-Balibrea E, Martinez-Cardus A, Gines A, Ruiz de Porras V, Moutinho C, Layos L, Manzano JL, Buges C, Bystrup S, Esteller M, Abad A
+  TITLE     Tumor-Related Molecular Mechanisms of Oxaliplatin Resistance.
+  JOURNAL   Mol Cancer Ther 14:1767-76 (2015)
+            DOI:10.1158/1535-7163.MCT-14-0636
+REFERENCE   PMID:17625587
+  AUTHORS   Kelland L
+  TITLE     The resurgence of platinum-based cancer chemotherapy.
+  JOURNAL   Nat Rev Cancer 7:573-84 (2007)
+            DOI:10.1038/nrc2167
+REFERENCE   PMID:26886018
+  AUTHORS   Dilruba S, Kalayda GV
+  TITLE     Platinum-based drugs: past, present and future.
+  JOURNAL   Cancer Chemother Pharmacol 77:1103-24 (2016)
+            DOI:10.1007/s00280-016-2976-z
+REFERENCE   PMID:23442359
+  AUTHORS   Lu HP, Chao CC
+  TITLE     Cancer cells acquire resistance to anticancer drugs: an update.
+  JOURNAL   Biomed J 35:464-72 (2012)
+            DOI:10.4103/2319-4170.104411
+REFERENCE   PMID:24074238
+  AUTHORS   Koster R, van Vugt MA, Timmer-Bosscha H, Gietema JA, de Jong S
+  TITLE     Unravelling mechanisms of cisplatin sensitivity and resistance in testicular cancer.
+  JOURNAL   Expert Rev Mol Med 15:e12 (2013)
+            DOI:10.1017/erm.2013.13
+REFERENCE   PMID:21892204
+  AUTHORS   Galluzzi L, Senovilla L, Vitale I, Michels J, Martins I, Kepp O, Castedo M, Kroemer G
+  TITLE     Molecular mechanisms of cisplatin resistance.
+  JOURNAL   Oncogene 31:1869-83 (2012)
+            DOI:10.1038/onc.2011.384
+REFERENCE   PMID:17336087
+  AUTHORS   Stewart DJ
+  TITLE     Mechanisms of resistance to cisplatin and carboplatin.
+  JOURNAL   Crit Rev Oncol Hematol 63:12-31 (2007)
+            DOI:10.1016/j.critrevonc.2007.02.001
+REFERENCE   PMID:20647037
+  AUTHORS   Koberle B, Tomicic MT, Usanova S, Kaina B
+  TITLE     Cisplatin resistance: preclinical findings and clinical implications.
+  JOURNAL   Biochim Biophys Acta 1806:172-82 (2010)
+            DOI:10.1016/j.bbcan.2010.07.004
+REFERENCE   PMID:25546083
+  AUTHORS   Jacobsen C, Honecker F
+  TITLE     Cisplatin resistance in germ cell tumours: models and mechanisms.
+  JOURNAL   Andrology 3:111-21 (2015)
+            DOI:10.1111/andr.299
+REFERENCE   PMID:14609433
+  AUTHORS   Fraser M, Leung B, Jahani-Asl A, Yan X, Thompson WE, Tsang BK
+  TITLE     Chemoresistance in human ovarian cancer: the role of apoptotic regulators.
+  JOURNAL   Reprod Biol Endocrinol 1:66 (2003)
+            DOI:10.1186/1477-7827-1-66
+REFERENCE   
+  AUTHORS   Sousa GF, Wlodarczyk SR, Monteiro G.
+  TITLE     Carboplatin: molecular mechanisms of action associated with chemoresistance.
+  JOURNAL   Braz J Pharm Sci 50:693-701 (2014)
+            DOI:10.1590/S1984-82502014000400004
+REFERENCE   PMID:24874729
+  AUTHORS   Galluzzi L, Vitale I, Michels J, Brenner C, Szabadkai G, Harel-Bellan A, Castedo M, Kroemer G
+  TITLE     Systems biology of cisplatin resistance: past, present and future.
+  JOURNAL   Cell Death Dis 5:e1257 (2014)
+            DOI:10.1038/cddis.2013.428
+REFERENCE   PMID:25058905
+  AUTHORS   Dasari S, Tchounwou PB
+  TITLE     Cisplatin in cancer therapy: molecular mechanisms of action.
+  JOURNAL   Eur J Pharmacol 740:364-78 (2014)
+            DOI:10.1016/j.ejphar.2014.07.025
+REFERENCE   PMID:20811617
+  AUTHORS   Basu A, Krishnamurthy S
+  TITLE     Cellular responses to Cisplatin-induced DNA damage.
+  JOURNAL   J Nucleic Acids 2010:201367 (2010)
+            DOI:10.4061/2010/201367
+REFERENCE   PMID:19190080
+  AUTHORS   Chaudhry P, Asselin E
+  TITLE     Resistance to chemotherapy and hormone therapy in endometrial cancer.
+  JOURNAL   Endocr Relat Cancer 16:363-80 (2009)
+            DOI:10.1677/ERC-08-0266
+REFERENCE   PMID:26867799
+  AUTHORS   Li X, Lin Z, Zhang B, Guo L, Liu S, Li H, Zhang J, Ye Q
+  TITLE     beta-elemene sensitizes hepatocellular carcinoma cells to oxaliplatin by preventing oxaliplatin-induced degradation of copper transporter 1.
+  JOURNAL   Sci Rep 6:21010 (2016)
+            DOI:10.1038/srep21010
+REFERENCE   PMID:15607932
+  AUTHORS   Safaei R, Howell SB
+  TITLE     Copper transporters regulate the cellular pharmacology and sensitivity to Pt drugs.
+  JOURNAL   Crit Rev Oncol Hematol 53:13-23 (2005)
+            DOI:10.1016/j.critrevonc.2004.09.007
+REL_PATHWAY hsa03420  Nucleotide excision repair
+            hsa03430  Mismatch repair
+            hsa04012  ErbB signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04210  Apoptosis
+KO_PATHWAY  ko01524
+///

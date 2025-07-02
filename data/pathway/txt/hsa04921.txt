@@ -1,0 +1,289 @@
+ENTRY       hsa04921                    Pathway
+NAME        Oxytocin signaling pathway - Homo sapiens (human)
+DESCRIPTION Oxytocin (OT) is a nonapeptide synthesized by the magno-cellular neurons located in the supraoptic (SON) and paraventricular (PVN) nuclei of the hypothalamus. It exerts a wide variety of central and peripheral effects. However, its best-known and most well-established roles are stimulation of uterine contractions during parturition and milk release during lactation. Oxytocin also influences cardiovascular regulation and various social behaviors. The actions of OT are all mediated by one type of OT receptor (OTR). This is a transmembrane receptor belonging to the G-protein-coupled receptor superfamily. The main signaling pathway is the Gq/PLC/Ins3 pathway, but the MAPK and the RhoA/Rho kinase pathways are also activated, contributing to increased prostaglandin production and direct contractile effect on myometrial cells. In the cardiovascular system, OTR is associated with the ANP-cGMP and NO-cGMP pathways, which reduce the force and rate of contraction and increase vasodilatation.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04921  Oxytocin signaling pathway
+DRUG        D00089  Oxytocin (JP18/USP/INN)
+            D01840  Fasudil hydrochloride (JAN)
+            D03115  Fasudil hydrochloride hydrate (JAN)
+            D07228  Demoxytocin (INN)
+            D07229  Carbetocin (USAN/INN/BAN)
+            D07941  Fasudil (INN)
+            D11190  Vosoritide (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5020  OXT; oxytocin/neurophysin I prepropeptide [KO:K05243]
+            5021  OXTR; oxytocin receptor [KO:K04229]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            5607  MAP2K5; mitogen-activated protein kinase kinase 5 [KO:K04463] [EC:2.7.12.2]
+            5598  MAPK7; mitogen-activated protein kinase 7 [KO:K04464] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            4208  MEF2C; myocyte enhancer factor 2C [KO:K04454]
+            595  CCND1; cyclin D1 [KO:K04503]
+            2002  ELK1; ETS transcription factor ELK1 [KO:K04375]
+            6261  RYR1; ryanodine receptor 1 [KO:K04961]
+            6262  RYR2; ryanodine receptor 2 [KO:K04962]
+            6263  RYR3; ryanodine receptor 3 [KO:K04963]
+            952  CD38; CD38 molecule [KO:K01242] [EC:3.2.2.6 2.4.99.20]
+            7226  TRPM2; transient receptor potential cation channel subfamily M member 2 [KO:K04977] [EC:3.6.1.13]
+            3759  KCNJ2; potassium inwardly rectifying channel subfamily J member 2 [KO:K04996]
+            3768  KCNJ12; potassium inwardly rectifying channel subfamily J member 12 [KO:K05005]
+            100134444  KCNJ18; potassium inwardly rectifying channel subfamily J member 18 [KO:K05005]
+            3761  KCNJ4; potassium inwardly rectifying channel subfamily J member 4 [KO:K04998]
+            3770  KCNJ14; potassium inwardly rectifying channel subfamily J member 14 [KO:K05007]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            29904  EEF2K; eukaryotic elongation factor 2 kinase [KO:K08292] [EC:2.7.11.20]
+            1938  EEF2; eukaryotic translation elongation factor 2 [KO:K03234]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            782  CACNB1; calcium voltage-gated channel auxiliary subunit beta 1 [KO:K04862]
+            783  CACNB2; calcium voltage-gated channel auxiliary subunit beta 2 [KO:K04863]
+            784  CACNB3; calcium voltage-gated channel auxiliary subunit beta 3 [KO:K04864]
+            785  CACNB4; calcium voltage-gated channel auxiliary subunit beta 4 [KO:K04865]
+            781  CACNA2D1; calcium voltage-gated channel auxiliary subunit alpha2delta 1 [KO:K04858]
+            9254  CACNA2D2; calcium voltage-gated channel auxiliary subunit alpha2delta 2 [KO:K04859]
+            55799  CACNA2D3; calcium voltage-gated channel auxiliary subunit alpha2delta 3 [KO:K04860]
+            93589  CACNA2D4; calcium voltage-gated channel auxiliary subunit alpha2delta 4 [KO:K04861]
+            786  CACNG1; calcium voltage-gated channel auxiliary subunit gamma 1 [KO:K04866]
+            10369  CACNG2; calcium voltage-gated channel auxiliary subunit gamma 2 [KO:K04867]
+            10368  CACNG3; calcium voltage-gated channel auxiliary subunit gamma 3 [KO:K04868]
+            27092  CACNG4; calcium voltage-gated channel auxiliary subunit gamma 4 [KO:K04869]
+            27091  CACNG5; calcium voltage-gated channel auxiliary subunit gamma 5 [KO:K04870]
+            59285  CACNG6; calcium voltage-gated channel auxiliary subunit gamma 6 [KO:K04871]
+            59284  CACNG7; calcium voltage-gated channel auxiliary subunit gamma 7 [KO:K04872]
+            59283  CACNG8; calcium voltage-gated channel auxiliary subunit gamma 8 [KO:K04873]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            4776  NFATC4; nuclear factor of activated T cells 4 [KO:K17334]
+            5997  RGS2; regulator of G protein signaling 2 [KO:K18154]
+            1827  RCAN1; regulator of calcineurin 1 [KO:K17901]
+            10645  CAMKK2; calcium/calmodulin dependent protein kinase kinase 2 [KO:K07359] [EC:2.7.11.17]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            57118  CAMK1D; calcium/calmodulin dependent protein kinase ID [KO:K08794] [EC:2.7.11.17]
+            57172  CAMK1G; calcium/calmodulin dependent protein kinase IG [KO:K08794] [EC:2.7.11.17]
+            8536  CAMK1; calcium/calmodulin dependent protein kinase I [KO:K08794] [EC:2.7.11.17]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            814  CAMK4; calcium/calmodulin dependent protein kinase IV [KO:K05869] [EC:2.7.11.17]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            2977  GUCY1A2; guanylate cyclase 1 soluble subunit alpha 2 [KO:K12318] [EC:4.6.1.2]
+            2982  GUCY1A1; guanylate cyclase 1 soluble subunit alpha 1 [KO:K12318] [EC:4.6.1.2]
+            2983  GUCY1B1; guanylate cyclase 1 soluble subunit beta 1 [KO:K12319] [EC:4.6.1.2]
+            4878  NPPA; natriuretic peptide A [KO:K12334]
+            4881  NPR1; natriuretic peptide receptor 1 [KO:K12323] [EC:4.6.1.2]
+            4882  NPR2; natriuretic peptide receptor 2 [KO:K12324] [EC:4.6.1.2]
+            4638  MYLK; myosin light chain kinase [KO:K00907] [EC:2.7.11.18]
+            85366  MYLK2; myosin light chain kinase 2 [KO:K00907] [EC:2.7.11.18]
+            91807  MYLK3; myosin light chain kinase 3 [KO:K00907] [EC:2.7.11.18]
+            340156  MYLK4; myosin light chain kinase family member 4 [KO:K00907] [EC:2.7.11.18]
+            140465  MYL6B; myosin light chain 6B [KO:K12751]
+            4637  MYL6; myosin light chain 6 [KO:K12751]
+            10398  MYL9; myosin light chain 9 [KO:K12755]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            4659  PPP1R12A; protein phosphatase 1 regulatory subunit 12A [KO:K06270]
+            4660  PPP1R12B; protein phosphatase 1 regulatory subunit 12B [KO:K12329]
+            54776  PPP1R12C; protein phosphatase 1 regulatory subunit 12C [KO:K17457]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            5294  PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [KO:K21289] [EC:2.7.1.153]
+            23533  PIK3R5; phosphoinositide-3-kinase regulatory subunit 5 [KO:K21290]
+            146850  PIK3R6; phosphoinositide-3-kinase regulatory subunit 6 [KO:K21290]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            3760  KCNJ3; potassium inwardly rectifying channel subfamily J member 3 [KO:K04997]
+            3763  KCNJ6; potassium inwardly rectifying channel subfamily J member 6 [KO:K05000]
+            3765  KCNJ9; potassium inwardly rectifying channel subfamily J member 9 [KO:K05002]
+            3762  KCNJ5; potassium inwardly rectifying channel subfamily J member 5 [KO:K04999]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00219  Arachidonate
+            C00238  Potassium cation
+            C00427  Prostaglandin H2
+            C00533  Nitric oxide
+            C00575  3',5'-Cyclic AMP
+            C00584  Prostaglandin E2
+            C00639  Prostaglandin F2alpha
+            C00942  3',5'-Cyclic GMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C13050  Cyclic ADP-ribose
+REFERENCE   PMID:18655881
+  AUTHORS   Devost D, Wrzal P, Zingg HH
+  TITLE     Oxytocin receptor signalling.
+  JOURNAL   Prog Brain Res 170:167-76 (2008)
+            DOI:10.1016/S0079-6123(08)00415-9
+REFERENCE   PMID:20626426
+  AUTHORS   Viero C, Shibuya I, Kitamura N, Verkhratsky A, Fujihara H, Katoh A, Ueta Y, Zingg HH, Chvatal A, Sykova E, Dayanithi G
+  TITLE     REVIEW: Oxytocin: Crossing the bridge between basic science and pharmacotherapy.
+  JOURNAL   CNS Neurosci Ther 16:e138-56 (2010)
+            DOI:10.1111/j.1755-5949.2010.00185.x
+REFERENCE   PMID:21981277
+  AUTHORS   Gutkowska J, Jankowski M
+  TITLE     Oxytocin revisited: its role in cardiovascular regulation.
+  JOURNAL   J Neuroendocrinol 24:599-608 (2012)
+            DOI:10.1111/j.1365-2826.2011.02235.x
+REFERENCE   PMID:22190926
+  AUTHORS   Vrachnis N, Malamas FM, Sifakis S, Deligeoroglou E, Iliodromiti Z
+  TITLE     The oxytocin-oxytocin receptor system and its antagonists as tocolytic agents.
+  JOURNAL   Int J Endocrinol 2011:350546 (2011)
+            DOI:10.1155/2011/350546
+REFERENCE   PMID:19840865
+  AUTHORS   Tom N, Assinder SJ
+  TITLE     Oxytocin in health and disease.
+  JOURNAL   Int J Biochem Cell Biol 42:202-5 (2010)
+            DOI:10.1016/j.biocel.2009.10.008
+REFERENCE   PMID:9575824
+  AUTHORS   Strakova Z, Copland JA, Lolait SJ, Soloff MS
+  TITLE     ERK2 mediates oxytocin-stimulated PGE2 synthesis.
+  JOURNAL   Am J Physiol 274:E634-41 (1998)
+            DOI:10.1152/ajpendo.1998.274.4.E634
+REFERENCE   PMID:12009385
+  AUTHORS   Slater DM, Zervou S, Thornton S
+  TITLE     Prostaglandins and prostanoid receptors in human pregnancy and parturition.
+  JOURNAL   J Soc Gynecol Investig 9:118-24 (2002)
+REFERENCE   PMID:16787565
+  AUTHORS   Shmygol A, Gullam J, Blanks A, Thornton S
+  TITLE     Multiple mechanisms involved in oxytocin-induced modulation of myometrial contractility.
+  JOURNAL   Acta Pharmacol Sin 27:827-32 (2006)
+            DOI:10.1111/j.1745-7254.2006.00393.x
+REFERENCE   PMID:11861513
+  AUTHORS   Tahara M, Morishige K, Sawada K, Ikebuchi Y, Kawagishi R, Tasaka K, Murata Y
+  TITLE     RhoA/Rho-kinase cascade is involved in oxytocin-induced rat uterine contraction.
+  JOURNAL   Endocrinology 143:920-9 (2002)
+            DOI:10.1210/endo.143.3.8696
+REFERENCE   PMID:12433531
+  AUTHORS   Slattery MM, Morrison JJ
+  TITLE     Preterm delivery.
+  JOURNAL   Lancet 360:1489-97 (2002)
+            DOI:10.1016/S0140-6736(02)11476-0
+REFERENCE   PMID:22902539
+  AUTHORS   Pont JN, McArdle CA, Lopez Bernal A
+  TITLE     Oxytocin-stimulated NFAT transcriptional activation in human myometrial cells.
+  JOURNAL   Mol Endocrinol 26:1743-56 (2012)
+            DOI:10.1210/me.2012-1057
+REFERENCE   PMID:9326674
+  AUTHORS   Gutkowska J, Jankowski M, Lambert C, Mukaddam-Daher S, Zingg HH, McCann SM
+  TITLE     Oxytocin releases atrial natriuretic peptide by combining with oxytocin receptors in the heart.
+  JOURNAL   Proc Natl Acad Sci U S A 94:11704-9 (1997)
+            DOI:10.1073/pnas.94.21.11704
+REFERENCE   PMID:14715914
+  AUTHORS   Antunes-Rodrigues J, de Castro M, Elias LL, Valenca MM, McCann SM
+  TITLE     Neuroendocrine control of body fluid metabolism.
+  JOURNAL   Physiol Rev 84:169-208 (2004)
+            DOI:10.1152/physrev.00017.2003
+REFERENCE   PMID:18555543
+  AUTHORS   Lee ES, Uhm KO, Lee YM, Kwon J, Park SH, Soo KH
+  TITLE     Oxytocin stimulates glucose uptake in skeletal muscle cells through the calcium-CaMKK-AMPK pathway.
+  JOURNAL   Regul Pept 151:71-4 (2008)
+            DOI:10.1016/j.regpep.2008.05.001
+REFERENCE   PMID:9219843
+  AUTHORS   Cassoni P, Sapino A, Fortunati N, Munaron L, Chini B, Bussolati G
+  TITLE     Oxytocin inhibits the proliferation of MDA-MB231 human breast-cancer cells via cyclic adenosine monophosphate and protein kinase A.
+  JOURNAL   Int J Cancer 72:340-4 (1997)
+            DOI:10.1002/(SICI)1097-0215(19970717)72:2<340::AID-IJC23>3.0.CO;2-I
+REFERENCE   PMID:23356278
+  AUTHORS   Busnelli M, Peverelli E, Mantovani G, Spada A, Chini B
+  TITLE     Deciphering the specific role of G(alphai/o) isoforms: functional selective oxytocin ligands and somatostatin SST5 receptor mutants.
+  JOURNAL   Biochem Soc Trans 41:166-71 (2013)
+            DOI:10.1042/BST20120306
+REFERENCE   PMID:16966388
+  AUTHORS   Reversi A, Rimoldi V, Brambillasca S, Chini B
+  TITLE     Effects of cholesterol manipulation on the signaling of the human oxytocin receptor.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 291:R861-9 (2006)
+            DOI:10.1152/ajpregu.00333.2006
+REFERENCE   PMID:20141572
+  AUTHORS   Salmina AB, Lopatina O, Ekimova MV, Mikhutkina SV, Higashida H
+  TITLE     CD38/cyclic ADP-ribose system: a new player for oxytocin secretion and regulation of social behaviour.
+  JOURNAL   J Neuroendocrinol 22:380-92 (2010)
+            DOI:10.1111/j.1365-2826.2010.01970.x
+REFERENCE   PMID:22227279
+  AUTHORS   Higashida H, Yokoyama S, Kikuchi M, Munesue T
+  TITLE     CD38 and its role in oxytocin secretion and social behavior.
+  JOURNAL   Horm Behav 61:351-8 (2012)
+            DOI:10.1016/j.yhbeh.2011.12.011
+REFERENCE   PMID:23335873
+  AUTHORS   Lopatina O, Inzhutova A, Salmina AB, Higashida H
+  TITLE     The roles of oxytocin and CD38 in social or parental behaviors.
+  JOURNAL   Front Neurosci 6:182 (2012)
+            DOI:10.3389/fnins.2012.00182
+REFERENCE   PMID:16156781
+  AUTHORS   Guse AH
+  TITLE     Second messenger function and the structure-activity relationship of cyclic adenosine diphosphoribose (cADPR).
+  JOURNAL   FEBS J 272:4590-7 (2005)
+            DOI:10.1111/j.1742-4658.2005.04863.x
+REL_PATHWAY hsa00590  Arachidonic acid metabolism
+            hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04110  Cell cycle
+KO_PATHWAY  ko04921
+///

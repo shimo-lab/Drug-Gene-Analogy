@@ -1,0 +1,222 @@
+ENTRY       hsa05142                    Pathway
+NAME        Chagas disease - Homo sapiens (human)
+DESCRIPTION Trypanosoma cruzi is an intracellular protozoan parasite that causes Chagas disease, also called American trypanosomiasis. The parasite life cycle involves hematophagous reduviid bugs as vectors. Once parasites enter the host body, they invade diverse host cells including cardiomyocytes. Establishment of infection depends on various parasite molecules such as cruzipain, oligopeptidase B, and trans-sialidase that activate Ca2+ signaling. Internalized parasites escape from the parasitophorous vacuole using secreted pore-forming TcTOX molecule and replicate in the cytosol. Multiplied parasites eventually lyse infected host cells and are released in the circulation. During these events, the parasites manipulate host innate immunity and elicit cardiomyocyte hypertrophy. T lymphocyte responses are also disturbed.
+CLASS       Human Diseases; Infectious disease: parasitic
+PATHWAY_MAP hsa05142  Chagas disease
+DISEASE     H00358  Chagas disease
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7099  TLR4; toll like receptor 4 [KO:K10160]
+            148022  TICAM1; TIR domain containing adaptor molecule 1 [KO:K05842]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            10333  TLR6; toll like receptor 6 [KO:K10169]
+            54106  TLR9; toll like receptor 9 [KO:K10161]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            6348  CCL3; C-C motif chemokine ligand 3 [KO:K05408]
+            6349  CCL3L1; C-C motif chemokine ligand 3 like 1 [KO:K05408]
+            414062  CCL3L3; C-C motif chemokine ligand 3 like 3 [KO:K05408]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            5519  PPP2R1B; protein phosphatase 2 scaffold subunit Abeta [KO:K03456]
+            5518  PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha [KO:K03456]
+            5520  PPP2R2A; protein phosphatase 2 regulatory subunit Balpha [KO:K04354]
+            5521  PPP2R2B; protein phosphatase 2 regulatory subunit Bbeta [KO:K04354]
+            5522  PPP2R2C; protein phosphatase 2 regulatory subunit Bgamma [KO:K04354]
+            55844  PPP2R2D; protein phosphatase 2 regulatory subunit Bdelta [KO:K04354]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            3458  IFNG; interferon gamma [KO:K04687]
+            3459  IFNGR1; interferon gamma receptor 1 [KO:K05132]
+            3460  IFNGR2; interferon gamma receptor 2 [KO:K05133]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            4843  NOS2; nitric oxide synthase 2 [KO:K13241] [EC:1.14.13.39]
+            718  C3; complement C3 [KO:K03990]
+            811  CALR; calreticulin [KO:K08057]
+            712  C1QA; complement C1q A chain [KO:K03986]
+            713  C1QB; complement C1q B chain [KO:K03987]
+            714  C1QC; complement C1q C chain [KO:K03988]
+            3586  IL10; interleukin 10 [KO:K05443]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            1636  ACE; angiotensin I converting enzyme [KO:K01283] [EC:3.4.15.1]
+            3827  KNG1; kininogen 1 [KO:K03898]
+            624  BDKRB2; bradykinin receptor B2 [KO:K03916]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            9630  GNA14; G protein subunit alpha 14 [KO:K04636]
+            2769  GNA15; G protein subunit alpha 15 [KO:K04637]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            2774  GNAL; G protein subunit alpha L [KO:K04633]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            7046  TGFBR1; transforming growth factor beta receptor 1 [KO:K04674] [EC:2.7.11.30]
+            4087  SMAD2; SMAD family member 2 [KO:K04500]
+            5054  SERPINE1; serpin family E member 1 [KO:K03982]
+            356  FASLG; Fas ligand [KO:K04389]
+            355  FAS; Fas cell surface death receptor [KO:K04390]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            8837  CFLAR; CASP8 and FADD like apoptosis regulator [KO:K04724]
+            915  CD3D; CD3 delta subunit of T-cell receptor complex [KO:K06450]
+            916  CD3E; CD3 epsilon subunit of T-cell receptor complex [KO:K06451]
+            917  CD3G; CD3 gamma subunit of T-cell receptor complex [KO:K06452]
+            919  CD247; CD247 molecule [KO:K06453]
+            3558  IL2; interleukin 2 [KO:K05429]
+COMPOUND    C00062  L-Arginine
+            C00076  Calcium cation
+            C00533  Nitric oxide
+            C00575  3',5'-Cyclic AMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:10234174
+  AUTHORS   Bogdan C, Rollinghoff M
+  TITLE     How do protozoan parasites survive inside macrophages?
+  JOURNAL   Parasitol Today 15:22-8 (1999)
+            DOI:10.1016/S0169-4758(98)01362-3
+REFERENCE   PMID:17110955
+  AUTHORS   Gazzinelli RT, Denkers EY
+  TITLE     Protozoan encounters with Toll-like receptor signalling pathways: implications for host parasitism.
+  JOURNAL   Nat Rev Immunol 6:895-906 (2006)
+            DOI:10.1038/nri1978
+REFERENCE   PMID:1717552
+  AUTHORS   Norris KA, Bradt B, Cooper NR, So M
+  TITLE     Characterization of a Trypanosoma cruzi C3 binding protein with functional and genetic similarities to the human complement regulatory protein, decay-accelerating factor.
+  JOURNAL   J Immunol 147:2240-7 (1991)
+REFERENCE   PMID:16238097
+  AUTHORS   Aguilar L, Ramirez G, Valck C, Molina MC, Rojas A, Schwaeble W, Ferreira V, Ferreira A
+  TITLE     F(ab')2 antibody fragments against Trypanosoma cruzi calreticulin inhibit its interaction with the first component of human complement.
+  JOURNAL   Biol Res 38:187-95 (2005)
+            DOI:10.4067/S0716-97602005000200008
+REFERENCE   PMID:15223603
+  AUTHORS   Campos MA, Gazzinelli RT
+  TITLE     Trypanosoma cruzi and its components as exogenous mediators of inflammation recognized through Toll-like receptors.
+  JOURNAL   Mediators Inflamm 13:139-43 (2004)
+            DOI:10.1080/09511920410001713565
+REFERENCE   PMID:12427093
+  AUTHORS   Burleigh BA, Woolsey AM
+  TITLE     Cell signalling and Trypanosoma cruzi invasion.
+  JOURNAL   Cell Microbiol 4:701-11 (2002)
+            DOI:10.1046/j.1462-5822.2002.00226.x
+REFERENCE   PMID:17651955
+  AUTHORS   Tarleton RL
+  TITLE     Immune system recognition of Trypanosoma cruzi.
+  JOURNAL   Curr Opin Immunol 19:430-4 (2007)
+            DOI:10.1016/j.coi.2007.06.003
+REFERENCE   PMID:16175174
+  AUTHORS   Andrade LO, Andrews NW
+  TITLE     The Trypanosoma cruzi-host-cell interplay: location, invasion, retention.
+  JOURNAL   Nat Rev Microbiol 3:819-23 (2005)
+            DOI:10.1038/nrmicro1249
+REFERENCE   PMID:12377585
+  AUTHORS   Tan H, Andrews NW
+  TITLE     Don't bother to knock--the cell invasion strategy of Trypanosoma cruzi.
+  JOURNAL   Trends Parasitol 18:427-8 (2002)
+            DOI:10.1016/S1471-4922(02)02368-1
+REFERENCE   PMID:10066513
+  AUTHORS   Burleigh BA, Andrews NW
+  TITLE     Signaling and host cell invasion by Trypanosoma cruzi.
+  JOURNAL   Curr Opin Microbiol 1:461-5 (1998)
+            DOI:10.1016/S1369-5274(98)80066-0
+REFERENCE   PMID:12377942
+  AUTHORS   Stempin C, Giordanengo L, Gea S, Cerban F
+  TITLE     Alternative activation and increase of Trypanosoma cruzi survival in murine macrophages stimulated by cruzipain, a parasite antigen.
+  JOURNAL   J Leukoc Biol 72:727-34 (2002)
+            DOI:10.1189/jlb.72.4.727
+REFERENCE   PMID:16030288
+  AUTHORS   Burleigh BA
+  TITLE     Host cell signaling and Trypanosoma cruzi invasion: do all roads lead to lysosomes?
+  JOURNAL   Sci STKE 2005:pe36 (2005)
+            DOI:10.1126/stke.2932005pe36
+REFERENCE   PMID:1396957
+  AUTHORS   Gazzinelli RT, Oswald IP, Hieny S, James SL, Sher A
+  TITLE     The microbicidal activity of interferon-gamma-treated macrophages against Trypanosoma cruzi involves an L-arginine-dependent, nitrogen oxide-mediated mechanism inhibitable by interleukin-10 and transforming growth factor-beta.
+  JOURNAL   Eur J Immunol 22:2501-6 (1992)
+            DOI:10.1002/eji.1830221006
+REFERENCE   PMID:2194668
+  AUTHORS   Andrews NW, Abrams CK, Slatin SL, Griffiths G
+  TITLE     A T. cruzi-secreted protein immunologically related to the complement component C9: evidence for membrane pore-forming activity at low pH.
+  JOURNAL   Cell 61:1277-87 (1990)
+            DOI:10.1016/0092-8674(90)90692-8
+REFERENCE   PMID:9794425
+  AUTHORS   Freire-de-Lima CG, Nunes MP, Corte-Real S, Soares MP, Previato JO, Mendonca-Previato L, DosReis GA
+  TITLE     Proapoptotic activity of a Trypanosoma cruzi ceramide-containing glycolipid turned on in host macrophages by IFN-gamma.
+  JOURNAL   J Immunol 161:4909-16 (1998)
+REFERENCE   PMID:15917295
+  AUTHORS   Hashimoto M, Nakajima-Shimada J, Aoki T
+  TITLE     Trypanosoma cruzi posttranscriptionally up-regulates and exploits cellular FLIP for inhibition of death-inducing signal.
+  JOURNAL   Mol Biol Cell 16:3521-8 (2005)
+            DOI:10.1091/mbc.E04-12-1051
+REFERENCE   PMID:12874238
+  AUTHORS   Ropert C, Closel M, Chaves AC, Gazzinelli RT
+  TITLE     Inhibition of a p38/stress-activated protein kinase-2-dependent phosphatase restores function of IL-1 receptor-associate kinase-1 and reverses Toll-like receptor 2- and 4-dependent tolerance of macrophages.
+  JOURNAL   J Immunol 171:1456-65 (2003)
+            DOI:10.4049/jimmunol.171.3.1456
+REFERENCE   PMID:12055254
+  AUTHORS   Ouaissi A, Guilvard E, Delneste Y, Caron G, Magistrelli G, Herbault N, Thieblemont N, Jeannin P
+  TITLE     The Trypanosoma cruzi Tc52-released protein induces human dendritic cell maturation, signals via Toll-like receptor 2, and confers protection against lethal infection.
+  JOURNAL   J Immunol 168:6366-74 (2002)
+            DOI:10.4049/jimmunol.168.12.6366
+REFERENCE   PMID:12036740
+  AUTHORS   Teixeira MM, Gazzinelli RT, Silva JS
+  TITLE     Chemokines, inflammation and Trypanosoma cruzi infection.
+  JOURNAL   Trends Parasitol 18:262-5 (2002)
+            DOI:10.1016/S1471-4922(02)02283-3
+REFERENCE   PMID:9190942
+  AUTHORS   Camargo MM, Almeida IC, Pereira ME, Ferguson MA, Travassos LR, Gazzinelli RT
+  TITLE     Glycosylphosphatidylinositol-anchored mucin-like glycoproteins isolated from Trypanosoma cruzi trypomastigotes initiate the synthesis of proinflammatory cytokines by macrophages.
+  JOURNAL   J Immunol 158:5890-901 (1997)
+REL_PATHWAY hsa00330  Arginine and proline metabolism
+            hsa04020  Calcium signaling pathway
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04210  Apoptosis
+            hsa04350  TGF-beta signaling pathway
+            hsa04610  Complement and coagulation cascades
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04670  Leukocyte transendothelial migration
+KO_PATHWAY  ko05142
+///

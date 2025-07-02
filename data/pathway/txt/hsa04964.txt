@@ -1,0 +1,120 @@
+ENTRY       hsa04964                    Pathway
+NAME        Proximal tubule bicarbonate reclamation - Homo sapiens (human)
+DESCRIPTION One of the major tasks of the renal proximal tubule (PT) is to secrete acid into the tubule lumen, thereby reabsorbing approximately 80% of the filtered bicarbonate (HCO3(-)), as well as generating "new HCO3(-)" for regulating blood pH. In the tubular lumen, filtered HCO3(-) combines with H(+) in a reaction catalyzed by CA IV. The CO2 thus produced rapidly diffuses into the tubular cells and is combined with water to produce intracellular H(+) and HCO3(-), catalyzed by soluble cytoplasmic CA II. HCO3(-) is then cotransported with Na(+) into blood via the NBC-1. The intracellular H(+) produced by CA II is secreted into the tubular lumen predominantly via the NHE-3. The PT creates the "new HCO3(-)" by taking glutamine and metabolizing it to two molecules each of NH4(+) and HCO3(-). The NH4(+) is excreted into the tubular lumen, and the HCO3(-) , which is "new HCO3(-) ," is returned to the blood, where it replaces the HCO3(-) lost earlier in the titration of nonvolatile acids.
+CLASS       Organismal Systems; Excretory system
+PATHWAY_MAP hsa04964  Proximal tubule bicarbonate reclamation
+DRUG        D00218  Acetazolamide (JP18/USP/INN)
+            D00518  Dichlorphenamide (USP)
+            D00652  Brinzolamide (JAN/USP/INN)
+            D00653  Dorzolamide hydrochloride (JP18/USP)
+            D00655  Methazolamide (JAN/USP/INN)
+            D01196  Acetazolamide sodium (JAN)
+            D02441  Ethoxzolamide
+            D03845  Sezolamide hydrochloride (USAN)
+            D07871  Dorzolamide (INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6550  SLC9A3; solute carrier family 9 member A3 [KO:K12040]
+            762  CA4; carbonic anhydrase 4 [KO:K18246] [EC:4.2.1.1]
+            358  AQP1; aquaporin 1 (Colton blood group) [KO:K09864]
+            760  CA2; carbonic anhydrase 2 [KO:K18245] [EC:4.2.1.1]
+            8671  SLC4A4; solute carrier family 4 member 4 [KO:K13575]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            10991  SLC38A3; solute carrier family 38 member 3 [KO:K13576]
+            27165  GLS2; glutaminase 2 [KO:K01425] [EC:3.5.1.2]
+            2744  GLS; glutaminase [KO:K01425] [EC:3.5.1.2]
+            2747  GLUD2; glutamate dehydrogenase 2 [KO:K00261] [EC:1.4.1.3]
+            2746  GLUD1; glutamate dehydrogenase 1 [KO:K00261] [EC:1.4.1.3]
+            1468  SLC25A10; solute carrier family 25 member 10 [KO:K13577]
+            4190  MDH1; malate dehydrogenase 1 [KO:K00025] [EC:1.1.1.37]
+            5105  PCK1; phosphoenolpyruvate carboxykinase 1 [KO:K01596] [EC:4.1.1.32]
+            5106  PCK2; phosphoenolpyruvate carboxykinase 2, mitochondrial [KO:K01596] [EC:4.1.1.32]
+COMPOUND    C00001  H2O
+            C00011  CO2
+            C00014  Ammonia
+            C00025  L-Glutamate
+            C00026  2-Oxoglutarate
+            C00036  Oxaloacetate
+            C00064  L-Glutamine
+            C00074  Phosphoenolpyruvate
+            C00080  H+
+            C00149  (S)-Malate
+            C00238  Potassium cation
+            C00267  alpha-D-Glucose
+            C00288  HCO3-
+            C00698  Cl-
+            C01330  Sodium cation
+            C01353  Carbonic acid
+            C01358  NH4OH
+REFERENCE   PMID:19948674
+  AUTHORS   Koeppen BM
+  TITLE     The kidney and acid-base regulation.
+  JOURNAL   Adv Physiol Educ 33:275-81 (2009)
+            DOI:10.1152/advan.00054.2009
+REFERENCE   PMID:16914536
+  AUTHORS   Boron WF
+  TITLE     Acid-base transport by the renal proximal tubule.
+  JOURNAL   J Am Soc Nephrol 17:2368-82 (2006)
+            DOI:10.1681/ASN.2006060620
+REFERENCE   PMID:9550618
+  AUTHORS   Hayashi M
+  TITLE     Physiology and pathophysiology of acid-base homeostasis in the kidney.
+  JOURNAL   Intern Med 37:221-5 (1998)
+            DOI:10.2169/internalmedicine.37.221
+REFERENCE   PMID:16352913
+  AUTHORS   Wagner CA, Kovacikova J, Stehberger PA, Winter C, Benabbas C, Mohebbi N
+  TITLE     Renal acid-base transport: old and new players.
+  JOURNAL   Nephron Physiol 103:p1-6 (2006)
+            DOI:10.1159/000090217
+REFERENCE   PMID:17557941
+  AUTHORS   Fry AC, Karet FE
+  TITLE     Inherited renal acidoses.
+  JOURNAL   Physiology (Bethesda) 22:202-11 (2007)
+            DOI:10.1152/physiol.00044.2006
+REFERENCE   PMID:19721811
+  AUTHORS   Pereira PC, Miranda DM, Oliveira EA, Silva AC
+  TITLE     Molecular pathophysiology of renal tubular acidosis.
+  JOURNAL   Curr Genomics 10:51-9 (2009)
+            DOI:10.2174/138920209787581262
+REFERENCE   PMID:12138151
+  AUTHORS   Igarashi T, Sekine T, Inatomi J, Seki G
+  TITLE     Unraveling the molecular pathogenesis of isolated proximal renal tubular acidosis.
+  JOURNAL   J Am Soc Nephrol 13:2171-7 (2002)
+            DOI:10.1097/01.ASN.0000025281.70901.30
+REFERENCE   PMID:11826292
+  AUTHORS   Alper SL
+  TITLE     Genetic diseases of acid-base transporters.
+  JOURNAL   Annu Rev Physiol 64:899-923 (2002)
+            DOI:10.1146/annurev.physiol.64.092801.141759
+REFERENCE   PMID:11385088
+  AUTHORS   Unwin RJ, Capasso G
+  TITLE     The renal tubular acidoses.
+  JOURNAL   J R Soc Med 94:221-5 (2001)
+            DOI:10.1177/014107680109400506
+REFERENCE   PMID:11045400
+  AUTHORS   Rodriguez-Soriano J
+  TITLE     New insights into the pathogenesis of renal tubular acidosis--from functional to molecular studies.
+  JOURNAL   Pediatr Nephrol 14:1121-36 (2000)
+            DOI:10.1007/s004670000407
+REFERENCE   PMID:18056784
+  AUTHORS   Nowik M, Lecca MR, Velic A, Rehrauer H, Brandli AW, Wagner CA
+  TITLE     Genome-wide gene expression profiling reveals renal genes regulated during metabolic acidosis.
+  JOURNAL   Physiol Genomics 32:322-34 (2008)
+            DOI:10.1152/physiolgenomics.00160.2007
+REFERENCE   PMID:11533299
+  AUTHORS   Curthoys NP
+  TITLE     Role of mitochondrial glutaminase in rat renal glutamine metabolism.
+  JOURNAL   J Nutr 131:2491S-5S; discussion 2496S-7S (2001)
+            DOI:10.1093/jn/131.9.2491S
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa04530  Tight junction
+KO_PATHWAY  ko04964
+///

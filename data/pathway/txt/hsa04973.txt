@@ -1,0 +1,169 @@
+ENTRY       hsa04973                    Pathway
+NAME        Carbohydrate digestion and absorption - Homo sapiens (human)
+DESCRIPTION Dietary carbohydrate in humans and omnivorous animals is a major nutrient. The carbohydrates that we ingest vary from the lactose in milk to complex carbohydrates. These carbohydrates are digested to monosaccharides, mostly glucose, galactose and fructose, prior to absorption in the small intestine. Glucose and galactose are initially transported into the enterocyte by SGLT1 located in the apical brush border membrane and then exit through the basolateral membrane by either GLUT2 or exocytosis. In a new model of intestinal glucose absorption, transport by SGLT1 induces rapid insertion and activation of GLUT2 in the brush border membrane by a PKC betaII-dependent mechanism. Moreover, trafficking of apical GLUT2 is rapidly up-regulated by glucose and artificial sweeteners, which act through T1R2 + T1R3/alpha-gustducin to activate PLC-beta2 and PKC-beta II. Fructose is transported separately by the brush border GLUT5 and then released out of the enterocyte into the blood by GLUT2.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP hsa04973  Carbohydrate digestion and absorption
+DRUG        D00216  Acarbose (JAN/USAN/INN)
+            D00625  Miglitol (JP18/USAN/INN)
+            D01665  Voglibose (JP18/USAN/INN)
+            D02381  Aspartame (NF/INN)
+            D08836  Acesulfame potassium (NF)
+            D08862  Aspartame acesulfame (NF)
+            D09779  Emiglitate (JAN/INN)
+            D10669  Sotagliflozin (USAN/INN)
+DBLINKS     GO: 0044245 0001951
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        278  AMY1C; amylase alpha 1C [KO:K01176] [EC:3.2.1.1]
+            279  AMY2A; amylase alpha 2A [KO:K01176] [EC:3.2.1.1]
+            276  AMY1A; amylase alpha 1A [KO:K01176] [EC:3.2.1.1]
+            280  AMY2B; amylase alpha 2B [KO:K01176] [EC:3.2.1.1]
+            277  AMY1B; amylase alpha 1B [KO:K01176] [EC:3.2.1.1]
+            3938  LCT; lactase [KO:K01229] [EC:3.2.1.108 3.2.1.62]
+            8972  MGAM; maltase-glucoamylase [KO:K12047] [EC:3.2.1.20 3.2.1.3]
+            93432  MGAM2; maltase-glucoamylase 2 (putative) [KO:K12047] [EC:3.2.1.20 3.2.1.3]
+            6476  SI; sucrase-isomaltase [KO:K01203] [EC:3.2.1.48 3.2.1.10]
+            6523  SLC5A1; solute carrier family 5 member 1 [KO:K14158]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            6514  SLC2A2; solute carrier family 2 member 2 [KO:K07593]
+            3101  HK3; hexokinase 3 [KO:K00844] [EC:2.7.1.1]
+            3098  HK1; hexokinase 1 [KO:K00844] [EC:2.7.1.1]
+            3099  HK2; hexokinase 2 [KO:K00844] [EC:2.7.1.1]
+            80201  HKDC1; hexokinase domain containing 1 [KO:K00844] [EC:2.7.1.1]
+            2542  SLC37A4; solute carrier family 37 member 4 [KO:K08171]
+            2538  G6PC1; glucose-6-phosphatase catalytic subunit 1 [KO:K01084] [EC:3.1.3.9]
+            57818  G6PC2; glucose-6-phosphatase catalytic subunit 2 [KO:K01084] [EC:3.1.3.9]
+            92579  G6PC3; glucose-6-phosphatase catalytic subunit 3 [KO:K01084] [EC:3.1.3.9]
+            6518  SLC2A5; solute carrier family 2 member 5 [KO:K08143]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            80834  TAS1R2; taste 1 receptor member 2 [KO:K04625]
+            83756  TAS1R3; taste 1 receptor member 3 [KO:K04626]
+            346562  GNAT3; G protein subunit alpha transducin 3 [KO:K19729]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+COMPOUND    C00011  CO2
+            C00031  D-Glucose
+            C00033  Acetate
+            C00076  Calcium cation
+            C00089  Sucrose
+            C00092  D-Glucose 6-phosphate
+            C00095  D-Fructose
+            C00124  D-Galactose
+            C00163  Propanoate
+            C00165  Diacylglycerol
+            C00208  Maltose
+            C00238  Potassium cation
+            C00243  Lactose
+            C00246  Butanoic acid
+            C00282  Hydrogen
+            C00369  Starch
+            C00707  Xylan
+            C00714  Pectin
+            C00760  Cellulose
+            C01330  Sodium cation
+            C01355  Fructan
+            C01835  Maltotriose
+            C02049  Limit dextrin
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C08822  Gum arabic
+            C12284  Saccharin sodium anhydrous
+            C12285  Sucralose
+REFERENCE   PMID:16586532
+  AUTHORS   Drozdowski LA, Thomson AB
+  TITLE     Intestinal sugar transport.
+  JOURNAL   World J Gastroenterol 12:1657-70 (2006)
+            DOI:10.3748/wjg.v12.i11.1657
+REFERENCE   PMID:14642859
+  AUTHORS   Wright EM, Martin MG, Turk E
+  TITLE     Intestinal absorption in health and disease--sugars.
+  JOURNAL   Best Pract Res Clin Gastroenterol 17:943-56 (2003)
+            DOI:10.1016/S1521-6918(03)00107-0
+REFERENCE   PMID:18393659
+  AUTHORS   Kellett GL, Brot-Laroche E, Mace OJ, Leturque A
+  TITLE     Sugar absorption in the intestine: the role of GLUT2.
+  JOURNAL   Annu Rev Nutr 28:35-54 (2008)
+            DOI:10.1146/annurev.nutr.28.061807.155518
+REFERENCE   PMID:19001049
+  AUTHORS   Mace OJ, Lister N, Morgan E, Shepherd E, Affleck J, Helliwell P, Bronk JR, Kellett GL, Meredith D, Boyd R, Pieri M, Bailey PD, Pettcrew R, Foley D
+  TITLE     An energy supply network of nutrient absorption coordinated by calcium and T1R taste receptors in rat small intestine.
+  JOURNAL   J Physiol 587:195-210 (2009)
+            DOI:10.1113/jphysiol.2008.159616
+REFERENCE   PMID:16186415
+  AUTHORS   Kellett GL, Brot-Laroche E
+  TITLE     Apical GLUT2: a major pathway of intestinal sugar absorption.
+  JOURNAL   Diabetes 54:3056-62 (2005)
+            DOI:10.2337/diabetes.54.10.3056
+REFERENCE   PMID:20522896
+  AUTHORS   Goodman BE
+  TITLE     Insights into digestion and absorption of major nutrients in humans.
+  JOURNAL   Adv Physiol Educ 34:44-53 (2010)
+            DOI:10.1152/advan.00094.2009
+REFERENCE   PMID:17222166
+  AUTHORS   Wright EM, Hirayama BA, Loo DF
+  TITLE     Active sugar transport in health and disease.
+  JOURNAL   J Intern Med 261:32-43 (2007)
+            DOI:10.1111/j.1365-2796.2006.01746.x
+REFERENCE   PMID:12512027
+  AUTHORS   Santer R, Hillebrand G, Steinmann B, Schaub J
+  TITLE     Intestinal glucose transport: evidence for a membrane traffic-based pathway in humans.
+  JOURNAL   Gastroenterology 124:34-9 (2003)
+            DOI:10.1053/gast.2003.50009
+REFERENCE   PMID:11562503
+  AUTHORS   Stumpel F, Burcelin R, Jungermann K, Thorens B
+  TITLE     Normal kinetics of intestinal glucose absorption in the absence of GLUT2: evidence for a transport pathway requiring glucose phosphorylation and transfer into the endoplasmic reticulum.
+  JOURNAL   Proc Natl Acad Sci U S A 98:11330-5 (2001)
+            DOI:10.1073/pnas.211357698
+REFERENCE   PMID:15546855
+  AUTHORS   Wright EM, Loo DD, Hirayama BA, Turk E
+  TITLE     Surprising versatility of Na+-glucose cotransporters: SLC5.
+  JOURNAL   Physiology (Bethesda) 19:370-6 (2004)
+            DOI:10.1152/physiol.00026.2004
+REFERENCE   PMID:12750891
+  AUTHORS   Uldry M, Thorens B
+  TITLE     The SLC2 family of facilitated hexose and polyol transporters.
+  JOURNAL   Pflugers Arch 447:480-9 (2004)
+            DOI:10.1007/s00424-003-1085-0
+REFERENCE   PMID:7555019
+  AUTHORS   Van Beers EH, Buller HA, Grand RJ, Einerhand AW, Dekker J
+  TITLE     Intestinal brush border glycohydrolases: structure, function, and development.
+  JOURNAL   Crit Rev Biochem Mol Biol 30:197-262 (1995)
+            DOI:10.3109/10409239509085143
+REFERENCE   PMID:5089892
+  AUTHORS   Marsh MN
+  TITLE     Digestive-absorptive functions of the enterocyte.
+  JOURNAL   Ann R Coll Surg Engl 48:356-68 (1971)
+REFERENCE   PMID:12583961
+  AUTHORS   Guarner F, Malagelada JR
+  TITLE     Gut flora in health and disease.
+  JOURNAL   Lancet 361:512-9 (2003)
+            DOI:10.1016/S0140-6736(03)12489-0
+REFERENCE   PMID:11427691
+  AUTHORS   Topping DL, Clifton PM
+  TITLE     Short-chain fatty acids and human colonic function: roles of resistant starch and nonstarch polysaccharides.
+  JOURNAL   Physiol Rev 81:1031-64 (2001)
+            DOI:10.1152/physrev.2001.81.3.1031
+REL_PATHWAY hsa04530  Tight junction
+            hsa04742  Taste transduction
+            hsa04970  Salivary secretion
+            hsa04972  Pancreatic secretion
+KO_PATHWAY  ko04973
+///

@@ -1,0 +1,390 @@
+ENTRY       hsa04062                    Pathway
+NAME        Chemokine signaling pathway - Homo sapiens (human)
+DESCRIPTION Inflammatory immune response requires the recruitment of leukocytes to the site of inflammation upon foreign insult. Chemokines are small chemoattractant peptides that provide directional cues for the cell trafficking and thus are vital for protective host response. In addition, chemokines regulate plethora of biological processes of hematopoietic cells to lead cellular activation, differentiation and survival.
+            The chemokine signal is transduced by chemokine receptors (G-protein coupled receptors) expressed on the immune cells. After receptor activation, the alpha- and beta-gamma-subunits of G protein dissociate to activate diverse downstream pathways resulting in cellular polarization and actin reorganization. Various members of small GTPases are involved in this process. Induction of nitric oxide and production of reactive oxygen species are as well regulated by chemokine signal via calcium mobilization and diacylglycerol production.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04062  Chemokine signaling pathway
+NETWORK     nt06124  Chemokine signaling (viruses)
+            nt06150  Cytokine-cytokine receptor interaction (viruses)
+            nt06161  Human immunodeficiency virus type 1 (HIV-1)
+            nt06162  Hepatitis B virus (HBV)
+            nt06164  Kaposi sarcoma-associated herpesvirus (KSHV)
+            nt06167  Human cytomegalovirus (HCMV)
+            nt06224  CXCR signaling
+            nt06263  Hepatocellular carcinoma
+  ELEMENT   N00152  CXCR-GNB/G-ERK signaling pathway
+            N00153  CCR/CXCR-GNB/G-PI3K-RAC signaling pathway
+            N00154  CXCR-GNB/G-PI3K-AKT signaling pathway
+            N00399  CCR2-GNB/G-PI3K-NFKB signaling pathway
+            N00401  CXCR4-GNAQ-PLCB/G-calcineurin signaling pathway
+            N00403  CX3CR1-GNAI-AC-PKA signaling pathway
+            N00413  CXCR4-GNB/G-PLCB-PKC signaling pathway
+            N00428  CCR5-GNB/G-PLCB/G-PKC signaling pathway
+            N00430  CXCR4-GNAI-PI3K-BAD signaling pathway
+            N00433  CXCR4-GNB/G-RAC signaling pathway
+            N00546  CXCL12-CXCR4-PKC-ERK signaling pathaway
+DRUG        D03116  Bindarit (USAN/INN)
+            D03210  Ancriviroc (USAN/INN)
+            D06182  Tolimidone (USAN)
+            D06297  Vicriviroc maleate (USAN)
+            D06557  Aplaviroc hydrochloride (USAN)
+            D06670  Maraviroc (JAN/INN)
+            D08971  Plerixafor (JAN/USAN/INN)
+            D08984  Reparixin (USAN/INN)
+            D09664  Saracatinib (USAN/INN)
+            D09665  Saracatinib difumarate (USAN)
+            D09761  Mogamulizumab (USAN)
+            D09783  Tofacitinib citrate (JAN/USAN)
+            D09877  Carlumab (USAN)
+            D09878  Cenicriviroc (USAN/INN)
+            D09879  Cenicriviroc mesylate (USAN)
+            D09959  Ruxolitinib (USAN/INN)
+            D09960  Ruxolitinib phosphate (JAN/USAN)
+            D09970  Tofacitinib (USAN)
+            D10075  Navarixin (USAN)
+            D10308  Baricitinib (JAN/USAN/INN)
+            D10332  Elubrixin (USAN)
+            D10378  Vercirnon (USAN/INN)
+            D10379  Vercirnon sodium (USAN)
+            D10387  Danirixin (USAN/INN)
+            D10420  Elubrixin tosylate (USAN)
+            D10618  Defactinib (USAN/INN)
+            D10972  Plozalizumab (USAN/INN)
+            D11046  Delgocitinib (JAN/USAN)
+            D11267  Nemiralisib (USAN/INN)
+            D11322  Umbralisib (USAN/INN)
+            D11323  Umbralisib tosylate (USAN)
+            D11354  Nemiralisib succinate (USAN)
+            D11399  Leronlimab (USAN/INN)
+            D11498  Quetmolimab (USAN)
+            D11510  Mavorixafor (USAN)
+            D11741  Lazucirnon (USAN)
+            D11742  Lazucirnon hydrochloride (USAN)
+            D11815  Belumosudil (USAN)
+            D11816  Belumosudil mesylate (USAN)
+            D11970  Ritlecitinib tosilate (JAN)
+            D11997  Ilacirnon (USAN)
+            D11998  Ilacirnon sodium (USAN)
+            D12128  Balixafortide (USAN/INN)
+            D12196  Laduviglusib (USAN)
+            D12281  Motixafortide (USAN/INN)
+            D12282  Motixafortide acetate (USAN)
+            D12304  Elraglusib (USAN)
+            D12556  Eltrekibart (USAN)
+DBLINKS     GO: 0070098
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            6374  CXCL5; C-X-C motif chemokine ligand 5 [KO:K05506]
+            6372  CXCL6; C-X-C motif chemokine ligand 6 [KO:K05506]
+            5473  PPBP; pro-platelet basic protein [KO:K10029]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            4283  CXCL9; C-X-C motif chemokine ligand 9 [KO:K05416]
+            3627  CXCL10; C-X-C motif chemokine ligand 10 [KO:K12671]
+            6373  CXCL11; C-X-C motif chemokine ligand 11 [KO:K12672]
+            6387  CXCL12; C-X-C motif chemokine ligand 12 [KO:K10031]
+            10563  CXCL13; C-X-C motif chemokine ligand 13 [KO:K10032]
+            58191  CXCL16; C-X-C motif chemokine ligand 16 [KO:K10035]
+            5196  PF4; platelet factor 4 [KO:K05407]
+            5197  PF4V1; platelet factor 4 variant 1 [KO:K05407]
+            9547  CXCL14; C-X-C motif chemokine ligand 14 [KO:K10033]
+            6375  XCL1; X-C motif chemokine ligand 1 [KO:K05507]
+            6846  XCL2; X-C motif chemokine ligand 2 [KO:K22675]
+            6376  CX3CL1; C-X3-C motif chemokine ligand 1 [KO:K05508]
+            6346  CCL1; C-C motif chemokine ligand 1 [KO:K05514]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            6348  CCL3; C-C motif chemokine ligand 3 [KO:K05408]
+            6349  CCL3L1; C-C motif chemokine ligand 3 like 1 [KO:K05408]
+            414062  CCL3L3; C-C motif chemokine ligand 3 like 3 [KO:K05408]
+            6351  CCL4; C-C motif chemokine ligand 4 [KO:K12964]
+            9560  CCL4L2; C-C motif chemokine ligand 4 like 2 [KO:K12964]
+            388372  CCL4L1; C-C motif chemokine ligand 4 like 1 [KO:K12964]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            6354  CCL7; C-C motif chemokine ligand 7 [KO:K05509]
+            6355  CCL8; C-C motif chemokine ligand 8 [KO:K16596]
+            6356  CCL11; C-C motif chemokine ligand 11 [KO:K16597]
+            6357  CCL13; C-C motif chemokine ligand 13 [KO:K16595]
+            6358  CCL14; C-C motif chemokine ligand 14 [KO:K21092]
+            6359  CCL15; C-C motif chemokine ligand 15 [KO:K05511]
+            6368  CCL23; C-C motif chemokine ligand 23 [KO:K05511]
+            6360  CCL16; C-C motif chemokine ligand 16 [KO:K21093]
+            6361  CCL17; C-C motif chemokine ligand 17 [KO:K21083]
+            6362  CCL18; C-C motif chemokine ligand 18 [KO:K21094]
+            6363  CCL19; C-C motif chemokine ligand 19 [KO:K05512]
+            6364  CCL20; C-C motif chemokine ligand 20 [KO:K14625]
+            6366  CCL21; C-C motif chemokine ligand 21 [KO:K16062]
+            6367  CCL22; C-C motif chemokine ligand 22 [KO:K21095]
+            6369  CCL24; C-C motif chemokine ligand 24 [KO:K21097]
+            6370  CCL25; C-C motif chemokine ligand 25 [KO:K13072]
+            10344  CCL26; C-C motif chemokine ligand 26 [KO:K21096]
+            10850  CCL27; C-C motif chemokine ligand 27 [KO:K16598]
+            56477  CCL28; C-C motif chemokine ligand 28 [KO:K05513]
+            3579  CXCR2; C-X-C motif chemokine receptor 2 [KO:K05050]
+            3577  CXCR1; C-X-C motif chemokine receptor 1 [KO:K04175]
+            2833  CXCR3; C-X-C motif chemokine receptor 3 [KO:K04188]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            643  CXCR5; C-X-C motif chemokine receptor 5 [KO:K04190]
+            10663  CXCR6; C-X-C motif chemokine receptor 6 [KO:K04191]
+            2829  XCR1; X-C motif chemokine receptor 1 [KO:K04193]
+            1524  CX3CR1; C-X3-C motif chemokine receptor 1 [KO:K04192]
+            1237  CCR8; C-C motif chemokine receptor 8 [KO:K04183]
+            1235  CCR6; C-C motif chemokine receptor 6 [KO:K04181]
+            10803  CCR9; C-C motif chemokine receptor 9 [KO:K04184]
+            1233  CCR4; C-C motif chemokine receptor 4 [KO:K04179]
+            1236  CCR7; C-C motif chemokine receptor 7 [KO:K04182]
+            729230  CCR2; C-C motif chemokine receptor 2 [KO:K04177]
+            1234  CCR5; C-C motif chemokine receptor 5 [KO:K04180]
+            1230  CCR1; C-C motif chemokine receptor 1 [KO:K04176]
+            1232  CCR3; C-C motif chemokine receptor 3 [KO:K04178]
+            2826  CCR10; C-C motif chemokine receptor 10 [KO:K04185]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            3718  JAK3; Janus kinase 3 [KO:K11218] [EC:2.7.10.2]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6773  STAT2; signal transducer and activator of transcription 2 [KO:K11221]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            6777  STAT5B; signal transducer and activator of transcription 5B [KO:K11224]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            4067  LYN; LYN proto-oncogene, Src family tyrosine kinase [KO:K05854] [EC:2.7.10.2]
+            3055  HCK; HCK proto-oncogene, Src family tyrosine kinase [KO:K08893] [EC:2.7.10.2]
+            2268  FGR; FGR proto-oncogene, Src family tyrosine kinase [KO:K08891] [EC:2.7.10.2]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            6464  SHC1; SHC adaptor protein 1 [KO:K06279]
+            25759  SHC2; SHC adaptor protein 2 [KO:K17447]
+            53358  SHC3; SHC adaptor protein 3 [KO:K17448]
+            399694  SHC4; SHC adaptor protein 4 [KO:K17449]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5294  PIK3CG; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [KO:K21289] [EC:2.7.1.153]
+            23533  PIK3R5; phosphoinositide-3-kinase regulatory subunit 5 [KO:K21290]
+            146850  PIK3R6; phosphoinositide-3-kinase regulatory subunit 6 [KO:K21290]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            2931  GSK3A; glycogen synthase kinase 3 alpha [KO:K08822] [EC:2.7.11.26]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            3702  ITK; IL2 inducible T cell kinase [KO:K07363] [EC:2.7.10.2]
+            10451  VAV3; vav guanine nucleotide exchange factor 3 [KO:K05730]
+            7409  VAV1; vav guanine nucleotide exchange factor 1 [KO:K05730]
+            7410  VAV2; vav guanine nucleotide exchange factor 2 [KO:K05730]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            5881  RAC3; Rac family small GTPase 3 [KO:K07861]
+            5058  PAK1; p21 (RAC1) activated kinase 1 [KO:K04409] [EC:2.7.11.1]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            7454  WAS; WASP actin nucleation promoting factor [KO:K05747]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            57580  PREX1; phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1 [KO:K12365]
+            9844  ELMO1; engulfment and cell motility 1 [KO:K12366]
+            1794  DOCK2; dedicator of cytokinesis 2 [KO:K12367]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            5829  PXN; paxillin [KO:K05760]
+            9564  BCAR1; BCAR1 scaffold protein, Cas family member [KO:K05726]
+            1398  CRK; CRK proto-oncogene, adaptor protein [KO:K04438]
+            1399  CRKL; CRK like proto-oncogene, adaptor protein [KO:K04438]
+            2185  PTK2B; protein tyrosine kinase 2 beta [KO:K05871] [EC:2.7.10.2]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            10235  RASGRP2; RAS guanyl releasing protein 2 [KO:K12361]
+            5906  RAP1A; RAP1A, member of RAS oncogene family [KO:K04353]
+            5908  RAP1B; RAP1B, member of RAS oncogene family [KO:K07836]
+            56288  PARD3; par-3 family cell polarity regulator [KO:K04237]
+            7074  TIAM1; TIAM Rac1 associated GEF 1 [KO:K05731]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            653361  NCF1; neutrophil cytosolic factor 1 [KO:K08011]
+            131890  GRK7; G protein-coupled receptor kinase 7 [KO:K00909] [EC:2.7.11.14]
+            6011  GRK1; G protein-coupled receptor kinase 1 [KO:K00909] [EC:2.7.11.14]
+            156  GRK2; G protein-coupled receptor kinase 2 [KO:K00910] [EC:2.7.11.15]
+            157  GRK3; G protein-coupled receptor kinase 3 [KO:K00910] [EC:2.7.11.15]
+            2868  GRK4; G protein-coupled receptor kinase 4 [KO:K08291] [EC:2.7.11.16]
+            2869  GRK5; G protein-coupled receptor kinase 5 [KO:K08291] [EC:2.7.11.16]
+            2870  GRK6; G protein-coupled receptor kinase 6 [KO:K08291] [EC:2.7.11.16]
+            408  ARRB1; arrestin beta 1 [KO:K04439]
+            409  ARRB2; arrestin beta 2 [KO:K04439]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00575  3',5'-Cyclic AMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+REFERENCE   PMID:12495636
+  AUTHORS   Wong MM, Fish EN
+  TITLE     Chemokines: attractive mediators of the immune response.
+  JOURNAL   Semin Immunol 15:5-14 (2003)
+            DOI:10.1016/S1044-5323(02)00123-9
+REFERENCE   PMID:11872087
+  AUTHORS   Curnock AP, Logan MK, Ward SG
+  TITLE     Chemokine signalling: pivoting around multiple phosphoinositide 3-kinases.
+  JOURNAL   Immunology 105:125-36 (2002)
+            DOI:10.1046/j.1365-2567.2002.01345.x
+REFERENCE   PMID:12069927
+  AUTHORS   Olson TS, Ley K
+  TITLE     Chemokines and chemokine receptors in leukocyte trafficking.
+  JOURNAL   Am J Physiol Regul Integr Comp Physiol 283:R7-28 (2002)
+            DOI:10.1152/ajpregu.00738.2001
+REFERENCE   PMID:17169327
+  AUTHORS   Busillo JM, Benovic JL
+  TITLE     Regulation of CXCR4 signaling.
+  JOURNAL   Biochim Biophys Acta 1768:952-63 (2007)
+            DOI:10.1016/j.bbamem.2006.11.002
+REFERENCE   PMID:11244042
+  AUTHORS   Mellado M, Rodriguez-Frade JM, Manes S, Martinez-A C
+  TITLE     Chemokine signaling and functional responses: the role of receptor dimerization and TK pathway activation.
+  JOURNAL   Annu Rev Immunol 19:397-421 (2001)
+            DOI:10.1146/annurev.immunol.19.1.397
+REFERENCE   PMID:8576262
+  AUTHORS   Knall C, Young S, Nick JA, Buhl AM, Worthen GS, Johnson GL
+  TITLE     Interleukin-8 regulation of the Ras/Raf/mitogen-activated protein kinase pathway in human neutrophils.
+  JOURNAL   J Biol Chem 271:2832-8 (1996)
+            DOI:10.1074/jbc.271.5.2832
+REFERENCE   PMID:17537990
+  AUTHORS   Patrussi L, Ulivieri C, Lucherini OM, Paccani SR, Gamberucci A, Lanfrancone L, Pelicci PG, Baldari CT
+  TITLE     p52Shc is required for CXCR4-dependent signaling and chemotaxis in T cells.
+  JOURNAL   Blood 110:1730-8 (2007)
+            DOI:10.1182/blood-2007-01-068411
+REFERENCE   PMID:18662984
+  AUTHORS   Sai J, Raman D, Liu Y, Wikswo J, Richmond A
+  TITLE     Parallel phosphatidylinositol 3-kinase (PI3K)-dependent and Src-dependent pathways lead to CXCL8-mediated Rac2 activation and chemotaxis.
+  JOURNAL   J Biol Chem 283:26538-47 (2008)
+            DOI:10.1074/jbc.M805611200
+REFERENCE   PMID:10852130
+  AUTHORS   Hauck CR, Klingbeil CK, Schlaepfer DD
+  TITLE     Focal adhesion kinase functions as a receptor-proximal signaling component required for directed cell migration.
+  JOURNAL   Immunol Res 21:293-303 (2000)
+            DOI:10.1385/IR:21:2-3:293
+REFERENCE   PMID:14625285
+  AUTHORS   Chandrasekar B, Bysani S, Mummidi S
+  TITLE     CXCL16 signals via Gi, phosphatidylinositol 3-kinase, Akt, I kappa B kinase, and nuclear factor-kappa B and induces cell-cell adhesion and aortic smooth muscle cell proliferation.
+  JOURNAL   J Biol Chem 279:3188-96 (2004)
+            DOI:10.1074/jbc.M311660200
+REFERENCE   PMID:17371236
+  AUTHORS   Smith L, Webb A, Ward SG
+  TITLE     T-lymphocyte navigation and migration: beyond the PI3K paradigm.
+  JOURNAL   Biochem Soc Trans 35:193-8 (2007)
+            DOI:10.1042/BST0350193
+REFERENCE   PMID:16144840
+  AUTHORS   Huttenrauch F, Pollok-Kopp B, Oppermann M
+  TITLE     G protein-coupled receptor kinases promote phosphorylation and beta-arrestin-mediated internalization of CCR5 homo- and hetero-oligomers.
+  JOURNAL   J Biol Chem 280:37503-15 (2005)
+            DOI:10.1074/jbc.M500535200
+REFERENCE   PMID:18711432
+  AUTHORS   Thelen M, Stein JV
+  TITLE     How chemokines invite leukocytes to dance.
+  JOURNAL   Nat Immunol 9:953-9 (2008)
+            DOI:10.1038/ni.f.207
+REFERENCE   PMID:19159344
+  AUTHORS   Ward SG, Marelli-Berg FM
+  TITLE     Mechanisms of chemokine and antigen-dependent T-lymphocyte navigation.
+  JOURNAL   Biochem J 418:13-27 (2009)
+            DOI:10.1042/BJ20081969
+REFERENCE   PMID:15803148
+  AUTHORS   Schwartzberg PL, Finkelstein LD, Readinger JA
+  TITLE     TEC-family kinases: regulators of T-helper-cell differentiation.
+  JOURNAL   Nat Rev Immunol 5:284-95 (2005)
+            DOI:10.1038/nri1591
+REFERENCE   PMID:15771581
+  AUTHORS   Berg LJ, Finkelstein LD, Lucas JA, Schwartzberg PL.
+  TITLE     Tec family kinases in T lymphocyte development and function.
+  JOURNAL   Annu Rev Immunol 23:549-600 (2005)
+            DOI:10.1146/annurev.immunol.22.012703.104743
+REFERENCE   PMID:17496928
+  AUTHORS   Ticchioni M, Essafi M, Jeandel PY, Davi F, Cassuto JP, Deckert M, Bernard A
+  TITLE     Homeostatic chemokines increase survival of B-chronic lymphocytic leukemia cells through inactivation of transcription factor FOXO3a.
+  JOURNAL   Oncogene 26:7081-91 (2007)
+            DOI:10.1038/sj.onc.1210519
+REFERENCE   PMID:9765254
+  AUTHORS   Korchak HM, Rossi MW, Kilpatrick LE
+  TITLE     Selective role for beta-protein kinase C in signaling for O-2 generation but not degranulation or adherence in differentiated HL60 cells.
+  JOURNAL   J Biol Chem 273:27292-9 (1998)
+            DOI:10.1074/jbc.273.42.27292
+REFERENCE   PMID:15046611
+  AUTHORS   Johnson Z, Power CA, Weiss C, Rintelen F, Ji H, Ruckle T, Camps M, Wells TN, Schwarz MK, Proudfoot AE, Rommel C
+  TITLE     Chemokine inhibition--why, when, where, which and how?
+  JOURNAL   Biochem Soc Trans 32:366-77 (2004)
+            DOI:10.1042/bst0320366
+REFERENCE   PMID:12051620
+  AUTHORS   Zhelev DV, Alteraifi A
+  TITLE     Signaling in the motility responses of the human neutrophil.
+  JOURNAL   Ann Biomed Eng 30:356-70 (2002)
+            DOI:10.1114/1.1477446
+REFERENCE   PMID:17675482
+  AUTHORS   Bach TL, Chen QM, Kerr WT, Wang Y, Lian L, Choi JK, Wu D, Kazanietz MG, Koretzky GA, Zigmond S, Abrams CS
+  TITLE     Phospholipase cbeta is critical for T cell chemotaxis.
+  JOURNAL   J Immunol 179:2223-7 (2007)
+            DOI:10.4049/jimmunol.179.4.2223
+REFERENCE   PMID:14607270
+  AUTHORS   Hornstein I, Alcover A, Katzav S
+  TITLE     Vav proteins, masters of the world of cytoskeleton organization.
+  JOURNAL   Cell Signal 16:1-11 (2004)
+            DOI:10.1016/S0898-6568(03)00110-4
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04120  Ubiquitin mediated proteolysis
+            hsa04630  JAK-STAT signaling pathway
+            hsa04670  Leukocyte transendothelial migration
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko04062
+///

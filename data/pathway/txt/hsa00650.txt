@@ -1,0 +1,89 @@
+ENTRY       hsa00650                    Pathway
+NAME        Butanoate metabolism - Homo sapiens (human)
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP hsa00650  Butanoate metabolism
+MODULE      hsa_M00027  GABA (gamma-Aminobutyrate) shunt [PATH:hsa00650]
+DBLINKS     GO: 0019605
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        39  ACAT2; acetyl-CoA acetyltransferase 2 [KO:K00626] [EC:2.3.1.9]
+            38  ACAT1; acetyl-CoA acetyltransferase 1 [KO:K00626] [EC:2.3.1.9]
+            3033  HADH; hydroxyacyl-CoA dehydrogenase [KO:K00022] [EC:1.1.1.35]
+            3030  HADHA; hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [KO:K07515] [EC:4.2.1.17 1.1.1.211]
+            1962  EHHADH; enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [KO:K07514] [EC:4.2.1.17 1.1.1.35 5.3.3.8]
+            1892  ECHS1; enoyl-CoA hydratase, short chain 1 [KO:K07511] [EC:4.2.1.17]
+            35  ACADS; acyl-CoA dehydrogenase short chain [KO:K00248] [EC:1.3.8.1]
+            116285  ACSM1; acyl-CoA synthetase medium chain family member 1 [KO:K23756] [EC:6.2.1.2]
+            123876  ACSM2A; acyl-CoA synthetase medium chain family member 2A [KO:K01896] [EC:6.2.1.2]
+            341392  ACSM4; acyl-CoA synthetase medium chain family member 4 [KO:K01896] [EC:6.2.1.2]
+            54988  ACSM5; acyl-CoA synthetase medium chain family member 5 [KO:K01896] [EC:6.2.1.2]
+            6296  ACSM3; acyl-CoA synthetase medium chain family member 3 [KO:K01896] [EC:6.2.1.2]
+            348158  ACSM2B; acyl-CoA synthetase medium chain family member 2B [KO:K01896] [EC:6.2.1.2]
+            142827  ACSM6; acyl-CoA synthetase medium chain family member 6 [KO:K01896] [EC:6.2.1.2]
+            79944  L2HGDH; L-2-hydroxyglutarate dehydrogenase [KO:K00109] [EC:1.1.99.2]
+            2571  GAD1; glutamate decarboxylase 1 [KO:K01580] [EC:4.1.1.15]
+            2572  GAD2; glutamate decarboxylase 2 [KO:K01580] [EC:4.1.1.15]
+            18  ABAT; 4-aminobutyrate aminotransferase [KO:K13524] [EC:2.6.1.19 2.6.1.22]
+            7915  ALDH5A1; aldehyde dehydrogenase 5 family member A1 [KO:K00139] [EC:1.2.1.24]
+            3157  HMGCS1; 3-hydroxy-3-methylglutaryl-CoA synthase 1 [KO:K01641] [EC:2.3.3.10]
+            3158  HMGCS2; 3-hydroxy-3-methylglutaryl-CoA synthase 2 [KO:K01641] [EC:2.3.3.10]
+            3155  HMGCL; 3-hydroxy-3-methylglutaryl-CoA lyase [KO:K01640] [EC:4.1.3.4]
+            54511  HMGCLL1; 3-hydroxymethyl-3-methylglutaryl-CoA lyase like 1 [KO:K01640] [EC:4.1.3.4]
+            5019  OXCT1; 3-oxoacid CoA-transferase 1 [KO:K01027] [EC:2.8.3.5]
+            64064  OXCT2; 3-oxoacid CoA-transferase 2 [KO:K01027] [EC:2.8.3.5]
+            65985  AACS; acetoacetyl-CoA synthetase [KO:K01907] [EC:6.2.1.16]
+            622  BDH1; 3-hydroxybutyrate dehydrogenase 1 [KO:K00019] [EC:1.1.1.30]
+COMPOUND    C00022  Pyruvate
+            C00024  Acetyl-CoA
+            C00025  L-Glutamate
+            C00026  2-Oxoglutarate
+            C00042  Succinate
+            C00091  Succinyl-CoA
+            C00122  Fumarate
+            C00132  Methanol
+            C00136  Butanoyl-CoA
+            C00164  Acetoacetate
+            C00207  Acetone
+            C00232  Succinate semialdehyde
+            C00246  Butanoic acid
+            C00332  Acetoacetyl-CoA
+            C00334  4-Aminobutanoate
+            C00356  (S)-3-Hydroxy-3-methylglutaryl-CoA
+            C00497  (R)-Malate
+            C00741  Diacetyl
+            C00810  (R)-Acetoin
+            C00877  Crotonoyl-CoA
+            C00989  4-Hydroxybutanoic acid
+            C01089  (R)-3-Hydroxybutanoate
+            C01144  (S)-3-Hydroxybutanoyl-CoA
+            C01384  Maleic acid
+            C01412  Butanal
+            C01769  (S)-Acetoin
+            C01845  Propan-2-ol
+            C02331  Vinylacetyl-CoA
+            C02411  Glutaconyl-1-CoA
+            C02527  Butanoylphosphate
+            C02630  2-Hydroxyglutarate
+            C03044  (R,R)-Butane-2,3-diol
+            C03046  (S,S)-Butane-2,3-diol
+            C03058  2-Hydroxyglutaryl-CoA
+            C03561  (R)-3-Hydroxybutanoyl-CoA
+            C04546  (R)-3-((R)-3-Hydroxybutanoyloxy)butanoate
+            C06010  (S)-2-Acetolactate
+            C06142  1-Butanol
+            C06143  Poly-beta-hydroxybutyrate
+            C06144  3-Butynoate
+            C06145  3-Butyn-1-al
+            C06146  3-Butyn-1-ol
+            C11062  4-Hydroxybutyryl-CoA
+            C17530  Methyl acetate
+            C20657  meso-2,3-Butanediol
+            C20783  Propane
+            C21390  Butane
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00330  Arginine and proline metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00750  Vitamin B6 metabolism
+KO_PATHWAY  ko00650
+///

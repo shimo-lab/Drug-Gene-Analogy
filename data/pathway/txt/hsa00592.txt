@@ -1,0 +1,113 @@
+ENTRY       hsa00592                    Pathway
+NAME        alpha-Linolenic acid metabolism - Homo sapiens (human)
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP hsa00592  alpha-Linolenic acid metabolism
+DBLINKS     GO: 0036109
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        8399  PLA2G10; phospholipase A2 group X [KO:K01047] [EC:3.1.1.4]
+            26279  PLA2G2D; phospholipase A2 group IID [KO:K01047] [EC:3.1.1.4]
+            30814  PLA2G2E; phospholipase A2 group IIE [KO:K01047] [EC:3.1.1.4]
+            50487  PLA2G3; phospholipase A2 group III [KO:K01047] [EC:3.1.1.4]
+            64600  PLA2G2F; phospholipase A2 group IIF [KO:K01047] [EC:3.1.1.4]
+            81579  PLA2G12A; phospholipase A2 group XIIA [KO:K01047] [EC:3.1.1.4]
+            84647  PLA2G12B; phospholipase A2 group XIIB [KO:K01047] [EC:3.1.1.4]
+            5319  PLA2G1B; phospholipase A2 group IB [KO:K01047] [EC:3.1.1.4]
+            5322  PLA2G5; phospholipase A2 group V [KO:K01047] [EC:3.1.1.4]
+            5320  PLA2G2A; phospholipase A2 group IIA [KO:K01047] [EC:3.1.1.4]
+            391013  PLA2G2C; phospholipase A2 group IIC [KO:K01047] [EC:3.1.1.4]
+            123745  PLA2G4E; phospholipase A2 group IVE [KO:K16342] [EC:3.1.1.4]
+            5321  PLA2G4A; phospholipase A2 group IVA [KO:K16342] [EC:3.1.1.4]
+            8681  JMJD7-PLA2G4B; JMJD7-PLA2G4B readthrough [KO:K16342] [EC:3.1.1.4]
+            100137049  PLA2G4B; phospholipase A2 group IVB [KO:K16342] [EC:3.1.1.4]
+            8605  PLA2G4C; phospholipase A2 group IVC [KO:K16342] [EC:3.1.1.4]
+            283748  PLA2G4D; phospholipase A2 group IVD [KO:K16342] [EC:3.1.1.4]
+            255189  PLA2G4F; phospholipase A2 group IVF [KO:K16342] [EC:3.1.1.4]
+            8398  PLA2G6; phospholipase A2 group VI [KO:K16343] [EC:3.1.1.4]
+            151056  PLB1; phospholipase B1 [KO:K14621] [EC:3.1.1.4 3.1.1.5]
+            11145  PLAAT3; phospholipase A and acyltransferase 3 [KO:K16817] [EC:3.1.1.32 3.1.1.4]
+            54979  PLAAT2; phospholipase A and acyltransferase 2 [KO:K16817] [EC:3.1.1.32 3.1.1.4]
+            9415  FADS2; fatty acid desaturase 2 [KO:K10226] [EC:1.14.19.3]
+            8310  ACOX3; acyl-CoA oxidase 3, pristanoyl [KO:K00232] [EC:1.3.3.6]
+            51  ACOX1; acyl-CoA oxidase 1 [KO:K00232] [EC:1.3.3.6]
+            30  ACAA1; acetyl-CoA acyltransferase 1 [KO:K07513] [EC:2.3.1.16]
+COMPOUND    C00157  Phosphatidylcholine
+            C01226  12-OPDA
+            C04672  (9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid
+            C04780  8-[(1S,2S)-3-Oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate
+            C04785  13(S)-HPOT
+            C06427  (9Z,12Z,15Z)-Octadecatrienoic acid
+            C08491  (-)-Jasmonic acid
+            C08492  3-Hexenol
+            C11512  Methyl jasmonate
+            C16300  Stearidonic acid
+            C16308  Traumatic acid
+            C16309  Traumatin
+            C16310  3-Hexenal
+            C16311  12-Oxo-9(Z)-dodecenoic acid
+            C16316  13(S)-HOT
+            C16317  (+)-7-Isojasmonic acid
+            C16318  (+)-7-Isomethyljasmonate
+            C16319  Etherolenic acid
+            C16320  Colnelenic acid
+            C16321  9(S)-HPOT
+            C16322  9-Oxononanoic acid
+            C16323  3,6-Nonadienal
+            C16324  9,10-EOT
+            C16325  10-OPDA
+            C16326  9(S)-HOT
+            C16327  OPC8-CoA
+            C16328  trans-2-Enoyl-OPC8-CoA
+            C16330  3-Oxo-OPC8-CoA
+            C16331  OPC6-CoA
+            C16332  trans-2-Enoyl-OPC6-CoA
+            C16334  3-Oxo-OPC6-CoA
+            C16335  OPC4-CoA
+            C16336  trans-2-Enoyl-OPC4-CoA
+            C16338  3-Oxo-OPC4-CoA
+            C16339  (+)-7-Isojasmonic acid CoA
+            C16341  2(R)-HPOT
+            C16342  2(R)-HOT
+            C16343  Heptadecatrienal
+            C16344  Norlinolenic acid
+            C16345  Volicitin
+            C16346  17-Hydroxylinolenic acid
+            C19757  (3Z)-Hex-3-en-1-yl acetate
+            C21923  9-Hydroxy-12-oxo-10(E),15(Z)-octadecadienoic acid
+            C21924  9-Hydroxy-12-oxo-15(Z)-octadecenoic acid
+REFERENCE   PMID:17172287
+  AUTHORS   Schilmiller AL, Koo AJ, Howe GA.
+  TITLE     Functional diversification of acyl-coenzyme A oxidases in jasmonic acid biosynthesis and action.
+  JOURNAL   Plant Physiol 143:812-24 (2007)
+            DOI:10.1104/pp.106.092916
+REFERENCE   PMID:15141068
+  AUTHORS   Cruz Castillo M, Martinez C, Buchala A, Metraux JP, Leon J.
+  TITLE     Gene-specific involvement of beta-oxidation in wound-activated responses in Arabidopsis.
+  JOURNAL   Plant Physiol 135:85-94 (2004)
+            DOI:10.1104/pp.104.039925
+REFERENCE   PMID:17215350
+  AUTHORS   Truman W, Bennett MH, Kubigsteltig I, Turnbull C, Grant M.
+  TITLE     Arabidopsis systemic immunity uses conserved defense signaling pathways and is mediated by jasmonates.
+  JOURNAL   Proc Natl Acad Sci U S A 104:1075-80 (2007)
+            DOI:10.1073/pnas.0605423104
+REFERENCE   PMID:16116284
+  AUTHORS   Kuroda H, Oshima T, Kaneda H, Takashio M.
+  TITLE     Identification and functional analyses of two cDNAs that encode fatty acid 9-/13-hydroperoxide lyase (CYP74C) in rice.
+  JOURNAL   Biosci Biotechnol Biochem 69:1545-54 (2005)
+            DOI:10.1271/bbb.69.1545
+REFERENCE   PMID:15670154
+  AUTHORS   Hamberg M.
+  TITLE     Hidden stereospecificity in the biosynthesis of divinyl ether fatty acids.
+  JOURNAL   FEBS J 272:736-43 (2005)
+            DOI:10.1111/j.1742-4658.2004.04510.x
+REFERENCE   PMID:14522973
+  AUTHORS   Hamberg M, Sanz A, Rodriguez MJ, Calvo AP, Castresana C.
+  TITLE     Activation of the fatty acid alpha-dioxygenase pathway during bacterial infection of tobacco leaves. Formation of oxylipins protecting against cell death.
+  JOURNAL   J Biol Chem 278:51796-805 (2003)
+            DOI:10.1074/jbc.M310514200
+REFERENCE   
+  AUTHORS   Creelman RA, Mulpuri R.
+  TITLE     The Oxylipin Pathway in Arabidopsis
+  JOURNAL   The Arabidopsis Book 1:e0012 (2002)
+            DOI:10.1199/tab.0012
+KO_PATHWAY  ko00592
+///

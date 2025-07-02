@@ -1,0 +1,342 @@
+ENTRY       hsa00230                    Pathway
+NAME        Purine metabolism - Homo sapiens (human)
+CLASS       Metabolism; Nucleotide metabolism
+PATHWAY_MAP hsa00230  Purine metabolism
+MODULE      hsa_M00005  PRPP biosynthesis, ribose 5P => PRPP [PATH:hsa00230]
+            hsa_M00048  De novo purine biosynthesis, PRPP + glutamine => IMP [PATH:hsa00230]
+            hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP [PATH:hsa00230]
+            hsa_M00050  Guanine ribonucleotide biosynthesis, IMP => GDP,GTP [PATH:hsa00230]
+            hsa_M00053  Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP [PATH:hsa00230]
+            hsa_M00958  Adenine ribonucleotide degradation, AMP => Urate [PATH:hsa00230]
+            hsa_M00959  Guanine ribonucleotide degradation, GMP => Urate [PATH:hsa00230]
+NETWORK     nt06025  Molybdenum cofactor biosynthesis
+            nt06027  Purine salvage pathway
+  ELEMENT   N00888  Hypoxanthine oxidation
+            N01418  Purine salvage pathway, adenine to AMP
+            N01420  APRT deficiency in adenine metabolism
+            N01421  Purine salvage pathway, hypoxanthine/guanine to IMP/GMP
+            N01423  HPRT1 deficiency in hypoxanthine metabolism
+            N01424  HPRT1 deficiency in guanine metabolism
+DRUG        D00155  Pentostatin (JAN/USAN/INN)
+            D00161  Mercaptopurine (USP)
+            D00224  Allopurinol (JP18/USP/INN)
+            D00231  Inamrinone (USP)
+            D00341  Hydroxyurea (USP)
+            D00417  Milrinone (JAN/USP/INN)
+            D00752  Mycophenolate mofetil (JAN/USP)
+            D01155  Gemcitabine hydrochloride (JAN/USP)
+            D01206  Febuxostat (JAN/USAN/INN)
+            D01370  Cladribine (JAN/USP/INN)
+            D01392  Mizoribine (JP18/INN)
+            D01896  Cilostazol (JP18/USP/INN)
+            D01907  Fludarabine phosphate (JAN/USP)
+            D02008  Tadalafil (JAN/USP/INN)
+            D02042  Olprinone hydrochloride hydrate (JAN)
+            D02084  Inamrinone ethylenelactate
+            D02085  Milrinone lactate
+            D02365  Oxypurinol (USAN)
+            D02368  Gemcitabine (USAN/INN)
+            D02896  Amflutizole (USAN/INN)
+            D02933  Anagrelide hydrochloride (USP)
+            D03378  Caracemide (USAN)
+            D03546  Clofarabine (JAN/USAN/INN)
+            D03828  Pemetrexed disodium (USAN)
+            D04004  Enoximone (USAN/INN)
+            D04245  Forodesine hydrochloride (JAN/USAN)
+            D04508  Imazodan hydrochloride (USAN)
+            D04529  Indolidan (USAN/INN)
+            D04628  Isomazole hydrochloride (USAN)
+            D04751  Lixazinone sulfate (USAN)
+            D04766  Lometrexol sodium (USAN)
+            D04931  Mercaptopurine (INN)
+            D04936  Merimepodib (USAN/INN)
+            D05094  Mycophenolate mofetil hydrochloride (USAN)
+            D05095  Mycophenolate sodium (USP)
+            D05096  Mycophenolic acid (USAN/INN)
+            D05396  Peldesine (USAN)
+            D05400  Pelitrexol (USAN/INN)
+            D06100  Tezacitabine (USAN)
+            D06109  Thioguanine (USP)
+            D06130  Tiazofurin (USAN)
+            D06503  Pemetrexed sodium hydrate (JAN)
+            D06596  Forodesine (USAN/INN)
+            D07278  Tisopurine (INN)
+            D07455  Anagrelide (INN/BAN)
+            D07472  Pemetrexed (INN)
+            D07564  Allopurinol sodium
+            D07966  Fludarabine (INN)
+            D08294  Olprinone (INN)
+            D08603  Tioguanine (INN)
+            D08860  Apremilast (JAN/USAN)
+            D09020  Tofimilast (INN/USAN)
+            D09621  Gisadenafil (USAN/INN)
+            D09622  Gisadenafil besylate (USAN)
+            D09786  Topiroxostat (JAN/INN)
+            D09822  Theosalicin (JAN)
+            D10222  Gemcitabine elaidate (USAN/INN)
+            D10255  Anagrelide hydrochloride hydrate (JAN)
+            D10431  Ulodesine (USAN)
+            D10432  Ulodesine succinate (USAN)
+            D10596  Pemetrexed sodium hemipentahydrate (JAN)
+            D10963  Oleclumab (USAN)
+            D10976  Recanaclotide (USAN/INN)
+            D11081  Febuxostat hydrate (JAN)
+            D11314  Difamilast (JAN/USAN)
+            D11352  Pemetrexed tromethamine (USAN)
+            D12203  Tovinontrine (USAN/INN)
+            D12373  Quemliclustat (USAN/INN)
+            D12387  Fosgemcitabine palabenamide (USAN/INN)
+            D12401  Uliledlimab (USAN/INN)
+            D12516  Zagociguat (USAN/INN)
+DBLINKS     GO: 0006163 0042278
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        53343  NUDT9; nudix hydrolase 9 [KO:K13988] [EC:3.6.1.13]
+            56985  ADPRM; ADP-ribose/CDP-alcohol diphosphatase, manganese dependent [KO:K01517] [EC:3.6.1.13 3.6.1.16 3.6.1.53]
+            11164  NUDT5; nudix hydrolase 5 [KO:K13987] [EC:3.6.1.13 3.6.1.58 2.7.7.96]
+            5236  PGM1; phosphoglucomutase 1 [KO:K01835] [EC:5.4.2.2]
+            55276  PGM2; phosphoglucomutase 2 [KO:K15779] [EC:5.4.2.2 5.4.2.7]
+            221823  PRPS1L1; phosphoribosyl pyrophosphate synthetase 1 like 1 [KO:K00948] [EC:2.7.6.1]
+            5634  PRPS2; phosphoribosyl pyrophosphate synthetase 2 [KO:K00948] [EC:2.7.6.1]
+            5631  PRPS1; phosphoribosyl pyrophosphate synthetase 1 [KO:K00948] [EC:2.7.6.1]
+            5471  PPAT; phosphoribosyl pyrophosphate amidotransferase [KO:K00764] [EC:2.4.2.14]
+            2618  GART; phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase [KO:K11787] [EC:6.3.4.13 2.1.2.2 6.3.3.1]
+            5198  PFAS; phosphoribosylformylglycinamidine synthase [KO:K01952] [EC:6.3.5.3]
+            10606  PAICS; phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase [KO:K01587] [EC:4.1.1.21 6.3.2.6]
+            158  ADSL; adenylosuccinate lyase [KO:K01756] [EC:4.3.2.2]
+            471  ATIC; 5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase [KO:K00602] [EC:2.1.2.3 3.5.4.10]
+            353  APRT; adenine phosphoribosyltransferase [KO:K00759] [EC:2.4.2.7]
+            22978  NT5C2; 5'-nucleotidase, cytosolic II [KO:K01081] [EC:3.1.3.5]
+            84618  NT5C1A; 5'-nucleotidase, cytosolic IA [KO:K01081] [EC:3.1.3.5]
+            93034  NT5C1B; 5'-nucleotidase, cytosolic IB [KO:K01081] [EC:3.1.3.5]
+            30833  NT5C; 5', 3'-nucleotidase, cytosolic [KO:K01081] [EC:3.1.3.5]
+            56953  NT5M; 5',3'-nucleotidase, mitochondrial [KO:K01081] [EC:3.1.3.5]
+            100526794  NT5C1B-RDH14; NT5C1B-RDH14 readthrough [KO:K01081] [EC:3.1.3.5]
+            284958  NT5DC4; 5'-nucleotidase domain containing 4 [KO:K01081] [EC:3.1.3.5]
+            4907  NT5E; 5'-nucleotidase ecto [KO:K19970] [EC:3.1.3.5]
+            4860  PNP; purine nucleoside phosphorylase [KO:K03783] [EC:2.4.2.1]
+            144811  LACC1; laccase domain containing 1 [KO:K05810] [EC:2.4.2.1 2.4.2.28 3.5.4.4]
+            3251  HPRT1; hypoxanthine phosphoribosyltransferase 1 [KO:K00760] [EC:2.4.2.8]
+            3614  IMPDH1; inosine monophosphate dehydrogenase 1 [KO:K00088] [EC:1.1.1.205]
+            3615  IMPDH2; inosine monophosphate dehydrogenase 2 [KO:K00088] [EC:1.1.1.205]
+            10201  NME6; NME/NM23 nucleoside diphosphate kinase 6 [KO:K00940] [EC:2.7.4.6]
+            29922  NME7; NME/NM23 family member 7 [KO:K00940] [EC:2.7.4.6]
+            4831  NME2; NME/NM23 nucleoside diphosphate kinase 2 [KO:K00940] [EC:2.7.4.6]
+            4833  NME4; NME/NM23 nucleoside diphosphate kinase 4 [KO:K00940] [EC:2.7.4.6]
+            4830  NME1; NME/NM23 nucleoside diphosphate kinase 1 [KO:K00940] [EC:2.7.4.6]
+            4832  NME3; NME/NM23 nucleoside diphosphate kinase 3 [KO:K00940] [EC:2.7.4.6]
+            654364  NME1-NME2; NME1-NME2 readthrough [KO:K00940] [EC:2.7.4.6]
+            221264  AK9; adenylate kinase 9 [KO:K18533] [EC:2.7.4.3 2.7.4.6]
+            956  ENTPD3; ectonucleoside triphosphate diphosphohydrolase 3 [KO:K01510] [EC:3.6.1.5]
+            377841  ENTPD8; ectonucleoside triphosphate diphosphohydrolase 8 [KO:K01510] [EC:3.6.1.5]
+            953  ENTPD1; ectonucleoside triphosphate diphosphohydrolase 1 [KO:K01510] [EC:3.6.1.5]
+            124583  CANT1; calcium activated nucleotidase 1 [KO:K12304] [EC:3.6.1.6]
+            9583  ENTPD4; ectonucleoside triphosphate diphosphohydrolase 4 [KO:K12305] [EC:3.6.1.6]
+            957  ENTPD5; ectonucleoside triphosphate diphosphohydrolase 5 (inactive) [KO:K01511] [EC:3.6.1.6]
+            955  ENTPD6; ectonucleoside triphosphate diphosphohydrolase 6 [KO:K01511] [EC:3.6.1.6]
+            131870  NUDT16; nudix hydrolase 16 [KO:K16855] [EC:3.6.1.62 3.6.1.64]
+            3704  ITPA; inosine triphosphatase [KO:K01519] [EC:3.6.1.66]
+            7498  XDH; xanthine dehydrogenase [KO:K00106] [EC:1.17.1.4 1.17.3.2]
+            318  NUDT2; nudix hydrolase 2 [KO:K01518] [EC:3.6.1.17]
+            8833  GMPS; guanine monophosphate synthase [KO:K01951] [EC:6.3.5.2]
+            2766  GMPR; guanosine monophosphate reductase [KO:K00364] [EC:1.7.1.7]
+            51292  GMPR2; guanosine monophosphate reductase 2 [KO:K00364] [EC:1.7.1.7]
+            9615  GDA; guanine deaminase [KO:K01487] [EC:3.5.4.3]
+            2987  GUK1; guanylate kinase 1 [KO:K00942] [EC:2.7.4.8]
+            6240  RRM1; ribonucleotide reductase catalytic subunit M1 [KO:K10807] [EC:1.17.4.1]
+            50484  RRM2B; ribonucleotide reductase regulatory TP53 inducible subunit M2B [KO:K10808] [EC:1.17.4.1]
+            6241  RRM2; ribonucleotide reductase regulatory subunit M2 [KO:K10808] [EC:1.17.4.1]
+            51020  HDDC2; HD domain containing 2 [KO:K07023] [EC:3.1.3.89]
+            1716  DGUOK; deoxyguanosine kinase [KO:K00904] [EC:2.7.1.113]
+            1633  DCK; deoxycytidine kinase [KO:K00893] [EC:2.7.1.74 2.7.1.76 2.7.1.113]
+            374659  HDDC3; HD domain containing 3 [KO:K21138] [EC:3.1.7.2]
+            58497  PRUNE1; prune exopolyphosphatase 1 [KO:K01514] [EC:3.6.1.11]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            55811  ADCY10; adenylate cyclase 10 [KO:K11265] [EC:4.6.1.1]
+            2977  GUCY1A2; guanylate cyclase 1 soluble subunit alpha 2 [KO:K12318] [EC:4.6.1.2]
+            2982  GUCY1A1; guanylate cyclase 1 soluble subunit alpha 1 [KO:K12318] [EC:4.6.1.2]
+            2983  GUCY1B1; guanylate cyclase 1 soluble subunit beta 1 [KO:K12319] [EC:4.6.1.2]
+            2984  GUCY2C; guanylate cyclase 2C [KO:K12320] [EC:4.6.1.2]
+            3000  GUCY2D; guanylate cyclase 2D, retinal [KO:K12321] [EC:4.6.1.2]
+            2986  GUCY2F; guanylate cyclase 2F, retinal [KO:K12322] [EC:4.6.1.2]
+            4881  NPR1; natriuretic peptide receptor 1 [KO:K12323] [EC:4.6.1.2]
+            4882  NPR2; natriuretic peptide receptor 2 [KO:K12324] [EC:4.6.1.2]
+            5136  PDE1A; phosphodiesterase 1A [KO:K13755] [EC:3.1.4.17]
+            5153  PDE1B; phosphodiesterase 1B [KO:K13755] [EC:3.1.4.17]
+            5137  PDE1C; phosphodiesterase 1C [KO:K13755] [EC:3.1.4.17]
+            5138  PDE2A; phosphodiesterase 2A [KO:K18283] [EC:3.1.4.17]
+            5139  PDE3A; phosphodiesterase 3A [KO:K19021] [EC:3.1.4.17]
+            5140  PDE3B; phosphodiesterase 3B [KO:K13296] [EC:3.1.4.17]
+            8654  PDE5A; phosphodiesterase 5A [KO:K13762] [EC:3.1.4.35]
+            5145  PDE6A; phosphodiesterase 6A [KO:K08718] [EC:3.1.4.35]
+            5158  PDE6B; phosphodiesterase 6B [KO:K13756] [EC:3.1.4.35]
+            5146  PDE6C; phosphodiesterase 6C [KO:K13757] [EC:3.1.4.35]
+            5147  PDE6D; phosphodiesterase 6D [KO:K13758]
+            5148  PDE6G; phosphodiesterase 6G [KO:K13759]
+            5149  PDE6H; phosphodiesterase 6H [KO:K13760]
+            5152  PDE9A; phosphodiesterase 9A [KO:K13761] [EC:3.1.4.35]
+            10846  PDE10A; phosphodiesterase 10A [KO:K18438] [EC:3.1.4.17 3.1.4.35]
+            50940  PDE11A; phosphodiesterase 11A [KO:K13298] [EC:3.1.4.17 3.1.4.35]
+            122622  ADSS1; adenylosuccinate synthase 1 [KO:K01939] [EC:6.3.4.4]
+            159  ADSS2; adenylosuccinate synthase 2 [KO:K01939] [EC:6.3.4.4]
+            271  AMPD2; adenosine monophosphate deaminase 2 [KO:K01490] [EC:3.5.4.6]
+            272  AMPD3; adenosine monophosphate deaminase 3 [KO:K01490] [EC:3.5.4.6]
+            270  AMPD1; adenosine monophosphate deaminase 1 [KO:K01490] [EC:3.5.4.6]
+            132  ADK; adenosine kinase [KO:K00856] [EC:2.7.1.20]
+            100  ADA; adenosine deaminase [KO:K01488] [EC:3.5.4.4]
+            51816  ADA2; adenosine deaminase 2 [KO:K19572] [EC:3.5.4.4]
+            122481  AK7; adenylate kinase 7 [KO:K00939] [EC:2.7.4.3]
+            205  AK4; adenylate kinase 4 [KO:K00939] [EC:2.7.4.3]
+            26289  AK5; adenylate kinase 5 [KO:K00939] [EC:2.7.4.3]
+            204  AK2; adenylate kinase 2 [KO:K00939] [EC:2.7.4.3]
+            203  AK1; adenylate kinase 1 [KO:K00939] [EC:2.7.4.3]
+            158067  AK8; adenylate kinase 8 [KO:K00939] [EC:2.7.4.3]
+            102157402  AK6; adenylate kinase 6 [KO:K18532] [EC:2.7.4.3]
+            50808  AK3; adenylate kinase 3 [KO:K00944] [EC:2.7.4.10]
+            954  ENTPD2; ectonucleoside triphosphate diphosphohydrolase 2 [KO:K01509] [EC:3.6.1.-]
+            84284  NTPCR; nucleoside-triphosphatase, cancer-related [KO:K06928] [EC:3.6.1.15]
+            5167  ENPP1; ectonucleotide pyrophosphatase/phosphodiesterase 1 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            5169  ENPP3; ectonucleotide pyrophosphatase/phosphodiesterase 3 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            5141  PDE4A; phosphodiesterase 4A [KO:K13293] [EC:3.1.4.53]
+            5142  PDE4B; phosphodiesterase 4B [KO:K13293] [EC:3.1.4.53]
+            5143  PDE4C; phosphodiesterase 4C [KO:K13293] [EC:3.1.4.53]
+            5144  PDE4D; phosphodiesterase 4D [KO:K13293] [EC:3.1.4.53]
+            5150  PDE7A; phosphodiesterase 7A [KO:K18436] [EC:3.1.4.53]
+            27115  PDE7B; phosphodiesterase 7B [KO:K18436] [EC:3.1.4.53]
+            8622  PDE8B; phosphodiesterase 8B [KO:K18437] [EC:3.1.4.53]
+            5151  PDE8A; phosphodiesterase 8A [KO:K18437] [EC:3.1.4.53]
+            2272  FHIT; fragile histidine triad diadenosine triphosphatase [KO:K01522] [EC:3.6.1.29]
+            22875  ENPP4; ectonucleotide pyrophosphatase/phosphodiesterase 4 [KO:K18424] [EC:3.6.1.29]
+            9060  PAPSS2; 3'-phosphoadenosine 5'-phosphosulfate synthase 2 [KO:K13811] [EC:2.7.7.4 2.7.1.25]
+            9061  PAPSS1; 3'-phosphoadenosine 5'-phosphosulfate synthase 1 [KO:K13811] [EC:2.7.7.4 2.7.1.25]
+            646625  URAD; ureidoimidazoline (2-oxo-4-hydroxy-4-carboxy-5-) decarboxylase [KO:K13485] [EC:4.1.1.97]
+            55821  ALLC; allantoicase [KO:K01477] [EC:3.5.3.4]
+COMPOUND    C00002  ATP
+            C00008  ADP
+            C00011  CO2
+            C00014  Ammonia
+            C00020  AMP
+            C00035  GDP
+            C00037  Glycine
+            C00039  DNA
+            C00044  GTP
+            C00046  RNA
+            C00048  Glyoxylate
+            C00053  3'-Phosphoadenylyl sulfate
+            C00054  Adenosine 3',5'-bisphosphate
+            C00059  Sulfate
+            C00064  L-Glutamine
+            C00081  ITP
+            C00086  Urea
+            C00104  IDP
+            C00117  D-Ribose 5-phosphate
+            C00119  5-Phospho-alpha-D-ribose 1-diphosphate
+            C00130  IMP
+            C00131  dATP
+            C00144  GMP
+            C00147  Adenine
+            C00169  Carbamoyl phosphate
+            C00206  dADP
+            C00209  Oxalate
+            C00212  Adenosine
+            C00224  Adenylyl sulfate
+            C00242  Guanine
+            C00262  Hypoxanthine
+            C00286  dGTP
+            C00288  HCO3-
+            C00294  Inosine
+            C00301  ADP-ribose
+            C00330  Deoxyguanosine
+            C00360  dAMP
+            C00361  dGDP
+            C00362  dGMP
+            C00366  Urate
+            C00385  Xanthine
+            C00387  Guanosine
+            C00499  Allantoate
+            C00559  Deoxyadenosine
+            C00575  3',5'-Cyclic AMP
+            C00603  (S)-Ureidoglycolate
+            C00620  alpha-D-Ribose 1-phosphate
+            C00655  Xanthosine 5'-phosphate
+            C00700  XTP
+            C00802  Oxalureate
+            C00942  3',5'-Cyclic GMP
+            C01228  Guanosine 3',5'-bis(diphosphate)
+            C01260  P1,P4-Bis(5'-adenosyl)tetraphosphate
+            C01261  P1,P4-Bis(5'-guanosyl) tetraphosphate
+            C01344  dIDP
+            C01345  dITP
+            C01367  3'-AMP
+            C01444  Oxamate
+            C01762  Xanthosine
+            C02091  (S)-Ureidoglycine
+            C02348  (R)(-)-Allantoin
+            C02350  (S)-Allantoin
+            C02353  2',3'-Cyclic AMP
+            C02718  N-Formiminoglycine
+            C03090  5-Phosphoribosylamine
+            C03373  Aminoimidazole ribotide
+            C03483  Adenosine tetraphosphate
+            C03614  Inosine 5'-tetraphosphate
+            C03794  N6-(1,2-Dicarboxyethyl)-AMP
+            C03838  5'-Phosphoribosylglycinamide
+            C04051  5-Amino-4-imidazolecarboxyamide
+            C04376  5'-Phosphoribosyl-N-formylglycinamide
+            C04392  P1,P4-Bis(5'-xanthosyl) tetraphosphate
+            C04494  Guanosine 3'-diphosphate 5'-triphosphate
+            C04640  2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine
+            C04677  1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide
+            C04734  1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide
+            C04751  1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate
+            C04823  1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole
+            C05239  5-Aminoimidazole
+            C05512  Deoxyinosine
+            C05513  Urate-3-ribonucleoside
+            C05515  5-Ureido-4-imidazole carboxylate
+            C05516  5-Amino-4-imidazole carboxylate
+            C05993  Acetyl adenylate
+            C06193  Guanosine 3'-phosphate
+            C06194  2',3'-Cyclic GMP
+            C06195  Imidazolone
+            C06196  2'-Deoxyinosine 5'-phosphate
+            C06197  P1,P3-Bis(5'-adenosyl) triphosphate
+            C06433  5'-Benzoylphosphoadenosine
+            C06435  5'-Butyrylphosphoinosine
+            C11821  5-Hydroxyisourate
+            C12248  5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate
+            C15667  5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole
+            C22395  N6-Succino-2-amino-2'-deoxyadenylate
+            C22441  dZMP
+            C22442  dZDP
+            C22443  dZTP
+            C22499  8-Hydroxyadenine
+            C22500  2,8-Dihydroxyadenine
+REFERENCE   PMID:10601204
+  AUTHORS   Cusa E, Obradors N, Baldoma L, Badia J, Aguilar J.
+  TITLE     Genetic analysis of a chromosomal region containing genes required for assimilation of allantoin nitrogen and linked glyoxylate metabolism in Escherichia coli.
+  JOURNAL   J Bacteriol 181:7479-84 (1999)
+            DOI:10.1128/JB.181.24.7479-7484.1999
+REFERENCE   PMID:10986234
+  AUTHORS   Xi H, Schneider BL, Reitzer L.
+  TITLE     Purine catabolism in Escherichia coli and function of xanthine dehydrogenase in purine salvage.
+  JOURNAL   J Bacteriol 182:5332-41 (2000)
+            DOI:10.1128/JB.182.19.5332-5341.2000
+REL_PATHWAY hsa00030  Pentose phosphate pathway
+            hsa00220  Arginine biosynthesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00340  Histidine metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00730  Thiamine metabolism
+            hsa00740  Riboflavin metabolism
+            hsa00790  Folate biosynthesis
+KO_PATHWAY  ko00230
+///

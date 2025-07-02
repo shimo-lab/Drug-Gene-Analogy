@@ -1,0 +1,292 @@
+ENTRY       hsa05418                    Pathway
+NAME        Fluid shear stress and atherosclerosis - Homo sapiens (human)
+DESCRIPTION Shear stress represents the frictional force that the flow of blood exerts at the endothelial surface of the vessel wall and plays a central role in vascular biology and contributes to the progress of atherosclerosis. Sustained laminar flow with high shear stress upregulates expressions of endothelial cell (EC) genes and proteins that are protective against atherosclerosis. The key shear stress-induced transcription factors that govern the expression of these genes are Kruppel-like factor 2 (KLF2) and nuclear factor erythroid 2-like 2 (Nrf2). On the other hand, disturbed flow with associated reciprocating, low shear stress generally upregulates the EC genes and proteins that promote oxidative and inflammatory states in the artery wall, resulting in atherogenesis. Important transcriptional events that reflect this condition of ECs in disturbed flow include the activation of activator protein 1 (AP-1) and nuclear factor kappaB (NF-kappaB).
+CLASS       Human Diseases; Cardiovascular disease
+PATHWAY_MAP hsa05418  Fluid shear stress and atherosclerosis
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3320  HSP90AA1; heat shock protein 90 alpha family class A member 1 [KO:K04079]
+            3326  HSP90AB1; heat shock protein 90 alpha family class B member 1 [KO:K04079]
+            7184  HSP90B1; heat shock protein 90 beta family member 1 [KO:K09487]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            857  CAV1; caveolin 1 [KO:K06278]
+            858  CAV2; caveolin 2 [KO:K12958]
+            859  CAV3; caveolin 3 [KO:K12959]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            2817  GPC1; glypican 1 [KO:K08107]
+            6382  SDC1; syndecan 1 [KO:K06257]
+            6383  SDC2; syndecan 2 [KO:K16336]
+            6385  SDC4; syndecan 4 [KO:K16338]
+            59341  TRPV4; transient receptor potential cation channel subfamily V member 4 [KO:K04973]
+            9817  KEAP1; kelch like ECH associated protein 1 [KO:K10456]
+            4780  NFE2L2; NFE2 like bZIP transcription factor 2 [KO:K05638]
+            3162  HMOX1; heme oxygenase 1 [KO:K00510] [EC:1.14.14.18]
+            221357  GSTA5; glutathione S-transferase alpha 5 [KO:K00799] [EC:2.5.1.18]
+            2939  GSTA2; glutathione S-transferase alpha 2 [KO:K00799] [EC:2.5.1.18]
+            2941  GSTA4; glutathione S-transferase alpha 4 [KO:K00799] [EC:2.5.1.18]
+            119391  GSTO2; glutathione S-transferase omega 2 [KO:K00799] [EC:2.5.1.18]
+            2948  GSTM4; glutathione S-transferase mu 4 [KO:K00799] [EC:2.5.1.18]
+            2953  GSTT2; glutathione S-transferase theta 2 (gene/pseudogene) [KO:K00799] [EC:2.5.1.18]
+            2952  GSTT1; glutathione S-transferase theta 1 [KO:K00799] [EC:2.5.1.18]
+            2947  GSTM3; glutathione S-transferase mu 3 [KO:K00799] [EC:2.5.1.18]
+            4257  MGST1; microsomal glutathione S-transferase 1 [KO:K00799] [EC:2.5.1.18]
+            4259  MGST3; microsomal glutathione S-transferase 3 [KO:K00799] [EC:2.5.1.18]
+            2944  GSTM1; glutathione S-transferase mu 1 [KO:K00799] [EC:2.5.1.18]
+            2949  GSTM5; glutathione S-transferase mu 5 [KO:K00799] [EC:2.5.1.18]
+            4258  MGST2; microsomal glutathione S-transferase 2 [KO:K00799] [EC:2.5.1.18]
+            2938  GSTA1; glutathione S-transferase alpha 1 [KO:K00799] [EC:2.5.1.18]
+            2946  GSTM2; glutathione S-transferase mu 2 [KO:K00799] [EC:2.5.1.18]
+            2940  GSTA3; glutathione S-transferase alpha 3 [KO:K00799] [EC:2.5.1.18]
+            9446  GSTO1; glutathione S-transferase omega 1 [KO:K00799] [EC:2.5.1.18]
+            653689  GSTT2B; glutathione S-transferase theta 2B [KO:K00799] [EC:2.5.1.18]
+            2950  GSTP1; glutathione S-transferase pi 1 [KO:K23790] [EC:2.5.1.18]
+            1728  NQO1; NAD(P)H quinone dehydrogenase 1 [KO:K00355] [EC:1.6.5.2]
+            8878  SQSTM1; sequestosome 1 [KO:K14381]
+            7295  TXN; thioredoxin [KO:K03671]
+            25828  TXN2; thioredoxin 2 [KO:K03671]
+            4880  NPPC; natriuretic peptide C [KO:K12336]
+            445  ASS1; argininosuccinate synthase 1 [KO:K01940] [EC:6.3.4.5]
+            7056  THBD; thrombomodulin [KO:K03907]
+            5327  PLAT; plasminogen activator, tissue type [KO:K01343] [EC:3.4.21.68]
+            1003  CDH5; cadherin 5 [KO:K06533]
+            3791  KDR; kinase insert domain receptor [KO:K05098] [EC:2.7.10.1]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5175  PECAM1; platelet and endothelial cell adhesion molecule 1 [KO:K06471]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            5607  MAP2K5; mitogen-activated protein kinase kinase 5 [KO:K04463] [EC:2.7.12.2]
+            5598  MAPK7; mitogen-activated protein kinase 7 [KO:K04464] [EC:2.7.11.24]
+            4205  MEF2A; myocyte enhancer factor 2A [KO:K09260]
+            4208  MEF2C; myocyte enhancer factor 2C [KO:K04454]
+            10365  KLF2; KLF transcription factor 2 [KO:K17845]
+            3674  ITGA2B; integrin subunit alpha 2b [KO:K06476]
+            3685  ITGAV; integrin subunit alpha V [KO:K06487]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            9181  ARHGEF2; Rho/Rac guanine nucleotide exchange factor 2 [KO:K12791]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            1843  DUSP1; dual specificity phosphatase 1 [KO:K21278] [EC:3.1.3.16 3.1.3.48]
+            406902  MIR10A; microRNA 10a [KO:K16864]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            3554  IL1R1; interleukin 1 receptor type 1 [KO:K04386]
+            7850  IL1R2; interleukin 1 receptor type 2 [KO:K04387]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            4217  MAP3K5; mitogen-activated protein kinase kinase kinase 5 [KO:K04426] [EC:2.7.11.25]
+            6416  MAP2K4; mitogen-activated protein kinase kinase 4 [KO:K04430] [EC:2.7.12.2]
+            5609  MAP2K7; mitogen-activated protein kinase kinase 7 [KO:K04431] [EC:2.7.12.2]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5608  MAP2K6; mitogen-activated protein kinase kinase 6 [KO:K04433] [EC:2.7.12.2]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            4313  MMP2; matrix metallopeptidase 2 [KO:K01398] [EC:3.4.24.24]
+            4318  MMP9; matrix metallopeptidase 9 [KO:K01403] [EC:3.4.24.35]
+            1514  CTSL; cathepsin L [KO:K01365] [EC:3.4.22.15]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            7412  VCAM1; vascular cell adhesion molecule 1 [KO:K06527]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+            6401  SELE; selectin E [KO:K06494]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3552  IL1A; interleukin 1 alpha [KO:K04383]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3458  IFNG; interferon gamma [KO:K04687]
+            5154  PDGFA; platelet derived growth factor subunit A [KO:K04359]
+            5155  PDGFB; platelet derived growth factor subunit B [KO:K17386]
+            1906  EDN1; endothelin 1 [KO:K16366]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            652  BMP4; bone morphogenetic protein 4 [KO:K04662]
+            659  BMPR2; bone morphogenetic protein receptor type 2 [KO:K04671] [EC:2.7.11.30]
+            92  ACVR2A; activin A receptor type 2A [KO:K04670] [EC:2.7.11.30]
+            93  ACVR2B; activin A receptor type 2B [KO:K13596] [EC:2.7.11.30]
+            90  ACVR1; activin A receptor type 1 [KO:K04675] [EC:2.7.11.30]
+            657  BMPR1A; bone morphogenetic protein receptor type 1A [KO:K04673] [EC:2.7.11.30]
+            658  BMPR1B; bone morphogenetic protein receptor type 1B [KO:K13578] [EC:2.7.11.30]
+            27035  NOX1; NADPH oxidase 1 [KO:K08008]
+            1535  CYBA; cytochrome b-245 alpha chain [KO:K08009]
+            653361  NCF1; neutrophil cytosolic factor 1 [KO:K08011]
+            4688  NCF2; neutrophil cytosolic factor 2 [KO:K08010]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            5881  RAC3; Rac family small GTPase 3 [KO:K07861]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            51588  PIAS4; protein inhibitor of activated STAT 4 [KO:K16065] [EC:2.3.2.27]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            6612  SUMO3; small ubiquitin like modifier 3 [KO:K12160]
+            6613  SUMO2; small ubiquitin like modifier 2 [KO:K12160]
+            7341  SUMO1; small ubiquitin like modifier 1 [KO:K12160]
+            387082  SUMO4; small ubiquitin like modifier 4 [KO:K12160]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+COMPOUND    C00076  Calcium cation
+            C00272  Tetrahydrobiopterin
+            C00518  Hyaluronate
+            C00533  Nitric oxide
+            C00607  Chondroitin sulfate
+            C00704  Superoxide
+            C00925  Heparan sulfate
+            C16845  Peroxynitrite
+REFERENCE   PMID:21050140
+  AUTHORS   Nigro P, Abe J, Berk BC
+  TITLE     Flow shear stress and atherosclerosis: a matter of site specificity.
+  JOURNAL   Antioxid Redox Signal 15:1405-14 (2011)
+            DOI:10.1089/ars.2010.3679
+REFERENCE   PMID:26597822
+  AUTHORS   McSweeney SR, Warabi E, Siow RC
+  TITLE     Nrf2 as an Endothelial Mechanosensitive Transcription Factor: Going With the Flow.
+  JOURNAL   Hypertension 67:20-9 (2016)
+            DOI:10.1161/HYPERTENSIONAHA.115.06146
+REFERENCE   PMID:22076424
+  AUTHORS   Heo KS, Fujiwara K, Abe J
+  TITLE     Disturbed-flow-mediated vascular reactive oxygen species induce endothelial dysfunction.
+  JOURNAL   Circ J 75:2722-30 (2011)
+            DOI:10.1253/circj.CJ-11-1124
+REFERENCE   PMID:24573382
+  AUTHORS   Wild J, Soehnlein O, Dietel B, Urschel K, Garlichs CD, Cicha I
+  TITLE     Rubbing salt into wounded endothelium: sodium potentiates proatherogenic effects of TNF-alpha under non-uniform shear stress.
+  JOURNAL   Thromb Haemost 112:183-95 (2014)
+            DOI:10.1160/TH13-11-0908
+REFERENCE   PMID:21457103
+  AUTHORS   Noguchi N, Jo H
+  TITLE     Redox going with vascular shear stress.
+  JOURNAL   Antioxid Redox Signal 15:1367-8 (2011)
+            DOI:10.1089/ars.2011.4011
+REFERENCE   PMID:25165867
+  AUTHORS   Li X, Yang Q, Wang Z, Wei D
+  TITLE     Shear stress in atherosclerotic plaque determination.
+  JOURNAL   DNA Cell Biol 33:830-8 (2014)
+            DOI:10.1089/dna.2014.2480
+REFERENCE   PMID:17599600
+  AUTHORS   Chatzizisis YS, Coskun AU, Jonas M, Edelman ER, Feldman CL, Stone PH
+  TITLE     Role of endothelial shear stress in the natural history of coronary atherosclerosis and vascular remodeling: molecular, cellular, and vascular behavior.
+  JOURNAL   J Am Coll Cardiol 49:2379-93 (2007)
+            DOI:10.1016/j.jacc.2007.02.059
+REFERENCE   PMID:21733876
+  AUTHORS   Lu D, Kassab GS
+  TITLE     Role of shear stress and stretch in vascular mechanobiology.
+  JOURNAL   J R Soc Interface 8:1379-85 (2011)
+            DOI:10.1098/rsif.2011.0177
+REFERENCE   PMID:27027326
+  AUTHORS   Givens C, Tzima E
+  TITLE     Endothelial Mechanosignaling: Does One Sensor Fit All?
+  JOURNAL   Antioxid Redox Signal 25:373-88 (2016)
+            DOI:10.1089/ars.2015.6493
+REFERENCE   PMID:16765337
+  AUTHORS   Paravicini TM, Touyz RM
+  TITLE     Redox signaling in hypertension.
+  JOURNAL   Cardiovasc Res 71:247-58 (2006)
+            DOI:10.1016/j.cardiores.2006.05.001
+REFERENCE   PMID:19151844
+  AUTHORS   Boon RA, Horrevoets AJ
+  TITLE     Key transcriptional regulators of the vasoprotective effects of shear stress.
+  JOURNAL   Hamostaseologie 29:39-40, 41-3 (2009)
+REFERENCE   PMID:24947523
+  AUTHORS   Bryan MT, Duckles H, Feng S, Hsiao ST, Kim HR, Serbanovic-Canic J, Evans PC
+  TITLE     Mechanoresponsive networks controlling vascular inflammation.
+  JOURNAL   Arterioscler Thromb Vasc Biol 34:2199-205 (2014)
+            DOI:10.1161/ATVBAHA.114.303424
+REFERENCE   PMID:26822720
+  AUTHORS   Brown AJ, Teng Z, Evans PC, Gillard JH, Samady H, Bennett MR
+  TITLE     Role of biomechanical forces in the natural history of coronary atherosclerosis.
+  JOURNAL   Nat Rev Cardiol 13:210-20 (2016)
+            DOI:10.1038/nrcardio.2015.203
+REFERENCE   PMID:24876354
+  AUTHORS   Zhou J, Li YS, Chien S
+  TITLE     Shear stress-initiated signaling and its regulation of endothelial function.
+  JOURNAL   Arterioscler Thromb Vasc Biol 34:2191-8 (2014)
+            DOI:10.1161/ATVBAHA.114.303422
+REFERENCE   PMID:23429585
+  AUTHORS   Liu HB, Zhang J, Xin SY, Liu C, Wang CY, Zhao D, Zhang ZR
+  TITLE     Mechanosensitive properties in the endothelium and their roles in the regulation of endothelial function.
+  JOURNAL   J Cardiovasc Pharmacol 61:461-70 (2013)
+            DOI:10.1097/FJC.0b013e31828c0933
+REFERENCE   PMID:20032497
+  AUTHORS   Boon RA, Leyen TA, Fontijn RD, Fledderus JO, Baggen JM, Volger OL, van Nieuw Amerongen GP, Horrevoets AJ
+  TITLE     KLF2-induced actin shear fibers control both alignment to flow and JNK signaling in vascular endothelium.
+  JOURNAL   Blood 115:2533-42 (2010)
+            DOI:10.1182/blood-2009-06-228726
+REFERENCE   PMID:20353494
+  AUTHORS   Whyte JJ, Laughlin MH
+  TITLE     The effects of acute and chronic exercise on the vasculature.
+  JOURNAL   Acta Physiol (Oxf) 199:441-50 (2010)
+            DOI:10.1111/j.1748-1716.2010.02127.x
+REFERENCE   PMID:25638487
+  AUTHORS   Quillon A, Fromy B, Debret R
+  TITLE     Endothelium microenvironment sensing leading to nitric oxide mediated vasodilation: a review of nervous and biomechanical signals.
+  JOURNAL   Nitric Oxide 45:20-6 (2015)
+            DOI:10.1016/j.niox.2015.01.006
+REFERENCE   PMID:15388638
+  AUTHORS   Sorescu GP, Song H, Tressel SL, Hwang J, Dikalov S, Smith DA, Boyd NL, Platt MO, Lassegue B, Griendling KK, Jo H
+  TITLE     Bone morphogenic protein 4 produced in endothelial cells by oscillatory shear stress induces monocyte adhesion by stimulating reactive oxygen species production from a nox1-based NADPH oxidase.
+  JOURNAL   Circ Res 95:773-9 (2004)
+            DOI:10.1161/01.RES.0000145728.22878.45
+REFERENCE   PMID:23899566
+  AUTHORS   Hopkins PN
+  TITLE     Molecular biology of atherosclerosis.
+  JOURNAL   Physiol Rev 93:1317-542 (2013)
+            DOI:10.1152/physrev.00004.2012
+REFERENCE   PMID:22003002
+  AUTHORS   Johnson BD, Mather KJ, Wallace JP
+  TITLE     Mechanotransduction of shear in the endothelium: basic studies and clinical implications.
+  JOURNAL   Vasc Med 16:365-77 (2011)
+            DOI:10.1177/1358863X11422109
+REFERENCE   PMID:23555159
+  AUTHORS   Hu LS, George J, Wang JH
+  TITLE     Current concepts on the role of nitric oxide in portal hypertension.
+  JOURNAL   World J Gastroenterol 19:1707-17 (2013)
+            DOI:10.3748/wjg.v19.i11.1707
+REFERENCE   PMID:23084990
+  AUTHORS   Collins C, Guilluy C, Welch C, O'Brien ET, Hahn K, Superfine R, Burridge K, Tzima E
+  TITLE     Localized tensional forces on PECAM-1 elicit a global mechanotransduction response via the integrin-RhoA pathway.
+  JOURNAL   Curr Biol 22:2087-94 (2012)
+            DOI:10.1016/j.cub.2012.08.051
+REFERENCE   PMID:24190880
+  AUTHORS   Conway DE, Schwartz MA
+  TITLE     Flow-dependent cellular mechanotransduction in atherosclerosis.
+  JOURNAL   J Cell Sci 126:5101-9 (2013)
+            DOI:10.1242/jcs.138313
+REFERENCE   PMID:26212910
+  AUTHORS   Chen J, Green J, Yurdagul A Jr, Albert P, McInnis MC, Orr AW
+  TITLE     alphavbeta3 Integrins Mediate Flow-Induced NF-kappaB Activation, Proinflammatory Gene Expression, and Early Atherogenic Inflammation.
+  JOURNAL   Am J Pathol 185:2575-89 (2015)
+            DOI:10.1016/j.ajpath.2015.05.013
+REFERENCE   PMID:20538799
+  AUTHORS   Nigro P, Abe J, Woo CH, Satoh K, McClain C, O'Dell MR, Lee H, Lim JH, Li JD, Heo KS, Fujiwara K, Berk BC
+  TITLE     PKCzeta decreases eNOS protein stability via inhibitory phosphorylation of ERK5.
+  JOURNAL   Blood 116:1971-9 (2010)
+            DOI:10.1182/blood-2010-02-269134
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04210  Apoptosis
+            hsa04270  Vascular smooth muscle contraction
+            hsa04510  Focal adhesion
+            hsa04514  Cell adhesion molecules
+            hsa04670  Leukocyte transendothelial migration
+KO_PATHWAY  ko05418
+///

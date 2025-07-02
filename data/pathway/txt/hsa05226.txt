@@ -1,0 +1,310 @@
+ENTRY       hsa05226                    Pathway
+NAME        Gastric cancer - Homo sapiens (human)
+DESCRIPTION Gastric cancer (GC) is one of the world's most common cancers. According to Lauren's histological classification gastric cancer is divided into two distinct histological groups - the intestinal and diffuse types. Several genetic changes have been identified in intestinal-type GC. The intestinal metaplasia is characterized by mutations in p53 gene, reduced expression of retinoic acid receptor beta (RAR-beta) and hTERT expression. Gastric adenomas furthermore display mutations in the APC gene, reduced p27 expression and cyclin E amplification. In addition, amplification and overexpression of c-ErbB2, reduced TGF-beta receptor type I (TGFBRI) expression and complete loss of p27 expression are commonly observed in more advanced GC. The main molecular changes observed in diffuse-type GCs include loss of E-cadherin function by mutations in CDH1 and amplification of MET and FGFR2F.
+CLASS       Human Diseases; Cancer: specific types
+PATHWAY_MAP hsa05226  Gastric cancer
+NETWORK     nt06210  ERK signaling
+            nt06214  PI3K signaling
+            nt06215  WNT signaling
+            nt06218  TGFB signaling
+            nt06230  Cell cycle
+            nt06232  Telomerase activity
+            nt06240  Transcription
+            nt06260  Colorectal cancer
+            nt06261  Gastric cancer
+            nt06262  Pancreatic cancer
+            nt06263  Hepatocellular carcinoma
+            nt06265  Bladder cancer
+            nt06266  Non-small cell lung cancer
+            nt06267  Small cell lung cancer
+            nt06268  Melanoma
+            nt06269  Basal cell carcinoma
+            nt06270  Breast cancer
+            nt06271  Endometrial cancer
+            nt06273  Glioma
+            nt06274  Thyroid cancer
+            nt06275  Acute myeloid leukemia
+            nt06276  Chronic myeloid leukemia
+  ELEMENT   N00012  Mutation-activated KRAS/NRAS to ERK signaling pathway
+            N00020  Amplified FGFR to RAS-ERK signaling pathway
+            N00038  Amplified FGFR to PI3K signaling pathway
+            N00057  Mutation-inactivated APC to Wnt signaling pathway
+            N00115  Mutation-inactivated TP53 to transcription
+            N00240  TERT-overexpression to telomerase activity
+            N00250  CDX2-overexpression to transcriptional activation
+            N00251  CDX2-overexpression to transcriptional repression
+            N00252  Amplified ERBB2 to RAS-ERK signaling pathway
+            N00253  Amplified ERBB2 to PI3K signaling pathway
+            N00254  CDKN1B-reduced expression to p27-cell cycle G1/S
+            N00255  Amplified CCNE to cell cycle G1/S
+            N00256  TGFBR1-reduced expression to TGF-beta signaling pathway
+            N00257  Loss of CDH1 to beta-catenin signaling pathway
+            N00258  Mutation-inactivated CDH1 to beta-catenin signaling pathway
+            N00259  Amplified MET to RAS-ERK signaling pathway
+            N00260  Amplified MET to PI3K signaling pathway
+DISEASE     H00018  Gastric cancer
+DRUG        D03257  Trastuzumab (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1045  CDX2; caudal type homeobox 2 [KO:K22234]
+            4583  MUC2; mucin 2, oligomeric mucus/gel-forming [KO:K10955]
+            1015  CDH17; cadherin 17 [KO:K06811]
+            83998  REG4; regenerating family member 4 [KO:K22244]
+            5243  ABCB1; ATP binding cassette subfamily B member 1 [KO:K05658] [EC:7.6.2.2]
+            6469  SHH; sonic hedgehog signaling molecule [KO:K11988]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+            5915  RARB; retinoic acid receptor beta [KO:K08528]
+            6256  RXRA; retinoid X receptor alpha [KO:K08524]
+            6257  RXRB; retinoid X receptor beta [KO:K08525]
+            6258  RXRG; retinoid X receptor gamma [KO:K08526]
+            7471  WNT1; Wnt family member 1 [KO:K03209]
+            7472  WNT2; Wnt family member 2 [KO:K00182]
+            7482  WNT2B; Wnt family member 2B [KO:K00182]
+            7473  WNT3; Wnt family member 3 [KO:K00312]
+            89780  WNT3A; Wnt family member 3A [KO:K00312]
+            54361  WNT4; Wnt family member 4 [KO:K00408]
+            7474  WNT5A; Wnt family member 5A [KO:K00444]
+            81029  WNT5B; Wnt family member 5B [KO:K00444]
+            7475  WNT6; Wnt family member 6 [KO:K00445]
+            7476  WNT7A; Wnt family member 7A [KO:K00572]
+            7477  WNT7B; Wnt family member 7B [KO:K00572]
+            7478  WNT8A; Wnt family member 8A [KO:K00714]
+            7479  WNT8B; Wnt family member 8B [KO:K00714]
+            7483  WNT9A; Wnt family member 9A [KO:K01064]
+            7484  WNT9B; Wnt family member 9B [KO:K01064]
+            7480  WNT10B; Wnt family member 10B [KO:K01357]
+            80326  WNT10A; Wnt family member 10A [KO:K01357]
+            7481  WNT11; Wnt family member 11 [KO:K01384]
+            51384  WNT16; Wnt family member 16 [KO:K01558]
+            8321  FZD1; frizzled class receptor 1 [KO:K02432]
+            8324  FZD7; frizzled class receptor 7 [KO:K02432]
+            2535  FZD2; frizzled class receptor 2 [KO:K02235]
+            7976  FZD3; frizzled class receptor 3 [KO:K02329]
+            8322  FZD4; frizzled class receptor 4 [KO:K02354]
+            7855  FZD5; frizzled class receptor 5 [KO:K02375]
+            8325  FZD8; frizzled class receptor 8 [KO:K02375]
+            8323  FZD6; frizzled class receptor 6 [KO:K02376]
+            11211  FZD10; frizzled class receptor 10 [KO:K02842]
+            8326  FZD9; frizzled class receptor 9 [KO:K02842]
+            4041  LRP5; LDL receptor related protein 5 [KO:K03068]
+            4040  LRP6; LDL receptor related protein 6 [KO:K03068]
+            1857  DVL3; dishevelled segment polarity protein 3 [KO:K02353]
+            1856  DVL2; dishevelled segment polarity protein 2 [KO:K02353]
+            1855  DVL1; dishevelled segment polarity protein 1 [KO:K02353]
+            10023  FRAT1; FRAT regulator of WNT signaling pathway 1 [KO:K03069]
+            23401  FRAT2; FRAT regulator of WNT signaling pathway 2 [KO:K03096]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            8312  AXIN1; axin 1 [KO:K02157]
+            8313  AXIN2; axin 2 [KO:K04385]
+            324  APC; APC regulator of WNT signaling pathway [KO:K02085]
+            10297  APC2; APC regulator of WNT signaling pathway 2 [KO:K02085]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            122011  CSNK1A1L; casein kinase 1 alpha 1 like [KO:K08957] [EC:2.7.11.1]
+            1452  CSNK1A1; casein kinase 1 alpha 1 [KO:K08957] [EC:2.7.11.1]
+            6932  TCF7; transcription factor 7 [KO:K02620]
+            83439  TCF7L1; transcription factor 7 like 1 [KO:K04490]
+            6934  TCF7L2; transcription factor 7 like 2 [KO:K04491]
+            51176  LEF1; lymphoid enhancer binding factor 1 [KO:K04492]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            595  CCND1; cyclin D1 [KO:K04503]
+            7015  TERT; telomerase reverse transcriptase [KO:K11126] [EC:2.7.7.49]
+            7012  TERC; telomerase RNA component [KO:K22183]
+            1950  EGF; epidermal growth factor [KO:K04357]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            2064  ERBB2; erb-b2 receptor tyrosine kinase 2 [KO:K05083] [EC:2.7.10.1]
+            6464  SHC1; SHC adaptor protein 1 [KO:K06279]
+            25759  SHC2; SHC adaptor protein 2 [KO:K17447]
+            53358  SHC3; SHC adaptor protein 3 [KO:K17448]
+            399694  SHC4; SHC adaptor protein 4 [KO:K17449]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            4292  MLH1; mutL homolog 1 [KO:K08734]
+            1027  CDKN1B; cyclin dependent kinase inhibitor 1B [KO:K06624]
+            1017  CDK2; cyclin dependent kinase 2 [KO:K02206] [EC:2.7.11.22]
+            898  CCNE1; cyclin E1 [KO:K06626]
+            9134  CCNE2; cyclin E2 [KO:K06626]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            7046  TGFBR1; transforming growth factor beta receptor 1 [KO:K04674] [EC:2.7.11.30]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            4087  SMAD2; SMAD family member 2 [KO:K04500]
+            4088  SMAD3; SMAD family member 3 [KO:K23605]
+            4089  SMAD4; SMAD family member 4 [KO:K04501]
+            1030  CDKN2B; cyclin dependent kinase inhibitor 2B [KO:K04685]
+            999  CDH1; cadherin 1 [KO:K05689]
+            29119  CTNNA3; catenin alpha 3 [KO:K05691]
+            1495  CTNNA1; catenin alpha 1 [KO:K05691]
+            1496  CTNNA2; catenin alpha 2 [KO:K05691]
+            3728  JUP; junction plakoglobin [KO:K10056]
+            3082  HGF; hepatocyte growth factor [KO:K05460]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            2246  FGF1; fibroblast growth factor 1 [KO:K18496]
+            2247  FGF2; fibroblast growth factor 2 [KO:K18497]
+            2248  FGF3; fibroblast growth factor 3 [KO:K04358]
+            2249  FGF4; fibroblast growth factor 4 [KO:K04358]
+            8822  FGF17; fibroblast growth factor 17 [KO:K04358]
+            2251  FGF6; fibroblast growth factor 6 [KO:K04358]
+            2252  FGF7; fibroblast growth factor 7 [KO:K04358]
+            2253  FGF8; fibroblast growth factor 8 [KO:K04358]
+            2254  FGF9; fibroblast growth factor 9 [KO:K04358]
+            2255  FGF10; fibroblast growth factor 10 [KO:K04358]
+            8823  FGF16; fibroblast growth factor 16 [KO:K04358]
+            2250  FGF5; fibroblast growth factor 5 [KO:K04358]
+            8817  FGF18; fibroblast growth factor 18 [KO:K04358]
+            26281  FGF20; fibroblast growth factor 20 [KO:K04358]
+            27006  FGF22; fibroblast growth factor 22 [KO:K04358]
+            9965  FGF19; fibroblast growth factor 19 [KO:K22603]
+            26291  FGF21; fibroblast growth factor 21 [KO:K22429]
+            8074  FGF23; fibroblast growth factor 23 [KO:K22428]
+            2263  FGFR2; fibroblast growth factor receptor 2 [KO:K05093] [EC:2.7.10.1]
+            2549  GAB1; GRB2 associated binding protein 1 [KO:K09593]
+COMPOUND    C00039  DNA
+            C00777  Retinoate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C15493  9-cis-Retinoic acid
+REFERENCE   PMID:26073375
+  AUTHORS   Tan P, Yeoh KG
+  TITLE     Genetics and Molecular Pathogenesis of Gastric Adenocarcinoma.
+  JOURNAL   Gastroenterology 149:1153-1162.e3 (2015)
+            DOI:10.1053/j.gastro.2015.05.059
+REFERENCE   PMID:26267324
+  AUTHORS   Riquelme I, Saavedra K, Espinoza JA, Weber H, Garcia P, Nervi B, Garrido M, Corvalan AH, Roa JC, Bizama C
+  TITLE     Molecular classification of gastric cancer: Towards a pathway-driven targeted therapy.
+  JOURNAL   Oncotarget 6:24750-79 (2015)
+            DOI:10.18632/oncotarget.4990
+REFERENCE   PMID:16154715
+  AUTHORS   Stock M, Otto F
+  TITLE     Gene deregulation in gastric cancer.
+  JOURNAL   Gene 360:1-19 (2005)
+            DOI:10.1016/j.gene.2005.06.026
+REFERENCE   PMID:18381231
+  AUTHORS   Panani AD
+  TITLE     Cytogenetic and molecular aspects of gastric cancer: clinical implications.
+  JOURNAL   Cancer Lett 266:99-115 (2008)
+            DOI:10.1016/j.canlet.2008.02.053
+REFERENCE   PMID:16997151
+  AUTHORS   Vauhkonen M, Vauhkonen H, Sipponen P
+  TITLE     Pathology and molecular biology of gastric cancer.
+  JOURNAL   Best Pract Res Clin Gastroenterol 20:651-74 (2006)
+            DOI:10.1016/j.bpg.2006.03.016
+REFERENCE   PMID:16718776
+  AUTHORS   Smith MG, Hold GL, Tahara E, El-Omar EM.
+  TITLE     Cellular and molecular aspects of gastric cancer.
+  JOURNAL   World J Gastroenterol 12:2979-90 (2006)
+            DOI:10.3748/wjg.v12.i19.2979
+REFERENCE   PMID:15224192
+  AUTHORS   Zheng L, Wang L, Ajani J, Xie K.
+  TITLE     Molecular basis of gastric cancer development and progression.
+  JOURNAL   Gastric Cancer 7:61-77 (2004)
+            DOI:10.1007/s10120-004-0277-4
+REFERENCE   PMID:12894247
+  AUTHORS   Yuasa Y
+  TITLE     Control of gut differentiation and intestinal-type gastric carcinogenesis.
+  JOURNAL   Nat Rev Cancer 3:592-600 (2003)
+            DOI:10.1038/nrc1141
+REFERENCE   PMID:28427431
+  AUTHORS   Wessler S, Krisch LM, Elmer DP, Aberger F
+  TITLE     From inflammation to gastric cancer - the importance of Hedgehog/GLI signaling in Helicobacter pylori-induced chronic inflammatory and neoplastic diseases.
+  JOURNAL   Cell Commun Signal 15:15 (2017)
+            DOI:10.1186/s12964-017-0171-4
+REFERENCE   PMID:24744585
+  AUTHORS   Yan LH, Wei WY, Xie YB, Xiao Q
+  TITLE     New insights into the functions and localization of the homeotic gene CDX2 in gastric cancer.
+  JOURNAL   World J Gastroenterol 20:3960-6 (2014)
+            DOI:10.3748/wjg.v20.i14.3960
+REFERENCE   PMID:11683489
+  AUTHORS   Hayashi K, Yokozaki H, Goodison S, Oue N, Suzuki T, Lotan R, Yasui W, Tahara E
+  TITLE     Inactivation of retinoic acid receptor beta by promoter CpG hypermethylation in gastric cancer.
+  JOURNAL   Differentiation 68:13-21 (2001)
+            DOI:10.1046/j.1432-0436.2001.068001013.x
+REFERENCE   PMID:26857262
+  AUTHORS   Li X, Wu WK, Xing R, Wong SH, Liu Y, Fang X, Zhang Y, Wang M, Wang J, Li L, Zhou Y, Tang S, Peng S, Qiu K, Chen L, Chen K, Yang H, Zhang W, Chan MT, Lu Y, Sung JJ, Yu J
+  TITLE     Distinct Subtypes of Gastric Cancer Defined by Molecular Characterization Include Novel Mutational Signatures with Prognostic Capability.
+  JOURNAL   Cancer Res 76:1724-32 (2016)
+            DOI:10.1158/0008-5472.CAN-15-2443
+REFERENCE   PMID:24061039
+  AUTHORS   Wadhwa R, Song S, Lee JS, Yao Y, Wei Q, Ajani JA
+  TITLE     Gastric cancer-molecular and clinical dimensions.
+  JOURNAL   Nat Rev Clin Oncol 10:643-55 (2013)
+            DOI:10.1038/nrclinonc.2013.170
+REFERENCE   PMID:26071484
+  AUTHORS   Bertotti A, Sassi F
+  TITLE     Molecular Pathways: Sensitivity and Resistance to Anti-EGFR Antibodies.
+  JOURNAL   Clin Cancer Res 21:3377-83 (2015)
+            DOI:10.1158/1078-0432.CCR-14-0848
+REFERENCE   PMID:22042966
+  AUTHORS   Appleman LJ
+  TITLE     MET signaling pathway: a rational target for cancer therapy.
+  JOURNAL   J Clin Oncol 29:4837-8 (2011)
+            DOI:10.1200/JCO.2011.37.7929
+REFERENCE   PMID:19318488
+  AUTHORS   Eder JP, Vande Woude GF, Boerner SA, LoRusso PM
+  TITLE     Novel therapeutic inhibitors of the c-Met signaling pathway in cancer.
+  JOURNAL   Clin Cancer Res 15:2207-14 (2009)
+            DOI:10.1158/1078-0432.CCR-08-1306
+REFERENCE   PMID:22586678
+  AUTHORS   Feng Y, Ma PC
+  TITLE     Anti-MET targeted therapy has come of age: the first durable complete response with MetMAb in metastatic gastric cancer.
+  JOURNAL   Cancer Discov 1:550-4 (2011)
+            DOI:10.1158/2159-8290.CD-11-0289
+REFERENCE   PMID:23696246
+  AUTHORS   Katoh M, Nakagama H
+  TITLE     FGF receptors: cancer biology and therapeutics.
+  JOURNAL   Med Res Rev 34:280-300 (2014)
+            DOI:10.1002/med.21288
+REFERENCE   PMID:19387476
+  AUTHORS   Katoh M
+  TITLE     FGFR2 abnormalities underlie a spectrum of bone, skin, and cancer pathologies.
+  JOURNAL   J Invest Dermatol 129:1861-7 (2009)
+            DOI:10.1038/jid.2009.97
+REFERENCE   PMID:20836672
+  AUTHORS   Katoh M
+  TITLE     Genetic alterations of FGF receptors: an emerging field in clinical cancer diagnostics and therapeutics.
+  JOURNAL   Expert Rev Anticancer Ther 10:1375-9 (2010)
+            DOI:10.1586/era.10.128
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04350  TGF-beta signaling pathway
+            hsa04520  Adherens junction
+            hsa05120  Epithelial cell signaling in Helicobacter pylori infection
+KO_PATHWAY  ko05226
+///

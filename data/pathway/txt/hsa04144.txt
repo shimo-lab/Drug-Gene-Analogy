@@ -1,0 +1,339 @@
+ENTRY       hsa04144                    Pathway
+NAME        Endocytosis - Homo sapiens (human)
+DESCRIPTION Endocytosis is a mechanism for cells to remove ligands, nutrients, and plasma membrane (PM) proteins, and lipids from the cell surface, bringing them into the cell interior. Transmembrane proteins entering through clathrin-dependent endocytosis (CDE) have sequences in their cytoplasmic domains that bind to the APs (adaptor-related protein complexes) and enable their rapid removal from the PM. In addition to APs and clathrin, there are numerous accessory proteins including dynamin. Depending on the various proteins that enter the endosome membrane, these cargoes are sorted to distinct destinations. Some cargoes, such as nutrient receptors, are recycled back to the PM. Ubiquitylated membrane proteins, such as activated growth-factor receptors, are sorted into intraluminal vesicles and eventually end up in the lysosome lumen via multivesicular endosomes (MVEs). There are distinct mechanisms of clathrin-independent endocytosis (CIE) depending upon the cargo and the cell type.
+CLASS       Cellular Processes; Transport and catabolism
+PATHWAY_MAP hsa04144  Endocytosis
+DRUG        D03058  Basiliximab (USAN/INN)
+            D03210  Ancriviroc (USAN/INN)
+            D03639  Daclizumab (USAN/INN)
+            D03682  Denileukin diftitox (USAN/INN)
+            D06297  Vicriviroc maleate (USAN)
+            D06557  Aplaviroc hydrochloride (USAN)
+            D06670  Maraviroc (JAN/INN)
+            D09878  Cenicriviroc (USAN/INN)
+            D09879  Cenicriviroc mesylate (USAN)
+            D10434  Vintafolide (USAN/INN)
+            D10954  Mirvetuximab soravtansine (USAN/INN)
+            D11399  Leronlimab (USAN/INN)
+            D11812  Pabinafusp alfa (genetical recombination) (JAN)
+            D12183  Farletuzumab ecteribulin (USAN)
+            D12249  Pafolacianine (USAN)
+            D12250  Pafolacianine sodium (USAN)
+            D12509  Trontinemab (USAN/INN)
+            D12556  Eltrekibart (USAN)
+DBLINKS     GO: 0006897
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        382  ARF6; ADP ribosylation factor 6 [KO:K07941]
+            23396  PIP5K1C; phosphatidylinositol-4-phosphate 5-kinase type 1 gamma [KO:K00889] [EC:2.7.1.68]
+            8394  PIP5K1A; phosphatidylinositol-4-phosphate 5-kinase type 1 alpha [KO:K00889] [EC:2.7.1.68]
+            8395  PIP5K1B; phosphatidylinositol-4-phosphate 5-kinase type 1 beta [KO:K00889] [EC:2.7.1.68]
+            138429  PIP5KL1; phosphatidylinositol-4-phosphate 5-kinase like 1 [KO:K13712] [EC:2.7.1.68]
+            5337  PLD1; phospholipase D1 [KO:K01115] [EC:3.1.4.4]
+            5338  PLD2; phospholipase D2 [KO:K01115] [EC:3.1.4.4]
+            1759  DNM1; dynamin 1 [KO:K01528] [EC:3.6.5.5]
+            26052  DNM3; dynamin 3 [KO:K01528] [EC:3.6.5.5]
+            1785  DNM2; dynamin 2 [KO:K23484] [EC:3.6.5.5]
+            1211  CLTA; clathrin light chain A [KO:K04644]
+            1212  CLTB; clathrin light chain B [KO:K04645]
+            1213  CLTC; clathrin heavy chain [KO:K04646]
+            8218  CLTCL1; clathrin heavy chain like 1 [KO:K04646]
+            161  AP2A2; adaptor related protein complex 2 subunit alpha 2 [KO:K11824]
+            160  AP2A1; adaptor related protein complex 2 subunit alpha 1 [KO:K11824]
+            163  AP2B1; adaptor related protein complex 2 subunit beta 1 [KO:K11825]
+            1173  AP2M1; adaptor related protein complex 2 subunit mu 1 [KO:K11826]
+            1175  AP2S1; adaptor related protein complex 2 subunit sigma 1 [KO:K11827]
+            30846  EHD2; EH domain containing 2 [KO:K12469]
+            7046  TGFBR1; transforming growth factor beta receptor 1 [KO:K04674] [EC:2.7.11.30]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            9372  ZFYVE9; zinc finger FYVE-type containing 9 [KO:K04679]
+            9765  ZFYVE16; zinc finger FYVE-type containing 16 [KO:K04679]
+            5371  PML; PML nuclear body scaffold [KO:K10054] [EC:2.3.2.-]
+            4087  SMAD2; SMAD family member 2 [KO:K04500]
+            4088  SMAD3; SMAD family member 3 [KO:K23605]
+            7037  TFRC; transferrin receptor [KO:K06503]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            5156  PDGFRA; platelet derived growth factor receptor alpha [KO:K04363] [EC:2.7.10.1]
+            2263  FGFR2; fibroblast growth factor receptor 2 [KO:K05093] [EC:2.7.10.1]
+            2261  FGFR3; fibroblast growth factor receptor 3 [KO:K05094] [EC:2.7.10.1]
+            2264  FGFR4; fibroblast growth factor receptor 4 [KO:K05095] [EC:2.7.10.1]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            867  CBL; Cbl proto-oncogene [KO:K04707] [EC:2.3.2.27]
+            868  CBLB; Cbl proto-oncogene B [KO:K22517] [EC:2.3.2.27]
+            23624  CBLC; Cbl proto-oncogene C [KO:K22518] [EC:2.3.2.27]
+            30011  SH3KBP1; SH3 domain containing kinase binding protein 1 [KO:K12470]
+            6457  SH3GL3; SH3 domain containing GRB2 like 3, endophilin A3 [KO:K11247]
+            6456  SH3GL2; SH3 domain containing GRB2 like 2, endophilin A1 [KO:K11247]
+            6455  SH3GL1; SH3 domain containing GRB2 like 1, endophilin A2 [KO:K11247]
+            51100  SH3GLB1; SH3 domain containing GRB2 like, endophilin B1 [KO:K11248]
+            56904  SH3GLB2; SH3 domain containing GRB2 like, endophilin B2 [KO:K21269]
+            273  AMPH; amphiphysin [KO:K12562]
+            274  BIN1; bridging integrator 1 [KO:K12562]
+            29924  EPN1; epsin 1 [KO:K12471]
+            55040  EPN3; epsin 3 [KO:K12471]
+            22905  EPN2; epsin 2 [KO:K12471]
+            2060  EPS15; epidermal growth factor receptor pathway substrate 15 [KO:K12472]
+            58513  EPS15L1; epidermal growth factor receptor pathway substrate 15 like 1 [KO:K12472]
+            23111  SPART; spartin [KO:K19366]
+            4734  NEDD4; NEDD4 E3 ubiquitin protein ligase [KO:K10591] [EC:2.3.2.26]
+            23327  NEDD4L; NEDD4 like E3 ubiquitin protein ligase [KO:K13305] [EC:2.3.2.26]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            10193  RNF41; ring finger protein 41 [KO:K11981] [EC:2.3.2.27]
+            83737  ITCH; itchy E3 ubiquitin protein ligase [KO:K05632] [EC:2.3.2.26]
+            57154  SMURF1; SMAD specific E3 ubiquitin protein ligase 1 [KO:K04678] [EC:2.3.2.26]
+            64750  SMURF2; SMAD specific E3 ubiquitin protein ligase 2 [KO:K04678] [EC:2.3.2.26]
+            11059  WWP1; WW domain containing E3 ubiquitin protein ligase 1 [KO:K05633] [EC:2.3.2.26]
+            3949  LDLR; low density lipoprotein receptor [KO:K12473]
+            26119  LDLRAP1; low density lipoprotein receptor adaptor protein 1 [KO:K12474]
+            1601  DAB2; DAB adaptor protein 2 [KO:K12475]
+            1234  CCR5; C-C motif chemokine receptor 5 [KO:K04180]
+            3577  CXCR1; C-X-C motif chemokine receptor 1 [KO:K04175]
+            3579  CXCR2; C-X-C motif chemokine receptor 2 [KO:K05050]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            131890  GRK7; G protein-coupled receptor kinase 7 [KO:K00909] [EC:2.7.11.14]
+            6011  GRK1; G protein-coupled receptor kinase 1 [KO:K00909] [EC:2.7.11.14]
+            156  GRK2; G protein-coupled receptor kinase 2 [KO:K00910] [EC:2.7.11.15]
+            157  GRK3; G protein-coupled receptor kinase 3 [KO:K00910] [EC:2.7.11.15]
+            2868  GRK4; G protein-coupled receptor kinase 4 [KO:K08291] [EC:2.7.11.16]
+            2869  GRK5; G protein-coupled receptor kinase 5 [KO:K08291] [EC:2.7.11.16]
+            2870  GRK6; G protein-coupled receptor kinase 6 [KO:K08291] [EC:2.7.11.16]
+            408  ARRB1; arrestin beta 1 [KO:K04439]
+            409  ARRB2; arrestin beta 2 [KO:K04439]
+            8976  WASL; WASP like actin nucleation promoting factor [KO:K23612]
+            10097  ACTR2; actin related protein 2 [KO:K17260]
+            57180  ACTR3B; actin related protein 3B [KO:K18584]
+            653857  ACTR3C; actin related protein 3C [KO:K18584]
+            10096  ACTR3; actin related protein 3 [KO:K18584]
+            10095  ARPC1B; actin related protein 2/3 complex subunit 1B [KO:K05757]
+            10552  ARPC1A; actin related protein 2/3 complex subunit 1A [KO:K05757]
+            10109  ARPC2; actin related protein 2/3 complex subunit 2 [KO:K05758]
+            10094  ARPC3; actin related protein 2/3 complex subunit 3 [KO:K05756]
+            10093  ARPC4; actin related protein 2/3 complex subunit 4 [KO:K05755]
+            10092  ARPC5; actin related protein 2/3 complex subunit 5 [KO:K05754]
+            81873  ARPC5L; actin related protein 2/3 complex subunit 5 like [KO:K05754]
+            147179  WIPF2; WAS/WASL interacting protein family member 2 [KO:K19475]
+            7456  WIPF1; WAS/WASL interacting protein family member 1 [KO:K19475]
+            644150  WIPF3; WAS/WASL interacting protein family member 3 [KO:K19475]
+            3312  HSPA8; heat shock protein family A (Hsp70) member 8 [KO:K03283]
+            3303  HSPA1A; heat shock protein family A (Hsp70) member 1A [KO:K03283]
+            3306  HSPA2; heat shock protein family A (Hsp70) member 2 [KO:K03283]
+            3305  HSPA1L; heat shock protein family A (Hsp70) member 1 like [KO:K03283]
+            3304  HSPA1B; heat shock protein family A (Hsp70) member 1B [KO:K03283]
+            3310  HSPA6; heat shock protein family A (Hsp70) member 6 [KO:K03283]
+            9829  DNAJC6; DnaJ heat shock protein family (Hsp40) member C6 [KO:K09526]
+            23325  WASHC4; WASH complex subunit 4 [KO:K18465]
+            9897  WASHC5; WASH complex subunit 5 [KO:K18464]
+            253725  WASHC2C; WASH complex subunit 2C [KO:K18462]
+            387680  WASHC2A; WASH complex subunit 2A [KO:K18462]
+            100287171  WASHC1; WASH complex subunit 1 [KO:K18461]
+            51019  WASHC3; WASH complex subunit 3 [KO:K18463]
+            829  CAPZA1; capping actin protein of muscle Z-line subunit alpha 1 [KO:K10364]
+            830  CAPZA2; capping actin protein of muscle Z-line subunit alpha 2 [KO:K10364]
+            93661  CAPZA3; capping actin protein of muscle Z-line subunit alpha 3 [KO:K10364]
+            832  CAPZB; capping actin protein of muscle Z-line subunit beta [KO:K10365]
+            51699  VPS29; VPS29 retromer complex component [KO:K18467]
+            112936  VPS26B; VPS26 retromer complex component B [KO:K18466]
+            9559  VPS26A; VPS26 retromer complex component A [KO:K18466]
+            55737  VPS35; VPS35 retromer complex component [KO:K18468]
+            29934  SNX12; sorting nexin 12 [KO:K17918]
+            8724  SNX3; sorting nexin 3 [KO:K17918]
+            9101  USP8; ubiquitin specific peptidase 8 [KO:K11839] [EC:3.4.19.12]
+            10617  STAMBP; STAM binding protein [KO:K11866] [EC:3.4.19.12]
+            7879  RAB7A; RAB7A, member RAS oncogene family [KO:K07897]
+            9146  HGS; hepatocyte growth factor-regulated tyrosine kinase substrate [KO:K12182]
+            10254  STAM2; signal transducing adaptor molecule 2 [KO:K04705]
+            8027  STAM; signal transducing adaptor molecule [KO:K04705]
+            7251  TSG101; tumor susceptibility 101 [KO:K12183]
+            93343  MVB12A; multivesicular body subunit 12A [KO:K12186]
+            89853  MVB12B; multivesicular body subunit 12B [KO:K12186]
+            51160  VPS28; VPS28 subunit of ESCRT-I [KO:K12184]
+            155382  VPS37D; VPS37D subunit of ESCRT-I [KO:K12185]
+            137492  VPS37A; VPS37A subunit of ESCRT-I [KO:K12185]
+            79720  VPS37B; VPS37B subunit of ESCRT-I [KO:K12185]
+            55048  VPS37C; VPS37C subunit of ESCRT-I [KO:K12185]
+            11267  SNF8; SNF8 subunit of ESCRT-II [KO:K12188]
+            51028  VPS36; vacuolar protein sorting 36 homolog [KO:K12190]
+            84313  VPS25; vacuolar protein sorting 25 homolog [KO:K12189]
+            79643  CHMP6; charged multivesicular body protein 6 [KO:K12195]
+            128866  CHMP4B; charged multivesicular body protein 4B [KO:K12194]
+            29082  CHMP4A; charged multivesicular body protein 4A [KO:K12194]
+            92421  CHMP4C; charged multivesicular body protein 4C [KO:K24782]
+            51652  CHMP3; charged multivesicular body protein 3 [KO:K12193]
+            100526767  RNF103-CHMP3; RNF103-CHMP3 readthrough [KO:K12193]
+            27243  CHMP2A; charged multivesicular body protein 2A [KO:K12191]
+            25978  CHMP2B; charged multivesicular body protein 2B [KO:K12192]
+            91782  CHMP7; charged multivesicular body protein 7 [KO:K15053]
+            9525  VPS4B; vacuolar protein sorting 4 homolog B [KO:K12196]
+            27183  VPS4A; vacuolar protein sorting 4 homolog A [KO:K12196]
+            51534  VTA1; vesicle trafficking 1 [KO:K12199]
+            57132  CHMP1B; charged multivesicular body protein 1B [KO:K12197]
+            5119  CHMP1A; charged multivesicular body protein 1A [KO:K12197]
+            51510  CHMP5; charged multivesicular body protein 5 [KO:K12198]
+            9798  IST1; IST1 factor associated with ESCRT-III [KO:K19476]
+            10015  PDCD6IP; programmed cell death 6 interacting protein [KO:K12200]
+            51324  SPG21; SPG21 abhydrolase domain containing, maspardin [KO:K19367]
+            3482  IGF2R; insulin like growth factor 2 receptor [KO:K06564]
+            6642  SNX1; sorting nexin 1 [KO:K17917]
+            6643  SNX2; sorting nexin 2 [KO:K17917]
+            254122  SNX32; sorting nexin 32 [KO:K17920]
+            27131  SNX5; sorting nexin 5 [KO:K17920]
+            58533  SNX6; sorting nexin 6 [KO:K17920]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3559  IL2RA; interleukin 2 receptor subunit alpha [KO:K05068]
+            3560  IL2RB; interleukin 2 receptor subunit beta [KO:K05069]
+            3561  IL2RG; interleukin 2 receptor subunit gamma [KO:K05070]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            2348  FOLR1; folate receptor alpha [KO:K13649]
+            2350  FOLR2; folate receptor beta [KO:K13649]
+            2352  FOLR3; folate receptor gamma [KO:K13649]
+            857  CAV1; caveolin 1 [KO:K06278]
+            858  CAV2; caveolin 2 [KO:K12958]
+            859  CAV3; caveolin 3 [KO:K12959]
+            30845  EHD3; EH domain containing 3 [KO:K12476]
+            30844  EHD4; EH domain containing 4 [KO:K12477]
+            8411  EEA1; early endosome antigen 1 [KO:K12478]
+            5868  RAB5A; RAB5A, member RAS oncogene family [KO:K07887]
+            5869  RAB5B; RAB5B, member RAS oncogene family [KO:K07888]
+            5878  RAB5C; RAB5C, member RAS oncogene family [KO:K07889]
+            9135  RABEP1; rabaptin, RAB GTPase binding effector protein 1 [KO:K12480]
+            64145  RBSN; rabenosyn, RAB effector [KO:K12481]
+            5867  RAB4A; RAB4A, member RAS oncogene family [KO:K07879]
+            80230  RUFY1; RUN and FYVE domain containing 1 [KO:K12482]
+            55680  RUFY2; RUN and FYVE domain containing 2 [KO:K12482]
+            10938  EHD1; EH domain containing 1 [KO:K12483]
+            11311  VPS45; vacuolar protein sorting 45 homolog [KO:K12479]
+            8723  SNX4; sorting nexin 4 [KO:K17919]
+            57403  RAB22A; RAB22A, member RAS oncogene family [KO:K07891]
+            11031  RAB31; RAB31, member RAS oncogene family [KO:K07891]
+            10890  RAB10; RAB10, member RAS oncogene family [KO:K07903]
+            4218  RAB8A; RAB8A, member RAS oncogene family [KO:K07901]
+            11021  RAB35; RAB35, member RAS oncogene family [KO:K07876]
+            8766  RAB11A; RAB11A, member RAS oncogene family [KO:K07904]
+            9230  RAB11B; RAB11B, member RAS oncogene family [KO:K07905]
+            22841  RAB11FIP2; RAB11 family interacting protein 2 [KO:K12484]
+            80223  RAB11FIP1; RAB11 family interacting protein 1 [KO:K12484]
+            26056  RAB11FIP5; RAB11 family interacting protein 5 [KO:K12484]
+            118813  ZFYVE27; zinc finger FYVE-type containing 27 [KO:K19368]
+            3798  KIF5A; kinesin family member 5A [KO:K10396]
+            3799  KIF5B; kinesin family member 5B [KO:K10396]
+            3800  KIF5C; kinesin family member 5C [KO:K10396]
+            84440  RAB11FIP4; RAB11 family interacting protein 4 [KO:K12485]
+            9727  RAB11FIP3; RAB11 family interacting protein 3 [KO:K12485]
+            56288  PARD3; par-3 family cell polarity regulator [KO:K04237]
+            50855  PARD6A; par-6 family cell polarity regulator alpha [KO:K06093]
+            84552  PARD6G; par-6 family cell polarity regulator gamma [KO:K06093]
+            84612  PARD6B; par-6 family cell polarity regulator beta [KO:K06093]
+            5590  PRKCZ; protein kinase C zeta [KO:K18952] [EC:2.7.11.13]
+            5584  PRKCI; protein kinase C iota [KO:K06069] [EC:2.7.11.13]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            64744  SMAP2; small ArfGAP2 [KO:K12486]
+            60682  SMAP1; small ArfGAP 1 [KO:K12486]
+            28964  GIT1; GIT ArfGAP 1 [KO:K05737]
+            9815  GIT2; GIT ArfGAP 2 [KO:K12487]
+            50807  ASAP1; ArfGAP with SH3 domain, ankyrin repeat and PH domain 1 [KO:K12488]
+            55616  ASAP3; ArfGAP with SH3 domain, ankyrin repeat and PH domain 3 [KO:K12488]
+            8853  ASAP2; ArfGAP with SH3 domain, ankyrin repeat and PH domain 2 [KO:K12488]
+            116983  ACAP3; ArfGAP with coiled-coil, ankyrin repeat and PH domains 3 [KO:K12489]
+            23527  ACAP2; ArfGAP with coiled-coil, ankyrin repeat and PH domains 2 [KO:K12489]
+            9744  ACAP1; ArfGAP with coiled-coil, ankyrin repeat and PH domains 1 [KO:K12489]
+            116985  ARAP1; ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1 [KO:K18439]
+            116984  ARAP2; ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2 [KO:K18440]
+            64411  ARAP3; ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 3 [KO:K12490]
+            116987  AGAP1; ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 [KO:K12491]
+            116988  AGAP3; ArfGAP with GTPase domain, ankyrin repeat and PH domain 3 [KO:K12491]
+            119016  AGAP4; ArfGAP with GTPase domain, ankyrin repeat and PH domain 4 [KO:K12491]
+            414189  AGAP6; ArfGAP with GTPase domain, ankyrin repeat and PH domain 6 [KO:K12491]
+            642517  AGAP9; ArfGAP with GTPase domain, ankyrin repeat and PH domain 9 [KO:K12491]
+            729092  AGAP5; ArfGAP with GTPase domain, ankyrin repeat and PH domain 5 [KO:K12491]
+            116986  AGAP2; ArfGAP with GTPase domain, ankyrin repeat and PH domain 2 [KO:K17848]
+            55738  ARFGAP1; ADP ribosylation factor GTPase activating protein 1 [KO:K12492]
+            26286  ARFGAP3; ADP ribosylation factor GTPase activating protein 3 [KO:K12493]
+            84364  ARFGAP2; ADP ribosylation factor GTPase activating protein 2 [KO:K12493]
+            23362  PSD3; pleckstrin and Sec7 domain containing 3 [KO:K12494]
+            23550  PSD4; pleckstrin and Sec7 domain containing 4 [KO:K12494]
+            5662  PSD; pleckstrin and Sec7 domain containing [KO:K12494]
+            84249  PSD2; pleckstrin and Sec7 domain containing 2 [KO:K12494]
+            23096  IQSEC2; IQ motif and Sec7 domain ArfGEF 2 [KO:K12495]
+            9922  IQSEC1; IQ motif and Sec7 domain ArfGEF 1 [KO:K12495]
+            440073  IQSEC3; IQ motif and Sec7 domain ArfGEF 3 [KO:K12495]
+            9265  CYTH3; cytohesin 3 [KO:K18441]
+            27128  CYTH4; cytohesin 4 [KO:K18441]
+            9266  CYTH2; cytohesin 2 [KO:K18441]
+            9267  CYTH1; cytohesin 1 [KO:K18441]
+            10564  ARFGEF2; ADP ribosylation factor guanine nucleotide exchange factor 2 [KO:K18442]
+            10565  ARFGEF1; ADP ribosylation factor guanine nucleotide exchange factor 1 [KO:K18442]
+            8729  GBF1; golgi brefeldin A resistant guanine nucleotide exchange factor 1 [KO:K18443]
+            375  ARF1; ADP ribosylation factor 1 [KO:K07937]
+            377  ARF3; ADP ribosylation factor 3 [KO:K07938]
+            378  ARF4; ADP ribosylation factor 4 [KO:K07939]
+            381  ARF5; ADP ribosylation factor 5 [KO:K07940]
+COMPOUND    C00035  GDP
+            C00044  GTP
+            C04549  1-Phosphatidyl-1D-myo-inositol 3-phosphate
+            C04637  1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C11556  1-Phosphatidyl-1D-myo-inositol 3,5-bisphosphate
+REFERENCE   PMID:19007773
+  AUTHORS   Acconcia F, Sigismund S, Polo S
+  TITLE     Ubiquitin in trafficking: the network at work.
+  JOURNAL   Exp Cell Res 315:1610-8 (2009)
+            DOI:10.1016/j.yexcr.2008.10.014
+REFERENCE   PMID:18647649
+  AUTHORS   Donaldson JG, Porat-Shliom N, Cohen LA
+  TITLE     Clathrin-independent endocytosis: a unique platform for cell signaling and PM remodeling.
+  JOURNAL   Cell Signal 21:1-6 (2009)
+            DOI:10.1016/j.cellsig.2008.06.020
+REFERENCE   PMID:15261671
+  AUTHORS   Sorkin A
+  TITLE     Cargo recognition during clathrin-mediated endocytosis: a team effort.
+  JOURNAL   Curr Opin Cell Biol 16:392-9 (2004)
+            DOI:10.1016/j.ceb.2004.06.001
+REFERENCE   PMID:19325624
+  AUTHORS   Raiborg C, Stenmark H
+  TITLE     The ESCRT machinery in endosomal sorting of ubiquitylated membrane proteins.
+  JOURNAL   Nature 458:445-52 (2009)
+            DOI:10.1038/nature07961
+REFERENCE   PMID:20110990
+  AUTHORS   Scita G, Di Fiore PP
+  TITLE     The endocytic matrix.
+  JOURNAL   Nature 463:464-73 (2010)
+            DOI:10.1038/nature08910
+REFERENCE   PMID:15687999
+  AUTHORS   Le Roy C, Wrana JL
+  TITLE     Clathrin- and non-clathrin-mediated endocytic regulation of cell signalling.
+  JOURNAL   Nat Rev Mol Cell Biol 6:112-26 (2005)
+            DOI:10.1038/nrm1571
+REFERENCE   PMID:19924646
+  AUTHORS   Jovic M, Sharma M, Rahajeng J, Caplan S
+  TITLE     The early endosome: a busy sorting station for proteins at the crossroads.
+  JOURNAL   Histol Histopathol 25:99-112 (2010)
+            DOI:10.14670/HH-25.99
+REFERENCE   PMID:16203612
+  AUTHORS   Pietiainen VM, Marjomaki V, Heino J, Hyypia T
+  TITLE     Viral entry, lipid rafts and caveosomes.
+  JOURNAL   Ann Med 37:394-403 (2005)
+            DOI:10.1080/07853890510011976
+REFERENCE   PMID:19696797
+  AUTHORS   Grant BD, Donaldson JG
+  TITLE     Pathways and mechanisms of endocytic recycling.
+  JOURNAL   Nat Rev Mol Cell Biol 10:597-608 (2009)
+            DOI:10.1038/nrm2755
+REFERENCE   PMID:22193161
+  AUTHORS   Cullen PJ, Korswagen HC
+  TITLE     Sorting nexins provide diversity for retromer-dependent trafficking events.
+  JOURNAL   Nat Cell Biol 14:29-37 (2012)
+            DOI:10.1038/ncb2374
+REL_PATHWAY hsa04060  Cytokine-cytokine receptor interaction
+            hsa04070  Phosphatidylinositol signaling system
+            hsa04130  SNARE interactions in vesicular transport
+            hsa04142  Lysosome
+            hsa04350  TGF-beta signaling pathway
+KO_PATHWAY  ko04144
+///

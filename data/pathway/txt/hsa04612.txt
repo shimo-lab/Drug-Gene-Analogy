@@ -1,0 +1,184 @@
+ENTRY       hsa04612                    Pathway
+NAME        Antigen processing and presentation - Homo sapiens (human)
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04612  Antigen processing and presentation
+NETWORK     nt06129  MHC presentation (viruses)
+            nt06160  Human T-cell leukemia virus 1 (HTLV-1)
+            nt06161  Human immunodeficiency virus type 1 (HIV-1)
+            nt06164  Kaposi sarcoma-associated herpesvirus (KSHV)
+            nt06165  Epstein-Barr virus (EBV)
+            nt06166  Human papillomavirus (HPV)
+            nt06167  Human cytomegalovirus (HCMV)
+            nt06168  Herpes simplex virus 1 (HSV-1)
+            nt06229  MHC presentation
+  ELEMENT   N00363  Antigen processing and presentation by MHC class I molecules
+            N00590  Antigen processing and presentation by MHC class II molecules
+DRUG        D00742  Etanercept (USAN/INN)
+            D02597  Adalimumab (USAN/INN)
+            D02598  Infliximab (USAN/INN)
+            D02967  Apolizumab (USAN/INN)
+            D03441  Certolizumab pegol (USAN/INN)
+            D04318  Glatiramer acetate (JAN/USAN)
+            D05610  Priliximab (USAN/INN)
+            D07436  Afelimomab (INN)
+            D11376  Petesicatib (USAN)
+DBLINKS     GO: 0019885 0019886 0042591
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3458  IFNG; interferon gamma [KO:K04687]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            5720  PSME1; proteasome activator subunit 1 [KO:K06696]
+            5721  PSME2; proteasome activator subunit 2 [KO:K06697]
+            10197  PSME3; proteasome activator subunit 3 [KO:K06698]
+            3312  HSPA8; heat shock protein family A (Hsp70) member 8 [KO:K03283]
+            3303  HSPA1A; heat shock protein family A (Hsp70) member 1A [KO:K03283]
+            3306  HSPA2; heat shock protein family A (Hsp70) member 2 [KO:K03283]
+            3305  HSPA1L; heat shock protein family A (Hsp70) member 1 like [KO:K03283]
+            3304  HSPA1B; heat shock protein family A (Hsp70) member 1B [KO:K03283]
+            3310  HSPA6; heat shock protein family A (Hsp70) member 6 [KO:K03283]
+            3308  HSPA4; heat shock protein family A (Hsp70) member 4 [KO:K09489]
+            3320  HSP90AA1; heat shock protein 90 alpha family class A member 1 [KO:K04079]
+            3326  HSP90AB1; heat shock protein 90 alpha family class B member 1 [KO:K04079]
+            3105  HLA-A; major histocompatibility complex, class I, A [KO:K06751]
+            3106  HLA-B; major histocompatibility complex, class I, B [KO:K06751]
+            3107  HLA-C; major histocompatibility complex, class I, C [KO:K06751]
+            3134  HLA-F; major histocompatibility complex, class I, F [KO:K06751]
+            3135  HLA-G; major histocompatibility complex, class I, G [KO:K06751]
+            3133  HLA-E; major histocompatibility complex, class I, E [KO:K06751]
+            3309  HSPA5; heat shock protein family A (Hsp70) member 5 [KO:K09490] [EC:3.6.4.10]
+            821  CANX; calnexin [KO:K08054]
+            567  B2M; beta-2-microglobulin [KO:K08055]
+            2923  PDIA3; protein disulfide isomerase family A member 3 [KO:K08056] [EC:5.3.4.1]
+            811  CALR; calreticulin [KO:K08057]
+            6892  TAPBP; TAP binding protein [KO:K08058]
+            6890  TAP1; transporter 1, ATP binding cassette subfamily B member [KO:K05653] [EC:7.4.2.14]
+            6891  TAP2; transporter 2, ATP binding cassette subfamily B member [KO:K05654] [EC:7.4.2.14]
+            925  CD8A; CD8 subunit alpha [KO:K06458]
+            926  CD8B; CD8 subunit beta [KO:K06459]
+            927  CD8B2; CD8B family member 2 [KO:K06459]
+            3812  KIR3DL2; killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2 [KO:K07980]
+            3811  KIR3DL1; killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1 [KO:K07980]
+            115653  KIR3DL3; killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 3 [KO:K07980]
+            3803  KIR2DL2; killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 2 [KO:K07981]
+            3802  KIR2DL1; killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 1 [KO:K07981]
+            3804  KIR2DL3; killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 3 [KO:K07981]
+            3805  KIR2DL4; killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 4 [KO:K24231]
+            57292  KIR2DL5A; killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 5A [KO:K24232]
+            3821  KLRC1; killer cell lectin like receptor C1 [KO:K06541]
+            3822  KLRC2; killer cell lectin like receptor C2 [KO:K24233]
+            3823  KLRC3; killer cell lectin like receptor C3 [KO:K24233]
+            8302  KLRC4; killer cell lectin like receptor C4 [KO:K24234]
+            3824  KLRD1; killer cell lectin like receptor D1 [KO:K06516]
+            3806  KIR2DS1; killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 1 [KO:K07982]
+            3808  KIR2DS3; killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 3 [KO:K07982]
+            3809  KIR2DS4; killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [KO:K07982]
+            3810  KIR2DS5; killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 5 [KO:K07982]
+            100132285  KIR2DS2; killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 2 [KO:K07982]
+            10437  IFI30; IFI30 lysosomal thiol reductase [KO:K08059]
+            5641  LGMN; legumain [KO:K01369] [EC:3.4.22.34]
+            1508  CTSB; cathepsin B [KO:K01363] [EC:3.4.22.1]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            972  CD74; CD74 molecule [KO:K06505]
+            1514  CTSL; cathepsin L [KO:K01365] [EC:3.4.22.15]
+            1520  CTSS; cathepsin S [KO:K01368] [EC:3.4.22.27]
+            920  CD4; CD4 molecule [KO:K06454]
+            4261  CIITA; class II major histocompatibility complex transactivator [KO:K08060] [EC:2.7.11.1]
+            5993  RFX5; regulatory factor X5 [KO:K08061]
+            8625  RFXANK; regulatory factor X associated ankyrin containing protein [KO:K08062]
+            5994  RFXAP; regulatory factor X associated protein [KO:K08063]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            4800  NFYA; nuclear transcription factor Y subunit alpha [KO:K08064]
+            4801  NFYB; nuclear transcription factor Y subunit beta [KO:K08065]
+            4802  NFYC; nuclear transcription factor Y subunit gamma [KO:K08066]
+REFERENCE   PMID:15771591
+  AUTHORS   Trombetta ES, Mellman I.
+  TITLE     Cell biology of antigen processing in vitro and in vivo.
+  JOURNAL   Annu Rev Immunol 23:975-1028 (2005)
+            DOI:10.1146/annurev.immunol.22.012703.104538
+REFERENCE   PMID:15814328
+  AUTHORS   Inaba K, Inaba M.
+  TITLE     Antigen recognition and presentation by dendritic cells.
+  JOURNAL   Int J Hematol 81:181-7 (2005)
+            DOI:10.1532/IJH97.04200
+REFERENCE   PMID:11905820
+  AUTHORS   Heath WR, Carbone FR.
+  TITLE     Cross-presentation in viral immunity and self-tolerance.
+  JOURNAL   Nat Rev Immunol 1:126-34 (2001)
+            DOI:10.1038/35100512
+REFERENCE   PMID:15304636
+  AUTHORS   Abele R, Tampe R.
+  TITLE     The ABCs of immunology: structure and function of TAP, the transporter associated with antigen processing.
+  JOURNAL   Physiology (Bethesda) 19:216-24 (2004)
+            DOI:10.1152/physiol.00002.2004
+REFERENCE   PMID:16200082
+  AUTHORS   Reith W, LeibundGut-Landmann S, Waldburger JM.
+  TITLE     Regulation of MHC class II gene expression by the class II transactivator.
+  JOURNAL   Nat Rev Immunol 5:793-806 (2005)
+            DOI:10.1038/nri1708
+REFERENCE   PMID:12776207
+  AUTHORS   Honey K, Rudensky AY.
+  TITLE     Lysosomal cysteine proteases regulate antigen presentation.
+  JOURNAL   Nat Rev Immunol 3:472-82 (2003)
+            DOI:10.1038/nri1110
+REFERENCE   PMID:12974477
+  AUTHORS   Sercarz EE, Maverakis E.
+  TITLE     Mhc-guided processing: binding of large antigen fragments.
+  JOURNAL   Nat Rev Immunol 3:621-9 (2003)
+            DOI:10.1038/nri1149
+REFERENCE   PMID:15224093
+  AUTHORS   Ackerman AL, Cresswell P.
+  TITLE     Cellular mechanisms governing cross-presentation of exogenous antigens.
+  JOURNAL   Nat Immunol 5:678-84 (2004)
+            DOI:10.1038/ni1082
+REFERENCE   PMID:16181333
+  AUTHORS   Cresswell P, Ackerman AL, Giodini A, Peaper DR, Wearsch PA.
+  TITLE     Mechanisms of MHC class I-restricted antigen processing and cross-presentation.
+  JOURNAL   Immunol Rev 207:145-57 (2005)
+            DOI:10.1111/j.0105-2896.2005.00316.x
+REFERENCE   PMID:15653312
+  AUTHORS   Zika E, Ting JP.
+  TITLE     Epigenetic control of MHC-II: interplay between CIITA and histone-modifying enzymes.
+  JOURNAL   Curr Opin Immunol 17:58-64 (2005)
+            DOI:10.1016/j.coi.2004.11.008
+REFERENCE   PMID:11244040
+  AUTHORS   Reith W, Mach B.
+  TITLE     The bare lymphocyte syndrome and the regulation of MHC expression.
+  JOURNAL   Annu Rev Immunol 19:331-73 (2001)
+            DOI:10.1146/annurev.immunol.19.1.331
+REFERENCE   PMID:15745856
+  AUTHORS   Lizee G, Basha G, Jefferies WA.
+  TITLE     Tails of wonder: endocytic-sorting motifs key for exogenous antigen presentation.
+  JOURNAL   Trends Immunol 26:141-9 (2005)
+            DOI:10.1016/j.it.2005.01.005
+REFERENCE   PMID:15224094
+  AUTHORS   Watts C.
+  TITLE     The exogenous pathway for antigen presentation on major histocompatibility complex class II and CD1 molecules.
+  JOURNAL   Nat Immunol 5:685-92 (2004)
+            DOI:10.1038/ni1088
+REFERENCE   PMID:15653315
+  AUTHORS   Kaufmann SH, Schaible UE.
+  TITLE     Antigen presentation and recognition in bacterial infections.
+  JOURNAL   Curr Opin Immunol 17:79-87 (2005)
+            DOI:10.1016/j.coi.2004.12.004
+REFERENCE   PMID:20010787
+  AUTHORS   Groettrup M, Kirk CJ, Basler M
+  TITLE     Proteasomes in immune cells: more than peptide producers?
+  JOURNAL   Nat Rev Immunol 10:73-8 (2010)
+            DOI:10.1038/nri2687
+REL_PATHWAY hsa03050  Proteasome
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04660  T cell receptor signaling pathway
+KO_PATHWAY  ko04612
+///

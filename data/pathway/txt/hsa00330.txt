@@ -1,0 +1,183 @@
+ENTRY       hsa00330                    Pathway
+NAME        Arginine and proline metabolism - Homo sapiens (human)
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP hsa00330  Arginine and proline metabolism
+MODULE      hsa_M00015  Proline biosynthesis, glutamate => proline [PATH:hsa00330]
+            hsa_M00047  Creatine pathway [PATH:hsa00330]
+            hsa_M00133  Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine [PATH:hsa00330]
+            hsa_M00134  Polyamine biosynthesis, arginine => ornithine => putrescine [PATH:hsa00330]
+            hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA [PATH:hsa00330]
+DRUG        D00505  Phenelzine sulfate (USP)
+            D00826  Tranylcypromine sulfate (USP)
+            D00829  Eflornithine hydrochloride (USAN)
+            D01888  Safrazine hydrochloride (JAN)
+            D02559  Toloxatone (INN)
+            D02560  Brofaromine (INN)
+            D02561  Moclobemide (USAN/INN)
+            D02563  Befloxatone (INN)
+            D02579  Iproniazid (INN)
+            D02580  Isocarboxazid (INN)
+            D03248  Clorgiline (INN)
+            D03409  Caroxazone (USAN/INN)
+            D04793  Lufironil (USAN/INN)
+            D07258  Mitoguazone (INN)
+            D07337  Nialamide (INN)
+            D07338  Iproclozide (INN)
+            D07883  Eflornithine (INN)
+            D08085  Iproniazid phosphate
+            D08349  Phenelzine (BAN)
+            D08392  Pirlindole (INN)
+            D08393  Pirlindole hydrochloride
+            D08625  Tranylcypromine (INN)
+            D09018  Tilarginine acetate (USAN)
+            D11695  Pegzilarginase (USAN/INN)
+DBLINKS     GO: 0006525 0006560
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2628  GATM; glycine amidinotransferase [KO:K00613] [EC:2.1.4.1]
+            2593  GAMT; guanidinoacetate N-methyltransferase [KO:K00542] [EC:2.1.1.2]
+            1158  CKM; creatine kinase, M-type [KO:K00933] [EC:2.7.3.2]
+            548596  CKMT1A; creatine kinase, mitochondrial 1A [KO:K00933] [EC:2.7.3.2]
+            1160  CKMT2; creatine kinase, mitochondrial 2 [KO:K00933] [EC:2.7.3.2]
+            1152  CKB; creatine kinase B [KO:K00933] [EC:2.7.3.2]
+            1159  CKMT1B; creatine kinase, mitochondrial 1B [KO:K00933] [EC:2.7.3.2]
+            113451  AZIN2; antizyme inhibitor 2 [KO:K01583] [EC:4.1.1.19]
+            79814  AGMAT; agmatinase [KO:K01480] [EC:3.5.3.11]
+            4953  ODC1; ornithine decarboxylase 1 [KO:K01581] [EC:4.1.1.17]
+            6723  SRM; spermidine synthase [KO:K00797] [EC:2.5.1.16]
+            6611  SMS; spermine synthase [KO:K00802] [EC:2.5.1.22]
+            262  AMD1; adenosylmethionine decarboxylase 1 [KO:K01611] [EC:4.1.1.50]
+            26  AOC1; amine oxidase copper containing 1 [KO:K11182] [EC:1.4.3.22]
+            54498  SMOX; spermine oxidase [KO:K12259] [EC:1.5.3.16 1.5.3.-]
+            217  ALDH2; aldehyde dehydrogenase 2 family member [KO:K00128] [EC:1.2.1.3]
+            224  ALDH3A2; aldehyde dehydrogenase 3 family member A2 [KO:K00128] [EC:1.2.1.3]
+            219  ALDH1B1; aldehyde dehydrogenase 1 family member B1 [KO:K00128] [EC:1.2.1.3]
+            501  ALDH7A1; aldehyde dehydrogenase 7 family member A1 [KO:K14085] [EC:1.2.1.31 1.2.1.8 1.2.1.3]
+            223  ALDH9A1; aldehyde dehydrogenase 9 family member A1 [KO:K00149] [EC:1.2.1.47 1.2.1.3]
+            84735  CNDP1; carnosine dipeptidase 1 [KO:K05604] [EC:3.4.13.20]
+            55748  CNDP2; carnosine dipeptidase 2 [KO:K08660] [EC:3.4.13.18]
+            57571  CARNS1; carnosine synthase 1 [KO:K14755] [EC:6.3.2.11]
+            112483  SAT2; spermidine/spermine N1-acetyltransferase family member 2 [KO:K00657] [EC:2.3.1.57]
+            6303  SAT1; spermidine/spermine N1-acetyltransferase 1 [KO:K00657] [EC:2.3.1.57]
+            4129  MAOB; monoamine oxidase B [KO:K00274] [EC:1.4.3.4]
+            4128  MAOA; monoamine oxidase A [KO:K00274] [EC:1.4.3.4]
+            4842  NOS1; nitric oxide synthase 1 [KO:K13240] [EC:1.14.13.39]
+            4843  NOS2; nitric oxide synthase 2 [KO:K13241] [EC:1.14.13.39]
+            4846  NOS3; nitric oxide synthase 3 [KO:K13242] [EC:1.14.13.39]
+            384  ARG2; arginase 2 [KO:K01476] [EC:3.5.3.1]
+            383  ARG1; arginase 1 [KO:K01476] [EC:3.5.3.1]
+            4942  OAT; ornithine aminotransferase [KO:K00819] [EC:2.6.1.13]
+            65263  PYCR3; pyrroline-5-carboxylate reductase 3 [KO:K00286] [EC:1.5.1.2]
+            29920  PYCR2; pyrroline-5-carboxylate reductase 2 [KO:K00286] [EC:1.5.1.2]
+            5831  PYCR1; pyrroline-5-carboxylate reductase 1 [KO:K00286] [EC:1.5.1.2]
+            5625  PRODH; proline dehydrogenase 1 [KO:K00318] [EC:1.5.5.2]
+            8659  ALDH4A1; aldehyde dehydrogenase 4 family member A1 [KO:K00294] [EC:1.2.1.88]
+            5832  ALDH18A1; aldehyde dehydrogenase 18 family member A1 [KO:K12657] [EC:2.7.2.11 1.2.1.41]
+            51056  LAP3; leucine aminopeptidase 3 [KO:K11142] [EC:3.4.11.1 3.4.11.5]
+            8974  P4HA2; prolyl 4-hydroxylase subunit alpha 2 [KO:K00472] [EC:1.14.11.2]
+            283208  P4HA3; prolyl 4-hydroxylase subunit alpha 3 [KO:K00472] [EC:1.14.11.2]
+            5033  P4HA1; prolyl 4-hydroxylase subunit alpha 1 [KO:K00472] [EC:1.14.11.2]
+            58510  PRODH2; proline dehydrogenase 2 [KO:K11394] [EC:1.5.5.3]
+            2805  GOT1; glutamic-oxaloacetic transaminase 1 [KO:K14454] [EC:2.6.1.1]
+            137362  GOT1L1; glutamic-oxaloacetic transaminase 1 like 1 [KO:K14454] [EC:2.6.1.1]
+            2806  GOT2; glutamic-oxaloacetic transaminase 2 [KO:K14455] [EC:2.6.1.1]
+            112817  HOGA1; 4-hydroxy-2-oxoglutarate aldolase 1 [KO:K18123] [EC:4.1.3.16]
+            1610  DAO; D-amino acid oxidase [KO:K00273] [EC:1.4.3.3]
+            112849  L3HYPDH; trans-L-3-hydroxyproline dehydratase [KO:K18384] [EC:4.2.1.77]
+COMPOUND    C00012  Peptide
+            C00019  S-Adenosyl-L-methionine
+            C00022  Pyruvate
+            C00025  L-Glutamate
+            C00048  Glyoxylate
+            C00062  L-Arginine
+            C00077  L-Ornithine
+            C00086  Urea
+            C00134  Putrescine
+            C00148  L-Proline
+            C00179  Agmatine
+            C00213  Sarcosine
+            C00223  p-Coumaroyl-CoA
+            C00300  Creatine
+            C00315  Spermidine
+            C00334  4-Aminobutanoate
+            C00406  Feruloyl-CoA
+            C00431  5-Aminopentanoate
+            C00436  N-Carbamoylputrescine
+            C00441  L-Aspartate 4-semialdehyde
+            C00533  Nitric oxide
+            C00555  4-Aminobutyraldehyde
+            C00581  Guanidinoacetate
+            C00750  Spermine
+            C00763  D-Proline
+            C00791  Creatinine
+            C00884  Homocarnosine
+            C00986  1,3-Diaminopropane
+            C01035  4-Guanidinobutanoate
+            C01043  N-Carbamoylsarcosine
+            C01110  5-Amino-2-oxopentanoic acid
+            C01137  S-Adenosylmethioninamine
+            C01157  Hydroxyproline
+            C01165  L-Glutamate 5-semialdehyde
+            C01250  N-Acetyl-L-glutamate 5-semialdehyde
+            C01682  Nopaline
+            C02305  Phosphocreatine
+            C02565  N-Methylhydantoin
+            C02647  4-Guanidinobutanal
+            C02714  N-Acetylputrescine
+            C02946  4-Acetamidobutanoate
+            C03078  4-Guanidinobutanamide
+            C03166  Phosphoguanidinoacetate
+            C03287  L-Glutamyl 5-phosphate
+            C03296  N2-Succinyl-L-arginine
+            C03375  Norspermidine
+            C03415  N2-Succinyl-L-ornithine
+            C03564  1-Pyrroline-2-carboxylate
+            C03771  5-Guanidino-2-oxopentanoate
+            C03912  (S)-1-Pyrroline-5-carboxylate
+            C04137  Octopine
+            C04281  L-1-Pyrroline-3-hydroxy-5-carboxylate
+            C05147  trans-3-Hydroxy-L-proline
+            C05931  N-Succinyl-L-glutamate
+            C05932  N-Succinyl-L-glutamate 5-semialdehyde
+            C05933  N(omega)-Hydroxyarginine
+            C05936  N4-Acetylaminobutanal
+            C05938  L-4-Hydroxyglutamate semialdehyde
+            C05945  L-Arginine phosphate
+            C05946  (4R)-4-Hydroxy-2-oxoglutarate
+            C05947  L-erythro-4-Hydroxyglutamate
+            C10497  Feruloylputrescine
+            C15699  gamma-L-Glutamylputrescine
+            C15700  gamma-Glutamyl-gamma-aminobutyraldehyde
+            C15767  4-(L-gamma-Glutamylamino)butanoate
+            C18172  Carboxyspermidine
+            C18174  Carboxynorspermidine
+            C18326  p-Coumaroylputrescine
+            C19706  cis-3-Hydroxy-L-proline
+REFERENCE   PMID:5288244
+  AUTHORS   Haake P, Allen GW.
+  TITLE     Studies on phosphorylation by phosphoroguanidinates. The mechanism of action of creatine: ATP transphosphorylase (creatine kinase).
+  JOURNAL   Proc Natl Acad Sci U S A 68:2691-3 (1971)
+            DOI:10.1073/pnas.68.11.2691
+REFERENCE   PMID:16499623
+  AUTHORS   Kurihara S, Oda S, Kumagai H, Suzuki H.
+  TITLE     Gamma-glutamyl-gamma-aminobutyrate hydrolase in the putrescine utilization pathway of Escherichia coli K-12.
+  JOURNAL   FEMS Microbiol Lett 256:318-23 (2006)
+            DOI:10.1111/j.1574-6968.2006.00137.x
+REFERENCE   PMID:15590624
+  AUTHORS   Kurihara S, Oda S, Kato K, Kim HG, Koyanagi T, Kumagai H, Suzuki H.
+  TITLE     A novel putrescine utilization pathway involves gamma-glutamylated intermediates of Escherichia coli K-12.
+  JOURNAL   J Biol Chem 280:4602-8 (2005)
+            DOI:10.1074/jbc.M411114200
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa00220  Arginine biosynthesis
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00270  Cysteine and methionine metabolism
+            hsa00310  Lysine degradation
+            hsa00410  beta-Alanine metabolism
+            hsa00470  D-Amino acid metabolism
+            hsa00480  Glutathione metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00650  Butanoate metabolism
+            hsa00770  Pantothenate and CoA biosynthesis
+KO_PATHWAY  ko00330
+///

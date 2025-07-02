@@ -1,0 +1,287 @@
+ENTRY       hsa04971                    Pathway
+NAME        Gastric acid secretion - Homo sapiens (human)
+DESCRIPTION Gastric acid is a key factor in normal upper gastrointestinal functions, including protein digestion and calcium and iron absorption, as well as providing some protection against bacterial infections. The principal stimulants of acid secretion at the level of the parietal cell are histamine (paracrine), gastrin (hormonal), and acetycholine (ACh; neurocrine). Stimulation of acid secretion typically involves an initial elevation of intracellular calcium and cAMP, followed by activation of protein kinase cascades, which trigger the translocation of the proton pump, H+,K+-ATPase, from cytoplasmic tubulovesicles to the apical plasma membrane and thereby H+ secretion into the stomach lumen.
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP hsa04971  Gastric acid secretion
+DRUG        D00113  Atropine (USP)
+            D00147  Hyoscyamine (USP)
+            D00295  Cimetidine (JP18/USP/INN)
+            D00318  Famotidine (JP18/USP/INN)
+            D00355  Lansoprazole (JP18/USP/INN)
+            D00397  Tropicamide (JP18/USP/INN)
+            D00422  Ranitidine (USAN/INN)
+            D00440  Nizatidine (JP18/USP/INN)
+            D00442  Octreotide (USAN/INN)
+            D00455  Omeprazole (JP18/USP/INN)
+            D00481  Propantheline bromide (JP18/USP/INN)
+            D00540  Glycopyrrolate (USP)
+            D00673  Ranitidine hydrochloride (JP18/USP)
+            D00715  Methscopolamine bromide (USP)
+            D00716  Clidinium bromide (USP/INN)
+            D00717  Dicyclomine hydrochloride (JAN/USP)
+            D00719  Hyoscyamine sulfate (USP)
+            D00720  Mepenzolate bromide (JP18/INN)
+            D00721  Methanthelinium bromide (INN)
+            D00724  Rabeprazole sodium (JP18/USP)
+            D00999  Acetylcholine chloride (JP18/USP/INN)
+            D01000  Bethanechol chloride (JP18/USP)
+            D01003  Hexocyclium metilsulfate (INN)
+            D01005  Isopropamide iodide (JAN/USP/INN)
+            D01006  Oxyphencyclimine hydrochloride (JAN)
+            D01131  Lafutidine (JP18/INN)
+            D01165  Piperidolate hydrochloride (JAN)
+            D01187  Betazole hydrochloride (JAN)
+            D01207  Omeprazole sodium (USAN)
+            D01297  Pirenzepine hydrochloride (USAN)
+            D01315  Methylbenactyzium bromide (JP18/INN)
+            D01359  Etomidoline (JAN/INN)
+            D01451  Scopolamine butylbromide (JP18)
+            D01467  Roxatidine acetate hydrochloride (JP18/USAN)
+            D01491  Butropium bromide (JP18/INN)
+            D01521  Pipethanate hydrochloride (JAN)
+            D01538  Valethamate bromide (JAN)
+            D01600  Diphenylpiperidinomethyldioxolan iodide (JAN)
+            D01631  Pentagastrin (JAN/USAN/INN)
+            D01648  Hyoscyamine methylbromide (JAN)
+            D01815  Oxapium iodide (JP18/INN)
+            D01818  Proglumide (JP18/USAN/INN)
+            D01861  Pibutidine hydrochloride (JAN)
+            D01875  Tiquizium bromide (JAN/INN)
+            D01920  Tenatoprazole (JAN/INN)
+            D01955  Aclatonium napadisilate (JAN)
+            D01976  N-Methylscopolamine methylsulfate (JAN)
+            D01984  Esomeprazole magnesium (USP)
+            D01987  Pipethanate ethobromide (JAN)
+            D02069  Atropine sulfate (JP18/USP)
+            D02108  Indium In 111 pentetreotide (USP)
+            D02250  Octreotide acetate (JAN)
+            D02535  Timepidium bromide hydrate (JP18)
+            D02593  Pantoprazole sodium (USP)
+            D03503  Cimetidine hydrochloride (USP)
+            D03605  Crofelemer (USAN)
+            D03889  Donetidine (USAN)
+            D03979  Elucaine (USAN)
+            D04056  Esomeprazole sodium (USAN)
+            D04057  Esoxybutynin chloride (USAN)
+            D04098  Etintidine hydrochloride (USAN)
+            D04445  Histamine phosphate (USP)
+            D04479  Hyoscyamine hydrobromide (USP)
+            D04517  Impromidine hydrochloride (USAN)
+            D04666  Lanreotide acetate (JAN/USAN)
+            D04680  Lavoltidine succinate (USAN)
+            D04794  Lupitidine hydrochloride (USAN)
+            D04970  Methacholine chloride (JAN/USP/INN)
+            D05004  Metiamide (USAN/INN)
+            D05012  Metoquizine (USAN/INN)
+            D05230  Octreotide pamoate (USAN)
+            D05259  Omeprazole magnesium (USP)
+            D05261  Omeprazole sodium injection (JAN)
+            D05276  Pirenzepine hydrochloride hydrate (JP18)
+            D05353  Pantoprazole (USAN/INN)
+            D05699  Ranitidine bismuth citrate (USAN)
+            D05722  Revaprazan hydrochloride (USAN)
+            D05812  Seglitide acetate (USAN)
+            D05900  Timoprazole (INN)
+            D05901  Picoprazole (INN)
+            D05906  Leminoprazole (INN)
+            D05939  Sufotidine (USAN/INN)
+            D06157  Tiotidine (USAN/INN)
+            D06192  Toquizine (USAN)
+            D06281  Vapreotide (USAN/INN)
+            D06355  Zaltidine hydrochloride (USAN)
+            D06495  Octreotide acetate (USP)
+            D06878  Diphemanil metilsulfate (INN)
+            D07072  Niperotidine (INN)
+            D07431  Somatostatin (INN)
+            D07820  Dicycloverine (INN)
+            D07917  Esomeprazole (INN)
+            D08325  Oxyphencyclimine (INN)
+            D08382  Piperidolate (INN)
+            D08384  Pipethanate (INN)
+            D08389  Pirenzepine (INN)
+            D08463  Rabeprazole (INN)
+            D08494  Roxatidine (INN)
+            D08495  Roxatidine acetate (BAN)
+            D08595  Tiemonium methylsulfate
+            D08903  Dexlansoprazole (INN/USAN)
+            D09339  Esomeprazole potassium (USAN)
+            D09837  Penaprazole sodium hydrate (JAN)
+            D09988  Vapreotide acetate (USAN)
+            D10120  Esomeprazole strontium (USAN)
+            D10134  Lumacaftor (USAN)
+            D10147  Pasireotide (USAN)
+            D10466  Vonoprazan fumarate (JAN/USAN)
+            D10497  Pasireotide diaspartate
+            D10566  Pasireotide pamoate (JAN)
+            D10685  Lumacaftor and ivacaftor
+            D11033  Lutetium (177Lu) oxodotreotide (INN)
+            D11042  Tezacaftor and ivacaftor
+            D11114  Esomeprazole magnesium dihydrate
+            D11192  Veldoreotide (USAN/INN)
+            D11204  Octreotide hydrochloride (USAN)
+            D11700  Elexacaftor, ivacaftor and tezacaftor
+            D11724  Galicaftor (USAN/INN)
+            D11784  Vonoprazan (USAN/INN)
+            D11882  Copper Cu 64 dotatate
+            D12140  Navocaftor (USAN/INN)
+            D12246  Tegoprazan (INN)
+            D12431  Lutetium Lu177 edotreotide (USAN)
+            D12454  Icenticaftor (USAN/INN)
+            D12477  Paltusotine (USAN/INN)
+            D12478  Paltusotine hydrochloride (USAN)
+DBLINKS     GO: 0001696
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1131  CHRM3; cholinergic receptor muscarinic 3 [KO:K04131]
+            2520  GAST; gastrin [KO:K13768]
+            887  CCKBR; cholecystokinin B receptor [KO:K04195]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            7430  EZR; ezrin [KO:K08007]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            4638  MYLK; myosin light chain kinase [KO:K00907] [EC:2.7.11.18]
+            85366  MYLK2; myosin light chain kinase 2 [KO:K00907] [EC:2.7.11.18]
+            91807  MYLK3; myosin light chain kinase 3 [KO:K00907] [EC:2.7.11.18]
+            340156  MYLK4; myosin light chain kinase family member 4 [KO:K00907] [EC:2.7.11.18]
+            3274  HRH2; histamine receptor H2 [KO:K04150]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            6750  SST; somatostatin [KO:K05237]
+            6752  SSTR2; somatostatin receptor 2 [KO:K04218]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            495  ATP4A; ATPase H+/K+ transporting subunit alpha [KO:K01542] [EC:7.2.2.19]
+            496  ATP4B; ATPase H+/K+ transporting subunit beta [KO:K01543] [EC:7.2.2.19]
+            9992  KCNE2; potassium voltage-gated channel subfamily E regulatory subunit 2 [KO:K04896]
+            3784  KCNQ1; potassium voltage-gated channel subfamily Q member 1 [KO:K04926]
+            3758  KCNJ1; potassium inwardly rectifying channel subfamily J member 1 [KO:K04995]
+            3759  KCNJ2; potassium inwardly rectifying channel subfamily J member 2 [KO:K04996]
+            3766  KCNJ10; potassium inwardly rectifying channel subfamily J member 10 [KO:K05003]
+            3772  KCNJ15; potassium inwardly rectifying channel subfamily J member 15 [KO:K05008]
+            3773  KCNJ16; potassium inwardly rectifying channel subfamily J member 16 [KO:K05009]
+            1080  CFTR; CF transmembrane conductance regulator [KO:K05031] [EC:5.6.1.6]
+            3776  KCNK2; potassium two pore domain channel subfamily K member 2 [KO:K04913]
+            54207  KCNK10; potassium two pore domain channel subfamily K member 10 [KO:K04920]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            6548  SLC9A1; solute carrier family 9 member A1 [KO:K05742]
+            389015  SLC9A4; solute carrier family 9 member A4 [KO:K13961]
+            760  CA2; carbonic anhydrase 2 [KO:K18245] [EC:4.2.1.1]
+            115111  SLC26A7; solute carrier family 26 member 7 [KO:K13962]
+            6522  SLC4A2; solute carrier family 4 member 2 [KO:K13855]
+COMPOUND    C00001  H2O
+            C00011  CO2
+            C00076  Calcium cation
+            C00080  H+
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00288  HCO3-
+            C00388  Histamine
+            C00575  3',5'-Cyclic AMP
+            C00698  Cl-
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C01353  Carbonic acid
+            C01996  Acetylcholine
+REFERENCE   PMID:18474247
+  AUTHORS   Schubert ML, Peura DA
+  TITLE     Control of gastric acid secretion in health and disease.
+  JOURNAL   Gastroenterology 134:1842-60 (2008)
+            DOI:10.1053/j.gastro.2008.05.021
+REFERENCE   PMID:9307437
+  AUTHORS   Urushidani T, Forte JG
+  TITLE     Signal transduction and activation of acid secretion in the parietal cell.
+  JOURNAL   J Membr Biol 159:99-111 (1997)
+            DOI:10.1007/s002329900274
+REFERENCE   PMID:12500969
+  AUTHORS   Yao X, Forte JG
+  TITLE     Cell biology of acid secretion by the parietal cell.
+  JOURNAL   Annu Rev Physiol 65:103-31 (2003)
+            DOI:10.1146/annurev.physiol.65.072302.114200
+REFERENCE   PMID:17928547
+  AUTHORS   Heitzmann D, Warth R
+  TITLE     No potassium, no acid: K+ channels and gastric acid secretion.
+  JOURNAL   Physiology (Bethesda) 22:335-41 (2007)
+            DOI:10.1152/physiol.00016.2007
+REFERENCE   PMID:19889964
+  AUTHORS   Kopic S, Murek M, Geibel JP
+  TITLE     Revisiting the parietal cell.
+  JOURNAL   Am J Physiol Cell Physiol 298:C1-C10 (2010)
+            DOI:10.1152/ajpcell.00478.2009
+REFERENCE   PMID:15703676
+  AUTHORS   Schubert ML
+  TITLE     Gastric secretion.
+  JOURNAL   Curr Opin Gastroenterol 20:519-25 (2004)
+            DOI:10.1097/00001574-200411000-00003
+REFERENCE   PMID:16391411
+  AUTHORS   Konturek SJ, Konturek PC, Brzozowski T, Konturek JW, Pawlik WW
+  TITLE     From nerves and hormones to bacteria in the stomach; Nobel prize for achievements in gastrology during last century.
+  JOURNAL   J Physiol Pharmacol 56:507-30 (2005)
+REFERENCE   PMID:20148676
+  AUTHORS   Forte JG, Zhu L
+  TITLE     Apical recycling of the gastric parietal cell H,K-ATPase.
+  JOURNAL   Annu Rev Physiol 72:273-96 (2010)
+            DOI:10.1146/annurev-physiol-021909-135744
+REFERENCE   PMID:18061403
+  AUTHORS   Szaszak M, Christian F, Rosenthal W, Klussmann E
+  TITLE     Compartmentalized cAMP signalling in regulated exocytic processes in non-neuronal cells.
+  JOURNAL   Cell Signal 20:590-601 (2008)
+            DOI:10.1016/j.cellsig.2007.10.020
+REFERENCE   PMID:18626068
+  AUTHORS   Heitzmann D, Warth R
+  TITLE     Physiology and pathophysiology of potassium channels in gastrointestinal epithelia.
+  JOURNAL   Physiol Rev 88:1119-82 (2008)
+            DOI:10.1152/physrev.00020.2007
+REFERENCE   PMID:15579540
+  AUTHORS   Heitzmann D, Grahammer F, von Hahn T, Schmitt-Graff A, Romeo E, Nitschke R, Gerlach U, Lang HJ, Verrey F, Barhanin J, Warth R
+  TITLE     Heteromeric KCNE2/KCNQ1 potassium channels in the luminal membrane of gastric parietal cells.
+  JOURNAL   J Physiol 561:547-57 (2004)
+            DOI:10.1113/jphysiol.2004.075168
+REFERENCE   PMID:20331540
+  AUTHORS   Seidler U, Song P, Xiao F, Riederer B, Bachmann O, Chen M
+  TITLE     Recent advances in the molecular and functional characterization of acid/base and electrolyte transporters in the basolateral membranes of gastric and duodenal epithelial cells.
+  JOURNAL   Acta Physiol (Oxf) 201:3-20 (2011)
+            DOI:10.1111/j.1748-1716.2010.02107.x
+REL_PATHWAY hsa04020  Calcium signaling pathway
+            hsa04530  Tight junction
+            hsa04974  Protein digestion and absorption
+KO_PATHWAY  ko04971
+///

@@ -1,0 +1,218 @@
+ENTRY       hsa04925                    Pathway
+NAME        Aldosterone synthesis and secretion - Homo sapiens (human)
+DESCRIPTION Aldosterone is a steroid hormone synthesized in and secreted from the outer layer of the adrenal cortex, the zona glomerulosa. Aldosterone plays an important role in the regulation of systemic blood pressure through the absorption of sodium and water. Angiotensin II (Ang II), potassium (K+) and adrenocorticotropin (ACTH) are the main extracellular stimuli which regulate aldosterone secretion. These physiological agonists all converge on two major intracellular signaling pathways: calcium (Ca2+) mobilization and an increase in cAMP production. The increase in cytosolic calcium levels activates calcium/calmodulin- dependent protein kinases (CaMK), and the increased cAMP levels stimulate the activity of cAMP-dependent protein kinase, or protein kinase A (PKA). The activated CaMK, and possibly PKA, activates transcription factors (NURR1 and NGF1B, CREB) to induce StAR and CYP11B2 expression, the early and late rate- limiting steps in aldosterone biosynthesis, respectively, thereby stimulating aldosterone secretion.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04925  Aldosterone synthesis and secretion
+NETWORK     nt06316  Angiotensin-aldosterone signaling
+  ELEMENT   N00301  Angiotensin-aldosterone signaling pathway
+DRUG        D00146  Corticotropin (USP/INN)
+            D00284  Cosyntropin (USP)
+            D01180  Trilostane (JAN/USAN)
+            D01238  Bucladesine sodium (JAN)
+            D02105  Tetracosactide acetate (JAN)
+            D03593  Corticotropin zinc hydroxide
+            D05801  Saprisartan potassium (USAN)
+            D05827  Seractide acetate (USAN)
+            D06544  Corticotropin, repository (USP)
+            D07417  Alsactide (INN)
+            D07546  Bucladesine (INN)
+            D09801  Giractide acetate (JAN)
+            D09937  Giractide (INN)
+            D11061  Osilodrostat (USAN/INN)
+            D11062  Osilodrostat phosphate (JAN/USAN)
+DBLINKS     GO: 0035932
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        183  AGT; angiotensinogen [KO:K09821]
+            185  AGTR1; angiotensin II receptor type 1 [KO:K04166]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            5581  PRKCE; protein kinase C epsilon [KO:K18050] [EC:2.7.11.13]
+            5587  PRKD1; protein kinase D1 [KO:K06070] [EC:2.7.11.13]
+            23683  PRKD3; protein kinase D3 [KO:K06070] [EC:2.7.11.13]
+            25865  PRKD2; protein kinase D2 [KO:K06070] [EC:2.7.11.13]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            466  ATF1; activating transcription factor 1 [KO:K09053]
+            747  DAGLA; diacylglycerol lipase alpha [KO:K13806] [EC:3.1.1.116]
+            221955  DAGLB; diacylglycerol lipase beta [KO:K13806] [EC:3.1.1.116]
+            3777  KCNK3; potassium two pore domain channel subfamily K member 3 [KO:K04914]
+            51305  KCNK9; potassium two pore domain channel subfamily K member 9 [KO:K04919]
+            3762  KCNJ5; potassium inwardly rectifying channel subfamily J member 5 [KO:K04999]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            8913  CACNA1G; calcium voltage-gated channel subunit alpha1 G [KO:K04854]
+            8912  CACNA1H; calcium voltage-gated channel subunit alpha1 H [KO:K04855]
+            8911  CACNA1I; calcium voltage-gated channel subunit alpha1 I [KO:K04856]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            84876  ORAI1; ORAI calcium release-activated calcium modulator 1 [KO:K16056]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            57118  CAMK1D; calcium/calmodulin dependent protein kinase ID [KO:K08794] [EC:2.7.11.17]
+            57172  CAMK1G; calcium/calmodulin dependent protein kinase IG [KO:K08794] [EC:2.7.11.17]
+            8536  CAMK1; calcium/calmodulin dependent protein kinase I [KO:K08794] [EC:2.7.11.17]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            814  CAMK4; calcium/calmodulin dependent protein kinase IV [KO:K05869] [EC:2.7.11.17]
+            490  ATP2B1; ATPase plasma membrane Ca2+ transporting 1 [KO:K05850] [EC:7.2.2.10]
+            492  ATP2B3; ATPase plasma membrane Ca2+ transporting 3 [KO:K05850] [EC:7.2.2.10]
+            493  ATP2B4; ATPase plasma membrane Ca2+ transporting 4 [KO:K05850] [EC:7.2.2.10]
+            491  ATP2B2; ATPase plasma membrane Ca2+ transporting 2 [KO:K05850] [EC:7.2.2.10]
+            3991  LIPE; lipase E, hormone sensitive type [KO:K07188] [EC:3.1.1.79]
+            3949  LDLR; low density lipoprotein receptor [KO:K12473]
+            949  SCARB1; scavenger receptor class B member 1 [KO:K13885]
+            5443  POMC; proopiomelanocortin [KO:K05228]
+            4158  MC2R; melanocortin 2 receptor [KO:K04200]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1585  CYP11B2; cytochrome P450 family 11 subfamily B member 2 [KO:K07433] [EC:1.14.15.4 1.14.15.5]
+            6770  STAR; steroidogenic acute regulatory protein [KO:K16931]
+            4929  NR4A2; nuclear receptor subfamily 4 group A member 2 [KO:K08558]
+            3164  NR4A1; nuclear receptor subfamily 4 group A member 1 [KO:K04465]
+            1583  CYP11A1; cytochrome P450 family 11 subfamily A member 1 [KO:K00498] [EC:1.14.15.6]
+            3283  HSD3B1; hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1 [KO:K00070] [EC:1.1.1.145 5.3.3.1]
+            3284  HSD3B2; hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2 [KO:K00070] [EC:1.1.1.145 5.3.3.1]
+            1589  CYP21A2; cytochrome P450 family 21 subfamily A member 2 [KO:K00513] [EC:1.14.14.16]
+            4878  NPPA; natriuretic peptide A [KO:K12334]
+            4881  NPR1; natriuretic peptide receptor 1 [KO:K12323] [EC:4.6.1.2]
+            5138  PDE2A; phosphodiesterase 2A [KO:K18283] [EC:3.1.4.17]
+COMPOUND    C00003  NAD+
+            C00004  NADH
+            C00005  NADPH
+            C00006  NADP+
+            C00020  AMP
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00187  Cholesterol
+            C00219  Arachidonate
+            C00238  Potassium cation
+            C00410  Progesterone
+            C00575  3',5'-Cyclic AMP
+            C00942  3',5'-Cyclic GMP
+            C01124  18-Hydroxycorticosterone
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C01780  Aldosterone
+            C01953  Pregnenolone
+            C02140  Corticosterone
+            C03205  11-Deoxycorticosterone
+            C14777  12(S)-HETE
+            C14822  12(R)-HETE
+REFERENCE   PMID:21839803
+  AUTHORS   Hattangady NG, Olala LO, Bollag WB, Rainey WE
+  TITLE     Acute and chronic regulation of aldosterone production.
+  JOURNAL   Mol Cell Endocrinol 350:151-62 (2012)
+            DOI:10.1016/j.mce.2011.07.034
+REFERENCE   PMID:24944029
+  AUTHORS   Bollag WB
+  TITLE     Regulation of aldosterone synthesis and secretion.
+  JOURNAL   Compr Physiol 4:1017-55 (2014)
+            DOI:10.1002/cphy.c130037
+REFERENCE   PMID:15044681
+  AUTHORS   Spat A, Hunyady L
+  TITLE     Control of aldosterone secretion: a model for convergence in cellular signaling pathways.
+  JOURNAL   Physiol Rev 84:489-539 (2004)
+            DOI:10.1152/physrev.00030.2003
+REFERENCE   PMID:18406824
+  AUTHORS   Boon WC, Coghlan JP, Curnow KM, McDougall JG
+  TITLE     Aldosterone secretion: a molecular perspective.
+  JOURNAL   Trends Endocrinol Metab 8:346-54 (1997)
+            DOI:10.1016/S1043-2760(97)00136-7
+REFERENCE   PMID:14645496
+  AUTHORS   Bassett MH, Suzuki T, Sasano H, White PC, Rainey WE
+  TITLE     The orphan nuclear receptors NURR1 and NGFIB regulate adrenal aldosterone production.
+  JOURNAL   Mol Endocrinol 18:279-90 (2004)
+            DOI:10.1210/me.2003-0005
+REFERENCE   PMID:22689262
+  AUTHORS   Guagliardo NA, Yao J, Hu C, Barrett PQ
+  TITLE     Minireview: aldosterone biosynthesis: electrically gated for our protection.
+  JOURNAL   Endocrinology 153:3579-86 (2012)
+            DOI:10.1210/en.2012-1339
+REFERENCE   PMID:22364774
+  AUTHORS   Spat A, Fulop L, Szanda G
+  TITLE     The role of mitochondrial Ca(2+) and NAD(P)H in the control of aldosterone secretion.
+  JOURNAL   Cell Calcium 52:64-72 (2012)
+            DOI:10.1016/j.ceca.2012.01.009
+REFERENCE   PMID:22395411
+  AUTHORS   Spat A, Szanda G
+  TITLE     Special features of mitochondrial Ca(2)(+) signalling in adrenal glomerulosa cells.
+  JOURNAL   Pflugers Arch 464:43-50 (2012)
+            DOI:10.1007/s00424-012-1086-y
+REFERENCE   PMID:21962440
+  AUTHORS   Tsai LC, Beavo JA
+  TITLE     The roles of cyclic nucleotide phosphodiesterases (PDEs) in steroidogenesis.
+  JOURNAL   Curr Opin Pharmacol 11:670-5 (2011)
+            DOI:10.1016/j.coph.2011.09.003
+REFERENCE   PMID:10536682
+  AUTHORS   Delcayre C, Silvestre JS
+  TITLE     Aldosterone and the heart: towards a physiological function?
+  JOURNAL   Cardiovasc Res 43:7-12 (1999)
+            DOI:10.1016/S0008-6363(99)00088-7
+REFERENCE   PMID:15026188
+  AUTHORS   Lisurek M, Bernhardt R
+  TITLE     Modulation of aldosterone and cortisol synthesis on the molecular level.
+  JOURNAL   Mol Cell Endocrinol 215:149-59 (2004)
+            DOI:10.1016/j.mce.2003.11.008
+REFERENCE   PMID:23628605
+  AUTHORS   Miller WL
+  TITLE     Steroid hormone synthesis in mitochondria.
+  JOURNAL   Mol Cell Endocrinol 379:62-73 (2013)
+            DOI:10.1016/j.mce.2013.04.014
+REFERENCE   PMID:25788893
+  AUTHORS   Martinez-Arguelles DB, Papadopoulos V
+  TITLE     Mechanisms mediating environmental chemical-induced endocrine disruption in the adrenal gland.
+  JOURNAL   Front Endocrinol (Lausanne) 6:29 (2015)
+            DOI:10.3389/fendo.2015.00029
+REL_PATHWAY hsa00140  Steroid hormone biosynthesis
+            hsa00590  Arachidonic acid metabolism
+            hsa04020  Calcium signaling pathway
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04614  Renin-angiotensin system
+            hsa04960  Aldosterone-regulated sodium reabsorption
+KO_PATHWAY  ko04925
+///

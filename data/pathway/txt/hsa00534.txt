@@ -1,0 +1,100 @@
+ENTRY       hsa00534                    Pathway
+NAME        Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human)
+DESCRIPTION Heparan sulfate (HS) and heparin (Hep) are glycosaminoglycans with repeating disaccharide units that consist of alternating residues of alpha-D-glucosamine (GlcN) and uronic acid, the latter being either beta-D-glucuronic acid (GlcA) or alpha-L-iduronic acid (IdoA). In these sugar residues, sulfation modification may be performed at various positions. Structural studies show that Hep possesses a higher degree of sulfation than HS. The biosynthesis of HS/Hep occurs with the addition of the first GlcNAc residue by EXTL3 glycosyltransferase after completion of tetrasaccharide linkage region attached to serine residue of a core protein. The chain polymeraization is then catalyzed by EXT1 and EXT2 transferases. As the chain polymerizes, HS/Hep undergoes a series of modification reactions including N-deacetylation, N-sulfation, epimerization, and subsequently O-sulfation. As final products of biosynthesis, HS is present in the form of hepran sulfate proteoglycan (HSPG) whereas Hep exists as a sugar chain without a core protein. The proteoglycan families with HS, as well as CS (chondroitin sulfate), DS (dermatan sulfate), and KS (keratan sulfate), are composed of two main types depending on the subcellular locations: cell membrane and extracellular matrix [BR:00535]. HS/Hep has been shown to bind to a variety of molecules, such as growth factors, chemokines, morphogens, and extracellular matrix components [BR:00536].
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+MODULE      hsa_M00057  Glycosaminoglycan biosynthesis, linkage tetrasaccharide [PATH:hsa00534]
+            hsa_M00059  Glycosaminoglycan biosynthesis, heparan sulfate backbone [PATH:hsa00534]
+NETWORK     nt06029  Glycosaminoglycan biosynthesis
+  ELEMENT   N01574  Glycosaminoglycan biosynthesis, linkage tetrasaccharide
+            N01582  Heparan sulfate biosynthesis
+DBLINKS     GO: 0030210
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        64131  XYLT1; xylosyltransferase 1 [KO:K00771] [EC:2.4.2.26]
+            64132  XYLT2; xylosyltransferase 2 [KO:K00771] [EC:2.4.2.26]
+            11285  B4GALT7; beta-1,4-galactosyltransferase 7 [KO:K00733] [EC:2.4.1.133]
+            126792  B3GALT6; beta-1,3-galactosyltransferase 6 [KO:K00734] [EC:2.4.1.134]
+            26229  B3GAT3; beta-1,3-glucuronyltransferase 3 [KO:K10158] [EC:2.4.1.135]
+            2135  EXTL2; exostosin like glycosyltransferase 2 [KO:K02369] [EC:2.4.1.223]
+            2137  EXTL3; exostosin like glycosyltransferase 3 [KO:K02370] [EC:2.4.1.223 2.4.1.224]
+            2134  EXTL1; exostosin like glycosyltransferase 1 [KO:K02368] [EC:2.4.1.224]
+            2131  EXT1; exostosin glycosyltransferase 1 [KO:K02366] [EC:2.4.1.224 2.4.1.225]
+            2132  EXT2; exostosin glycosyltransferase 2 [KO:K02367] [EC:2.4.1.224 2.4.1.225]
+            3340  NDST1; N-deacetylase and N-sulfotransferase 1 [KO:K02576] [EC:3.5.1.- 2.8.2.8]
+            8509  NDST2; N-deacetylase and N-sulfotransferase 2 [KO:K02577] [EC:3.5.1.- 2.8.2.8]
+            9348  NDST3; N-deacetylase and N-sulfotransferase 3 [KO:K02578] [EC:3.5.1.- 2.8.2.8]
+            64579  NDST4; N-deacetylase and N-sulfotransferase 4 [KO:K02579] [EC:3.5.1.- 2.8.2.8]
+            26035  GLCE; glucuronic acid epimerase [KO:K01793] [EC:5.1.3.17]
+            9653  HS2ST1; heparan sulfate 2-O-sulfotransferase 1 [KO:K02513] [EC:2.8.2.-]
+            9394  HS6ST1; heparan sulfate 6-O-sulfotransferase 1 [KO:K02514] [EC:2.8.2.-]
+            90161  HS6ST2; heparan sulfate 6-O-sulfotransferase 2 [KO:K08102] [EC:2.8.2.-]
+            266722  HS6ST3; heparan sulfate 6-O-sulfotransferase 3 [KO:K08103] [EC:2.8.2.-]
+            9957  HS3ST1; heparan sulfate-glucosamine 3-sulfotransferase 1 [KO:K01024] [EC:2.8.2.23]
+            9956  HS3ST2; heparan sulfate-glucosamine 3-sulfotransferase 2 [KO:K07808] [EC:2.8.2.29]
+            9953  HS3ST3B1; heparan sulfate-glucosamine 3-sulfotransferase 3B1 [KO:K07809] [EC:2.8.2.30]
+            9955  HS3ST3A1; heparan sulfate-glucosamine 3-sulfotransferase 3A1 [KO:K07809] [EC:2.8.2.30]
+            222537  HS3ST5; heparan sulfate-glucosamine 3-sulfotransferase 5 [KO:K08104] [EC:2.8.2.23]
+COMPOUND    C00033  Acetate
+            C00053  3'-Phosphoadenylyl sulfate
+            C00054  Adenosine 3',5'-bisphosphate
+            C02189  [Protein]-L-serine
+            G00154
+            G00155
+            G00156
+            G00157
+            G00162
+            G00163
+            G00164
+REFERENCE   PMID:11390981
+  AUTHORS   Kim BT, Kitagawa H, Tamura J, Saito T, Kusche-Gullberg M, Lindahl U, Sugahara K
+  TITLE     Human tumor suppressor EXT gene family members EXTL1 and EXTL3 encode alpha 1,4- N-acetylglucosaminyltransferases that likely are involved in heparan sulfate/ heparin biosynthesis.
+  JOURNAL   Proc Natl Acad Sci U S A 98:7176-81 (2001)
+            DOI:10.1073/pnas.131188498
+REFERENCE   PMID:10318803
+  AUTHORS   Kitagawa H, Shimakawa H, Sugahara K
+  TITLE     The tumor suppressor EXT-like gene EXTL2 encodes an alpha1, 4-N-acetylhexosaminyltransferase that transfers N-acetylgalactosamine and N-acetylglucosamine to the common glycosaminoglycan-protein linkage region. The key enzyme for the chain initiation of heparan sulfate.
+  JOURNAL   J Biol Chem 274:13933-7 (1999)
+            DOI:10.1074/jbc.274.20.13933
+REFERENCE   PMID:9756849
+  AUTHORS   Lind T, Tufaro F, McCormick C, Lindahl U, Lidholt K
+  TITLE     The putative tumor suppressors EXT1 and EXT2 are glycosyltransferases required for the biosynthesis of heparan sulfate.
+  JOURNAL   J Biol Chem 273:26265-8 (1998)
+            DOI:10.1074/jbc.273.41.26265
+REFERENCE   PMID:11274177
+  AUTHORS   Li JP, Gong F, El Darwish K, Jalkanen M, Lindahl U.
+  TITLE     Characterization of the D-glucuronyl C5-epimerase involved in the biosynthesis of heparin and heparan sulfate.
+  JOURNAL   J Biol Chem 276:20069-77 (2001)
+            DOI:10.1074/jbc.M011783200
+REFERENCE   PMID:10742590
+  AUTHORS   Habuchi O
+  TITLE     Diversity and functions of glycosaminoglycan sulfotransferases.
+  JOURNAL   Biochim Biophys Acta 1474:115-27 (2000)
+            DOI:10.1016/S0304-4165(00)00016-7
+REFERENCE   PMID:9151776
+  AUTHORS   Rosenberg RD, Shworak NW, Liu J, Schwartz JJ, Zhang L
+  TITLE     Heparan sulfate proteoglycans of the cardiovascular system. Specific structures emerge but how is synthesis regulated?
+  JOURNAL   J Clin Invest 99:2062-70 (1997)
+            DOI:10.1172/JCI119377
+REFERENCE   PMID:9988768
+  AUTHORS   Liu J, Shworak NW, Sinay P, Schwartz JJ, Zhang L, Fritze LM, Rosenberg RD
+  TITLE     Expression of heparan sulfate D-glucosaminyl 3-O-sulfotransferase isoforms reveals novel substrate specificities.
+  JOURNAL   J Biol Chem 274:5185-92 (1999)
+            DOI:10.1074/jbc.274.8.5185
+REFERENCE   PMID:10520990
+  AUTHORS   Shukla D, Liu J, Blaiklock P, Shworak NW, Bai X, Esko JD, Cohen GH, Eisenberg RJ, Rosenberg RD, Spear PG
+  TITLE     A novel role for 3-O-sulfated heparan sulfate in herpes simplex virus 1 entry.
+  JOURNAL   Cell 99:13-22 (1999)
+            DOI:10.1016/S0092-8674(00)80058-6
+REFERENCE   PMID:15304505
+  AUTHORS   Moon AF, Edavettal SC, Krahn JM, Munoz EM, Negishi M, Linhardt RJ, Liu J, Pedersen LC
+  TITLE     Structural analysis of the sulfotransferase (3-o-sulfotransferase isoform 3) involved in the biosynthesis of an entry receptor for herpes simplex virus 1.
+  JOURNAL   J Biol Chem 279:45185-93 (2004)
+            DOI:10.1074/jbc.M405013200
+REFERENCE   PMID:16099108
+  AUTHORS   Chen J, Liu J
+  TITLE     Characterization of the structure of antithrombin-binding heparan sulfate generated by heparan sulfate 3-O-sulfotransferase 5.
+  JOURNAL   Biochim Biophys Acta 1725:190-200 (2005)
+            DOI:10.1016/j.bbagen.2005.06.012
+REL_PATHWAY hsa00531  Glycosaminoglycan degradation
+KO_PATHWAY  ko00534
+///

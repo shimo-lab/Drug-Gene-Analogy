@@ -1,0 +1,521 @@
+ENTRY       hsa05020                    Pathway
+NAME        Prion disease - Homo sapiens (human)
+DESCRIPTION Prion diseases, also termed transmissible spongiform encephalopathies (TSEs), are a group of fatal neurodegenerative diseases that affect humans and a number of other animal species. The etiology of these diseases is thought to be associated with the conversion of a normal protein, PrPC, into an infectious, pathogenic form, PrPSc. The conversion is induced by prion infections (for example, variant Creutzfeldt-Jakob disease (vCJD), iatrogenic CJD, Kuru), mutations (familial CJD, Gerstmann-Straussler-Scheinker syndrome, fatal familial insomnia (FFI)) or unknown factors (sporadic CJD (sCJD)), and is thought to occur after PrPC has reached the plasma membrane or is re-internalized for degradation. The PrPSc form shows greater protease resistance than PrPC and accumulates in affected individuals, often in the form of extracellular plaques. Pathways that may lead to neuronal death comprise oxidative stress, regulated activation of complement, ubiquitin-proteasome and endosomal-lysosomal systems, synaptic alterations and dendritic atrophy, corticosteroid response, and endoplasmic reticulum stress. In addition, the conformational transition could lead to the lost of a beneficial activity of the natively folded protein, PrPC.
+CLASS       Human Diseases; Neurodegenerative disease
+PATHWAY_MAP hsa05020  Prion disease
+NETWORK     nt06410  Calcium signaling
+            nt06412  Unfolded protein response (UPR) signaling
+            nt06415  PI3K signaling
+            nt06419  Microtubule-based transport
+            nt06420  Ubiquitin-proteasome system
+            nt06465  Prion disease
+  ELEMENT   N01197  Scrapie conformation PrPSc to 26S proteasome-mediated protein degradation
+            N01198  Scrapie conformation PrPSc to PERK-ATF4 signaling pathway
+            N01199  Scrapie conformation PrPSc to mGluR5-Ca2+ -apoptotic pathway
+            N01200  Scrapie conformation PrPSc to transport of calcium
+            N01201  Scrapie conformation PrPSc to VGCC-Ca2+ -apoptotic pathway
+            N01202  Oligomeric conformation PrPc to anterograde axonal transport
+            N01203  Scrapie conformation PrPSc to Notch singling pathway
+            N01205  Scrapie conformation PrPSc to PRNP-PI3K-NOX2 signaling pathway
+DISEASE     H00061  Prion disease
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5621  PRNP; prion protein [KO:K05634]
+            4684  NCAM1; neural cell adhesion molecule 1 [KO:K06491]
+            4685  NCAM2; neural cell adhesion molecule 2 [KO:K06491]
+            3915  LAMC1; laminin subunit gamma 1 [KO:K05635]
+            6647  SOD1; superoxide dismutase 1 [KO:K04565] [EC:1.15.1.1]
+            10963  STIP1; stress induced phosphoprotein 1 [KO:K09553]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            2534  FYN; FYN proto-oncogene, Src family tyrosine kinase [KO:K05703] [EC:2.7.10.2]
+            2902  GRIN1; glutamate ionotropic receptor NMDA type subunit 1 [KO:K05208]
+            2903  GRIN2A; glutamate ionotropic receptor NMDA type subunit 2A [KO:K05209]
+            2904  GRIN2B; glutamate ionotropic receptor NMDA type subunit 2B [KO:K05210]
+            2905  GRIN2C; glutamate ionotropic receptor NMDA type subunit 2C [KO:K05211]
+            2906  GRIN2D; glutamate ionotropic receptor NMDA type subunit 2D [KO:K05212]
+            116443  GRIN3A; glutamate ionotropic receptor NMDA type subunit 3A [KO:K05213]
+            116444  GRIN3B; glutamate ionotropic receptor NMDA type subunit 3B [KO:K05214]
+            774  CACNA1B; calcium voltage-gated channel subunit alpha1 B [KO:K04849]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            3309  HSPA5; heat shock protein family A (Hsp70) member 5 [KO:K09490] [EC:3.6.4.10]
+            9451  EIF2AK3; eukaryotic translation initiation factor 2 alpha kinase 3 [KO:K08860] [EC:2.7.11.1]
+            1965  EIF2S1; eukaryotic translation initiation factor 2 subunit alpha [KO:K03237]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            1649  DDIT3; DNA damage inducible transcript 3 [KO:K04452]
+            6261  RYR1; ryanodine receptor 1 [KO:K04961]
+            6262  RYR2; ryanodine receptor 2 [KO:K04962]
+            6263  RYR3; ryanodine receptor 3 [KO:K04963]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            100506742  CASP12; caspase 12 (gene/pseudogene) [KO:K04741] [EC:3.4.22.-]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            7417  VDAC2; voltage dependent anion channel 2 [KO:K15040]
+            7419  VDAC3; voltage dependent anion channel 3 [KO:K15041]
+            291  SLC25A4; solute carrier family 25 member 4 [KO:K05863]
+            292  SLC25A5; solute carrier family 25 member 5 [KO:K05863]
+            293  SLC25A6; solute carrier family 25 member 6 [KO:K05863]
+            83447  SLC25A31; solute carrier family 25 member 31 [KO:K05863]
+            10105  PPIF; peptidylprolyl isomerase F [KO:K09565] [EC:5.2.1.8]
+            317  APAF1; apoptotic peptidase activating factor 1 [KO:K02084]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            842  CASP9; caspase 9 [KO:K04399] [EC:3.4.22.62]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            90550  MCU; mitochondrial calcium uniporter [KO:K20858]
+            4535  ND1; NADH dehydrogenase subunit 1 [KO:K03878] [EC:7.1.1.2]
+            4536  ND2; NADH dehydrogenase subunit 2 [KO:K03879] [EC:7.1.1.2]
+            4537  ND3; NADH dehydrogenase subunit 3 [KO:K03880] [EC:7.1.1.2]
+            4538  ND4; NADH dehydrogenase subunit 4 [KO:K03881] [EC:7.1.1.2]
+            4539  ND4L; NADH dehydrogenase subunit 4L [KO:K03882] [EC:7.1.1.2]
+            4540  ND5; NADH dehydrogenase subunit 5 [KO:K03883] [EC:7.1.1.2]
+            4541  ND6; NADH dehydrogenase subunit 6 [KO:K03884] [EC:7.1.1.2]
+            4723  NDUFV1; NADH:ubiquinone oxidoreductase core subunit V1 [KO:K03942] [EC:7.1.1.2]
+            4729  NDUFV2; NADH:ubiquinone oxidoreductase core subunit V2 [KO:K03943] [EC:7.1.1.2]
+            4731  NDUFV3; NADH:ubiquinone oxidoreductase subunit V3 [KO:K03944]
+            4694  NDUFA1; NADH:ubiquinone oxidoreductase subunit A1 [KO:K03945]
+            4695  NDUFA2; NADH:ubiquinone oxidoreductase subunit A2 [KO:K03946]
+            4696  NDUFA3; NADH:ubiquinone oxidoreductase subunit A3 [KO:K03947]
+            4697  NDUFA4; NDUFA4 mitochondrial complex associated [KO:K03948]
+            56901  NDUFA4L2; NDUFA4 mitochondrial complex associated like 2 [KO:K03948]
+            4698  NDUFA5; NADH:ubiquinone oxidoreductase subunit A5 [KO:K03949]
+            4700  NDUFA6; NADH:ubiquinone oxidoreductase subunit A6 [KO:K03950]
+            4701  NDUFA7; NADH:ubiquinone oxidoreductase subunit A7 [KO:K03951]
+            4702  NDUFA8; NADH:ubiquinone oxidoreductase subunit A8 [KO:K03952]
+            4704  NDUFA9; NADH:ubiquinone oxidoreductase subunit A9 [KO:K03953]
+            4705  NDUFA10; NADH:ubiquinone oxidoreductase subunit A10 [KO:K03954]
+            4706  NDUFAB1; NADH:ubiquinone oxidoreductase subunit AB1 [KO:K03955]
+            126328  NDUFA11; NADH:ubiquinone oxidoreductase subunit A11 [KO:K03956]
+            55967  NDUFA12; NADH:ubiquinone oxidoreductase subunit A12 [KO:K11352]
+            51079  NDUFA13; NADH:ubiquinone oxidoreductase subunit A13 [KO:K11353]
+            4707  NDUFB1; NADH:ubiquinone oxidoreductase subunit B1 [KO:K03957]
+            4708  NDUFB2; NADH:ubiquinone oxidoreductase subunit B2 [KO:K03958]
+            4709  NDUFB3; NADH:ubiquinone oxidoreductase subunit B3 [KO:K03959]
+            4710  NDUFB4; NADH:ubiquinone oxidoreductase subunit B4 [KO:K03960]
+            4711  NDUFB5; NADH:ubiquinone oxidoreductase subunit B5 [KO:K03961]
+            4712  NDUFB6; NADH:ubiquinone oxidoreductase subunit B6 [KO:K03962]
+            4713  NDUFB7; NADH:ubiquinone oxidoreductase subunit B7 [KO:K03963]
+            4714  NDUFB8; NADH:ubiquinone oxidoreductase subunit B8 [KO:K03964]
+            4715  NDUFB9; NADH:ubiquinone oxidoreductase subunit B9 [KO:K03965]
+            4716  NDUFB10; NADH:ubiquinone oxidoreductase subunit B10 [KO:K03966]
+            54539  NDUFB11; NADH:ubiquinone oxidoreductase subunit B11 [KO:K11351]
+            4719  NDUFS1; NADH:ubiquinone oxidoreductase core subunit S1 [KO:K03934] [EC:7.1.1.2]
+            4720  NDUFS2; NADH:ubiquinone oxidoreductase core subunit S2 [KO:K03935] [EC:7.1.1.2]
+            4722  NDUFS3; NADH:ubiquinone oxidoreductase core subunit S3 [KO:K03936] [EC:7.1.1.2]
+            4724  NDUFS4; NADH:ubiquinone oxidoreductase subunit S4 [KO:K03937]
+            4725  NDUFS5; NADH:ubiquinone oxidoreductase subunit S5 [KO:K03938]
+            4726  NDUFS6; NADH:ubiquinone oxidoreductase subunit S6 [KO:K03939]
+            374291  NDUFS7; NADH:ubiquinone oxidoreductase core subunit S7 [KO:K03940] [EC:7.1.1.2]
+            4728  NDUFS8; NADH:ubiquinone oxidoreductase core subunit S8 [KO:K03941] [EC:7.1.1.2]
+            4717  NDUFC1; NADH:ubiquinone oxidoreductase subunit C1 [KO:K03967]
+            4718  NDUFC2; NADH:ubiquinone oxidoreductase subunit C2 [KO:K03968]
+            100532726  NDUFC2-KCTD14; NDUFC2-KCTD14 readthrough [KO:K03968]
+            6389  SDHA; succinate dehydrogenase complex flavoprotein subunit A [KO:K00234] [EC:1.3.5.1]
+            6390  SDHB; succinate dehydrogenase complex iron sulfur subunit B [KO:K00235] [EC:1.3.5.1]
+            6391  SDHC; succinate dehydrogenase complex subunit C [KO:K00236]
+            6392  SDHD; succinate dehydrogenase complex subunit D [KO:K00237]
+            7386  UQCRFS1; ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [KO:K00411] [EC:7.1.1.8]
+            4519  CYTB; cytochrome b [KO:K00412]
+            1537  CYC1; cytochrome c1 [KO:K00413]
+            7384  UQCRC1; ubiquinol-cytochrome c reductase core protein 1 [KO:K00414]
+            7385  UQCRC2; ubiquinol-cytochrome c reductase core protein 2 [KO:K00415]
+            7388  UQCRH; ubiquinol-cytochrome c reductase hinge protein [KO:K00416]
+            440567  UQCRHL; ubiquinol-cytochrome c reductase hinge protein like [KO:K00416]
+            7381  UQCRB; ubiquinol-cytochrome c reductase binding protein [KO:K00417]
+            27089  UQCRQ; ubiquinol-cytochrome c reductase complex III subunit VII [KO:K00418]
+            29796  UQCR10; ubiquinol-cytochrome c reductase, complex III subunit X [KO:K00419]
+            10975  UQCR11; ubiquinol-cytochrome c reductase, complex III subunit XI [KO:K00420]
+            4514  COX3; cytochrome c oxidase subunit III [KO:K02262]
+            4512  COX1; cytochrome c oxidase subunit I [KO:K02256] [EC:7.1.1.9]
+            4513  COX2; cytochrome c oxidase subunit II [KO:K02261]
+            84701  COX4I2; cytochrome c oxidase subunit 4I2 [KO:K02263]
+            1327  COX4I1; cytochrome c oxidase subunit 4I1 [KO:K02263]
+            9377  COX5A; cytochrome c oxidase subunit 5A [KO:K02264]
+            1329  COX5B; cytochrome c oxidase subunit 5B [KO:K02265]
+            1337  COX6A1; cytochrome c oxidase subunit 6A1 [KO:K02266]
+            1339  COX6A2; cytochrome c oxidase subunit 6A2 [KO:K02266]
+            1340  COX6B1; cytochrome c oxidase subunit 6B1 [KO:K02267]
+            125965  COX6B2; cytochrome c oxidase subunit 6B2 [KO:K02267]
+            1345  COX6C; cytochrome c oxidase subunit 6C [KO:K02268]
+            1346  COX7A1; cytochrome c oxidase subunit 7A1 [KO:K02270]
+            1347  COX7A2; cytochrome c oxidase subunit 7A2 [KO:K02270]
+            9167  COX7A2L; cytochrome c oxidase subunit 7A2 like [KO:K02270]
+            1349  COX7B; cytochrome c oxidase subunit 7B [KO:K02271]
+            170712  COX7B2; cytochrome c oxidase subunit 7B2 [KO:K02271]
+            1350  COX7C; cytochrome c oxidase subunit 7C [KO:K02272]
+            341947  COX8C; cytochrome c oxidase subunit 8C [KO:K02273]
+            1351  COX8A; cytochrome c oxidase subunit 8A [KO:K02273]
+            498  ATP5F1A; ATP synthase F1 subunit alpha [KO:K02132]
+            506  ATP5F1B; ATP synthase F1 subunit beta [KO:K02133] [EC:7.1.2.2]
+            509  ATP5F1C; ATP synthase F1 subunit gamma [KO:K02136]
+            513  ATP5F1D; ATP synthase F1 subunit delta [KO:K02134]
+            514  ATP5F1E; ATP synthase F1 subunit epsilon [KO:K02135]
+            4508  ATP6; ATP synthase F0 subunit 6 [KO:K02126]
+            515  ATP5PB; ATP synthase peripheral stalk-membrane subunit b [KO:K02127]
+            516  ATP5MC1; ATP synthase membrane subunit c locus 1 [KO:K02128]
+            517  ATP5MC2; ATP synthase membrane subunit c locus 2 [KO:K02128]
+            518  ATP5MC3; ATP synthase membrane subunit c locus 3 [KO:K02128]
+            10476  ATP5PD; ATP synthase peripheral stalk subunit d [KO:K02138]
+            539  ATP5PO; ATP synthase peripheral stalk subunit OSCP [KO:K02137]
+            522  ATP5PF; ATP synthase peripheral stalk subunit F6 [KO:K02131]
+            4509  ATP8; ATP synthase F0 subunit 8 [KO:K02125]
+            5687  PSMA6; proteasome 20S subunit alpha 6 [KO:K02730] [EC:3.4.25.1]
+            5683  PSMA2; proteasome 20S subunit alpha 2 [KO:K02726] [EC:3.4.25.1]
+            5685  PSMA4; proteasome 20S subunit alpha 4 [KO:K02728] [EC:3.4.25.1]
+            5688  PSMA7; proteasome 20S subunit alpha 7 [KO:K02731] [EC:3.4.25.1]
+            143471  PSMA8; proteasome 20S subunit alpha 8 [KO:K02731] [EC:3.4.25.1]
+            5686  PSMA5; proteasome 20S subunit alpha 5 [KO:K02729] [EC:3.4.25.1]
+            5682  PSMA1; proteasome 20S subunit alpha 1 [KO:K02725] [EC:3.4.25.1]
+            5684  PSMA3; proteasome 20S subunit alpha 3 [KO:K02727] [EC:3.4.25.1]
+            5694  PSMB6; proteasome 20S subunit beta 6 [KO:K02738] [EC:3.4.25.1]
+            5695  PSMB7; proteasome 20S subunit beta 7 [KO:K02739] [EC:3.4.25.1]
+            5691  PSMB3; proteasome 20S subunit beta 3 [KO:K02735] [EC:3.4.25.1]
+            5690  PSMB2; proteasome 20S subunit beta 2 [KO:K02734] [EC:3.4.25.1]
+            5693  PSMB5; proteasome 20S subunit beta 5 [KO:K02737] [EC:3.4.25.1]
+            5689  PSMB1; proteasome 20S subunit beta 1 [KO:K02732] [EC:3.4.25.1]
+            5692  PSMB4; proteasome 20S subunit beta 4 [KO:K02736] [EC:3.4.25.1]
+            5701  PSMC2; proteasome 26S subunit, ATPase 2 [KO:K03061]
+            5700  PSMC1; proteasome 26S subunit, ATPase 1 [KO:K03062]
+            5704  PSMC4; proteasome 26S subunit, ATPase 4 [KO:K03063]
+            5706  PSMC6; proteasome 26S subunit, ATPase 6 [KO:K03064]
+            5702  PSMC3; proteasome 26S subunit, ATPase 3 [KO:K03065]
+            5705  PSMC5; proteasome 26S subunit, ATPase 5 [KO:K03066]
+            5708  PSMD2; proteasome 26S subunit ubiquitin receptor, non-ATPase 2 [KO:K03028]
+            5707  PSMD1; proteasome 26S subunit, non-ATPase 1 [KO:K03032]
+            5709  PSMD3; proteasome 26S subunit, non-ATPase 3 [KO:K03033]
+            5715  PSMD9; proteasome 26S subunit, non-ATPase 9 [KO:K06693]
+            5718  PSMD12; proteasome 26S subunit, non-ATPase 12 [KO:K03035]
+            5717  PSMD11; proteasome 26S subunit, non-ATPase 11 [KO:K03036]
+            9861  PSMD6; proteasome 26S subunit, non-ATPase 6 [KO:K03037]
+            5713  PSMD7; proteasome 26S subunit, non-ATPase 7 [KO:K03038]
+            5719  PSMD13; proteasome 26S subunit, non-ATPase 13 [KO:K03039]
+            5710  PSMD4; proteasome 26S subunit ubiquitin receptor, non-ATPase 4 [KO:K03029]
+            10213  PSMD14; proteasome 26S subunit, non-ATPase 14 [KO:K03030]
+            5714  PSMD8; proteasome 26S subunit, non-ATPase 8 [KO:K03031]
+            11047  ADRM1; ADRM1 26S proteasome ubiquitin receptor [KO:K06691]
+            7979  SEM1; SEM1 26S proteasome subunit [KO:K10881]
+            727  C5; complement C5 [KO:K03994]
+            729  C6; complement C6 [KO:K03995]
+            730  C7; complement C7 [KO:K03996]
+            731  C8A; complement C8 alpha chain [KO:K03997]
+            732  C8B; complement C8 beta chain [KO:K03998]
+            733  C8G; complement C8 gamma chain [KO:K03999]
+            735  C9; complement C9 [KO:K04000]
+            712  C1QA; complement C1q A chain [KO:K03986]
+            713  C1QB; complement C1q B chain [KO:K03987]
+            714  C1QC; complement C1q C chain [KO:K03988]
+            3312  HSPA8; heat shock protein family A (Hsp70) member 8 [KO:K03283]
+            3303  HSPA1A; heat shock protein family A (Hsp70) member 1A [KO:K03283]
+            3306  HSPA2; heat shock protein family A (Hsp70) member 2 [KO:K03283]
+            3305  HSPA1L; heat shock protein family A (Hsp70) member 1 like [KO:K03283]
+            3304  HSPA1B; heat shock protein family A (Hsp70) member 1B [KO:K03283]
+            3310  HSPA6; heat shock protein family A (Hsp70) member 6 [KO:K03283]
+            4851  NOTCH1; notch receptor 1 [KO:K02599]
+            857  CAV1; caveolin 1 [KO:K06278]
+            858  CAV2; caveolin 2 [KO:K12958]
+            859  CAV3; caveolin 3 [KO:K12959]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            1536  CYBB; cytochrome b-245 beta chain [KO:K21421] [EC:1.-.-.-]
+            1535  CYBA; cytochrome b-245 alpha chain [KO:K08009]
+            4689  NCF4; neutrophil cytosolic factor 4 [KO:K08012]
+            653361  NCF1; neutrophil cytosolic factor 1 [KO:K08011]
+            4688  NCF2; neutrophil cytosolic factor 2 [KO:K08010]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            5880  RAC2; Rac family small GTPase 2 [KO:K07860]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            1958  EGR1; early growth response 1 [KO:K09203]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            3552  IL1A; interleukin 1 alpha [KO:K04383]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3569  IL6; interleukin 6 [KO:K05405]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            1457  CSNK2A1; casein kinase 2 alpha 1 [KO:K03097] [EC:2.7.11.1]
+            1459  CSNK2A2; casein kinase 2 alpha 2 [KO:K03097] [EC:2.7.11.1]
+            283106  CSNK2A3; casein kinase 2 alpha 3 [KO:K03097] [EC:2.7.11.1]
+            1460  CSNK2B; casein kinase 2 beta [KO:K03115]
+            3798  KIF5A; kinesin family member 5A [KO:K10396]
+            3799  KIF5B; kinesin family member 5B [KO:K10396]
+            3800  KIF5C; kinesin family member 5C [KO:K10396]
+            147700  KLC3; kinesin light chain 3 [KO:K10407]
+            3831  KLC1; kinesin light chain 1 [KO:K10407]
+            64837  KLC2; kinesin light chain 2 [KO:K10407]
+            89953  KLC4; kinesin light chain 4 [KO:K10407]
+            10376  TUBA1B; tubulin alpha 1b [KO:K07374]
+            7277  TUBA4A; tubulin alpha 4a [KO:K07374]
+            7278  TUBA3C; tubulin alpha 3c [KO:K07374]
+            7846  TUBA1A; tubulin alpha 1a [KO:K07374]
+            84790  TUBA1C; tubulin alpha 1c [KO:K07374]
+            51807  TUBA8; tubulin alpha 8 [KO:K07374]
+            112714  TUBA3E; tubulin alpha 3e [KO:K07374]
+            113457  TUBA3D; tubulin alpha 3d [KO:K07374]
+            79861  TUBAL3; tubulin alpha like 3 [KO:K07374]
+            84617  TUBB6; tubulin beta 6 class V [KO:K07375]
+            203068  TUBB; tubulin beta class I [KO:K07375]
+            81027  TUBB1; tubulin beta 1 class VI [KO:K07375]
+            7280  TUBB2A; tubulin beta 2A class IIa [KO:K07375]
+            10381  TUBB3; tubulin beta 3 class III [KO:K07375]
+            10382  TUBB4A; tubulin beta 4A class IVa [KO:K07375]
+            347688  TUBB8; tubulin beta 8 class VIII [KO:K07375]
+            347733  TUBB2B; tubulin beta 2B class IIb [KO:K07375]
+            10383  TUBB4B; tubulin beta 4B class IVb [KO:K07375]
+COMPOUND    C00027  Hydrogen peroxide
+            C00076  Calcium cation
+            C00575  3',5'-Cyclic AMP
+            C00704  Superoxide
+            C02140  Corticosterone
+REFERENCE   PMID:27055367
+  AUTHORS   Saa P, Harris DA, Cervenakova L
+  TITLE     Mechanisms of prion-induced neurodegeneration.
+  JOURNAL   Expert Rev Mol Med 18:e5 (2016)
+            DOI:10.1017/erm.2016.8
+REFERENCE   PMID:25584786
+  AUTHORS   Goold R, McKinnon C, Tabrizi SJ
+  TITLE     Prion degradation pathways: Potential for therapeutic intervention.
+  JOURNAL   Mol Cell Neurosci 66:12-20 (2015)
+            DOI:10.1016/j.mcn.2014.12.009
+REFERENCE   PMID:20889378
+  AUTHORS   Soto C, Satani N
+  TITLE     The intricate mechanisms of neurodegeneration in prion diseases.
+  JOURNAL   Trends Mol Med 17:14-24 (2011)
+            DOI:10.1016/j.molmed.2010.09.001
+REFERENCE   PMID:27060771
+  AUTHORS   Mays CE, Soto C
+  TITLE     The stress of prion disease.
+  JOURNAL   Brain Res 1648:553-560 (2016)
+            DOI:10.1016/j.brainres.2016.04.009
+REFERENCE   PMID:32565065
+  AUTHORS   Jones E, Mead S
+  TITLE     Genetic risk factors for Creutzfeldt-Jakob disease.
+  JOURNAL   Neurobiol Dis 142:104973 (2020)
+            DOI:10.1016/j.nbd.2020.104973
+REFERENCE   PMID:18245809
+  AUTHORS   Kovacs GG, Budka H
+  TITLE     Prion diseases: from protein to cell pathology.
+  JOURNAL   Am J Pathol 172:555-65 (2008)
+            DOI:10.2353/ajpath.2008.070442
+REFERENCE   PMID:15695097
+  AUTHORS   Campana V, Sarnataro D, Zurzolo C
+  TITLE     The highways and byways of prion protein trafficking.
+  JOURNAL   Trends Cell Biol 15:102-11 (2005)
+            DOI:10.1016/j.tcb.2004.12.002
+REFERENCE   PMID:17051207
+  AUTHORS   Caughey B, Baron GS
+  TITLE     Prions and their partners in crime.
+  JOURNAL   Nature 443:803-10 (2006)
+            DOI:10.1038/nature05294
+REFERENCE   PMID:11592845
+  AUTHORS   Chiesa R, Harris DA
+  TITLE     Prion diseases: what is the neurotoxic molecule?
+  JOURNAL   Neurobiol Dis 8:743-63 (2001)
+            DOI:10.1006/nbdi.2001.0433
+REFERENCE   PMID:17085779
+  AUTHORS   Fasano C, Campana V, Zurzolo C
+  TITLE     Prions: protein only or something more? Overview of potential prion cofactors.
+  JOURNAL   J Mol Neurosci 29:195-214 (2006)
+            DOI:10.1385/JMN:29:3:195
+REFERENCE   PMID:14705136
+  AUTHORS   Roucou X, Gains M, LeBlanc AC
+  TITLE     Neuroprotective functions of prion protein.
+  JOURNAL   J Neurosci Res 75:153-61 (2004)
+            DOI:10.1002/jnr.10864
+REFERENCE   PMID:10398674
+  AUTHORS   Harris DA
+  TITLE     Cellular biology of prion diseases.
+  JOURNAL   Clin Microbiol Rev 12:429-44 (1999)
+REFERENCE   PMID:15890824
+  AUTHORS   Novakofski J, Brewer MS, Mateus-Pinilla N, Killefer J, McCusker RH
+  TITLE     Prion biology relevant to bovine spongiform encephalopathy.
+  JOURNAL   J Anim Sci 83:1455-76 (2005)
+            DOI:10.2527/2005.8361455x
+REFERENCE   PMID:27581199
+  AUTHORS   Peggion C, Bertoli A, Sorgato MC
+  TITLE     Almost a century of prion protein(s): From pathology to physiology, and back to pathology.
+  JOURNAL   Biochem Biophys Res Commun 483:1148-1155 (2017)
+            DOI:10.1016/j.bbrc.2016.07.118
+REFERENCE   PMID:31618844
+  AUTHORS   Ryskalin L, Busceti CL, Biagioni F, Limanaqi F, Familiari P, Frati A, Fornai F
+  TITLE     Prion Protein in Glioblastoma Multiforme.
+  JOURNAL   Int J Mol Sci 20:E5107 (2019)
+            DOI:10.3390/ijms20205107
+REFERENCE   PMID:31795242
+  AUTHORS   Ureshino RP, Erustes AG, Bassani TB, Wachilewski P, Guarache GC, Nascimento AC, Costa AJ, Smaili SS, Pereira GJDS
+  TITLE     The Interplay between Ca(2+) Signaling Pathways and Neurodegeneration.
+  JOURNAL   Int J Mol Sci 20:E6004 (2019)
+            DOI:10.3390/ijms20236004
+REFERENCE   PMID:30710214
+  AUTHORS   Meneghetti E, Gasperini L, Virgilio T, Moda F, Tagliavini F, Benetti F, Legname G
+  TITLE     Prions Strongly Reduce NMDA Receptor S-Nitrosylation Levels at Pre-symptomatic and Terminal Stages of Prion Diseases.
+  JOURNAL   Mol Neurobiol 56:6035-6045 (2019)
+            DOI:10.1007/s12035-019-1505-6
+REFERENCE   PMID:23439666
+  AUTHORS   Song Z, Zhao D, Yang L
+  TITLE     Molecular mechanisms of neurodegeneration mediated by dysfunctional subcellular organelles in transmissible spongiform encephalopathies.
+  JOURNAL   Acta Biochim Biophys Sin (Shanghai) 45:452-64 (2013)
+            DOI:10.1093/abbs/gmt014
+REFERENCE   PMID:28643372
+  AUTHORS   Halliday M, Hughes D, Mallucci GR
+  TITLE     Fine-tuning PERK signaling for neuroprotection.
+  JOURNAL   J Neurochem 142:812-826 (2017)
+            DOI:10.1111/jnc.14112
+REFERENCE   PMID:29194372
+  AUTHORS   Hughes D, Halliday M
+  TITLE     What Is Our Current Understanding of PrP(Sc)-Associated Neurotoxicity and Its Molecular Underpinnings?
+  JOURNAL   Pathogens 6:E63 (2017)
+            DOI:10.3390/pathogens6040063
+REFERENCE   PMID:24619348
+  AUTHORS   Hetz C, Mollereau B
+  TITLE     Disturbance of endoplasmic reticulum proteostasis in neurodegenerative diseases.
+  JOURNAL   Nat Rev Neurosci 15:233-49 (2014)
+            DOI:10.1038/nrn3689
+REFERENCE   PMID:29476642
+  AUTHORS   Hughes D, Mallucci GR
+  TITLE     The unfolded protein response in neurodegenerative disorders - therapeutic modulation of the PERK pathway.
+  JOURNAL   FEBS J 286:342-355 (2019)
+            DOI:10.1111/febs.14422
+REFERENCE   PMID:21722302
+  AUTHORS   Doyle KM, Kennedy D, Gorman AM, Gupta S, Healy SJ, Samali A
+  TITLE     Unfolded proteins and endoplasmic reticulum stress in neurodegenerative disorders.
+  JOURNAL   J Cell Mol Med 15:2025-39 (2011)
+            DOI:10.1111/j.1582-4934.2011.01374.x
+REFERENCE   PMID:18420416
+  AUTHORS   Ferreiro E, Oliveira CR, Pereira CM
+  TITLE     The release of calcium from the endoplasmic reticulum induced by amyloid-beta and prion peptides activates the mitochondrial apoptotic pathway.
+  JOURNAL   Neurobiol Dis 30:331-42 (2008)
+            DOI:10.1016/j.nbd.2008.02.003
+REFERENCE   PMID:16844381
+  AUTHORS   Ferreiro E, Resende R, Costa R, Oliveira CR, Pereira CM
+  TITLE     An endoplasmic-reticulum-specific apoptotic pathway is involved in prion and amyloid-beta peptides neurotoxicity.
+  JOURNAL   Neurobiol Dis 23:669-78 (2006)
+            DOI:10.1016/j.nbd.2006.05.011
+REFERENCE   PMID:21980554
+  AUTHORS   Torres M, Encina G, Soto C, Hetz C
+  TITLE     Abnormal calcium homeostasis and protein folding stress at the ER: A common factor in familial and infectious prion disorders.
+  JOURNAL   Commun Integr Biol 4:258-61 (2011)
+            DOI:10.4161/cib.4.3.15019
+REFERENCE   PMID:25766616
+  AUTHORS   Ciechanover A, Kwon YT
+  TITLE     Degradation of misfolded proteins in neurodegenerative diseases: therapeutic targets and strategies.
+  JOURNAL   Exp Mol Med 47:e147 (2015)
+            DOI:10.1038/emm.2014.117
+REFERENCE   PMID:17466621
+  AUTHORS   Kristiansen M, Deriziotis P, Dimcheff DE, Jackson GS, Ovaa H, Naumann H, Clarke AR, van Leeuwen FW, Menendez-Benito V, Dantuma NP, Portis JL, Collinge J, Tabrizi SJ
+  TITLE     Disease-associated prion protein oligomers inhibit the 26S proteasome.
+  JOURNAL   Mol Cell 26:175-88 (2007)
+            DOI:10.1016/j.molcel.2007.04.001
+REFERENCE   PMID:10195903
+  AUTHORS   Wang HG, Pathan N, Ethell IM, Krajewski S, Yamaguchi Y, Shibasaki F, McKeon F, Bobo T, Franke TF, Reed JC.
+  TITLE     Ca2+-induced apoptosis through calcineurin dephosphorylation of BAD.
+  JOURNAL   Science 284:339-43 (1999)
+            DOI:10.1126/science.284.5412.339
+REFERENCE   PMID:14532116
+  AUTHORS   Hetz C, Russelakis-Carneiro M, Maundrell K, Castilla J, Soto C
+  TITLE     Caspase-12 and endoplasmic reticulum stress mediate neurotoxicity of pathological prion protein.
+  JOURNAL   EMBO J 22:5435-45 (2003)
+            DOI:10.1093/emboj/cdg537
+REFERENCE   PMID:31417367
+  AUTHORS   Zamponi E, Pigino GF
+  TITLE     Protein Misfolding, Signaling Abnormalities and Altered Fast Axonal Transport: Implications for Alzheimer and Prion Diseases.
+  JOURNAL   Front Cell Neurosci 13:350 (2019)
+            DOI:10.3389/fncel.2019.00350
+REFERENCE   PMID:29261664
+  AUTHORS   Zamponi E, Buratti F, Cataldi G, Caicedo HH, Song Y, Jungbauer LM, LaDu MJ, Bisbal M, Lorenzo A, Ma J, Helguera PR, Morfini GA, Brady ST, Pigino GF
+  TITLE     Prion protein inhibits fast axonal transport through a mechanism involving casein kinase 2.
+  JOURNAL   PLoS One 12:e0188340 (2017)
+            DOI:10.1371/journal.pone.0188340
+REFERENCE   PMID:21196165
+  AUTHORS   Schneider B, Pietri M, Pradines E, Loubet D, Launay JM, Kellermann O, Mouillet-Richard S
+  TITLE     Understanding the neurospecificity of Prion protein signaling.
+  JOURNAL   Front Biosci (Landmark Ed) 16:169-86 (2011)
+            DOI:10.2741/3682
+REFERENCE   PMID:23479001
+  AUTHORS   Didonna A
+  TITLE     Prion protein and its role in signal transduction.
+  JOURNAL   Cell Mol Biol Lett 18:209-30 (2013)
+            DOI:10.2478/s11658-013-0085-0
+REFERENCE   PMID:28507517
+  AUTHORS   Shah SZA, Zhao D, Hussain T, Yang L
+  TITLE     The Role of Unfolded Protein Response and Mitogen-Activated Protein Kinase Signaling in Neurodegenerative Diseases with Special Focus on Prion Diseases.
+  JOURNAL   Front Aging Neurosci 9:120 (2017)
+            DOI:10.3389/fnagi.2017.00120
+REFERENCE   PMID:15528202
+  AUTHORS   Marella M, Gaggioli C, Batoz M, Deckert M, Tartare-Deckert S, Chabry J
+  TITLE     Pathological prion protein exposure switches on neuronal mitogen-activated protein kinase pathway resulting in microglia recruitment.
+  JOURNAL   J Biol Chem 280:1529-34 (2005)
+            DOI:10.1074/jbc.M410966200
+REFERENCE   PMID:15640354
+  AUTHORS   Ishikura N, Clever JL, Bouzamondo-Bernstein E, Samayoa E, Prusiner SB, Huang EJ, DeArmond SJ
+  TITLE     Notch-1 activation and dendritic atrophy in prion disease.
+  JOURNAL   Proc Natl Acad Sci U S A 102:886-91 (2005)
+            DOI:10.1073/pnas.0408612101
+REFERENCE   PMID:20205843
+  AUTHORS   Dearmond SJ, Bajsarowicz K
+  TITLE     PrPSc accumulation in neuronal plasma membranes links Notch-1 activation to dendritic degeneration in prion diseases.
+  JOURNAL   Mol Neurodegener 5:6 (2010)
+            DOI:10.1186/1750-1326-5-6
+REFERENCE   PMID:29998397
+  AUTHORS   Hirsch TZ, Martin-Lanneree S, Reine F, Hernandez-Rapp J, Herzog L, Dron M, Privat N, Passet B, Halliez S, Villa-Diaz A, Lacroux C, Klein V, Haik S, Andreoletti O, Torres JM, Vilotte JL, Beringue V, Mouillet-Richard S
+  TITLE     Epigenetic Control of the Notch and Eph Signaling Pathways by the Prion Protein: Implications for Prion Diseases.
+  JOURNAL   Mol Neurobiol 56:2159-2173 (2019)
+            DOI:10.1007/s12035-018-1193-7
+REFERENCE   PMID:28714865
+  AUTHORS   Aguzzi A, Zhu C
+  TITLE     Microglia in prion diseases.
+  JOURNAL   J Clin Invest 127:3230-3239 (2017)
+            DOI:10.1172/JCI90605
+REFERENCE   PMID:15342004
+  AUTHORS   Mabbott NA
+  TITLE     The complement system in prion diseases.
+  JOURNAL   Curr Opin Immunol 16:587-93 (2004)
+            DOI:10.1016/j.coi.2004.07.002
+REFERENCE   PMID:15611724
+  AUTHORS   Mallucci G, Collinge J
+  TITLE     Rational targeting for prion therapeutics.
+  JOURNAL   Nat Rev Neurosci 6:23-34 (2005)
+            DOI:10.1038/nrn1584
+REL_PATHWAY hsa00190  Oxidative phosphorylation
+            hsa03050  Proteasome
+            hsa04020  Calcium signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04141  Protein processing in endoplasmic reticulum
+            hsa04142  Lysosome
+            hsa04144  Endocytosis
+            hsa04210  Apoptosis
+            hsa04330  Notch signaling pathway
+            hsa04610  Complement and coagulation cascades
+            hsa04668  TNF signaling pathway
+KO_PATHWAY  ko05020
+///

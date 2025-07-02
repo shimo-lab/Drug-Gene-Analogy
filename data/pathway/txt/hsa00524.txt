@@ -1,0 +1,244 @@
+ENTRY       hsa00524                    Pathway
+NAME        Neomycin, kanamycin and gentamicin biosynthesis - Homo sapiens (human)
+CLASS       Metabolism; Biosynthesis of other secondary metabolites
+PATHWAY_MAP hsa00524  Neomycin, kanamycin and gentamicin biosynthesis
+DBLINKS     GO: 1901158 1901133 1901130
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3101  HK3; hexokinase 3 [KO:K00844] [EC:2.7.1.1]
+            3098  HK1; hexokinase 1 [KO:K00844] [EC:2.7.1.1]
+            3099  HK2; hexokinase 2 [KO:K00844] [EC:2.7.1.1]
+            80201  HKDC1; hexokinase domain containing 1 [KO:K00844] [EC:2.7.1.1]
+            2645  GCK; glucokinase [KO:K12407] [EC:2.7.1.2]
+COMPOUND    C00025  L-Glutamate
+            C00029  UDP-glucose
+            C00031  D-Glucose
+            C00043  UDP-N-acetyl-alpha-D-glucosamine
+            C00092  D-Glucose 6-phosphate
+            C00229  Acyl-carrier protein
+            C00397  Tobramycin
+            C00825  Kanamycin B
+            C00832  Paromomycin
+            C00908  Gentamicin C1a
+            C01441  Neamine
+            C01555  Apramycin
+            C01737  Neomycin B
+            C01743  Paromamine
+            C01759  Ribostamycin
+            C01822  Kanamycin A
+            C01823  Kanamycin C
+            C01917  Gentamicin A
+            C02033  Gentamicin C2
+            C02627  2-Deoxystreptamine
+            C07656  Gentamicin C1
+            C12210  UDP-3-ketoglucose
+            C12211  UDP-kanosamine
+            C15652  Neomycin C
+            C17209  2-Deoxy-scyllo-inosose
+            C17580  2-Deoxy-scyllo-inosamine
+            C17581  3-Amino-2,3-dideoxy-scyllo-inosose
+            C17582  2'-N-Acetylparomamine
+            C17583  6'-Dehydro-6'-oxoparomamine
+            C17584  Xylostasin
+            C17585  Butirosin A
+            C17586  Butirosin B
+            C17587  2'''-N-Acetyl-6'''-deamino-6'''-hydroxyneomycin C
+            C17588  6'''-Deamino-6'''-hydroxyneomycin C
+            C17589  6'''-Deamino-6'''-oxoneomycin C
+            C17701  Gentamicin A2
+            C17702  Gentamicin X2
+            C17703  Antibiotic G-418
+            C17704  Antibiotic JI-20A
+            C17705  Antibiotic JI-20B
+            C17706  Gentamicin C2b
+            C17707  Lividomycin A
+            C17712  Paromomycin II
+            C17997  Oxyapramycin
+            C18000  Nebramycin factor 4
+            C18001  Nebramycin 5'
+            C18002  5-Ribosylparomamine
+            C18003  Lividomycin B
+            C18004  5''-Phosphoribostamycin
+            C18005  gamma-L-Glutamyl-butirosin B
+            C18006  gamma-L-Glutamyl-[acp]
+            C18007  4-Aminobutyryl-[acp]
+            C18008  4-(gamma-L-Glutamylamino)butanoyl-[acp]
+            C18009  4-(gamma-L-Glutamylamino)-(2S)-2-hydroxybutanoyl-[acp]
+            C20350  2'-Deamino-2'-hydroxyneamine
+            C20351  2'-Deamino-2'-hydroxy-6'-dehydroparomamine
+            C20353  2'-Deamino-2'-hydroxyparomamine
+            C20509  2'-Dehydrokanamycin A
+            C20614  Kanamycin X
+            C20699  6''-O-Carbamoylkanamycin A
+            C21176  3''-Oxoribostamycin
+            C21251  6'-Oxokanamycin X
+            C21252  6'-Oxokanamycin C
+            C21253  Kanamycin D
+            C21254  3''-Deamino-3''-hydroxykanamycin B
+            C21255  Lividamine
+            C21256  6'-Oxolividamine
+            C21257  4'-Oxolividamine
+            C21258  4'-Oxonebramine
+            C21259  Nebramine
+            C21260  5''-Phosphoribosylparomamine
+            C21261  2'''-N-Acetyl-6'''-deamino-6'''-hydroxyparomomycin II
+            C21262  6'''-Deamino-6'''-hydroxyparomomycin II
+            C21263  6'''-Deamino-6'''-oxoparomomycin II
+            C21264  5'''-epi-Lividomycin B
+            C21265  3''-Oxogentamicin A2
+            C21266  3''-Amino-3''-deoxygentamicin A2
+            C21267  6'-Oxogentamicin X2
+            C21268  6'-Oxo-G418
+            C21269  Antibiotic JI-20Ba
+            C21270  Gentamicin C2a
+REFERENCE   PMID:19362652
+  AUTHORS   Kudo F, Eguchi T
+  TITLE     Biosynthetic enzymes for the aminoglycosides butirosin and neomycin.
+  JOURNAL   Methods Enzymol 459:493-519 (2009)
+            DOI:10.1016/S0076-6879(09)04620-5
+REFERENCE   PMID:19644520
+  AUTHORS   Kudo F, Eguchi T
+  TITLE     Biosynthetic genes for aminoglycoside antibiotics.
+  JOURNAL   J Antibiot (Tokyo) 62:471-81 (2009)
+            DOI:10.1038/ja.2009.76
+REFERENCE   PMID:17879343
+  AUTHORS   Nango E, Kumasaka T, Hirayama T, Tanaka N, Eguchi T
+  TITLE     Structure of 2-deoxy-scyllo-inosose synthase, a key enzyme in the biosynthesis of 2-deoxystreptamine-containing aminoglycoside antibiotics, in complex with a mechanism-based inhibitor and NAD+.
+  JOURNAL   Proteins 70:517-27 (2008)
+            DOI:10.1002/prot.21526
+REFERENCE   PMID:15839685
+  AUTHORS   Yokoyama K, Kudo F, Kuwahara M, Inomata K, Tamegai H, Eguchi T, Kakinuma K
+  TITLE     Stereochemical recognition of doubly functional aminotransferase in 2-deoxystreptamine biosynthesis.
+  JOURNAL   J Am Chem Soc 127:5869-74 (2005)
+            DOI:10.1021/ja0445948
+REFERENCE   PMID:12374384
+  AUTHORS   Tamegai H, Nango E, Kuwahara M, Yamamoto H, Ota Y, Kuriki H, Eguchi T, Kakinuma K
+  TITLE     Identification of L-glutamine: 2-deoxy-scyllo-inosose aminotransferase required for the biosynthesis of butirosin in Bacillus circulans.
+  JOURNAL   J Antibiot (Tokyo) 55:707-14 (2002)
+            DOI:10.7164/antibiotics.55.707
+REFERENCE   PMID:16506694
+  AUTHORS   Kudo F, Yamamoto Y, Yokoyama K, Eguchi T, Kakinuma K
+  TITLE     Biosynthesis of 2-deoxystreptamine by three crucial enzymes in Streptomyces fradiae NBRC 12773.
+  JOURNAL   J Antibiot (Tokyo) 58:766-74 (2005)
+            DOI:10.1038/ja.2005.104
+REFERENCE   PMID:18672902
+  AUTHORS   Yokoyama K, Ohmori D, Kudo F, Eguchi T
+  TITLE     Mechanistic study on the reaction of a radical SAM dehydrogenase BtrN by electron paramagnetic resonance spectroscopy.
+  JOURNAL   Biochemistry 47:8950-60 (2008)
+            DOI:10.1021/bi800509x
+REFERENCE   PMID:18001019
+  AUTHORS   Yokoyama K, Numakura M, Kudo F, Ohmori D, Eguchi T
+  TITLE     Characterization and mechanistic study of a radical SAM dehydrogenase in the biosynthesis of butirosin.
+  JOURNAL   J Am Chem Soc 129:15147-55 (2007)
+            DOI:10.1021/ja072481t
+REFERENCE   PMID:18311744
+  AUTHORS   Yokoyama K, Yamamoto Y, Kudo F, Eguchi T
+  TITLE     Involvement of two distinct N-acetylglucosaminyltransferases and a dual-function deacetylase in neomycin biosynthesis.
+  JOURNAL   Chembiochem 9:865-9 (2008)
+            DOI:10.1002/cbic.200700717
+REFERENCE   PMID:18802637
+  AUTHORS   Fan Q, Huang F, Leadlay PF, Spencer JB
+  TITLE     The neomycin biosynthetic gene cluster of Streptomyces fradiae NCIMB 8233: genetic and biochemical evidence for the roles of two glycosyltransferases and a deacetylase.
+  JOURNAL   Org Biomol Chem 6:3306-14 (2008)
+            DOI:10.1039/b808734b
+REFERENCE   PMID:17226887
+  AUTHORS   Truman AW, Huang F, Llewellyn NM, Spencer JB
+  TITLE     Characterization of the enzyme BtrD from Bacillus circulans and revision of its functional assignment in the biosynthesis of butirosin.
+  JOURNAL   Angew Chem Int Ed Engl 46:1462-4 (2007)
+            DOI:10.1002/anie.200604194
+REFERENCE   PMID:17482823
+  AUTHORS   Kudo F, Fujii T, Kinoshita S, Eguchi T
+  TITLE     Unique O-ribosylation in the biosynthesis of butirosin.
+  JOURNAL   Bioorg Med Chem 15:4360-8 (2007)
+            DOI:10.1016/j.bmc.2007.04.040
+REFERENCE   PMID:12870817
+  AUTHORS   Yukita T, Nishida H, Eguchi T, Kakinuma K
+  TITLE     Biosynthesis of (2R)-4-amino-2-hydroxybutyric acid, unique and biologically significant substituent in butirosins.
+  JOURNAL   J Antibiot (Tokyo) 56:497-500 (2003)
+            DOI:10.7164/antibiotics.56.497
+REFERENCE   PMID:15975512
+  AUTHORS   Li Y, Llewellyn NM, Giri R, Huang F, Spencer JB
+  TITLE     Biosynthesis of the unique amino acid side chain of butirosin: possible protective-group chemistry in an acyl carrier protein-mediated pathway.
+  JOURNAL   Chem Biol 12:665-75 (2005)
+            DOI:10.1016/j.chembiol.2005.04.010
+REFERENCE   PMID:17462573
+  AUTHORS   Llewellyn NM, Li Y, Spencer JB
+  TITLE     Biosynthesis of butirosin: transfer and deprotection of the unique amino acid side chain.
+  JOURNAL   Chem Biol 14:379-86 (2007)
+            DOI:10.1016/j.chembiol.2007.02.005
+REFERENCE   PMID:18685777
+  AUTHORS   Llewellyn NM, Spencer JB
+  TITLE     Chemoenzymatic acylation of aminoglycoside antibiotics.
+  JOURNAL   Chem Commun (Camb) 3786-8 (2008)
+            DOI:10.1039/b802248h
+REFERENCE   PMID:19466609
+  AUTHORS   Nepal KK, Oh TJ, Sohng JK
+  TITLE     Heterologous production of paromamine in Streptomyces lividans TK24 using kanamycin biosynthetic genes from Streptomyces kanamyceticus ATCC12853.
+  JOURNAL   Mol Cells 27:601-8 (2009)
+            DOI:10.1007/s10059-009-0080-5
+REFERENCE   PMID:21983602
+  AUTHORS   Park JW, Park SR, Nepal KK, Han AR, Ban YH, Yoo YJ, Kim EJ, Kim EM, Kim D, Sohng JK, Yoon YJ
+  TITLE     Discovery of parallel pathways of kanamycin biosynthesis allows antibiotic manipulation.
+  JOURNAL   Nat Chem Biol 7:843-52 (2011)
+            DOI:10.1038/nchembio.671
+REFERENCE   
+  AUTHORS   Arya DP (ed).
+  TITLE     Aminoglycoside antibiotics: From chemical biology to drug discovery
+  JOURNAL   Wiley-Interscience (2007)
+REFERENCE   PMID:23179168
+  AUTHORS   Park SR, Park JW, Ban YH, Sohng JK, Yoon YJ
+  TITLE     2-Deoxystreptamine-containing aminoglycoside antibiotics: recent advances in the characterization and manipulation of their biosynthetic pathways.
+  JOURNAL   Nat Prod Rep 30:11-20 (2013)
+            DOI:10.1039/c2np20092a
+REFERENCE   PMID:17119636
+  AUTHORS   Llewellyn NM, Spencer JB
+  TITLE     Biosynthesis of 2-deoxystreptamine-containing aminoglycoside antibiotics.
+  JOURNAL   Nat Prod Rep 23:864-74 (2006)
+            DOI:10.1039/b604709m
+REFERENCE   PMID:26455715
+  AUTHORS   Kudo F, Eguchi T
+  TITLE     Aminoglycoside Antibiotics: New Insights into the Biosynthetic Machinery of Old Drugs.
+  JOURNAL   Chem Rec 16:4-18 (2016)
+            DOI:10.1002/tcr.201500210
+REFERENCE   PMID:25600434
+  AUTHORS   Takeishi R, Kudo F, Numakura M, Eguchi T
+  TITLE     Epimerization at C-3'' in butirosin biosynthesis by an NAD(+) -dependent dehydrogenase BtrE and an NADPH-dependent reductase BtrF.
+  JOURNAL   Chembiochem 16:487-95 (2015)
+            DOI:10.1002/cbic.201402612
+REFERENCE   PMID:27120352
+  AUTHORS   Lv M, Ji X, Zhao J, Li Y, Zhang C, Su L, Ding W, Deng Z, Yu Y, Zhang Q
+  TITLE     Characterization of a C3 Deoxygenation Pathway Reveals a Key Branch Point in Aminoglycoside Biosynthesis.
+  JOURNAL   J Am Chem Soc 138:6427-35 (2016)
+            DOI:10.1021/jacs.6b02221
+REFERENCE   PMID:21689223
+  AUTHORS   Clausnitzer D, Piepersberg W, Wehmeier UF
+  TITLE     The oxidoreductases LivQ and NeoQ are responsible for the different 6'-modifications in the aminoglycosides lividomycin and neomycin.
+  JOURNAL   J Appl Microbiol 111:642-51 (2011)
+            DOI:10.1111/j.1365-2672.2011.05082.x
+REFERENCE   PMID:18550838
+  AUTHORS   Park JW, Hong JS, Parajuli N, Jung WS, Park SR, Lim SK, Sohng JK, Yoon YJ
+  TITLE     Genetic dissection of the biosynthetic route to gentamicin A2 by heterologous expression of its minimal gene set.
+  JOURNAL   Proc Natl Acad Sci U S A 105:8399-404 (2008)
+            DOI:10.1073/pnas.0803164105
+REFERENCE   PMID:25641167
+  AUTHORS   Huang C, Huang F, Moison E, Guo J, Jian X, Duan X, Deng Z, Leadlay PF, Sun Y
+  TITLE     Delineating the biosynthesis of gentamicin x2, the common precursor of the gentamicin C antibiotic complex.
+  JOURNAL   Chem Biol 22:251-61 (2015)
+            DOI:10.1016/j.chembiol.2014.12.012
+REFERENCE   PMID:24746560
+  AUTHORS   Guo J, Huang F, Huang C, Duan X, Jian X, Leeper F, Deng Z, Leadlay PF, Sun Y
+  TITLE     Specificity and promiscuity at the branch point in gentamicin biosynthesis.
+  JOURNAL   Chem Biol 21:608-18 (2014)
+            DOI:10.1016/j.chembiol.2014.03.005
+REFERENCE   PMID:26083124
+  AUTHORS   Gu Y, Ni X, Ren J, Gao H, Wang D, Xia H
+  TITLE     Biosynthesis of Epimers C2 and C2a in the Gentamicin C Complex.
+  JOURNAL   Chembiochem 16:1933-42 (2015)
+            DOI:10.1002/cbic.201500258
+REFERENCE   PMID:23679096
+  AUTHORS   Kim HJ, McCarty RM, Ogasawara Y, Liu YN, Mansoorabadi SO, LeVieux J, Liu HW
+  TITLE     GenK-catalyzed C-6' methylation in the biosynthesis of gentamicin: isolation and characterization of a cobalamin-dependent radical SAM enzyme.
+  JOURNAL   J Am Chem Soc 135:8093-6 (2013)
+            DOI:10.1021/ja312641f
+REL_PATHWAY hsa00520  Amino sugar and nucleotide sugar metabolism
+KO_PATHWAY  ko00524
+///

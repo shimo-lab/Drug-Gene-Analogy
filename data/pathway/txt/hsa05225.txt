@@ -1,0 +1,376 @@
+ENTRY       hsa05225                    Pathway
+NAME        Hepatocellular carcinoma - Homo sapiens (human)
+DESCRIPTION Hepatocellular carcinoma (HCC) is a major type of primary liver cancer and one of the rare human neoplasms etiologically linked to viral factors. It has been shown that, after HBV/HCV infection and alcohol or aflatoxin B1 exposure, genetic and epigenetic changes occur. The recurrent mutated genes were found to be highly enriched in multiple key driver signaling processes, including telomere maintenance, TP53, cell cycle regulation, the Wnt/beta-catenin pathway (CTNNB1 and AXIN1), the phosphatidylinositol-3 kinase (PI3K)/AKT/mammalian target of rapamycin (mTOR) pathway. Recent studies using whole-exome sequencing have revealed recurrent mutations in new driver genes involved in the chromatin remodelling (ARID1A and ARID2) and the oxidative stress (NFE2L2) pathways.
+CLASS       Human Diseases; Cancer: specific types
+PATHWAY_MAP hsa05225  Hepatocellular carcinoma
+NETWORK     nt06210  ERK signaling
+            nt06214  PI3K signaling
+            nt06215  WNT signaling
+            nt06218  TGFB signaling
+            nt06220  Calcium signaling
+            nt06226  KEAP1-NRF2 signaling
+            nt06230  Cell cycle
+            nt06232  Telomerase activity
+            nt06240  Transcription
+            nt06260  Colorectal cancer
+            nt06261  Gastric cancer
+            nt06262  Pancreatic cancer
+            nt06263  Hepatocellular carcinoma
+            nt06264  Renal cell carcinoma
+            nt06265  Bladder cancer
+            nt06266  Non-small cell lung cancer
+            nt06267  Small cell lung cancer
+            nt06268  Melanoma
+            nt06269  Basal cell carcinoma
+            nt06270  Breast cancer
+            nt06271  Endometrial cancer
+            nt06272  Prostate cancer
+            nt06273  Glioma
+            nt06274  Thyroid cancer
+            nt06276  Chronic myeloid leukemia
+  ELEMENT   N00005  Mutation-activated MET to RAS-ERK signaling pathway
+            N00044  Mutation-activated MET to PI3K signaling pathway
+            N00049  Mutation-activated PI3K to PI3K signaling pathway
+            N00052  Mutation-inactivated PTEN to PI3K signaling pathway
+            N00058  Mutation-activated CTNNB1 to Wnt signaling pathway
+            N00059  FZD7-overexpression to Wnt signaling pathway
+            N00071  Deleted p16(INK4a) to p16-cell cycle G1/S
+            N00074  Loss of RB1 to cell cycle G1/S
+            N00115  Mutation-inactivated TP53 to transcription
+            N00228  TGFA-overexpression to PLCG-PKC signaling pathway
+            N00230  TGFA-overexpression to RAS-ERK signaling pathway
+            N00232  TGFA-overexpression to PI3K signaling pathway
+            N00235  IGF2-overexpression to RAS-ERK signaling pathway
+            N00236  IGF2-overexpression to PI3K signaling pathway
+            N00237  IGF1R-overexpression to RAS-ERK signaling pathway
+            N00238  IGF1R-overexpression to PI3K signaling pathway
+            N00240  TERT-overexpression to telomerase activity
+            N00241  TGFBR2-reduced expression to TGF-beta signaling pathway
+            N00242  Mutation-inactivated AXIN to Wnt signaling pathway
+            N00244  Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway
+            N00245  Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway
+            N00246  HGF-overexpression to RAS-ERK signaling pathway
+            N00247  HGF-overexpression to PI3K signaling pathway
+            N00248  MET-overexpression to RAS-ERK signaling pathway
+            N00249  MET-overexpression to PI3K signaling pathway
+DISEASE     H00048  Hepatocellular carcinoma
+DRUG        D06272  Sorafenib tosylate (USAN)
+            D08524  Sorafenib (USAN/INN)
+            D10137  Regorafenib hydrate (JAN)
+            D10138  Regorafenib (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7039  TGFA; transforming growth factor alpha [KO:K08774]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            3481  IGF2; insulin like growth factor 2 [KO:K13769]
+            3480  IGF1R; insulin like growth factor 1 receptor [KO:K05087] [EC:2.7.10.1]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            2002  ELK1; ETS transcription factor ELK1 [KO:K04375]
+            6464  SHC1; SHC adaptor protein 1 [KO:K06279]
+            25759  SHC2; SHC adaptor protein 2 [KO:K17447]
+            53358  SHC3; SHC adaptor protein 3 [KO:K17448]
+            399694  SHC4; SHC adaptor protein 4 [KO:K17449]
+            2885  GRB2; growth factor receptor bound protein 2 [KO:K04364]
+            6654  SOS1; SOS Ras/Rac guanine nucleotide exchange factor 1 [KO:K03099]
+            6655  SOS2; SOS Ras/Rho guanine nucleotide exchange factor 2 [KO:K03099]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5728  PTEN; phosphatase and tensin homolog [KO:K01110] [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            572  BAD; BCL2 associated agonist of cell death [KO:K02158]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            4609  MYC; MYC proto-oncogene, bHLH transcription factor [KO:K04377]
+            5925  RB1; RB transcriptional corepressor 1 [KO:K06618]
+            1869  E2F1; E2F transcription factor 1 [KO:K17454]
+            1870  E2F2; E2F transcription factor 2 [KO:K09389]
+            1871  E2F3; E2F transcription factor 3 [KO:K06620]
+            7015  TERT; telomerase reverse transcriptase [KO:K11126] [EC:2.7.7.49]
+            7012  TERC; telomerase RNA component [KO:K22183]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            1026  CDKN1A; cyclin dependent kinase inhibitor 1A [KO:K06625]
+            1647  GADD45A; growth arrest and DNA damage inducible alpha [KO:K04402]
+            4616  GADD45B; growth arrest and DNA damage inducible beta [KO:K04402]
+            10912  GADD45G; growth arrest and DNA damage inducible gamma [KO:K04402]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            578  BAK1; BCL2 antagonist/killer 1 [KO:K14021]
+            1643  DDB2; damage specific DNA binding protein 2 [KO:K10140]
+            51426  POLK; DNA polymerase kappa [KO:K03511] [EC:2.7.7.7]
+            1029  CDKN2A; cyclin dependent kinase inhibitor 2A [KO:K06621]
+            1019  CDK4; cyclin dependent kinase 4 [KO:K02089] [EC:2.7.11.22]
+            1021  CDK6; cyclin dependent kinase 6 [KO:K02091] [EC:2.7.11.22]
+            595  CCND1; cyclin D1 [KO:K04503]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            7046  TGFBR1; transforming growth factor beta receptor 1 [KO:K04674] [EC:2.7.11.30]
+            7048  TGFBR2; transforming growth factor beta receptor 2 [KO:K04388] [EC:2.7.11.30]
+            4087  SMAD2; SMAD family member 2 [KO:K04500]
+            4088  SMAD3; SMAD family member 3 [KO:K23605]
+            4089  SMAD4; SMAD family member 4 [KO:K04501]
+            7471  WNT1; Wnt family member 1 [KO:K03209]
+            7472  WNT2; Wnt family member 2 [KO:K00182]
+            7482  WNT2B; Wnt family member 2B [KO:K00182]
+            7473  WNT3; Wnt family member 3 [KO:K00312]
+            89780  WNT3A; Wnt family member 3A [KO:K00312]
+            54361  WNT4; Wnt family member 4 [KO:K00408]
+            7474  WNT5A; Wnt family member 5A [KO:K00444]
+            81029  WNT5B; Wnt family member 5B [KO:K00444]
+            7475  WNT6; Wnt family member 6 [KO:K00445]
+            7476  WNT7A; Wnt family member 7A [KO:K00572]
+            7477  WNT7B; Wnt family member 7B [KO:K00572]
+            7478  WNT8A; Wnt family member 8A [KO:K00714]
+            7479  WNT8B; Wnt family member 8B [KO:K00714]
+            7483  WNT9A; Wnt family member 9A [KO:K01064]
+            7484  WNT9B; Wnt family member 9B [KO:K01064]
+            7480  WNT10B; Wnt family member 10B [KO:K01357]
+            80326  WNT10A; Wnt family member 10A [KO:K01357]
+            7481  WNT11; Wnt family member 11 [KO:K01384]
+            51384  WNT16; Wnt family member 16 [KO:K01558]
+            8321  FZD1; frizzled class receptor 1 [KO:K02432]
+            8324  FZD7; frizzled class receptor 7 [KO:K02432]
+            2535  FZD2; frizzled class receptor 2 [KO:K02235]
+            7976  FZD3; frizzled class receptor 3 [KO:K02329]
+            8322  FZD4; frizzled class receptor 4 [KO:K02354]
+            7855  FZD5; frizzled class receptor 5 [KO:K02375]
+            8325  FZD8; frizzled class receptor 8 [KO:K02375]
+            8323  FZD6; frizzled class receptor 6 [KO:K02376]
+            11211  FZD10; frizzled class receptor 10 [KO:K02842]
+            8326  FZD9; frizzled class receptor 9 [KO:K02842]
+            4041  LRP5; LDL receptor related protein 5 [KO:K03068]
+            4040  LRP6; LDL receptor related protein 6 [KO:K03068]
+            1857  DVL3; dishevelled segment polarity protein 3 [KO:K02353]
+            1856  DVL2; dishevelled segment polarity protein 2 [KO:K02353]
+            1855  DVL1; dishevelled segment polarity protein 1 [KO:K02353]
+            10023  FRAT1; FRAT regulator of WNT signaling pathway 1 [KO:K03069]
+            23401  FRAT2; FRAT regulator of WNT signaling pathway 2 [KO:K03096]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            8312  AXIN1; axin 1 [KO:K02157]
+            8313  AXIN2; axin 2 [KO:K04385]
+            324  APC; APC regulator of WNT signaling pathway [KO:K02085]
+            10297  APC2; APC regulator of WNT signaling pathway 2 [KO:K02085]
+            1499  CTNNB1; catenin beta 1 [KO:K02105]
+            122011  CSNK1A1L; casein kinase 1 alpha 1 like [KO:K08957] [EC:2.7.11.1]
+            1452  CSNK1A1; casein kinase 1 alpha 1 [KO:K08957] [EC:2.7.11.1]
+            6932  TCF7; transcription factor 7 [KO:K02620]
+            83439  TCF7L1; transcription factor 7 like 1 [KO:K04490]
+            6934  TCF7L2; transcription factor 7 like 2 [KO:K04491]
+            51176  LEF1; lymphoid enhancer binding factor 1 [KO:K04492]
+            9817  KEAP1; kelch like ECH associated protein 1 [KO:K10456]
+            4780  NFE2L2; NFE2 like bZIP transcription factor 2 [KO:K05638]
+            3162  HMOX1; heme oxygenase 1 [KO:K00510] [EC:1.14.14.18]
+            1728  NQO1; NAD(P)H quinone dehydrogenase 1 [KO:K00355] [EC:1.6.5.2]
+            221357  GSTA5; glutathione S-transferase alpha 5 [KO:K00799] [EC:2.5.1.18]
+            2939  GSTA2; glutathione S-transferase alpha 2 [KO:K00799] [EC:2.5.1.18]
+            2941  GSTA4; glutathione S-transferase alpha 4 [KO:K00799] [EC:2.5.1.18]
+            119391  GSTO2; glutathione S-transferase omega 2 [KO:K00799] [EC:2.5.1.18]
+            2948  GSTM4; glutathione S-transferase mu 4 [KO:K00799] [EC:2.5.1.18]
+            2953  GSTT2; glutathione S-transferase theta 2 (gene/pseudogene) [KO:K00799] [EC:2.5.1.18]
+            2952  GSTT1; glutathione S-transferase theta 1 [KO:K00799] [EC:2.5.1.18]
+            2947  GSTM3; glutathione S-transferase mu 3 [KO:K00799] [EC:2.5.1.18]
+            4257  MGST1; microsomal glutathione S-transferase 1 [KO:K00799] [EC:2.5.1.18]
+            4259  MGST3; microsomal glutathione S-transferase 3 [KO:K00799] [EC:2.5.1.18]
+            2944  GSTM1; glutathione S-transferase mu 1 [KO:K00799] [EC:2.5.1.18]
+            2949  GSTM5; glutathione S-transferase mu 5 [KO:K00799] [EC:2.5.1.18]
+            4258  MGST2; microsomal glutathione S-transferase 2 [KO:K00799] [EC:2.5.1.18]
+            2938  GSTA1; glutathione S-transferase alpha 1 [KO:K00799] [EC:2.5.1.18]
+            2946  GSTM2; glutathione S-transferase mu 2 [KO:K00799] [EC:2.5.1.18]
+            2940  GSTA3; glutathione S-transferase alpha 3 [KO:K00799] [EC:2.5.1.18]
+            9446  GSTO1; glutathione S-transferase omega 1 [KO:K00799] [EC:2.5.1.18]
+            653689  GSTT2B; glutathione S-transferase theta 2B [KO:K00799] [EC:2.5.1.18]
+            2950  GSTP1; glutathione S-transferase pi 1 [KO:K23790] [EC:2.5.1.18]
+            7296  TXNRD1; thioredoxin reductase 1 [KO:K22182] [EC:1.8.1.9]
+            114112  TXNRD3; thioredoxin reductase 3 [KO:K22182] [EC:1.8.1.9]
+            10587  TXNRD2; thioredoxin reductase 2 [KO:K22182] [EC:1.8.1.9]
+            3082  HGF; hepatocyte growth factor [KO:K05460]
+            4233  MET; MET proto-oncogene, receptor tyrosine kinase [KO:K05099] [EC:2.7.10.1]
+            2549  GAB1; GRB2 associated binding protein 1 [KO:K09593]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            86  ACTL6A; actin like 6A [KO:K11340]
+            51412  ACTL6B; actin like 6B [KO:K11652]
+            6602  SMARCD1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1 [KO:K11650]
+            6603  SMARCD2; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2 [KO:K11650]
+            6604  SMARCD3; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3 [KO:K11650]
+            55274  PHF10; PHD finger protein 10 [KO:K22197]
+            8193  DPF1; double PHD fingers 1 [KO:K22198]
+            8110  DPF3; double PHD fingers 3 [KO:K22198]
+            57492  ARID1B; AT-rich interaction domain 1B [KO:K11653]
+            8289  ARID1A; AT-rich interaction domain 1A [KO:K11653]
+            6605  SMARCE1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 [KO:K11651]
+            6598  SMARCB1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1 [KO:K11648]
+            6599  SMARCC1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1 [KO:K11649]
+            6601  SMARCC2; SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2 [KO:K11649]
+            6595  SMARCA2; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2 [KO:K11647] [EC:5.6.2.-]
+            6597  SMARCA4; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 [KO:K11647] [EC:5.6.2.-]
+            196528  ARID2; AT-rich interaction domain 2 [KO:K11765]
+            55193  PBRM1; polybromo 1 [KO:K11757]
+            29117  BRD7; bromodomain containing 7 [KO:K11723]
+COMPOUND    C00027  Hydrogen peroxide
+            C00039  DNA
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00533  Nitric oxide
+            C00704  Superoxide
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01471  Acrolein
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C06793  Vinyl chloride
+            C06800  Aflatoxin B1
+            C16844  Hydroxyl radical
+            C21641  Hydroperoxyl radical
+            C21642  4-Hydroxynonenal
+REFERENCE   PMID:20639898
+  AUTHORS   Whittaker S, Marais R, Zhu AX
+  TITLE     The role of signaling pathways in the development and treatment of hepatocellular carcinoma.
+  JOURNAL   Oncogene 29:4989-5005 (2010)
+            DOI:10.1038/onc.2010.236
+REFERENCE   PMID:26099527
+  AUTHORS   Zucman-Rossi J, Villanueva A, Nault JC, Llovet JM
+  TITLE     Genetic Landscape and Biomarkers of Hepatocellular Carcinoma.
+  JOURNAL   Gastroenterology 149:1226-1239.e4 (2015)
+            DOI:10.1053/j.gastro.2015.05.061
+REFERENCE   PMID:17295177
+  AUTHORS   Villanueva A, Newell P, Chiang DY, Friedman SL, Llovet JM.
+  TITLE     Genomics and signaling pathways in hepatocellular carcinoma.
+  JOURNAL   Semin Liver Dis 27:55-76 (2007)
+            DOI:10.1055/s-2006-960171
+REFERENCE   PMID:16799620
+  AUTHORS   Breuhahn K, Longerich T, Schirmacher P
+  TITLE     Dysregulation of growth factor signaling in human hepatocellular carcinoma.
+  JOURNAL   Oncogene 25:3787-800 (2006)
+            DOI:10.1038/sj.onc.1209556
+REFERENCE   PMID:19387255
+  AUTHORS   Minguez B, Tovar V, Chiang D, Villanueva A, Llovet JM
+  TITLE     Pathogenesis of hepatocellular carcinoma and molecular therapies.
+  JOURNAL   Curr Opin Gastroenterol 25:186-94 (2009)
+            DOI:10.1097/MOG.0b013e32832962a1
+REFERENCE   PMID:21829020
+  AUTHORS   Kudo M
+  TITLE     Signaling pathway and molecular-targeted therapy for hepatocellular carcinoma.
+  JOURNAL   Dig Dis 29:289-302 (2011)
+            DOI:10.1159/000327562
+REFERENCE   PMID:23994386
+  AUTHORS   Nault JC, Zucman-Rossi J
+  TITLE     Genetics of hepatocellular carcinoma: the next generation.
+  JOURNAL   J Hepatol 60:224-6 (2014)
+            DOI:10.1016/j.jhep.2013.08.019
+REFERENCE   PMID:11935086
+  AUTHORS   Rocken C, Carl-McGrath S.
+  TITLE     Pathology and pathogenesis of hepatocellular carcinoma.
+  JOURNAL   Dig Dis 19:269-78 (2001)
+            DOI:10.1159/000050693
+REFERENCE   PMID:21303380
+  AUTHORS   Cornella H, Alsinet C, Villanueva A
+  TITLE     Molecular pathogenesis of hepatocellular carcinoma.
+  JOURNAL   Alcohol Clin Exp Res 35:821-5 (2011)
+            DOI:10.1111/j.1530-0277.2010.01406.x
+REFERENCE   PMID:27895396
+  AUTHORS   Niu ZS, Niu XJ, Wang WH
+  TITLE     Genetic alterations in hepatocellular carcinoma: An update.
+  JOURNAL   World J Gastroenterol 22:9069-9095 (2016)
+            DOI:10.3748/wjg.v22.i41.9069
+REFERENCE   PMID:11956813
+  AUTHORS   Tannapfel A, Wittekind C
+  TITLE     Genes involved in hepatocellular carcinoma: deregulation in cell cycling and apoptosis.
+  JOURNAL   Virchows Arch 440:345-52 (2002)
+            DOI:10.1007/s00428-002-0617-x
+REFERENCE   PMID:23426905
+  AUTHORS   Shiraha H, Yamamoto K, Namba M
+  TITLE     Human hepatocyte carcinogenesis (review).
+  JOURNAL   Int J Oncol 42:1133-8 (2013)
+            DOI:10.3892/ijo.2013.1829
+REFERENCE   PMID:23887712
+  AUTHORS   Nault JC, Mallet M, Pilati C, Calderaro J, Bioulac-Sage P, Laurent C, Laurent A, Cherqui D, Balabaud C, Zucman-Rossi J
+  TITLE     High frequency of telomerase reverse-transcriptase promoter somatic mutations in hepatocellular carcinoma and preneoplastic lesions.
+  JOURNAL   Nat Commun 4:2218 (2013)
+            DOI:10.1038/ncomms3218
+REFERENCE   PMID:22561517
+  AUTHORS   Guichard C, Amaddeo G, Imbeaud S, Ladeiro Y, Pelletier L, Maad IB, Calderaro J, Bioulac-Sage P, Letexier M, Degos F, Clement B, Balabaud C, Chevet E, Laurent A, Couchy G, Letouze E, Calvo F, Zucman-Rossi J
+  TITLE     Integrated analysis of somatic mutations and focal copy-number changes identifies key genes and pathways in hepatocellular carcinoma.
+  JOURNAL   Nat Genet 44:694-8 (2012)
+            DOI:10.1038/ng.2256
+REFERENCE   
+  AUTHORS   Praslicka BJ, Kerins MJ, Ooi A
+  TITLE     The complex role of NRF2 in cancer: a genomic view
+  JOURNAL   Curr Opin Toxicol 1:37-45 (2016)
+            DOI:10.1016/j.cotox.2016.09.003
+REFERENCE   PMID:24024136
+  AUTHORS   Kansanen E, Kuosmanen SM, Leinonen H, Levonen AL
+  TITLE     The Keap1-Nrf2 pathway: Mechanisms of activation and dysregulation in cancer.
+  JOURNAL   Redox Biol 1:45-9 (2013)
+            DOI:10.1016/j.redox.2012.10.001
+REFERENCE   PMID:21251164
+  AUTHORS   Taguchi K, Motohashi H, Yamamoto M
+  TITLE     Molecular mechanisms of the Keap1-Nrf2 pathway in stress response and cancer evolution.
+  JOURNAL   Genes Cells 16:123-40 (2011)
+            DOI:10.1111/j.1365-2443.2010.01473.x
+REFERENCE   PMID:20019356
+  AUTHORS   Klaunig JE, Kamendulis LM, Hocevar BA
+  TITLE     Oxidative stress and oxidative damage in carcinogenesis.
+  JOURNAL   Toxicol Pathol 38:96-109 (2010)
+            DOI:10.1177/0192623309356453
+REFERENCE   PMID:11193292
+  AUTHORS   Krupp G, Bonatz G, Parwaresch R
+  TITLE     Telomerase, immortality and cancer.
+  JOURNAL   Biotechnol Annu Rev 6:103-40 (2000)
+            DOI:10.1016/S1387-2656(00)06020-8
+REFERENCE   PMID:27323951
+  AUTHORS   Jafri MA, Ansari SA, Alqahtani MH, Shay JW
+  TITLE     Roles of telomeres and telomerase in cancer, and advances in telomerase-targeted therapies.
+  JOURNAL   Genome Med 8:69 (2016)
+            DOI:10.1186/s13073-016-0324-x
+REFERENCE   PMID:27029895
+  AUTHORS   Shay JW
+  TITLE     Role of Telomeres and Telomerase in Aging and Cancer.
+  JOURNAL   Cancer Discov 6:584-93 (2016)
+            DOI:10.1158/2159-8290.CD-16-0062
+REFERENCE   PMID:27508192
+  AUTHORS   Granito A, Guidetti E, Gramantieri L
+  TITLE     c-MET receptor tyrosine kinase as a molecular target in advanced hepatocellular carcinoma.
+  JOURNAL   J Hepatocell Carcinoma 2:29-38 (2015)
+            DOI:10.2147/JHC.S77038
+REFERENCE   PMID:16934487
+  AUTHORS   Vita M, Henriksson M
+  TITLE     The Myc oncoprotein as a therapeutic target for human cancer.
+  JOURNAL   Semin Cancer Biol 16:318-30 (2006)
+            DOI:10.1016/j.semcancer.2006.07.015
+REFERENCE   PMID:24096051
+  AUTHORS   Qu A, Jiang C, Cai Y, Kim JH, Tanaka N, Ward JM, Shah YM, Gonzalez FJ
+  TITLE     Role of Myc in hepatocellular proliferation and hepatocarcinogenesis.
+  JOURNAL   J Hepatol 60:331-8 (2014)
+            DOI:10.1016/j.jhep.2013.09.024
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04110  Cell cycle
+            hsa04115  p53 signaling pathway
+            hsa04151  PI3K-Akt signaling pathway
+            hsa04310  Wnt signaling pathway
+            hsa04350  TGF-beta signaling pathway
+            hsa04932  Non-alcoholic fatty liver disease
+            hsa04936  Alcoholic liver disease
+            hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+KO_PATHWAY  ko05225
+///

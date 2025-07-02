@@ -1,0 +1,201 @@
+ENTRY       hsa01100                    Pathway
+NAME        Metabolic pathways - Homo sapiens (human)
+PATHWAY_MAP hsa01100  Metabolic pathways
+MODULE      hsa_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate [PATH:hsa01100]
+            hsa_M00002  Glycolysis, core module involving three-carbon compounds [PATH:hsa01100]
+            hsa_M00003  Gluconeogenesis, oxaloacetate => fructose-6P [PATH:hsa01100]
+            hsa_M00004  Pentose phosphate pathway (Pentose phosphate cycle) [PATH:hsa01100]
+            hsa_M00005  PRPP biosynthesis, ribose 5P => PRPP [PATH:hsa01100]
+            hsa_M00006  Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P [PATH:hsa01100]
+            hsa_M00007  Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P [PATH:hsa01100]
+            hsa_M00009  Citrate cycle (TCA cycle, Krebs cycle) [PATH:hsa01100]
+            hsa_M00010  Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate [PATH:hsa01100]
+            hsa_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate [PATH:hsa01100]
+            hsa_M00014  Glucuronate pathway (uronate pathway) [PATH:hsa01100]
+            hsa_M00015  Proline biosynthesis, glutamate => proline [PATH:hsa01100]
+            hsa_M00020  Serine biosynthesis, glycerate-3P => serine [PATH:hsa01100]
+            hsa_M00027  GABA (gamma-Aminobutyrate) shunt [PATH:hsa01100]
+            hsa_M00029  Urea cycle [PATH:hsa01100]
+            hsa_M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA [PATH:hsa01100]
+            hsa_M00034  Methionine salvage pathway [PATH:hsa01100]
+            hsa_M00035  Methionine degradation [PATH:hsa01100]
+            hsa_M00036  Leucine degradation, leucine => acetoacetate + acetyl-CoA [PATH:hsa01100]
+            hsa_M00037  Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin [PATH:hsa01100]
+            hsa_M00038  Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate [PATH:hsa01100]
+            hsa_M00042  Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline [PATH:hsa01100]
+            hsa_M00043  Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine [PATH:hsa01100]
+            hsa_M00044  Tyrosine degradation, tyrosine => homogentisate [PATH:hsa01100]
+            hsa_M00045  Histidine degradation, histidine => N-formiminoglutamate => glutamate [PATH:hsa01100]
+            hsa_M00046  Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate [PATH:hsa01100]
+            hsa_M00047  Creatine pathway [PATH:hsa01100]
+            hsa_M00048  De novo purine biosynthesis, PRPP + glutamine => IMP [PATH:hsa01100]
+            hsa_M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP [PATH:hsa01100]
+            hsa_M00050  Guanine ribonucleotide biosynthesis, IMP => GDP,GTP [PATH:hsa01100]
+            hsa_M00051  De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP [PATH:hsa01100]
+            hsa_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP [PATH:hsa01100]
+            hsa_M00053  Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP [PATH:hsa01100]
+            hsa_M00055  N-glycan precursor biosynthesis [PATH:hsa01100]
+            hsa_M00056  O-glycan biosynthesis, mucin type core [PATH:hsa01100]
+            hsa_M00057  Glycosaminoglycan biosynthesis, linkage tetrasaccharide [PATH:hsa01100]
+            hsa_M00058  Glycosaminoglycan biosynthesis, chondroitin sulfate backbone [PATH:hsa01100]
+            hsa_M00059  Glycosaminoglycan biosynthesis, heparan sulfate backbone [PATH:hsa01100]
+            hsa_M00065  GPI-anchor biosynthesis, core oligosaccharide [PATH:hsa01100]
+            hsa_M00066  Lactosylceramide biosynthesis [PATH:hsa01100]
+            hsa_M00067  Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid [PATH:hsa01100]
+            hsa_M00068  Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer [PATH:hsa01100]
+            hsa_M00069  Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3 [PATH:hsa01100]
+            hsa_M00070  Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer [PATH:hsa01100]
+            hsa_M00071  Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer [PATH:hsa01100]
+            hsa_M00072  N-glycosylation by oligosaccharyltransferase [PATH:hsa01100]
+            hsa_M00073  N-glycan precursor trimming [PATH:hsa01100]
+            hsa_M00075  N-glycan biosynthesis, complex type [PATH:hsa01100]
+            hsa_M00076  Dermatan sulfate degradation [PATH:hsa01100]
+            hsa_M00077  Chondroitin sulfate degradation [PATH:hsa01100]
+            hsa_M00078  Heparan sulfate degradation [PATH:hsa01100]
+            hsa_M00079  Keratan sulfate degradation [PATH:hsa01100]
+            hsa_M00082  Fatty acid biosynthesis, initiation [PATH:hsa01100]
+            hsa_M00083  Fatty acid biosynthesis, elongation [PATH:hsa01100]
+            hsa_M00085  Fatty acid elongation in mitochondria [PATH:hsa01100]
+            hsa_M00086  beta-Oxidation, acyl-CoA synthesis [PATH:hsa01100]
+            hsa_M00087  beta-Oxidation [PATH:hsa01100]
+            hsa_M00089  Triacylglycerol biosynthesis [PATH:hsa01100]
+            hsa_M00090  Phosphatidylcholine (PC) biosynthesis, choline => PC [PATH:hsa01100]
+            hsa_M00091  Phosphatidylcholine (PC) biosynthesis, PE => PC [PATH:hsa01100]
+            hsa_M00092  Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE [PATH:hsa01100]
+            hsa_M00094  Ceramide biosynthesis [PATH:hsa01100]
+            hsa_M00095  C5 isoprenoid biosynthesis, mevalonate pathway [PATH:hsa01100]
+            hsa_M00098  Acylglycerol degradation [PATH:hsa01100]
+            hsa_M00099  Sphingosine biosynthesis [PATH:hsa01100]
+            hsa_M00100  Sphingosine degradation [PATH:hsa01100]
+            hsa_M00101  Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol [PATH:hsa01100]
+            hsa_M00103  Cholecalciferol biosynthesis [PATH:hsa01100]
+            hsa_M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate [PATH:hsa01100]
+            hsa_M00106  Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate [PATH:hsa01100]
+            hsa_M00107  Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone [PATH:hsa01100]
+            hsa_M00108  C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone [PATH:hsa01100]
+            hsa_M00109  C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone [PATH:hsa01100]
+            hsa_M00110  C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone [PATH:hsa01100]
+            hsa_M00118  Glutathione biosynthesis, glutamate => glutathione [PATH:hsa01100]
+            hsa_M00120  Coenzyme A biosynthesis, pantothenate => CoA [PATH:hsa01100]
+            hsa_M00128  Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol [PATH:hsa01100]
+            hsa_M00130  Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4 [PATH:hsa01100]
+            hsa_M00131  Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol [PATH:hsa01100]
+            hsa_M00132  Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate [PATH:hsa01100]
+            hsa_M00133  Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine [PATH:hsa01100]
+            hsa_M00134  Polyamine biosynthesis, arginine => ornithine => putrescine [PATH:hsa01100]
+            hsa_M00135  GABA biosynthesis, eukaryotes, putrescine => GABA [PATH:hsa01100]
+            hsa_M00141  C1-unit interconversion, eukaryotes [PATH:hsa01100]
+            hsa_M00307  Pyruvate oxidation, pyruvate => acetyl-CoA [PATH:hsa01100]
+            hsa_M00338  Cysteine biosynthesis, homocysteine + serine => cysteine [PATH:hsa01100]
+            hsa_M00367  C10-C20 isoprenoid biosynthesis, non-plant eukaryotes [PATH:hsa01100]
+            hsa_M00415  Fatty acid elongation in endoplasmic reticulum [PATH:hsa01100]
+            hsa_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose [PATH:hsa01100]
+            hsa_M00554  Nucleotide sugar biosynthesis, galactose => UDP-galactose [PATH:hsa01100]
+            hsa_M00555  Betaine biosynthesis, choline => betaine [PATH:hsa01100]
+            hsa_M00632  Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P [PATH:hsa01100]
+            hsa_M00741  Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA [PATH:hsa01100]
+            hsa_M00842  Tetrahydrobiopterin biosynthesis, GTP => BH4 [PATH:hsa01100]
+            hsa_M00844  Arginine biosynthesis, ornithine => arginine [PATH:hsa01100]
+            hsa_M00854  Glycogen biosynthesis, glucose-1P => glycogen/starch [PATH:hsa01100]
+            hsa_M00855  Glycogen degradation, glycogen => glucose-6P [PATH:hsa01100]
+            hsa_M00861  beta-Oxidation, peroxisome, VLCFA [PATH:hsa01100]
+            hsa_M00862  beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA [PATH:hsa01100]
+            hsa_M00868  Heme biosynthesis, animals and fungi, glycine => heme [PATH:hsa01100]
+            hsa_M00872  O-glycan biosynthesis, mannose type (core M3) [PATH:hsa01100]
+            hsa_M00873  Fatty acid biosynthesis in mitochondria, animals [PATH:hsa01100]
+            hsa_M00880  Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor [PATH:hsa01100]
+            hsa_M00882  Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H [PATH:hsa01100]
+            hsa_M00883  Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2 [PATH:hsa01100]
+            hsa_M00892  UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc [PATH:hsa01100]
+            hsa_M00912  NAD biosynthesis, tryptophan => quinolinate => NAD [PATH:hsa01100]
+            hsa_M00938  Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP [PATH:hsa01100]
+            hsa_M00958  Adenine ribonucleotide degradation, AMP => Urate [PATH:hsa01100]
+            hsa_M00959  Guanine ribonucleotide degradation, GMP => Urate [PATH:hsa01100]
+DRUG        D01392  Mizoribine (JP18/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00030  Pentose phosphate pathway
+            hsa00040  Pentose and glucuronate interconversions
+            hsa00051  Fructose and mannose metabolism
+            hsa00052  Galactose metabolism
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00061  Fatty acid biosynthesis
+            hsa00062  Fatty acid elongation
+            hsa00071  Fatty acid degradation
+            hsa00100  Steroid biosynthesis
+            hsa00120  Primary bile acid biosynthesis
+            hsa00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            hsa00140  Steroid hormone biosynthesis
+            hsa00190  Oxidative phosphorylation
+            hsa00220  Arginine biosynthesis
+            hsa00230  Purine metabolism
+            hsa00232  Caffeine metabolism
+            hsa00240  Pyrimidine metabolism
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00270  Cysteine and methionine metabolism
+            hsa00280  Valine, leucine and isoleucine degradation
+            hsa00290  Valine, leucine and isoleucine biosynthesis
+            hsa00310  Lysine degradation
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+            hsa00410  beta-Alanine metabolism
+            hsa00430  Taurine and hypotaurine metabolism
+            hsa00440  Phosphonate and phosphinate metabolism
+            hsa00450  Selenocompound metabolism
+            hsa00470  D-Amino acid metabolism
+            hsa00480  Glutathione metabolism
+            hsa00500  Starch and sucrose metabolism
+            hsa00510  N-Glycan biosynthesis
+            hsa00511  Other glycan degradation
+            hsa00512  Mucin type O-glycan biosynthesis
+            hsa00513  Various types of N-glycan biosynthesis
+            hsa00514  Other types of O-glycan biosynthesis
+            hsa00515  Mannose type O-glycan biosynthesis
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa00524  Neomycin, kanamycin and gentamicin biosynthesis
+            hsa00531  Glycosaminoglycan degradation
+            hsa00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+            hsa00533  Glycosaminoglycan biosynthesis - keratan sulfate
+            hsa00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+            hsa00561  Glycerolipid metabolism
+            hsa00562  Inositol phosphate metabolism
+            hsa00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+            hsa00564  Glycerophospholipid metabolism
+            hsa00565  Ether lipid metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa00591  Linoleic acid metabolism
+            hsa00592  alpha-Linolenic acid metabolism
+            hsa00600  Sphingolipid metabolism
+            hsa00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            hsa00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            hsa00604  Glycosphingolipid biosynthesis - ganglio series
+            hsa00620  Pyruvate metabolism
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00640  Propanoate metabolism
+            hsa00650  Butanoate metabolism
+            hsa00670  One carbon pool by folate
+            hsa00730  Thiamine metabolism
+            hsa00740  Riboflavin metabolism
+            hsa00750  Vitamin B6 metabolism
+            hsa00760  Nicotinate and nicotinamide metabolism
+            hsa00770  Pantothenate and CoA biosynthesis
+            hsa00780  Biotin metabolism
+            hsa00785  Lipoic acid metabolism
+            hsa00790  Folate biosynthesis
+            hsa00830  Retinol metabolism
+            hsa00860  Porphyrin metabolism
+            hsa00900  Terpenoid backbone biosynthesis
+            hsa00910  Nitrogen metabolism
+            hsa00920  Sulfur metabolism
+            hsa00980  Metabolism of xenobiotics by cytochrome P450
+            hsa00982  Drug metabolism - cytochrome P450
+            hsa00983  Drug metabolism - other enzymes
+            hsa01040  Biosynthesis of unsaturated fatty acids
+KO_PATHWAY  ko01100
+///

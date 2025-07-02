@@ -1,0 +1,228 @@
+ENTRY       hsa04657                    Pathway
+NAME        IL-17 signaling pathway - Homo sapiens (human)
+DESCRIPTION The interleukin 17 (IL-17) family, a subset of cytokines consisting of IL-17A-F, plays crucial roles in both acute and chronic inflammatory responses. IL-17A, the hallmark cytokine of the newly defined T helper 17 (TH17) cell subset, has important roles in protecting the host against extracellular pathogens, but also promotes inflammatory pathology in autoimmune disease, whereas IL-17F is mainly involved in mucosal host defense mechanisms. IL-17E (IL-25) is an amplifier of Th2 immune responses. IL-17C has biological functions similar to those of IL-17A. The functions of IL-17B and IL-17D remain largely elusive. The IL-17 family signals via their correspondent receptors and activates downstream pathways that include NF-kappaB, MAPKs and C/EBPs to induce the expression of antimicrobial peptides, cytokines and chemokines. The receptor proximal adaptor Act1 (an NF-kappaB activator 1) is considered as the master mediator in IL-17A signaling. It is likely that Act1 is a common signal adaptor also shared by other members mediated signalings in this family.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04657  IL-17 signaling pathway
+DRUG        D03116  Bindarit (USAN/INN)
+            D03517  Cipemastat (USAN/INN)
+            D03800  Rebimastat (USAN/INN)
+            D10061  Brodalumab (USAN)
+            D10071  Ixekizumab (USAN)
+            D10902  Afasevikumab (USAN/INN)
+            D11127  Tibulizumab (USAN/INN)
+            D11343  Otilimab (USAN)
+            D11550  Bimekizumab (USAN/INN)
+            D12278  Izokibep (USAN/INN)
+DBLINKS     GO: 0097400
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        64806  IL25; interleukin 25 [KO:K05493]
+            23765  IL17RA; interleukin 17 receptor A [KO:K05164]
+            55540  IL17RB; interleukin 17 receptor B [KO:K05165]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            8772  FADD; Fas associated via death domain [KO:K02373]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            841  CASP8; caspase 8 [KO:K04398] [EC:3.4.22.61]
+            10758  TRAF3IP2; TRAF3 interacting protein 2 [KO:K21124]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            2354  FOSB; FosB proto-oncogene, AP-1 transcription factor subunit [KO:K09029]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            3727  JUND; JunD proto-oncogene, AP-1 transcription factor subunit [KO:K04449]
+            8061  FOSL1; FOS like 1, AP-1 transcription factor subunit [KO:K04502]
+            3565  IL4; interleukin 4 [KO:K05430]
+            3567  IL5; interleukin 5 [KO:K05428]
+            3596  IL13; interleukin 13 [KO:K05435]
+            6361  CCL17; C-C motif chemokine ligand 17 [KO:K21083]
+            6356  CCL11; C-C motif chemokine ligand 11 [KO:K16597]
+            3605  IL17A; interleukin 17A [KO:K05489]
+            112744  IL17F; interleukin 17F [KO:K05494]
+            84818  IL17RC; interleukin 17 receptor C [KO:K05166]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            51433  ANAPC5; anaphase promoting complex subunit 5 [KO:K03352]
+            7128  TNFAIP3; TNF alpha induced protein 3 [KO:K11859] [EC:3.4.19.12]
+            3320  HSP90AA1; heat shock protein 90 alpha family class A member 1 [KO:K04079]
+            3326  HSP90AB1; heat shock protein 90 alpha family class B member 1 [KO:K04079]
+            7184  HSP90B1; heat shock protein 90 beta family member 1 [KO:K09487]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            257397  TAB3; TGF-beta activated kinase 1 (MAP3K7) binding protein 3 [KO:K12793]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5596  MAPK4; mitogen-activated protein kinase 4 [KO:K06855] [EC:2.7.11.24]
+            5597  MAPK6; mitogen-activated protein kinase 6 [KO:K06855] [EC:2.7.11.24]
+            5598  MAPK7; mitogen-activated protein kinase 7 [KO:K04464] [EC:2.7.11.24]
+            225689  MAPK15; mitogen-activated protein kinase 15 [KO:K19603] [EC:2.7.11.24]
+            1051  CEBPB; CCAAT enhancer binding protein beta [KO:K10048]
+            9618  TRAF4; TNF receptor associated factor 4 [KO:K09848]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            29761  USP25; ubiquitin specific peptidase 25 [KO:K11849] [EC:3.4.19.12]
+            7188  TRAF5; TNF receptor associated factor 5 [KO:K09849]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            6426  SRSF1; serine and arginine rich splicing factor 1 [KO:K12890]
+            1994  ELAVL1; ELAV like RNA binding protein 1 [KO:K13088]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            6374  CXCL5; C-X-C motif chemokine ligand 5 [KO:K05506]
+            6372  CXCL6; C-X-C motif chemokine ligand 6 [KO:K05506]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            3627  CXCL10; C-X-C motif chemokine ligand 10 [KO:K12671]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            6354  CCL7; C-C motif chemokine ligand 7 [KO:K05509]
+            6364  CCL20; C-C motif chemokine ligand 20 [KO:K14625]
+            3569  IL6; interleukin 6 [KO:K05405]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            1440  CSF3; colony stimulating factor 3 [KO:K05423]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            1673  DEFB4A; defensin beta 4A [KO:K21100]
+            100289462  DEFB4B; defensin beta 4B [KO:K21100]
+            727897  MUC5B; mucin 5B, oligomeric mucus/gel-forming [KO:K13908]
+            4586  MUC5AC; mucin 5AC, oligomeric mucus/gel-forming [KO:K13908]
+            6278  S100A7; S100 calcium binding protein A7 [KO:K21126]
+            338324  S100A7A; S100 calcium binding protein A7A [KO:K21126]
+            6279  S100A8; S100 calcium binding protein A8 [KO:K21127]
+            6280  S100A9; S100 calcium binding protein A9 [KO:K21128]
+            3934  LCN2; lipocalin 2 [KO:K21129]
+            4312  MMP1; matrix metallopeptidase 1 [KO:K01388] [EC:3.4.24.7]
+            4314  MMP3; matrix metallopeptidase 3 [KO:K01394] [EC:3.4.24.17]
+            4318  MMP9; matrix metallopeptidase 9 [KO:K01403] [EC:3.4.24.35]
+            4322  MMP13; matrix metallopeptidase 13 [KO:K07994] [EC:3.4.24.-]
+            27189  IL17C; interleukin 17C [KO:K05491]
+            132014  IL17RE; interleukin 17 receptor E [KO:K05168]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3458  IFNG; interferon gamma [KO:K04687]
+            27190  IL17B; interleukin 17B [KO:K05490]
+            53342  IL17D; interleukin 17D [KO:K05492]
+REFERENCE   PMID:23917206
+  AUTHORS   Song X, Qian Y
+  TITLE     IL-17 family cytokines mediated signaling in the pathogenesis of inflammatory diseases.
+  JOURNAL   Cell Signal 25:2335-47 (2013)
+            DOI:10.1016/j.cellsig.2013.07.021
+REFERENCE   PMID:23557798
+  AUTHORS   Song X, Qian Y
+  TITLE     The activation and regulation of IL-17 receptor mediated signaling.
+  JOURNAL   Cytokine 62:175-82 (2013)
+            DOI:10.1016/j.cyto.2013.03.014
+REFERENCE   PMID:24011563
+  AUTHORS   Gu C, Wu L, Li X
+  TITLE     IL-17 family: cytokines, receptors and signaling.
+  JOURNAL   Cytokine 64:477-85 (2013)
+            DOI:10.1016/j.cyto.2013.07.022
+REFERENCE   PMID:25145755
+  AUTHORS   Gaffen SL, Jain R, Garg AV, Cua DJ
+  TITLE     The IL-23-IL-17 immune axis: from mechanisms to therapeutic testing.
+  JOURNAL   Nat Rev Immunol 14:585-600 (2014)
+            DOI:10.1038/nri3707
+REFERENCE   PMID:21349428
+  AUTHORS   Iwakura Y, Ishigame H, Saijo S, Nakae S
+  TITLE     Functional specialization of interleukin-17 family members.
+  JOURNAL   Immunity 34:149-62 (2011)
+            DOI:10.1016/j.immuni.2011.02.012
+REFERENCE   PMID:20514051
+  AUTHORS   Qian Y, Kang Z, Liu C, Li X
+  TITLE     IL-17 signaling in host defense and inflammatory diseases.
+  JOURNAL   Cell Mol Immunol 7:328-33 (2010)
+            DOI:10.1038/cmi.2010.27
+REFERENCE   PMID:22324470
+  AUTHORS   Zhu S, Qian Y
+  TITLE     IL-17/IL-17 receptor system in autoimmune disease: mechanisms and therapeutic potential.
+  JOURNAL   Clin Sci (Lond) 122:487-511 (2012)
+            DOI:10.1042/CS20110496
+REFERENCE   PMID:26252407
+  AUTHORS   Zenobia C, Hajishengallis G
+  TITLE     Basic biology and role of interleukin-17 in immunity and inflammation.
+  JOURNAL   Periodontol 2000 69:142-59 (2015)
+            DOI:10.1111/prd.12083
+REFERENCE   PMID:21074482
+  AUTHORS   Reynolds JM, Angkasekwinai P, Dong C
+  TITLE     IL-17 family member cytokines: regulation and function in innate immunity.
+  JOURNAL   Cytokine Growth Factor Rev 21:413-23 (2010)
+            DOI:10.1016/j.cytogfr.2010.10.002
+REFERENCE   PMID:21852080
+  AUTHORS   Gaffen SL
+  TITLE     Recent advances in the IL-17 cytokine family.
+  JOURNAL   Curr Opin Immunol 23:613-9 (2011)
+            DOI:10.1016/j.coi.2011.07.006
+REFERENCE   PMID:18701318
+  AUTHORS   Gaffen SL
+  TITLE     An overview of IL-17 function and signaling.
+  JOURNAL   Cytokine 43:402-7 (2008)
+            DOI:10.1016/j.cyto.2008.07.017
+REFERENCE   PMID:21155836
+  AUTHORS   Hu Y, Shen F, Crellin NK, Ouyang W
+  TITLE     The IL-17 pathway as a major therapeutic target in autoimmune diseases.
+  JOURNAL   Ann N Y Acad Sci 1217:60-76 (2011)
+            DOI:10.1111/j.1749-6632.2010.05825.x
+REFERENCE   PMID:20383173
+  AUTHORS   Xu S, Cao X
+  TITLE     Interleukin-17 and its expanding biological functions.
+  JOURNAL   Cell Mol Immunol 7:164-74 (2010)
+            DOI:10.1038/cmi.2010.21
+REFERENCE   PMID:20177959
+  AUTHORS   Pappu R, Ramirez-Carrozzi V, Ota N, Ouyang W, Hu Y
+  TITLE     The IL-17 family cytokines in immunity and disease.
+  JOURNAL   J Clin Immunol 30:185-95 (2010)
+            DOI:10.1007/s10875-010-9369-6
+REFERENCE   PMID:19575028
+  AUTHORS   Gaffen SL
+  TITLE     Structure and signalling in the IL-17 receptor family.
+  JOURNAL   Nat Rev Immunol 9:556-67 (2009)
+            DOI:10.1038/nri2586
+REFERENCE   PMID:18178098
+  AUTHORS   Shen F, Gaffen SL
+  TITLE     Structure-function relationships in the IL-17 receptor: implications for signal transduction and therapy.
+  JOURNAL   Cytokine 41:92-104 (2008)
+            DOI:10.1016/j.cyto.2007.11.013
+REFERENCE   PMID:23116200
+  AUTHORS   Doyle MS, Collins ES, FitzGerald OM, Pennington SR
+  TITLE     New insight into the functions of the interleukin-17 receptor adaptor protein Act1 in psoriatic arthritis.
+  JOURNAL   Arthritis Res Ther 14:226 (2012)
+            DOI:10.1186/ar4071
+REFERENCE   PMID:17027518
+  AUTHORS   Gaffen SL, Kramer JM, Yu JJ, Shen F
+  TITLE     The IL-17 cytokine family.
+  JOURNAL   Vitam Horm 74:255-82 (2006)
+            DOI:10.1016/S0083-6729(06)74010-9
+REFERENCE   PMID:21130872
+  AUTHORS   Chang SH, Dong C
+  TITLE     Signaling of interleukin-17 family cytokines in immunity and inflammation.
+  JOURNAL   Cell Signal 23:1069-75 (2011)
+            DOI:10.1016/j.cellsig.2010.11.022
+REFERENCE   PMID:17921324
+  AUTHORS   Cortez DM, Feldman MD, Mummidi S, Valente AJ, Steffensen B, Vincenti M, Barnes JL, Chandrasekar B
+  TITLE     IL-17 stimulates MMP-1 expression in primary human cardiac fibroblasts via p38 MAPK- and ERK1/2-dependent C/EBP-beta , NF-kappaB, and AP-1 activation.
+  JOURNAL   Am J Physiol Heart Circ Physiol 293:H3356-65 (2007)
+            DOI:10.1152/ajpheart.00928.2007
+REFERENCE   PMID:22851696
+  AUTHORS   Qu F, Gao H, Zhu S, Shi P, Zhang Y, Liu Y, Jallal B, Yao Y, Shi Y, Qian Y
+  TITLE     TRAF6-dependent Act1 phosphorylation by the IkappaB kinase-related kinases suppresses interleukin-17-induced NF-kappaB activation.
+  JOURNAL   Mol Cell Biol 32:3925-37 (2012)
+            DOI:10.1128/MCB.00268-12
+REFERENCE   PMID:17177681
+  AUTHORS   Sharkhuu T, Matthaei KI, Forbes E, Mahalingam S, Hogan SP, Hansbro PM, Foster PS
+  TITLE     Mechanism of interleukin-25 (IL-17E)-induced pulmonary inflammation and airways hyper-reactivity.
+  JOURNAL   Clin Exp Allergy 36:1575-83 (2006)
+            DOI:10.1111/j.1365-2222.2006.02595.x
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04060  Cytokine-cytokine receptor interaction
+            hsa04064  NF-kappa B signaling pathway
+            hsa04210  Apoptosis
+            hsa04659  Th17 cell differentiation
+KO_PATHWAY  ko04657
+///

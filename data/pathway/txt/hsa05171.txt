@@ -1,0 +1,461 @@
+ENTRY       hsa05171                    Pathway
+NAME        Coronavirus disease - COVID-19 - Homo sapiens (human)
+DESCRIPTION Coronavirus disease of 2019 (COVID-19) is a highly contagious respiratory infection that is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). SARS-CoV-2 infects alveolar epithelial cells [mainly alveolar epithelial type 2 (AEC2) cells] through the angiotensin-converting enzyme 2 (ACE2) receptor. Upon the occupancy of ACE2 by SARS-CoV-2, the increased serum level of free Angiotensin II (Ang II) due to a reduction of ACE2-mediated degradation promotes activation of the NF-kappa B pathway via Ang II type 1 receptor (AT1R), followed by  interleukin-6 (IL-6) production. SARS-CoV-2 also activates the innate immune system; macrophage stimulation triggers the overproduction of pro-inflammatory cytokines, including IL-6, and the "cytokine storm", which results in systemic inflammatory response syndrome and multiple organ failure. The combined effects of complement activation, dysregulated neutrophilia, endothelial injury, and hypercoagulability appear to be intertwined to drive the severe features of COVID-19.
+CLASS       Human Diseases; Infectious disease: viral
+PATHWAY_MAP hsa05171  Coronavirus disease - COVID-19
+NETWORK     nt06122  IFN signaling (viruses)
+            nt06141  Translation (viruses)
+            nt06171  Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+            nt06513  Complement cascade
+            nt06519  RLR signaling
+  ELEMENT   N01307  SARS-CoV-2 S to AngII-AT1R-NOX2 signaling pathway
+            N01309  SARS-CoV-2 nsp3 to MDA5-IRF7/3 signaling pathway
+            N01310  SARS-CoV-2 nsp13 to RIG-I-IRF7/3 signaling pathway
+            N01312  SARS-CoV-2 S to lectin pathway of complement cascade
+            N01314  SARS-CoV-2 S to classical pathway of complement cascade
+            N01316  SARS-CoV-2 S/N to lectin pathway of coagulation cascade
+            N01318  SARS-CoV-2 nsp1 to translation initiation
+            N01319  SARS-CoV-2 nsp6 and ORF6 to RIG-I-IRF7/3 signaling pathway
+            N01320  SARS-CoV-2 nsp3 to RIG-I-IRF7/3 signaling pathway
+            N01321  SARS-CoV-2 nsp1/6/13, ORF3a/6/7b and M to IFN signaling pathway
+            N01322  SARS-CoV-2 nsp6/13 and ORF7a/7b to IFN signaling pathway
+DISEASE     H02398  COVID-19
+DRUG        D10308  Baricitinib (JAN/USAN/INN)
+            D12118  Nezulcitinib (USAN)
+            D12261  Enpatoran (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7113  TMPRSS2; transmembrane serine protease 2 [KO:K09633] [EC:3.4.21.122]
+            59272  ACE2; angiotensin converting enzyme 2 [KO:K09708] [EC:3.4.17.23]
+            8829  NRP1; neuropilin 1 [KO:K06724]
+            1636  ACE; angiotensin I converting enzyme [KO:K01283] [EC:3.4.15.1]
+            4142  MAS1; MAS1 proto-oncogene, G protein-coupled receptor [KO:K04303]
+            185  AGTR1; angiotensin II receptor type 1 [KO:K04166]
+            1536  CYBB; cytochrome b-245 beta chain [KO:K21421] [EC:1.-.-.-]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            4314  MMP3; matrix metallopeptidase 3 [KO:K01394] [EC:3.4.24.17]
+            4312  MMP1; matrix metallopeptidase 1 [KO:K01388] [EC:3.4.24.7]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            6868  ADAM17; ADAM metallopeptidase domain 17 [KO:K06059] [EC:3.4.24.86]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            1839  HBEGF; heparin binding EGF like growth factor [KO:K08523]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            3570  IL6R; interleukin 6 receptor [KO:K05055]
+            3572  IL6ST; interleukin 6 cytokine family signal transducer [KO:K05060]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            7297  TYK2; tyrosine kinase 2 [KO:K11219] [EC:2.7.10.2]
+            6774  STAT3; signal transducer and activator of transcription 3 [KO:K04692]
+            3558  IL2; interleukin 2 [KO:K05429]
+            1440  CSF3; colony stimulating factor 3 [KO:K05423]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            3627  CXCL10; C-X-C motif chemokine ligand 10 [KO:K12671]
+            6187  RPS2; ribosomal protein S2 [KO:K02981]
+            6188  RPS3; ribosomal protein S3 [KO:K02985]
+            6189  RPS3A; ribosomal protein S3A [KO:K02984]
+            6192  RPS4Y1; ribosomal protein S4 Y-linked 1 [KO:K02987]
+            6191  RPS4X; ribosomal protein S4 X-linked [KO:K02987]
+            140032  RPS4Y2; ribosomal protein S4 Y-linked 2 [KO:K02987]
+            6193  RPS5; ribosomal protein S5 [KO:K02989]
+            6194  RPS6; ribosomal protein S6 [KO:K02991]
+            6201  RPS7; ribosomal protein S7 [KO:K02993]
+            6202  RPS8; ribosomal protein S8 [KO:K02995]
+            6203  RPS9; ribosomal protein S9 [KO:K02997]
+            6204  RPS10; ribosomal protein S10 [KO:K02947]
+            100529239  RPS10-NUDT3; RPS10-NUDT3 readthrough [KO:K02947]
+            6205  RPS11; ribosomal protein S11 [KO:K02949]
+            6206  RPS12; ribosomal protein S12 [KO:K02951]
+            6207  RPS13; ribosomal protein S13 [KO:K02953]
+            6208  RPS14; ribosomal protein S14 [KO:K02955]
+            6209  RPS15; ribosomal protein S15 [KO:K02958]
+            6210  RPS15A; ribosomal protein S15a [KO:K02957]
+            6217  RPS16; ribosomal protein S16 [KO:K02960]
+            6218  RPS17; ribosomal protein S17 [KO:K02962]
+            6222  RPS18; ribosomal protein S18 [KO:K02964]
+            6223  RPS19; ribosomal protein S19 [KO:K02966]
+            6224  RPS20; ribosomal protein S20 [KO:K02969]
+            6227  RPS21; ribosomal protein S21 [KO:K02971]
+            6228  RPS23; ribosomal protein S23 [KO:K02973]
+            6229  RPS24; ribosomal protein S24 [KO:K02974]
+            6230  RPS25; ribosomal protein S25 [KO:K02975]
+            6231  RPS26; ribosomal protein S26 [KO:K02976]
+            6232  RPS27; ribosomal protein S27 [KO:K02978]
+            51065  RPS27L; ribosomal protein S27 like [KO:K02978]
+            6233  RPS27A; ribosomal protein S27a [KO:K02977]
+            6234  RPS28; ribosomal protein S28 [KO:K02979]
+            6235  RPS29; ribosomal protein S29 [KO:K02980]
+            2197  FAU; FAU ubiquitin like and ribosomal protein S30 fusion [KO:K02983]
+            3921  RPSA; ribosomal protein SA [KO:K02998]
+            6123  RPL3L; ribosomal protein L3 like [KO:K02925]
+            6122  RPL3; ribosomal protein L3 [KO:K02925]
+            6124  RPL4; ribosomal protein L4 [KO:K02930]
+            6125  RPL5; ribosomal protein L5 [KO:K02932]
+            6128  RPL6; ribosomal protein L6 [KO:K02934]
+            6129  RPL7; ribosomal protein L7 [KO:K02937]
+            6130  RPL7A; ribosomal protein L7a [KO:K02936]
+            6132  RPL8; ribosomal protein L8 [KO:K02938]
+            6133  RPL9; ribosomal protein L9 [KO:K02940]
+            140801  RPL10L; ribosomal protein L10 like [KO:K02866]
+            6134  RPL10; ribosomal protein L10 [KO:K02866]
+            4736  RPL10A; ribosomal protein L10a [KO:K02865]
+            6135  RPL11; ribosomal protein L11 [KO:K02868]
+            6136  RPL12; ribosomal protein L12 [KO:K02870]
+            6137  RPL13; ribosomal protein L13 [KO:K02873]
+            23521  RPL13A; ribosomal protein L13a [KO:K02872]
+            9045  RPL14; ribosomal protein L14 [KO:K02875]
+            6138  RPL15; ribosomal protein L15 [KO:K02877]
+            6139  RPL17; ribosomal protein L17 [KO:K02880]
+            100526842  RPL17-C18orf32; RPL17-C18orf32 readthrough [KO:K02880]
+            6141  RPL18; ribosomal protein L18 [KO:K02883]
+            6142  RPL18A; ribosomal protein L18a [KO:K02882]
+            6143  RPL19; ribosomal protein L19 [KO:K02885]
+            6144  RPL21; ribosomal protein L21 [KO:K02889]
+            200916  RPL22L1; ribosomal protein L22 like 1 [KO:K02891]
+            6146  RPL22; ribosomal protein L22 [KO:K02891]
+            9349  RPL23; ribosomal protein L23 [KO:K02894]
+            6147  RPL23A; ribosomal protein L23a [KO:K02893]
+            51187  RSL24D1; ribosomal L24 domain containing 1 [KO:K02896]
+            6152  RPL24; ribosomal protein L24 [KO:K02896]
+            6154  RPL26; ribosomal protein L26 [KO:K02898]
+            51121  RPL26L1; ribosomal protein L26 like 1 [KO:K02898]
+            6155  RPL27; ribosomal protein L27 [KO:K02901]
+            6157  RPL27A; ribosomal protein L27a [KO:K02900]
+            6158  RPL28; ribosomal protein L28 [KO:K02903]
+            6159  RPL29; ribosomal protein L29 [KO:K02905]
+            6156  RPL30; ribosomal protein L30 [KO:K02908]
+            6160  RPL31; ribosomal protein L31 [KO:K02910]
+            6161  RPL32; ribosomal protein L32 [KO:K02912]
+            6164  RPL34; ribosomal protein L34 [KO:K02915]
+            11224  RPL35; ribosomal protein L35 [KO:K02918]
+            6165  RPL35A; ribosomal protein L35a [KO:K02917]
+            25873  RPL36; ribosomal protein L36 [KO:K02920]
+            6167  RPL37; ribosomal protein L37 [KO:K02922]
+            6168  RPL37A; ribosomal protein L37a [KO:K02921]
+            6169  RPL38; ribosomal protein L38 [KO:K02923]
+            6170  RPL39; ribosomal protein L39 [KO:K02924]
+            7311  UBA52; ubiquitin A-52 residue ribosomal protein fusion product 1 [KO:K02927]
+            6171  RPL41; ribosomal protein L41 [KO:K02928]
+            6166  RPL36AL; ribosomal protein L36a like [KO:K02929]
+            6173  RPL36A; ribosomal protein L36a [KO:K02929]
+            100529097  RPL36A-HNRNPH2; RPL36A-HNRNPH2 readthrough [KO:K02929]
+            6175  RPLP0; ribosomal protein lateral stalk subunit P0 [KO:K02941]
+            6176  RPLP1; ribosomal protein lateral stalk subunit P1 [KO:K02942]
+            6181  RPLP2; ribosomal protein lateral stalk subunit P2 [KO:K02943]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            2212  FCGR2A; Fc gamma receptor IIa [KO:K06472]
+            6850  SYK; spleen associated tyrosine kinase [KO:K05855] [EC:2.7.10.2]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            51284  TLR7; toll like receptor 7 [KO:K05404]
+            51311  TLR8; toll like receptor 8 [KO:K10170]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            114548  NLRP3; NLR family pyrin domain containing 3 [KO:K12800]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+            7098  TLR3; toll like receptor 3 [KO:K05401]
+            23586  RIGI; RNA sensor RIG-I [KO:K12646] [EC:3.6.4.13]
+            9636  ISG15; ISG15 ubiquitin like modifier [KO:K12159]
+            64135  IFIH1; interferon induced with helicase C domain 1 [KO:K12647] [EC:3.6.4.13]
+            57506  MAVS; mitochondrial antiviral signaling protein [KO:K12648]
+            7187  TRAF3; TNF receptor associated factor 3 [KO:K03174]
+            9641  IKBKE; inhibitor of nuclear factor kappa B kinase subunit epsilon [KO:K07211] [EC:2.7.11.10]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            115004  CGAS; cyclic GMP-AMP synthase [KO:K17834] [EC:2.7.7.86]
+            340061  STING1; stimulator of interferon response cGAMP interactor 1 [KO:K12654]
+            3439  IFNA1; interferon alpha 1 [KO:K05414]
+            3440  IFNA2; interferon alpha 2 [KO:K05414]
+            3441  IFNA4; interferon alpha 4 [KO:K05414]
+            3442  IFNA5; interferon alpha 5 [KO:K05414]
+            3443  IFNA6; interferon alpha 6 [KO:K05414]
+            3444  IFNA7; interferon alpha 7 [KO:K05414]
+            3445  IFNA8; interferon alpha 8 [KO:K05414]
+            3446  IFNA10; interferon alpha 10 [KO:K05414]
+            3447  IFNA13; interferon alpha 13 [KO:K05414]
+            3448  IFNA14; interferon alpha 14 [KO:K05414]
+            3449  IFNA16; interferon alpha 16 [KO:K05414]
+            3451  IFNA17; interferon alpha 17 [KO:K05414]
+            3452  IFNA21; interferon alpha 21 [KO:K05414]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            3454  IFNAR1; interferon alpha and beta receptor subunit 1 [KO:K05130]
+            3455  IFNAR2; interferon alpha and beta receptor subunit 2 [KO:K05131]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            6773  STAT2; signal transducer and activator of transcription 2 [KO:K11221]
+            10379  IRF9; interferon regulatory factor 9 [KO:K04693]
+            103  ADAR; adenosine deaminase RNA specific [KO:K12968] [EC:3.5.4.37]
+            4938  OAS1; 2'-5'-oligoadenylate synthetase 1 [KO:K14216] [EC:2.7.7.84]
+            4939  OAS2; 2'-5'-oligoadenylate synthetase 2 [KO:K14216] [EC:2.7.7.84]
+            4940  OAS3; 2'-5'-oligoadenylate synthetase 3 [KO:K14216] [EC:2.7.7.84]
+            4599  MX1; MX dynamin like GTPase 1 [KO:K14754]
+            4600  MX2; MX dynamin like GTPase 2 [KO:K14754]
+            5610  EIF2AK2; eukaryotic translation initiation factor 2 alpha kinase 2 [KO:K16195] [EC:2.7.11.1]
+            728  C5AR1; complement C5a receptor 1 [KO:K04010]
+            719  C3AR1; complement C3a receptor 1 [KO:K04009]
+            718  C3; complement C3 [KO:K03990]
+            629  CFB; complement factor B [KO:K01335] [EC:3.4.21.47]
+            1675  CFD; complement factor D [KO:K01334] [EC:3.4.21.46]
+            727  C5; complement C5 [KO:K03994]
+            729  C6; complement C6 [KO:K03995]
+            730  C7; complement C7 [KO:K03996]
+            731  C8A; complement C8 alpha chain [KO:K03997]
+            732  C8B; complement C8 beta chain [KO:K03998]
+            733  C8G; complement C8 gamma chain [KO:K03999]
+            735  C9; complement C9 [KO:K04000]
+            6403  SELP; selectin P [KO:K06496]
+            7450  VWF; von Willebrand factor [KO:K03900]
+            712  C1QA; complement C1q A chain [KO:K03986]
+            713  C1QB; complement C1q B chain [KO:K03987]
+            714  C1QC; complement C1q C chain [KO:K03988]
+            715  C1R; complement C1r [KO:K01330] [EC:3.4.21.41]
+            716  C1S; complement C1s [KO:K01331] [EC:3.4.21.42]
+            717  C2; complement C2 [KO:K01332] [EC:3.4.21.43]
+            720  C4A; complement C4A (Rodgers blood group) [KO:K03989]
+            721  C4B; complement C4B (Chido blood group) [KO:K03989]
+            4153  MBL2; mannose binding lectin 2 [KO:K03991]
+            5648  MASP1; MBL associated serine protease 1 [KO:K03992] [EC:3.4.21.-]
+            10747  MASP2; MBL associated serine protease 2 [KO:K03993] [EC:3.4.21.104]
+            2147  F2; coagulation factor II, thrombin [KO:K01313] [EC:3.4.21.5]
+            2162  F13A1; coagulation factor XIII A chain [KO:K03917] [EC:2.3.2.13]
+            2165  F13B; coagulation factor XIII B chain [KO:K03906]
+            2243  FGA; fibrinogen alpha chain [KO:K03903]
+            2244  FGB; fibrinogen beta chain [KO:K03904]
+            2266  FGG; fibrinogen gamma chain [KO:K03905]
+COMPOUND    C00027  Hydrogen peroxide
+            C00046  RNA
+            C00165  Diacylglycerol
+            C00290  Fibrin
+            C00533  Nitric oxide
+            C00704  Superoxide
+            C00873  Angiotensin I
+            C02135  Angiotensin II
+            C15850  Angiotensin (1-7)
+            C20640  Cyclic GMP-AMP
+REFERENCE   PMID:33132005
+  AUTHORS   Harrison AG, Lin T, Wang P
+  TITLE     Mechanisms of SARS-CoV-2 Transmission and Pathogenesis.
+  JOURNAL   Trends Immunol S1471-4906(20)30233-7 (2020)
+            DOI:10.1016/j.it.2020.10.004
+REFERENCE   PMID:33077917
+  AUTHORS   Perico L, Benigni A, Casiraghi F, Ng LFP, Renia L, Remuzzi G
+  TITLE     Immunity, endothelial injury and complement-induced coagulopathy in COVID-19.
+  JOURNAL   Nat Rev Nephrol 10.1038/s41581-020-00357-4 (2020)
+            DOI:10.1038/s41581-020-00357-4
+REFERENCE   PMID:32820801
+  AUTHORS   Battagello DS, Dragunas G, Klein MO, Ayub ALP, Velloso FJ, Correa RG
+  TITLE     Unpuzzling COVID-19: tissue-related signaling pathways associated with SARS-CoV-2 infection and transmission.
+  JOURNAL   Clin Sci (Lond) 134:2137-2160 (2020)
+            DOI:10.1042/CS20200904
+REFERENCE   PMID:32353634
+  AUTHORS   Felsenstein S, Herbert JA, McNamara PS, Hedrich CM
+  TITLE     COVID-19: Immunology and treatment options.
+  JOURNAL   Clin Immunol 215:108448 (2020)
+            DOI:10.1016/j.clim.2020.108448
+REFERENCE   PMID:33014208
+  AUTHORS   Hojyo S, Uchida M, Tanaka K, Hasebe R, Tanaka Y, Murakami M, Hirano T
+  TITLE     How COVID-19 induces cytokine storm with high mortality.
+  JOURNAL   Inflamm Regen 40:37 (2020)
+            DOI:10.1186/s41232-020-00146-3
+REFERENCE   PMID:32544563
+  AUTHORS   Mahmudpour M, Roozbeh J, Keshavarz M, Farrokhi S, Nabipour I
+  TITLE     COVID-19 cytokine storm: The anger of inflammation.
+  JOURNAL   Cytokine 133:155151 (2020)
+            DOI:10.1016/j.cyto.2020.155151
+REFERENCE   PMID:32635353
+  AUTHORS   Farooqi F, Dhawan N, Morgan R, Dinh J, Nedd K, Yatzkan G
+  TITLE     Treatment of Severe COVID-19 with Tocilizumab Mitigates Cytokine Storm and Averts Mechanical Ventilation During Acute Respiratory Distress: A Case Report and Literature Review.
+  JOURNAL   Trop Med Infect Dis 5:E112 (2020)
+            DOI:10.3390/tropicalmed5030112
+REFERENCE   PMID:32376392
+  AUTHORS   Jamilloux Y, Henry T, Belot A, Viel S, Fauter M, El Jammal T, Walzer T, Francois B, Seve P
+  TITLE     Should we stimulate or suppress immune responses in COVID-19? Cytokine and anti-cytokine interventions.
+  JOURNAL   Autoimmun Rev 19:102567 (2020)
+            DOI:10.1016/j.autrev.2020.102567
+REFERENCE   PMID:32722596
+  AUTHORS   Kiselevskiy M, Shubina I, Chikileva I, Sitdikova S, Samoylenko I, Anisimova N, Kirgizov K, Suleimanova A, Gorbunova T, Varfolomeeva S
+  TITLE     Immune Pathogenesis of COVID-19 Intoxication: Storm or Silence?
+  JOURNAL   Pharmaceuticals (Basel) 13:E166 (2020)
+            DOI:10.3390/ph13080166
+REFERENCE   PMID:32922297
+  AUTHORS   Curran CS, Rivera DR, Kopp JB
+  TITLE     COVID-19 Usurps Host Regulatory Networks.
+  JOURNAL   Front Pharmacol 11:1278 (2020)
+            DOI:10.3389/fphar.2020.01278
+REFERENCE   PMID:33055229
+  AUTHORS   Quan C, Li C, Ma H, Li Y, Zhang H
+  TITLE     Immunopathogenesis of Coronavirus-Induced Acute Respiratory Distress Syndrome (ARDS): Potential Infection-Associated Hemophagocytic Lymphohistiocytosis.
+  JOURNAL   Clin Microbiol Rev 34:e00074-20 (2020)
+            DOI:10.1128/CMR.00074-20
+REFERENCE   PMID:32973803
+  AUTHORS   Ahmed-Hassan H, Sisson B, Shukla RK, Wijewantha Y, Funderburg NT, Li Z, Hayes D Jr, Demberg T, Liyanage NPM
+  TITLE     Innate Immune Responses to Highly Pathogenic Coronaviruses and Other Significant Respiratory Viral Infections.
+  JOURNAL   Front Immunol 11:1979 (2020)
+            DOI:10.3389/fimmu.2020.01979
+REFERENCE   PMID:32346093
+  AUTHORS   Tay MZ, Poh CM, Renia L, MacAry PA, Ng LFP
+  TITLE     The trinity of COVID-19: immunity, inflammation and intervention.
+  JOURNAL   Nat Rev Immunol 20:363-374 (2020)
+            DOI:10.1038/s41577-020-0311-8
+REFERENCE   PMID:32979938
+  AUTHORS   Xia H, Cao Z, Xie X, Zhang X, Chen JY, Wang H, Menachery VD, Rajsbaum R, Shi PY
+  TITLE     Evasion of Type I Interferon by SARS-CoV-2.
+  JOURNAL   Cell Rep 33:108234 (2020)
+            DOI:10.1016/j.celrep.2020.108234
+REFERENCE   PMID:32661197
+  AUTHORS   Hartenian E, Nandakumar D, Lari A, Ly M, Tucker JM, Glaunsinger BA
+  TITLE     The molecular virology of coronaviruses.
+  JOURNAL   J Biol Chem 295:12910-12934 (2020)
+            DOI:10.1074/jbc.REV120.013930
+REFERENCE   PMID:32978971
+  AUTHORS   Amor S, Fernandez Blanco L, Baker D
+  TITLE     Innate immunity during SARS-CoV-2: evasion strategies and activation trigger hypoxia and vascular damage.
+  JOURNAL   Clin Exp Immunol 202:193-209 (2020)
+            DOI:10.1111/cei.13523
+REFERENCE   PMID:32467561
+  AUTHORS   Catanzaro M, Fagiani F, Racchi M, Corsini E, Govoni S, Lanni C
+  TITLE     Immune response in COVID-19: addressing a pharmacological challenge by targeting pathways triggered by SARS-CoV-2.
+  JOURNAL   Signal Transduct Target Ther 5:84 (2020)
+            DOI:10.1038/s41392-020-0191-1
+REFERENCE   PMID:32687918
+  AUTHORS   Jafarzadeh A, Chauhan P, Saha B, Jafarzadeh S, Nemati M
+  TITLE     Contribution of monocytes and macrophages to the local tissue inflammation and cytokine storm in COVID-19: Lessons from SARS and MERS, and potential therapeutic interventions.
+  JOURNAL   Life Sci 257:118102 (2020)
+            DOI:10.1016/j.lfs.2020.118102
+REFERENCE   PMID:32376901
+  AUTHORS   Merad M, Martin JC
+  TITLE     Pathological inflammation in patients with COVID-19: a key role for monocytes and macrophages.
+  JOURNAL   Nat Rev Immunol 20:355-362 (2020)
+            DOI:10.1038/s41577-020-0331-4
+REFERENCE   PMID:32246101
+  AUTHORS   South AM, Tomlinson L, Edmonston D, Hiremath S, Sparks MA
+  TITLE     Controversies of renin-angiotensin system inhibition during the COVID-19 pandemic.
+  JOURNAL   Nat Rev Nephrol 16:305-307 (2020)
+            DOI:10.1038/s41581-020-0279-4
+REFERENCE   PMID:32433641
+  AUTHORS   Furuhashi M, Moniwa N, Takizawa H, Ura N, Shimamoto K
+  TITLE     Potential differential effects of renin-angiotensin system inhibitors on SARS-CoV-2 infection and lung injury in COVID-19.
+  JOURNAL   Hypertens Res 43:837-840 (2020)
+            DOI:10.1038/s41440-020-0478-1
+REFERENCE   PMID:32423094
+  AUTHORS   Gemmati D, Bramanti B, Serino ML, Secchiero P, Zauli G, Tisato V
+  TITLE     COVID-19 and Individual Genetic Susceptibility/Receptivity: Role of ACE1/ACE2 Genes, Immunity, Inflammation and Coagulation. Might the Double X-chromosome in Females Be Protective against SARS-CoV-2 Compared to the Single X-Chromosome in Males?
+  JOURNAL   Int J Mol Sci 21:E3474 (2020)
+            DOI:10.3390/ijms21103474
+REFERENCE   PMID:33184193
+  AUTHORS   Kielian M
+  TITLE     Enhancing host cell infection by SARS-CoV-2.
+  JOURNAL   Science 370:765-766 (2020)
+            DOI:10.1126/science.abf0732
+REFERENCE   PMID:32327719
+  AUTHORS   Risitano AM, Mastellos DC, Huber-Lang M, Yancopoulou D, Garlanda C, Ciceri F, Lambris JD
+  TITLE     Complement as a target in COVID-19?
+  JOURNAL   Nat Rev Immunol 20:343-344 (2020)
+            DOI:10.1038/s41577-020-0320-7
+REFERENCE   PMID:32461141
+  AUTHORS   Noris M, Benigni A, Remuzzi G
+  TITLE     The case of complement activation in COVID-19 multiorgan impact.
+  JOURNAL   Kidney Int 98:314-322 (2020)
+            DOI:10.1016/j.kint.2020.05.013
+REFERENCE   PMID:32559343
+  AUTHORS   Polycarpou A, Howard M, Farrar CA, Greenlaw R, Fanelli G, Wallis R, Klavinskis LS, Sacks S
+  TITLE     Rationale for targeting complement in COVID-19.
+  JOURNAL   EMBO Mol Med 12:e12642 (2020)
+            DOI:10.15252/emmm.202012642
+REFERENCE   PMID:32439870
+  AUTHORS   Teuwen LA, Geldhof V, Pasut A, Carmeliet P
+  TITLE     COVID-19: the vasculature unleashed.
+  JOURNAL   Nat Rev Immunol 20:389-391 (2020)
+            DOI:10.1038/s41577-020-0343-0
+REFERENCE   PMID:32643798
+  AUTHORS   Jodele S, Kohl J
+  TITLE     Tackling COVID-19 infection through complement-targeted immunotherapy.
+  JOURNAL   Br J Pharmacol (2020)
+            DOI:10.1111/bph.15187
+REFERENCE   PMID:32608159
+  AUTHORS   Chauhan AJ, Wiffen LJ, Brown TP
+  TITLE     COVID-19: A collision of complement, coagulation and inflammatory pathways.
+  JOURNAL   J Thromb Haemost (2020)
+            DOI:10.1111/jth.14981
+REFERENCE   PMID:32558620
+  AUTHORS   Colling ME, Kanthi Y
+  TITLE     COVID-19-associated coagulopathy: An exploration of mechanisms.
+  JOURNAL   Vasc Med 25:471-478 (2020)
+            DOI:10.1177/1358863X20932640
+REFERENCE   PMID:32586214
+  AUTHORS   McFadyen JD, Stevens H, Peter K
+  TITLE     The Emerging Threat of (Micro)Thrombosis in COVID-19 and Its Therapeutic Implications.
+  JOURNAL   Circ Res 127:571-587 (2020)
+            DOI:10.1161/CIRCRESAHA.120.317447
+REFERENCE   PMID:32995777
+  AUTHORS   Shi M, Wang L, Fontana P, Vora S, Zhang Y, Fu TM, Lieberman J, Wu H
+  TITLE     SARS-CoV-2 Nsp1 suppresses host but not viral translation through a bipartite mechanism.
+  JOURNAL   bioRxiv 2020.09.18.302901 (2020)
+            DOI:10.1101/2020.09.18.302901
+REFERENCE   PMID:32693241
+  AUTHORS   Paniri A, Akhavan-Niaki H
+  TITLE     Emerging role of IL-6 and NLRP3 inflammasome as potential therapeutic targets to combat COVID-19: Role of lncRNAs in cytokine storm modulation.
+  JOURNAL   Life Sci 257:118114 (2020)
+            DOI:10.1016/j.lfs.2020.118114
+REFERENCE   PMID:32405269
+  AUTHORS   Omarjee L, Janin A, Perrot F, Laviolle B, Meilhac O, Mahe G
+  TITLE     Targeting T-cell senescence and cytokine storm with rapamycin to prevent severe progression in COVID-19.
+  JOURNAL   Clin Immunol 216:108464 (2020)
+            DOI:10.1016/j.clim.2020.108464
+REFERENCE   PMID:32337664
+  AUTHORS   Zhang S, Li L, Shen A, Chen Y, Qi Z
+  TITLE     Rational Use of Tocilizumab in the Treatment of Novel Coronavirus Pneumonia.
+  JOURNAL   Clin Drug Investig 40:511-518 (2020)
+            DOI:10.1007/s40261-020-00917-3
+REL_PATHWAY hsa03015  mRNA surveillance pathway
+            hsa04144  Endocytosis
+            hsa04270  Vascular smooth muscle contraction
+            hsa04610  Complement and coagulation cascades
+            hsa04611  Platelet activation
+            hsa04613  Neutrophil extracellular trap formation
+            hsa04614  Renin-angiotensin system
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04622  RIG-I-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04630  JAK-STAT signaling pathway
+            hsa04650  Natural killer cell mediated cytotoxicity
+            hsa04666  Fc gamma R-mediated phagocytosis
+            hsa04668  TNF signaling pathway
+            hsa04670  Leukocyte transendothelial migration
+KO_PATHWAY  ko05171
+///

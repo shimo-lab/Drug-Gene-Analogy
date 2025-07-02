@@ -1,0 +1,169 @@
+ENTRY       hsa04923                    Pathway
+NAME        Regulation of lipolysis in adipocytes - Homo sapiens (human)
+DESCRIPTION Lipolysis in adipocytes, the hydrolysis of triacylglycerol (TAG) to release fatty acids (FAs) and glycerol for use by other organs as energy substrates, is a unique function of white adipose tissue. Lipolysis is under tight hormonal control. During fasting, catecholamines, by binding to Gs-coupled-adrenergic receptors (-AR), activate adenylate cyclase (AC) to increase cAMP and activate protein kinase A (PKA). PKA phosphorylates target protein such as hormone-sensitive lipase (HSL) and perilipin 1 (PLIN). PLIN phosphorylation is a key event in the sequential activation of TAG hydrolysis involving adipose triglyceride lipase (ATGL), HSL, and monoglyceride lipase (MGL). During the fed state, insulin, through activation of phosphodiesterase-3B (PDE-3B), inhibits catecholamine-induced lipolysis via the degradation of cAMP.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04923  Regulation of lipolysis in adipocytes
+DRUG        D01238  Bucladesine sodium (JAN)
+            D02702  Talibegron hydrochloride (USAN)
+            D07546  Bucladesine (INN)
+DBLINKS     GO: 0016042
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        7252  TSHB; thyroid stimulating hormone subunit beta [KO:K05251]
+            1081  CGA; glycoprotein hormones, alpha polypeptide [KO:K08522]
+            7253  TSHR; thyroid stimulating hormone receptor [KO:K04249]
+            153  ADRB1; adrenoceptor beta 1 [KO:K04141]
+            154  ADRB2; adrenoceptor beta 2 [KO:K04142]
+            155  ADRB3; adrenoceptor beta 3 [KO:K04143]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            4878  NPPA; natriuretic peptide A [KO:K12334]
+            4881  NPR1; natriuretic peptide receptor 1 [KO:K12323] [EC:4.6.1.2]
+            5592  PRKG1; protein kinase cGMP-dependent 1 [KO:K07376] [EC:2.7.11.12]
+            5593  PRKG2; protein kinase cGMP-dependent 2 [KO:K19477] [EC:2.7.11.12]
+            5346  PLIN1; perilipin 1 [KO:K08768]
+            63924  CIDEC; cell death inducing DFFA like effector c [KO:K25878]
+            3991  LIPE; lipase E, hormone sensitive type [KO:K07188] [EC:3.1.1.79]
+            57104  PNPLA2; patatin like phospholipase domain containing 2 [KO:K16816] [EC:3.1.1.3]
+            51099  ABHD5; abhydrolase domain containing 5, lysophosphatidic acid acyltransferase [KO:K13699] [EC:2.3.1.51]
+            11343  MGLL; monoglyceride lipase [KO:K01054] [EC:3.1.1.23]
+            2167  FABP4; fatty acid binding protein 4 [KO:K08753]
+            364  AQP7; aquaporin 7 [KO:K08771]
+            100509620  AQP7B; aquaporin 7B [KO:K08771]
+            3630  INS; insulin [KO:K04526]
+            3643  INSR; insulin receptor [KO:K04527] [EC:2.7.10.1]
+            3667  IRS1; insulin receptor substrate 1 [KO:K16172]
+            8660  IRS2; insulin receptor substrate 2 [KO:K07187]
+            8471  IRS4; insulin receptor substrate 4 [KO:K17446]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            5140  PDE3B; phosphodiesterase 3B [KO:K13296] [EC:3.1.4.17]
+            11145  PLAAT3; phospholipase A and acyltransferase 3 [KO:K16817] [EC:3.1.1.32 3.1.1.4]
+            54979  PLAAT2; phospholipase A and acyltransferase 2 [KO:K16817] [EC:3.1.1.32 3.1.1.4]
+            5742  PTGS1; prostaglandin-endoperoxide synthase 1 [KO:K00509] [EC:1.14.99.1]
+            5743  PTGS2; prostaglandin-endoperoxide synthase 2 [KO:K11987] [EC:1.14.99.1]
+            134  ADORA1; adenosine A1 receptor [KO:K04265]
+            5733  PTGER3; prostaglandin E receptor 3 [KO:K04260]
+            4852  NPY; neuropeptide Y [KO:K05232]
+            4886  NPY1R; neuropeptide Y receptor Y1 [KO:K04204]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+COMPOUND    C00020  AMP
+            C00116  Glycerol
+            C00162  Fatty acid
+            C00165  Diacylglycerol
+            C00212  Adenosine
+            C00219  Arachidonate
+            C00422  Triacylglycerol
+            C00547  L-Noradrenaline
+            C00575  3',5'-Cyclic AMP
+            C00584  Prostaglandin E2
+            C00788  L-Adrenaline
+            C00942  3',5'-Cyclic GMP
+            C01885  1-Acylglycerol
+            C02140  Corticosterone
+REFERENCE   PMID:20025992
+  AUTHORS   Ahmadian M, Wang Y, Sul HS
+  TITLE     Lipolysis in adipocytes.
+  JOURNAL   Int J Biochem Cell Biol 42:555-9 (2010)
+            DOI:10.1016/j.biocel.2009.12.009
+REFERENCE   PMID:19796963
+  AUTHORS   Ahmadian M, Duncan RE, Sul HS
+  TITLE     The skinny on fat: lipolysis and fatty acid utilization in adipocytes.
+  JOURNAL   Trends Endocrinol Metab 20:424-8 (2009)
+            DOI:10.1016/j.tem.2009.06.002
+REFERENCE   PMID:18762440
+  AUTHORS   Wang S, Soni KG, Semache M, Casavant S, Fortier M, Pan L, Mitchell GA
+  TITLE     Lipolysis and the integrated physiology of lipid energy metabolism.
+  JOURNAL   Mol Genet Metab 95:117-26 (2008)
+            DOI:10.1016/j.ymgme.2008.06.012
+REFERENCE   PMID:21900692
+  AUTHORS   Lafontan M
+  TITLE     Historical perspectives in fat cell biology: the fat cell as a model for the investigation of hormonal and metabolic pathways.
+  JOURNAL   Am J Physiol Cell Physiol 302:C327-59 (2012)
+            DOI:10.1152/ajpcell.00168.2011
+REFERENCE   PMID:24872083
+  AUTHORS   Fruhbeck G, Mendez-Gimenez L, Fernandez-Formoso JA, Fernandez S, Rodriguez A
+  TITLE     Regulation of adipocyte lipolysis.
+  JOURNAL   Nutr Res Rev 27:63-93 (2014)
+            DOI:10.1017/S095442241400002X
+REFERENCE   PMID:24676492
+  AUTHORS   Proenca AR, Sertie RA, Oliveira AC, Campana AB, Caminhotto RO, Chimin P, Lima FB
+  TITLE     New concepts in white adipose tissue physiology.
+  JOURNAL   Braz J Med Biol Res 47:192-205 (2014)
+            DOI:10.1590/1414-431X20132911
+REFERENCE   PMID:17313320
+  AUTHORS   Duncan RE, Ahmadian M, Jaworski K, Sarkadi-Nagy E, Sul HS
+  TITLE     Regulation of lipolysis in adipocytes.
+  JOURNAL   Annu Rev Nutr 27:79-101 (2007)
+            DOI:10.1146/annurev.nutr.27.061406.093734
+REFERENCE   PMID:19136990
+  AUTHORS   Lafontan M
+  TITLE     Advances in adipose tissue metabolism.
+  JOURNAL   Int J Obes (Lond) 32 Suppl 7:S39-51 (2008)
+            DOI:10.1038/ijo.2008.237
+REFERENCE   PMID:17218471
+  AUTHORS   Jaworski K, Sarkadi-Nagy E, Duncan RE, Ahmadian M, Sul HS
+  TITLE     Regulation of triglyceride metabolism. IV. Hormonal regulation of lipolysis in adipose tissue.
+  JOURNAL   Am J Physiol Gastrointest Liver Physiol 293:G1-4 (2007)
+            DOI:10.1152/ajpgi.00554.2006
+REFERENCE   PMID:22298655
+  AUTHORS   Thompson D, Karpe F, Lafontan M, Frayn K
+  TITLE     Physical activity and exercise in the regulation of human adipose tissue physiology.
+  JOURNAL   Physiol Rev 92:157-91 (2012)
+            DOI:10.1152/physrev.00012.2011
+REFERENCE   PMID:19464318
+  AUTHORS   Lafontan M, Langin D
+  TITLE     Lipolysis and lipid mobilization in human adipose tissue.
+  JOURNAL   Prog Lipid Res 48:275-97 (2009)
+            DOI:10.1016/j.plipres.2009.05.001
+REFERENCE   PMID:24731595
+  AUTHORS   Arner P, Langin D
+  TITLE     Lipolysis in lipid turnover, cancer cachexia, and obesity-induced insulin resistance.
+  JOURNAL   Trends Endocrinol Metab 25:255-62 (2014)
+            DOI:10.1016/j.tem.2014.03.002
+REFERENCE   PMID:17878492
+  AUTHORS   Brasaemle DL
+  TITLE     Thematic review series: adipocyte biology. The perilipin family of structural lipid droplet proteins: stabilization of lipid droplets and control of lipolysis.
+  JOURNAL   J Lipid Res 48:2547-59 (2007)
+            DOI:10.1194/jlr.R700014-JLR200
+REFERENCE   PMID:21241784
+  AUTHORS   Lampidonis AD, Rogdakis E, Voutsinas GE, Stravopodis DJ
+  TITLE     The resurgence of Hormone-Sensitive Lipase (HSL) in mammalian lipolysis.
+  JOURNAL   Gene 477:1-11 (2011)
+            DOI:10.1016/j.gene.2011.01.007
+REFERENCE   PMID:19375517
+  AUTHORS   Bickel PE, Tansey JT, Welte MA
+  TITLE     PAT proteins, an ancient family of lipid droplet proteins that regulate cellular lipid stores.
+  JOURNAL   Biochim Biophys Acta 1791:419-40 (2009)
+            DOI:10.1016/j.bbalip.2009.04.002
+REFERENCE   PMID:24627478
+  AUTHORS   Grahn THM, Kaur R, Yin J, Schweiger M, Sharma VM, Lee MJ, Ido Y, Smas CM, Zechner R, Lass A, Puri V
+  TITLE     Fat-specific protein 27 (FSP27) interacts with adipose triglyceride lipase (ATGL) to regulate lipolysis and insulin sensitivity in human adipocytes.
+  JOURNAL   J Biol Chem 289:12029-12039 (2014)
+            DOI:10.1074/jbc.M113.539890
+REL_PATHWAY hsa00561  Glycerolipid metabolism
+            hsa00590  Arachidonic acid metabolism
+            hsa04022  cGMP-PKG signaling pathway
+            hsa04024  cAMP signaling pathway
+            hsa04910  Insulin signaling pathway
+KO_PATHWAY  ko04923
+///

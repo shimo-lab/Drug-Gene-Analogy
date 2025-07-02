@@ -1,0 +1,92 @@
+ENTRY       hsa00601                    Pathway
+NAME        Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human)
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+MODULE      hsa_M00070  Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer [PATH:hsa00601]
+            hsa_M00071  Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer [PATH:hsa00601]
+DBLINKS     GO: 0001572
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        84002  B3GNT5; UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5 [KO:K03766] [EC:2.4.1.206]
+            8708  B3GALT1; beta-1,3-galactosyltransferase 1 [KO:K07819] [EC:2.4.1.86]
+            8707  B3GALT2; beta-1,3-galactosyltransferase 2 [KO:K07820] [EC:2.4.1.86]
+            10317  B3GALT5; beta-1,3-galactosyltransferase 5 [KO:K03877] [EC:2.4.1.-]
+            2523  FUT1; fucosyltransferase 1 (H blood group) [KO:K00718] [EC:2.4.1.69]
+            2524  FUT2; fucosyltransferase 2 [KO:K00718] [EC:2.4.1.69]
+            2525  FUT3; fucosyltransferase 3 (Lewis blood group) [KO:K00716] [EC:2.4.1.65]
+            6487  ST3GAL3; ST3 beta-galactoside alpha-2,3-sialyltransferase 3 [KO:K00781] [EC:2.4.3.6]
+            6484  ST3GAL4; ST3 beta-galactoside alpha-2,3-sialyltransferase 4 [KO:K03494] [EC:2.4.3.2 2.4.3.4 2.4.3.6]
+            28  ABO; ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase [KO:K00709] [EC:2.4.1.40 2.4.1.37]
+            2683  B4GALT1; beta-1,4-galactosyltransferase 1 [KO:K07966] [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+            8704  B4GALT2; beta-1,4-galactosyltransferase 2 [KO:K07967] [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+            8703  B4GALT3; beta-1,4-galactosyltransferase 3 [KO:K07968] [EC:2.4.1.90 2.4.1.38 2.4.1.-]
+            8702  B4GALT4; beta-1,4-galactosyltransferase 4 [KO:K07969] [EC:2.4.1.90 2.4.1.275 2.4.1.-]
+            10690  FUT9; fucosyltransferase 9 [KO:K03663] [EC:2.4.1.152]
+            2526  FUT4; fucosyltransferase 4 [KO:K07632] [EC:2.4.1.-]
+            2527  FUT5; fucosyltransferase 5 [KO:K07633] [EC:2.4.1.65]
+            2528  FUT6; fucosyltransferase 6 [KO:K07634] [EC:2.4.1.65]
+            2529  FUT7; fucosyltransferase 7 [KO:K07635] [EC:2.4.1.-]
+            10402  ST3GAL6; ST3 beta-galactoside alpha-2,3-sialyltransferase 6 [KO:K03792] [EC:2.4.3.6]
+            6489  ST8SIA1; ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 1 [KO:K03371] [EC:2.4.3.8]
+            53947  A4GALT; alpha 1,4-galactosyltransferase (P blood group) [KO:K01988] [EC:2.4.1.228]
+            8706  B3GALNT1; beta-1,3-N-acetylgalactosaminyltransferase 1 (globoside blood group) [KO:K00719] [EC:2.4.1.79]
+            10678  B3GNT2; UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2 [KO:K00741] [EC:2.4.1.149]
+            10331  B3GNT3; UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3 [KO:K07970] [EC:2.4.1.146 2.4.1.149]
+            79369  B3GNT4; UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 4 [KO:K07971] [EC:2.4.1.149]
+            2651  GCNT2; glucosaminyl (N-acetyl) transferase 2 (I blood group) [KO:K00742] [EC:2.4.1.150]
+COMPOUND    G00036  Lc3Cer
+            G00037  Lc4Cer
+            G00038
+            G00039  Type IB glycolipid
+            G00040
+            G00042  Type IA glycolipid
+            G00043
+            G00044  IV2Fuc-Lc4Cer
+            G00045  IV2Fuc,III4Fuc-Lc4Cer
+            G00046  Fuc-Lc4Cer
+            G00047  3'-isoLM1
+            G00048  Fuc-3'-isoLM1
+            G00050  Paragloboside
+            G00051  nLc5Cer
+            G00052  Type II B antigen
+            G00054  Type II A antigen
+            G00055  IV2Fuc-nLc4Cer
+            G00056  III3,IV2Fuc-nLc4Cer
+            G00057
+            G00058  Type IIIH glycolipid
+            G00059  Type IIIA glycolipid
+            G00060  III3Fuc-nLc4Cer
+            G00061  Sialyl-6-paragloboside
+            G00062  Sialyl-3-paragloboside
+            G00063  IV3NeuAc,III3Fuc-nLc4Cer
+            G00064  3',8'-LD1
+            G00066  nLc5Cer
+            G00067  nLc6Cer
+            G00068  nLc7Cer
+            G00069  nLc8Cer
+            G00071  VI2Fuc-nLc6
+            G00072
+            G00073
+            G00074
+            G00075  Type IIIAb
+            G00076  III3Fuc-nLc6Cer
+            G00077
+            G00078  iso-nLc8Cer
+            G00079
+            G00080
+            G00081
+            G00082
+            G00083
+            G00084
+            G00085
+            G00086
+            G00087  VI6NeuAc-nLc6Cer
+            G00088  VI3NeuAc-nLc6Cer
+            G00089  V3Fuc-nLc6Cer
+            G00090  V3Fuc,III3Fuc-nLc6Cer
+            G00091
+            G00092  Lactosylceramide
+            G00428  IV4Gala-nLc4-Cer
+            G00889  PX2
+REL_PATHWAY hsa00600  Sphingolipid metabolism
+KO_PATHWAY  ko00601
+///

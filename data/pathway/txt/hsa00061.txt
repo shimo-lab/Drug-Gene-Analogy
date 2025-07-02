@@ -1,0 +1,141 @@
+ENTRY       hsa00061                    Pathway
+NAME        Fatty acid biosynthesis - Homo sapiens (human)
+CLASS       Metabolism; Lipid metabolism
+PATHWAY_MAP hsa00061  Fatty acid biosynthesis
+MODULE      hsa_M00082  Fatty acid biosynthesis, initiation [PATH:hsa00061]
+            hsa_M00083  Fatty acid biosynthesis, elongation [PATH:hsa00061]
+            hsa_M00086  beta-Oxidation, acyl-CoA synthesis [PATH:hsa00061]
+            hsa_M00873  Fatty acid biosynthesis in mitochondria, animals [PATH:hsa00061]
+DRUG        D11186  Olumacostat glasaretil (USAN/INN)
+            D11640  Firsocostat (USAN/INN)
+            D11902  Clesacostat (USAN)
+            D11903  Clesacostat tromethamine (USAN)
+            D12391  Denifanstat (USAN)
+DBLINKS     GO: 0006633
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        31  ACACA; acetyl-CoA carboxylase alpha [KO:K11262] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            32  ACACB; acetyl-CoA carboxylase beta [KO:K01946] [EC:6.4.1.2 6.3.4.14 2.1.3.15]
+            197322  ACSF3; acyl-CoA synthetase family member 3 [KO:K18660] [EC:6.2.1.76 6.2.1.-]
+            27349  MCAT; malonyl-CoA-acyl carrier protein transacylase [KO:K00645] [EC:2.3.1.39]
+            2194  FASN; fatty acid synthase [KO:K00665] [EC:2.3.1.85]
+            54995  OXSM; 3-oxoacyl-ACP synthase, mitochondrial [KO:K09458] [EC:2.3.1.179]
+            84869  CBR4; carbonyl reductase 4 [KO:K11539] [EC:1.1.1.-]
+            7923  HSD17B8; hydroxysteroid 17-beta dehydrogenase 8 [KO:K13370] [EC:1.1.1.62 1.1.1.239]
+            109703458  HTD2; hydroxyacyl-thioester dehydratase type 2 [KO:K22540] [EC:4.2.1.-]
+            51102  MECR; mitochondrial trans-2-enoyl-CoA reductase [KO:K07512] [EC:1.3.1.- 1.3.1.38]
+            55301  OLAH; oleoyl-ACP hydrolase [KO:K01071] [EC:3.1.2.21]
+            23305  ACSL6; acyl-CoA synthetase long chain family member 6 [KO:K01897] [EC:6.2.1.3]
+            2182  ACSL4; acyl-CoA synthetase long chain family member 4 [KO:K01897] [EC:6.2.1.3]
+            2180  ACSL1; acyl-CoA synthetase long chain family member 1 [KO:K01897] [EC:6.2.1.3]
+            51703  ACSL5; acyl-CoA synthetase long chain family member 5 [KO:K01897] [EC:6.2.1.3]
+            2181  ACSL3; acyl-CoA synthetase long chain family member 3 [KO:K01897] [EC:6.2.1.3]
+            23205  ACSBG1; acyl-CoA synthetase bubblegum family member 1 [KO:K15013] [EC:6.2.1.3]
+            81616  ACSBG2; acyl-CoA synthetase bubblegum family member 2 [KO:K15013] [EC:6.2.1.3]
+COMPOUND    C00024  Acetyl-CoA
+            C00083  Malonyl-CoA
+            C00154  Palmitoyl-CoA
+            C00173  Acyl-[acyl-carrier protein]
+            C00229  Acyl-carrier protein
+            C00249  Hexadecanoic acid
+            C00383  Malonate
+            C00638  Long-chain fatty acid
+            C00685  3-Oxoacyl-[acyl-carrier protein]
+            C00693  trans-2,3-Dehydroacyl-[acyl-carrier protein]
+            C00712  (9Z)-Octadecenoic acid
+            C01203  Oleoyl-[acyl-carrier protein]
+            C01209  Malonyl-[acyl-carrier protein]
+            C01271  (3R)-3-Hydroxyacyl-[acyl-carrier protein]
+            C01530  Octadecanoic acid
+            C01571  Decanoic acid
+            C02679  Dodecanoic acid
+            C02843  Long-chain acyl-CoA
+            C03939  Acetyl-[acyl-carrier protein]
+            C04088  Octadecanoyl-[acyl-carrier protein]
+            C04180  cis-Dec-3-enoyl-[acp]
+            C04246  But-2-enoyl-[acyl-carrier protein]
+            C04618  (3R)-3-Hydroxybutanoyl-[acyl-carrier protein]
+            C04619  (3R)-3-Hydroxydecanoyl-[acyl-carrier protein]
+            C04620  (3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]
+            C04633  (3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]
+            C04688  (3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]
+            C05223  Dodecanoyl-[acyl-carrier protein]
+            C05744  Acetoacetyl-[acp]
+            C05745  Butyryl-[acp]
+            C05746  3-Oxohexanoyl-[acp]
+            C05747  (3R)-3-Hydroxyhexanoyl-[acyl-carrier protein]
+            C05748  trans-Hex-2-enoyl-[acp]
+            C05749  Hexanoyl-[acp]
+            C05750  3-Oxooctanoyl-[acp]
+            C05751  trans-Oct-2-enoyl-[acp]
+            C05752  Octanoyl-[acp]
+            C05753  3-Oxodecanoyl-[acp]
+            C05754  trans-Dec-2-enoyl-[acp]
+            C05755  Decanoyl-[acp]
+            C05756  3-Oxododecanoyl-[acp]
+            C05757  (3R)-3-Hydroxydodecanoyl-[acyl-carrier protein]
+            C05758  trans-Dodec-2-enoyl-[acp]
+            C05759  3-Oxotetradecanoyl-[acp]
+            C05760  trans-Tetradec-2-enoyl-[acp]
+            C05761  Tetradecanoyl-[acp]
+            C05762  3-Oxohexadecanoyl-[acp]
+            C05763  trans-Hexadec-2-enoyl-[acp]
+            C05764  Hexadecanoyl-[acp]
+            C06423  Octanoic acid
+            C06424  Tetradecanoic acid
+            C08362  (9Z)-Hexadecenoic acid
+            C16219  3-Oxostearoyl-[acp]
+            C16220  (3R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]
+            C16221  (2E)-Octadecenoyl-[acp]
+            C16520  Hexadecenoyl-[acyl-carrier protein]
+            C20683  Long-chain acyl-[acyl-carrier protein]
+            C20794  n-7 Unsaturated acyl-[acyl-carrier protein]
+REFERENCE   PMID:12061798
+  AUTHORS   Salas JJ, Ohlrogge JB.
+  TITLE     Characterization of substrate specificity of plant FatA and FatB acyl-ACP thioesterases.
+  JOURNAL   Arch Biochem Biophys 403:25-34 (2002)
+            DOI:10.1016/S0003-9861(02)00017-6
+REFERENCE   PMID:12518017
+  AUTHORS   Zhang YM, Marrakchi H, White SW, Rock CO.
+  TITLE     The application of computational methods to explore the diversity and structure of bacterial fatty acid synthase.
+  JOURNAL   J Lipid Res 44:1-10 (2003)
+            DOI:10.1194/jlr.R200016-JLR200
+REFERENCE   PMID:11337402
+  AUTHORS   Voelker T, Kinney AJ.
+  TITLE     VARIATIONS IN THE BIOSYNTHESIS OF SEED-STORAGE LIPIDS.
+  JOURNAL   Annu Rev Plant Physiol Plant Mol Biol 52:335-361 (2001)
+            DOI:10.1146/annurev.arplant.52.1.335
+REFERENCE   PMID:17573542
+  AUTHORS   Barker GC, Larson TR, Graham IA, Lynn JR, King GJ.
+  TITLE     Novel insights into seed fatty acid synthesis and modification pathways from genetic diversity and quantitative trait Loci analysis of the Brassica C genome.
+  JOURNAL   Plant Physiol 144:1827-42 (2007)
+            DOI:10.1104/pp.107.096172
+REFERENCE   PMID:30201289
+  AUTHORS   Bowman CE, Wolfgang MJ
+  TITLE     Role of the malonyl-CoA synthetase ACSF3 in mitochondrial metabolism.
+  JOURNAL   Adv Biol Regul 71:34-40 (2019)
+            DOI:10.1016/j.jbior.2018.09.002
+REFERENCE   PMID:25203508
+  AUTHORS   Venkatesan R, Sah-Teli SK, Awoniyi LO, Jiang G, Prus P, Kastaniotis AJ, Hiltunen JK, Wierenga RK, Chen Z
+  TITLE     Insights into mitochondrial fatty acid synthesis from the structure of heterotetrameric 3-ketoacyl-ACP reductase/3R-hydroxyacyl-CoA dehydrogenase.
+  JOURNAL   Nat Commun 5:4805 (2014)
+            DOI:10.1038/ncomms5805
+REFERENCE   PMID:19686777
+  AUTHORS   Hiltunen JK, Chen Z, Haapalainen AM, Wierenga RK, Kastaniotis AJ
+  TITLE     Mitochondrial fatty acid synthesis--an adopted set of enzymes making a pathway of major importance for the cellular metabolism.
+  JOURNAL   Prog Lipid Res 49:27-45 (2010)
+            DOI:10.1016/j.plipres.2009.08.001
+REFERENCE   PMID:27553474
+  AUTHORS   Kastaniotis AJ, Autio KJ, Keratar JM, Monteuuis G, Makela AM, Nair RR, Pietikainen LP, Shvetsova A, Chen Z, Hiltunen JK
+  TITLE     Mitochondrial fatty acid synthesis, fatty acids and mitochondrial physiology.
+  JOURNAL   Biochim Biophys Acta Mol Cell Biol Lipids 1862:39-48 (2017)
+            DOI:10.1016/j.bbalip.2016.08.011
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa00062  Fatty acid elongation
+            hsa00071  Fatty acid degradation
+            hsa00410  beta-Alanine metabolism
+            hsa00561  Glycerolipid metabolism
+            hsa00564  Glycerophospholipid metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00785  Lipoic acid metabolism
+KO_PATHWAY  ko00061
+///

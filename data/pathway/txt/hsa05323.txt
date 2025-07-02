@@ -1,0 +1,213 @@
+ENTRY       hsa05323                    Pathway
+NAME        Rheumatoid arthritis - Homo sapiens (human)
+DESCRIPTION Rheumatoid arthritis (RA) is a chronic autoimmune joint disease where persistent inflammation affects bone remodeling leading to progressive bone destruction. In RA, abnormal activation of the immune system elevates pro-inflammatory cytokines and chemokines levels, which can promote synovial angiogenesis and leukocyte infiltration. The synovium forms a hyperplastic pannus with infiltrated macrophage-like and fibroblast-like synoviocytes and invades joints by secreting proteinases and inducing osteoclast differentiation.
+CLASS       Human Diseases; Immune disease
+PATHWAY_MAP hsa05323  Rheumatoid arthritis
+DISEASE     H00630  Rheumatoid arthritis
+DRUG        D00742  Etanercept (USAN/INN)
+            D02597  Adalimumab (USAN/INN)
+            D02598  Infliximab (USAN/INN)
+            D03203  Abatacept (USAN/INN)
+            D03441  Certolizumab pegol (USAN/INN)
+            D04358  Golimumab (USAN/INN)
+            D08866  Baminercept (USAN/INN)
+            D08955  Odanacatib (JAN/USAN)
+            D09704  Atacicept (USAN/INN)
+            D09967  Secukinumab (USAN/INN)
+            D11020  Diclofenac etalhyaluronate sodium (JAN)
+            D11121  Gimsilumab (USAN/INN)
+            D11343  Otilimab (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        941  CD80; CD80 molecule [KO:K05412]
+            942  CD86; CD86 molecule [KO:K05413]
+            940  CD28; CD28 molecule [KO:K06470]
+            1493  CTLA4; cytotoxic T-lymphocyte associated protein 4 [KO:K06538]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            3683  ITGAL; integrin subunit alpha L [KO:K05718]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            3383  ICAM1; intercellular adhesion molecule 1 [KO:K06490]
+            3600  IL15; interleukin 15 [KO:K05433]
+            8741  TNFSF13; TNF superfamily member 13 [KO:K05475]
+            10673  TNFSF13B; TNF superfamily member 13b [KO:K05476]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            4050  LTB; lymphotoxin beta [KO:K03157]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3552  IL1A; interleukin 1 alpha [KO:K04383]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3589  IL11; interleukin 11 [KO:K05417]
+            3606  IL18; interleukin 18 [KO:K05482]
+            7097  TLR2; toll like receptor 2 [KO:K10159]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            51561  IL23A; interleukin 23 subunit alpha [KO:K05426]
+            3605  IL17A; interleukin 17A [KO:K05489]
+            5741  PTH; parathyroid hormone [KO:K05261]
+            1435  CSF1; colony stimulating factor 1 [KO:K05453]
+            8600  TNFSF11; TNF superfamily member 11 [KO:K05473]
+            8792  TNFRSF11A; TNF receptor superfamily member 11a [KO:K05147]
+            523  ATP6V1A; ATPase H+ transporting V1 subunit A [KO:K02145] [EC:7.1.2.2]
+            525  ATP6V1B1; ATPase H+ transporting V1 subunit B1 [KO:K02147]
+            526  ATP6V1B2; ATPase H+ transporting V1 subunit B2 [KO:K02147]
+            245973  ATP6V1C2; ATPase H+ transporting V1 subunit C2 [KO:K02148]
+            528  ATP6V1C1; ATPase H+ transporting V1 subunit C1 [KO:K02148]
+            51382  ATP6V1D; ATPase H+ transporting V1 subunit D [KO:K02149]
+            90423  ATP6V1E2; ATPase H+ transporting V1 subunit E2 [KO:K02150]
+            529  ATP6V1E1; ATPase H+ transporting V1 subunit E1 [KO:K02150]
+            9296  ATP6V1F; ATPase H+ transporting V1 subunit F [KO:K02151]
+            9550  ATP6V1G1; ATPase H+ transporting V1 subunit G1 [KO:K02152]
+            127124  ATP6V1G3; ATPase H+ transporting V1 subunit G3 [KO:K02152]
+            534  ATP6V1G2; ATPase H+ transporting V1 subunit G2 [KO:K02152]
+            8992  ATP6V0E1; ATPase H+ transporting V0 subunit e1 [KO:K02153]
+            155066  ATP6V0E2; ATPase H+ transporting V0 subunit e2 [KO:K02153]
+            10312  TCIRG1; T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [KO:K02154]
+            23545  ATP6V0A2; ATPase H+ transporting V0 subunit a2 [KO:K02154]
+            50617  ATP6V0A4; ATPase H+ transporting V0 subunit a4 [KO:K02154]
+            535  ATP6V0A1; ATPase H+ transporting V0 subunit a1 [KO:K02154]
+            9114  ATP6V0D1; ATPase H+ transporting V0 subunit d1 [KO:K02146]
+            245972  ATP6V0D2; ATPase H+ transporting V0 subunit d2 [KO:K02146]
+            51606  ATP6V1H; ATPase H+ transporting V1 subunit H [KO:K02144]
+            537  ATP6AP1; ATPase H+ transporting accessory protein 1 [KO:K03662]
+            527  ATP6V0C; ATPase H+ transporting V0 subunit c [KO:K02155]
+            533  ATP6V0B; ATPase H+ transporting V0 subunit b [KO:K03661]
+            1513  CTSK; cathepsin K [KO:K01371] [EC:3.4.22.38]
+            54  ACP5; acid phosphatase 5, tartrate resistant [KO:K14379] [EC:3.1.3.2]
+            4312  MMP1; matrix metallopeptidase 1 [KO:K01388] [EC:3.4.24.7]
+            4314  MMP3; matrix metallopeptidase 3 [KO:K01394] [EC:3.4.24.17]
+            1514  CTSL; cathepsin L [KO:K01365] [EC:3.4.22.15]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            6347  CCL2; C-C motif chemokine ligand 2 [KO:K14624]
+            6348  CCL3; C-C motif chemokine ligand 3 [KO:K05408]
+            6349  CCL3L1; C-C motif chemokine ligand 3 like 1 [KO:K05408]
+            414062  CCL3L3; C-C motif chemokine ligand 3 like 3 [KO:K05408]
+            6364  CCL20; C-C motif chemokine ligand 20 [KO:K14625]
+            2919  CXCL1; C-X-C motif chemokine ligand 1 [KO:K05505]
+            2920  CXCL2; C-X-C motif chemokine ligand 2 [KO:K05505]
+            2921  CXCL3; C-X-C motif chemokine ligand 3 [KO:K05505]
+            6374  CXCL5; C-X-C motif chemokine ligand 5 [KO:K05506]
+            6372  CXCL6; C-X-C motif chemokine ligand 6 [KO:K05506]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            6387  CXCL12; C-X-C motif chemokine ligand 12 [KO:K10031]
+            7422  VEGFA; vascular endothelial growth factor A [KO:K05448]
+            2321  FLT1; fms related receptor tyrosine kinase 1 [KO:K05096] [EC:2.7.10.1]
+            284  ANGPT1; angiopoietin 1 [KO:K05465]
+            7010  TEK; TEK receptor tyrosine kinase [KO:K05121] [EC:2.7.10.1]
+            3458  IFNG; interferon gamma [KO:K04687]
+COMPOUND    C00080  H+
+            C00584  Prostaglandin E2
+            C05443  Vitamin D3
+REFERENCE   PMID:16127012
+  AUTHORS   Zwerina J, Redlich K, Schett G, Smolen JS
+  TITLE     Pathogenesis of rheumatoid arthritis: targeting cytokines.
+  JOURNAL   Ann N Y Acad Sci 1051:716-29 (2005)
+            DOI:10.1196/annals.1361.116
+REFERENCE   PMID:20036936
+  AUTHORS   Szekanecz Z, Vegvari A, Szabo Z, Koch AE
+  TITLE     Chemokines and chemokine receptors in arthritis.
+  JOURNAL   Front Biosci (Schol Ed) 2:153-67 (2010)
+            DOI:10.2741/53
+REFERENCE   PMID:20651747
+  AUTHORS   Isaacs JD
+  TITLE     The changing face of rheumatoid arthritis: sustained remission for all?
+  JOURNAL   Nat Rev Immunol 10:605-11 (2010)
+            DOI:10.1038/nri2804
+REFERENCE   PMID:17195034
+  AUTHORS   Strand V, Kimberly R, Isaacs JD
+  TITLE     Biologic therapies in rheumatology: lessons learned, future directions.
+  JOURNAL   Nat Rev Drug Discov 6:75-92 (2007)
+            DOI:10.1038/nrd2196
+REFERENCE   PMID:20193003
+  AUTHORS   Bartok B, Firestein GS
+  TITLE     Fibroblast-like synoviocytes: key effector cells in rheumatoid arthritis.
+  JOURNAL   Immunol Rev 233:233-55 (2010)
+            DOI:10.1111/j.0105-2896.2009.00859.x
+REFERENCE   PMID:17502360
+  AUTHORS   Dai SM, Shan ZZ, Xu H, Nishioka K
+  TITLE     Cellular targets of interleukin-18 in rheumatoid arthritis.
+  JOURNAL   Ann Rheum Dis 66:1411-8 (2007)
+            DOI:10.1136/ard.2006.067793
+REFERENCE   PMID:9627005
+  AUTHORS   Koch AE
+  TITLE     Review: angiogenesis: implications for rheumatoid arthritis.
+  JOURNAL   Arthritis Rheum 41:951-62 (1998)
+            DOI:10.1002/1529-0131(199806)41:6<951::AID-ART2>3.0.CO;2-D
+REFERENCE   PMID:20305562
+  AUTHORS   Szekanecz Z, Besenyei T, Szentpetery A, Koch AE
+  TITLE     Angiogenesis and vasculogenesis in rheumatoid arthritis.
+  JOURNAL   Curr Opin Rheumatol 22:299-306 (2010)
+            DOI:10.1097/BOR.0b013e328337c95a
+REFERENCE   PMID:15059264
+  AUTHORS   Brunner-Weinzierl MC, Hoff H, Burmester GR
+  TITLE     Multiple functions for CD28 and cytotoxic T lymphocyte antigen-4 during different phases of T cell responses: implications for arthritis and autoimmune diseases.
+  JOURNAL   Arthritis Res Ther 6:45-54 (2004)
+            DOI:10.1186/ar1158
+REFERENCE   PMID:11861618
+  AUTHORS   Theill LE, Boyle WJ, Penninger JM
+  TITLE     RANK-L and RANK: T cells, bone loss, and mammalian evolution.
+  JOURNAL   Annu Rev Immunol 20:795-823 (2002)
+            DOI:10.1146/annurev.immunol.20.100301.064753
+REFERENCE   PMID:19184540
+  AUTHORS   Mensah KA, Li J, Schwarz EM
+  TITLE     The emerging field of osteoimmunology.
+  JOURNAL   Immunol Res 45:100-13 (2009)
+            DOI:10.1007/s12026-009-8093-x
+REFERENCE   PMID:16313349
+  AUTHORS   Takayanagi H, Sato K, Takaoka A, Taniguchi T
+  TITLE     Interplay between interferon and other cytokine systems in bone metabolism.
+  JOURNAL   Immunol Rev 208:181-93 (2005)
+            DOI:10.1111/j.0105-2896.2005.00337.x
+REFERENCE   PMID:20392226
+  AUTHORS   Takayanagi H
+  TITLE     New immune connections in osteoclast formation.
+  JOURNAL   Ann N Y Acad Sci 1192:117-23 (2010)
+            DOI:10.1111/j.1749-6632.2009.05303.x
+REFERENCE   PMID:19585227
+  AUTHORS   Nakashima T, Takayanagi H
+  TITLE     Osteoimmunology: crosstalk between the immune and bone systems.
+  JOURNAL   J Clin Immunol 29:555-67 (2009)
+            DOI:10.1007/s10875-009-9316-6
+REFERENCE   PMID:19455385
+  AUTHORS   Nakashima T, Takayanagi H
+  TITLE     Osteoclasts and the immune system.
+  JOURNAL   J Bone Miner Metab 27:519-29 (2009)
+            DOI:10.1007/s00774-009-0089-z
+REFERENCE   PMID:17380158
+  AUTHORS   Takayanagi H
+  TITLE     Osteoimmunology: shared mechanisms and crosstalk between the immune and bone systems.
+  JOURNAL   Nat Rev Immunol 7:292-304 (2007)
+            DOI:10.1038/nri2062
+REFERENCE   PMID:20510236
+  AUTHORS   Fox DA, Gizinski A, Morgan R, Lundy SK
+  TITLE     Cell-cell interactions in rheumatoid arthritis synovium.
+  JOURNAL   Rheum Dis Clin North Am 36:311-23 (2010)
+            DOI:10.1016/j.rdc.2010.02.004
+REFERENCE   PMID:15055519
+  AUTHORS   Rho J, Takami M, Choi Y
+  TITLE     Osteoimmunology: interactions of the immune and skeletal systems.
+  JOURNAL   Mol Cells 17:1-9 (2004)
+REL_PATHWAY hsa04370  VEGF signaling pathway
+            hsa04380  Osteoclast differentiation
+            hsa04620  Toll-like receptor signaling pathway
+            hsa04659  Th17 cell differentiation
+            hsa04660  T cell receptor signaling pathway
+            hsa04670  Leukocyte transendothelial migration
+KO_PATHWAY  ko05323
+///

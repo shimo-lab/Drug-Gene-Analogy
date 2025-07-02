@@ -1,0 +1,67 @@
+ENTRY       hsa03020                    Pathway
+NAME        RNA polymerase - Homo sapiens (human)
+CLASS       Genetic Information Processing; Transcription
+PATHWAY_MAP hsa03020  RNA polymerase
+DBLINKS     GO: 0000428
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        5431  POLR2B; RNA polymerase II subunit B [KO:K03010] [EC:2.7.7.6]
+            5430  POLR2A; RNA polymerase II subunit A [KO:K03006] [EC:2.7.7.6]
+            5432  POLR2C; RNA polymerase II subunit C [KO:K03011]
+            5439  POLR2J; RNA polymerase II subunit J [KO:K03008]
+            548644  POLR2J3; RNA polymerase II subunit J3 [KO:K03008]
+            246721  POLR2J2; RNA polymerase II subunit J2 [KO:K03008]
+            5433  POLR2D; RNA polymerase II subunit D [KO:K03012]
+            5436  POLR2G; RNA polymerase II subunit G [KO:K03015]
+            5438  POLR2I; RNA polymerase II subunit I [KO:K03017]
+            81488  POLR2M; RNA polymerase II subunit M [KO:K21987]
+            55703  POLR3B; RNA polymerase III subunit B [KO:K03021] [EC:2.7.7.6]
+            11128  POLR3A; RNA polymerase III subunit A [KO:K03018] [EC:2.7.7.6]
+            51082  POLR1D; RNA polymerase I and III subunit D [KO:K03020]
+            9533  POLR1C; RNA polymerase I and III subunit C [KO:K03027]
+            10623  POLR3C; RNA polymerase III subunit C [KO:K03023]
+            661  POLR3D; RNA polymerase III subunit D [KO:K03026]
+            55718  POLR3E; RNA polymerase III subunit E [KO:K14721]
+            10621  POLR3F; RNA polymerase III subunit F [KO:K03025]
+            84265  POLR3GL; RNA polymerase III subunit GL [KO:K03024]
+            10622  POLR3G; RNA polymerase III subunit G [KO:K03024]
+            171568  POLR3H; RNA polymerase III subunit H [KO:K03022]
+            27297  CRCP; CGRP receptor component [KO:K25304]
+            51728  POLR3K; RNA polymerase III subunit K [KO:K03019]
+            84172  POLR1B; RNA polymerase I subunit B [KO:K03002] [EC:2.7.7.6]
+            25885  POLR1A; RNA polymerase I subunit A [KO:K02999] [EC:2.7.7.6]
+            30834  POLR1H; RNA polymerase I subunit H [KO:K03000]
+            10849  POLR1G; RNA polymerase I subunit G [KO:K25436]
+            221830  POLR1F; RNA polymerase I subunit F [KO:K03004]
+            64425  POLR1E; RNA polymerase I subunit E [KO:K03005]
+            5434  POLR2E; RNA polymerase II, I and III subunit E [KO:K03013]
+            5435  POLR2F; RNA polymerase II, I and III subunit F [KO:K03014]
+            5437  POLR2H; RNA polymerase II, I and III subunit H [KO:K03016]
+            5440  POLR2K; RNA polymerase II, I and III subunit K [KO:K03009]
+            5441  POLR2L; RNA polymerase II, I and III subunit L [KO:K03007]
+REFERENCE   PMID:10499798
+  AUTHORS   Zhang G, Campbell EA, Minakhin L, Richter C, Severinov K, Darst SA.
+  TITLE     Crystal structure of Thermus aquaticus core RNA polymerase at 3.3 A resolution.
+  JOURNAL   Cell 98:811-824 (1999)
+            DOI:10.1016/S0092-8674(00)81515-9
+REFERENCE   PMID:10784442
+  AUTHORS   Cramer P, Bushnell DA, Fu J, Gnatt AL, Maier-Davis B, Thompson NE, Burgess RR, Edwards AM, David PR, Kornberg RD.
+  TITLE     Architecture of RNA polymerase II and implications for the transcription mechanism.
+  JOURNAL   Science 288:640-649 (2000)
+            DOI:10.1126/science.288.5466.640
+REFERENCE   PMID:19880312
+  AUTHORS   Hirata A, Murakami KS
+  TITLE     Archaeal RNA polymerase.
+  JOURNAL   Curr Opin Struct Biol 19:724-31 (2009)
+            DOI:10.1016/j.sbi.2009.10.006
+REFERENCE   PMID:18573085
+  AUTHORS   Cramer P, Armache KJ, Baumli S, Benkert S, Brueckner F, Buchen C, Damsma GE, Dengl S, Geiger SR, Jasiak AJ, Jawhari A, Jennebach S, Kamenski T, Kettenberger H, Kuhn CD, Lehmann E, Leike K, Sydow JF, Vannini A
+  TITLE     Structure of eukaryotic RNA polymerases.
+  JOURNAL   Annu Rev Biophys 37:337-52 (2008)
+            DOI:10.1146/annurev.biophys.37.032807.130008
+REFERENCE   PMID:31835031
+  AUTHORS   Hillen HS, Bartuli J, Grimm C, Dienemann C, Bedenk K, Szalay AA, Fischer U, Cramer P
+  TITLE     Structural Basis of Poxvirus Transcription: Transcribing and Capping Vaccinia Complexes.
+  JOURNAL   Cell 179:1525-1536.e12 (2019)
+            DOI:10.1016/j.cell.2019.11.023
+KO_PATHWAY  ko03020
+///

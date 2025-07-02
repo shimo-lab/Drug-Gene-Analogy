@@ -1,0 +1,103 @@
+ENTRY       hsa00470                    Pathway
+NAME        D-Amino acid metabolism - Homo sapiens (human)
+CLASS       Metabolism; Metabolism of other amino acids
+PATHWAY_MAP hsa00470  D-Amino acid metabolism
+DBLINKS     GO: 0046416
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        27165  GLS2; glutaminase 2 [KO:K01425] [EC:3.5.1.2]
+            2744  GLS; glutaminase [KO:K01425] [EC:3.5.1.2]
+            80017  DGLUCY; D-glutamate cyclase [KO:K22210] [EC:4.2.1.48]
+            8528  DDO; D-aspartate oxidase [KO:K00272] [EC:1.4.3.1]
+            63826  SRR; serine racemase [KO:K12235] [EC:5.1.1.18]
+            1610  DAO; D-amino acid oxidase [KO:K00273] [EC:1.4.3.3]
+COMPOUND    C00022  Pyruvate
+            C00025  L-Glutamate
+            C00026  2-Oxoglutarate
+            C00036  Oxaloacetate
+            C00037  Glycine
+            C00041  L-Alanine
+            C00047  L-Lysine
+            C00049  L-Aspartate
+            C00062  L-Arginine
+            C00064  L-Glutamine
+            C00065  L-Serine
+            C00073  L-Methionine
+            C00077  L-Ornithine
+            C00079  L-Phenylalanine
+            C00084  Acetaldehyde
+            C00097  L-Cysteine
+            C00133  D-Alanine
+            C00134  Putrescine
+            C00135  L-Histidine
+            C00148  L-Proline
+            C00166  Phenylpyruvate
+            C00188  L-Threonine
+            C00217  D-Glutamate
+            C00402  D-Aspartate
+            C00431  5-Aminopentanoate
+            C00433  2,5-Dioxopentanoate
+            C00515  D-Ornithine
+            C00624  N-Acetyl-L-glutamate
+            C00666  LL-2,6-Diaminoheptanedioate
+            C00680  meso-2,6-Diaminoheptanedioate
+            C00692  UDP-N-acetylmuramoyl-L-alanyl-D-glutamate
+            C00739  D-Lysine
+            C00740  D-Serine
+            C00763  D-Proline
+            C00792  D-Arginine
+            C00793  D-Cysteine
+            C00819  D-Glutamine
+            C00820  D-Threonine
+            C00855  D-Methionine
+            C00993  D-Alanyl-D-alanine
+            C01110  5-Amino-2-oxopentanoic acid
+            C01157  Hydroxyproline
+            C01180  4-Methylthio-2-oxobutanoic acid
+            C01667  Bacitracin
+            C01672  Cadaverine
+            C01726  D-Lombricine
+            C02237  5-Oxo-D-proline
+            C02265  D-Phenylalanine
+            C02855  N-Phospho-D-lombricine
+            C03239  6-Amino-2-oxohexanoate
+            C03341  2-Amino-4-oxopentanoic acid
+            C03440  cis-4-Hydroxy-D-proline
+            C03564  1-Pyrroline-2-carboxylate
+            C03771  5-Guanidino-2-oxopentanoate
+            C03933  5-D-Glutamyl-D-glutamyl-peptide
+            C03943  (2R,4S)-2,4-Diaminopentanoate
+            C04260  O-D-Alanyl-poly(ribitol phosphate)
+            C04282  1-Pyrroline-4-hydroxy-2-carboxylate
+            C04457  D-Alanyl-alanyl-poly(glycerolphosphate)
+            C05161  (2R,5S)-2,5-Diaminohexanoate
+            C05620  N-Acetyl-D-phenylalanine
+            C05825  2-Amino-5-oxohexanoate
+            C05939  Linatine
+            C05941  2-Oxo-4-hydroxy-5-aminovalerate
+            C05942  Pyrrole-2-carboxylate
+            C06419  D-Histidine
+            C22024  Staphylopine
+            C22025  (2S)-2-Amino-4-{[(1R)-1-carboxy-2-(1H-imidazol-4-yl)ethyl]amino}butanoate
+            C22611  N-Acetyl-D-glutamate
+REFERENCE   PMID:33788945
+  AUTHORS   Miyamoto T, Homma H
+  TITLE     D-Amino acid metabolism in bacteria.
+  JOURNAL   J Biochem 170:5-13 (2021)
+            DOI:10.1093/jb/mvab043
+REFERENCE   PMID:27230378
+  AUTHORS   Ghssein G, Brutesco C, Ouerdane L, Fojcik C, Izaute A, Wang S, Hajjar C, Lobinski R, Lemaire D, Richaud P, Voulhoux R, Espaillat A, Cava F, Pignol D, Borezee-Durant E, Arnoux P
+  TITLE     Biosynthesis of a broad-spectrum nicotianamine-like metallophore in Staphylococcus aureus.
+  JOURNAL   Science 352:1105-9 (2016)
+            DOI:10.1126/science.aaf1018
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00270  Cysteine and methionine metabolism
+            hsa00310  Lysine degradation
+            hsa00330  Arginine and proline metabolism
+            hsa00340  Histidine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00620  Pyruvate metabolism
+KO_PATHWAY  ko00470
+///

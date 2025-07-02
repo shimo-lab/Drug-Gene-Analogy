@@ -1,0 +1,255 @@
+ENTRY       hsa04911                    Pathway
+NAME        Insulin secretion - Homo sapiens (human)
+DESCRIPTION Pancreatic beta cells are specialised endocrine cells that continuously sense the levels of blood sugar and other fuels and, in response, secrete insulin to maintain normal fuel homeostasis. Glucose-induced insulin secretion and its potentiation constitute the principal mechanism of insulin release. Glucose is transported by the glucose transporter (GLUT) into the pancreatic beta-cell. Metabolism of glucose generates ATP, which inhibits ATP-sensitive K+ channels and causes voltage-dependent Ca2+ influx. Elevation of [Ca2+]i triggers exocytotic release of insulin granules. Insulin secretion is further regulated by several hormones and neurotransmitters. Peptide hormones, such as glucagon-like peptide 1 (GLP-1), increase cAMP levels and thereby potentiate insulin secretion via the combined action of PKA and Epac2. Achetylcholine (ACh), a major parasympathetic neurotransmitter, binds to Gq-coupled receptors and activates phospholipase C- (PLC-), and the stimulatory effects involve activation of protein kinase C (PKC), which stimulates exocytosis. In addition, ACh mobilizes intracellular Ca2+ by activation of IP3 receptors.
+CLASS       Organismal Systems; Endocrine system
+PATHWAY_MAP hsa04911  Insulin secretion
+DRUG        D00219  Acetohexamide (JP18/USP/INN)
+            D00271  Chlorpropamide (JP18/USP/INN)
+            D00294  Diazoxide (JAN/USP/INN)
+            D00335  Glipizide (USP/INN)
+            D00336  Glyburide (USP)
+            D00379  Tolazamide (JAN/USP/INN)
+            D00380  Tolbutamide (JP18/USP/INN)
+            D00593  Glimepiride (JP18/USP/INN)
+            D00594  Repaglinide (JAN/USP/INN)
+            D01111  Nateglinide (JP18/USP/INN)
+            D01356  Glymidine sodium (JAN/USAN/INN)
+            D01599  Gliclazide (JP18/INN)
+            D01799  Glyclopyramide (JAN/INN)
+            D01854  Mitiglinide calcium hydrate (JP18)
+            D02425  Carbutamide (INN)
+            D02427  Glibornuride (USAN/INN)
+            D02430  Gliquidone (INN)
+            D02693  Devazepide (USAN/INN)
+            D02710  Tarazepide (INN)
+            D04121  Exenatide (JAN/USAN/INN)
+            D04739  Linogliride (USAN/INN)
+            D04740  Linogliride fumarate (USAN)
+            D06177  Tolbutamide sodium, sterile
+            D06404  Liraglutide (USAN/INN)
+            D07117  Metahexamide (INN)
+            D07118  Glisoxepide (INN)
+            D08843  Albiglutide (USAN)
+            D09723  Taspoglutide (USAN/INN)
+            D09729  Lixisenatide (JAN/USAN/INN)
+            D09889  Dulaglutide (USAN/INN)
+            D10025  Semaglutide (USAN/INN)
+            D10970  Pegapamodutide (USAN)
+            D11034  Insulin glargine and lixisenatide
+            D11360  Tirzepatide (JAN/USAN)
+            D11418  Avexitide (USAN)
+            D11419  Avexitide acetate (USAN)
+            D11567  Insulin degludec and liraglutide
+            D11910  Danuglipron (USAN)
+            D11911  Danuglipron tromethamine (USAN)
+            D11924  Beinaglutide (INN)
+            D11947  Efpeglenatide (USAN/INN)
+            D12225  Mazdutide (USAN)
+            D12430  Retatrutide (USAN)
+            D12529  Orforglipron calcium (USAN)
+            D12536  Orforglipron (USAN)
+            D12555  Lotiglipron (USAN)
+DBLINKS     GO: 0030073
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        6513  SLC2A1; solute carrier family 2 member 1 [KO:K07299]
+            6514  SLC2A2; solute carrier family 2 member 2 [KO:K07593]
+            2645  GCK; glucokinase [KO:K12407] [EC:2.7.1.2]
+            54795  TRPM4; transient receptor potential cation channel subfamily M member 4 [KO:K04979]
+            476  ATP1A1; ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13]
+            477  ATP1A2; ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13]
+            478  ATP1A3; ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13]
+            480  ATP1A4; ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13]
+            23439  ATP1B4; ATPase Na+/K+ transporting family member beta 4 [KO:K01540]
+            481  ATP1B1; ATPase Na+/K+ transporting subunit beta 1 [KO:K01540]
+            482  ATP1B2; ATPase Na+/K+ transporting subunit beta 2 [KO:K01540]
+            483  ATP1B3; ATPase Na+/K+ transporting subunit beta 3 [KO:K01540]
+            486  FXYD2; FXYD domain containing ion transport regulator 2 [KO:K01538]
+            6833  ABCC8; ATP binding cassette subfamily C member 8 [KO:K05032]
+            3767  KCNJ11; potassium inwardly rectifying channel subfamily J member 11 [KO:K05004]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            3778  KCNMA1; potassium calcium-activated channel subfamily M alpha 1 [KO:K04936]
+            157855  KCNU1; potassium calcium-activated channel subfamily U member 1 [KO:K05274]
+            3779  KCNMB1; potassium calcium-activated channel subfamily M regulatory beta subunit 1 [KO:K04937]
+            10242  KCNMB2; potassium calcium-activated channel subfamily M regulatory beta subunit 2 [KO:K04938]
+            27094  KCNMB3; potassium calcium-activated channel subfamily M regulatory beta subunit 3 [KO:K04939]
+            27345  KCNMB4; potassium calcium-activated channel subfamily M regulatory beta subunit 4 [KO:K04941]
+            3780  KCNN1; potassium calcium-activated channel subfamily N member 1 [KO:K04942]
+            3781  KCNN2; potassium calcium-activated channel subfamily N member 2 [KO:K04943]
+            3782  KCNN3; potassium calcium-activated channel subfamily N member 3 [KO:K04944]
+            3783  KCNN4; potassium calcium-activated channel subfamily N member 4 [KO:K04945]
+            2641  GCG; glucagon [KO:K05259]
+            2740  GLP1R; glucagon like peptide 1 receptor [KO:K04581]
+            2695  GIP; gastric inhibitory polypeptide [KO:K05258]
+            139760  GPR119; G protein-coupled receptor 119 [KO:K08424]
+            116  ADCYAP1; adenylate cyclase activating polypeptide 1 [KO:K05262]
+            117  ADCYAP1R1; ADCYAP receptor type I [KO:K04587]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            1385  CREB1; cAMP responsive element binding protein 1 [KO:K05870]
+            1386  ATF2; activating transcription factor 2 [KO:K04450]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            10488  CREB3; cAMP responsive element binding protein 3 [KO:K09048]
+            90993  CREB3L1; cAMP responsive element binding protein 3 like 1 [KO:K09048]
+            64764  CREB3L2; cAMP responsive element binding protein 3 like 2 [KO:K09048]
+            84699  CREB3L3; cAMP responsive element binding protein 3 like 3 [KO:K09048]
+            148327  CREB3L4; cAMP responsive element binding protein 3 like 4 [KO:K09048]
+            9586  CREB5; cAMP responsive element binding protein 5 [KO:K09047]
+            1388  ATF6B; activating transcription factor 6 beta [KO:K09049]
+            3651  PDX1; pancreatic and duodenal homeobox 1 [KO:K07594]
+            3630  INS; insulin [KO:K04526]
+            11069  RAPGEF4; Rap guanine nucleotide exchange factor 4 [KO:K04351]
+            9699  RIMS2; regulating synaptic membrane exocytosis 2 [KO:K15297]
+            27445  PCLO; piccolo presynaptic cytomatrix protein [KO:K16882]
+            5864  RAB3A; RAB3A, member RAS oncogene family [KO:K07882]
+            885  CCK; cholecystokinin [KO:K05226]
+            886  CCKAR; cholecystokinin A receptor [KO:K04194]
+            1131  CHRM3; cholinergic receptor muscarinic 3 [KO:K04131]
+            2864  FFAR1; free fatty acid receptor 1 [KO:K04325]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            6262  RYR2; ryanodine receptor 2 [KO:K04962]
+            6844  VAMP2; vesicle associated membrane protein 2 [KO:K13504]
+            6804  STX1A; syntaxin 1A [KO:K04560]
+            6616  SNAP25; synaptosome associated protein 25 [KO:K18211]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+COMPOUND    C00002  ATP
+            C00022  Pyruvate
+            C00031  D-Glucose
+            C00076  Calcium cation
+            C00092  D-Glucose 6-phosphate
+            C00162  Fatty acid
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00575  3',5'-Cyclic AMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+            C01996  Acetylcholine
+REFERENCE   PMID:20551594
+  AUTHORS   Seino S, Shibasaki T, Minami K
+  TITLE     Pancreatic beta-cell signaling: toward better understanding of diabetes and its treatment.
+  JOURNAL   Proc Jpn Acad Ser B Phys Biol Sci 86:563-77 (2010)
+            DOI:10.2183/pjab.86.563
+REFERENCE   PMID:20225132
+  AUTHORS   Jitrapakdee S, Wutthisathapornchai A, Wallace JC, MacDonald MJ
+  TITLE     Regulation of insulin secretion: role of mitochondrial signalling.
+  JOURNAL   Diabetologia 53:1019-32 (2010)
+            DOI:10.1007/s00125-010-1685-0
+REFERENCE   PMID:22974438
+  AUTHORS   Rorsman P, Braun M
+  TITLE     Regulation of insulin secretion in human pancreatic islets.
+  JOURNAL   Annu Rev Physiol 75:155-79 (2013)
+            DOI:10.1146/annurev-physiol-030212-183754
+REFERENCE   PMID:9715374
+  AUTHORS   Jones PM, Persaud SJ
+  TITLE     Protein kinases, protein phosphorylation, and the regulation of insulin secretion from pancreatic beta-cells.
+  JOURNAL   Endocr Rev 19:429-61 (1998)
+            DOI:10.1210/edrv.19.4.0339
+REFERENCE   PMID:21934040
+  AUTHORS   MacDonald PE
+  TITLE     Signal integration at the level of ion channel and exocytotic function in pancreatic beta-cells.
+  JOURNAL   Am J Physiol Endocrinol Metab 301:E1065-9 (2011)
+            DOI:10.1152/ajpendo.00426.2011
+REFERENCE   PMID:9914469
+  AUTHORS   Lang J
+  TITLE     Molecular mechanisms and regulation of insulin exocytosis as a paradigm of endocrine secretion.
+  JOURNAL   Eur J Biochem 259:3-17 (1999)
+            DOI:10.1046/j.1432-1327.1999.00043.x
+REFERENCE   PMID:10605628
+  AUTHORS   Kieffer TJ, Habener JF
+  TITLE     The glucagon-like peptides.
+  JOURNAL   Endocr Rev 20:876-913 (1999)
+            DOI:10.1210/edrv.20.6.0385
+REFERENCE   PMID:19036624
+  AUTHORS   Girard J
+  TITLE     The incretins: from the concept to their use in the treatment of type 2 diabetes. Part A: incretins: concept and physiological functions.
+  JOURNAL   Diabetes Metab 34:550-9 (2008)
+            DOI:10.1016/j.diabet.2008.09.001
+REFERENCE   PMID:15655710
+  AUTHORS   Holz GG
+  TITLE     New insights concerning the glucose-dependent insulin secretagogue action of glucagon-like peptide-1 in pancreatic beta-cells.
+  JOURNAL   Horm Metab Res 36:787-94 (2004)
+            DOI:10.1055/s-2004-826165
+REFERENCE   PMID:15271645
+  AUTHORS   Holst JJ, Gromada J
+  TITLE     Role of incretin hormones in the regulation of insulin secretion in diabetic and nondiabetic humans.
+  JOURNAL   Am J Physiol Endocrinol Metab 287:E199-206 (2004)
+            DOI:10.1152/ajpendo.00545.2003
+REFERENCE   PMID:17306374
+  AUTHORS   Doyle ME, Egan JM
+  TITLE     Mechanisms of action of glucagon-like peptide 1 in the pancreas.
+  JOURNAL   Pharmacol Ther 113:546-93 (2007)
+            DOI:10.1016/j.pharmthera.2006.11.007
+REFERENCE   PMID:19074620
+  AUTHORS   Kim W, Egan JM
+  TITLE     The role of incretins in glucose homeostasis and diabetes treatment.
+  JOURNAL   Pharmacol Rev 60:470-512 (2008)
+            DOI:10.1124/pr.108.000604
+REFERENCE   PMID:19817800
+  AUTHORS   Seino S, Takahashi H, Fujimoto W, Shibasaki T
+  TITLE     Roles of cAMP signalling in insulin granule exocytosis.
+  JOURNAL   Diabetes Obes Metab 11 Suppl 4:180-8 (2009)
+            DOI:10.1111/j.1463-1326.2009.01108.x
+REFERENCE   PMID:22970724
+  AUTHORS   Tengholm A
+  TITLE     Cyclic AMP dynamics in the pancreatic beta-cell.
+  JOURNAL   Ups J Med Sci 117:355-69 (2012)
+            DOI:10.3109/03009734.2012.724732
+REFERENCE   PMID:14693691
+  AUTHORS   Holz GG
+  TITLE     Epac: A new cAMP-binding protein in support of glucagon-like peptide-1 receptor-mediated signal transduction in the pancreatic beta-cell.
+  JOURNAL   Diabetes 53:5-13 (2004)
+            DOI:10.2337/diabetes.53.1.5
+REFERENCE   PMID:20055708
+  AUTHORS   Gloerich M, Bos JL
+  TITLE     Epac: defining a new mechanism for cAMP action.
+  JOURNAL   Annu Rev Pharmacol Toxicol 50:355-75 (2010)
+            DOI:10.1146/annurev.pharmtox.010909.105714
+REFERENCE   PMID:17084085
+  AUTHORS   Bos JL
+  TITLE     Epac proteins: multi-purpose cAMP targets.
+  JOURNAL   Trends Biochem Sci 31:680-6 (2006)
+            DOI:10.1016/j.tibs.2006.10.002
+REFERENCE   PMID:11522660
+  AUTHORS   Filipsson K, Kvist-Reimer M, Ahren B
+  TITLE     The neuropeptide pituitary adenylate cyclase-activating polypeptide and islet function.
+  JOURNAL   Diabetes 50:1959-69 (2001)
+            DOI:10.2337/diabetes.50.9.1959
+REFERENCE   PMID:19817784
+  AUTHORS   Kebede MA, Alquier T, Latour MG, Poitout V
+  TITLE     Lipid receptors and islet function: therapeutic implications?
+  JOURNAL   Diabetes Obes Metab 11 Suppl 4:10-20 (2009)
+            DOI:10.1111/j.1463-1326.2009.01114.x
+REFERENCE   PMID:19660440
+  AUTHORS   Morgan NG, Dhayal S
+  TITLE     G-protein coupled receptors mediating long chain fatty acid signalling in the pancreatic beta-cell.
+  JOURNAL   Biochem Pharmacol 78:1419-27 (2009)
+            DOI:10.1016/j.bcp.2009.07.020
+REL_PATHWAY hsa00020  Citrate cycle (TCA cycle)
+            hsa04020  Calcium signaling pathway
+KO_PATHWAY  ko04911
+///

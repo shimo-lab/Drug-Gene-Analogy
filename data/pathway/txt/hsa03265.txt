@@ -1,0 +1,31 @@
+ENTRY       hsa03265                    Pathway
+NAME        Virion - Lyssavirus - Homo sapiens (human)
+CLASS       Genetic Information Processing; Information processing in viruses
+PATHWAY_MAP hsa03265  Virion - Lyssavirus
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1134  CHRNA1; cholinergic receptor nicotinic alpha 1 subunit [KO:K04803]
+            4684  NCAM1; neural cell adhesion molecule 1 [KO:K06491]
+            4685  NCAM2; neural cell adhesion molecule 2 [KO:K06491]
+            4804  NGFR; nerve growth factor receptor [KO:K02583]
+REFERENCE   PMID:32872471
+  AUTHORS   Riedel C, Hennrich AA, Conzelmann KK
+  TITLE     Components and Architecture of the Rhabdovirus Ribonucleoprotein Complex.
+  JOURNAL   Viruses 12:E959 (2020)
+            DOI:10.3390/v12090959
+REFERENCE   PMID:31953264
+  AUTHORS   Horwitz JA, Jenni S, Harrison SC, Whelan SPJ
+  TITLE     Structure of a rabies virus polymerase complex from electron cryo-microscopy.
+  JOURNAL   Proc Natl Acad Sci U S A 117:2099-2107 (2020)
+            DOI:10.1073/pnas.1918809117
+REFERENCE   PMID:32004500
+  AUTHORS   Yang F, Lin S, Ye F, Yang J, Qi J, Chen Z, Lin X, Wang J, Yue D, Cheng Y, Chen Z, Chen H, You Y, Zhang Z, Yang Y, Yang M, Sun H, Li Y, Cao Y, Yang S, Wei Y, Gao GF, Lu G
+  TITLE     Structural Analysis of Rabies Virus Glycoprotein Reveals pH-Dependent Conformational Changes and Interactions with a Neutralizing Antibody.
+  JOURNAL   Cell Host Microbe 27:441-453.e7 (2020)
+            DOI:10.1016/j.chom.2019.12.012
+REFERENCE   PMID:16778023
+  AUTHORS   Albertini AA, Wernimont AK, Muziol T, Ravelli RB, Clapier CR, Schoehn G, Weissenhorn W, Ruigrok RW
+  TITLE     Crystal structure of the rabies virus nucleoprotein-RNA complex.
+  JOURNAL   Science 313:360-3 (2006)
+            DOI:10.1126/science.1125280
+KO_PATHWAY  ko03265
+///

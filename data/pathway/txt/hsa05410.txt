@@ -1,0 +1,163 @@
+ENTRY       hsa05410                    Pathway
+NAME        Hypertrophic cardiomyopathy - Homo sapiens (human)
+DESCRIPTION Hypertrophic cardiomyopathy (HCM) is a primary myocardial disorder with an autosomal dominant pattern of inheritance that is characterized by hypertrophy of the left ventricles with histological features of myocyte hypertrophy, myfibrillar disarray, and interstitial fibrosis. HCM is one of the most common inherited cardiac disorders, with a prevalence in young adults of 1 in 500. Hundreds of mutations in the genes that encode protein constituents of the sarcomere have been identified in HCM. These mutations increase the Ca2+ sensitivity of cardiac myofilaments. Increased myofilament Ca2+ sensitivity is expected to increase the ATP utilization by actomyosin at submaximal Ca2+ concentrations, which might cause an imbalance in energy supply and demand in the heart under severe stress. The inefficient use of ATP suggests that an inability to maintain normal ATP levels could be the central abnormality. This theory might be supported by the discovery of the role of a mutant PRKAG2 gene in HCM, which in active form acts as a central sensing mechanism protecting cells from depletion of ATP supplies. The increase in the myfilament Ca2+ sensitivity well account for the diastolic dysfunction of model animals as well as human patients of HCM. It has been widely proposed that left ventricular hypertrophy is not a primary manifestation but develops as compensatory response to sarcomere dysfunction.
+CLASS       Human Diseases; Cardiovascular disease
+PATHWAY_MAP hsa05410  Hypertrophic cardiomyopathy
+DISEASE     H00292  Hypertrophic cardiomyopathy
+DRUG        D12253  Aficamten (USAN)
+            D12265  Mavacamten (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3672  ITGA1; integrin subunit alpha 1 [KO:K06480]
+            3673  ITGA2; integrin subunit alpha 2 [KO:K06481]
+            3674  ITGA2B; integrin subunit alpha 2b [KO:K06476]
+            3675  ITGA3; integrin subunit alpha 3 [KO:K06482]
+            3676  ITGA4; integrin subunit alpha 4 [KO:K06483]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            3655  ITGA6; integrin subunit alpha 6 [KO:K06485]
+            3679  ITGA7; integrin subunit alpha 7 [KO:K06583]
+            8516  ITGA8; integrin subunit alpha 8 [KO:K06584]
+            3680  ITGA9; integrin subunit alpha 9 [KO:K06585]
+            8515  ITGA10; integrin subunit alpha 10 [KO:K06586]
+            22801  ITGA11; integrin subunit alpha 11 [KO:K06587]
+            3685  ITGAV; integrin subunit alpha V [KO:K06487]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            3690  ITGB3; integrin subunit beta 3 [KO:K06493]
+            3691  ITGB4; integrin subunit beta 4 [KO:K06525]
+            3693  ITGB5; integrin subunit beta 5 [KO:K06588]
+            3694  ITGB6; integrin subunit beta 6 [KO:K06589]
+            3695  ITGB7; integrin subunit beta 7 [KO:K06590]
+            3696  ITGB8; integrin subunit beta 8 [KO:K06591]
+            6444  SGCD; sarcoglycan delta [KO:K12563]
+            6445  SGCG; sarcoglycan gamma [KO:K12564]
+            6442  SGCA; sarcoglycan alpha [KO:K12565]
+            6443  SGCB; sarcoglycan beta [KO:K12566]
+            284217  LAMA1; laminin subunit alpha 1 [KO:K05637]
+            3908  LAMA2; laminin subunit alpha 2 [KO:K05637]
+            1605  DAG1; dystroglycan 1 [KO:K06265]
+            1674  DES; desmin [KO:K07610]
+            1756  DMD; dystrophin [KO:K10366]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            7273  TTN; titin [KO:K12567] [EC:2.7.11.1]
+            7139  TNNT2; troponin T2, cardiac type [KO:K12045]
+            7134  TNNC1; troponin C1, slow skeletal and cardiac type [KO:K05865]
+            7137  TNNI3; troponin I3, cardiac type [KO:K12044]
+            70  ACTC1; actin alpha cardiac muscle 1 [KO:K12314]
+            7168  TPM1; tropomyosin 1 [KO:K10373]
+            7169  TPM2; tropomyosin 2 [KO:K10374]
+            7170  TPM3; tropomyosin 3 [KO:K09290]
+            7171  TPM4; tropomyosin 4 [KO:K10375]
+            4607  MYBPC3; myosin binding protein C3 [KO:K12568]
+            4634  MYL3; myosin light chain 3 [KO:K12749]
+            4633  MYL2; myosin light chain 2 [KO:K10351]
+            4625  MYH7; myosin heavy chain 7 [KO:K17751]
+            4624  MYH6; myosin heavy chain 6 [KO:K17751]
+            2010  EMD; emerin [KO:K12569]
+            4000  LMNA; lamin A/C [KO:K12641]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            776  CACNA1D; calcium voltage-gated channel subunit alpha1 D [KO:K04851]
+            778  CACNA1F; calcium voltage-gated channel subunit alpha1 F [KO:K04853]
+            779  CACNA1S; calcium voltage-gated channel subunit alpha1 S [KO:K04857]
+            782  CACNB1; calcium voltage-gated channel auxiliary subunit beta 1 [KO:K04862]
+            783  CACNB2; calcium voltage-gated channel auxiliary subunit beta 2 [KO:K04863]
+            784  CACNB3; calcium voltage-gated channel auxiliary subunit beta 3 [KO:K04864]
+            785  CACNB4; calcium voltage-gated channel auxiliary subunit beta 4 [KO:K04865]
+            781  CACNA2D1; calcium voltage-gated channel auxiliary subunit alpha2delta 1 [KO:K04858]
+            9254  CACNA2D2; calcium voltage-gated channel auxiliary subunit alpha2delta 2 [KO:K04859]
+            55799  CACNA2D3; calcium voltage-gated channel auxiliary subunit alpha2delta 3 [KO:K04860]
+            93589  CACNA2D4; calcium voltage-gated channel auxiliary subunit alpha2delta 4 [KO:K04861]
+            786  CACNG1; calcium voltage-gated channel auxiliary subunit gamma 1 [KO:K04866]
+            10369  CACNG2; calcium voltage-gated channel auxiliary subunit gamma 2 [KO:K04867]
+            10368  CACNG3; calcium voltage-gated channel auxiliary subunit gamma 3 [KO:K04868]
+            27092  CACNG4; calcium voltage-gated channel auxiliary subunit gamma 4 [KO:K04869]
+            27091  CACNG5; calcium voltage-gated channel auxiliary subunit gamma 5 [KO:K04870]
+            59285  CACNG6; calcium voltage-gated channel auxiliary subunit gamma 6 [KO:K04871]
+            59284  CACNG7; calcium voltage-gated channel auxiliary subunit gamma 7 [KO:K04872]
+            59283  CACNG8; calcium voltage-gated channel auxiliary subunit gamma 8 [KO:K04873]
+            6262  RYR2; ryanodine receptor 2 [KO:K04962]
+            487  ATP2A1; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [KO:K05853] [EC:7.2.2.10]
+            489  ATP2A3; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [KO:K05853] [EC:7.2.2.10]
+            488  ATP2A2; ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [KO:K05853] [EC:7.2.2.10]
+            5562  PRKAA1; protein kinase AMP-activated catalytic subunit alpha 1 [KO:K07198] [EC:2.7.11.11]
+            5563  PRKAA2; protein kinase AMP-activated catalytic subunit alpha 2 [KO:K07198] [EC:2.7.11.11]
+            5564  PRKAB1; protein kinase AMP-activated non-catalytic subunit beta 1 [KO:K07199]
+            5565  PRKAB2; protein kinase AMP-activated non-catalytic subunit beta 2 [KO:K07199]
+            5571  PRKAG1; protein kinase AMP-activated non-catalytic subunit gamma 1 [KO:K07200]
+            53632  PRKAG3; protein kinase AMP-activated non-catalytic subunit gamma 3 [KO:K07200]
+            51422  PRKAG2; protein kinase AMP-activated non-catalytic subunit gamma 2 [KO:K07200]
+            1636  ACE; angiotensin I converting enzyme [KO:K01283] [EC:3.4.15.1]
+            3479  IGF1; insulin like growth factor 1 [KO:K05459]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            7042  TGFB2; transforming growth factor beta 2 [KO:K13376]
+            7043  TGFB3; transforming growth factor beta 3 [KO:K13377]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3569  IL6; interleukin 6 [KO:K05405]
+            1906  EDN1; endothelin 1 [KO:K16366]
+            183  AGT; angiotensinogen [KO:K09821]
+            6546  SLC8A1; solute carrier family 8 member A1 [KO:K05849]
+            6543  SLC8A2; solute carrier family 8 member A2 [KO:K05849]
+            6547  SLC8A3; solute carrier family 8 member A3 [KO:K05849]
+COMPOUND    C00002  ATP
+            C00076  Calcium cation
+            C01330  Sodium cation
+REFERENCE   PMID:12270949
+  AUTHORS   Fatkin D, Graham RM
+  TITLE     Molecular mechanisms of inherited cardiomyopathies.
+  JOURNAL   Physiol Rev 82:945-80 (2002)
+            DOI:10.1152/physrev.00012.2002
+REFERENCE   PMID:12844200
+  AUTHORS   Moolman-Smook JC, Mayosi BM, Brink PA, Corfield VA
+  TITLE     Molecular genetics of cardiomyopathy: changing times, shifting paradigms.
+  JOURNAL   Cardiovasc J S Afr 14:145-55 (2003)
+REFERENCE   PMID:14711353
+  AUTHORS   Taylor MR, Carniel E, Mestroni L
+  TITLE     Familial hypertrophic cardiomyopathy: clinical features, molecular genetics and molecular genetic testing.
+  JOURNAL   Expert Rev Mol Diagn 4:99-113 (2004)
+            DOI:10.1586/14737159.4.1.99
+REFERENCE   PMID:10615904
+  AUTHORS   Marian AJ
+  TITLE     Pathogenesis of diverse clinical and pathological phenotypes in hypertrophic cardiomyopathy.
+  JOURNAL   Lancet 355:58-60 (2000)
+            DOI:10.1016/S0140-6736(99)06187-5
+REFERENCE   PMID:11371514
+  AUTHORS   Blair E, Redwood C, Ashrafian H, Oliveira M, Broxholme J, Kerr B, Salmon A, Ostman-Smith I, Watkins H
+  TITLE     Mutations in the gamma(2) subunit of AMP-activated protein kinase cause familial hypertrophic cardiomyopathy: evidence for the central role of energy compromise in disease pathogenesis.
+  JOURNAL   Hum Mol Genet 10:1215-20 (2001)
+            DOI:10.1093/hmg/10.11.1215
+REFERENCE   PMID:11716909
+  AUTHORS   Franz WM, Muller OJ, Katus HA
+  TITLE     Cardiomyopathies: from genetics to the prospect of treatment.
+  JOURNAL   Lancet 358:1627-37 (2001)
+            DOI:10.1016/S0140-6736(01)06657-0
+REFERENCE   PMID:18056765
+  AUTHORS   Morimoto S
+  TITLE     Sarcomeric proteins and inherited cardiomyopathies.
+  JOURNAL   Cardiovasc Res 77:659-66 (2008)
+            DOI:10.1093/cvr/cvm084
+REFERENCE   PMID:19136482
+  AUTHORS   Cambronero F, Marin F, Roldan V, Hernandez-Romero D, Valdes M, Lip GY
+  TITLE     Biomarkers of pathophysiology in hypertrophic cardiomyopathy: implications for clinical management and prognosis.
+  JOURNAL   Eur Heart J 30:139-51 (2009)
+            DOI:10.1093/eurheartj/ehn538
+REFERENCE   PMID:11805847
+  AUTHORS   Towbin JA, Bowles NE
+  TITLE     The failing heart.
+  JOURNAL   Nature 415:227-33 (2002)
+            DOI:10.1038/415227a
+REFERENCE   PMID:11225594
+  AUTHORS   Sorajja P, Elliott PM, McKenna WJ
+  TITLE     The molecular genetics of hypertrophic cardiomyopathy: prognostic implications.
+  JOURNAL   Europace 2:4-14 (2000)
+            DOI:10.1053/eupc.1999.0067
+REFERENCE   PMID:18572189
+  AUTHORS   Landstrom AP, Parvatiyar MS, Pinto JR, Marquardt ML, Bos JM, Tester DJ, Ommen SR, Potter JD, Ackerman MJ
+  TITLE     Molecular and functional characterization of novel hypertrophic cardiomyopathy susceptibility mutations in TNNC1-encoded troponin C.
+  JOURNAL   J Mol Cell Cardiol 45:281-8 (2008)
+            DOI:10.1016/j.yjmcc.2008.05.003
+REL_PATHWAY hsa04260  Cardiac muscle contraction
+            hsa04350  TGF-beta signaling pathway
+            hsa04512  ECM-receptor interaction
+            hsa04614  Renin-angiotensin system
+            hsa04630  JAK-STAT signaling pathway
+KO_PATHWAY  ko05410
+///

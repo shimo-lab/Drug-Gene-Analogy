@@ -1,0 +1,346 @@
+ENTRY       hsa05131                    Pathway
+NAME        Shigellosis - Homo sapiens (human)
+DESCRIPTION Shigellosis, or bacillary dysentery, is an intestinal infection caused by Shigella, a genus of enterobacteria. Shigella are potential food-borne pathogens that are capable of colonizing the intestinal epithelium by exploiting epithelial-cell functions and circumventing the host innate immune response. During basolateral entry into the host-cell cytoplasm, Shigella deliver a subset of effectors into the host cells through the type III secretion system. The effectors induce membrane ruffling through the stimulation of the Rac1-WAVE-Arp2/3 pathway, enabling bacterial entry into the epithelial cells. During multiplication within the cells, Shigella secrete another subset of effectors. VirG induces actin polymerization at one pole of the bacteria, allowing the bacteria to spread intracellularly and to infect adjacent cells. OspF, OspG and IpaH(9.8) downregulate the production of proinflammatory cytokines such as IL-8, helping bacteria circumvent the innate immune response.
+CLASS       Human Diseases; Infectious disease: bacterial
+PATHWAY_MAP hsa05131  Shigellosis
+NETWORK     nt06128  Autophagy (viruses and bacteria)
+            nt06131  Apoptosis (viruses and bacteria)
+            nt06135  Cytoskeletal regulation (viruses and bacteria)
+            nt06516  TNF signaling
+            nt06517  TLR signaling
+            nt06520  CGAS-STING signaling
+            nt06521  NLR signaling
+  ELEMENT   N00927  Escherichia/Shigella NleE/OspZ to TNF-NFKB signaling pathway
+            N00941  Shigella IpaH9.8 to NOD-NFKB signaling pathway
+            N00942  Shigella OspG to TNF-NFKB signaling pathway
+            N00943  Shigella IpaH4.5 to TNF-NFKB signaling pathway
+            N00944  Shigella OspI to TNF-NFKB signaling pathway
+            N00945  Shigella IpaH1.4/2.5 to TNF-NFKB signaling pathway
+            N00946  Shigella IpaJ to cGAS-STING signaling pathway
+            N00947  Shigella Ipa4.5 to cGAS-STING signaling pathway
+            N00948  Shigella IpaH7.8 to NLRP3 Inflammasome signaling pathway
+            N00949  Shigella IpaB to NLRC4 Inflammasome signaling pathway
+            N00950  Shigella FimA to crosstalk between extrinsic and intrinsic apoptotic pathways
+            N00952  Shigella IpgB1 to ITGA/B-RHOG-RAC signaling pathway
+            N01067  Shigella IpgD to ARNO-ARF-ACTB_G signaling pathway
+            N01069  Shigella IpgB1 to ITGA/B-FAK-RAC signaling pathway
+            N01071  Shigella IpgB1 to ITGA/B-FAK-CDC42 signaling pathway
+            N01073  Shigella IpgB2 to ITGA/B-RhoGEF-RhoA signaling pathway
+            N01074  Shigella IpaA to ITGA/B-RhoGEF-RhoA signaling pathway
+            N01075  Shigella IcsB to ITGA/B-RhoGEF-RhoA signaling pathway
+            N01076  Shigella IcsB to ITGA/B-FAK-CDC42 signaling pathway
+            N01077  Shigella IcsB to ITGA/B-FAK-RAC signaling pathway
+            N01079  Shigella IpaC to Actin signaling pathway
+            N01081  Shigella IpaB/C/D to ITGA/B-TALIN/VINCULIN signaling pathway
+            N01082  Shigella IpaA to ITGA/B-TALIN/VINCULIN signaling pathway
+            N01083  Shigella OspE to ITGA/B-TALIN/VINCULIN signaling pathway
+            N01283  Shigella OspF to TLR2/4-MAPK signaling pathway
+            N01284  Shigella IcsP to Autophagy-vesicle elongation
+DISEASE     H00299  Shigellosis
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        960  CD44; CD44 molecule (Indian blood group) [KO:K06256]
+            3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            6714  SRC; SRC proto-oncogene, non-receptor tyrosine kinase [KO:K05704] [EC:2.7.10.2]
+            5747  PTK2; protein tyrosine kinase 2 [KO:K05725] [EC:2.7.10.2]
+            1398  CRK; CRK proto-oncogene, adaptor protein [KO:K04438]
+            1399  CRKL; CRK like proto-oncogene, adaptor protein [KO:K04438]
+            9564  BCAR1; BCAR1 scaffold protein, Cas family member [KO:K05726]
+            2017  CTTN; cortactin [KO:K06106]
+            3059  HCLS1; hematopoietic cell-specific Lyn substrate 1 [KO:K06106]
+            5829  PXN; paxillin [KO:K05760]
+            9844  ELMO1; engulfment and cell motility 1 [KO:K12366]
+            63916  ELMO2; engulfment and cell motility 2 [KO:K18985]
+            1793  DOCK1; dedicator of cytokinesis 1 [KO:K13708]
+            5879  RAC1; Rac family small GTPase 1 [KO:K04392]
+            8936  WASF1; WASP family member 1 [KO:K05753]
+            10163  WASF2; WASP family member 2 [KO:K05748]
+            10097  ACTR2; actin related protein 2 [KO:K17260]
+            57180  ACTR3B; actin related protein 3B [KO:K18584]
+            653857  ACTR3C; actin related protein 3C [KO:K18584]
+            10096  ACTR3; actin related protein 3 [KO:K18584]
+            10095  ARPC1B; actin related protein 2/3 complex subunit 1B [KO:K05757]
+            10552  ARPC1A; actin related protein 2/3 complex subunit 1A [KO:K05757]
+            10109  ARPC2; actin related protein 2/3 complex subunit 2 [KO:K05758]
+            10094  ARPC3; actin related protein 2/3 complex subunit 3 [KO:K05756]
+            10093  ARPC4; actin related protein 2/3 complex subunit 4 [KO:K05755]
+            10092  ARPC5; actin related protein 2/3 complex subunit 5 [KO:K05754]
+            81873  ARPC5L; actin related protein 2/3 complex subunit 5 like [KO:K05754]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            60  ACTB; actin beta [KO:K05692]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            1729  DIAPH1; diaphanous related formin 1 [KO:K05740]
+            6093  ROCK1; Rho associated coiled-coil containing protein kinase 1 [KO:K04514] [EC:2.7.11.1]
+            9475  ROCK2; Rho associated coiled-coil containing protein kinase 2 [KO:K17388] [EC:2.7.11.1]
+            4633  MYL2; myosin light chain 2 [KO:K10351]
+            4636  MYL5; myosin light chain 5 [KO:K12753]
+            58498  MYL7; myosin light chain 7 [KO:K12754]
+            10398  MYL9; myosin light chain 9 [KO:K12755]
+            93408  MYL10; myosin light chain 10 [KO:K12756]
+            103910  MYL12B; myosin light chain 12B [KO:K12757]
+            10627  MYL12A; myosin light chain 12A [KO:K12757]
+            29895  MYL11; myosin light chain 11 [KO:K12758]
+            87  ACTN1; actinin alpha 1 [KO:K05699]
+            81  ACTN4; actinin alpha 4 [KO:K05699]
+            3611  ILK; integrin linked kinase [KO:K06272] [EC:2.7.11.1]
+            7094  TLN1; talin 1 [KO:K06271]
+            83660  TLN2; talin 2 [KO:K06271]
+            7414  VCL; vinculin [KO:K05700]
+            998  CDC42; cell division cycle 42 [KO:K04393]
+            8976  WASL; WASP like actin nucleation promoting factor [KO:K23612]
+            345456  PFN3; profilin 3 [KO:K05759]
+            5216  PFN1; profilin 1 [KO:K05759]
+            5217  PFN2; profilin 2 [KO:K05759]
+            375189  PFN4; profilin family member 4 [KO:K05759]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            5290  PIK3CA; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [KO:K00922] [EC:2.7.1.153]
+            5293  PIK3CD; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [KO:K00922] [EC:2.7.1.153]
+            5291  PIK3CB; phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [KO:K00922] [EC:2.7.1.153]
+            5295  PIK3R1; phosphoinositide-3-kinase regulatory subunit 1 [KO:K02649]
+            5296  PIK3R2; phosphoinositide-3-kinase regulatory subunit 2 [KO:K02649]
+            8503  PIK3R3; phosphoinositide-3-kinase regulatory subunit 3 [KO:K02649]
+            9265  CYTH3; cytohesin 3 [KO:K18441]
+            27128  CYTH4; cytohesin 4 [KO:K18441]
+            9266  CYTH2; cytohesin 2 [KO:K18441]
+            9267  CYTH1; cytohesin 1 [KO:K18441]
+            382  ARF6; ADP ribosylation factor 6 [KO:K07941]
+            375  ARF1; ADP ribosylation factor 1 [KO:K07937]
+            207  AKT1; AKT serine/threonine kinase 1 [KO:K04456] [EC:2.7.11.1]
+            208  AKT2; AKT serine/threonine kinase 2 [KO:K04456] [EC:2.7.11.1]
+            10000  AKT3; AKT serine/threonine kinase 3 [KO:K04456] [EC:2.7.11.1]
+            2308  FOXO1; forkhead box O1 [KO:K07201]
+            2309  FOXO3; forkhead box O3 [KO:K09408]
+            4303  FOXO4; forkhead box O4 [KO:K12358]
+            100132074  FOXO6; forkhead box O6 [KO:K17847]
+            2931  GSK3A; glycogen synthase kinase 3 alpha [KO:K08822] [EC:2.7.11.26]
+            2932  GSK3B; glycogen synthase kinase 3 beta [KO:K03083] [EC:2.7.11.26]
+            6198  RPS6KB1; ribosomal protein S6 kinase B1 [KO:K04688] [EC:2.7.11.1]
+            6199  RPS6KB2; ribosomal protein S6 kinase B2 [KO:K04688] [EC:2.7.11.1]
+            4193  MDM2; MDM2 proto-oncogene [KO:K06643] [EC:2.3.2.27]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5333  PLCD1; phospholipase C delta 1 [KO:K05857] [EC:3.1.4.11]
+            113026  PLCD3; phospholipase C delta 3 [KO:K05857] [EC:3.1.4.11]
+            84812  PLCD4; phospholipase C delta 4 [KO:K05857] [EC:3.1.4.11]
+            51196  PLCE1; phospholipase C epsilon 1 [KO:K05860] [EC:3.1.4.11]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5336  PLCG2; phospholipase C gamma 2 [KO:K05859] [EC:3.1.4.11]
+            89869  PLCZ1; phospholipase C zeta 1 [KO:K05861] [EC:3.1.4.11]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            831  CAST; calpastatin [KO:K04281]
+            823  CAPN1; calpain 1 [KO:K01367] [EC:3.4.22.52]
+            824  CAPN2; calpain 2 [KO:K03853] [EC:3.4.22.53]
+            826  CAPNS1; calpain small subunit 1 [KO:K08583]
+            472  ATM; ATM serine/threonine kinase [KO:K04728] [EC:2.7.11.1]
+            7157  TP53; tumor protein p53 [KO:K04451]
+            598  BCL2L1; BCL2 like 1 [KO:K04570]
+            596  BCL2; BCL2 apoptosis regulator [KO:K02161]
+            3101  HK3; hexokinase 3 [KO:K00844] [EC:2.7.1.1]
+            3098  HK1; hexokinase 1 [KO:K00844] [EC:2.7.1.1]
+            3099  HK2; hexokinase 2 [KO:K00844] [EC:2.7.1.1]
+            80201  HKDC1; hexokinase domain containing 1 [KO:K00844] [EC:2.7.1.1]
+            7416  VDAC1; voltage dependent anion channel 1 [KO:K05862]
+            581  BAX; BCL2 associated X, apoptosis regulator [KO:K02159]
+            54205  CYCS; cytochrome c, somatic [KO:K08738]
+            664  BNIP3; BCL2 interacting protein 3 [KO:K15464]
+            5481  PPID; peptidylprolyl isomerase D [KO:K05864] [EC:5.2.1.8]
+            837  CASP4; caspase 4 [KO:K04394] [EC:3.4.22.57 3.4.22.64]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            3606  IL18; interleukin 18 [KO:K05482]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            7132  TNFRSF1A; TNF receptor superfamily member 1A [KO:K03158]
+            8717  TRADD; TNFRSF1A associated via death domain [KO:K03171]
+            7186  TRAF2; TNF receptor associated factor 2 [KO:K03173] [EC:2.3.2.27]
+            7188  TRAF5; TNF receptor associated factor 5 [KO:K09849]
+            8737  RIPK1; receptor interacting serine/threonine kinase 1 [KO:K02861] [EC:2.7.11.1]
+            6885  MAP3K7; mitogen-activated protein kinase kinase kinase 7 [KO:K04427] [EC:2.7.11.25]
+            10454  TAB1; TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [KO:K04403]
+            23118  TAB2; TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [KO:K04404]
+            257397  TAB3; TGF-beta activated kinase 1 (MAP3K7) binding protein 3 [KO:K12793]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            92610  TIFA; TRAF interacting protein with forkhead associated domain [KO:K23826]
+            3554  IL1R1; interleukin 1 receptor type 1 [KO:K04386]
+            929  CD14; CD14 molecule [KO:K04391]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            7100  TLR5; toll like receptor 5 [KO:K10168]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            5580  PRKCD; protein kinase C delta [KO:K06068] [EC:2.7.11.13]
+            5581  PRKCE; protein kinase C epsilon [KO:K18050] [EC:2.7.11.13]
+            5588  PRKCQ; protein kinase C theta [KO:K18052] [EC:2.7.11.13]
+            10892  MALT1; MALT1 paracaspase [KO:K07369] [EC:3.4.22.-]
+            8915  BCL10; BCL10 immune signaling adaptor [KO:K07368]
+            10392  NOD1; nucleotide binding oligomerization domain containing 1 [KO:K08727]
+            9181  ARHGEF2; Rho/Rac guanine nucleotide exchange factor 2 [KO:K12791]
+            8767  RIPK2; receptor interacting serine/threonine kinase 2 [KO:K08846] [EC:2.7.11.1]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            7335  UBE2V1; ubiquitin conjugating enzyme E2 V1 [KO:K10704]
+            7336  UBE2V2; ubiquitin conjugating enzyme E2 V2 [KO:K10704]
+            389898  UBE2NL; ubiquitin conjugating enzyme E2 N like (gene/pseudogene) [KO:K10580] [EC:2.3.2.23]
+            7334  UBE2N; ubiquitin conjugating enzyme E2 N [KO:K10580] [EC:2.3.2.23]
+            10616  RBCK1; RANBP2-type and C3HC4-type zinc finger containing 1 [KO:K10630] [EC:2.3.2.31]
+            55072  RNF31; ring finger protein 31 [KO:K11974] [EC:2.3.2.31]
+            81858  SHARPIN; SHANK associated RH domain interactor [KO:K20894]
+            10318  TNIP1; TNFAIP3 interacting protein 1 [KO:K23829]
+            51619  UBE2D4; ubiquitin conjugating enzyme E2 D4 (putative) [KO:K06689] [EC:2.3.2.23]
+            7321  UBE2D1; ubiquitin conjugating enzyme E2 D1 [KO:K06689] [EC:2.3.2.23]
+            7322  UBE2D2; ubiquitin conjugating enzyme E2 D2 [KO:K06689] [EC:2.3.2.23]
+            7323  UBE2D3; ubiquitin conjugating enzyme E2 D3 [KO:K06689] [EC:2.3.2.23]
+            9978  RBX1; ring-box 1 [KO:K03868] [EC:2.3.2.32]
+            8454  CUL1; cullin 1 [KO:K03347]
+            6500  SKP1; S-phase kinase associated protein 1 [KO:K03094]
+            8945  BTRC; beta-transducin repeat containing E3 ubiquitin protein ligase [KO:K03362]
+            23291  FBXW11; F-box and WD repeat domain containing 11 [KO:K03362]
+            115004  CGAS; cyclic GMP-AMP synthase [KO:K17834] [EC:2.7.7.86]
+            340061  STING1; stimulator of interferon response cGAMP interactor 1 [KO:K12654]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            29110  TBK1; TANK binding kinase 1 [KO:K05410] [EC:2.7.11.10]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            3456  IFNB1; interferon beta 1 [KO:K05415]
+            7307  U2AF1; U2 small nuclear RNA auxiliary factor 1 [KO:K12836]
+            102724594  U2AF1L5; U2 small nuclear RNA auxiliary factor 1 like 5 [KO:K12836]
+            199746  U2AF1L4; U2 small nuclear RNA auxiliary factor 1 like 4 [KO:K12836]
+            6352  CCL5; C-C motif chemokine ligand 5 [KO:K12499]
+            1437  CSF2; colony stimulating factor 2 [KO:K05427]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            9252  RPS6KA5; ribosomal protein S6 kinase A5 [KO:K04445] [EC:2.7.11.1]
+            440093  H3-5; H3.5 histone [KO:K11253]
+            3021  H3-3B; H3.3 histone B [KO:K11253]
+            8351  H3C4; H3 clustered histone 4 [KO:K11253]
+            8352  H3C3; H3 clustered histone 3 [KO:K11253]
+            8350  H3C1; H3 clustered histone 1 [KO:K11253]
+            3020  H3-3A; H3.3 histone A [KO:K11253]
+            8290  H3-4; H3.4 histone, cluster member [KO:K11253]
+            126961  H3C14; H3 clustered histone 14 [KO:K11253]
+            333932  H3C15; H3 clustered histone 15 [KO:K11253]
+            653604  H3C13; H3 clustered histone 13 [KO:K11253]
+            8353  H3C6; H3 clustered histone 6 [KO:K11253]
+            8354  H3C11; H3 clustered histone 11 [KO:K11253]
+            8355  H3C8; H3 clustered histone 8 [KO:K11253]
+            8356  H3C12; H3 clustered histone 12 [KO:K11253]
+            8357  H3C10; H3 clustered histone 10 [KO:K11253]
+            8358  H3C2; H3 clustered histone 2 [KO:K11253]
+            8968  H3C7; H3 clustered histone 7 [KO:K11253]
+            11335  CBX3; chromobox 3 [KO:K11586]
+            8678  BECN1; beclin 1 [KO:K08334]
+            441925  BECN2; beclin 2 [KO:K08334]
+            22863  ATG14; autophagy related 14 [KO:K17889]
+            30849  PIK3R4; phosphoinositide-3-kinase regulatory subunit 4 [KO:K08333] [EC:2.7.11.1]
+            5289  PIK3C3; phosphatidylinositol 3-kinase catalytic subunit type 3 [KO:K00914] [EC:2.7.1.137]
+            10670  RRAGA; Ras related GTP binding A [KO:K16185]
+            10325  RRAGB; Ras related GTP binding B [KO:K16185]
+            64121  RRAGC; Ras related GTP binding C [KO:K16186]
+            58528  RRAGD; Ras related GTP binding D [KO:K16186]
+            2475  MTOR; mechanistic target of rapamycin kinase [KO:K07203] [EC:2.7.11.1]
+            57521  RPTOR; regulatory associated protein of MTOR complex 1 [KO:K07204]
+            84335  AKT1S1; AKT1 substrate 1 [KO:K16184]
+            55054  ATG16L1; autophagy related 16 like 1 [KO:K17890]
+            9474  ATG5; autophagy related 5 [KO:K08339]
+            9140  ATG12; autophagy related 12 [KO:K08336]
+            440738  MAP1LC3C; microtubule associated protein 1 light chain 3 gamma [KO:K10435]
+            81631  MAP1LC3B; microtubule associated protein 1 light chain 3 beta [KO:K10435]
+            84557  MAP1LC3A; microtubule associated protein 1 light chain 3 alpha [KO:K10435]
+            643246  MAP1LC3B2; microtubule associated protein 1 light chain 3 beta 2 [KO:K10435]
+            718  C3; complement C3 [KO:K03990]
+            8878  SQSTM1; sequestosome 1 [KO:K14381]
+            10241  CALCOCO2; calcium binding and coiled-coil domain 2 [KO:K21348]
+            7311  UBA52; ubiquitin A-52 residue ribosomal protein fusion product 1 [KO:K02927]
+            6233  RPS27A; ribosomal protein S27a [KO:K02977]
+            7314  UBB; ubiquitin B [KO:K04551]
+            7316  UBC; ubiquitin C [KO:K08770]
+            4735  SEPTIN2; septin 2 [KO:K16942]
+            10801  SEPTIN9; septin 9 [KO:K16938]
+            124404  SEPTIN12; septin 12 [KO:K16938]
+            55964  SEPTIN3; septin 3 [KO:K16938]
+            23157  SEPTIN6; septin 6 [KO:K16939]
+            55752  SEPTIN11; septin 11 [KO:K16939]
+            23176  SEPTIN8; septin 8 [KO:K16939]
+            989  SEPTIN7; septin 7 [KO:K16944]
+            26100  WIPI2; WD repeat domain, phosphoinositide interacting 2 [KO:K17908]
+            55062  WIPI1; WD repeat domain, phosphoinositide interacting 1 [KO:K17908]
+            25851  TECPR1; tectonin beta-propeller repeat containing 1 [KO:K17988]
+            23048  FNBP1; formin binding protein 1 [KO:K20121]
+            54874  FNBP1L; formin binding protein 1 like [KO:K20121]
+            11146  GLMN; glomulin, FKBP associated protein [KO:K23345]
+            114548  NLRP3; NLR family pyrin domain containing 3 [KO:K12800]
+            4671  NAIP; NLR family apoptosis inhibitory protein [KO:K12807]
+            58484  NLRC4; NLR family CARD domain containing 4 [KO:K12805]
+            29108  PYCARD; PYD and CARD domain containing [KO:K12799]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+COMPOUND    C00076  Calcium cation
+            C00123  L-Leucine
+            C00165  Diacylglycerol
+            C00238  Potassium cation
+            C00338  Lipopolysaccharide
+            C00407  L-Isoleucine
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C04549  1-Phosphatidyl-1D-myo-inositol 3-phosphate
+            C04637  1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+            C04737  alpha-D-Galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide
+            C05981  Phosphatidylinositol-3,4,5-trisphosphate
+            C11472  D-glycero-beta-D-manno-Heptose 1,7-bisphosphate
+            C11557  1-Phosphatidyl-1D-myo-inositol 5-phosphate
+            C20640  Cyclic GMP-AMP
+REFERENCE   PMID:30953429
+  AUTHORS   Schnupf P, Sansonetti PJ
+  TITLE     Shigella Pathogenesis: New Insights through Advanced Methodologies.
+  JOURNAL   Microbiol Spectr 7 (2019)
+            DOI:10.1128/microbiolspec.BAI-0023-2019
+REFERENCE   PMID:28393050
+  AUTHORS   Mattock E, Blocker AJ
+  TITLE     How Do the Virulence Factors of Shigella Work Together to Cause Disease?
+  JOURNAL   Front Cell Infect Microbiol 7:64 (2017)
+            DOI:10.3389/fcimb.2017.00064
+REFERENCE   PMID:25999954
+  AUTHORS   Ashida H, Mimuro H, Sasakawa C
+  TITLE     Shigella manipulates host immune responses by delivering effector proteins with specific roles.
+  JOURNAL   Front Immunol 6:219 (2015)
+            DOI:10.3389/fimmu.2015.00219
+REFERENCE   PMID:20228623
+  AUTHORS   Sasakawa C
+  TITLE     A new paradigm of bacteria-gut interplay brought through the study of Shigella.
+  JOURNAL   Proc Jpn Acad Ser B Phys Biol Sci 86:229-43 (2010)
+            DOI:10.2183/pjab.86.229
+REFERENCE   PMID:25264025
+  AUTHORS   Ashida H, Kim M, Sasakawa C
+  TITLE     Manipulation of the host cell death pathway by Shigella.
+  JOURNAL   Cell Microbiol 16:1757-66 (2014)
+            DOI:10.1111/cmi.12367
+REFERENCE   PMID:29875765
+  AUTHORS   Siqueira MDS, Ribeiro RM, Travassos LH
+  TITLE     Autophagy and Its Interaction With Intracellular Bacterial Pathogens.
+  JOURNAL   Front Immunol 9:935 (2018)
+            DOI:10.3389/fimmu.2018.00935
+REFERENCE   PMID:29477730
+  AUTHORS   Pinaud L, Sansonetti PJ, Phalipon A
+  TITLE     Host Cell Targeting by Enteropathogenic Bacteria T3SS Effectors.
+  JOURNAL   Trends Microbiol 26:266-283 (2018)
+            DOI:10.1016/j.tim.2018.01.010
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04140  Autophagy - animal
+            hsa04210  Apoptosis
+            hsa04510  Focal adhesion
+            hsa04621  NOD-like receptor signaling pathway
+            hsa04623  Cytosolic DNA-sensing pathway
+            hsa04810  Regulation of actin cytoskeleton
+KO_PATHWAY  ko05131
+///

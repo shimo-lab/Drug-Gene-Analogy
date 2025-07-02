@@ -1,0 +1,125 @@
+ENTRY       hsa03250                    Pathway
+NAME        Viral life cycle - HIV-1 - Homo sapiens (human)
+CLASS       Genetic Information Processing; Information processing in viruses
+PATHWAY_MAP hsa03250  Viral life cycle - HIV-1
+DRUG        D03210  Ancriviroc (USAN/INN)
+            D06297  Vicriviroc maleate (USAN)
+            D06557  Aplaviroc hydrochloride (USAN)
+            D06670  Maraviroc (JAN/INN)
+            D09575  Ibalizumab (USAN/INN)
+            D09878  Cenicriviroc (USAN/INN)
+            D10087  Alisporivir (USAN)
+            D11399  Leronlimab (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1234  CCR5; C-C motif chemokine receptor 5 [KO:K04180]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            920  CD4; CD4 molecule [KO:K06454]
+            4130  MAP1A; microtubule associated protein 1A [KO:K10429]
+            4131  MAP1B; microtubule associated protein 1B [KO:K10429]
+            55201  MAP1S; microtubule associated protein 1S [KO:K10429]
+            9638  FEZ1; fasciculation and elongation protein zeta 1 [KO:K25663]
+            23299  BICD2; BICD cargo adaptor 2 [KO:K18739]
+            636  BICD1; BICD cargo adaptor 1 [KO:K18739]
+            85363  TRIM5; tripartite motif containing 5 [KO:K10648] [EC:2.3.2.27]
+            164668  APOBEC3H; apolipoprotein B mRNA editing enzyme catalytic subunit 3H [KO:K18750] [EC:3.5.4.-]
+            200316  APOBEC3F; apolipoprotein B mRNA editing enzyme catalytic subunit 3F [KO:K18750] [EC:3.5.4.-]
+            100913187  APOBEC3A_B; APOBEC3A and APOBEC3B deletion hybrid [KO:K18750] [EC:3.5.4.-]
+            140564  APOBEC3D; apolipoprotein B mRNA editing enzyme catalytic subunit 3D [KO:K18750] [EC:3.5.4.-]
+            200315  APOBEC3A; apolipoprotein B mRNA editing enzyme catalytic subunit 3A [KO:K18750] [EC:3.5.4.-]
+            27350  APOBEC3C; apolipoprotein B mRNA editing enzyme catalytic subunit 3C [KO:K18750] [EC:3.5.4.-]
+            60489  APOBEC3G; apolipoprotein B mRNA editing enzyme catalytic subunit 3G [KO:K18750] [EC:3.5.4.-]
+            9582  APOBEC3B; apolipoprotein B mRNA editing enzyme catalytic subunit 3B [KO:K18750] [EC:3.5.4.-]
+            25939  SAMHD1; SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 [KO:K22544] [EC:3.1.5.-]
+            11168  PSIP1; PC4 and SRSF1 interacting protein 1 [KO:K25057]
+            5300  PIN1; peptidylprolyl cis/trans isomerase, NIMA-interacting 1 [KO:K09578] [EC:5.2.1.8]
+            6598  SMARCB1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1 [KO:K11648]
+            5478  PPIA; peptidylprolyl isomerase A [KO:K03767] [EC:5.2.1.8]
+            11052  CPSF6; cleavage and polyadenylation specific factor 6 [KO:K14398]
+            79869  CPSF7; cleavage and polyadenylation specific factor 7 [KO:K14398]
+            23534  TNPO3; transportin 3 [KO:K15436]
+            4599  MX1; MX dynamin like GTPase 1 [KO:K14754]
+            4600  MX2; MX dynamin like GTPase 2 [KO:K14754]
+            5903  RANBP2; RAN binding protein 2 [KO:K12172] [EC:2.3.2.-]
+            9972  NUP153; nucleoporin 153 [KO:K14296]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            8850  KAT2B; lysine acetyltransferase 2B [KO:K06062] [EC:2.3.1.48]
+            2648  KAT2A; lysine acetyltransferase 2A [KO:K06062] [EC:2.3.1.48]
+            1025  CDK9; cyclin dependent kinase 9 [KO:K02211] [EC:2.7.11.22 2.7.11.23]
+            904  CCNT1; cyclin T1 [KO:K15188]
+            905  CCNT2; cyclin T2 [KO:K15188]
+            27125  AFF4; ALF transcription elongation factor 4 [KO:K15185]
+            22936  ELL2; elongation factor for RNA polymerase II 2 [KO:K15183]
+            80237  ELL3; elongation factor for RNA polymerase II 3 [KO:K15183]
+            8178  ELL; elongation factor for RNA polymerase II [KO:K15183]
+            4298  MLLT1; MLLT1 super elongation complex subunit [KO:K15187]
+            4300  MLLT3; MLLT3 super elongation complex subunit [KO:K15187]
+            7469  NELFA; negative elongation factor complex member A [KO:K15179]
+            25920  NELFB; negative elongation factor complex member B [KO:K15180]
+            51497  NELFCD; negative elongation factor complex member C/D [KO:K15181]
+            7936  NELFE; negative elongation factor complex member E [KO:K15182]
+            6827  SUPT4H1; SPT4 homolog, DSIF elongation factor subunit [KO:K15171]
+            6829  SUPT5H; SPT5 homolog, DSIF elongation factor subunit [KO:K15172]
+            7514  XPO1; exportin 1 [KO:K14290]
+            5901  RAN; RAN, member RAS oncogene family [KO:K07936]
+            5045  FURIN; furin, paired basic amino acid cleaving enzyme [KO:K01349] [EC:3.4.21.75]
+            10955  SERINC3; serine incorporator 3 [KO:K25661]
+            256987  SERINC5; serine incorporator 5 [KO:K25655]
+            684  BST2; bone marrow stromal cell antigen 2 [KO:K06731]
+            9146  HGS; hepatocyte growth factor-regulated tyrosine kinase substrate [KO:K12182]
+            7251  TSG101; tumor susceptibility 101 [KO:K12183]
+            79643  CHMP6; charged multivesicular body protein 6 [KO:K12195]
+            128866  CHMP4B; charged multivesicular body protein 4B [KO:K12194]
+            29082  CHMP4A; charged multivesicular body protein 4A [KO:K12194]
+            10015  PDCD6IP; programmed cell death 6 interacting protein [KO:K12200]
+            9525  VPS4B; vacuolar protein sorting 4 homolog B [KO:K12196]
+            27183  VPS4A; vacuolar protein sorting 4 homolog A [KO:K12196]
+REFERENCE   PMID:27357278
+  AUTHORS   Li G, De Clercq E
+  TITLE     HIV Genome-Wide Protein Associations: a Review of 30 Years of Research.
+  JOURNAL   Microbiol Mol Biol Rev 80:679-731 (2016)
+            DOI:10.1128/MMBR.00065-15
+REFERENCE   PMID:21284899
+  AUTHORS   Tagliamonte M, Tornesello ML, Buonaguro FM, Buonaguro L
+  TITLE     Conformational HIV-1 envelope on particulate structures: a tool for chemokine coreceptor binding studies.
+  JOURNAL   J Transl Med 9 Suppl 1:S1 (2011)
+            DOI:10.1186/1479-5876-9-S1-S1
+REFERENCE   PMID:31028522
+  AUTHORS   Novikova M, Zhang Y, Freed EO, Peng K
+  TITLE     Multiple Roles of HIV-1 Capsid during the Virus Replication Cycle.
+  JOURNAL   Virol Sin 34:119-134 (2019)
+            DOI:10.1007/s12250-019-00095-3
+REFERENCE   PMID:30286189
+  AUTHORS   Rawle DJ, Harrich D
+  TITLE     Toward the "unravelling" of HIV: Host cell factors involved in HIV-1 core uncoating.
+  JOURNAL   PLoS Pathog 14:e1007270 (2018)
+            DOI:10.1371/journal.ppat.1007270
+REFERENCE   PMID:25036886
+  AUTHORS   Le Sage V, Mouland AJ, Valiente-Echeverria F
+  TITLE     Roles of HIV-1 capsid in viral replication and immune evasion.
+  JOURNAL   Virus Res 193:116-29 (2014)
+            DOI:10.1016/j.virusres.2014.07.010
+REFERENCE   PMID:32429351
+  AUTHORS   Murphy RE, Saad JS
+  TITLE     The Interplay between HIV-1 Gag Binding to the Plasma Membrane and Env Incorporation.
+  JOURNAL   Viruses 12:E548 (2020)
+            DOI:10.3390/v12050548
+REFERENCE   PMID:21360054
+  AUTHORS   He N, Zhou Q
+  TITLE     New insights into the control of HIV-1 transcription: when Tat meets the 7SK snRNP and super elongation complex (SEC).
+  JOURNAL   J Neuroimmune Pharmacol 6:260-8 (2011)
+            DOI:10.1007/s11481-011-9267-6
+REFERENCE   PMID:19865606
+  AUTHORS   Pincetic A, Leis J
+  TITLE     The Mechanism of Budding of Retroviruses From Cell Membranes.
+  JOURNAL   Adv Virol 2009:6239691-6239699 (2009)
+            DOI:10.1155/2009/623969
+REFERENCE   PMID:32858867
+  AUTHORS   Kleinpeter AB, Freed EO
+  TITLE     HIV-1 Maturation: Lessons Learned from Inhibitors.
+  JOURNAL   Viruses 12:E940 (2020)
+            DOI:10.3390/v12090940
+REL_PATHWAY hsa03013  Nucleocytoplasmic transport
+            hsa04144  Endocytosis
+KO_PATHWAY  ko03250
+///

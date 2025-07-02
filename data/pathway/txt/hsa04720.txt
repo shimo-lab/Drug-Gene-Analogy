@@ -1,0 +1,132 @@
+ENTRY       hsa04720                    Pathway
+NAME        Long-term potentiation - Homo sapiens (human)
+DESCRIPTION Hippocampal long-term potentiation (LTP), a long-lasting increase in synaptic efficacy, is the molecular basis for learning and memory. Tetanic stimulation of afferents in the CA1 region of the hippocampus induces glutamate release and activation of glutamate receptors in dendritic spines. A large increase in [Ca2+]i resulting from influx through NMDA receptors leads to constitutive activation of CaM kinase II (CaM KII) . Constitutively active CaM kinase II phosphorylates AMPA receptors, resulting in potentiation of the ionic conductance of AMPA receptors. Early-phase LTP (E-LTP) expression is due, in part, to this phosphorylation of the AMPA receptor. It is hypothesized that postsynaptic Ca2+ increases generated through NMDA receptors activate several signal transduction pathways including the Erk/MAP kinase and cAMP regulatory pathways. The convergence of these pathways at the level of the CREB/CRE transcriptional pathway may increase expression of a family of genes required for late-phase LTP (L-LTP).
+CLASS       Organismal Systems; Nervous system
+PATHWAY_MAP hsa04720  Long-term potentiation
+NETWORK     nt06410  Calcium signaling
+            nt06460  Alzheimer disease
+            nt06461  Huntington disease
+            nt06462  Spinocerebellar ataxia
+            nt06464  Amyotrophic lateral sclerosis
+            nt06465  Prion disease
+  ELEMENT   N00984  mGluR5-Ca2+ -apoptotic pathway
+DBLINKS     GO: 0048169
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2890  GRIA1; glutamate ionotropic receptor AMPA type subunit 1 [KO:K05197]
+            2891  GRIA2; glutamate ionotropic receptor AMPA type subunit 2 [KO:K05198]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            5502  PPP1R1A; protein phosphatase 1 regulatory inhibitor subunit 1A [KO:K08050]
+            5499  PPP1CA; protein phosphatase 1 catalytic subunit alpha [KO:K06269] [EC:3.1.3.16]
+            5500  PPP1CB; protein phosphatase 1 catalytic subunit beta [KO:K06269] [EC:3.1.3.16]
+            5501  PPP1CC; protein phosphatase 1 catalytic subunit gamma [KO:K06269] [EC:3.1.3.16]
+            815  CAMK2A; calcium/calmodulin dependent protein kinase II alpha [KO:K04515] [EC:2.7.11.17]
+            817  CAMK2D; calcium/calmodulin dependent protein kinase II delta [KO:K04515] [EC:2.7.11.17]
+            816  CAMK2B; calcium/calmodulin dependent protein kinase II beta [KO:K04515] [EC:2.7.11.17]
+            818  CAMK2G; calcium/calmodulin dependent protein kinase II gamma [KO:K04515] [EC:2.7.11.17]
+            10411  RAPGEF3; Rap guanine nucleotide exchange factor 3 [KO:K08014]
+            5906  RAP1A; RAP1A, member of RAS oncogene family [KO:K04353]
+            5908  RAP1B; RAP1B, member of RAS oncogene family [KO:K07836]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            2902  GRIN1; glutamate ionotropic receptor NMDA type subunit 1 [KO:K05208]
+            2903  GRIN2A; glutamate ionotropic receptor NMDA type subunit 2A [KO:K05209]
+            2904  GRIN2B; glutamate ionotropic receptor NMDA type subunit 2B [KO:K05210]
+            2905  GRIN2C; glutamate ionotropic receptor NMDA type subunit 2C [KO:K05211]
+            2906  GRIN2D; glutamate ionotropic receptor NMDA type subunit 2D [KO:K05212]
+            775  CACNA1C; calcium voltage-gated channel subunit alpha1 C [KO:K04850]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            1387  CREBBP; CREB binding protein [KO:K04498] [EC:2.3.1.48]
+            2033  EP300; E1A binding protein p300 [KO:K04498] [EC:2.3.1.48]
+            468  ATF4; activating transcription factor 4 [KO:K04374]
+            814  CAMK4; calcium/calmodulin dependent protein kinase IV [KO:K05869] [EC:2.7.11.17]
+            3265  HRAS; HRas proto-oncogene, GTPase [KO:K02833]
+            3845  KRAS; KRAS proto-oncogene, GTPase [KO:K07827]
+            4893  NRAS; NRAS proto-oncogene, GTPase [KO:K07828]
+            369  ARAF; A-Raf proto-oncogene, serine/threonine kinase [KO:K08845] [EC:2.7.11.1]
+            673  BRAF; B-Raf proto-oncogene, serine/threonine kinase [KO:K04365] [EC:2.7.11.1]
+            5894  RAF1; Raf-1 proto-oncogene, serine/threonine kinase [KO:K04366] [EC:2.7.11.1]
+            5604  MAP2K1; mitogen-activated protein kinase kinase 1 [KO:K04368] [EC:2.7.12.2]
+            5605  MAP2K2; mitogen-activated protein kinase kinase 2 [KO:K04369] [EC:2.7.12.2]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            6197  RPS6KA3; ribosomal protein S6 kinase A3 [KO:K04373] [EC:2.7.11.1]
+            6195  RPS6KA1; ribosomal protein S6 kinase A1 [KO:K04373] [EC:2.7.11.1]
+            6196  RPS6KA2; ribosomal protein S6 kinase A2 [KO:K04373] [EC:2.7.11.1]
+            27330  RPS6KA6; ribosomal protein S6 kinase A6 [KO:K04373] [EC:2.7.11.1]
+            3708  ITPR1; inositol 1,4,5-trisphosphate receptor type 1 [KO:K04958]
+            3709  ITPR2; inositol 1,4,5-trisphosphate receptor type 2 [KO:K04959]
+            3710  ITPR3; inositol 1,4,5-trisphosphate receptor type 3 [KO:K04960]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            2911  GRM1; glutamate metabotropic receptor 1 [KO:K04603]
+            2915  GRM5; glutamate metabotropic receptor 5 [KO:K04604]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+COMPOUND    C00025  L-Glutamate
+            C00076  Calcium cation
+            C00165  Diacylglycerol
+            C00305  Magnesium cation
+            C00575  3',5'-Cyclic AMP
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+            C01330  Sodium cation
+REFERENCE   PMID:15652868
+  AUTHORS   Blitzer RD, Iyengar R, Landau EM.
+  TITLE     Postsynaptic signaling networks: cellular cogwheels underlying long-term plasticity.
+  JOURNAL   Biol Psychiatry 57:113-9 (2005)
+            DOI:10.1016/j.biopsych.2004.02.031
+REFERENCE   PMID:10652548
+  AUTHORS   Soderling TR, Derkach VA.
+  TITLE     Postsynaptic protein phosphorylation and LTP.
+  JOURNAL   Trends Neurosci 23:75-80 (2000)
+            DOI:10.1016/S0166-2236(99)01490-3
+REFERENCE   PMID:11378299
+  AUTHORS   Poser S, Storm DR.
+  TITLE     Role of Ca2+-stimulated adenylyl cyclases in LTP and memory formation.
+  JOURNAL   Int J Dev Neurosci 19:387-94 (2001)
+            DOI:10.1016/S0736-5748(00)00094-0
+REFERENCE   PMID:15803158
+  AUTHORS   Xia Z, Storm DR.
+  TITLE     The role of calmodulin as a signal integrator for synaptic plasticity.
+  JOURNAL   Nat Rev Neurosci 6:267-76 (2005)
+            DOI:10.1038/nrn1647
+REFERENCE   
+  AUTHORS   Purves D, Augustine GJ (ed).
+  TITLE     Neuroscience
+  JOURNAL   Sunderland, Mass.:Sinauer Associates (2004)
+REFERENCE   PMID:14715912
+  AUTHORS   Lynch MA.
+  TITLE     Long-term potentiation and memory.
+  JOURNAL   Physiol Rev 84:87-136 (2004)
+            DOI:10.1152/physrev.00014.2003
+REFERENCE   PMID:15857686
+  AUTHORS   Kelly PT, Mackinnon RL 2nd, Dietz RV, Maher BJ, Wang J.
+  TITLE     Postsynaptic IP3 receptor-mediated Ca2+ release modulates synaptic transmission in hippocampal neurons.
+  JOURNAL   Brain Res Mol Brain Res 135:232-48 (2005)
+            DOI:10.1016/j.molbrainres.2004.12.018
+REFERENCE   PMID:9697848
+  AUTHORS   Berridge MJ.
+  TITLE     Neuronal calcium signaling.
+  JOURNAL   Neuron 21:13-26 (1998)
+            DOI:10.1016/S0896-6273(00)80510-3
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04724  Glutamatergic synapse
+KO_PATHWAY  ko04720
+///

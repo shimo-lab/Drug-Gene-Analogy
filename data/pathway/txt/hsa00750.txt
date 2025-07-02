@@ -1,0 +1,78 @@
+ENTRY       hsa00750                    Pathway
+NAME        Vitamin B6 metabolism - Homo sapiens (human)
+CLASS       Metabolism; Metabolism of cofactors and vitamins
+PATHWAY_MAP hsa00750  Vitamin B6 metabolism
+DBLINKS     GO: 0042816
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        55163  PNPO; pyridoxamine 5'-phosphate oxidase [KO:K00275] [EC:1.4.3.5]
+            8566  PDXK; pyridoxal kinase [KO:K00868] [EC:2.7.1.35]
+            57026  PDXP; pyridoxal phosphatase [KO:K07758] [EC:3.1.3.74]
+            493911  PHOSPHO2; phosphatase, orphan 2 [KO:K13248] [EC:3.1.3.74]
+            316  AOX1; aldehyde oxidase 1 [KO:K00157] [EC:1.2.3.1]
+            29968  PSAT1; phosphoserine aminotransferase 1 [KO:K00831] [EC:2.6.1.52]
+COMPOUND    C00018  Pyridoxal phosphate
+            C00064  L-Glutamine
+            C00117  D-Ribose 5-phosphate
+            C00118  D-Glyceraldehyde 3-phosphate
+            C00232  Succinate semialdehyde
+            C00250  Pyridoxal
+            C00266  Glycolaldehyde
+            C00279  D-Erythrose 4-phosphate
+            C00314  Pyridoxine
+            C00534  Pyridoxamine
+            C00627  Pyridoxine phosphate
+            C00647  Pyridoxamine phosphate
+            C00847  4-Pyridoxate
+            C00971  4-Pyridoxolactone
+            C01215  2-(Acetamidomethylene)succinate
+            C01270  3-Hydroxy-2-methylpyridine-5-carboxylate
+            C03393  4-Phospho-D-erythronate
+            C04106  2-(Hydroxymethyl)-4-oxobutanoate
+            C04604  3-Hydroxy-2-methylpyridine-4,5-dicarboxylate
+            C04690  2-(Hydroxymethyl)-3-(acetamidomethylene)succinate
+            C04773  3-Hydroxy-4-hydroxymethyl-2-methylpyridine-5-carboxylate
+            C06050  2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate
+            C06051  Isopyridoxal
+            C06052  5-Pyridoxolactone
+            C06054  2-Oxo-3-hydroxy-4-phosphobutanoate
+            C06055  O-Phospho-4-hydroxy-L-threonine
+            C06056  4-Hydroxy-L-threonine
+            C07335  2-Amino-3-oxo-4-phosphonooxybutyrate
+            C11638  3-Amino-2-oxopropyl phosphate
+REFERENCE   PMID:10753941
+  AUTHORS   Tazoe M, Ichikawa K, Hoshino T.
+  TITLE     Biosynthesis of vitamin B(6) in rhizobium.
+  JOURNAL   J Biol Chem 275:11300-5 (2000)
+            DOI:10.1074/jbc.275.15.11300
+REFERENCE   PMID:9696782
+  AUTHORS   Yang Y, Zhao G, Man TK, Winkler ME.
+  TITLE     Involvement of the gapA- and epd (gapB)-encoded dehydrogenases in pyridoxal 5'-phosphate coenzyme biosynthesis in Escherichia coli K-12.
+  JOURNAL   J Bacteriol 180:4294-9 (1998)
+            DOI:10.1128/JB.180.16.4294-4299.1998
+REFERENCE   PMID:12269807
+  AUTHORS   Yeh JI, Du S, Pohl E, Cane DE.
+  TITLE     Multistate binding in pyridoxine 5'-phosphate synthase: 1.96 A crystal structure in complex with 1-deoxy-D-xylulose phosphate.
+  JOURNAL   Biochemistry 41:11649-57 (2002)
+            DOI:10.1021/bi026292t
+REFERENCE   PMID:10225425
+  AUTHORS   Laber B, Maurer W, Scharf S, Stepusin K, Schmidt FS.
+  TITLE     Vitamin B6 biosynthesis: formation of pyridoxine 5'-phosphate from 4-(phosphohydroxy)-L-threonine and 1-deoxy-D-xylulose-5-phosphate by PdxA and PdxJ protein.
+  JOURNAL   FEBS Lett 449:45-8 (1999)
+            DOI:10.1016/S0014-5793(99)00393-2
+REFERENCE   PMID:16157873
+  AUTHORS   Tambasco-Studart M, Titiz O, Raschle T, Forster G, Amrhein N, Fitzpatrick TB.
+  TITLE     Vitamin B6 biosynthesis in higher plants.
+  JOURNAL   Proc Natl Acad Sci U S A 102:13687-92 (2005)
+            DOI:10.1073/pnas.0506228102
+REFERENCE   PMID:22276911
+  AUTHORS   Nagase T, Mugo AN, Chu HN, Yoshikane Y, Ohnishi K, Yagi T
+  TITLE     The mll6786 gene encodes a repressor protein controlling the degradation pathway for vitamin B6 in Mesorhizobium loti.
+  JOURNAL   FEMS Microbiol Lett 329:116-22 (2012)
+            DOI:10.1111/j.1574-6968.2012.02510.x
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00030  Pentose phosphate pathway
+            hsa00630  Glyoxylate and dicarboxylate metabolism
+            hsa00650  Butanoate metabolism
+            hsa00730  Thiamine metabolism
+KO_PATHWAY  ko00750
+///

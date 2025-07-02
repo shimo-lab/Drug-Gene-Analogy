@@ -1,0 +1,137 @@
+ENTRY       hsa04672                    Pathway
+NAME        Intestinal immune network for IgA production - Homo sapiens (human)
+DESCRIPTION The intestine is the largest lymphoid tissue in the body. One striking feature of intestinal immunity is its ability to generate great amounts of noninflammatory immunoglobulin A (IgA) antibodies that serve as the first line of defense against microorganisms. The basic map of IgA production includes induction of mucosal B cells in the Peyer's patches, circulation through the bloodstream and homing to intestinal mucosa of IgA-commited plasma cells, and local antibody production for export across the intestinal membranes. Multiple cytokines, including TGF-{beta}, IL-10, IL-4, IL-5, and IL-6, are required to promote IgA class switching and terminal differentiation process of the B cells. Secreted IgA promotes immune exclusion by entrapping dietary antigens and microorganisms in the mucus and functions for neutralization of toxins and pathogenic microbes.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04672  Intestinal immune network for IgA production
+DRUG        D03203  Abatacept (USAN/INN)
+            D03222  Belatacept (USAN/INN)
+            D09799  Carotegrast methyl (JAN)
+            D09901  Etrolizumab (USAN/INN)
+            D10028  Valategrast hydrochloride (USAN)
+            D10378  Vercirnon (USAN/INN)
+            D10379  Vercirnon sodium (USAN)
+            D11281  Reltecimod (USAN/INN)
+            D11348  Reltecimod sodium (USAN)
+            D11556  Idecabtagene vicleucel (USAN)
+            D11594  Belantamab (USAN/INN)
+            D11595  Belantamab mafodotin (USAN)
+            D11907  Rozibafusp alfa (USAN/INN)
+            D11992  Pavurutamab (USAN)
+            D11996  Feladilimab (USAN/INN)
+            D12010  Pacanalotamab (USAN)
+            D12151  Ianalumab (USAN/INN)
+            D12195  Izuralimab (USAN)
+            D12222  Linvoseltamab (USAN)
+            D12300  Acazicolcept (USAN)
+            D12306  Ordesekimab (USAN)
+            D12315  Ciltacabtagene autoleucel (USAN/INN)
+            D12374  Sibeprenlimab (INN)
+DBLINKS     GO: 0002387
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        941  CD80; CD80 molecule [KO:K05412]
+            942  CD86; CD86 molecule [KO:K05413]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            940  CD28; CD28 molecule [KO:K06470]
+            3558  IL2; interleukin 2 [KO:K05429]
+            3565  IL4; interleukin 4 [KO:K05430]
+            3567  IL5; interleukin 5 [KO:K05428]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3586  IL10; interleukin 10 [KO:K05443]
+            7040  TGFB1; transforming growth factor beta 1 [KO:K13375]
+            8741  TNFSF13; TNF superfamily member 13 [KO:K05475]
+            10673  TNFSF13B; TNF superfamily member 13b [KO:K05476]
+            23495  TNFRSF13B; TNF receptor superfamily member 13B [KO:K05150]
+            608  TNFRSF17; TNF receptor superfamily member 17 [KO:K05153]
+            115650  TNFRSF13C; TNF receptor superfamily member 13C [KO:K05151]
+            102723407  IGH; immunoglobulin heavy variable 4-38-2-like [KO:K06856]
+            57379  AICDA; activation induced cytidine deaminase [KO:K10989] [EC:3.5.4.38]
+            958  CD40; CD40 molecule [KO:K03160]
+            959  CD40LG; CD40 ligand [KO:K03161]
+            29851  ICOS; inducible T cell costimulator [KO:K06713]
+            23308  ICOSLG; inducible T cell costimulator ligand [KO:K06710]
+            102723996  ICOS ligand [KO:K06710]
+            10803  CCR9; C-C motif chemokine receptor 9 [KO:K04184]
+            3676  ITGA4; integrin subunit alpha 4 [KO:K06483]
+            3695  ITGB7; integrin subunit beta 7 [KO:K06590]
+            6387  CXCL12; C-X-C motif chemokine ligand 12 [KO:K10031]
+            7852  CXCR4; C-X-C motif chemokine receptor 4 [KO:K04189]
+            56477  CCL28; C-C motif chemokine ligand 28 [KO:K05513]
+            2826  CCR10; C-C motif chemokine receptor 10 [KO:K04185]
+            6370  CCL25; C-C motif chemokine ligand 25 [KO:K13072]
+            8174  MADCAM1; mucosal vascular addressin cell adhesion molecule 1 [KO:K06779]
+            4055  LTBR; lymphotoxin beta receptor [KO:K03159]
+            9020  MAP3K14; mitogen-activated protein kinase kinase kinase 14 [KO:K04466] [EC:2.7.11.25]
+            3600  IL15; interleukin 15 [KO:K05433]
+            3601  IL15RA; interleukin 15 receptor subunit alpha [KO:K05074]
+            5284  PIGR; polymeric immunoglobulin receptor [KO:K13073]
+COMPOUND    C00777  Retinoate
+            C15493  9-cis-Retinoic acid
+REFERENCE   PMID:12511876
+  AUTHORS   Fagarasan S, Honjo T
+  TITLE     Intestinal IgA synthesis: regulation of front-line body defences.
+  JOURNAL   Nat Rev Immunol 3:63-72 (2003)
+            DOI:10.1038/nri982
+REFERENCE   PMID:19079156
+  AUTHORS   Macpherson AJ, McCoy KD, Johansen FE, Brandtzaeg P
+  TITLE     The immune geography of IgA induction and function.
+  JOURNAL   Mucosal Immunol 1:11-22 (2008)
+            DOI:10.1038/mi.2007.6
+REFERENCE   PMID:15971106
+  AUTHORS   Kunisawa J, Kiyono H
+  TITLE     A marvel of mucosal T cells and secretory antibodies for the creation of first lines of defense.
+  JOURNAL   Cell Mol Life Sci 62:1308-21 (2005)
+            DOI:10.1007/s00018-005-5035-1
+REFERENCE   PMID:18549797
+  AUTHORS   Cerutti A, Rescigno M
+  TITLE     The biology of intestinal immunoglobulin A responses.
+  JOURNAL   Immunity 28:740-50 (2008)
+            DOI:10.1016/j.immuni.2008.05.001
+REFERENCE   PMID:18243016
+  AUTHORS   Tsuji M, Suzuki K, Kinoshita K, Fagarasan S
+  TITLE     Dynamic interactions between bacteria and immune cells leading to intestinal IgA synthesis.
+  JOURNAL   Semin Immunol 20:59-66 (2008)
+            DOI:10.1016/j.smim.2007.12.003
+REFERENCE   PMID:17182536
+  AUTHORS   Corthesy B
+  TITLE     Roundtrip ticket for secretory IgA: role in mucosal homeostasis?
+  JOURNAL   J Immunol 178:27-32 (2007)
+            DOI:10.4049/jimmunol.178.1.27
+REFERENCE   PMID:18838301
+  AUTHORS   Suzuki K, Fagarasan S
+  TITLE     How host-bacterial interactions lead to IgA synthesis in the gut.
+  JOURNAL   Trends Immunol 29:523-31 (2008)
+            DOI:10.1016/j.it.2008.08.001
+REFERENCE   PMID:19079167
+  AUTHORS   Mora JR, von Andrian UH
+  TITLE     Differentiation and homing of IgA-secreting cells.
+  JOURNAL   Mucosal Immunol 1:96-109 (2008)
+            DOI:10.1038/mi.2007.14
+REFERENCE   PMID:17161619
+  AUTHORS   Suzuki K, Ha SA, Tsuji M, Fagarasan S
+  TITLE     Intestinal IgA synthesis: a primitive form of adaptive immunity that regulates microbial communities in the gut.
+  JOURNAL   Semin Immunol 19:127-35 (2007)
+            DOI:10.1016/j.smim.2006.10.001
+REFERENCE   PMID:18483500
+  AUTHORS   Cerutti A
+  TITLE     The regulation of IgA class switching.
+  JOURNAL   Nat Rev Immunol 8:421-34 (2008)
+            DOI:10.1038/nri2322
+REL_PATHWAY hsa04612  Antigen processing and presentation
+            hsa04660  T cell receptor signaling pathway
+            hsa04662  B cell receptor signaling pathway
+            hsa04670  Leukocyte transendothelial migration
+KO_PATHWAY  ko04672
+///

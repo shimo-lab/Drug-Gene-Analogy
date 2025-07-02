@@ -1,0 +1,185 @@
+ENTRY       hsa05133                    Pathway
+NAME        Pertussis - Homo sapiens (human)
+DESCRIPTION Pertussis, also known as whooping cough, is an acute respiratory infectious disease caused by a bacteria called Bordetella Pertussis. The characteristic symptoms are paroxysmal cough, inspiratory wheezing and post-tussive vomiting.
+            Following the inhalation of respiratory secretions from an infected individual, bacteria enter the upper respiratory tract and adhere to epithelial cells. Several adhesion factors have been implicated: the filamentous hemagglutinin (FHA), fimbriae, and pertactin (Prn).
+            Pertussis toxin (Ptx) and adenylate cyclase toxin (ACT) have been identified so far as major protein toxins of B. pertussis. PTX is a hexameric AB5-type exotoxin. Catalytic A subunit catalyzes the ADP-ribosylation of the Gi subunits of the heterotrimeric G protein, then inhibits multiple downstream pathways. ACT is able to penetrate the cytoplasmic membrane of host cells and becomes activated through the cleavage and the binding of calmodulin (CaM). Activated ACT converts ATP to cyclic AMP and subverts cellular signaling pathways.
+CLASS       Human Diseases; Infectious disease: bacterial
+PATHWAY_MAP hsa05133  Pertussis
+DISEASE     H00319  Pertussis
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        3678  ITGA5; integrin subunit alpha 5 [KO:K06484]
+            3688  ITGB1; integrin subunit beta 1 [KO:K05719]
+            3684  ITGAM; integrin subunit alpha M [KO:K06461]
+            3689  ITGB2; integrin subunit beta 2 [KO:K06464]
+            810  CALML3; calmodulin like 3 [KO:K02183]
+            805  CALM2; calmodulin 2 [KO:K02183]
+            808  CALM3; calmodulin 3 [KO:K02183]
+            801  CALM1; calmodulin 1 [KO:K02183]
+            163688  CALML6; calmodulin like 6 [KO:K02183]
+            51806  CALML5; calmodulin like 5 [KO:K02183]
+            91860  CALML4; calmodulin like 4 [KO:K02183]
+            387  RHOA; ras homolog family member A [KO:K04513]
+            1072  CFL1; cofilin 1 [KO:K05765]
+            1073  CFL2; cofilin 2 [KO:K05765]
+            836  CASP3; caspase 3 [KO:K02187] [EC:3.4.22.56]
+            840  CASP7; caspase 7 [KO:K04397] [EC:3.4.22.60]
+            834  CASP1; caspase 1 [KO:K01370] [EC:3.4.22.36]
+            29108  PYCARD; PYD and CARD domain containing [KO:K12799]
+            114548  NLRP3; NLR family pyrin domain containing 3 [KO:K12800]
+            3553  IL1B; interleukin 1 beta [KO:K04519]
+            712  C1QA; complement C1q A chain [KO:K03986]
+            713  C1QB; complement C1q B chain [KO:K03987]
+            714  C1QC; complement C1q C chain [KO:K03988]
+            715  C1R; complement C1r [KO:K01330] [EC:3.4.21.41]
+            716  C1S; complement C1s [KO:K01331] [EC:3.4.21.42]
+            717  C2; complement C2 [KO:K01332] [EC:3.4.21.43]
+            720  C4A; complement C4A (Rodgers blood group) [KO:K03989]
+            721  C4B; complement C4B (Chido blood group) [KO:K03989]
+            718  C3; complement C3 [KO:K03990]
+            727  C5; complement C5 [KO:K03994]
+            710  SERPING1; serpin family G member 1 [KO:K04001]
+            722  C4BPA; complement component 4 binding protein alpha [KO:K04002]
+            725  C4BPB; complement component 4 binding protein beta [KO:K04003]
+            23643  LY96; lymphocyte antigen 96 [KO:K05400]
+            7099  TLR4; toll like receptor 4 [KO:K10160]
+            929  CD14; CD14 molecule [KO:K04391]
+            114609  TIRAP; TIR domain containing adaptor protein [KO:K05403]
+            4615  MYD88; MYD88 innate immune signal transduction adaptor [KO:K04729]
+            51135  IRAK4; interleukin 1 receptor associated kinase 4 [KO:K04733] [EC:2.7.11.1]
+            3654  IRAK1; interleukin 1 receptor associated kinase 1 [KO:K04730] [EC:2.7.11.1]
+            7189  TRAF6; TNF receptor associated factor 6 [KO:K03175] [EC:2.3.2.27]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            353376  TICAM2; TIR domain containing adaptor molecule 2 [KO:K05409]
+            148022  TICAM1; TIR domain containing adaptor molecule 1 [KO:K05842]
+            3661  IRF3; interferon regulatory factor 3 [KO:K05411]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            3569  IL6; interleukin 6 [KO:K05405]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            51561  IL23A; interleukin 23 subunit alpha [KO:K05426]
+            7124  TNF; tumor necrosis factor [KO:K03156]
+            3586  IL10; interleukin 10 [KO:K05443]
+            3659  IRF1; interferon regulatory factor 1 [KO:K09444]
+            3394  IRF8; interferon regulatory factor 8 [KO:K10155]
+            653509  SFTPA1; surfactant protein A1 [KO:K10067]
+            729238  SFTPA2; surfactant protein A2 [KO:K10067]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            3576  CXCL8; C-X-C motif chemokine ligand 8 [KO:K10030]
+            6374  CXCL5; C-X-C motif chemokine ligand 5 [KO:K05506]
+            6372  CXCL6; C-X-C motif chemokine ligand 6 [KO:K05506]
+            10392  NOD1; nucleotide binding oligomerization domain containing 1 [KO:K08727]
+            3552  IL1A; interleukin 1 alpha [KO:K04383]
+            4843  NOS2; nitric oxide synthase 2 [KO:K13241] [EC:1.14.13.39]
+COMPOUND    C00002  ATP
+            C00076  Calcium cation
+            C00238  Potassium cation
+            C00253  Nicotinate
+            C00338  Lipopolysaccharide
+            C00374  Heparin
+            C00575  3',5'-Cyclic AMP
+            C05005  Glycolipid
+            C12505  Magnesium sulfate
+            C19596  Lipooligosaccharide
+REFERENCE   PMID:21204863
+  AUTHORS   de Gouw D, Diavatopoulos DA, Bootsma HJ, Hermans PW, Mooi FR
+  TITLE     Pertussis: a matter of immune modulation.
+  JOURNAL   FEMS Microbiol Rev 35:441-74 (2011)
+            DOI:10.1111/j.1574-6976.2010.00257.x
+REFERENCE   PMID:20210554
+  AUTHORS   Carbonetti NH
+  TITLE     Pertussis toxin and adenylate cyclase toxin: key virulence factors of Bordetella pertussis and cell biology tools.
+  JOURNAL   Future Microbiol 5:455-69 (2010)
+            DOI:10.2217/fmb.09.133
+REFERENCE   PMID:10540218
+  AUTHORS   van den Berg BM, van Furth R, Hazenbos WL
+  TITLE     Activation of complement receptor 3 on human monocytes by cross-linking of very-late antigen-5 is mediated via protein tyrosine kinases.
+  JOURNAL   Immunology 98:197-202 (1999)
+            DOI:10.1046/j.1365-2567.1999.00871.x
+REFERENCE   PMID:16999837
+  AUTHORS   Mazar J, Cotter PA
+  TITLE     Topology and maturation of filamentous haemagglutinin suggest a new model for two-partner secretion.
+  JOURNAL   Mol Microbiol 62:641-54 (2006)
+            DOI:10.1111/j.1365-2958.2006.05392.x
+REFERENCE   PMID:16390441
+  AUTHORS   Hewlett EL, Donato GM, Gray MC
+  TITLE     Macrophage cytotoxicity produced by adenylate cyclase toxin from Bordetella pertussis: more than just making cyclic AMP!
+  JOURNAL   Mol Microbiol 59:447-59 (2006)
+            DOI:10.1111/j.1365-2958.2005.04958.x
+REFERENCE   PMID:20610650
+  AUTHORS   Dunne A, Ross PJ, Pospisilova E, Masin J, Meaney A, Sutton CE, Iwakura Y, Tschopp J, Sebo P, Mills KH
+  TITLE     Inflammasome activation by adenylate cyclase toxin directs Th17 responses and protection against Bordetella pertussis.
+  JOURNAL   J Immunol 185:1711-9 (2010)
+            DOI:10.4049/jimmunol.1000105
+REFERENCE   PMID:18401006
+  AUTHORS   Hickey FB, Brereton CF, Mills KH
+  TITLE     Adenylate cycalse toxin of Bordetella pertussis inhibits TLR-induced IRF-1 and IRF-8 activation and IL-12 production and enhances IL-10 through MAPK activation in dendritic cells.
+  JOURNAL   J Leukoc Biol 84:234-43 (2008)
+            DOI:10.1189/jlb.0208113
+REFERENCE   PMID:16622221
+  AUTHORS   Spensieri F, Fedele G, Fazio C, Nasso M, Stefanelli P, Mastrantonio P, Ausiello CM
+  TITLE     Bordetella pertussis inhibition of interleukin-12 (IL-12) p70 in human monocyte-derived dendritic cells blocks IL-12 p35 through adenylate cyclase toxin-dependent cyclic AMP induction.
+  JOURNAL   Infect Immun 74:2831-8 (2006)
+            DOI:10.1128/IAI.74.5.2831-2838.2006
+REFERENCE   PMID:17148436
+  AUTHORS   Fiser R, Masin J, Basler M, Krusek J, Spulakova V, Konopasek I, Sebo P
+  TITLE     Third activity of Bordetella adenylate cyclase (AC) toxin-hemolysin. Membrane translocation of AC domain polypeptide promotes calcium influx into CD11b+ monocytes independently of the catalytic and hemolytic activities.
+  JOURNAL   J Biol Chem 282:2808-20 (2007)
+            DOI:10.1074/jbc.M609979200
+REFERENCE   PMID:16863919
+  AUTHORS   Wang ZY, Yang D, Chen Q, Leifer CA, Segal DM, Su SB, Caspi RR, Howard ZO, Oppenheim JJ
+  TITLE     Induction of dendritic cell maturation by pertussis toxin and its B subunit differentially initiate Toll-like receptor 4-dependent signal transduction pathways.
+  JOURNAL   Exp Hematol 34:1115-24 (2006)
+            DOI:10.1016/j.exphem.2006.04.025
+REFERENCE   PMID:15201703
+  AUTHORS   Fan H, Peck OM, Tempel GE, Halushka PV, Cook JA
+  TITLE     Toll-like receptor 4 coupled GI protein signaling pathways regulate extracellular signal-regulated kinase phosphorylation and AP-1 activation independent of NFkappaB activation.
+  JOURNAL   Shock 22:57-62 (2004)
+            DOI:10.1097/01.shk.0000129759.58490.d6
+REFERENCE   PMID:17328678
+  AUTHORS   Lee MS, Kim YJ
+  TITLE     Signaling pathways downstream of pattern-recognition receptors and their cross talk.
+  JOURNAL   Annu Rev Biochem 76:447-80 (2007)
+            DOI:10.1146/annurev.biochem.76.060605.122847
+REFERENCE   PMID:20404851
+  AUTHORS   Kawai T, Akira S
+  TITLE     The role of pattern-recognition receptors in innate immunity: update on Toll-like receptors.
+  JOURNAL   Nat Immunol 11:373-84 (2010)
+            DOI:10.1038/ni.1863
+REFERENCE   PMID:12701623
+  AUTHORS   Ferlito M, Romanenko OG, Guyton K, Ashton S, Squadrito F, Halushka PV, Cook JA
+  TITLE     Implication of Galpha i proteins and Src tyrosine kinases in endotoxin-induced signal transduction events and mediator production.
+  JOURNAL   J Endotoxin Res 8:427-35 (2002)
+REFERENCE   PMID:21423776
+  AUTHORS   Han HJ, Kuwae A, Abe A, Arakawa Y, Kamachi K
+  TITLE     Differential expression of type III effector BteA protein due to IS481 insertion in Bordetella pertussis.
+  JOURNAL   PLoS One 6:e17797 (2011)
+            DOI:10.1371/journal.pone.0017797
+REFERENCE   PMID:16481212
+  AUTHORS   Beier D, Gross R
+  TITLE     Regulation of bacterial virulence by two-component systems.
+  JOURNAL   Curr Opin Microbiol 9:143-52 (2006)
+            DOI:10.1016/j.mib.2006.01.005
+REFERENCE   PMID:12915094
+  AUTHORS   Cotter PA, Jones AM
+  TITLE     Phosphorelay control of virulence gene expression in Bordetella.
+  JOURNAL   Trends Microbiol 11:367-73 (2003)
+            DOI:10.1016/S0966-842X(03)00156-2
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04210  Apoptosis
+            hsa04610  Complement and coagulation cascades
+            hsa04620  Toll-like receptor signaling pathway
+KO_PATHWAY  ko05133
+///

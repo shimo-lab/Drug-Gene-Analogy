@@ -1,0 +1,58 @@
+ENTRY       hsa00400                    Pathway
+NAME        Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)
+CLASS       Metabolism; Amino acid metabolism
+PATHWAY_MAP hsa00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+NETWORK     nt06016  Phenylalanine and tyrosine metabolism
+  ELEMENT   N00700  Tyrosine biosynthesis
+DBLINKS     GO: 0009094 0006571 0000162
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        2805  GOT1; glutamic-oxaloacetic transaminase 1 [KO:K14454] [EC:2.6.1.1]
+            137362  GOT1L1; glutamic-oxaloacetic transaminase 1 like 1 [KO:K14454] [EC:2.6.1.1]
+            2806  GOT2; glutamic-oxaloacetic transaminase 2 [KO:K14455] [EC:2.6.1.1]
+            6898  TAT; tyrosine aminotransferase [KO:K00815] [EC:2.6.1.5]
+            259307  IL4I1; interleukin 4 induced 1 [KO:K03334] [EC:1.4.3.2]
+            5053  PAH; phenylalanine hydroxylase [KO:K00500] [EC:1.14.16.1]
+COMPOUND    C00074  Phosphoenolpyruvate
+            C00078  L-Tryptophan
+            C00079  L-Phenylalanine
+            C00082  L-Tyrosine
+            C00108  Anthranilate
+            C00119  5-Phospho-alpha-D-ribose 1-diphosphate
+            C00166  Phenylpyruvate
+            C00230  3,4-Dihydroxybenzoate
+            C00251  Chorismate
+            C00254  Prephenate
+            C00279  D-Erythrose 4-phosphate
+            C00296  Quinate
+            C00354  D-Fructose 1,6-bisphosphate
+            C00441  L-Aspartate 4-semialdehyde
+            C00463  Indole
+            C00493  Shikimate
+            C00587  3-Hydroxybenzoate
+            C00826  L-Arogenate
+            C00944  3-Dehydroquinate
+            C01094  D-Fructose 1-phosphate
+            C01179  3-(4-Hydroxyphenyl)pyruvate
+            C01269  5-O-(1-Carboxyvinyl)-3-phosphoshikimate
+            C01302  1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate
+            C02637  3-Dehydroshikimate
+            C03175  Shikimate 3-phosphate
+            C03506  Indoleglycerol phosphate
+            C04302  N-(5-Phospho-D-ribosyl)anthranilate
+            C04691  2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate
+            C16848  6-Deoxy-5-ketofructose 1-phosphate
+            C16850  2-Amino-3,7-dideoxy-D-threo-hept-6-ulosonic acid
+            C17235  L-Homophenylalanine
+            C20327  2-Oxo-4-phenylbutyric acid
+            C20653  2-Benzylmalic acid
+            C20654  3-Benzylmalic acid
+            C20710  (4R,5R)-4,5-Dihydroxycyclohexa-1(6),2-diene-1-carboxylate
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00030  Pentose phosphate pathway
+            hsa00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            hsa00350  Tyrosine metabolism
+            hsa00360  Phenylalanine metabolism
+            hsa00380  Tryptophan metabolism
+            hsa00790  Folate biosynthesis
+KO_PATHWAY  ko00400
+///

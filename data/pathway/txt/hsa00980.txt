@@ -1,0 +1,252 @@
+ENTRY       hsa00980                    Pathway
+NAME        Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human)
+CLASS       Metabolism; Xenobiotics biodegradation and metabolism
+PATHWAY_MAP hsa00980  Metabolism of xenobiotics by cytochrome P450
+DRUG        D00707  Fomepizole (JAN/USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        1543  CYP1A1; cytochrome P450 family 1 subfamily A member 1 [KO:K07408] [EC:1.14.14.1]
+            1559  CYP2C9; cytochrome P450 family 2 subfamily C member 9 [KO:K17719] [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14.14.-]
+            1576  CYP3A4; cytochrome P450 family 3 subfamily A member 4 [KO:K17689] [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.14.-]
+            1545  CYP1B1; cytochrome P450 family 1 subfamily B member 1 [KO:K07410] [EC:1.14.14.1]
+            221357  GSTA5; glutathione S-transferase alpha 5 [KO:K00799] [EC:2.5.1.18]
+            2939  GSTA2; glutathione S-transferase alpha 2 [KO:K00799] [EC:2.5.1.18]
+            2941  GSTA4; glutathione S-transferase alpha 4 [KO:K00799] [EC:2.5.1.18]
+            119391  GSTO2; glutathione S-transferase omega 2 [KO:K00799] [EC:2.5.1.18]
+            2948  GSTM4; glutathione S-transferase mu 4 [KO:K00799] [EC:2.5.1.18]
+            2953  GSTT2; glutathione S-transferase theta 2 (gene/pseudogene) [KO:K00799] [EC:2.5.1.18]
+            2952  GSTT1; glutathione S-transferase theta 1 [KO:K00799] [EC:2.5.1.18]
+            2947  GSTM3; glutathione S-transferase mu 3 [KO:K00799] [EC:2.5.1.18]
+            4257  MGST1; microsomal glutathione S-transferase 1 [KO:K00799] [EC:2.5.1.18]
+            4259  MGST3; microsomal glutathione S-transferase 3 [KO:K00799] [EC:2.5.1.18]
+            2944  GSTM1; glutathione S-transferase mu 1 [KO:K00799] [EC:2.5.1.18]
+            2949  GSTM5; glutathione S-transferase mu 5 [KO:K00799] [EC:2.5.1.18]
+            4258  MGST2; microsomal glutathione S-transferase 2 [KO:K00799] [EC:2.5.1.18]
+            2938  GSTA1; glutathione S-transferase alpha 1 [KO:K00799] [EC:2.5.1.18]
+            2946  GSTM2; glutathione S-transferase mu 2 [KO:K00799] [EC:2.5.1.18]
+            2940  GSTA3; glutathione S-transferase alpha 3 [KO:K00799] [EC:2.5.1.18]
+            9446  GSTO1; glutathione S-transferase omega 1 [KO:K00799] [EC:2.5.1.18]
+            653689  GSTT2B; glutathione S-transferase theta 2B [KO:K00799] [EC:2.5.1.18]
+            2950  GSTP1; glutathione S-transferase pi 1 [KO:K23790] [EC:2.5.1.18]
+            373156  GSTK1; glutathione S-transferase kappa 1 [KO:K13299] [EC:2.5.1.18]
+            27306  HPGDS; hematopoietic prostaglandin D synthase [KO:K04097] [EC:5.3.99.2 2.5.1.18]
+            2052  EPHX1; epoxide hydrolase 1 [KO:K01253] [EC:3.3.2.9]
+            1555  CYP2B6; cytochrome P450 family 2 subfamily B member 6 [KO:K17709] [EC:1.14.14.-]
+            6822  SULT2A1; sulfotransferase family 2A member 1 [KO:K11822] [EC:2.8.2.14]
+            1544  CYP1A2; cytochrome P450 family 1 subfamily A member 2 [KO:K07409] [EC:1.14.14.1]
+            1548  CYP2A6; cytochrome P450 family 2 subfamily A member 6 [KO:K17683] [EC:1.14.14.-]
+            1549  CYP2A7; cytochrome P450 family 2 subfamily A member 7 [KO:K17683] [EC:1.14.14.-]
+            1571  CYP2E1; cytochrome P450 family 2 subfamily E member 1 [KO:K07415] [EC:1.14.14.-]
+            1572  CYP2F1; cytochrome P450 family 2 subfamily F member 1 [KO:K07416] [EC:1.14.14.1]
+            29785  CYP2S1; cytochrome P450 family 2 subfamily S member 1 [KO:K07420] [EC:1.14.14.1]
+            1645  AKR1C1; aldo-keto reductase family 1 member C1 [KO:K00212] [EC:1.1.1.149 1.1.1.357 1.3.1.20]
+            27294  DHDH; dihydrodiol dehydrogenase [KO:K00078] [EC:1.3.1.20 1.1.1.179]
+            1553  CYP2A13; cytochrome P450 family 2 subfamily A member 13 [KO:K17685] [EC:1.14.14.1]
+            1565  CYP2D6; cytochrome P450 family 2 subfamily D member 6 [KO:K17712] [EC:1.14.14.1]
+            107987478  cytochrome P450 2D6-like [KO:K17712] [EC:1.14.14.1]
+            1564  CYP2D7; cytochrome P450 family 2 subfamily D member 7 (gene/pseudogene) [KO:K17712] [EC:1.14.14.1]
+            107987479  CYP2D6; cytochrome P450 2D6 [KO:K17712] [EC:1.14.14.1]
+            3290  HSD11B1; hydroxysteroid 11-beta dehydrogenase 1 [KO:K15680] [EC:1.1.1.146]
+            374875  HSD11B1L; hydroxysteroid 11-beta dehydrogenase 1 like [KO:K15680] [EC:1.1.1.146]
+            873  CBR1; carbonyl reductase 1 [KO:K00079] [EC:1.1.1.184 1.1.1.189 1.1.1.197]
+            874  CBR3; carbonyl reductase 3 [KO:K00084] [EC:1.1.1.184]
+            10941  UGT2A1; UDP glucuronosyltransferase family 2 member A1 complex locus [KO:K00699] [EC:2.4.1.17]
+            79799  UGT2A3; UDP glucuronosyltransferase family 2 member A3 [KO:K00699] [EC:2.4.1.17]
+            7367  UGT2B17; UDP glucuronosyltransferase family 2 member B17 [KO:K00699] [EC:2.4.1.17]
+            10720  UGT2B11; UDP glucuronosyltransferase family 2 member B11 [KO:K00699] [EC:2.4.1.17]
+            54490  UGT2B28; UDP glucuronosyltransferase family 2 member B28 [KO:K00699] [EC:2.4.1.17]
+            54578  UGT1A6; UDP glucuronosyltransferase family 1 member A6 [KO:K00699] [EC:2.4.1.17]
+            54657  UGT1A4; UDP glucuronosyltransferase family 1 member A4 [KO:K00699] [EC:2.4.1.17]
+            54658  UGT1A1; UDP glucuronosyltransferase family 1 member A1 [KO:K00699] [EC:2.4.1.17]
+            54659  UGT1A3; UDP glucuronosyltransferase family 1 member A3 [KO:K00699] [EC:2.4.1.17]
+            7365  UGT2B10; UDP glucuronosyltransferase family 2 member B10 [KO:K00699] [EC:2.4.1.17]
+            54600  UGT1A9; UDP glucuronosyltransferase family 1 member A9 [KO:K00699] [EC:2.4.1.17]
+            7364  UGT2B7; UDP glucuronosyltransferase family 2 member B7 [KO:K00699] [EC:2.4.1.17]
+            54575  UGT1A10; UDP glucuronosyltransferase family 1 member A10 [KO:K00699] [EC:2.4.1.17]
+            54576  UGT1A8; UDP glucuronosyltransferase family 1 member A8 [KO:K00699] [EC:2.4.1.17]
+            54579  UGT1A5; UDP glucuronosyltransferase family 1 member A5 [KO:K00699] [EC:2.4.1.17]
+            7366  UGT2B15; UDP glucuronosyltransferase family 2 member B15 [KO:K00699] [EC:2.4.1.17]
+            54577  UGT1A7; UDP glucuronosyltransferase family 1 member A7 [KO:K00699] [EC:2.4.1.17]
+            7363  UGT2B4; UDP glucuronosyltransferase family 2 member B4 [KO:K00699] [EC:2.4.1.17]
+            574537  UGT2A2; UDP glucuronosyltransferase family 2 member A2 [KO:K00699] [EC:2.4.1.17]
+            1577  CYP3A5; cytochrome P450 family 3 subfamily A member 5 [KO:K17690] [EC:1.14.14.1]
+            8574  AKR7A2; aldo-keto reductase family 7 member A2 [KO:K15303]
+            22977  AKR7A3; aldo-keto reductase family 7 member A3 [KO:K15303]
+            246181  AKR7L; aldo-keto reductase family 7 like (gene/pseudogene) [KO:K15303]
+            221  ALDH3B1; aldehyde dehydrogenase 3 family member B1 [KO:K00129] [EC:1.2.1.5]
+            222  ALDH3B2; aldehyde dehydrogenase 3 family member B2 [KO:K00129] [EC:1.2.1.5]
+            218  ALDH3A1; aldehyde dehydrogenase 3 family member A1 [KO:K00129] [EC:1.2.1.5]
+            124  ADH1A; alcohol dehydrogenase 1A (class I), alpha polypeptide [KO:K13951] [EC:1.1.1.1]
+            125  ADH1B; alcohol dehydrogenase 1B (class I), beta polypeptide [KO:K13951] [EC:1.1.1.1]
+            126  ADH1C; alcohol dehydrogenase 1C (class I), gamma polypeptide [KO:K13951] [EC:1.1.1.1]
+            131  ADH7; alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [KO:K13951] [EC:1.1.1.1]
+            127  ADH4; alcohol dehydrogenase 4 (class II), pi polypeptide [KO:K13980] [EC:1.1.1.1]
+            128  ADH5; alcohol dehydrogenase 5 (class III), chi polypeptide [KO:K00121] [EC:1.1.1.284 1.1.1.1]
+            130  ADH6; alcohol dehydrogenase 6 (class V) [KO:K13952] [EC:1.1.1.1]
+COMPOUND    C00745  Nicotine
+            C00829  Naphthalene
+            C02617  1,4-Naphthoquinone
+            C03012  Naphthalene-1,2-diol
+            C06205  1,2-Dihydronaphthalene-1,2-diol
+            C06755  Chloroacetic acid
+            C06790  Trichloroethene
+            C06800  Aflatoxin B1
+            C06899  Chloral hydrate
+            C07490  Trichloroethanol
+            C07535  Benzo[a]pyrene
+            C11036  Bromobenzene
+            C11088  1,2-Dibromoethane
+            C11148  TCE epoxide
+            C11149  Dichloroacetate
+            C11150  Trichloroacetate
+            C11278  Aflatoxin B1exo-8,9-epoxide-GSH
+            C11713  2-Naphthol
+            C11714  1-Naphthol
+            C14039  1,1-Dichloroethylene
+            C14040  1-Nitronaphthalene
+            C14453  4-Bromophenol
+            C14556  9-Hydroxybenzo[a]pyrene
+            C14783  1,2-Naphthoquinone
+            C14784  1,2-Dihydroxy-3,4-epoxy-1,2,3,4-tetrahydronaphthalene
+            C14785  1,4-Dihydroxynaphthalene
+            C14786  (1R,2S)-Naphthalene 1,2-oxide
+            C14787  (1S,2R)-Naphthalene 1,2-oxide
+            C14788  1-Nitrosonaphthalene
+            C14789  N-Hydroxy-1-aminonaphthalene
+            C14790  1-Naphthylamine
+            C14791  (1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene
+            C14792  (1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene
+            C14793  (1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene
+            C14796  (1R)-Hydroxy-(2R)-N-acetyl-L-cysteinyl-1,2-dihydronaphthalene
+            C14797  (1R)-N-Acetyl-L-cysteinyl-(2R)-hydroxy-1,2-dihydronaphthalene
+            C14798  (1S)-Hydroxy-(2S)-N-acetyl-L-cysteinyl-1,2-dihydronaphthalene
+            C14799  (1R,2R)-3-[(1,2-Dihydro-2-hydroxy-1-naphthalenyl)thio]-2-oxopropanoic acid
+            C14800  1-Nitronaphthalene-5,6-oxide
+            C14801  1-Nitro-5,6-dihydroxy-dihydronaphthalene
+            C14802  1-Nitronaphthalene-7,8-oxide
+            C14803  1-Nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene
+            C14804  1-Nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene
+            C14805  1-Nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene
+            C14806  1-Nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene
+            C14839  Bromobenzene-3,4-oxide
+            C14840  Bromobenzene-2,3-oxide
+            C14841  2-Bromophenol
+            C14842  Bromobenzene-2,3-dihydrodiol
+            C14843  4-Bromocatechol
+            C14844  Bromobenzene-3,4-dihydrodiol
+            C14845  4-Bromophenol-2,3-epoxide
+            C14846  4-Bromo-3,5-cyclohexadiene-1,2-dione
+            C14847  3,4-Dihydro-3-hydroxy-4-S-glutathionyl bromobenzene
+            C14848  2,3-Dihydro-2-S-glutathionyl-3-hydroxy bromobenzene
+            C14849  Benzo[a]pyrene-9,10-oxide
+            C14850  Benzo[a]pyrene-7,8-oxide
+            C14851  Benzo[a]pyrene-4,5-oxide
+            C14852  Benzo[a]pyrene-7,8-dihydrodiol
+            C14853  Benzo[a]pyrene-7,8-dihydrodiol-9,10-oxide
+            C14854  9-Hydroxybenzo[a]pyrene-4,5-oxide
+            C14855  4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene
+            C14856  7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene
+            C14857  1,1-Dichloroethylene epoxide
+            C14858  2,2-Dichloroacetaldehyde
+            C14859  Chloroacetyl chloride
+            C14860  2,2-Dichloro-1,1-ethanediol
+            C14861  S-(2,2-Dichloro-1-hydroxy)ethyl glutathione
+            C14862  2-S-Glutathionyl acetate
+            C14863  2-(S-Glutathionyl)acetyl glutathione
+            C14864  S-(2-Chloroacetyl)glutathione
+            C14865  2-(S-Glutathionyl)acetyl chloride
+            C14866  Chloral
+            C14867  Dichloroacetyl chloride
+            C14868  S-(1,2-Dichlorovinyl)glutathione
+            C14869  Trichloroethanol glucuronide
+            C14870  2-Bromoacetaldehyde
+            C14871  S-(Formylmethyl)glutathione
+            C14872  Thiodiacetic acid
+            C14873  Thiodiacetic acid sulfoxide
+            C14874  Glutathione episulfonium ion
+            C14875  S-(2-Hydroxyethyl)glutathione
+            C14876  S-(2-Hydroxyethyl)-N-acetyl-L-cysteine
+            C14877  S-[2-(N7-Guanyl)ethyl]-N-acetyl-L-cysteine
+            C16453  4-(N-Nitrosomethylamino)-1-(3-pyridyl)-1-butanone
+            C16756  Aflatoxin M1
+            C19488  7,12-Dimethylbenz[a]anthracene
+            C19489  1a,11b-Dihydro-4,9-dimethylbenz[a]anthra[3,4-b]oxirene
+            C19490  trans-3,4-Dihydro-3,4-dihydroxy-7,12-dimethylbenz[a]anthracene
+            C19559  (1aalpha,2beta,3alpha,11calpha)-1a,2,3,11c-Tetrahydro-6,11-dimethylbenzo[6,7]phenanthro[3,4-b]oxirene-2,3-diol
+            C19561  7-Hydroxymethyl-12-methylbenz[a]anthracene
+            C19562  7-Hydroxymethyl-12-methylbenz[a]anthracene sulfate
+            C19563  4-[(Hydroxymethyl)nitrosoamino]-1-(3-pyridinyl)-1-butanone
+            C19564  4-(Nitrosoamino)-1-(3-pyridinyl)-1-butanone
+            C19565  4-Hydroxy-1-(3-pyridinyl)-1-butanone
+            C19566  4-Hydroxy-4-(methylnitrosoamino)-1-(3-pyridinyl)-1-butanone
+            C19567  4-Oxo-1-(3-pyridyl)-1-butanone
+            C19568  N-Nitrosomethanamine
+            C19569  3-Succinoylpyridine
+            C19574  4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol
+            C19577  1-(Methylnitrosoamino)-4-(3-pyridinyl)-1,4-butanediol
+            C19578  5-(3-Pyridyl)-2-hydroxytetrahydrofuran
+            C19579  gamma-Hydroxy-3-pyridinebutanoate
+            C19580  alpha-[3-[(Hydroxymethyl)nitrosoamino]propyl]-3-pyridinemethanol
+            C19581  alpha-[3-(Nitrosoamino)propyl]-3-pyridinemethanol
+            C19582  1-(3-Pyridinyl)-1,4-butanediol
+            C19585  Aflatoxin Q1
+            C19586  Aflatoxin B1-exo-8,9-epoxide
+            C19588  Aflatoxin B1 diol
+            C19589  Aflatoxin B1 dialdehyde
+            C19590  6-[2,3-Dihydroxy-1-(hydroxymethyl)propyl]-1,2-dihydro-7-hydroxy-9-methoxy-cyclopenta[c][1]benzopyran-3,4-dione
+            C19591  1,2,3,4-Tetrahydro-alpha,7-dihydroxy-beta-(hydroxymethyl)-9-methoxy-3,4-dioxocyclopenta[c][1]benzopyran-6-propanal
+            C19592  alpha-(1,2-Dihydroxyethyl)-1,2,3,4-tetrahydro-7-hydroxy-9-methoxy-3,4-dioxocyclopenta[c][1]benzopyran-6-acetaldehyde
+            C19594  Aflatoxin-M1-8,9-epoxide
+            C19595  Aflatoxin B1-endo-8,9-epoxide
+            C19602  4-(Methylnitrosamino)-1-(1-oxido-3-pyridinyl)-1-butanone
+            C19603  4-(Methylnitrosamino)-1-(3-pyridyl-N-oxide)-1-butanol
+            C19604  7,12-Dimethylbenz[a]anthracene 5,6-oxide
+            C19605  4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol glucuronide
+            C19606  NNAL-N-glucuronide
+            C19607  trans-5,6-Dihydro-5,6-dihydroxy-7,12-dimethylbenz[a]anthracene
+REFERENCE   PMID:12487150
+  AUTHORS   Buckpitt A, Boland B, Isbell M, Morin D, Shultz M, Baldwin R, Chan K, Karlsson A, Lin C, Taff A, West J, Fanucchi M, Van Winkle L, Plopper C.
+  TITLE     Naphthalene-induced respiratory tract toxicity: metabolic mechanisms of toxicity.
+  JOURNAL   Drug Metab Rev 34:791-820 (2002)
+            DOI:10.1081/DMR-120015694
+REFERENCE   PMID:10725110
+  AUTHORS   Bolton JL, Trush MA, Penning TM, Dryhurst G, Monks TJ.
+  TITLE     Role of quinones in toxicology.
+  JOURNAL   Chem Res Toxicol 13:135-60 (2000)
+            DOI:10.1021/tx9902082
+REFERENCE   PMID:10570027
+  AUTHORS   Halladay JS, Sauer JM, Sipes IG.
+  TITLE     Metabolism and disposition of [(14)C]1-nitronaphthalene in male Sprague-Dawley rats.
+  JOURNAL   Drug Metab Dispos 27:1456-65 (1999)
+REFERENCE   PMID:10490505
+  AUTHORS   Watt KC, Morin DM, Kurth MJ, Mercer RS, Plopper CG, Buckpitt AR.
+  TITLE     Glutathione conjugation of electrophilic metabolites of 1-nitronaphthalene in rat tracheobronchial airways and liver: identification by mass spectrometry and proton nuclear magnetic resonance spectroscopy.
+  JOURNAL   Chem Res Toxicol 12:831-9 (1999)
+            DOI:10.1021/tx990023v
+REFERENCE   PMID:15319346
+  AUTHORS   Simmonds AC, Reilly CA, Baldwin RM, Ghanayem BI, Lanza DL, Yost GS, Collins KS, Forkert PG.
+  TITLE     Bioactivation of 1,1-dichloroethylene to its epoxide by CYP2E1 and CYP2F enzymes.
+  JOURNAL   Drug Metab Dispos 32:1032-9 (2004)
+REFERENCE   PMID:15987776
+  AUTHORS   Forkert PG, Baldwin RM, Millen B, Lash LH, Putt DA, Shultz MA, Collins KS.
+  TITLE     Pulmonary bioactivation of trichloroethylene to chloral hydrate: relative contributions of CYP2E1, CYP2F, and CYP2B1.
+  JOURNAL   Drug Metab Dispos 33:1429-37 (2005)
+            DOI:10.1124/dmd.105.005074
+REFERENCE   PMID:9107551
+  AUTHORS   Wormhoudt LW, Commandeur JN, Ploemen JH, Abdoelgafoer RS, Makansi A, Van Bladeren PJ, Vermeulen NP.
+  TITLE     Urinary thiodiacetic acid. A selective biomarker for the cytochrome P450-catalyzed oxidation of 1,2-dibromoethane in the rat.
+  JOURNAL   Drug Metab Dispos 25:508-15 (1997)
+REFERENCE   PMID:4395686
+  AUTHORS   Brodie BB, Reid WD, Cho AK, Sipes G, Krishna G, Gillette JR.
+  TITLE     Possible mechanism of liver necrosis caused by aromatic organic compounds.
+  JOURNAL   Proc Natl Acad Sci U S A 68:160-4 (1971)
+            DOI:10.1073/pnas.68.1.160
+REFERENCE   PMID:15298956
+  AUTHORS   Lodovici M, Luceri C, Guglielmi F, Bacci C, Akpan V, Fonnesu ML, Boddi V, Dolara P.
+  TITLE     Benzo(a)pyrene diolepoxide (BPDE)-DNA adduct levels in leukocytes of smokers in relation to polymorphism of CYP1A1, GSTM1, GSTP1, GSTT1, and mEH.
+  JOURNAL   Cancer Epidemiol Biomarkers Prev 13:1342-8 (2004)
+REFERENCE   
+  AUTHORS   Omura T, Ishimura Y, Fujii Y (eds).
+  TITLE     [Molecular Biology of P450] (In Japanese)
+  JOURNAL   Kodansya (2003)
+KO_PATHWAY  ko00980
+///

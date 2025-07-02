@@ -1,0 +1,151 @@
+ENTRY       hsa00630                    Pathway
+NAME        Glyoxylate and dicarboxylate metabolism - Homo sapiens (human)
+CLASS       Metabolism; Carbohydrate metabolism
+PATHWAY_MAP hsa00630  Glyoxylate and dicarboxylate metabolism
+MODULE      hsa_M00741  Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA [PATH:hsa00630]
+DRUG        D11925  Lumasiran (USAN/INN)
+            D11926  Lumasiran sodium
+DBLINKS     GO: 0046487 0043648
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        84532  ACSS1; acyl-CoA synthetase short chain family member 1 [KO:K01895] [EC:6.2.1.1]
+            55902  ACSS2; acyl-CoA synthetase short chain family member 2 [KO:K01895] [EC:6.2.1.1]
+            4190  MDH1; malate dehydrogenase 1 [KO:K00025] [EC:1.1.1.37]
+            4191  MDH2; malate dehydrogenase 2 [KO:K00026] [EC:1.1.1.37]
+            1431  CS; citrate synthase [KO:K01647] [EC:2.3.3.1]
+            50  ACO2; aconitase 2 [KO:K01681] [EC:4.2.1.3]
+            48  ACO1; aconitase 1 [KO:K01681] [EC:4.2.1.3]
+            39  ACAT2; acetyl-CoA acetyltransferase 2 [KO:K00626] [EC:2.3.1.9]
+            38  ACAT1; acetyl-CoA acetyltransferase 1 [KO:K00626] [EC:2.3.1.9]
+            84693  MCEE; methylmalonyl-CoA epimerase [KO:K05606] [EC:5.1.99.1]
+            5095  PCCA; propionyl-CoA carboxylase subunit alpha [KO:K01965] [EC:6.4.1.3]
+            5096  PCCB; propionyl-CoA carboxylase subunit beta [KO:K01966] [EC:6.4.1.3 2.1.3.15]
+            4594  MMUT; methylmalonyl-CoA mutase [KO:K01847] [EC:5.4.99.2]
+            51179  HAO2; hydroxyacid oxidase 2 [KO:K11517] [EC:1.1.3.15]
+            54363  HAO1; hydroxyacid oxidase 1 [KO:K11517] [EC:1.1.3.15]
+            847  CAT; catalase [KO:K03781] [EC:1.11.1.6]
+            9380  GRHPR; glyoxylate and hydroxypyruvate reductase [KO:K00049] [EC:1.1.1.79 1.1.1.81]
+            283871  PGP; phosphoglycolate phosphatase [KO:K19269] [EC:3.1.3.18 3.1.3.48]
+            189  AGXT; alanine--glyoxylate aminotransferase [KO:K00830] [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+            2752  GLUL; glutamate-ammonia ligase [KO:K01915] [EC:6.3.1.2]
+            6472  SHMT2; serine hydroxymethyltransferase 2 [KO:K00600] [EC:2.1.2.1]
+            6470  SHMT1; serine hydroxymethyltransferase 1 [KO:K00600] [EC:2.1.2.1]
+            2731  GLDC; glycine decarboxylase [KO:K00281] [EC:1.4.4.2]
+            275  AMT; aminomethyltransferase [KO:K00605] [EC:2.1.2.10]
+            1738  DLD; dihydrolipoamide dehydrogenase [KO:K00382] [EC:1.8.1.4]
+            2653  GCSH; glycine cleavage system protein H [KO:K02437]
+            81888  HYI; hydroxypyruvate isomerase (putative) [KO:K01816] [EC:5.3.1.22]
+            132158  GLYCTK; glycerate kinase [KO:K11529] [EC:2.7.1.165]
+            112817  HOGA1; 4-hydroxy-2-oxoglutarate aldolase 1 [KO:K18123] [EC:4.1.3.16]
+            125061  AFMID; arylformamidase [KO:K01432] [EC:3.5.1.9]
+COMPOUND    C00007  Oxygen
+            C00011  CO2
+            C00014  Ammonia
+            C00022  Pyruvate
+            C00024  Acetyl-CoA
+            C00025  L-Glutamate
+            C00026  2-Oxoglutarate
+            C00027  Hydrogen peroxide
+            C00033  Acetate
+            C00036  Oxaloacetate
+            C00037  Glycine
+            C00042  Succinate
+            C00048  Glyoxylate
+            C00058  Formate
+            C00064  L-Glutamine
+            C00065  L-Serine
+            C00091  Succinyl-CoA
+            C00100  Propanoyl-CoA
+            C00111  Glycerone phosphate
+            C00136  Butanoyl-CoA
+            C00149  (S)-Malate
+            C00158  Citrate
+            C00160  Glycolate
+            C00168  Hydroxypyruvate
+            C00197  3-Phospho-D-glycerate
+            C00209  Oxalate
+            C00258  D-Glycerate
+            C00266  Glycolaldehyde
+            C00311  Isocitrate
+            C00313  Oxalyl-CoA
+            C00332  Acetoacetyl-CoA
+            C00417  cis-Aconitate
+            C00552  meso-Tartaric acid
+            C00631  2-Phospho-D-glycerate
+            C00683  (S)-Methylmalonyl-CoA
+            C00798  Formyl-CoA
+            C00877  Crotonoyl-CoA
+            C00888  Pentanoyl-CoA
+            C00898  (R,R)-Tartaric acid
+            C00975  Dihydroxyfumarate
+            C00988  2-Phosphoglycolate
+            C01127  4-Hydroxy-2-oxoglutarate
+            C01146  2-Hydroxy-3-oxopropanoate
+            C01182  D-Ribulose 1,5-bisphosphate
+            C01213  (R)-Methylmalonyl-CoA
+            C01380  Ethylene glycol
+            C01732  Mesaconate
+            C01989  3-Ethylmalate
+            C01990  3-Oxalomalate
+            C02123  3-Propylmalate
+            C02405  Formyl phosphate
+            C03217  2-Hydroxy-3-oxoadipate
+            C03459  2-Hydroxy-3-oxosuccinate
+            C03548  trans-2,3-Epoxysuccinate
+            C03561  (R)-3-Hydroxybutanoyl-CoA
+            C03618  L-threo-3-Methylaspartate
+            C04348  L-Malyl-CoA
+            C06027  L-erythro-3-Methylmalyl-CoA
+            C06028  2-Methylfumaryl-CoA
+            C06049  N-Formylderivatives
+            C18026  (2S)-Ethylmalonyl-CoA
+            C18324  (2S)-Methylsuccinyl-CoA
+            C20238  (2R)-Ethylmalonyl-CoA
+            C22337  D-Ribulose 1-phosphate
+REFERENCE   PMID:10978349
+  AUTHORS   Njau RK, Herndon CA, Hawes JW.
+  TITLE     Novel beta-hydroxyacid dehydrogenases in Escherichia coli and Haemophilus influenzae.
+  JOURNAL   J Biol Chem 275:38780-6 (2000)
+            DOI:10.1074/jbc.M007432200
+REFERENCE   PMID:18065535
+  AUTHORS   Zarzycki J, Schlichting A, Strychalsky N, Muller M, Alber BE, Fuchs G
+  TITLE     Mesaconyl-coenzyme A hydratase, a new enzyme of two central carbon metabolic pathways in bacteria.
+  JOURNAL   J Bacteriol 190:1366-74 (2008)
+            DOI:10.1128/JB.01621-07
+REFERENCE   PMID:18819910
+  AUTHORS   Erb TJ, Retey J, Fuchs G, Alber BE
+  TITLE     Ethylmalonyl-CoA mutase from Rhodobacter sphaeroides defines a new subclade of coenzyme B12-dependent acyl-CoA mutases.
+  JOURNAL   J Biol Chem 283:32283-93 (2008)
+            DOI:10.1074/jbc.M805527200
+REFERENCE   PMID:9596633
+  AUTHORS   Coschigano KT, Melo-Oliveira R, Lim J, Coruzzi GM
+  TITLE     Arabidopsis gls mutants and distinct Fd-GOGAT genes. Implications for photorespiration and primary nitrogen assimilation.
+  JOURNAL   Plant Cell 10:741-52 (1998)
+            DOI:10.1105/tpc.10.5.741
+REFERENCE   PMID:16407450
+  AUTHORS   Masclaux-Daubresse C, Reisdorf-Cren M, Pageau K, Lelandais M, Grandjean O, Kronenberger J, Valadier MH, Feraud M, Jouglet T, Suzuki A
+  TITLE     Glutamine synthetase-glutamate synthase pathway and glutamate dehydrogenase play distinct roles in the sink-source nitrogen cycle in tobacco.
+  JOURNAL   Plant Physiol 140:444-56 (2006)
+            DOI:10.1104/pp.105.071910
+REFERENCE   PMID:21252347
+  AUTHORS   Khomyakova M, Bukmez O, Thomas LK, Erb TJ, Berg IA
+  TITLE     A methylaspartate cycle in haloarchaea.
+  JOURNAL   Science 331:334-7 (2011)
+            DOI:10.1126/science.1196544
+REFERENCE   PMID:11513957
+  AUTHORS   Serrano JA, Bonete MJ
+  TITLE     Sequencing, phylogenetic and transcriptional analysis of the glyoxylate bypass operon (ace) in the halophilic archaeon Haloferax volcanii.
+  JOURNAL   Biochim Biophys Acta 1520:154-62 (2001)
+            DOI:10.1016/S0167-4781(01)00263-9
+REL_PATHWAY hsa00010  Glycolysis / Gluconeogenesis
+            hsa00020  Citrate cycle (TCA cycle)
+            hsa00030  Pentose phosphate pathway
+            hsa00053  Ascorbate and aldarate metabolism
+            hsa00071  Fatty acid degradation
+            hsa00230  Purine metabolism
+            hsa00250  Alanine, aspartate and glutamate metabolism
+            hsa00260  Glycine, serine and threonine metabolism
+            hsa00620  Pyruvate metabolism
+            hsa00750  Vitamin B6 metabolism
+            hsa00910  Nitrogen metabolism
+KO_PATHWAY  ko00630
+///

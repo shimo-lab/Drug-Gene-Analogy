@@ -1,0 +1,147 @@
+ENTRY       hsa00510                    Pathway
+NAME        N-Glycan biosynthesis - Homo sapiens (human)
+DESCRIPTION N-glycans or asparagine-linked glycans are major constituents of glycoproteins in eukaryotes. N-glycans are covalently attached to asparagine with the consensus sequence of Asn-X-Ser/Thr by an N-glycosidic bond, GlcNAc b1- Asn. Biosynthesis of N-glycans begins on the cytoplasmic face of the ER membrane with the transferase reaction of UDP-GlcNAc and the lipid-like precursor P-Dol (dolichol phosphate) to generate GlcNAc a1- PP-Dol. After sequential addition of monosaccharides by ALG glycosyltransferases [MD:M00055], the N-glycan precursor is attached by the OST (oligosaccharyltransferase) complex to the polypeptide chain that is being synthesized and translocated through the ER membrane. The protein-bound N-glycan precursor is subsequently trimmed, extended, and modified in the ER and Golgi by a complex series of reactions catalyzed by membrane-bound glycosidases and glycosyltransferases. N-glycans thus synthesized are classified into three types: high-mannose type, complex type, and hybrid type. Defects in N-glycan biosynthesis lead to a variety of human diseases known as congenital disorders of glycosylation [DS:H00118 H00119].
+CLASS       Metabolism; Glycan biosynthesis and metabolism
+PATHWAY_MAP hsa00510  N-Glycan biosynthesis
+MODULE      hsa_M00055  N-glycan precursor biosynthesis [PATH:hsa00510]
+            hsa_M00072  N-glycosylation by oligosaccharyltransferase [PATH:hsa00510]
+            hsa_M00073  N-glycan precursor trimming [PATH:hsa00510]
+            hsa_M00075  N-glycan biosynthesis, complex type [PATH:hsa00510]
+NETWORK     nt06015  N-Glycan biosynthesis
+  ELEMENT   N00653  N-Glycan precursor biosynthesis, ALG7 to ALG11
+            N00667  N-Glycan precursor biosynthesis, Glc-6P to Man-P-Dol
+            N00675  N-Glycan precursor biosynthesis, farnesy-PP to P-Dol
+            N00680  N-Glycan precursor biosynthesis, ALG3 to ALG9
+            N00681  N-Glycan precursor biosynthesis, ALG6 to OST
+            N00682  N-Glycan precursor biosynthesis, P-Dol to Glc-P-Dol
+            N00820  N-Glycan biosynthesis
+DBLINKS     GO: 0006487
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        79644  SRD5A3; steroid 5 alpha-reductase 3 [KO:K12345] [EC:1.3.1.22 1.3.1.94]
+            22845  DOLK; dolichol kinase [KO:K00902] [EC:2.7.1.108]
+            1798  DPAGT1; dolichyl-phosphate N-acetylglucosaminephosphotransferase 1 [KO:K01001] [EC:2.7.8.15]
+            29880  ALG5; ALG5 dolichyl-phosphate beta-glucosyltransferase [KO:K00729] [EC:2.4.1.117]
+            79868  ALG13; ALG13 UDP-N-acetylglucosaminyltransferase subunit [KO:K07432] [EC:2.4.1.141]
+            199857  ALG14; ALG14 UDP-N-acetylglucosaminyltransferase subunit [KO:K07441] [EC:2.4.1.141]
+            8813  DPM1; dolichyl-phosphate mannosyltransferase subunit 1, catalytic [KO:K00721] [EC:2.4.1.83]
+            8818  DPM2; dolichyl-phosphate mannosyltransferase subunit 2, regulatory [KO:K09658]
+            54344  DPM3; dolichyl-phosphate mannosyltransferase subunit 3, regulatory [KO:K09659]
+            56052  ALG1; ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase [KO:K03842] [EC:2.4.1.142]
+            85365  ALG2; ALG2 alpha-1,3/1,6-mannosyltransferase [KO:K03843] [EC:2.4.1.132 2.4.1.257]
+            440138  ALG11; ALG11 alpha-1,2-mannosyltransferase [KO:K03844] [EC:2.4.1.131]
+            10195  ALG3; ALG3 alpha-1,3- mannosyltransferase [KO:K03845] [EC:2.4.1.258]
+            79796  ALG9; ALG9 alpha-1,2-mannosyltransferase [KO:K03846] [EC:2.4.1.259 2.4.1.261]
+            79087  ALG12; ALG12 alpha-1,6-mannosyltransferase [KO:K03847] [EC:2.4.1.260]
+            29929  ALG6; ALG6 alpha-1,3-glucosyltransferase [KO:K03848] [EC:2.4.1.267]
+            79053  ALG8; ALG8 alpha-1,3-glucosyltransferase [KO:K03849] [EC:2.4.1.265]
+            84920  ALG10; ALG10 alpha-1,2-glucosyltransferase [KO:K03850] [EC:2.4.1.256]
+            144245  ALG10B; ALG10 alpha-1,2-glucosyltransferase B [KO:K03850] [EC:2.4.1.256]
+            3703  STT3A; STT3 oligosaccharyltransferase complex catalytic subunit A [KO:K07151] [EC:2.4.99.18]
+            201595  STT3B; STT3 oligosaccharyltransferase complex catalytic subunit B [KO:K07151] [EC:2.4.99.18]
+            6184  RPN1; ribophorin I [KO:K12666]
+            6185  RPN2; ribophorin II [KO:K12667]
+            1603  DAD1; defender against cell death 1 [KO:K12668]
+            7991  TUSC3; tumor suppressor candidate 3 [KO:K12669]
+            1650  DDOST; dolichyl-diphosphooligosaccharide--protein glycosyltransferase non-catalytic subunit [KO:K12670]
+            57171  DOLPP1; dolichyldiphosphatase 1 [KO:K07252] [EC:3.6.1.43]
+            7841  MOGS; mannosyl-oligosaccharide glucosidase [KO:K01228] [EC:3.2.1.106]
+            23193  GANAB; glucosidase II alpha subunit [KO:K05546] [EC:3.2.1.207]
+            11253  MAN1B1; mannosidase alpha class 1B member 1 [KO:K23741] [EC:3.2.1.209]
+            10905  MAN1A2; mannosidase alpha class 1A member 2 [KO:K01230] [EC:3.2.1.113]
+            57134  MAN1C1; mannosidase alpha class 1C member 1 [KO:K01230] [EC:3.2.1.113]
+            4121  MAN1A1; mannosidase alpha class 1A member 1 [KO:K01230] [EC:3.2.1.113]
+            4245  MGAT1; alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase [KO:K00726] [EC:2.4.1.101]
+            4124  MAN2A1; mannosidase alpha class 2A member 1 [KO:K01231] [EC:3.2.1.114]
+            4122  MAN2A2; mannosidase alpha class 2A member 2 [KO:K01231] [EC:3.2.1.114]
+            4247  MGAT2; alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase [KO:K00736] [EC:2.4.1.143]
+            2530  FUT8; fucosyltransferase 8 [KO:K00717] [EC:2.4.1.68]
+            2683  B4GALT1; beta-1,4-galactosyltransferase 1 [KO:K07966] [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+            8704  B4GALT2; beta-1,4-galactosyltransferase 2 [KO:K07967] [EC:2.4.1.22 2.4.1.90 2.4.1.38 2.4.1.-]
+            8703  B4GALT3; beta-1,4-galactosyltransferase 3 [KO:K07968] [EC:2.4.1.90 2.4.1.38 2.4.1.-]
+            6480  ST6GAL1; ST6 beta-galactoside alpha-2,6-sialyltransferase 1 [KO:K00778] [EC:2.4.3.1]
+            84620  ST6GAL2; ST6 beta-galactoside alpha-2,6-sialyltransferase 2 [KO:K00779] [EC:2.4.3.1]
+            4248  MGAT3; beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase [KO:K00737] [EC:2.4.1.144]
+            11320  MGAT4A; alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A [KO:K00738] [EC:2.4.1.145]
+            11282  MGAT4B; alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase B [KO:K00738] [EC:2.4.1.145]
+            152586  MGAT4D; MGAT4 family member D [KO:K00738] [EC:2.4.1.145]
+            4249  MGAT5; alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase [KO:K00744] [EC:2.4.1.155]
+            146664  MGAT5B; alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase B [KO:K09661] [EC:2.4.1.-]
+            25834  MGAT4C; MGAT4 family member C [KO:K13748] [EC:2.4.1.201 2.4.1.145]
+COMPOUND    C00096  GDP-mannose
+            C00110  Dolichyl phosphate
+            C00381  Dolichol
+            C00621  Dolichyl diphosphate
+            C01246  Dolichyl beta-D-glucosyl phosphate
+            C03021  Protein asparagine
+            C03862  Dolichyl phosphate D-mannose
+            C06081  Polyprenol
+            G00001  N-Acetyl-D-glucosaminyldiphosphodolichol
+            G00002  N,N'-Chitobiosyldiphosphodolichol
+            G00003
+            G00004
+            G00005
+            G00006
+            G00007
+            G00008
+            G00009
+            G00010
+            G00011
+            G00012
+            G00013
+            G00014
+            G00015
+            G00016
+            G00017
+            G00018  DS 3
+            G00019
+            G00020
+            G00021
+            G00022
+            G00171
+            G10526
+            G10595
+            G10596
+            G10597
+            G10598
+            G10599
+            G10694
+REFERENCE   PMID:9111134
+  AUTHORS   Schutzbach JS.
+  TITLE     The role of the lipid matrix in the biosynthesis of dolichyl-linked oligosaccharides.
+  JOURNAL   Glycoconj J 14:175-82 (1997)
+            DOI:10.1023/A:1018533620002
+REFERENCE   PMID:12200473
+  AUTHORS   Oriol R, Martinez-Duncker I, Chantret I, Mollicone R, Codogno P.
+  TITLE     Common origin and evolution of glycosyltransferases using Dol-P-monosaccharides as donor substrate.
+  JOURNAL   Mol Biol Evol 19:1451-63 (2002)
+            DOI:10.1093/oxfordjournals.molbev.a004208
+REFERENCE   PMID:12684507
+  AUTHORS   Thiel C, Schwarz M, Peng J, Grzmil M, Hasilik M, Braulke T, Kohlschutter A, von Figura K, Lehle L, Korner C.
+  TITLE     A new type of congenital disorders of glycosylation (CDG-Ii) provides new insights into the early steps of dolichol-linked oligosaccharide biosynthesis.
+  JOURNAL   J Biol Chem 278:22498-505 (2003)
+            DOI:10.1074/jbc.M302850200
+REFERENCE   PMID:11278778
+  AUTHORS   Cipollo JF, Trimble RB, Chi JH, Yan Q, Dean N.
+  TITLE     The yeast ALG11 gene specifies addition of the terminal alpha 1,2-Man to the Man5GlcNAc2-PP-dolichol N-glycosylation intermediate formed on the cytosolic side of the endoplasmic reticulum.
+  JOURNAL   J Biol Chem 276:21828-40 (2001)
+            DOI:10.1074/jbc.M010896200
+REFERENCE   PMID:15987956
+  AUTHORS   Frank CG, Aebi M.
+  TITLE     ALG9 mannosyltransferase is involved in two different steps of lipid-linked oligosaccharide biosynthesis.
+  JOURNAL   Glycobiology 15:1156-63 (2005)
+            DOI:10.1093/glycob/cwj002
+REFERENCE   PMID:16878994
+  AUTHORS   O'Reilly MK, Zhang G, Imperiali B.
+  TITLE     In vitro evidence for the dual function of Alg2 and Alg11: essential mannosyltransferases in N-linked glycoprotein biosynthesis.
+  JOURNAL   Biochemistry 45:9593-603 (2006)
+            DOI:10.1021/bi060878o
+REL_PATHWAY hsa00051  Fructose and mannose metabolism
+            hsa00511  Other glycan degradation
+            hsa00513  Various types of N-glycan biosynthesis
+            hsa00515  Mannose type O-glycan biosynthesis
+            hsa00520  Amino sugar and nucleotide sugar metabolism
+            hsa00533  Glycosaminoglycan biosynthesis - keratan sulfate
+            hsa00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+            hsa00900  Terpenoid backbone biosynthesis
+KO_PATHWAY  ko00510
+///

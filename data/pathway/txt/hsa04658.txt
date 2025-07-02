@@ -1,0 +1,222 @@
+ENTRY       hsa04658                    Pathway
+NAME        Th1 and Th2 cell differentiation - Homo sapiens (human)
+DESCRIPTION Immunity to different classes of microorganisms is orchestrated by separate lineages of effector T helper (TH)-cells, which differentiate from naive CD4+ precursor cells in response to cues provided by antigen presenting cells (APC) and include T helper type 1 (Th1) and Th2. Th1 cells are characterized by the transcription factor T-bet and signal transducer and activator of transcription (STAT) 4, and the production of IFN-gamma. These cells stimulate strong cell-mediated immune responses, particularly against intracellular pathogens. On the other hand, transcription factors like GATA-3 and STAT6 drive the generation of Th2 cells that produce IL-4, IL-5 and IL-13 and are necessary for inducing the humoral response to combat parasitic helminths (type 2 immunity) and isotype switching to IgG1 and IgE. The balance between Th1/Th2 subsets determines the susceptibility to disease states, where the improper development of Th2 cells can lead to allergy, while an overactive Th1 response can lead to autoimmunity.
+CLASS       Organismal Systems; Immune system
+PATHWAY_MAP hsa04658  Th1 and Th2 cell differentiation
+DRUG        D00107  Tacrolimus (USP/INN)
+            D00184  Cyclosporine (USP)
+            D05092  Muromonab-CD3 (JAN/USAN/INN)
+            D05480  Pimecrolimus (JAN/USAN/INN)
+            D08556  Tacrolimus (INN)
+            D09013  Teplizumab (USAN/INN)
+            D09033  Voclosporin (JAN/USAN/INN)
+            D09190  Anti-human thymocyte immunoglobulin, rabbit (JAN)
+            D10871  Filgotinib (USAN/INN)
+            D10872  Filgotinib hydrochloride (USAN)
+            D10981  Rovalpituzumab tesirine (USAN/INN)
+            D11046  Delgocitinib (JAN/USAN)
+            D11106  Filgotinib maleate (JAN/USAN)
+            D11117  Rovalpituzumab (USAN)
+            D11400  Abrocitinib (JAN/USAN)
+            D11537  Brepocitinib (USAN)
+            D11538  Brepocitinib tosylate (USAN)
+            D11817  Deucravacitinib (JAN/USAN)
+            D12118  Nezulcitinib (USAN)
+            D12211  Ivarmacitinib (USAN)
+            D12212  Ivarmacitinib sulfate (USAN)
+            D12368  Epcoritamab (USAN/INN)
+DBLINKS     GO: 0045063  0045064
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10683  DLL3; delta like canonical Notch ligand 3 [KO:K06051]
+            28514  DLL1; delta like canonical Notch ligand 1 [KO:K06051]
+            54567  DLL4; delta like canonical Notch ligand 4 [KO:K06051]
+            4854  NOTCH3; notch receptor 3 [KO:K20995]
+            55534  MAML3; mastermind like transcriptional coactivator 3 [KO:K06061]
+            84441  MAML2; mastermind like transcriptional coactivator 2 [KO:K06061]
+            9794  MAML1; mastermind like transcriptional coactivator 1 [KO:K06061]
+            11317  RBPJL; recombination signal binding protein for immunoglobulin kappa J region like [KO:K06053]
+            3516  RBPJ; recombination signal binding protein for immunoglobulin kappa J region [KO:K06053]
+            4790  NFKB1; nuclear factor kappa B subunit 1 [KO:K02580]
+            5970  RELA; RELA proto-oncogene, NF-kB subunit [KO:K04735]
+            3458  IFNG; interferon gamma [KO:K04687]
+            3459  IFNGR1; interferon gamma receptor 1 [KO:K05132]
+            3460  IFNGR2; interferon gamma receptor 2 [KO:K05133]
+            3716  JAK1; Janus kinase 1 [KO:K11217] [EC:2.7.10.2]
+            3717  JAK2; Janus kinase 2 [KO:K04447] [EC:2.7.10.2]
+            6772  STAT1; signal transducer and activator of transcription 1 [KO:K11220]
+            3592  IL12A; interleukin 12A [KO:K05406]
+            3593  IL12B; interleukin 12B [KO:K05425]
+            3594  IL12RB1; interleukin 12 receptor subunit beta 1 [KO:K05063]
+            3595  IL12RB2; interleukin 12 receptor subunit beta 2 [KO:K05064]
+            7297  TYK2; tyrosine kinase 2 [KO:K11219] [EC:2.7.10.2]
+            6775  STAT4; signal transducer and activator of transcription 4 [KO:K11222]
+            30009  TBX21; T-box transcription factor 21 [KO:K10166]
+            864  RUNX3; RUNX family transcription factor 3 [KO:K09279]
+            3108  HLA-DMA; major histocompatibility complex, class II, DM alpha [KO:K06752]
+            3109  HLA-DMB; major histocompatibility complex, class II, DM beta [KO:K06752]
+            3111  HLA-DOA; major histocompatibility complex, class II, DO alpha [KO:K06752]
+            3112  HLA-DOB; major histocompatibility complex, class II, DO beta [KO:K06752]
+            3113  HLA-DPA1; major histocompatibility complex, class II, DP alpha 1 [KO:K06752]
+            3115  HLA-DPB1; major histocompatibility complex, class II, DP beta 1 [KO:K06752]
+            3117  HLA-DQA1; major histocompatibility complex, class II, DQ alpha 1 [KO:K06752]
+            3118  HLA-DQA2; major histocompatibility complex, class II, DQ alpha 2 [KO:K06752]
+            3119  HLA-DQB1; major histocompatibility complex, class II, DQ beta 1 [KO:K06752]
+            3122  HLA-DRA; major histocompatibility complex, class II, DR alpha [KO:K06752]
+            3123  HLA-DRB1; major histocompatibility complex, class II, DR beta 1 [KO:K06752]
+            3125  HLA-DRB3; major histocompatibility complex, class II, DR beta 3 [KO:K06752]
+            3126  HLA-DRB4; major histocompatibility complex, class II, DR beta 4 [KO:K06752]
+            3127  HLA-DRB5; major histocompatibility complex, class II, DR beta 5 [KO:K06752]
+            920  CD4; CD4 molecule [KO:K06454]
+            3932  LCK; LCK proto-oncogene, Src family tyrosine kinase [KO:K05856] [EC:2.7.10.2]
+            916  CD3E; CD3 epsilon subunit of T-cell receptor complex [KO:K06451]
+            917  CD3G; CD3 gamma subunit of T-cell receptor complex [KO:K06452]
+            919  CD247; CD247 molecule [KO:K06453]
+            915  CD3D; CD3 delta subunit of T-cell receptor complex [KO:K06450]
+            7535  ZAP70; zeta chain of T cell receptor associated protein kinase 70 [KO:K07360] [EC:2.7.10.2]
+            27040  LAT; linker for activation of T cells [KO:K07362]
+            5335  PLCG1; phospholipase C gamma 1 [KO:K01116] [EC:3.1.4.11]
+            5530  PPP3CA; protein phosphatase 3 catalytic subunit alpha [KO:K04348] [EC:3.1.3.16]
+            5532  PPP3CB; protein phosphatase 3 catalytic subunit beta [KO:K04348] [EC:3.1.3.16]
+            5533  PPP3CC; protein phosphatase 3 catalytic subunit gamma [KO:K04348] [EC:3.1.3.16]
+            5534  PPP3R1; protein phosphatase 3 regulatory subunit B, alpha [KO:K06268]
+            5535  PPP3R2; protein phosphatase 3 regulatory subunit B, beta [KO:K06268]
+            4772  NFATC1; nuclear factor of activated T cells 1 [KO:K04446]
+            4773  NFATC2; nuclear factor of activated T cells 2 [KO:K17332]
+            4775  NFATC3; nuclear factor of activated T cells 3 [KO:K17333]
+            5588  PRKCQ; protein kinase C theta [KO:K18052] [EC:2.7.11.13]
+            1147  CHUK; component of inhibitor of nuclear factor kappa B kinase complex [KO:K04467] [EC:2.7.11.10]
+            3551  IKBKB; inhibitor of nuclear factor kappa B kinase subunit beta [KO:K07209] [EC:2.7.11.10]
+            8517  IKBKG; inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [KO:K07210]
+            4792  NFKBIA; NFKB inhibitor alpha [KO:K04734]
+            4793  NFKBIB; NFKB inhibitor beta [KO:K02581]
+            4794  NFKBIE; NFKB inhibitor epsilon [KO:K05872]
+            5594  MAPK1; mitogen-activated protein kinase 1 [KO:K04371] [EC:2.7.11.24]
+            5595  MAPK3; mitogen-activated protein kinase 3 [KO:K04371] [EC:2.7.11.24]
+            2353  FOS; Fos proto-oncogene, AP-1 transcription factor subunit [KO:K04379]
+            5600  MAPK11; mitogen-activated protein kinase 11 [KO:K04441] [EC:2.7.11.24]
+            6300  MAPK12; mitogen-activated protein kinase 12 [KO:K04441] [EC:2.7.11.24]
+            5603  MAPK13; mitogen-activated protein kinase 13 [KO:K04441] [EC:2.7.11.24]
+            1432  MAPK14; mitogen-activated protein kinase 14 [KO:K04441] [EC:2.7.11.24]
+            5599  MAPK8; mitogen-activated protein kinase 8 [KO:K04440] [EC:2.7.11.24]
+            5602  MAPK10; mitogen-activated protein kinase 10 [KO:K04440] [EC:2.7.11.24]
+            5601  MAPK9; mitogen-activated protein kinase 9 [KO:K04440] [EC:2.7.11.24]
+            3725  JUN; Jun proto-oncogene, AP-1 transcription factor subunit [KO:K04448]
+            3558  IL2; interleukin 2 [KO:K05429]
+            3559  IL2RA; interleukin 2 receptor subunit alpha [KO:K05068]
+            3560  IL2RB; interleukin 2 receptor subunit beta [KO:K05069]
+            3561  IL2RG; interleukin 2 receptor subunit gamma [KO:K05070]
+            3718  JAK3; Janus kinase 3 [KO:K11218] [EC:2.7.10.2]
+            6776  STAT5A; signal transducer and activator of transcription 5A [KO:K11223]
+            6777  STAT5B; signal transducer and activator of transcription 5B [KO:K11224]
+            3565  IL4; interleukin 4 [KO:K05430]
+            3566  IL4R; interleukin 4 receptor [KO:K05071]
+            6778  STAT6; signal transducer and activator of transcription 6 [KO:K11225]
+            2625  GATA3; GATA binding protein 3 [KO:K17895]
+            3567  IL5; interleukin 5 [KO:K05428]
+            3596  IL13; interleukin 13 [KO:K05435]
+            4094  MAF; MAF bZIP transcription factor [KO:K09035]
+            182  JAG1; jagged canonical Notch ligand 1 [KO:K06052]
+            3714  JAG2; jagged canonical Notch ligand 2 [KO:K21635]
+            4851  NOTCH1; notch receptor 1 [KO:K02599]
+            4853  NOTCH2; notch receptor 2 [KO:K20994]
+COMPOUND    C00076  Calcium cation
+            C00165  Diacylglycerol
+            C01245  D-myo-Inositol 1,4,5-trisphosphate
+REFERENCE   PMID:19375293
+  AUTHORS   Amsen D, Spilianakis CG, Flavell RA
+  TITLE     How are T(H)1 and T(H)2 effector cells made?
+  JOURNAL   Curr Opin Immunol 21:153-60 (2009)
+            DOI:10.1016/j.coi.2009.03.010
+REFERENCE   PMID:22044277
+  AUTHORS   Knosp CA, Johnston JA
+  TITLE     Regulation of CD4+ T-cell polarization by suppressor of cytokine signalling proteins.
+  JOURNAL   Immunology 135:101-11 (2012)
+            DOI:10.1111/j.1365-2567.2011.03520.x
+REFERENCE   PMID:11752608
+  AUTHORS   Dong C, Flavell RA
+  TITLE     Control of T helper cell differentiation--in search of master genes.
+  JOURNAL   Sci STKE 2000:pe1 (2000)
+            DOI:10.1126/stke.2000.49.pe1
+REFERENCE   PMID:11121747
+  AUTHORS   O'Garra A, Arai N
+  TITLE     The molecular basis of T helper 1 and T helper 2 cell differentiation.
+  JOURNAL   Trends Cell Biol 10:542-50 (2000)
+            DOI:10.1016/S0962-8924(00)01856-0
+REFERENCE   PMID:23624818
+  AUTHORS   Hong CC, Yao S, McCann SE, Dolnick RY, Wallace PK, Gong Z, Quan L, Lee KP, Evans SS, Repasky EA, Edge SB, Ambrosone CB
+  TITLE     Pretreatment levels of circulating Th1 and Th2 cytokines, and their ratios, are associated with ER-negative and triple negative breast cancers.
+  JOURNAL   Breast Cancer Res Treat 139:477-88 (2013)
+            DOI:10.1007/s10549-013-2549-3
+REFERENCE   PMID:23405903
+  AUTHORS   Kolls JK
+  TITLE     CD4(+) T-cell subsets and host defense in the lung.
+  JOURNAL   Immunol Rev 252:156-63 (2013)
+            DOI:10.1111/imr.12030
+REFERENCE   PMID:20969597
+  AUTHORS   Zhu J, Paul WE
+  TITLE     Peripheral CD4+ T-cell differentiation regulated by networks of cytokines and transcription factors.
+  JOURNAL   Immunol Rev 238:247-62 (2010)
+            DOI:10.1111/j.1600-065X.2010.00951.x
+REFERENCE   PMID:19151746
+  AUTHORS   Wilson CB, Rowell E, Sekimata M
+  TITLE     Epigenetic control of T-helper-cell differentiation.
+  JOURNAL   Nat Rev Immunol 9:91-105 (2009)
+            DOI:10.1038/nri2487
+REFERENCE   PMID:15819694
+  AUTHORS   Callard RE, Yates AJ
+  TITLE     Immunology and mathematics: crossing the divide.
+  JOURNAL   Immunology 115:21-33 (2005)
+            DOI:10.1111/j.1365-2567.2005.02142.x
+REFERENCE   PMID:24113868
+  AUTHORS   Lazarevic V, Glimcher LH, Lord GM
+  TITLE     T-bet: a bridge between innate and adaptive immunity.
+  JOURNAL   Nat Rev Immunol 13:777-89 (2013)
+            DOI:10.1038/nri3536
+REFERENCE   PMID:12171942
+  AUTHORS   Weigmann B, Neurath MF
+  TITLE     T-bet and mucosal Th1 responses in the gastrointestinal tract.
+  JOURNAL   Gut 51:301-3 (2002)
+            DOI:10.1136/gut.51.3.301
+REFERENCE   PMID:19362457
+  AUTHORS   Adamson AS, Collins K, Laurence A, O'Shea JJ
+  TITLE     The Current STATus of lymphocyte signaling: new roles for old players.
+  JOURNAL   Curr Opin Immunol 21:161-6 (2009)
+            DOI:10.1016/j.coi.2009.03.013
+REFERENCE   PMID:20065998
+  AUTHORS   Zhu J
+  TITLE     Transcriptional regulation of Th2 cell differentiation.
+  JOURNAL   Immunol Cell Biol 88:244-9 (2010)
+            DOI:10.1038/icb.2009.114
+REFERENCE   PMID:26044597
+  AUTHORS   Zhu J
+  TITLE     T helper 2 (Th2) cell differentiation, type 2 innate lymphoid cell (ILC2) development and regulation of interleukin-4 (IL-4) and IL-13 production.
+  JOURNAL   Cytokine 75:14-24 (2015)
+            DOI:10.1016/j.cyto.2015.05.010
+REFERENCE   PMID:19151747
+  AUTHORS   Ho IC, Tai TS, Pai SY
+  TITLE     GATA3 and the T-cell lineage: essential functions before and after T-helper-2-cell differentiation.
+  JOURNAL   Nat Rev Immunol 9:125-35 (2009)
+            DOI:10.1038/nri2476
+REFERENCE   PMID:19165228
+  AUTHORS   Amsen D, Antov A, Flavell RA
+  TITLE     The different faces of Notch in T-helper-cell differentiation.
+  JOURNAL   Nat Rev Immunol 9:116-24 (2009)
+            DOI:10.1038/nri2488
+REFERENCE   PMID:23336087
+  AUTHORS   Pahan K, Mondal S
+  TITLE     Crosstalk between Nitric Oxide and T helper cells.
+  JOURNAL   J Clin Cell Immunol 3:e109 (2012)
+REFERENCE   PMID:22566933
+  AUTHORS   Schmidt A, Oberle N, Krammer PH
+  TITLE     Molecular mechanisms of treg-mediated T cell suppression.
+  JOURNAL   Front Immunol 3:51 (2012)
+            DOI:10.3389/fimmu.2012.00051
+REL_PATHWAY hsa04010  MAPK signaling pathway
+            hsa04020  Calcium signaling pathway
+            hsa04064  NF-kappa B signaling pathway
+            hsa04330  Notch signaling pathway
+            hsa04514  Cell adhesion molecules
+            hsa04630  JAK-STAT signaling pathway
+            hsa04660  T cell receptor signaling pathway
+KO_PATHWAY  ko04658
+///
