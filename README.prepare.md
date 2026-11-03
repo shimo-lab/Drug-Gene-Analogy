@@ -1,5 +1,13 @@
 # Preparation for experiments
 
+## Drug–gene relations
+
+Create `data/relation/human_KEGG_drug_names.tsv` from [ASURATDB](https://github.com/keita-iida/ASURATDB) (GPL-3.0, built from KEGG); R is required:
+
+```bash
+$ bash scripts/asuratdb/make_human_KEGG_drug_names.sh
+```
+
 ## Map gene IDs to gene names
 
 ```bash
@@ -21,10 +29,13 @@ $ python prepare_relation.py --embed homemade
 
 ## Pathways
 
-KEGG pathway data were pre-crawled in two steps
+KEGG pathway entries are not included. Download the 352 pathways used in the paper ([data/pathway/hsa_ids_paper.txt](data/pathway/hsa_ids_paper.txt)) via the KEGG REST API (`--all` for all current pathways):
 
-1. Get the list of all human pathway IDs: https://rest.kegg.jp/list/pathway/hsa .
-2. For every ID in that list, download its details (e.g., https://rest.kegg.jp/get/hsa04012 ) and save the TXT file.
+```bash
+$ python scripts/kegg/download_pathways.py
+```
+
+KEGG data are subject to the [KEGG terms of use](https://www.kegg.jp/kegg/legal.html) and are updated regularly; the pathway sets used in the paper are in [output/pathway/](output/pathway/).
 
 Convert the saved TXT files to JSON:
 
