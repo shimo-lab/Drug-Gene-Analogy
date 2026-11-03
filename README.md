@@ -42,7 +42,7 @@ Skip-gram embeddings trained on PubMed abstracts in 5-year windows from 1970 are
 
 See [README.prepare.md](README.prepare.md) for the full preprocessing pipeline.
 
-Pre-generated data are already placed in the [data/](data/) directory.
+Pre-generated data are placed in [data/](data/) and [output/](output/). KEGG pathway entries and drug–gene relations must be downloaded (see [README.prepare.md](README.prepare.md)).
 
 ## Code
 
@@ -109,6 +109,7 @@ $ python Fig4.py
 
 ## Reference
 
+- Kanehisa, M. & Goto, S. KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Res. (2000).
 - Chen et al. Bioconceptvec: Creating and evaluating literature-based biomedical concept embeddings on a large scale. PLoS Comput Biol. (2020).
 
 ## Appendix
@@ -125,7 +126,7 @@ Search-result rank by answer-set size:
 $ python FigS5.py
 ```
 
-Weighted correlations are computed with the [WeightedCorr](https://github.com/matthijsz/weightedcorr) repository.
+Weighted correlations are computed with [WeightedCorr](https://github.com/matthijsz/weightedcorr) (MIT).
 
 ## Citation
 
